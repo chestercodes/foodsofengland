@@ -30,6 +30,9 @@ module Data =
         try
             let posts, _ = SiteGenerator.Data.loadSiteData SiteGenerator.Paths.defaultConfig
             posts
+            |> Array.filter (fun post ->
+                post.FinalPath.EndsWith(".html", StringComparison.OrdinalIgnoreCase)
+            )
             |> Array.map (fun post ->
                 { Id = post.FinalPath.Replace(".html", "")
                   Title = post.Title
