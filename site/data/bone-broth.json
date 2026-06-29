@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922074010",
+  "finalPath": "bone-broth.html",
+  "heading": "Bone Broth",
+  "ingredients": [
+    "carrots",
+    "celery",
+    "oatmeal",
+    "onions",
+    "pepper",
+    "salt",
+    "thyme",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bone-broth.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 7. Broth made from Bones for Soup.\u003C/b\u003E\u003Cbr\u003E\nFresh bones are always to be purchased from butchers at about a farthing per pound; they must be broken up small, and put into a boiling-pot with a quart of water to every pound of bones; and being placed on the fire, the broth must be well skimmed, seasoned with pepper and salt, a few carrots, onions, turnips, celery, and thyme, and boiled very gently for six hours; it is then to be strained off, and put back into the pot, with any bits of meat or gristle which may have fallen from the bones (the bones left are still worth a farthing per pound, and can be sold to the bone-dealers). Let this broth be thickened with peasemeal or oatmeal, in the proportion of a large table-spoonful to every pint of broth, and stirred over the fire while boiling for twenty-five minutes, by which time the soup will be done. It will be apparent to all good housewives that, with a little trouble and good management, a savoury and substantial meal may thus be prepared for a mere trifle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Bone Broth",
+  "usedSnapshot": "20220516212244"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212015758",
+  "finalPath": "lemon-cheesecake.html",
+  "heading": "Lemon Cheesecake",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "cheese",
+    "eggs",
+    "lemon",
+    "pudding",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lemon-cheesecake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E225. To make LEMON CHEESE CAKES.\u003C/b\u003E\u003Cbr\u003E\nBlanch half a pound of almonds, and beat them in a stone mortar very fine, with a little rose-water; put in eight eggs, leaving out five of the whites; take three quarters of a pound of sugar, and three quarters of a pound of melted butter, beat all together, then take three lemon-skins, boiled tender, the rind and all, beat them very well, and mix them with the rest, then put them into your paste.\u003Cbr\u003E\nYou may make a lemon-pudding the same way, only add the juice of half a lemon: Before you set them in the oven, grate over them a little fine loaf sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Lemon Cheesecake",
+  "usedSnapshot": "20211020232156"
+}

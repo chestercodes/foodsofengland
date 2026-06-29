@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074414",
+  "finalPath": "buttermilk-scones.html",
+  "heading": "Buttermilk Scones",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Buttermilk Scones",
+  "usedSnapshot": "20211201042509"
+}

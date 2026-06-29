@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922092020",
+  "finalPath": "muskedines.html",
+  "heading": "Muskedines",
+  "ingredients": [
+    "beat",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "muskedines.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Muskedines called Rising Comfits or Kissing Comfits.\u003C/b\u003E\u003Cbr\u003E\nTake half a pound of refined sugar, being beaten and searsed, put into it two grains of musk, a grain of civet, two grains of ambergriese, and a thimble full of white orris powder, beat all these with gum-dragon steeped in rose-water; then roul it as thin as you can, and cut it into little lozenges with your iging-iron, and stow them in some warm oven or stove, then box them and keep them all the year.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Muskedines",
+  "usedSnapshot": "20180924035459"
+}

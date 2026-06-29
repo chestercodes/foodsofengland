@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20130324050547",
+  "finalPath": "boiled-bacon.html",
+  "heading": "Boiled Bacon",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "ham",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "boiled-bacon.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Bacon. (No. 13.)\u003Cbr\u003E\n\u003Cbr\u003E\nCover a pound of nice streaked bacon (as the Hampshire housewives say, that \u0022 has been starved one day, and fed Another\u0022) with cold water, let it boil gently for three-quarters of an hour; take it up, scrape the under-side well, and cut off the rind: grate a crust of bread not only on the top, but all Over it, as directed for the ham in the following receipt, and put it before the fire for a few minutes: it must not be there too long, or it will dry it and spoil it.\u003Cbr\u003E\n\u003Cbr\u003E\nTwo pounds will require about an hour and a half, according to its thickness; the hock or gammon being very thick, will take more. [...]\u003Cbr\u003E\n\u003Cbr\u003E\nThe boiling of bacon is a very simple subject to comment upon; but our main object is to teach common cooks the art of dressing common food in the best manner.\u003Cbr\u003E\n\u003Cbr\u003E\nBacon is sometimes as salt as salt can make it, therefore before it is boiled it must be soaked in warm water for an hour or two, changing the water once; then pare off the rusty and smoked part, trim it nicely on the under side, and scrape the rind as clean as possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Boiled Bacon",
+  "usedSnapshot": "20211020235739"
+}

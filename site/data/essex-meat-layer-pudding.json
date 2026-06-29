@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20130323203529",
+  "finalPath": "essex-meat-layer-pudding.html",
+  "heading": "Essex Meat Layer Pudding",
+  "ingredients": [
+    "beat",
+    "black pepper",
+    "butter",
+    "celery",
+    "chicken",
+    "chives",
+    "cream",
+    "double cream",
+    "egg",
+    "egg yolks",
+    "flour",
+    "herbs",
+    "onions",
+    "pastry",
+    "pepper",
+    "pork",
+    "pudding",
+    "salt",
+    "suet",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "essex-meat-layer-pudding.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.essextouristguide.com/Favourite_Essex_Recipes.asp\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EEssex Meat Layer Pudding -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: Suet Pastry: 6 oz. flour, \u00BC teaspoon salt, 3 oz. shredded suet, \u00BC cup cold water\u003Cbr\u003E\nFilling: 1 tablespoon butter, 2 medium sized onions (sliced),\u00BD lb. minced pork,\u00BD lb. minced veal or chicken, 1 teaspoon dried sage, \u00BC teaspoon dried oregano, 1 tablespoon chopped chives, \u00BC teaspoon black pepper,\u00BD teaspoon salt, \u00BC teaspoon celery salt, 1 tablespoon flour, 2 egg yolks, 2 tablespoons double cream\u003Cbr\u003E\n\u003Cbr\u003E\nPastry: sift flour and salt into Bowl and mix in suet. Add enough water to make a stiff dough. Wrap and put in refrigerator for 10 minutes. Meanwhile make filling. Fry onions in butter until soft and golden. Add meats, herbs, seasonings and flour; mix well, cook for 5 minutes then remove pan from heat. Beat together egg yolks and cream and add to meat mixture. Cook 5 minutes more. Butter 2\u00BD pint pudding basin. Roll out dough on a floured surface to \u00BC-inch thick. Cut small circle to fit bottom of basin and put in place. Spoon on layer of meat mixture (about 1\u00BD-inches deep) then add another circle of dough to fit and another layer of meat. Continue until filling and dough have been used up, finishing with layer of dough (3 layers of meat mixture). Ingredients will not fill basin, but need room for dough to expand. Cover basin with greaseproof paper and kitchen foil and steam for 4 hours. Turn out on to a plate and serve with vegetables.\u003Cbr\u003E\nServes 4.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Essex Meat Layer Pudding",
+  "usedSnapshot": "20200222061537"
+}

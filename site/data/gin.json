@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922073042",
+  "finalPath": "gin.html",
+  "heading": "Gin",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Whisky",
+      "relatedPageUrl": "whisky.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Gin and Tonic",
+      "relatedPageUrl": "gin-and-tonic.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Beech Gin",
+      "relatedPageUrl": "beech-gin.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Colchester Oysters",
+      "relatedPageUrl": "colchester-oysters.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Gooseberry Champagne",
+      "relatedPageUrl": "gooseberry-champagne.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Mahogany",
+      "relatedPageUrl": "mahogany.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Norfolk Punch",
+      "relatedPageUrl": "norfolk-punch.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pimm\u0027s No 1 Cup",
+      "relatedPageUrl": "pimm-s-no-1-cup.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Sloe Gin",
+      "relatedPageUrl": "sloe-gin.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gin",
+  "usedSnapshot": "20220905054210"
+}

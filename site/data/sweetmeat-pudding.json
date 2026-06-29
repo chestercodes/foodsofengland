@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20231206054658",
+  "finalPath": "sweetmeat-pudding.html",
+  "heading": "Sweetmeat Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "lemon",
+    "orange",
+    "pudding",
+    "sugar",
+    "jam",
+    "orange peel"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "sweetmeat-pudding.html-1",
+      "receiptSource": "Original Receipt from Eliza Smith\u0027s \u003Ci\u003E\u003Ca href=\u0022the-compleat-housewife-1739.html\u0022\u003E\u003Cb\u003E\u0027The Compleat Housewife\u0027\u003C/b\u003E\u003C/a\u003E\u003C/i\u003E (London 1727, 1739)",
+      "receiptText": "\u003Cb\u003ETo make a sweet-meat Pudding.\u003C/b\u003E\u003Cbr\u003E\nPUT a thin puff-paste at the bottom of your dish, then have of candied orange and lemon-peel, and citron, of each an ounce, slice them thin, and put them in the bottom on your paste; then beat eight yolks of eggs, and two whites, near half a pound of sugar, and half a pound of butter melted; mix and beat all well together, and when the oven is ready, pour it on your sweet-meats in the dish. An hour or less will bake it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sweetmeat-pudding.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022the-london-art-of-cookery-1811.html\u0022\u003E\u003Cb\u003E\u0027The London Art Of Cookery\u0027\u003C/b\u003E\u003C/a\u003E (1811)",
+      "receiptText": "Sweetmeat Pudding.\u003Cbr\u003E\n\u003Cbr\u003E\nCOVER the dish with,a thin puff paste, then take candied orange, lemon peel, and citron, of each an ounce. Slice them thin, and lay them all over the bottom of the dish. Then beat eight yolks of eggs and two whites, near half pound of \u0027sugar, and half a pound of melted butter. Beat all well together, pour in all the sweetmeats, and bake it something less than an hour in a moderately heated oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sweetmeat-pudding.html-3",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022pot-luck-british-home-cookery-1914.html\u0022\u003E\u003Cb\u003E\u003Ci\u003E\u0027Pot-Luck, British Home Cookery\u0027\u003C/i\u003E\u003C/b\u003E\u003C/a\u003E, 1914",
+      "receiptText": "526. SWEETMEAT PUDDING (Hertfordshire)\u003Cbr\u003E\n\u003Cbr\u003E\nMelt half a pound of butter in a jam-pot in a pan of hot water, add a quarter of a pound of sugar, beat well the yolks of eight eggs without the whites, add to the butter and sugar a quarter of a pound of candied lemon-peel, a quarter of a pound of candied orange peel, and a quarter of a pound of candied citron very finely chopped or shredded. Bake one and a half hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ESweet-meat pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Sweetmeat Pudding",
+  "usedSnapshot": "20231206054658"
+}

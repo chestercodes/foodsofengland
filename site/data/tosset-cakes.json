@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140123173821",
+  "finalPath": "tosset-cakes.html",
+  "heading": "Tosset Cakes",
+  "ingredients": [
+    "butter",
+    "caraway seeds",
+    "caster sugar",
+    "coriander",
+    "coriander seeds",
+    "flour",
+    "icing sugar",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tosset-cakes.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022http://www.thelancashiremagazine.co.uk/\u0022\u003E\u003Cb\u003ELancashire Magazine\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "Up until the First World War, this whole area (Stalmine) celebrated an event known as the Tosset Feast. The day was celebrated in some style with the likes of wrestling and horse racing \u2013 and everyone ate Tosset Cakes.\u003Cbr\u003E\n\u003Cbr\u003E\nThis feast undoubtedly went back centuries to an old Wakes Day. Wakes Days were holy days when the rushes covering the earth floors of churches were renewed with great ceremony. This was done on the Saint\u2019s Day applicable to the church and, since holy days were effectively holidays, the wise dedicated their church to a saint whose Day occurred in summer.\u003Cbr\u003E\n\u003Cbr\u003E\nStalmine\u2019s church \u2013 the roots of which go back to Norman times - was dedicated to St. Oswald. St. Oswald\u2019s Day is August 5th so why were the celebrations held around that date called the Tosset Feast? The answer is simple, or so they say - St. Oswald\u2019s Feast... T\u2019Oswald Feast... Tosset Feast.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ERecipe\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EIngredients:\u003C/i\u003E Tosset Cakes:\u003Cbr\u003E\n1lb (450g) of plain flour,\u003Cbr\u003E\n1lb (450g) of butter,\u003Cbr\u003E\n4 oz (110g) of caster sugar,\u003Cbr\u003E\n1 teaspoonful (5 ml) of caraway seeds and 1 teaspoonful (5 ml) of coriander seeds.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod:\u003C/i\u003E Sieve the flour and sugar into a bowl, rub in the butter, add the seeds and mix well to form smooth dough. (In Tosset Cakes the seeds are usually crushed before being added to the other ingredients.) Leave the dough in a cool place overnight. Then roll this out to about \u00BC\u201D (6 mm) thick. Using a cutter or glass, cut out rounds of about 2\u201D (50mm) diameter. Place these on a floured baking board and sprinkle with caster sugar. Bake in a pre-heated oven at 350 \u00BAF/180 \u00BAC/Gas Mark 4. Do not allow them to brown; they are baked when just firm to the touch \u2013 which should take 15 to 20 minutes. Allow them to cool and then thickly cover them with icing sugar.\u003Cbr\u003E\nWhen your work is done, put the cakes in an airtight container and store them away from your partner and any children!\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWinster Wakes Cakes\u003C/b\u003E",
+      "relatedPageUrl": "winster-wakes-cake.html",
+      "relationDescription": "For a list of northern Wakes Day traditions, see the end of the "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tosset Cakes",
+  "usedSnapshot": "20220807222943"
+}

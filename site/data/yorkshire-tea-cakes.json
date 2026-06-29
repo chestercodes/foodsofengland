@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20150922073747",
+  "finalPath": "yorkshire-tea-cakes.html",
+  "heading": "Yorkshire Tea Cakes",
+  "ingredients": [
+    "butter",
+    "cream",
+    "egg",
+    "flour",
+    "tea",
+    "yeast",
+    "beat",
+    "milk",
+    "sugar",
+    "eggs",
+    "jam",
+    "rice",
+    "self-raising flour"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-tea-cakes.html-1",
+      "receiptSource": "Original Receipt from Beeton\u0027s \u0027\u003Ci\u003EThe Young Englishwoman\u003C/i\u003E\u0027 of 1867",
+      "receiptText": "\u003Cb\u003EYorkshire Tea Cakes\u003C/b\u003E - A little thin cream warmed, add a lump of butter and an egg and a few spoonsful of yeast, mix all with sufficient flour to make a light dough, let it stand to rise, roll into round cakes, let them rise before the fire on tins and bake a light brown. Split, butter and serve hot\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yorkshire-tea-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EYorkshire Teacakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients--\u003Cbr\u003E\n1 lb. of flour.\u003Cbr\u003E\n1 gill of milk.\u003Cbr\u003E\n1 oz. of butter.\u003Cbr\u003E\n1 egg.\u003Cbr\u003E\noz. of German yeast.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod.--Put the flour into a basin, and rub the butter into it.\u003Cbr\u003E\nMake the milk tepid, and blend it with the yeast.\u003Cbr\u003E\nStrain it into the flour.\u003Cbr\u003E\nAdd the egg.\u003Cbr\u003E\nBeat all well together for a few minutes.\u003Cbr\u003E\nKnead lightly.\u003Cbr\u003E\nThen divide the dough in two.\u003Cbr\u003E\nMake each part into a ball, and put them in floured cake-tins.\u003Cbr\u003E\nPut the cakes in a warm place to rise for one hour, and then bake them for about twenty minutes.\u003Cbr\u003E\nBrush them over with a syrup of sugar and water to glaze them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yorkshire-tea-cakes.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E13. - Sally Luns, Yorkshire, or Tea Cakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake 1 quart of milk, 14 lb. of moist sugar, and 2 ozs. of German yeast. Ferment this with a little flour, and when ready, add 12 lb. of butter (some add also 4 eggs to this quantity) and make into dough as for tea-cakes; butter some rings or hoops, and place them on buttered tins, weigh or divide into 5 or 6 ozs. for two pence; mould them round, put them in the hoops, and, when half proved, make a hole in each with a piece of stick. Do not overprove them, or they will eat poor and dry. When baked, which will be in about ten or fifteen minutes, wash over the top with egg and milk.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yorkshire-tea-cakes.html-4",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPaper-Bag Cookery\u003C/i\u003E\u0027 by Vera, Countess Serkoff, London 1911",
+      "receiptText": "\u003Cb\u003EYORKSHIRE TEA-CAKES.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCream the white of one egg in as much butter and sugar together; beat into the white of the egg as much ground rice and self-raising flour; mix to a light dough with one tablespoonful of milk. Butter two plates, spread over the mixtures, put each plate into a \u0022Papakuk\u0022 bag, cook fifteen minutes, spread one cake with warmed jam, put the other on the top, and serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Yorkshire Tea Cakes",
+  "usedSnapshot": "20220129105717"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140212025014",
+  "finalPath": "quince-and-apple-pie.html",
+  "heading": "Quince and Apple Pie",
+  "ingredients": [
+    "apple",
+    "butter",
+    "egg",
+    "lemon",
+    "quince",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "quince-and-apple-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E1329 APPLE TART WITH QUINCE\u003C/b\u003E\u003Cbr\u003E\nPeel the apples remove the cores, cut them in slices or quarters, and arrange them neatly in the pie dish, then add the quince which must be previously sliced up very thin and stewed in a small stew pan over a slow fire with a little water, sugar and a small piece of butter, add sufficient pounded sugar to sweeten the quantity of apples the tart may contain, and strew some zest of lemon (ie. the rind rubbed on sugar and then scraped off) over the top. Cover the tart with puff paste first placing a band of the same round the edge of the dish, scollop it round the edges by pressing them with the back of a knife, egg the tart over, then ornament the top by drawing out some fanciful design with the point of a knife, and bake it of a light colour, when done shake some sugar upon it and use the red hot salamander to glaze it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Quince and Apple Pie",
+  "usedSnapshot": "20220527222504"
+}

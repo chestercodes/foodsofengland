@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922072714",
+  "finalPath": "burnley-broth.html",
+  "heading": "Burnley Broth",
+  "ingredients": [
+    "barley",
+    "dumplings",
+    "ham",
+    "peas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "burnley-broth.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://visitburnley.com/taste-burnley/recipes-2/\u0022\u003E\u003Cb\u003Ewww.visitburnley.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBurnley Broth\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nAn old newspaper describes Burnley Broth as containing:\u003Cbr\u003E\n\u003Cbr\u003E\nGreens\u003Cbr\u003E\nPeas\u003Cbr\u003E\nBarley\u003Cbr\u003E\nDumplings\u003Cbr\u003E\nFive or six pounds of flat rib\u003Cbr\u003E\nA ham shank or two\u003Cbr\u003E\n\u003Cbr\u003E\nA reminder that families were once very large and earnings were small, then the broth pot was a welcome means of warmth and sustenance.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Burnley Broth",
+  "usedSnapshot": "20220516221700"
+}

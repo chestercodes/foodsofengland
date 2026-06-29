@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922072327",
+  "finalPath": "newcastle-bread.html",
+  "heading": "Newcastle Bread",
+  "ingredients": [
+    "beer",
+    "bread",
+    "carraway seeds",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "newcastle-bread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Bread-Book for Domestic use, adapted to families of every grade\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1857\u0022\u003E\u003Cb\u003EActon 1857\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBROWN CARRAWAY or NEWCASTLE BREAD\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis may be made either with wheaten meal or with two parts of flour and one of sharps or middlings. With the addition of a little sugar it will resemble a common cake and will usually be very acceptable to children to many of whom it will also be suitable and wholesome. Put rather less than the usual quantity of salt into a quartern of meal or of meal and flour or of flour and sharps mixed and stir well into it three ounces of fresh whole carraway seeds or two ounces which have been ground. When they are properly mingled proceed to make the dough with full three quarters of an ounce of German yeast or a large tablespoonful of purified beer yeast and as much skimmed milk or new milk and water as will render it moderately firm. Less than a pint and a half of liquid will be needed for it when any portion of sugar is added as this has always a softening effect in paste. It must be left to rise and be kneaded down at the proper time like other bread. About two hours altogether will fit it for the oven sometimes rather less. Precise directions for the general management of dough do not need repetition with each receipt here as they are so fully given at the commencement of this part of the book that they ought to be sufficient guide without.\u003Cbr\u003E\nObs: In Germany aniseed is commonly mixed with bread. Indeed it is sometimes quite difficult to procure any that is free from it, and it is very distasteful to some eaters when flavoured with it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Caraway Bread"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1857"
+    }
+  ],
+  "title": "Newcastle Bread",
+  "usedSnapshot": "20220527055706"
+}

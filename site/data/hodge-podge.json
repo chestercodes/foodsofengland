@@ -1,0 +1,80 @@
+﻿{
+  "earliestSnapshot": "20131217113120",
+  "finalPath": "hodge-podge.html",
+  "heading": "Hodge Podge",
+  "ingredients": [
+    "beef",
+    "cabbage",
+    "carrots",
+    "herbs",
+    "mutton",
+    "onions",
+    "veal",
+    "lettuce",
+    "parsley",
+    "peas",
+    "turnips",
+    "carrot",
+    "green peas",
+    "lettuces",
+    "pepper",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "hodge-podge.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO MAKE AN HOTCHPOT\u003C/b\u003E\u003Cbr\u003E\nTake a piece of Brisket-beef; a piece of Mutton; a knuckle of Veal; a good Colander of pot-herbs; half minced Carrots, Onions and Cabbage a little broken. Boil all these together until they be very thick.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EANOTHER HOTCHPOT\u003C/b\u003E\u003Cbr\u003E\nTake a Pot of two Gallons or more; and take a brisket rand of Beef; any piece of Mutton, and a piece of Veal; put this with sufficient water into the pot, and after it hath boiled, and been skimmed, put in a great Colander full of ordinary pot-herbs; a piece of Cabbage, all half cut; a good quantity of Onions whole, six Carrots cut and sliced, and two or three Pippins quartered. Let this boil three hours until it be almost a gelly, and stir it often, least it burn.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hodge-podge.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Lady\u2019s Own Cookery Book, and New Dinner-Table Directory\u003C/i\u003E\u0027 of 1844",
+      "receiptText": "\u003Cb\u003E\u003Ci\u003EHodge-Podge.\u003C/i\u003E\u003C/b\u003E\u003Cbr\u003E\nStew a scrag of mutton: put in a peck of peas, a bunch of turnips cut small, a few carrots, onions, lettuce, and some parsley. When sufficiently boiled add a few mutton chops, which must stew gently till done.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hodge-podge.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E25. Simplified Hodge-Podge\u003C/b\u003E. - Cut two pounds of fresh scrag of mutton into small pieces, which put into a stewpan, with three quarts of cold water, and a tablespoonful of salt, one ditto of sugar, half a ditto of pepper; set it on the fire; when boiling, place it at the side to simmer for one hour; keep it skimmed; well wash a large carrot, two turnips, two onions, and six small cabbage lettuces; cut them up, and place in the pot, and simmer till done. A pint of green peas, if in season, may be added. A carrot grated is an improvement. If in winter, use cabbage instead of lettuce. Serve the meat with it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EHodge-Podge, Hotchpot, Hotchepot\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Hodge Podge",
+  "usedSnapshot": "20200212195306"
+}

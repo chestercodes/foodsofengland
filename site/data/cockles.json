@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140616082109",
+  "finalPath": "cockles.html",
+  "heading": "Cockles",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Amblet of Cockles",
+      "relatedPageUrl": "amblet-of-cockles.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cockle Cakes",
+      "relatedPageUrl": "cockle-cakes.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cockle Ketchup",
+      "relatedPageUrl": "cockle-ketchup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cockle Soup",
+      "relatedPageUrl": "cockle-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cockles",
+      "relatedPageUrl": "cockles.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cockles and Bacon",
+      "relatedPageUrl": "cockles-and-bacon.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Mutton with Cockles",
+      "relatedPageUrl": "mutton-with-cockles.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Pickled Cockles",
+      "relatedPageUrl": "pickled-cockles.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stiffkey Blues",
+      "relatedPageUrl": "stiffkey-blues.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": "\u003Cb\u003ECokeles\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cockles",
+  "usedSnapshot": "20211207123815"
+}

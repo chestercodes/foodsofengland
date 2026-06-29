@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922081829",
+  "finalPath": "lady-holmeby-s-mustard.html",
+  "heading": "Lady Holmeby\u0027s Mustard",
+  "ingredients": [
+    "beat",
+    "bread",
+    "mustard",
+    "sherry",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lady-holmeby-s-mustard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "My Lady Holmeby makes her quick fine Mustard thus: Choose true Mustard-seed; dry it in an oven, after the bread is out. Beat and searse it to a most subtle powder. Mingle Sherry-sack with it (stirring it a long time very well, so much as to have it of a fit consistence for Mustard. Then put a good quantity of fine Sugar to it, as five or six spoonfuls, or more, to a pint of Mustard. Stir and incorporate all well together. This will keep good a long time. Some do like to put to it a little (but a little) of very sharp Wine-vinegar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Lady Holmeby\u0027s Mustard",
+  "usedSnapshot": "20211021014847"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922090457",
+  "finalPath": "caramels.html",
+  "heading": "Caramels",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nott-1723"
+    }
+  ],
+  "title": "Caramels",
+  "usedSnapshot": "20220819111256"
+}

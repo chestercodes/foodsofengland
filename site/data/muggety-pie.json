@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922132759",
+  "finalPath": "muggety-pie.html",
+  "heading": "Muggety Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cinnamon",
+    "cream",
+    "currants",
+    "dates",
+    "eggs",
+    "ginger",
+    "pepper",
+    "puddings",
+    "salt",
+    "sheeps",
+    "spinage",
+    "strawberry",
+    "strawberry leaves",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "muggety-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPuddings of a Calves Mugget\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake Calves Mugget, clean and sweet drest, and boyl it well; then shred it as small as is possible; then take of Strawberry leaves, of Endive, Spinage, Succory, and Sarnel, of each a pretty quantity, and chop them as small as is possible, and then mix them with the Mugget, then take the yolks of half a dozen Eggs and three whites, and beat them into it also; and if you find it is too stiff, then make it thinner with a little Cream warmed on the fire, then put in a little Pepper, Cloves, Mace, Cinnamon, Ginger, Sugar, Currants, Dates, and Salt, and work all together, with casting in little pieces of sweet Butter one after another, till it have received good store of Butter, then put it up in the Calves-bag, Sheeps-bag, or Hogs-bag, and then boyl it well, and so serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EMugget\u003C/b\u003E or \u003Cb\u003EMugwet\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Muggety Pie",
+  "usedSnapshot": "20220808020522"
+}

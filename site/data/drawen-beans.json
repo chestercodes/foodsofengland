@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150524213755",
+  "finalPath": "drawen-beans.html",
+  "heading": "Drawen Beans",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "drawen-beans.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "FOR TO MAKE DRAWEN BENES.\u003Cbr\u003E\nTake benes and see\u00FE hem and grynde hem in a morter [1] and drawe hem up [2] with gode broth an do Oynouns in the broth grete mynced [3] an do \u00FEerto and colour it with Safroun and serve it forth.\u003Cbr\u003E\n\u003Cbr\u003E\n[1] morter. Mortar. [2] drawen hem up. Mix them. [3] grete mynced. Grossly, not too small.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Drawen Beans",
+  "usedSnapshot": "20220104191632"
+}

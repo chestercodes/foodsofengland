@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922074328",
+  "finalPath": "sloe-gin.html",
+  "heading": "Sloe Gin",
+  "ingredients": [
+    "almonds",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sloe-gin.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "1064. SLOE GIN (Essex)\u003Cbr\u003E\n\u003Cbr\u003E\nInto one quart of best gin put one and a half pints of ripe sloes (some of them bruised), threequarters of a pound of loaf sugar, and half an ounce of bitter almonds (blanched and split). Cover the vessel containing the cordial closely, and leave it six months, stirring the contents occasionally, then strain off the liquor and bottle for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Sloe Gin",
+  "usedSnapshot": "20220527222521"
+}

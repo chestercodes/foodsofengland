@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922081038",
+  "finalPath": "glazed-carrots-or-onions.html",
+  "heading": "Glazed Carrots or Onions",
+  "ingredients": [
+    "butter",
+    "carrots",
+    "onions",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "glazed-carrots-or-onions.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1867\u0022\u003E\u003Cb\u003EFrancatelli 1867\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "No 104 GLAZED ONIONS\u003Cbr\u003E\nPeel any given number of onions of the most convenient size for the required purpose, and having placed these in a proper sized sautapan or stewpan add a bit of butter four lumps of sugar a little salt and just as much good stock as will cover the surface of the onions. Next set the stewpan containing the onions over a moderate fire to boil very gently until they are done and then after running down their stock to a glaze roll the onions gently in this and serve as directed.\u003Cbr\u003E\n\u003Cbr\u003E\nNo 105 GLAZED CARROTS\u003Cbr\u003E\nFirst cleanse and then cut or scoop these into any shape or size or form according to taste or fancy and having cooked them in the manner directed for glazed onions proceed to finish them in the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1867"
+    }
+  ],
+  "title": "Glazed Carrots or Onions",
+  "usedSnapshot": "20211021020908"
+}

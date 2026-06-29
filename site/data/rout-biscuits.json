@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140508120954",
+  "finalPath": "rout-biscuits.html",
+  "heading": "Rout Biscuits",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "eggs",
+    "flour",
+    "lemon",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rout-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Modern Housewife, or Menagere\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1850\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E867. Rout Biscuits\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBoil a pound and a quarter of lump sugar, upon which you have rubbed the rind of a lemon, in half a pint of milk; when cold, rub half a pound of butter with two pounds of flour, make a hole in the centre, pour in the milk with as much carbonate of soda as would he upon a sixpence, and a couple of eggs, mix the whole into a smooth paste, lay it out upon your baking-sheet in whatever flat shapes you please, and bake them in a very warm oven.\u003Cbr\u003E\n\u003Cbr\u003E\nThe proper way to shape these biscuits is by wooden blocks having leaves, pine-apples, and other devices carved upon them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Rout Biscuits",
+  "usedSnapshot": "20211021015541"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922091845",
+  "finalPath": "liver-and-parsley-sauce.html",
+  "heading": "Liver and Parsley Sauce",
+  "ingredients": [
+    "butter",
+    "liver",
+    "parsley",
+    "rabbit",
+    "salt",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "liver-and-parsley-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ELIVER AND PARSLEY SAUCE.\u003C/b\u003E Wash the fresh liver of a fowl or rabbit, and boil it five minutes in a quarter of a pint of water. Chop it fine, or pound or bruise it in a little of the liquor it was boiled in, and rub it through a sieve. Wash about one third the bulk of parsley leaves, put them into boiling water, with a tea-spoonful of salt, and let them boil. Then lay the parsley on a hair sieve, mince it very fine, and mix it with the liver. Warm up the sauce in a quarter of a pint of melted butter, but do not let it boil.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Liver and Bacon",
+      "relatedPageUrl": "liver-and-bacon.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Liver and Parsley Sauce",
+  "usedSnapshot": "20220819114235"
+}

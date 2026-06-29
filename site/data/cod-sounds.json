@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140616082117",
+  "finalPath": "cod-sounds.html",
+  "heading": "Cod Sounds",
+  "ingredients": [
+    "cod",
+    "egg",
+    "eggs",
+    "salt",
+    "parsley"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cod-sounds.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E222. To dress COD\u0027S ZOONS.\u003C/b\u003E\u003Cbr\u003E\nLie them in water all night, and then boil them, if they be salt shift them once in the boiling, when they are tender cut them in long pieces, dress them up with eggs as you do salt fish, take one or two of them and cut into square pieces, dip them in egg and fry them to lay round your dish.\u003Cbr\u003E\nIt is proper to lie about any other dish.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cod-sounds.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO FRY CODS\u0027 SOUNDS IN BATTER.\u003C/b\u003E\u003Cbr\u003E\nBoil them as directed above until they are nearly done, then lift them out, lay them on to a drainer, and let them remain till they are cold; cut them across in strips of an inch deep, curl them round, dip them into a good French or English batter, fry them of a fine pale brown, drain and dry them well, dish them on a hot napkin, and garnish them with crisped parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECod\u0027s Head\u003C/b\u003E",
+      "relatedPageUrl": "cod-s-head-and-shoulders.html",
+      "relationDescription": "See also; "
+    }
+  ],
+  "synonym": "\u003Cb\u003Ecodsounds\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Cod Sounds",
+  "usedSnapshot": "20220706164309"
+}

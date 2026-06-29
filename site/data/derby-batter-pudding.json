@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150809132541",
+  "finalPath": "derby-batter-pudding.html",
+  "heading": "Derby Batter Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Batter and Fruit Pudding",
+      "relatedPageUrl": "batter-and-fruit-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Cherry Batter Pudding",
+      "relatedPageUrl": "cherry-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Derby Batter Pudding",
+      "relatedPageUrl": "derby-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Duffield Pudding",
+      "relatedPageUrl": "duffield-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Kentish Fruit Batter",
+      "relatedPageUrl": "kentish-fruit-batter.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tasty Batter Pudding",
+      "relatedPageUrl": "tasty-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tewkesbury Saucer Batters",
+      "relatedPageUrl": "tewkesbury-saucer-batters.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Derby Batter Pudding",
+  "usedSnapshot": "20211019190525"
+}

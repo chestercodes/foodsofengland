@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922100413",
+  "finalPath": "buxton-pudding.html",
+  "heading": "Buxton Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "jam",
+    "lemon",
+    "milk",
+    "pudding",
+    "sugar",
+    "breadcrumbs",
+    "cream",
+    "pastry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "buxton-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Dundee Courier\u003C/i\u003E\u0027 - Saturday 14 January 1939",
+      "receiptText": "\u003Cb\u003EBuxton Pudding\u003C/b\u003E\u003Cbr\u003E\nThis is a lovely pudding for serving with any kind of stewed or tinned fruit, jam, thickened fruit juices, or any sweet sauce. Mix 2 oz. flour with 1 pint milk and boil till thick. Let it cool, then stir in 3 oz. butter, 6 oz. sugar, three well-beaten eggs, and the grated rind of one lemon. Pour into buttered dish, and bake for 2-hour a moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "buxton-pudding.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.peaklandheritage.org.uk/index.asp?peakkey=10600321\u0022\u003E\u003Cb\u003Ewww.peaklandheritage.org.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBuxton Pudding\u003C/b\u003E\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\nMatch their weight in each of breadcrumbs, sugar and butter\u003Cbr\u003E\nAn oven-proof dish\u003Cbr\u003E\n\u003Cbr\u003E\nCream the butter on its own then add the other ingredients including the beaten eggs. Put a layer of jam in the bottom of the dish. Line the sides with pastry and pour the mixture over the jam. Bake in a moderate oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Buxton Pudding",
+  "usedSnapshot": "20211207110037"
+}

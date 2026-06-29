@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922073328",
+  "finalPath": "crayfish-and-bacon.html",
+  "heading": "Crayfish and Bacon",
+  "ingredients": [
+    "bacon",
+    "fat",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "crayfish-and-bacon.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.greenchronicle.com/regional_recipes/\u0022\u003E\u003Cb\u003Ewww.greenchronicle.com/regional_recipes/\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients\u003Cbr\u003E\n3 fresh crayfish boiled\u003Cbr\u003E\n6 pieces of buttered toast\u003Cbr\u003E\na little seasoning\u003Cbr\u003E\n6 rashers of bacon\u003Cbr\u003E\n(see measure conversions for more information)\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\n- Cut the bacon into small pieces and fry gently in a frying pan.\u003Cbr\u003E\n- Cut up crayfish into small pieces and add to the bacon when there is enough fat in the pan for them not to stick.\u003Cbr\u003E\n- Fry for a few minutes, season, and spoon mixture onto the buttered toast."
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Warwickshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Crayfish and Bacon",
+  "usedSnapshot": "20211129122355"
+}

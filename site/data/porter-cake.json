@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073905",
+  "finalPath": "porter-cake.html",
+  "heading": "Porter Cake",
+  "ingredients": [
+    "baking soda",
+    "beat",
+    "brown sugar",
+    "butter",
+    "eggs",
+    "flour",
+    "lemon",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "porter-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EBelfast News-Letter\u003C/i\u003E\u0027 - Saturday 08 November 1924",
+      "receiptText": "[ \u00BC \u003Ci\u003Eteacupful\u003C/i\u003E of salt? Perhaps a misprint for \u0027teaspoon\u0027 - Ed.]\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EPorter Cake.\u003C/b\u003E\u003Cbr\u003E\nIngredients-1lb. flour, \u00BE lb. brown sugar, rind of 1 lemon, 1 small teaspoonful baking soda, 4 eggs, teaspoonfuls mixed spice, 2 to 2 \u00BD lbs. mixed fruit, 1lb. butter, \u00BC teacupful salt, 1 small bottle porter.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod-\u003Cbr\u003E\nSift the flour, salt, and spice together, cut and rub in the butter, add the sugar, grated rind, and prepared fruit. Heat the porter slightly, pour the beaten eggs, and mix into the dry ingredients. Then beat all for 15 minutes. Dissolve the soda a little of the porter, which can be kept back for the purpose, stir in just before putting the mixture into the tins. Bake in a slow oven for about three hours. This cake, although much plainer than the preceding, is excellent, and will keep a month to six weeks.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Porter Cake",
+  "usedSnapshot": "20220705085432"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922071840",
+  "finalPath": "pea-and-ham-soup.html",
+  "heading": "Pea and Ham Soup",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "butter",
+    "cabbage",
+    "carrots",
+    "celery",
+    "gravy",
+    "green peas",
+    "ham",
+    "lettuce",
+    "mint",
+    "peas",
+    "spinach",
+    "sugar",
+    "turnip",
+    "veal",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pea-and-ham-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E163. GREEN PEAS SOUP (Eighteenth Century)\u003C/b\u003E\u003Cbr\u003E\nShell a peck of peas and boil them in spring water till they are soft, then work them through a hair sieve; take the water that your peas are boiled in, and put in a knuckle of veal, three slices of ham, and two carrots, a turnip, and a few beet leaves shred small, and add a little more water to the meat; set it over the fire, and let it boil one hour and a half; then strain the gravy into a bowl, and mix it with the pulp, and put in it a little juice of spinach, which must be beaten and squeezed through a cloth; put in as much as will make it look a pretty colour, then give it a gentle boil, which will take off the taste of the spinach; slice in the whitest part of a head of celery, put in a lump of sugar the size of a walnut. Take a slice of bread, and cut it in little pieces, cut a little bacon the same way, fry them a light brown in fresh butter; cut a large cabbage lettuce in slices, fry it after the other, put it in the tureen with the fried bread and bacon. Have ready boiled, as for eating, a pint of young peas, and put them in the soup, with a little chopped mint if you like it, and pour it into your tureen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Pea and Ham Soup",
+  "usedSnapshot": "20210518210742"
+}

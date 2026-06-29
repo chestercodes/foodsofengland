@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20170713202438",
+  "finalPath": "about.html",
+  "heading": "About ...",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "About ...",
+  "usedSnapshot": "20220705095658"
+}

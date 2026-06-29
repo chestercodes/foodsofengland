@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922072127",
+  "finalPath": "herb-soup.html",
+  "heading": "Herb Soup",
+  "ingredients": [
+    "asparagus",
+    "bread",
+    "butter",
+    "eggs",
+    "herbs",
+    "leeks",
+    "lettuce",
+    "salt",
+    "spinage"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "herb-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Foundation for Herb Soups.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a quantity of good Herbs, such as Cherville, Spinage, Sallery, Leeks, Beet-Cards, and such like, with two or three large Crusts of Bread, some Butter, a bunch of sweet Herbs, and a little Salt; put these, with a moderate quantity of Water, into a Kettle, and boil them an hour and half, and strain off the Liquor thro\u0027 a Sieve, and it will be a good Foundation for Soups, either of Asparagus Buds, Lettuce, or any other kind, fit for Lent or Fast-days. These Herb Soups are sometimes strengthened with two or three Yolks of Eggs, a little before they are serv\u0027d to the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Herb Soup",
+  "usedSnapshot": "20220516214244"
+}

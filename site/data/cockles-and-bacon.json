@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20140616080635",
+  "finalPath": "cockles-and-bacon.html",
+  "heading": "Cockles and Bacon",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cockles and Bacon",
+  "usedSnapshot": "20211201003641"
+}

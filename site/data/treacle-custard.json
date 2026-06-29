@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212031103",
+  "finalPath": "treacle-custard.html",
+  "heading": "Treacle Custard",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "custard",
+    "double cream",
+    "egg",
+    "golden syrup",
+    "lemon",
+    "pastry",
+    "shortcrust pastry",
+    "treacle",
+    "unsalted butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "treacle-custard.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Treacle%20Custard\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "NORFOLK TREACLE CUSTARD\u003Cbr\u003E\n\u003Cbr\u003E\n8oz shortcrust pastry\u003Cbr\u003E\n4oz golden syrup\u003Cbr\u003E\n1oz unsalted butter\u003Cbr\u003E\ngrated rind of 1 lemon\u003Cbr\u003E\n3 tablespoons of double cream\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out the pastry and use it to line a 7-inch round tin. Prick the base lightly and bake at 200\u00B0C/Gas Mark 6 for 15 minutes. Reduce the oven temperature to 180\u00B0C/Gas Mark 4. Warm the syrup until just runny. Take off the heat and stir in the butter and lemon rind. Beat the cream and egg together lightly and mix into the syrup. Pour into the pastry case and bake for 30 minutes. Serve warm with cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Treacle"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Treacle Custard",
+  "usedSnapshot": "20211207113557"
+}

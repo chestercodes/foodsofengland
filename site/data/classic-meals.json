@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20121024084646",
+  "finalPath": "classic-meals.html",
+  "heading": "Classic Meals",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Classic Meals",
+  "usedSnapshot": "20220928232405"
+}

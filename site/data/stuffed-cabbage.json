@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20231201030811",
+  "finalPath": "stuffed-cabbage.html",
+  "heading": "Stuffed Cabbage",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stuffed-cabbage.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E) \u003Cb\u003E233. STUFFED CABBAGES (Middlesex)\u003C/b\u003E Take two good-sized cabbages, soak them for twenty minutes in scalding water and salt, then dip them in cold water, take out a portion of the centre, fill it with chopped veal and fat bacon seasoned with salt, pepper, and other spices, and made into a stuffing with eight yolks of eggs : then tie up the cabbage to keep in the stuffing. Put at the bottom of a saucepan some shoes of bacon, carrots, onions, and sweet herbs : over which place the cabbages, moistening them from time to time with good stock. Let the whole stew over a slow fire for at least an hour and a half, after which drain the cabbages, press them a little, and serve them up, without the herbs with which they have been cooked, with Espagnole, or any other such sauce. Remove the strings before serving.",
+      "receiptText": ""
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Stuffed Cabbage",
+  "usedSnapshot": "20231201030811"
+}

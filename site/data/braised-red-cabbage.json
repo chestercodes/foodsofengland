@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922085237",
+  "finalPath": "braised-red-cabbage.html",
+  "heading": "Braised Red Cabbage",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "cabbage",
+    "cabbages",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "braised-red-cabbage.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 213. HOW TO STEW RED CABBAGES.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThe use of the red cabbage in this country is confined to its being pickled almost raw, and eaten in that detestable and injurious state, whereby its anti-scorbutic powers are annulled.\u003Cbr\u003E\n\u003Cbr\u003E\nThe red cabbage, when merely boiled with bacon, or with a little butter and salt, is both nutritious and beneficial in a medicinal point of view, inasmuch as that it possesses great virtue in all scorbutic and dartrous affections. On the Continent it is customary to administer it in such cases in the form of a syrup, and also in a gelatinized state. The red cabbage, stewed in the following manner, will be found a very tasty dish:--Slice up the red cabbage rather thin, wash it well, drain it, and then put it into a saucepan with a little dripping or butter, a gill of vinegar, pepper and salt; put the lid on, and set the cabbage to stew slowly on the hob, stirring it occasionally from the bottom to prevent it from burning; about an hour\u0027s gentle stewing will suffice to cook it thoroughly. All kinds of cabbage or kail are anti-scorbutic agents.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Braised Red Cabbage",
+  "usedSnapshot": "20170314025156"
+}

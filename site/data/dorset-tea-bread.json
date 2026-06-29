@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922073124",
+  "finalPath": "dorset-tea-bread.html",
+  "heading": "Dorset Tea Bread",
+  "ingredients": [
+    "bread",
+    "brown sugar",
+    "butter",
+    "cinnamon",
+    "dried fruit",
+    "eggs",
+    "flour",
+    "self-raising flour",
+    "soft brown sugar",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dorset-tea-bread.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Dorset%20Tea%20Bread\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDorset Tea Bread\u003C/b\u003E\u003Cbr\u003E\n1 cup freshly brewed black tea\u003Cbr\u003E\n6 oz butter\u003Cbr\u003E\n8 oz soft brown sugar\u003Cbr\u003E\n12 oz mixed dried fruit\u003Cbr\u003E\n12 oz self-raising flour\u003Cbr\u003E\n1 tsp ground mixed spice\u003Cbr\u003E\n1 tsp ground cinnamon\u003Cbr\u003E\n3 eggs, beaten\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 160\u00B0C.\u003Cbr\u003E\nIn a saucepan, bring to a boil the tea with butter, sugar and fruit. Over low heat simmer for approximately 15 minutes until the fruit is plump. Allow to cool slightly then stir in the flour, spices and eggs.\u003Cbr\u003E\nSpoon into a greased, 20cm cake tin. Bake for 2 hours until cooked through and a skewer, pushed into the cake, comes out clean.\u003Cbr\u003E\nTurn the bread out onto a wire rack to cool completely.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dorset Tea Bread",
+  "usedSnapshot": "20220808012351"
+}

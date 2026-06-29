@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140212030452",
+  "finalPath": "budby-pie.html",
+  "heading": "Budby Pie",
+  "ingredients": [
+    "gravy",
+    "herbs",
+    "onions",
+    "pastry",
+    "pepper",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "budby-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EReceipts and Relishes Being a Vade Mecum for the Epicure in the British Isles\u003C/i\u003E\u0027, London, The Naldrett Press, 1950",
+      "receiptText": "\u003Cb\u003EBUDBY SWAN PIE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: -\u003Cbr\u003E\nSwan meat; 2 onions; a little sugar; a few mixed herbs; salt and pepper to taste; suet pastry.\u003Cbr\u003E\n\u003Cbr\u003E\nOnly the finest meat of the swan should be chosen. Cut up into small pieces and stew gently for 3 hours in water, seasoned with pepper and salt, sugar, chopped onions and herbs. Strain, and put the meat into a pie-dish, lined with pastry. Add the gravy, cover the pie and bake for 30 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Nottinghamshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Budby Pie",
+  "usedSnapshot": "20211129121053"
+}

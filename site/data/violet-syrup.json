@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072308",
+  "finalPath": "violet-syrup.html",
+  "heading": "Violet Syrup",
+  "ingredients": [
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "violet-syrup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make sirup of Violets.\u003C/b\u003E\u003Cbr\u003E\nFirst gather a great quantitye of Violet flowers and picke them cleane from the stalkes and set them on the fire, and put to them so much rosewater as you think good then let them boyle altogither untill the colour be forth of them, then take them of the fire and straine them through a fine cloth, then put so much Sugar to them as you thing good, then set it againe to the fire untill it be somewhat thick, and put it into a violl glasse.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "violet-syrup.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Arte of Preserving Conserving, Candying \u0026amp;c\u003C/i\u003E\u0027 by Hugh Plat, 1609 (\u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E4. A most excellent sirup of Violets, both in taste and tincture.\u003C/b\u003E\u003Cbr\u003E\nExpresse the juyce of clipt Violets, and to three parts of juyce take one fourth part of conduit water: put the same into an Alablaster mortar, with the leaves which you have stamped, and wriing the same out thorow a cloth, as you did at first, into the other juyce: put thereto a sufficient proportion of the finest sugar and brought also into a most fine powder: let the same stand 10 or 12 houres in a cleane blased earthen pan: then drain away the cleerest, and put it into a glasse, and put thereto a few drops of the juice of Lemmons, and it will become cleer, transparent, and of the violet colour. Then you may expresse more juyce into the sugar, which will settle in the bottome, with some of the thickest part of the juyce: and beating the same upon a bentle fire, it will also become a good sirup of violets, but not comparable to the first. By this manner of work you gaine one quarter of sirup, more than diverse Apothecaries doe.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    }
+  ],
+  "title": "Violet Syrup",
+  "usedSnapshot": "20220527213536"
+}

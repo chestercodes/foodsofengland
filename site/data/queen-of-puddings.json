@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922082029",
+  "finalPath": "queen-of-puddings.html",
+  "heading": "Queen of Puddings",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "eggs",
+    "jam",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "pudding",
+    "sugar",
+    "currant",
+    "jelly",
+    "puddings",
+    "vanilla"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "queen-of-puddings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESheffield Evening Telegraph\u003C/i\u003E\u0027 - Friday 25 October 1895",
+      "receiptText": "Queen\u0027s Pudding.-Take half pint of bread stale cake crumbs, one pint of milk, yolks of two eggs. 2oz. of sugar, 1oz. butter, and a little essence lemon. Mix all in dish and bake for 1 hour. Put a thin layer of jam on the top, beat the whites of two a stiff froth with Iittle lemon juice and white sugar, over the jam, and return to the oven till very lightly browned. Serve it cold. This is a good supper dish.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "queen-of-puddings.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "606. QUEEN OF PUDDINGS (Surrey) One pint of bread crumbs, one quart of milk, one teacupful of white sugar, yolks of four eggs, grated rind of one lemon. Beat the yolks, sugar, and lemon together, and stir in the crumbs. Bake to a light brown colour. Then beat the whites of the four eggs to a stiff froth, with four tablespoonfuls of sugar. Spread currant jelly over the top of the pudding; spread over this the beaten whites, and set it back in the oven long enough to brown slightly. Serve cold. A little vanilla may be used in place of lemon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Queen of Puddings",
+  "usedSnapshot": "20211021030455"
+}

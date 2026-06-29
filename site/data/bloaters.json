@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140616080600",
+  "finalPath": "bloaters.html",
+  "heading": "Bloaters",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EYarmouth Bloaters, Bloat Herring\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Bloaters",
+  "usedSnapshot": "20211207125328"
+}

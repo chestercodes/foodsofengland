@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140212030839",
+  "finalPath": "gofers.html",
+  "heading": "Gofers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGoofers\u003C/b\u003E",
+      "relatedPageUrl": "goofer-wafers.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moor-1823"
+    }
+  ],
+  "title": "Gofers",
+  "usedSnapshot": "20211019183254"
+}

@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922075107",
+  "finalPath": "wakes-cake.html",
+  "heading": "Wakes Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWinster Wakes Cakes\u003C/b\u003E",
+      "relatedPageUrl": "winster-wakes-cake.html",
+      "relationDescription": "For a list of northern Wakes Day traditions, see the end of the "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wakes Cake",
+  "usedSnapshot": "20211201025116"
+}

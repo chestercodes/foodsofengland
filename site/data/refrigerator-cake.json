@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140508110514",
+  "finalPath": "refrigerator-cake.html",
+  "heading": "Refrigerator Cake",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "chocolate",
+    "dried fruit",
+    "golden syrup",
+    "nuts",
+    "raisins",
+    "unsalted butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "refrigerator-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Refrigerator%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "10oz chocolate\u003Cbr\u003E\n10oz broken digestive biscuits\u003Cbr\u003E\n10oz dried fruit (chopped dried apricots, figs, raisins etc) and/or nuts\u003Cbr\u003E\n5oz unsalted butter\u003Cbr\u003E\n5oz golden syrup\u003Cbr\u003E\n\u003Cbr\u003E\nGrease a 10in square baking tin. Slowly melt the chocolate, fold in the other ingredients, spoon into the tray and refrigerate until set. Cut into squares.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Refrigerator Cake",
+  "usedSnapshot": "20211020233633"
+}

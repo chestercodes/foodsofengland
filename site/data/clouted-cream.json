@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922081650",
+  "finalPath": "clouted-cream.html",
+  "heading": "Clouted Cream",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "milk",
+    "rose water"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "clouted-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CLOUTED CREAM. String four blades of mace on a thread, put them to a gill of new milk, and six spoonfuls of rose water. Simmer a few minutes, then by degrees strain the liquor to the yolks of two eggs well beaten. Stir the whole into a quart of rich cream, and set it over the fire; keep it stirring till hot, but not boiling; pour it into a deep dish, and let it stand twenty-four hours. Serve it in a cream dish, to eat with fruits. Some prefer it without any flavour but that of cream; in which case use a quart of new milk and the cream, or do it as the Devonshire scalded cream. When done enough, a round mark will appear on the surface of the cream, the size of the bottom of the pan, which is called the ring; and when that is seen, remove the pan from the fire.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Clouted Cream",
+  "usedSnapshot": "20220819104617"
+}

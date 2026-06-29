@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073913",
+  "finalPath": "apple-cheese-sponge.html",
+  "heading": "Apple Cheese Sponge",
+  "ingredients": [
+    "apple",
+    "butter",
+    "cheese",
+    "custard",
+    "egg",
+    "flour",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-cheese-sponge.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Apple%20Cheese%20Sponge\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Serves: 6\u003Cbr\u003E\n\u003Cbr\u003E\n4 oz Butter\u003Cbr\u003E\n4 oz Self raising flour\u003Cbr\u003E\nPinch Salt\u003Cbr\u003E\n4 oz sugar\u003Cbr\u003E\n4 oz Red Leicester cheese, diced\u003Cbr\u003E\n1 Egg, beaten\u003Cbr\u003E\n2 Tablespoon Milk\u003Cbr\u003E\n6 oz Cooking apples\u003Cbr\u003E\nCustard to serve\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the butter in a saucepan. Mix flour, salt, sugar and cheese in a bowl. Add butter, egg and milk. Mix well. Peel, core and dice apple. Add to the mixture. Pour into a greased loose-bottomed 20 cm (8 inch) cake tin and level the surface. Bake at 190 \u00B0C / 375 \u00B0F / Gas 5 for 30-35 minutes or until risen and golden. Cool for 5 minutes then remove from tin and place on a wire rack.\u003Cbr\u003E\nServe warm with custard if desired.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Apple Cheese Sponge",
+  "usedSnapshot": "20220527214056"
+}

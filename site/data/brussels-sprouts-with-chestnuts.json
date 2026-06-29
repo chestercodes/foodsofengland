@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922073452",
+  "finalPath": "brussels-sprouts-with-chestnuts.html",
+  "heading": "Brussels Sprouts with Chestnuts",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "butter",
+    "chestnuts",
+    "fat",
+    "sprouts"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brussels-sprouts-with-chestnuts.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-Luck; or, The British Home Cookery Book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E234. CHESTNUTS AND BRUSSELS SPROUTS (Devonshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBoil some chestnuts in water for two hours; remove the peel. Boil an equal amount of Brussels sprouts for half an hour, strain them well; be careful not to break them. Have ready a frying-pan with hot beef dripping or butter, put in both chestnuts and sprouts, and keep them moving until the fat is absorbed (do not brown them); then serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Brussels Sprouts with Chestnuts",
+  "usedSnapshot": "20220808015243"
+}

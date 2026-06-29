@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922074301",
+  "finalPath": "northamptonshire-seed-cake.html",
+  "heading": "Northamptonshire Seed Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caraway seeds",
+    "cream",
+    "eggs",
+    "flour",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "northamptonshire-seed-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Northamptonshire%20Seed%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz butter\u003Cbr\u003E\n8 oz sugar\u003Cbr\u003E\n4 eggs\u003Cbr\u003E\n8 oz flour\u003Cbr\u003E\n1 tsp ground nutmeg\u003Cbr\u003E\n2 tsp caraway seeds\u003Cbr\u003E\n\u003Cbr\u003E\nCream butter and sugar until light \u0026 fluffy. Separate the eggs and beat the whites until fluffy. Fold in the yolks, flour, nutmeg and seeds. Bake about 1 hour in an 8 ins round cake tin, or until firm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Northamptonshire Seed Cake",
+  "usedSnapshot": "20211201034624"
+}

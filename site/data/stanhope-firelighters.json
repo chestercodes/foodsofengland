@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140212021052",
+  "finalPath": "stanhope-firelighters.html",
+  "heading": "Stanhope Firelighters",
+  "ingredients": [
+    "brown sugar",
+    "margarine",
+    "oats",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stanhope-firelighters.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.communigate.co.uk/ne/thehill/page36.phtml\u0022\u003E\u003Cb\u003ECommunigate North East\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESTANHOPE FIRELIGHTERS\u003C/b\u003E\u003Cbr\u003E\n8 oz rolled oats.\u003Cbr\u003E\n4oz brown sugar.\u003Cbr\u003E\n8oz margarine, melted.\u003Cbr\u003E\n4oz white sugar.\u003Cbr\u003E\nSet oven to 350F or Mark 4.In a bowl, blend the oats and margarine well together. Mix the sugars together and stir into the mixture. Press the mixture into a well-greased Swiss roll tin and bake for 25 to 30 minutes. Mark into squares in the tin while still hot and remove when cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stanhope Firelighters",
+  "usedSnapshot": "20220716045005"
+}

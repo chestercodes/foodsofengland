@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140616080757",
+  "finalPath": "fish-pudding.html",
+  "heading": "Fish Pudding",
+  "ingredients": [
+    "bay leaf",
+    "beer",
+    "cod",
+    "fish sauce",
+    "flour",
+    "liver",
+    "mackerel",
+    "milk",
+    "onions",
+    "parsley",
+    "pepper",
+    "pudding",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fish-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E256. Fish Pudding.-\u003C/b\u003E Take two pounds of cod fish, cut in slices about the size of five-shilling pieces, half an inch thick; fill the bowl with the paste, as usual, lay some of the fish on the bottom, season with salt, pepper, a little chopped parsley, onions, a little flour and pieces of the liver, if any, then the fish, and so on until full; add a gill of milk or water, shake it well, tie up, and boil one hour, and serve. A little bay leaf and thyme may be added, if handy.\u003Cbr\u003E\n\u003Cbr\u003E\nAll fish may be done the same way, varying the flavour according to taste,\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E257. Fish Pudding, a plainer Way.-\u003C/b\u003E Cut one pound of any fish in small pieces, season with salt and pepper on a dish, a little flavour; mix well, put in the paste with a gill of water, and if you have a wine-glass full of any fish sauce, add it, cover up, boil one hour, and serve.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E258. Mackerel Pudding.-\u003C/b\u003E Cut off the heads of two mackerel, cut each one in four pieces, keeping the roe in; fill the pudding with the pieces, season with salt, pepper, a little chopped onions and fennel, add a gill of water, boil one hour, and serve with fennel sauce over.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E259. Eel Pudding.-\u003C/b\u003E Cut in long pieces, season with salt, pepper, chopped onions, parsley; add a gill of water; wine or beer is very good, and proceed as for the others.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Fish Pudding",
+  "usedSnapshot": "20211201033802"
+}

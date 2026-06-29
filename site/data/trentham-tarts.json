@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20191228065437",
+  "finalPath": "trentham-tarts.html",
+  "heading": "Trentham Tarts",
+  "ingredients": [
+    "beat",
+    "butter",
+    "castor sugar",
+    "cherries",
+    "cherry",
+    "egg",
+    "flour",
+    "icing sugar",
+    "jam",
+    "milk",
+    "pastry",
+    "raspberry",
+    "self-raising flour",
+    "shortcrust pastry",
+    "sugar",
+    "vanilla",
+    "walnut",
+    "walnuts"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "trentham-tarts.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESecret Trentham\u003C/i\u003E\u0027 by Alan Myatt",
+      "receiptText": "Trentham tart was another delicacy to escape from the hall kitchens. Take 4 ounces of shortcrust pastry, 2 ounces of butter, 2 ounces of castor sugar, 4 ounces of self-raising flour, one egg, a quarter of a teaspoon of vanilla essence, half a tablespoon of cold milk, raspberry jam, and icing sugar. Line the pastry case with pastry, spreading jam thinly on the bottom. Mix the butter, sugar and vanilla until light and fluffy. Beat in the egg with a tablespoon of sifted flour. Fold in the rest of the flour with the milk and place on top of the jam. Bake in centre of the oven at 375 degrees for thirty minutes. Ice the top when cool, leaving one inch from the edge. Decorate with seven glac\u00E9 cherries and seven walnuts, a split walnut sits aside of a single cherry in the middle of the cake. Eat like a duke!\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Stoke-on-Trent"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Trentham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Trentham Tarts",
+  "usedSnapshot": "20210922085333"
+}

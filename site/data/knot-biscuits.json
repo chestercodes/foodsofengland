@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140508120912",
+  "finalPath": "knot-biscuits.html",
+  "heading": "Knot Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Knot Biscuits",
+  "usedSnapshot": "20220527224848"
+}

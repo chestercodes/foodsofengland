@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922091151",
+  "finalPath": "cornflake-tart.html",
+  "heading": "Cornflake Tart",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "caster sugar",
+    "cornflakes",
+    "custard",
+    "fat",
+    "flour",
+    "golden syrup",
+    "jam",
+    "margarine",
+    "pastry",
+    "plain flour",
+    "sugar",
+    "toffee"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornflake-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cornflake%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECornflake Tart\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EPastry\u003C/b\u003E\u003Cbr\u003E\n250g plain flour\u003Cbr\u003E\n125g butter or margarine\u003Cbr\u003E\nCold water\u003Cbr\u003E\nRed jam\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECornflake topping\u003C/b\u003E\u003Cbr\u003E\n125g caster sugar\u003Cbr\u003E\n125g butter\u003Cbr\u003E\n220g cornflakes\u003Cbr\u003E\n125g golden syrup\u003Cbr\u003E\n\u003Cbr\u003E\nPre heat oven to 200C/Gas Mark 6\u003Cbr\u003E\n1. Place flour and fat into a large bowl and rub in the fat until the mixture resembles breadcrumbs. Using a round bladed knife stir in the cold water a little at a time until the mixture begins to come together. Use your hands to form a ball of pastry. Wrap the pastry in cling film and rest for half an hour or so in the fridge.\u003Cbr\u003E\n2. Roll out the pastry, line a tin 14\u201D by 8\u201D and bake blind for 15 minutes. Prick with a fork or fill with baking beans. Allow to cool.\u003Cbr\u003E\n3. Turn the oven down to 170C/Gas Mark 4\u003Cbr\u003E\n4. Once cool spread the pastry case with the jam.\u003Cbr\u003E\n5. Place the sugar, syrup and butter in a large pan and heat gently until the butter has melted. Give the mixture a good stir and add in the cornflakes a few handfuls at a time until either the cornflakes are all added or the toffee mixture is all used up. Mix well to make sure each cornflake is sticky.\u003Cbr\u003E\n6. Place the cornflake mix into the jammy tart case and press down well with the back of a spoon to compress and smooth the surface. Bake in the oven for 10 minutes. Take out and cool. When absolutely cold use a serrated knife to cut into squares.\u003Cbr\u003E\nServe with hot custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cornflake Tart",
+  "usedSnapshot": "20220808005435"
+}

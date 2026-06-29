@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212025217",
+  "finalPath": "lancashire-fruit-braid.html",
+  "heading": "Lancashire Fruit Braid",
+  "ingredients": [
+    "apple",
+    "caster sugar",
+    "cheese",
+    "egg",
+    "egg white",
+    "lancashire cheese",
+    "pastry",
+    "puff pastry",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lancashire-fruit-braid.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELancashire Fruit Braid\u003C/b\u003E\u003Cbr\u003E\nMake sure the apples are thinly sliced so they soften during cooking.\u003Cbr\u003E\nIngredients\u003Cbr\u003E\nServes: 6\u003Cbr\u003E\n\u003Cbr\u003E\n225 Gram Puff pastry (8 oz)\u003Cbr\u003E\n225 Gram Cooking apples, cored and thinly sliced (8 oz) peeled\u003Cbr\u003E\n25 Gram Caster sugar (1 oz)\u003Cbr\u003E\n100 Gram Lancashire cheese, grated (3\u00BD oz)\u003Cbr\u003E\n75 Gram Sultanas (3 oz)\u003Cbr\u003E\n1 Egg white, beaten, to glaze\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nRoll out pastry on a lightly floured surface into a 28 cm (11 inch) square then cut in half. Place one half on a slightly dampened baking sheet.\u003Cbr\u003E\nLay apple slices in overlapping rows over the pastry leaving a 1 cm (\u00BD inch) border free of filling. Sprinkle over half the sugar, the cheese and sultanas. Fold remaining pastry in half lengthways and cut slits to within 2.5 cm (1 inch) of the edge. Space 1 cm (\u00BD inch) apart. Unfold.\u003Cbr\u003E\nBrush edges of pastry base with egg white. Top with remaining pastry and seal edges. Bake at 220 \u00B0C / 425 \u00B0F / Gas 7 for 20 minutes. Brush with egg white, sprinkle with remaining sugar and cook for a further 5-10 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Lancashire Fruit Braid",
+  "usedSnapshot": "20220527231246"
+}

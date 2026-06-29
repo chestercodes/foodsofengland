@@ -1,0 +1,33 @@
+﻿{
+  "earliestSnapshot": "20130325124604",
+  "finalPath": "corned-or-bully-beef.html",
+  "heading": "Corned or Bully Beef",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECorned Beef\u003C/b\u003E",
+      "relatedPageUrl": "corned-beef.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWow-Wow Sauce\u003C/b\u003E",
+      "relatedPageUrl": "wow-wow-sauce.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Corned or Bully Beef",
+  "usedSnapshot": "20171229160020"
+}

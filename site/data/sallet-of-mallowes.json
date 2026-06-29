@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922093138",
+  "finalPath": "sallet-of-mallowes.html",
+  "heading": "Sallet of Mallowes",
+  "ingredients": [
+    "bread",
+    "butter",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sallet-of-mallowes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New Booke of Cookerie\u003C/i\u003E\u0027 by John Murrell (\u003Ca href=\u0022references.html#murrell-1617\u0022\u003E\u003Cb\u003EMurrell 1617\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "A Sallet of Mallowes.\u003Cbr\u003E\n\u003Cbr\u003E\nStrip off the leaues, from the tender stalkes, sauing the toppes: let them lye in water, and seeth them tender, and put them in a Dish ouer coales with Butter and Uinegar, let them stand a while: then put in grated Bread, and Sugar betweene euery lay.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    }
+  ],
+  "title": "Sallet of Mallowes",
+  "usedSnapshot": "20170314004716"
+}

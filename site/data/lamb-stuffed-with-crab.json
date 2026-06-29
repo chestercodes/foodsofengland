@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130323195944",
+  "finalPath": "lamb-stuffed-with-crab.html",
+  "heading": "Lamb Stuffed with Crab",
+  "ingredients": [
+    "crab",
+    "lemon",
+    "lobster",
+    "mutton",
+    "nutmeg"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-stuffed-with-crab.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELeg of Mutton roasted with Lobster or Crab.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBONE the leg, fill the cavity with a forcemeat, containing the meat of a crab or lobster shred and pounded, a little grated lemon-peel, and nutmeg: sew it up; roast, and serve, with lobster or crab sauce under it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Lamb Stuffed with Crab",
+  "usedSnapshot": "20220819101032"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212020904",
+  "finalPath": "arterchoak-pie.html",
+  "heading": "Arterchoak Pie",
+  "ingredients": [
+    "artichokes",
+    "beat",
+    "butter",
+    "eggs",
+    "pepper",
+    "salt",
+    "tea",
+    "truffles",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "arterchoak-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ETo make an Artichoke-Pie.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBOIL twelve artichokes, take off all the leaves and choke, take the bottoms clear from the stalk, make a good puff-paste crust, and lay a quarter of a pound of good fresh butter all over the bottom of your pie; then lay a row of artichokes, strew a little pepper, fait, and beaten mace over them, then another row, and strew the rest of your spice over them, put in a quarter of a pound more of butter in little bits, take half an ounce of truffles and morels, boil them in a quarter of a pint of water, pour the water into the pie, cut the truffles and morels very small, throw all over the pie \u0026 then have ready twelve eggs boiled hard, take only the hard yolks, lay them all over the pie, pour in a gill of white wine, cover your pie, and bake it. When the crust is done, the pie is enough. Four large blades of mace, and twelve peppercorns well beat will do, with a tea-spoonful of salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Arterchoak Pie",
+  "usedSnapshot": "20211201041542"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140616081143",
+  "finalPath": "savoury-toast.html",
+  "heading": "Savoury Toast",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "butter",
+    "cheese",
+    "collops",
+    "cream",
+    "fat",
+    "gravy",
+    "mutton",
+    "onions",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "savoury-toast.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESAVOURY TOSTED OR MELTED CHEESE\u003C/b\u003E\u003Cbr\u003E\nCut pieces of quick, fat, rich, well tasted cheese, (as the best of Brye, Cheshire, \u0026amp;c. or sharp thick Cream-Cheese) into a dish of thick beaten melted Butter, that hath served for Sparages or the like, or pease, or other boiled Sallet, or ragout of meat, or gravy of Mutton: and, if you will, Chop some of the Asparages among it, or slices of Gambon of Bacon, or fresh-collops, or Onions, or Sibboulets, or Anchovis, and set all this to melt upon a Chafing-dish of Coals, and stir all well together, to Incorporate them; and when all is of an equal consistence, strew some gross White-Pepper on it, and eat it with tosts or crusts of White-bread. You may scorch it at the top with a hot Fire-Shovel.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheese on Toast",
+      "relatedPageUrl": "cheese-on-toast.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Savoury Toast",
+  "usedSnapshot": "20211201004702"
+}

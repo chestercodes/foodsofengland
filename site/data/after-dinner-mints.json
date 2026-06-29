@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922090840",
+  "finalPath": "after-dinner-mints.html",
+  "heading": "After Dinner Mints",
+  "ingredients": [
+    "cream",
+    "peppermint",
+    "sugar",
+    "tartar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "after-dinner-mints.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Essex Newsman\u003C/i\u003E\u0027, Christmas Day 1926",
+      "receiptText": "\u003Cb\u003EHome-Made Sweets.\u003C/b\u003E\u003Cbr\u003E\nChristmas is the children\u0027s feast and therefore sweets are highly important. But there is one sweet that will also be interesting to grown-ups, and it has the cardinal virtue in these particular circumstances, that it rather aid to digestion than a hindrance. I refer, of course, to after dinner mints.\u003Cbr\u003E\n\u003Cbr\u003E\nTo make them take\u003Cbr\u003E\n3 cups of sugar.\u003Cbr\u003E\n1/4 teaspoon cream of tartar.\u003Cbr\u003E\n1/2 cup boiling water.\u003Cbr\u003E\n1/2 tablespoon vinegar.\u003Cbr\u003E\n2 drops oil of peppermint.\u003Cbr\u003E\n\u003Cbr\u003E\nPut all the ingredients except the peppermint in a saucepan, bring to the boiling point, and let boil without stirring until the mixture becomes brittle when tried in cold water. Pour on a large buttered plate. When the edges have cooled, fold towards the centre, and as soon as the mixture can be handled pull it until it is white, adding the peppermint during the process. Cut small pieces (scissors will do it) into a bowl containing powdered sugar, and stir until coated with the sugar. Then put into a glass jar, cover, and let stand long as possible before eating.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "After Dinner Mints",
+  "usedSnapshot": "20220819102548"
+}

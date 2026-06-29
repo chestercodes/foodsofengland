@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140508115711",
+  "finalPath": "exeter-pudding.html",
+  "heading": "Exeter Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "currant",
+    "eggs",
+    "jam",
+    "jelly",
+    "lemon",
+    "pudding",
+    "sherry",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "exeter-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EEXETER PUDDING.\u003C/b\u003E\u003Cbr\u003E\n(Very rich.)\u003Cbr\u003E\n1274. INGREDIENTS: 10 oz. of bread crumbs, 4 oz. of sago, 7 oz. of finely-chopped suet, 6 oz. of moist sugar, the rind of1/2 lemon, 1/4 pint of rum, 7 eggs, 4 tablespoonfuls of cream, 4 small sponge cakes, 2 oz. of ratafias,1/2 lb. of jam.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the bread crumbs into a basin with the sago, suet, sugar, minced lemon-peel, rum, and 4 eggs; stir these ingredients well together, then add 3 more eggs and the cream, and let the mixture be well beaten. Then butter a mould, strew in a few bread crumbs, and cover the bottom with a layer of ratafias; then put in a layer of the mixture, then a layer of sliced sponge cake spread thickly with any kind of jam; then add some ratafias, then some of the mixture and sponge cake, and so on until the mould is full, taking care that a layer of the mixture is on the top of the pudding. Bake in a good oven from 3/4 to 1 hour, and serve with the following sauce: - Put 3 tablespoonfuls of black-currant jelly into a stewpan, add 2 glasses of sherry, and, when warm, turn the pudding out of the mould, pour the sauce over it, and serve hot.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: From 1 to 1-1/4 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 2s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 7 or 8 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Exeter Pudding",
+  "usedSnapshot": "20220819105545"
+}

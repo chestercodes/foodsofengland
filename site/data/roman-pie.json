@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212024836",
+  "finalPath": "roman-pie.html",
+  "heading": "Roman Pie",
+  "ingredients": [
+    "cheese",
+    "chicken",
+    "gravy",
+    "macaroni",
+    "parmesan",
+    "parmesan cheese",
+    "rabbit",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "roman-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E134. ROMAN PIE (Sussex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nHalf a pound of puff paste, two ounces of macaroni, a small quantity of parmesan cheese, according to taste, and a small chicken, boned.\u003Cbr\u003E\n\u003Cbr\u003E\nBone chicken, stew bones with gravy, make rich white sauce, season to taste with salt and mignonette. Cut white meat into small pieces, boil macaroni till quite tender and cut into two-inch lengths. Take a charlotte mould, first greasing same, and sprinkle with vermicelli. Line with puff paste, then add slices of white meat, then a sprinkling of cheese and salt, then macaroni, doing this alternately. Then bake in a crisp oven one hour, when it should be golden brown. Turn out and serve with rich gravy and cheese. Rabbit or veal may be used also.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Roman Pie",
+  "usedSnapshot": "20191229131705"
+}

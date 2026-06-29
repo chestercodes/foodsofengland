@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20130303200936",
+  "finalPath": "windsor-soup.html",
+  "heading": "Windsor Soup",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "cream",
+    "egg",
+    "herbs",
+    "mashed potato",
+    "milk",
+    "onion",
+    "parsley",
+    "potato"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "windsor-soup.html-1",
+      "receiptSource": "Original Receipt adapted from \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E\u0027 By Auguste Escoffier (\u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier 1903\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E740 - POTAGE WINDSOR\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBlanch and cool one small, boned calf\u0027s foot, and cook it gently in a good white-wine mirepoix. Prepare one and one half pints of \u0022Creme de Riz\u0022 (No. 711), and add thereto the cooking-liquor of the calf\u0027s foot, strained through muslin.\u003Cbr\u003E\n\u003Cbr\u003E\nFinish this cream, when about to serve, with an ordinary leason, one and one-half tablespoonfuls of a slight infusion of turtle-soup herbs, and one and one-half oz. of butter.\u003Cbr\u003E\n\u003Cbr\u003E\nGarnish with a julienne of half of the calf\u0027s foot and twenty small quenelles consisting of a puree of hard-boiled egg-yolks and chicken forcemeat, these two preparations being in the proportion of two-thirds and one-third respectively.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "windsor-soup.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EReform Cookery Book\u003C/i\u003E\u0027 (4th edition) by Mrs. Mill (\u003Ca href=\u0022references.html#mill-1909\u0022\u003E\u003Cb\u003EMill 1909\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWhite Windsor Soup.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake 4 breakfast cupfuls white stock or water, add 6 tablespoonfuls mashed potato and 1 oz fine sago. Stir till clear and add 1 breakfast cup milk and some minced parsley. Let come just to boiling point but no more. If water is used instead of stock some finely shred onion should be cooked without browning in a little butter and added to the soup when boiling. Rub through a sieve into hot tureen.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrown Windsor Soup\u003C/b\u003E",
+      "relatedPageUrl": "brown-windsor-soup.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    }
+  ],
+  "title": "Windsor Soup",
+  "usedSnapshot": "20210512122636"
+}

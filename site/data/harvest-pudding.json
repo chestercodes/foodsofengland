@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922071606",
+  "finalPath": "harvest-pudding.html",
+  "heading": "Harvest Pudding",
+  "ingredients": [
+    "brown sugar",
+    "egg",
+    "milk",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar",
+    "beat",
+    "bread",
+    "clotted cream",
+    "cream",
+    "eggs",
+    "lemon",
+    "soft brown sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "harvest-pudding.html-1",
+      "receiptSource": "Original Receipt from the Newcastle Journal - Saturday 11 November 1916",
+      "receiptText": "HARVEST PUDDING. Mix four ounces of finely-shred suet with two ounces of brown sugar and four ounces of stoned raisins; add a pinch of salt and an egg beaten with a little milk. Put the mixture into a greased basin and steam it for three hours longer. If no steam is available turn a saucer upside down in the boiler, and when the water boils put the pudding basin on the inverted saucer. The water should reach half-way the basin, and be kept at that height by adding more boiling water that in the pan diminishes by evaporation.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "harvest-pudding.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 - 8 slices of medium bread, medium sliced\u003Cbr\u003E\n1lb cooking apples, peeled, cored, and sliced\u003Cbr\u003E\n2oz shredded suet\u003Cbr\u003E\n3 oz soft brown sugar\u003Cbr\u003E\n2 oz raisins\u003Cbr\u003E\nGrated rind of one lemon\u003Cbr\u003E\n2 medium eggs\u003Cbr\u003E\n\u00BD pint of milk\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nLine a pie dish with some of the buttered bread slices. Mix together the apples, raisins, lemon rind, sugar and suet. Fill the pie dish with the mixture and then cover with the rest of the bread - buttered side up. Beat together the eggs and milk and pour over the top of the bread. Cover and leave to stand in a cool place for 2 hours. Preheat the oven to 180\u00BAC/350\u00BAF/gas mark 4 and bake the pie for 1 hour, rotating a 180\u00BA turn halfway through. Serve hot with dollops of clotted cream - hmmmm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Harvest Pudding",
+  "usedSnapshot": "20211019181956"
+}

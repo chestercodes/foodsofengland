@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922091313",
+  "finalPath": "semolina-pudding.html",
+  "heading": "Semolina Pudding",
+  "ingredients": [
+    "butter",
+    "custard",
+    "eggs",
+    "milk",
+    "orange",
+    "pudding",
+    "puddings",
+    "salt",
+    "semolina",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "semolina-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo 828 SEMOLINA PUDDING\u003C/b\u003E\u003Cbr\u003E\nPut half a pound of semolina in a stewpan with six ounces of sugar, four ounces of butter, a grain of salt, pint of milk, a tablespoonful of orange flower water and a few ratifias; stir this over the fire until it thickens, and keep stirring on the fire until it ceases to adhere to the sides of the stewpan, it must then be removed from the fire, and after having vigorously worked in six whole eggs spread the inside of a plain mould with butter, fill the mould with the preparation, and steam the pudding in the usual way by placing it upon a plate turned upside down in a stewpan and surrounded with about three inches of boiling water, the lid must be put close and the water kept on the gentle boil so as to produce a continuous supply of steam with which to cook the pudding through, this will require about an hour, and when done turn the pudding out on its dish, pour some custard whip No 93 or some fruit sauce No 96 over it and serve.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E All kinds of farinaceous substances treated in this manner make excellent puddings\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Semolina Pudding",
+  "usedSnapshot": "20220527053107"
+}

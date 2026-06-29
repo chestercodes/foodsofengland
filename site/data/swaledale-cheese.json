@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140617165211",
+  "finalPath": "swaledale-cheese.html",
+  "heading": "Swaledale Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Swaledale Cheese",
+  "usedSnapshot": "20211201005732"
+}

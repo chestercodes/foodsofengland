@@ -1,0 +1,87 @@
+﻿{
+  "earliestSnapshot": "20150922082407",
+  "finalPath": "liver-and-bacon.html",
+  "heading": "Liver and Bacon",
+  "ingredients": [
+    "bacon",
+    "gravy",
+    "liver",
+    "parsley",
+    "butter",
+    "fat",
+    "flour",
+    "lemon",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "liver-and-bacon.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo fry Calf\u0027s Liver and Bacon\u003C/b\u003E\u003Cbr\u003E\nCut the liver into moderately thin slices and fry it of a nice brown Then fry some thin slices of bacon lay them upon the liver and serve up the dish with a little gravy added to it and crisped parsley laid round or scattered over it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "liver-and-bacon.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECALF\u0027S LIVER AND BACON.\u003C/b\u003E\u003Cbr\u003E\n881. INGREDIENTS.--2 or 3 lbs. of liver, bacon, pepper and salt to taste, a small piece of butter, flour, 2 tablespoonfuls of lemon-juice, \u00BC pint of water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E Cut the liver in thin slices, and cut as many slices of bacon as there are of liver; fry the bacon first, and put that on a hot dish before the fire. Fry the liver in the fat which comes from the bacon, after seasoning it with pepper and salt and dredging over it a very little flour. Turn the liver occasionally to prevent its burning, and when done, lay it round the dish with a piece of bacon between each. Pour away the bacon fat, put in a small piece of butter, dredge in a little flour, add the lemon-juice and water, give one boil, and pour it in the middle of the dish. It may be garnished with slices of cut lemon, or forcemeat balls.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E According to the thickness of the slices, from 5 to 10 minutes.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E 10d. per lb. Sufficient for 6 or 7 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E from March to October.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lancashire Liver and Bacon",
+      "relatedPageUrl": "lancashire-liver-and-bacon.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "The Shropshire and Worcestershire Dish",
+      "relatedPageUrl": "the-shropshire-and-worcestershire-dish.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Blanket Pudding",
+      "relatedPageUrl": "blanket-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Liver And Herbs",
+      "relatedPageUrl": "liver-and-herbs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Liver and Kidney Pudding",
+      "relatedPageUrl": "liver-and-kidney-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Liver and Parsley Sauce",
+      "relatedPageUrl": "liver-and-parsley-sauce.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Liver and Bacon",
+  "usedSnapshot": "20200126144054"
+}

@@ -1,0 +1,78 @@
+﻿{
+  "earliestSnapshot": "20121024084216",
+  "finalPath": "bubble-and-squeak.html",
+  "heading": "Bubble and Squeak",
+  "ingredients": [
+    "beef",
+    "butter",
+    "carrots",
+    "fat",
+    "gravy",
+    "pepper",
+    "pork",
+    "salt",
+    "cabbage",
+    "onion",
+    "sprouts"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "bubble-and-squeak.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBUBBLE AND SQUEAK.\u003C/b\u003E Cut slices from a cold round of beef; let them be fried quickly until brown, and put them into a dish to keep hot. Clean the pan from the fat; put into it greens and carrots previously boiled and chopped small; add a little butter, pepper, and salt; make them very hot, and put them round the beef with a little gravy. Cold pork boiled is a better material for bubble-and-squeak than beef, which is always hard; in either case the slices should be very thin and lightly fried\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bubble-and-squeak.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EBubble and squeak.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nTake some butter, pepper, salt, and cold cabbage, chop the whole together, and fry it; when done, lay on it some slices of underdone corned beef, fried of a fine brown colour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bubble-and-squeak.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBUBBLE-AND-SQUEAK (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n616. INGREDIENTS: A few thin slices of cold boiled beef; butter, cabbage, 1 sliced onion, pepper and salt to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Fry the slices of beef gently in a little butter, taking care not to dry them up. Lay them on a flat dish, and cover with fried greens. The greens may be prepared from cabbage sprouts or green savoys. They should be boiled till tender, well drained, minced, and placed, till quite hot, in a frying-pan, with butter, a sliced onion, and seasoning of pepper and salt. When the onion is done, it is ready to serve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: Altogether,\u00BD hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the cold beef, 3d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Bubble and Squeak",
+  "usedSnapshot": "20210512121127"
+}

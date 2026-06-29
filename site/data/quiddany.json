@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922073246",
+  "finalPath": "quiddany.html",
+  "heading": "Quiddany",
+  "ingredients": [
+    "quinces",
+    "rose-water",
+    "sugar",
+    "quince"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "quiddany.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Arte of Preserving Conserving, Candying \u0026amp;c\u003C/i\u003E\u0027 by Hugh Plat, 1609 (\u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E28. To make Quidinia of Quinces\u003C/b\u003E\u003Cbr\u003E\nTake the kernelles out of eight reat Quinces, and boyle them in a quart of Spring-water, till it come to a pint: then put into it a quarter of a pint of Rose-water, and one pound of fine sugar, and so let it boile til you see it come to be of a deep colour: then take a drop, and drop it on the bottom of a sawcer; and if it stand, take it off; then let it run thorow a gelly-bag into a bason; then set on your bason upon a chafing-dish of coales, to keepe it warm: then take a spoone, and fill your boxes as full as you please: and when they be cold, cover them: and if you please to print it in moulds, you must hove moulds made to the bigness of your boxe, and wet your moulds with Rose-water, and so let it run into your mould: and when it is cold, turn it off into your boxes. If you wet your moulds with water, your gelly will fall out of them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "quiddany.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA SMOOTHENING QUIDDANY OR GELLY OF THE CORES OF QUINCES\u003C/b\u003E\u003Cbr\u003E\nTake only the Cores, and slice them thin, with the seeds in them. If you have a pound of them, you may put a pottle of water to them. Boil them, till they be all Mash, and that the water hath drawn the Mucilage out of them, and that the decoction will be a gelly, when it is cold. Then let it run through a widestrainer or fitcolender (that the gross part may remain behind, but all the slyminess go through), and to every pint of Liquor take about half a pound of double refined Sugar, and boil it up to a gelly. If you put in a little juyce of Quince, when you boil it up, it will be the quicker.\u003Cbr\u003E\nYou may also take a pound of the flesh of Quinces (when you have not cores enow, to make as much as you desire) and one ounce of seeds of other Quinces, and boil them each a part, till the one be a strong decoction; the other a substantial Mucilage. Then strain each from their course f\u00E6ces: and mingle the decoctions, and put Sugar to them, and boil them up to a Gelly.\u003Cbr\u003E\nOr with the flesh and some juyce of Quinces, make Marmulate in the Ordinary way; which whiles it is boiling, put to it the Mucilage of the seeds to Incorporate it with the Marmulate. You may take to this a less proportion of Sugar than to my Marmulate.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EQuiddanett, Quidinia, Quidnet\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Quiddany",
+  "usedSnapshot": "20220706152323"
+}

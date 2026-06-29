@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074748",
+  "finalPath": "cornish-sago-pudding.html",
+  "heading": "Cornish Sago Pudding",
+  "ingredients": [
+    "butter",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornish-sago-pudding.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ENorth Devon Journal\u003C/i\u003E\u0027 - Thursday 27 July 1922",
+      "receiptText": "\u003Cb\u003ECornish Pudding.\u003C/b\u003E-Take three apples, pare, core, and slice them, three tablespoonfuls sugar, half teacupful sago, and a little grated nutmeg. Mix these and put a well-buttered piedish. Pour over them enough boiling milk to nearly fill the dish. Put a little butter on the top, and bake in mode rate oven for one and a half hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECornish Sponge Pudding\u003C/b\u003E",
+      "relatedPageUrl": "cornish-sponge-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cornish Sago Pudding",
+  "usedSnapshot": "20211129113531"
+}

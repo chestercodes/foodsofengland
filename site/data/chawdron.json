@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150524220607",
+  "finalPath": "chawdron.html",
+  "heading": "Chawdron",
+  "ingredients": [
+    "bread",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chawdron.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "CHAWDOUN FOR SWANNES\u003Cbr\u003E\nTake the lyuer and the offall of the Swannes \u0026 do it to seethe in good broth. Take it up. take out the bonys, take \u0026 hew the flesh small. Make a lyour of crustes of bread \u0026 of the blood of the Swan saltedn. \u0026 do thereto powder of cloves \u0026 of pepper \u0026 of wine \u0026 salt, \u0026 seethe it \u0026 cast the flesh thereto ihewed, and present it forth with the Swan.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Chawd-Wine",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Chawdron",
+  "usedSnapshot": "20211201000335"
+}

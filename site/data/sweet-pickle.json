@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922081422",
+  "finalPath": "sweet-pickle.html",
+  "heading": "Sweet Pickle",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sweet Pickle",
+  "usedSnapshot": "20211021010211"
+}

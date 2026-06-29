@@ -1,0 +1,88 @@
+﻿{
+  "earliestSnapshot": "20140125015426",
+  "finalPath": "black-pudding-sausage.html",
+  "heading": "Black Pudding Sausage",
+  "ingredients": [
+    "beef",
+    "cream",
+    "milk",
+    "mutton",
+    "oatmeal",
+    "parsley",
+    "puddings",
+    "salt",
+    "spinage",
+    "strawberry",
+    "strawberry leaves",
+    "suet",
+    "chocolate",
+    "cocoa",
+    "pudding",
+    "tea",
+    "white wine"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "black-pudding-sausage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make blood Puddings\u003C/b\u003E\u003Cbr\u003E\nTake the blood of a hog, while it is warm, and steep in it a quart or more of great oatmeal groats, at the end of three days take the groats out and drain them clean; then put to these groats more then a quart of the best cream warmed on the fire; then take some mother of time, spinage, parsley, savory, endive, sweet marjoram, sorrel, strawberry leaves, succory, of each a few chopped very small and mix them with the groats, with a little fennel seed finely beaten, some peper, cloves, mace salt, and some beef-suet, or flakes of the hog cut small. Otherways, you may steep your oatmeal in warm mutton broth, or scalding milk, or boil it in a bag.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "black-pudding-sausage.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "37. Black Puddings, broiled. Make about six or eight incisions through the skin with a knife, in a slanting way, on each side of the pudding; put it on the gridiron for about eight minutes, on rather a brisk fire, turn it four times in that space of time, and serve it broiling hot.\u003Cbr\u003E\n\u003Cbr\u003E\nI should recommend those who are fond of black puddings to partake of no other beverage than tea or coffee, as cocoa or chocolate would be a clog to the stomach. In France they partake of white wine for breakfast, which accounts for the great consumption of black pudding. Now really this is a very favorite dish with epicures, but I never should recommend it to a delicate stomach.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Black Puddings - Baked",
+      "relatedPageUrl": "baked-black-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Blackpot",
+      "relatedPageUrl": "blackpot.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Oatmeal Blood Pudding",
+      "relatedPageUrl": "oatmeal-blood-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tatie Pot or Cumberland Hotpot",
+      "relatedPageUrl": "tatie-pot.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Black Pudding Sausage",
+  "usedSnapshot": "20210121025343"
+}

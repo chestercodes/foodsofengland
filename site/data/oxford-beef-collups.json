@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323200009",
+  "finalPath": "oxford-beef-collups.html",
+  "heading": "Oxford Beef Collups",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "fat",
+    "mushroom",
+    "pepper",
+    "salt",
+    "shallot",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxford-beef-collups.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EThin Beef-Collups stew\u0027d. From Oxford.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCut raw Beef in thin Slices, as you would do Veal, for Scots Collups; lay them in a Dish, with a little Water, a Glass of Wine, a Shallot, some Pepper and Salt, and a little sweet Marjoram powdered; then clap another Dish over that, having first put a thin slice or two of fat Bacon among your Collups: then set your Mess, so as to rest upon the backs of two Chairs, and take six Sheets of whited-brown Paper, and tear it in long Pieces; and then lighting one of them, hold it under the Dish, till it burns out, then light another, and so another till all your Paper is burnt; and then your Stew will be enough, and full of Gravey. Some will put in a little Mushroom Gravey, with the Water, and the other Ingredients, which is yet a very good way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Collops"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Oxford Beef Collups",
+  "usedSnapshot": "20171229160505"
+}

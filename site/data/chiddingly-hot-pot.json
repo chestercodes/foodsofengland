@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20130808234515",
+  "finalPath": "chiddingly-hot-pot.html",
+  "heading": "Chiddingly Hot Pot",
+  "ingredients": [
+    "allspice",
+    "beef",
+    "celery",
+    "olives",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "shallots",
+    "tarragon",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chiddingly-hot-pot.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESussex recipe book with a few excursions into Kent\u003C/i\u003E \u0027 by MK. Samuelson, 1937",
+      "receiptText": "\u003Cb\u003EChiddingly Hot Pot\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nInvented by Edward Shoosmith, made at \u0022Strete\u0022, Chiddingly, in Sussex, in the year 1917, and \u0022pronounced the best hot-pot that my guest (he was my lawyer) had ever tasted - at least so he said.\u0022\u003Cbr\u003E\n\u003Cbr\u003E\nTake a large earthenware casserole, and place in the bottom some chopped or sliced onions (shallots in this case) and celery, with chopped olives and olive vinegar. Then put in a layer of beef (in this case it was best under-cut of sirloin), of course uncooked. Then sprinkle on the beef allspice (unground), cloves (unground), pepper (black), which by rights ought to be freshly ground in a pepper-mill, and a piece or two of unground mace and some olive vinegar. A little tarragon vinegar may also have been used. Cover with thinly sliced potatoes (of course raw) and more chopped olives. (In each layer the olives should come next to the meat). Then if there is room another layer of beef, on top of which place a layer of chopped olives and finish off with onions and celery. Finish on top with more sliced potatoes. Water to nearly cover. Place casserole in an oven over-night after a fire has gone down. Next morning heat it up in oven again, about half an hour before it is required. Note: the olive vinegar and olives supply the place of salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChiddingly Onion Pie\u003C/b\u003E",
+      "relatedPageUrl": "chiddingly-onion-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chiddingly Hot Pot",
+  "usedSnapshot": "20220705101710"
+}

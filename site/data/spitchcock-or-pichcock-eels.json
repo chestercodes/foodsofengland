@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140616090658",
+  "finalPath": "spitchcock-or-pichcock-eels.html",
+  "heading": "Spitchcock (or Pichcock) Eels",
+  "ingredients": [
+    "butter",
+    "eels",
+    "lemon",
+    "rosemary",
+    "salt",
+    "vinegar",
+    "bread",
+    "eggs",
+    "herbs",
+    "pepper"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "spitchcock-or-pichcock-eels.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Spitch-Cock, or broil\u0027d Eels.\u003C/b\u003E\u003Cbr\u003E\nTake a good large eel, splat it down the back, and joynt the back-bone; being drawn, and the blood washed out, leave on the skin, and cut it in four pieces equally, salt them, and bast them with butter, or oyl and vinegar; broil them on a soft fire, and being finely broil\u0027d, serve them in a clean dish, with beaten butter and juyce of lemon, or beaten butter, and vinegar, with sprigs of rosemary round about them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "spitchcock-or-pichcock-eels.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo Pitchcot Eels.\u003C/b\u003E\u003Cbr\u003E\nTake a large Eel, clean well with Salt and Water both the Skin and the Inside, then pull off the Skin, and prepare the following Mixture of Bread grated, Sweet-herbs pouder\u0027d, or minced small, such as Sweet-marjoram, Sage, and some Pepper and Salt; then rub your Eel with Yolks of Eggs, and after that, roll it in the Mixture, then draw the Skin over it, and cut your Eel in several pieces about three Inches in length, dipping them again in Yolks of Eggs, and after that, in the above Mixture: then lay them on the Gridiron, and when they are enough, serve them to the Table, with the Sauce prescribed for the roasted Eels, abovemention\u0027d.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Spitchcock (or Pichcock) Eels",
+  "usedSnapshot": "20211130235425"
+}

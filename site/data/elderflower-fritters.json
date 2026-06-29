@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130809001330",
+  "finalPath": "elderflower-fritters.html",
+  "heading": "Elderflower Fritters",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Elderflower Fritters",
+  "usedSnapshot": "20220808011739"
+}

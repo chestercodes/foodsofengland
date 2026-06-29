@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20150922094350",
+  "finalPath": "spice-cakes.html",
+  "heading": "Spice Cakes",
+  "ingredients": [
+    "ale",
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "milk",
+    "rose water",
+    "saffron",
+    "salt",
+    "sugar",
+    "baking powder",
+    "beat",
+    "caster sugar",
+    "cinnamon",
+    "flour",
+    "plain flour",
+    "rosewater",
+    "unsalted butter"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "spice-cakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make spice Cakes\u003C/b\u003E\u003Cbr\u003E\nTo make excellent spice Cakes, take half a peck of very fine Wheat flowre, take almost one pound of sweet Butter, and some good Milk and cream mixt together, set it on the fire, and put in you Butter, and a good deal of Sugar, and let it melt together: then strain Saffron into your Milk a good quantity: then take seven or eight spoonfuls of good Ale barm, and eight eggs with two yelks, and mix them together, then put your Milk to it when it is somewhat cold, and into your flowre put Salt, Anniseeds bruised, Cloves, and Mace, and a good deal of Cinamon; then work all thgether good and stiff, that you need not work in any flower after, then put in a little Rose water cold, then rubbe it well in the thing you knead it in and work it throughly: if it be not sweet enough, scrape in a little more Sugar, and pull it all in pieces, and hurle in a good quantity of Currants, and so work all together again, and bake your Cakes as you see cause, in a gentle warm Oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "spice-cakes.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Spice%20Cakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EEssex Spice Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n10 oz caster sugar\u003Cbr\u003E\n10 oz plain flour\u003Cbr\u003E\n2 medium eggs\u003Cbr\u003E\n5 oz unsalted butter\u003Cbr\u003E\n1 tsp baking powder\u003Cbr\u003E\n1 tsp rosewater\u003Cbr\u003E\npinch ground mace\u003Cbr\u003E\npinch salt\u003Cbr\u003E\npinch ground cloves\u003Cbr\u003E\n\u00BD tsp ground cinnamon\u003Cbr\u003E\n4 tbsp currants\u003Cbr\u003E\n\u003Cbr\u003E\nCream the butter and sugar in a large bowl until light. Beat in the eggs and rosewater. Fold in all the dry ingredients. Place spoonfuls of the batter onto a greased baking sheet and bake for 10-15 minutes at 190C, 375F.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Spice Cakes",
+  "usedSnapshot": "20211207121545"
+}

@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922082336",
+  "finalPath": "norfolk-beefing-apple.html",
+  "heading": "Norfolk Beefing Apple",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Biffins",
+      "relatedPageUrl": "norfolk-dried-biffins.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EBeefing, Beaufin\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Norfolk Beefing Apple",
+  "usedSnapshot": "20220808002219"
+}

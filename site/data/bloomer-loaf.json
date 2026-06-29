@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922132936",
+  "finalPath": "bloomer-loaf.html",
+  "heading": "Bloomer Loaf",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBloom Loaf, Bloom-Loaf\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Bloomer Loaf",
+  "usedSnapshot": "20211201010956"
+}

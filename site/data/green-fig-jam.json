@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922075335",
+  "finalPath": "green-fig-jam.html",
+  "heading": "Green Fig Jam",
+  "ingredients": [
+    "jelly",
+    "lemon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-fig-jam.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E664. FIG JELLY (Surrey)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake one pound of small cooking figs, remove the stems, and pour them over some very hot water, but it should not be boiling. Leave them for a minute or two, then drain off the water. Then cut each fig in pieces, and to each pound of figs put one pound of sugar, a little grated lemon-peel, and the juice of one lemon. Put them into a pan and let them cook very slowly, until the syrup thickens and the figs become clear: stir carefully, and if it gets too thick add a little water. When cold, pour off into jars and cover tightly.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Green Fig Jam",
+  "usedSnapshot": "20170314022243"
+}

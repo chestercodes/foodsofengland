@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922073237",
+  "finalPath": "hen-with-oysters.html",
+  "heading": "Hen with Oysters",
+  "ingredients": [
+    "barberries",
+    "butter",
+    "eggs",
+    "oysters",
+    "parsley",
+    "pepper",
+    "salt",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hen-with-oysters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E23. To boil a Capon or Hen with Oysters.\u003C/b\u003E Take either of them, and fill the Belly of it with Oysters, and truss it, then boil it in white Wine, Water, the Liquor of the Oysters, a Blade or two of Mace, a little Pepper whole, and a little Salt; when it is boiled enough, take the Oysters out of the belly, and put them into a Dish, then take some Butter, and some of the Liquor it was boiled in, and two Anchoves with the yolks of Eggs well beaten, heat these together over the fire, and then put your Oysters into it, then garnish your Dish with Limon sliced thin, and some of the Oysters, also some pickled Barberries and raw Parsley, then lay your Capon or Hen in the middle of it, and pour the sauce upon the Breast of it, then lay on sliced Limon and serve it in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Hen with Oysters",
+  "usedSnapshot": "20210518201649"
+}

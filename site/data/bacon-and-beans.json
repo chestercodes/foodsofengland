@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150524220704",
+  "finalPath": "bacon-and-beans.html",
+  "heading": "Bacon and Beans",
+  "ingredients": [
+    "bacon",
+    "beer",
+    "hops"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-and-beans.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFOR TO MAKE GRONDEN BENES\u003C/b\u003E\u003Cbr\u003E\nTake benes and dry hem in a nost or in an Ovene and hulle hem wele and wyndewe out \u00FEe hulk and wayshe hem clene an do hem to see\u00FE in gode broth an ete hem with Bacon.\u003Cbr\u003E\n\u003Cbr\u003E\n[FOR TO MAKE GRONDEN BENES\u003Cbr\u003E\nTake beans, and dry them in an oast or in an oven and hull them well, and winnow out the husks and wash them clean. And set them to seethe in good broth, and eat them with bacon.]\u003Cbr\u003E\n\u003Cbr\u003E\nGronden ?= prepared, grounded, basic\u003Cbr\u003E\nOast: A wind-blown drying tower, still occasionally used for drying hops for beer.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Bacon and Beans",
+  "usedSnapshot": "20210512111506"
+}

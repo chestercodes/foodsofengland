@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922091840",
+  "finalPath": "gloucester-sauce.html",
+  "heading": "Gloucester Sauce",
+  "ingredients": [
+    "cream",
+    "lemon",
+    "mayonnaise",
+    "sour cream",
+    "tea",
+    "worcester sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-sauce.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E135 GLOUCESTER SAUCE\u003C/b\u003E\u003Cbr\u003E\nTake one pint of very thick Mayonnaise and complete it with one-fifth pint of sour cream with the juice of a lemon added, and combine with the Mayonnaise by degrees; one tea- spoonful of chopped fennel and as much Worcester sauce.\u003Cbr\u003E\nServe this with all cold meats.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Gloucester Sauce",
+  "usedSnapshot": "20220117173737"
+}

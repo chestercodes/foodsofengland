@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922075004",
+  "finalPath": "jubilee-cherries.html",
+  "heading": "Jubilee Cherries",
+  "ingredients": [
+    "cherries"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jubilee-cherries.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EJUBILEE CHERRIES\u003C/b\u003E\u003Cbr\u003E\nStone some fine cherries; poach them in syrup, and set them in small silver timbales. Reduce the syrup and thicken it with a little arrowroot, diluted with cold water; allowing one table-spoonful of arrowroot per half-pint of syrup. Cover the cherries with the thickened syrup; pour a coffee-spoonful of heated Kirsch into each timbale, and set a light to each when serving.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Jubilee Cherries",
+  "usedSnapshot": "20220920173455"
+}

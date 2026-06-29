@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922073127",
+  "finalPath": "venison-and-chestnut-stew.html",
+  "heading": "Venison and Chestnut Stew",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Venison Stew",
+      "relatedPageUrl": "venison-stew.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E",
+      "relatedPageUrl": "mailto:glyn.hughes@foodsofengland.co.uk?subject=Foods%20of%20England%20-%20Venison%20and%20Chestnut%20Stew",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Venison and Chestnut Stew",
+  "usedSnapshot": "20210518203712"
+}

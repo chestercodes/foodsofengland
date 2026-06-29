@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922085924",
+  "finalPath": "christmas.html",
+  "heading": "Christmas",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEnglish Table Service\u003C/b\u003E",
+      "relatedPageUrl": "english-service.html",
+      "relationDescription": "For how to lay out the Christmas Table, see "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWas Christmas banned by the Puritans?\u003C/b\u003E",
+      "relatedPageUrl": "christmas-banned-by-puritans.html",
+      "relationDescription": "For how to lay out the Christmas Table, see "
+    },
+    {
+      "relatedPageText": "Chrismas Dinner in the Black Pot",
+      "relatedPageUrl": "black-pot-christmas-dinner.html",
+      "relationDescription": "For how to lay out the Christmas Table, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Christmas",
+  "usedSnapshot": "20201122155559"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922073540",
+  "finalPath": "herb-tea.html",
+  "heading": "Herb Tea",
+  "ingredients": [
+    "almond",
+    "bilberry",
+    "lavender",
+    "lemon",
+    "lemon juice",
+    "peach",
+    "peppermint",
+    "raspberry",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "herb-tea.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "If betony be gathered and dried before it begins to flower, it will be found to have the taste of tea ... Hawthorn leaves dried, and one third of balm and sage, mixed together, will make a wholesome and strengthening drink. An infusion of ground ivy, mixed with a few flowers of lavender, and flavoured with a drop of lemon juice, will make an agreeable substitute for common tea. Various other vegetables ... such as sage, balm, peppermint, and similar spicy plants; the flowers of the sweet woodroof, those of the burnet, or pimpernel rose; the leaves of peach and almond trees, the young and tender leaves of bilberry, and common raspberry; and the blossoms of the blackthorn, or sloe tree. Most of these ... bear a great resemblance to the foreign teas, and are at the same time of superior flavour and salubrity.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blackberry Leaf Tea",
+      "relatedPageUrl": "blackberry-leaf-tea.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Herb Tea",
+  "usedSnapshot": "20211021023328"
+}

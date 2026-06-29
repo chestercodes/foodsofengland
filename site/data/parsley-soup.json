@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922081446",
+  "finalPath": "parsley-soup.html",
+  "heading": "Parsley Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Parsley Soup",
+  "usedSnapshot": "20220527221039"
+}

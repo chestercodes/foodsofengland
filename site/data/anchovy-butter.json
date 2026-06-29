@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150922132829",
+  "finalPath": "anchovy-butter.html",
+  "heading": "Anchovy Butter",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cayenne",
+    "flour",
+    "mustard",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "anchovy-butter.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ANCHOVY PASTE. Pound them in a mortar, rub the pulp through a fine sieve, pot it, cover it with clarified butter, and keep it in a cool place. The paste may also be made by rubbing the essence with as much flour as will make a paste; but this is only intended for immediate use, and will not keep. This is sometimes made stiffer and hotter, by the addition of a little flour of mustard, a pickled walnut, spice, or cayenne.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Anchovy Butter",
+      "relatedPageUrl": "anchovy-butter.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Anchovy Powder",
+      "relatedPageUrl": "anchovy-powder.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gentleman\u0027s Relish",
+      "relatedPageUrl": "gentleman-s-relish.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EAnchovy Paste\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Anchovy Butter",
+  "usedSnapshot": "20211201010711"
+}

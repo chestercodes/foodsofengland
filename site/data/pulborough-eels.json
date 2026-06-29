@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616085634",
+  "finalPath": "pulborough-eels.html",
+  "heading": "Pulborough Eels",
+  "ingredients": [
+    "eels",
+    "eggs",
+    "fish stock",
+    "onions",
+    "parsley",
+    "pastry",
+    "pepper",
+    "pork",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pulborough-eels.html-1",
+      "receiptSource": "Original Receipt from\u0027 \u003Ci\u003EOld Sussex Recipes\u003C/i\u003E \u0027 - Rottingdean Lions, published March 1982 (with thanks to Linda Johnson)",
+      "receiptText": "\u003Cb\u003EPulborough Eels\u003C/b\u003E - page 13\u003Cbr\u003E\nAnon c1880\u003Cbr\u003E\n\u003Cbr\u003E\nPulborough is on the River Arun and is a very popular freshwater fishing spot.\u003Cbr\u003E\n\u003Cbr\u003E\n2lb skinned and boned eels\u003Cbr\u003E\n2lb savoury suet pastry\u003Cbr\u003E\n5oz chopped pickled pork\u003Cbr\u003E\nOne tablespoon chopped onions.\u003Cbr\u003E\n4 eggs, hard boiled\u003Cbr\u003E\n2 tablespoons chopped parsley\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nCut the eels into one-inch pieces. Put the trimmings into a pan with water and bring to the boil. Simmer for ten to fifteen minutes. Line a three pint greased pudding basin with three-quarters of the suet pastry. Fill the basin with eels, pork, onions and chopped eggs; sprinkle the layers with parsley mixed with salt and pepper. Strain the fish stock and pour five fluid ounces over the eels. Cover the basin with the remaining suet pastry, tie down and steam for 90 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pulborough Eels",
+  "usedSnapshot": "20210510054129"
+}

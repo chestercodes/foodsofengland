@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20231210003242",
+  "finalPath": "malted-wheat-bread.html",
+  "heading": "Malted Wheat Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u0027Malthouse Loaf\u0027 \u0027Malthouse Bread\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Malted Wheat Bread",
+  "usedSnapshot": "20231210003242"
+}

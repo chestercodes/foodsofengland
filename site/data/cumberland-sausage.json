@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140125041216",
+  "finalPath": "cumberland-sausage.html",
+  "heading": "Cumberland Sausage",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cumberland Sausage",
+  "usedSnapshot": "20210620005131"
+}

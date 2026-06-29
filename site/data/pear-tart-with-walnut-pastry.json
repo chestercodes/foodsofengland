@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140212015040",
+  "finalPath": "pear-tart-with-walnut-pastry.html",
+  "heading": "Pear Tart with Walnut Pastry",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Pear Tart with Walnut Pastry",
+  "usedSnapshot": "20211129112744"
+}

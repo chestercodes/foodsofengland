@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922082612",
+  "finalPath": "fruit-chutney.html",
+  "heading": "Fruit Chutney",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fruit Chutney",
+  "usedSnapshot": "20170314132746"
+}

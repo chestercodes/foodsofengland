@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150913023155",
+  "finalPath": "savoury-pudding-derby-version.html",
+  "heading": "Savoury Pudding - Derby version",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Savoury Pudding - Derby version",
+      "relatedPageUrl": "savoury-pudding-derby-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Pudding - Lancashire version",
+      "relatedPageUrl": "savoury-pudding-lancashire-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Pudding - Yorkshire version",
+      "relatedPageUrl": "savoury-pudding-yorkshire-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Pudding - Sussex Version",
+      "relatedPageUrl": "savoury-pudding-sussex-version.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Savoury Pudding - Derby version",
+  "usedSnapshot": "20211129105417"
+}

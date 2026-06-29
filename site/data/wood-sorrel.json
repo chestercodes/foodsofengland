@@ -1,0 +1,33 @@
+﻿{
+  "earliestSnapshot": "20150922073417",
+  "finalPath": "wood-sorrel.html",
+  "heading": "Wood Sorrel",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Wood Sorrel",
+      "relatedPageUrl": "wood-sorrel.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Green-Goose Sauce",
+      "relatedPageUrl": "green-goose-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wood Sorrel",
+  "usedSnapshot": "20170314150319"
+}

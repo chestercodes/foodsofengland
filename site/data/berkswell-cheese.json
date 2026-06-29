@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616080550",
+  "finalPath": "berkswell-cheese.html",
+  "heading": "Berkswell Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Warwickshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Berkswell Cheese",
+  "usedSnapshot": "20211019181910"
+}

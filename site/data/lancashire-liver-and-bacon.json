@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922081924",
+  "finalPath": "lancashire-liver-and-bacon.html",
+  "heading": "Lancashire Liver and Bacon",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Liver and Bacon",
+      "relatedPageUrl": "liver-and-bacon.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Lancashire Liver and Bacon",
+  "usedSnapshot": "20220517184052"
+}

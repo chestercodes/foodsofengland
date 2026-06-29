@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922074523",
+  "finalPath": "veal-kidney-pie.html",
+  "heading": "Veal Kidney Pie",
+  "ingredients": [
+    "breadcrumbs",
+    "celery",
+    "eggs",
+    "fat",
+    "herbs",
+    "kidney",
+    "kidneys",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "veal",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "veal-kidney-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "101. VEAL KIDNEY PIE (Hertfordshire) Mince two veal kidneys with some of the fat that surrounds them, season with herbs, cloves, nutmeg, pepper and salt, and a little chopped celery. Put in a pie-dish with four hard-boiled eggs in slices, haH a cupful of breadcrumbs, a wineglassful of white wine and a little stock. Cover with a good crust, and bake for two hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Veal Kidney Pie",
+  "usedSnapshot": "20210510055251"
+}

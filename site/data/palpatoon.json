@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140212015932",
+  "finalPath": "palpatoon.html",
+  "heading": "Palpatoon",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "egg",
+    "eggs",
+    "gravy",
+    "mushrooms",
+    "oysters",
+    "pepper",
+    "pigeons",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "palpatoon.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E146. To make a PALPATOON of PIGEONS.\u003C/b\u003E\u003Cbr\u003E\nTake mushrooms, pallets, oysters and sweet-breads, fry them in butter, put all these in a strong gravy, heat them over the fire, and thicken them up with an egg and a little butter; then take six or eight pigeons, truss them as you would for baking, season them with pepper and salt, and lay on them a crust of forc\u0027d-meat as follows, viz. a pound of veal cut in little bits, and a pound and a half of marrow, beat it together in a stone mortar, after it is beat very fine, season it with mace, pepper and salt, put in the yolks of four eggs, and two raw eggs, mix altogether with a few bread crumbs to a paste: make the sides and lid of your pie with it, then put your ragoo into your dish, and lay in your pigeons with butter; an hour and a half will bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Small Waterfow",
+      "relatedPageUrl": "small-waterfowl.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003Epolpettone, pompetone, pulpatoon, pulpatoone\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Palpatoon",
+  "usedSnapshot": "20211207115753"
+}

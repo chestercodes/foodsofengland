@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922074302",
+  "finalPath": "bottle-bird.html",
+  "heading": "Bottle-Bird",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Bottle-Bird",
+  "usedSnapshot": "20211019190839"
+}

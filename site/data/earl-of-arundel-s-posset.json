@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922082023",
+  "finalPath": "earl-of-arundel-s-posset.html",
+  "heading": "Earl of Arundel\u0027s Posset",
+  "ingredients": [
+    "ale",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "earl-of-arundel-s-posset.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Posset, the Earle of Arundels Way.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of Creame, and a quarter of a Nutmeg in it, then put it on the fire, and let it boyl a little while, and as it is boyling take a Pot or Bason, that you meane to make your Posset in, and put in three spoonfuls of Sack, and some eight of Ale, and sweeten it with Sugar, then set it over the coles to warm a little while, then take it off and let it stand till it be almost cool, then put it into the Pot or Bason and stir it a little, and let it stand to simper over the fire an hour or more, for the longer the better.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPosset\u003C/b\u003E",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Earl of Arundel\u0027s Posset",
+  "usedSnapshot": "20211027034224"
+}

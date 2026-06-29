@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20170314023609",
+  "finalPath": "southwold-buns.html",
+  "heading": "Southwold Buns",
+  "ingredients": [
+    "butter",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "sultanas",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "southwold-buns.html-1",
+      "receiptSource": "Original Receipt from BBC Suiffolk 19/11/2007",
+      "receiptText": "\u003Cb\u003ESt Edmund\u0027s Buns\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1-and-a-half lbs flour\u003Cbr\u003E\n1-and-a-half teaspoons of salt\u003Cbr\u003E\n2 oz of butter\u003Cbr\u003E\n2 teaspoons of mixed spice\u003Cbr\u003E\n3 oz Sugar\u003Cbr\u003E\n4 oz sultanas\u003Cbr\u003E\n1/2 pint tepid milk\u003Cbr\u003E\n1/4 pint of tepid water\u003Cbr\u003E\n1 oz of yeast\u003Cbr\u003E\n\u003Cbr\u003E\nMix together and then place small portions of the dough onto a baking tray.\u003Cbr\u003E\nAllow to rise in a warm place until nearly double in size. Then bake in a preheated oven at 300 to 350 degrees for about 25 to 30 minutes, or until brown.\u003Cbr\u003E\nCover with sugar solution and enjoy! Best eaten warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Southwold"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Southwold Buns",
+  "usedSnapshot": "20220706152116"
+}

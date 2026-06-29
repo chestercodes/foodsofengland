@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20130808232033",
+  "finalPath": "splits.html",
+  "heading": "Splits",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "butter",
+    "cream",
+    "currants",
+    "flour",
+    "milk",
+    "salt",
+    "self-raising flour",
+    "sultanas",
+    "bread",
+    "lard",
+    "yeast"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "splits.html-1",
+      "receiptSource": "Original Receipt from Dundee Evening Telegraph - Thursday 19 April 1906",
+      "receiptText": "SOME EASILY MADE HOT TEACAKES.\u003Cbr\u003E\n(By Mrs Alfred Praga, in the Lady.)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECornish Splits.\u003C/b\u003E-Place twelve ounces of self-raising flour in a clean, deep basin, add to it a good pinch salt, and work in eight ounces of either butter or clarified beef dripping. Then add eight ounces of well-dried and washed sultanas, or, if liked, four ounces of sultanas and four ounces of well-washed and dried currants. Moisten with milk, and work to a smooth paste. Roll out to the thickness of an inch and a half, and stamp out into rounds and squares. Bake in moderately hot oven, split with silver fork (they must not touched with a knife, note), and spread thickly with Devonshire cream. Serve hot as possible. They must not kept waiting when spread with the cream.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "splits.html-2",
+      "receiptSource": "Original Receipt from Southern Reporter - Thursday 21 March 1929",
+      "receiptText": "Home Confectionery.\u003Cbr\u003E\nCornish Splits.-These splits can be used instead of bread. Take 2 lb. of flour. 1 oz. of yeast, 1 teaspoonful of salt, small piece of lard, milk; put the flour in the basin with the salt, mix yeast in a little warm water and put yeast in basin and let it stand for half an hour. Warm the milk with the lard added, mix it with the flour. Knead well and then let it stand for another hour. Roll to 1 inch in thickness, cut with small cutter, put on a floured tin. let stand for hour, and then hake for minutes. When cold cut open and butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ECornish Splits\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Splits",
+  "usedSnapshot": "20220705084326"
+}

@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140814023008",
+  "finalPath": "panackelty.html",
+  "heading": "Panackelty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EPanaculty\u003C/b\u003E, \u003Cb\u003EPanacalty\u003C/b\u003E, \u003Cb\u003EPenaclty\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Panackelty",
+  "usedSnapshot": "20220619070920"
+}

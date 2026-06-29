@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130322201446",
+  "finalPath": "cumberland-pie.html",
+  "heading": "Cumberland Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cumberland Pie",
+  "usedSnapshot": "20220401064848"
+}

@@ -1,0 +1,80 @@
+﻿{
+  "earliestSnapshot": "20150922081101",
+  "finalPath": "hunter-s-pudding.html",
+  "heading": "Hunter\u0027s Pudding",
+  "ingredients": [
+    "beef",
+    "brandy",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar",
+    "white wine",
+    "currants",
+    "jamaica peppers",
+    "melon",
+    "milk",
+    "peach",
+    "almonds",
+    "beat",
+    "bread",
+    "currant",
+    "custard",
+    "jelly"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "hunter-s-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E131. A HUNTING PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of fine flour, a pound of beef-suet shred fine, three quarters of a pound of currans well cleaned, a quartern of raisins stoned and shred, five eggs, a little lemon-peel shred fine, half a nutmeg grated, a jill of cream, a little salt, about two spoonfuls of sugar, and a little brandy, so mix all well together, and tie it up right in your cloth; it will take two hours boiling; you must have a little white wine and butter for your sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hunter-s-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EHUNTERS\u0027 PUDDING.\u003C/b\u003E\u003Cbr\u003E\nMix a pound of suet, ditto flour, ditto currants, ditto raisins, stoned and a little cut, the rind of half a lemon shred as fine as possible, six Jamaica peppers, in fine powder, four eggs, a glass of brandy, a little salt, and as little milk as will make it of a proper consistence; boil it in a floured cloth, or a melon-mould, eight or nine hours. Serve with sweet-sauce. Add sometimes a spoonful of peach-water for change of flavour.\u003Cbr\u003E\nThis pudding will keep, after it is boiled, six months, if kept tied up in the same cloth, and hung up, folded in a sheet of cap-paper, to preserve it from dust, being first cold. When to be used, it must boil a full hour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hunter-s-pudding.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHUNTER\u0027S PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1288. INGREDIENTS. - 1 lb. of raisins, 1 lb. of currants, 1 lb. of suet, 1 lb. of bread crumbs, 3 lb. of moist sugar, 8 eggs, 1 tablespoonful of flour, 3 lb of mixed candied peel, 1 glass of brandy, 10 drops of essence of lemon, 10 drops of essence of almonds, \u00BD nutmeg, 2 blades of mace, 6 cloves.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Stone and shred the raisins rather small, chop the suet finely, and rub the bread until all lumps are well broken; pound the spice to powder,\u0026nbsp;\u0026nbsp;\u0026nbsp;cut the candied peel into thin shreds, and mix all these ingredients well together, adding the sugar. Beat the eggs to a strong froth, and as they are\u0026nbsp;\u0026nbsp;\u0026nbsp;beaten, drop into them the essence of lemon and essence of almonds; stir these to the dry ingredients, mix well, and add the brandy. Tie the pudding firmly in a cloth, and boil it for 6 hours at the least: 7 or 8 hours would be still better for it. Serve with boiled custard, or red-currant jelly, or brandy sauce.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - 6 to 8 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 3s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E for 9 or 10 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E in winter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EHunting Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Hunter\u0027s Pudding",
+  "usedSnapshot": "20220808010950"
+}

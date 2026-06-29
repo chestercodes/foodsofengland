@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922072332",
+  "finalPath": "black-butter.html",
+  "heading": "Black Butter",
+  "ingredients": [
+    "brandy",
+    "butter",
+    "cherries",
+    "currants",
+    "gooseberries",
+    "raspberries",
+    "sugar",
+    "parsley",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "black-butter.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BLACK BUTTER. Boil a pound of moist sugar with three pounds of gooseberries, currants, raspberries, and cherries, till reduced to half the quantity. Put it into pots covered with brandy paper, and it will be found a pleasant sweetmeat.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "black-butter.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E425A. Black Butter\u003C/b\u003E.- Put two ounces of salt butter in a stew pan, set it on the fire; when it gets hot and brown add about twenty parsley leaves, half a teaspoonful of salt, a quarter of that of pepper, and two tablespoonfuls of vinegar, let the whole boil one minute and pour over any article suitable for this kind of sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Black Butter",
+  "usedSnapshot": "20220819120233"
+}

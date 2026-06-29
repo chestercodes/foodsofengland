@@ -1,0 +1,83 @@
+﻿{
+  "earliestSnapshot": "20140508115551",
+  "finalPath": "cracknels.html",
+  "heading": "Cracknels",
+  "ingredients": [
+    "butter",
+    "coriander",
+    "cream",
+    "egg",
+    "eggs",
+    "rose-water",
+    "sugar",
+    "beat",
+    "flour",
+    "pastry",
+    "rose water",
+    "salt",
+    "caraway seeds",
+    "chocolate"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "cracknels.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Cracknels.\u003C/b\u003E\u003Cbr\u003E\nTake halfe a pound of fine flower, dryed and searced, as much fine sugar searced, mingled with a spoonfull of Coriander-seed bruised, halfe a quarter of a pound of butter rubbed in the flower and sugar, then wet it with the yolks of two Eggs, and halfe a spoonfull of white Rose-water, a spoonfull or little more of Cream as will wet it; knead the Past till it be soft and limber to rowle well, then rowle it extreame thin, and cut them round by little plates; lay them up on buttered papers, and when they goe into the Oven, prick them, and wash the Top with the yolk of an Egg beaten, and made thin with Rose-water or faire water; they will give with keeping, therefore before they are eaten, they must be dryed in a warme Oven to make them crisp.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cracknels.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECRACKNELS\u003C/b\u003E\u003Cbr\u003E\nTo half a pound of best white flour sifted add half a pound of sifted loaf sugar, a quarter of a pound of fresh butter, two table spoonfuls of rose water, a little salt, the yolks tind whites of three eggs beat up, and mix all well together for twenty minutes. Then roll it out, cut it into what shapes you please with a pastry cutter, put them on baking plates rubbed with butter, wash the tops of the paste with whites of eggs well beaten, and bake them in a brisk oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cracknels.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "761. CRACKNELS (Yorkshire, 1769)\u003Cbr\u003E\n\u003Cbr\u003E\nTake half a pound of fine flour, half a pound of sugar, two ounces of butter, two eggs, and a few caraway seeds. You must beat and sift the sugar, and put it to your flour and work it to paste. Roll this as thin as you can, and cut out the cracknels with queen-cake tins. Lay them on paper and bake them in a slow oven. They are proper to eat with chocolate.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blackburn Cracknels",
+      "relatedPageUrl": "blackburn-cracknels.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Cracknels",
+  "usedSnapshot": "20211018082919"
+}

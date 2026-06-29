@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922133041",
+  "finalPath": "white-onion-soup.html",
+  "heading": "White Onion Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "White Onion Soup",
+  "usedSnapshot": "20210518210851"
+}

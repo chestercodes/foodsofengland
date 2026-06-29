@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922075858",
+  "finalPath": "poultry-with-citrus-sauce.html",
+  "heading": "Poultry with Citrus Sauce",
+  "ingredients": [
+    "salt",
+    "sugar",
+    "ginger",
+    "oranges",
+    "prunes",
+    "white wine"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "poultry-with-citrus-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo boyle a Capon with Orenges or Lemmons.\u003C/b\u003E\u003Cbr\u003E\nTake your Capon and boyle him tender and take a little of the broth when it is boyled and put it into a pipkin with Mace and Sugar a good deale, and pare three Orenges and pil them and put them in your pipkin, and boile them a little among your broth, and thicken it with wine and yolkes of egges, and Sugar a good deale, and salt but a little, and set your broth no more on the fire for quailing, and serve it without sippets.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "poultry-with-citrus-sauce.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo boyle a Capon with Oranges after Mistres Duffelds way.\u003C/b\u003E\u003Cbr\u003E\nTAke a Capon and boyle it with Ueale, or with a mary bone, or what your fancie is. Then take a good quantitie of that broth, and put it in an earthen pot by it selfe, and put thereto a good handfull of Corrans, and as manie Prunes, and a few whole Maces, and some Marie, and put to this broth a good quantitie of white wine or of Claret, and so let them seeth softly together: Then take your Orenges, and with a knife scrape of all the filthinesse of the outside of them. Then cut them in the middest, and wring out the ioyse of three or foure of them, put the ioyse into your broth with the rest of your stuffe, then slice your Orenges thinne, and haue vpon the fire readie a skellet of faire seething water, and put your sliced Orenges into the water, \u0026 when that water is bitter, haue more readie, and so change them still as long as you can finde the great bitternesse in the water, which will be sixe or seven times, or more, if you find need: then take them from the water, and let that runne cleane from them: then put close Orenges into your potte with your broth, and so let them stew together till your Capon be readie. Then make your sops with this broth, and cast on a litle Sinamon, Ginger, and Sugar, and vpon this lay your Capon, and some of your Orenges vpon it, and some of your Marie, and towarde the end of the boyling of your broth, put in a little Uergious, if you think best.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Poultry with Citrus Sauce",
+  "usedSnapshot": "20220527054224"
+}

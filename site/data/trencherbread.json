@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073838",
+  "finalPath": "trencherbread.html",
+  "heading": "Trencherbread",
+  "ingredients": [
+    "beat",
+    "egg",
+    "eggs",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "trencherbread.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E219. To make white Trencher-Plates which may be eaten.\u003C/b\u003E Take two Eggs beaten very well, Yolks and Whites, two spoonfuls of Sack, one spoonful of Rosewater, and so much flower as will make it into a stiff Paste, then roule it thin, and then lay it upon the outsides of Plates well-buttered, cut them fit to the Plates, and bake them upon them, then take them forth, and when they are cold, take a pound of double refin\u0027d Sugar beaten and searced, with a little Ambergreece, the White of an Egg and Rosewater, beat these well together, and Ice your Plates all over with it, and set them into the Oven again till they be dry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Trencherbread",
+  "usedSnapshot": "20211205165839"
+}

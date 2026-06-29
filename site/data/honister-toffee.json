@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082352",
+  "finalPath": "honister-toffee.html",
+  "heading": "Honister Toffee",
+  "ingredients": [
+    "butter",
+    "golden syrup",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "honister-toffee.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Honister%20Toffee\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Small tin: unsweetened condensed milk\u003Cbr\u003E\n2 tbsp: Golden Syrup\u003Cbr\u003E\n120g: butter,\u003Cbr\u003E\n240g: sugar\u003Cbr\u003E\n\u003Cbr\u003E\nSlowly melt the butter, sugar and syrup together. Add the condensed milk, stirring continuously until the mixture darkens and thickens. Pour into buttered moulds to set.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Honister Toffee",
+  "usedSnapshot": "20220527225517"
+}

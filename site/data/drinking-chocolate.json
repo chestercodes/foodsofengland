@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922093633",
+  "finalPath": "drinking-chocolate.html",
+  "heading": "Drinking Chocolate",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChocolate in England\u003C/b\u003E",
+      "relatedPageUrl": "chocolate.html",
+      "relationDescription": "For more on the history see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Drinking Chocolate",
+  "usedSnapshot": "20220810052419"
+}

@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20150922084313",
+  "finalPath": "nelson-s-blood.html",
+  "heading": "Nelson\u0027s Blood",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBumpo\u003C/b\u003E",
+      "relatedPageUrl": "bumpo.html",
+      "relationDescription": "For other forms of rum, see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGrog\u003C/b\u003E",
+      "relatedPageUrl": "grog.html",
+      "relationDescription": "For other forms of rum, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson Sole",
+      "relatedPageUrl": "lord-nelson-sole.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson Veal",
+      "relatedPageUrl": "lord-nelson-veal.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson\u0027s Cutlets",
+      "relatedPageUrl": "lord-nelson-s-cutlets.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Ball Pudding",
+      "relatedPageUrl": "nelson-ball-pudding.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Balls",
+      "relatedPageUrl": "nelson-balls.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Slices",
+      "relatedPageUrl": "nelson-slices.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Squares",
+      "relatedPageUrl": "nelson-squares.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson\u0027s Blood",
+      "relatedPageUrl": "nelson-s-blood.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Nelson\u0027s Blood",
+  "usedSnapshot": "20211205164346"
+}

@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922090254",
+  "finalPath": "cumberland-venison.html",
+  "heading": "Cumberland Venison",
+  "ingredients": [
+    "butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cumberland-venison.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "1795 SELLE DE CHEVREUIL A LA CUMBERLAND\u003Cbr\u003E\n[SADDLE OF VENISON THE CUMBERLAND WAY]\u003Cbr\u003E\nRoast it like a haunch of venison, without marinading it. Send it to the table with a timbale of French beans, cohered with butter, and serve a \u003Ca href=\u0022cumberland-sauce.html\u0022\u003E\u003Cb\u003ECumberland sauce (No. 134)\u003C/b\u003E\u003C/a\u003E separately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Cumberland Venison",
+  "usedSnapshot": "20210512112905"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922072234",
+  "finalPath": "wholemeal-scones.html",
+  "heading": "Wholemeal Scones",
+  "ingredients": [
+    "baking powder",
+    "butter",
+    "cream",
+    "milk",
+    "salt",
+    "scones",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wholemeal-scones.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "921. WHEATMEAL SCONES (Isle of Wight)\u003Cbr\u003E\n\u003Cbr\u003E\nHalf a pound of wheatmeal, one teaspoonful of sugar, a pinch of salt, one or two ounces of butter, one and a half teaspoonfuls of baking powder. Rub the butter into the meal, add the salt, sugar, and baking powder. Mix to a stiff paste with cream or milk; turn on to a floured board, roll out about half an inch thick. Cut with a round cutter, or in triangles. Bake about fifteen minutes. Serve hot or cold, with butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Scones",
+      "relatedPageUrl": "scones-2.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Wholemeal Scones",
+  "usedSnapshot": "20211201033501"
+}

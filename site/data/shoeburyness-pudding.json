@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073114",
+  "finalPath": "shoeburyness-pudding.html",
+  "heading": "Shoeburyness Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "custard",
+    "egg",
+    "egg whites",
+    "eggs",
+    "flour",
+    "milk",
+    "pudding",
+    "salt",
+    "self-raising flour",
+    "sugar",
+    "unsalted butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shoeburyness-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Shoeburyness%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EShoeburyness Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 tbsp caster sugar\u003Cbr\u003E\n2 medium eggs, separated\u003Cbr\u003E\n2 tbsp self-raising flour\u003Cbr\u003E\n4 tbsp unsalted butter\u003Cbr\u003E\n300 ml milk\u003Cbr\u003E\n1 pinch salt\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat the oven to Gas Mark 4, 180\u00B0C, 350\u00B0F.\u003Cbr\u003E\n\u003Cbr\u003E\nMix the dry ingredients in a bowl and beat in the yolks and milk to make a batter.\u003Cbr\u003E\nIn a clean bowl whisk the egg whites until stiff and fold into the batter.\u003Cbr\u003E\nSpoon the mixture into a baking dish or pudding basin. Place the dish or basin in the centre of a roasting tray and almost fill the tray with boiling water.\u003Cbr\u003E\nPlace the tray carefully into the oven and bake for about 40 minutes until light golden, risen and set. Insert a skewer into the centre and if it comes out clean, it is ready.\u003Cbr\u003E\nServe immediately with fresh custard, and a little stewed fruit if desired.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Shoeburyness Pudding",
+  "usedSnapshot": "20200116024305"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922103408",
+  "finalPath": "spring-green-soup.html",
+  "heading": "Spring Green Soup",
+  "ingredients": [
+    "fat",
+    "onion",
+    "pepper",
+    "potato",
+    "salt",
+    "semolina",
+    "sugar",
+    "cream",
+    "flour",
+    "margarine",
+    "milk",
+    "onions",
+    "peas",
+    "potatoes",
+    "spring onions",
+    "watercress"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "spring-green-soup.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ELichfield Mercury\u003C/i\u003E\u0027 - Friday 29 March 1946",
+      "receiptText": "\u003Cb\u003ESPRING GREEN SOUP\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3ozs. green part spring onion, \u00BE oz. dripping other fat, 2 pints boiling water, \u00BD lb. potato, finely diced, 1 lb outer leaves of spring greens, 1 oz semolina, \u00BD teaspoon sugar, salt and pepper. Melt the fat in a saucepan. Chop onion finely and fry gently for 5 minutes. Add the water and potato with some salt and bring to the boil. Shred the greens very finely including the \u0027mid-rib\u0027 of the leaves and the tender parts of the stalk. Add to the pan and boil for 5 minutes. Stir in the semolina and sugar and cook for a further 10 minutes or till vegetables are tender. Add seasoning and serve.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "spring-green-soup.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ECheltenham Chronicle\u003C/i\u003E\u0027 - Saturday 21 May 1949",
+      "receiptText": "\u003Cb\u003ESPRING GREEN SOUP\u003C/b\u003E\u003Cbr\u003E\nAny tender parts of the pea pods can be used if all skins and threads are removed. Use 4oz. spring onions, 1oz. margarine, bunch watercress, \u00BD lb. potatoes, \u00BD lb fresh peas, if available, 2 pints boiling water, pint milk, 1oz. flour and salt, pepper and sugar. Trim onions leaving on as much of the green as possible, wash and cut into short lengths. Heat margarine in a saucepan, add onions and toss over the heat for four or five minutes. Prepare and chop watercress, peel and dice, potatoes and shell the peas. Place in pan, add the water, pepper, salt and pinch of sugar. Cook for 20 or 30 minutes till vegetables are tender. Add milk bring to boil, and mix in the flour blended to a thin cream with cold, water. Simmer, stirring, for a few minutes and adjust the seasoning.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Spring Green Soup",
+  "usedSnapshot": "20220527211523"
+}

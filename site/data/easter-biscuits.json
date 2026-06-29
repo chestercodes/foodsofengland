@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140508110340",
+  "finalPath": "easter-biscuits.html",
+  "heading": "Easter Biscuits",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "castor sugar",
+    "currants",
+    "egg",
+    "flour",
+    "lemon",
+    "milk",
+    "salt",
+    "sugar",
+    "baking powder",
+    "beat",
+    "caster sugar",
+    "plain flour"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "easter-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESussex Agricultural Express\u003C/i\u003E\u0027 - Friday 12 April 1935",
+      "receiptText": "\u003Cb\u003EEASTER BISCUITS\u003C/b\u003E 8 ozs. flour, 5 ozs. butter, ozs. castor sugar, 1 egg, 2 ozs. currants, A few strips of candied peel. Lemon rind, teaspoonful of mixed spice, Pinch of salt. Rub the butter into the flour, sugar, spice, lemon rind and salt; add currants and candied peel. Make into stiff dough with the egg and very little milk, if necessary. Roll out to i inch thick and cut into rounds with fancy cutter. Place on a greased baking sheet and bake in a moderate oven until brown and crisp. When almost cooked brush over with a little beaten white of egg and sprinkle with castor sugar. Return to the oven to finish cooking.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "easter-biscuits.html-2",
+      "receiptSource": "Original Receipt from Hobbs House Bakery, Chipping Sodbury, Bristol",
+      "receiptText": "EASTER BISCUITS\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n100g organic golden caster sugar\u003Cbr\u003E\n1 organic egg\u003Cbr\u003E\n\u00BD tsp baking powder\u003Cbr\u003E\n80g currants\u003Cbr\u003E\n100g soft butter\u003Cbr\u003E\n250g plain flour\u003Cbr\u003E\n2 tbsp milk\u003Cbr\u003E\ntiny drop of oil of cassia or 1 tsp mixed spice\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nHeat your oven to 200\u00B0C. Put greaseproof paper on a big baking tray.\u003Cbr\u003E\nBeat the sugar and butter together until soft and fluffy.\u003Cbr\u003E\nAdd the egg and whip until fully incorporated.\u003Cbr\u003E\nFold in the flour, baking powder and spice.\u003Cbr\u003E\nGently mix the lot together whilst adding the milk, tweak your quota of milk to yield a roll-out-able dough.\u003Cbr\u003E\nLastly, knead in the currants.\u003Cbr\u003E\nOn a floured table, roll your dough to about 5mm thick.\u003Cbr\u003E\nStamp out your biscuits with a pretty cutter and lay on the tray.\u003Cbr\u003E\nBake until the edges just start to turn golden and they have the tiniest bit of colour underneath (about 12 minutes) and remove immediately.\u003Cbr\u003E\nSprinkle with caster sugar while still hot, then allow to cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Easter Biscuits",
+  "usedSnapshot": "20220808014941"
+}

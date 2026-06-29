@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140212021259",
+  "finalPath": "buckinghamshire-dumpling.html",
+  "heading": "Buckinghamshire Dumpling",
+  "ingredients": [
+    "bacon",
+    "herbs",
+    "liver",
+    "onions",
+    "parsley",
+    "pastry",
+    "pepper",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "buckinghamshire-dumpling.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Buckinghamshire%20Dumpling\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1lb Suet Pastry\u003Cbr\u003E\n12oz Lean Bacon Rashers\u003Cbr\u003E\n12oz Pigs Liver, chopped\u003Cbr\u003E\n8oz Onions, chopped\u003Cbr\u003E\n1 teasp Chopped Sage\u003Cbr\u003E\n2 teasp chopped Parsley\u003Cbr\u003E\nPepper\u003Cbr\u003E\n\u003Cbr\u003E\n1. Roll the pastry out to a rectangle about \u00BC inch thick.\u003Cbr\u003E\n2. Spread the bacon rashers, liver and onions evenly over the pastry , leaving a 1-inch border then sprinkle with the chopped herbs and pepper.\u003Cbr\u003E\n3. Dampen the edges of the pastry, roll up lightly and seal the edges.\u003Cbr\u003E\n4. Wrap the dumpling in pleated greaseproof paper then loosely with aluminium foil, making sure you seal the parcel securely then steam for 2\u00BD to 3 hours. Serve hot\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Buckinghamshire Dumpling",
+  "usedSnapshot": "20220809190348"
+}

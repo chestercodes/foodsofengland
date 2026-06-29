@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20131217112926",
+  "finalPath": "bolton-hotpot.html",
+  "heading": "Bolton Hotpot",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Bolton Hotpot",
+  "usedSnapshot": "20211021023650"
+}

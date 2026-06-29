@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20170314015151",
+  "finalPath": "barley-bread.html",
+  "heading": "Barley Bread",
+  "ingredients": [
+    "barley",
+    "bread",
+    "flour",
+    "salt",
+    "yeast"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "barley-bread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESouthern Reporter\u003C/i\u003E\u0027 - Thursday 18 July 1918",
+      "receiptText": "BARLEY BREAD.- Mix two pounds of barley flour with small teaspoonful salt. Rub one ounce of yeast smooth with a teacup full of tepid water, and pour it into the centre of the flour. Make into a light dough with more warm water, and set near the fire rise. When risen to twice its size, knead the dough well, then put it into two greased tins and let rise again for half an hour. Bake in a brisk oven. Two pounds of barley flour should make three pounds of bread.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "barley-bread.html-2",
+      "receiptSource": "Original Receipt from the Dublin \u0027\u003Ci\u003EFreeman\u0027s Journal\u003C/i\u003E\u0027 - Monday 31 December 1838",
+      "receiptText": "\u003Cb\u003EBARLEY BREAD.\u003C/b\u003E\u003Cbr\u003E\nWe have been requested by a friend to call the attention of our readers to the capabilities of fine barley flour, raised with yeast in the usual way, for producing bread of excellent quality and palatableness. This bread, which can be made at the rate of 5lbs. for a shilling, is represented to us as being much sweeter and more palatable than the common brown wheat bread, and as the price is so much less, and the supply of wheat flour promises to be so deficient, we have thought it our duty to mention the circumstance - \u003Ci\u003ELancaster Guardian\u003C/i\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Barley Bread",
+  "usedSnapshot": "20210620014128"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073856",
+  "finalPath": "cornish-junket.html",
+  "heading": "Cornish Junket",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cornish Junket",
+  "usedSnapshot": "20211027043233"
+}

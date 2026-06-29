@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922072302",
+  "finalPath": "boiled-gooseberry-pudding.html",
+  "heading": "Boiled Gooseberry Pudding",
+  "ingredients": [
+    "cream",
+    "gooseberries",
+    "pudding",
+    "suet",
+    "sugar",
+    "beat",
+    "cinnamon",
+    "egg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "boiled-gooseberry-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBOILED GOOSEBERRY PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1284. INGREDIENTS: \u00BE lb. of suet crust No. 1215, 1-\u00BD pint of green gooseberries, \u00BC lb. of moist sugar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Line a pudding-basin with suet crust no. 1215, rolled out to about\u00BD inch in thickness, and, with a pair of scissors, cut off the tops and tails of the gooseberries; fill the basin with the fruit, put in the sugar, and cover with crust. Pinch the edges of the pudding together, tie over it a floured cloth, put it into boiling water, and boil from 2-\u00BD to 3 hours; turn it out of the basin, and serve with a jug of cream.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 2-\u00BD to 3 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E:, 10d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 6 or 7 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from May to July.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "boiled-gooseberry-pudding.html-2",
+      "receiptSource": "Original Receipt from Barnsley Chronicle, etc. - Saturday 12 October 1895",
+      "receiptText": "\u003Cb\u003EBoiled gooseberry pudding\u003C/b\u003E is rendered still better if served with Kentish Sauce. The pudding is mode as usual, but without any sugar, or, if berries are very sour, very little may added, and put on boil. Beat up egg, then beat in about three tablespoonfuls of moist sugar and half a teaspoonful of powdered cinnamon. When the puddiug is cooked and placed on the dish in which it is served, cut a small round out the top it, pour in the egg and the sugar, replace top, serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Boiled Gooseberry Pudding",
+  "usedSnapshot": "20220516213437"
+}

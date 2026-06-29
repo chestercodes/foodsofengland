@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130211075202",
+  "finalPath": "reading-sauce.html",
+  "heading": "Reading Sauce",
+  "ingredients": [
+    "anchovy",
+    "cayenne",
+    "ginger",
+    "mustard",
+    "pepper",
+    "shalots",
+    "soy",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "reading-sauce.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "READING SAUCE.\u003Cbr\u003E\n502. INGREDIENTS: 2-\u00BD pints of walnut pickle, 1-\u00BD oz. of shalots, 1 quart of spring water, \u00BE pint of Indian soy, \u00BD oz. of bruised ginger, \u00BD oz. of long pepper, 1 oz. of mustard-seed, 1 anchovy, \u00BD oz. of cayenne, \u00BC oz. of dried sweet bay-leaves.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Bruise the shalots in a mortar, and put them in a stone jar with the walnut-liquor; place it before the fire, and let it boil until reduced to 2 pints. Then, into another jar, put all the ingredients except the bay-leaves, taking care that they are well bruised, so that the flavour may be thoroughly extracted; put this also before the fire, and let it boil for 1 hour, or rather more. When the contents of both jars are sufficiently cooked, mix them together, stirring them well as you mix them, and submit them to a slow boiling for\u00BD hour; cover closely, and let them stand 24 hours in a cool place; then open the jar and add the bay-leaves; let it stand a week longer closed down, when strain through a flannel bag, and it will be ready for use. The above quantities will make\u00BD gallon.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: Altogether, 3 hours.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: This sauce may be made at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Reading Sauce",
+  "usedSnapshot": "20220706165842"
+}

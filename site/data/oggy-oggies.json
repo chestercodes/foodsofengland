@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922074244",
+  "finalPath": "oggy-oggies.html",
+  "heading": "Oggy, Oggies",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ETiddy Oggies\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oggy, Oggies",
+  "usedSnapshot": "20211129121415"
+}

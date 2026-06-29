@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082019",
+  "finalPath": "cornflour-cake.html",
+  "heading": "Cornflour Cake",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "castor sugar",
+    "cornflour",
+    "cream",
+    "eggs",
+    "flour",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornflour-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "758. CORNFLOUR CAKES (Hertfordshire) Six ounces of butter, beaten to a cream; add two yolks of eggs, then a quarter of a pound of sugar, a quarter of a pound of cornflour, one teaspoonful of baking powder, mix all together; then add the whipped whites of the eggs. Bake in small moulds.\u003Cbr\u003E\n\u003Cbr\u003E\n759. CORNFLOUR CAKE (Gloucestershire) Half a pound of cornflour, two ounces of butter, quarter of a pound of castor sugar, one teaspoonful of baking powder, two teaspoonfuls of plain flour, two eggs. Beat butter to a cream (must not be oily), add sugar, mix well. Break in eggs one at a time and work well together. Stir in lightly the cornflour, flour, and baking powder; beat for a few minutes. Pour into a well-greased tin and bake in a moderate oven. Be careful not to open oven for about thirty minutes, or the cake wUl fall in the middle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Cornflour Cake",
+  "usedSnapshot": "20211207123421"
+}

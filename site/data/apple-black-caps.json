@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922074134",
+  "finalPath": "apple-black-caps.html",
+  "heading": "Apple Black Caps",
+  "ingredients": [
+    "cream",
+    "custard",
+    "rose water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-black-caps.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E265. To make BLACK CAPS.\u003C/b\u003E\u003Cbr\u003E\nTake a dozen of middling pippens and cut them in two, take out the cores and black ends, lay them with the flat side downwards, set them in the oven, and when they are about half roasted take them out, wet them over with a little rose water, and grate over them loaf sugar, pretty thick, set them into the oven again, and let them stand till they are black; when you serve them up, put them either into cream or custard, with the black side upwards, and set them at an equal distance.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Apple Black Caps",
+  "usedSnapshot": "20211205180943"
+}

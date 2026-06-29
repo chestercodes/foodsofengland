@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140420080923",
+  "finalPath": "sandown-pudding.html",
+  "heading": "Sandown Pudding",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "cherries",
+    "cream",
+    "custard",
+    "gelatine",
+    "glace cherries",
+    "pudding",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sandown-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "519. SANDOWN PUDDING (Isle of Wight) Butter a cake-tin and line it with sponge fingers or boudoir biscuits, put in two ounces of glace cherries and two ounces of ratafias. Make a pint of custard and add to it three ounces of gelatine; pour into the mould or tin, leave it to cool, and serve as a cold pudding with whipped cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EIsle of Wight Pudding\u003C/b\u003E",
+      "relatedPageUrl": "isle-of-wight-pudding.html",
+      "relationDescription": "For other puddings associated with the Isle of Wight, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Sandown Pudding",
+  "usedSnapshot": "20211205174450"
+}

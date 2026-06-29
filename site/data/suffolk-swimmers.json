@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20121024084848",
+  "finalPath": "suffolk-swimmers.html",
+  "heading": "Suffolk Swimmers",
+  "ingredients": [
+    "baking powder",
+    "beef",
+    "bread",
+    "dumplings",
+    "fat",
+    "flour",
+    "milk",
+    "mutton",
+    "plain flour",
+    "salt",
+    "suet",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-swimmers.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESuffolk Swimmers\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nDid you know\u2026in Suffolk, dumplings are called \u0027swimmers\u0027 or \u0027floaters\u0027 because they were traditionally made with bread dough, not suet and float rather than sink!\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n8 oz Plain Flour\u003Cbr\u003E\n\u00BD tsp baking powder\u003Cbr\u003E\nPinch of Salt\u003Cbr\u003E\nMilk\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\nMix all the dry ingredients together.\u003Cbr\u003E\nGradually add the milk to form a stiff dough.\u003Cbr\u003E\nKnead into balls and drop the \u0027swimmers\u0027into boiling water for about 20 minutes.\u003Cbr\u003E\nNB: In Norfolk, the baking powder would be replaced with yeast!\u003Cbr\u003E\n\u003Cbr\u003E\nSuet is raw beef or mutton fat and was used a lot in the more traditional recipes. It is mostly made up of saturated fat so not too healthy for those watching their weight. The suet bought in supermarkets is dehydrated fat but there are also vegetarian options available made from other fats such as palm oil.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Suffolk Swimmers",
+  "usedSnapshot": "20210518211354"
+}

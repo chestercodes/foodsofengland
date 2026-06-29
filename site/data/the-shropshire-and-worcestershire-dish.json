@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20130323203720",
+  "finalPath": "the-shropshire-and-worcestershire-dish.html",
+  "heading": "The Shropshire and Worcestershire Dish",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "cabbage",
+    "herbs",
+    "lemon",
+    "lettuce",
+    "liver",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "spinach"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "the-shropshire-and-worcestershire-dish.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EThe Shropshire and Worcestershire-Dish.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSir,\u003Cbr\u003E\n\u003Cbr\u003E\nIf you would please all People, by the several Receipts you publish, you ought to have the particular Dish that is the Favourite of every County. In Worcestershire and Shropshire, the following is in esteem, and I believe you will oblige several Gentlemen and Ladies of these Parts, if you would insert it in some of your Works.\u003Cbr\u003E\n\u003Cbr\u003E\nTake some good middling \u003Ca href=\u0022bacon.html\u0022\u003E\u003Cb\u003EBacon\u003C/b\u003E\u003C/a\u003E, and fry it; then put in some Calf\u0027s Liver, and cut it in thick Pieces, pepper it, and salt it; and when it is enough, for it must not be fry\u0027d hard, have ready prepared some Cabbage-Lettuce, some white Beet-Cards, or Beet-Leaves, and some Spinach-Leaves, and chop them together, with some Parsley, but not too small; then chop some Onion, and mix with the rest; then throw them into your Frying pan, with a piece of Butter, when the Bacon and Liver is out, and fry them till they are tender, and as brown as may be; putting in a spoonful of \u003Ca href=\u0022verjuice.html\u0022\u003E\u003Cb\u003EVerjuice\u003C/b\u003E\u003C/a\u003E, or the Juice of a Lemon, a little before they are enough. And having kept the Liver and Bacon hot all the while, pour these Herbs over them, which ought to be in good quantity.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Liver and Bacon",
+      "relatedPageUrl": "liver-and-bacon.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "The Shropshire and Worcestershire Dish",
+  "usedSnapshot": "20211018074920"
+}

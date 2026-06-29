@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20130325124649",
+  "finalPath": "mock-goose-of-pork.html",
+  "heading": "Mock Goose of Pork",
+  "ingredients": [
+    "black pepper",
+    "bread",
+    "butter",
+    "goose",
+    "gravy",
+    "lamb",
+    "onion",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mock-goose-of-pork.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\nLeg of Pork roasted without the Skin, commonly called MOCK GOOSE.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nParboil it; take off the skin, and then put it down to roast; baste it with butter, and make a savoury powder of finely minced, or dried and powdered sage, ground black pepper, salt, and some bread-crumbs, rubbed together through a colander; you may add to this a little very finely minced onion: sprinkle it with this when it is almost roasted. Put half a pint of made gravy into the dish, and goose stuffing (No. 378) under the knuckle skin; or garnish the dish with balls of it fried or boiled.\u003Cbr\u003E\n\u003Cbr\u003E\n* Priscilla Haslehurst, in her Housekeeper\u0027s Instructor, 8vo. Sheffield, 1819, p. 19, gives us a receipt \u0022to goosify a shoulder of lainb.\u0022 \u0022Un grand Cuisinier,\u0022 informed me that \u0022to lambify\u0022 the leg of a porkling is a favourite metamorphosis in the French kitchen, when house lamb is very dear.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMock Goose\u003C/b\u003E",
+      "relatedPageUrl": "mock-goose.html",
+      "relationDescription": "(For wartime, and other, vegetarian \u0027mock goose\u0027 dishes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Mock Goose of Pork",
+  "usedSnapshot": "20211201032744"
+}

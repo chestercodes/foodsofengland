@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20121024084230",
+  "finalPath": "lost-foods.html",
+  "heading": "Lost Foods",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lost Foods",
+  "usedSnapshot": "20220819111606"
+}

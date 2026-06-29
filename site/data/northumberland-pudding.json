@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074439",
+  "finalPath": "northumberland-pudding.html",
+  "heading": "Northumberland Pudding",
+  "ingredients": [
+    "brandy",
+    "butter",
+    "currants",
+    "flour",
+    "milk",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "northumberland-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "NORTHUMBERLAND PUDDING. Make a hasty pudding with a pint of milk and flour, put it into a bason, and let it stand till the next day. Then mash it with a spoon, add a quarter of a pound of clarified butter, as many currants picked and washed, two ounces of candied peel cut small, and a little sugar and brandy. Bake it in teacups, turn them out on a dish, and pour \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003Ewine sauce\u003C/b\u003E\u003C/a\u003E over them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Northumberland Pudding",
+  "usedSnapshot": "20200116035945"
+}

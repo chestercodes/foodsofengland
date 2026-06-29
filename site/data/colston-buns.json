@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20121121004011",
+  "finalPath": "colston-buns.html",
+  "heading": "Colston Buns",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Bristol"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-brown-2004"
+    }
+  ],
+  "title": "Colston Buns",
+  "usedSnapshot": "20220527055230"
+}

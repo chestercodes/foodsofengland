@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922082227",
+  "finalPath": "mushroom-soup.html",
+  "heading": "Mushroom Soup",
+  "ingredients": [
+    "butter",
+    "cream",
+    "milk",
+    "mushroom",
+    "mushrooms",
+    "pepper",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mushroom-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EMushroom Culture\u003C/i\u003E, by W. Robinson, c1900",
+      "receiptText": "\u003Ci\u003EMushroom Soup.\u003C/i\u003E - Take a good quantity of mushrooms, cut off the earthy end, and pick and wash them. Stew them with some butter, pepper, and salt in a little good stock till tender; take them out, and chop them up quite small; prepare a good stock as for any other soup, and add it to the mushrooms and the liquor they have been stewed in. Boil all together, and serve. If white soup be desired, use the white button mushrooms, and a good veal stock, adding a spoonful of cream or a little milk, as the colour may require.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Mushroom Soup",
+  "usedSnapshot": "20170313223529"
+}

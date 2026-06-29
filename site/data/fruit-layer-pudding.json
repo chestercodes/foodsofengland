@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20200223020738",
+  "finalPath": "fruit-layer-pudding.html",
+  "heading": "Fruit Layer Pudding",
+  "ingredients": [
+    "jam",
+    "pudding",
+    "raspberry",
+    "suet",
+    "dates",
+    "sultanas",
+    "treacle"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fruit-layer-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECroydon\u0027s Weekly Standard\u003C/i\u003E\u0027 - Saturday 17 January 1903",
+      "receiptText": "Layer Pudding: -lngredients: Suet crust, a pot of raspberry jam. Make a light suet crust, roll it out thin, and cut it in rounds the size of a cake-tin, in which latter the pudding will be boiled. Place a round of paste at the bottom of the tin and a strip round the sides, wetting the edges to make them adhere; spread a layer of jam over the bottom cruet and then cover with a round of thin paste and then jam, and eo ca until the tin is full. Tie over with a floured cloth, and boil for three hours. If different 1 coloured jams are used for each layer, it makes the pudding a prettier one than if only one kind\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fruit-layer-pudding.html-2",
+      "receiptSource": "Original Receipt from Birmingham Daily Gazette - Wednesday 14 March 1928",
+      "receiptText": "LAYER PUDDING. A Layer Pudding is a change from the ordinary suet pudding. Make a plain suet dough in the usual way and cut into five pieces, each larger than the last. Then grease a bowl and put a spoonful of jam or treacle or dates or sultanas in the bottom. Cover with a flat round to fit the bottom of the basin, then add another layer of your mixture, and so on, and finishing with a rather thicker layer of paste for the last. Steam or boil in the usual way, but you need not cook these more than an hour and half or two hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEssex Meat Layer Pudding\u003C/b\u003E",
+      "relatedPageUrl": "essex-meat-layer-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Fruit Layer Pudding",
+  "usedSnapshot": "20220527052203"
+}

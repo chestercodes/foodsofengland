@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140616081139",
+  "finalPath": "ruen-cheese.html",
+  "heading": "Ruen Cheese",
+  "ingredients": [
+    "cheese",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ruen-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMistresse Drakes way to make soft Cheese all the yeare through, that it shall be lyke rowen Cheese.\u003C/b\u003E\u003Cbr\u003E\nTAKE your milke as it commeth from the Cow, and put it in a vessell til it be cold, then take as much faire water, and set it on the fire, when your water is warm, put so much of your water is warme, put so much of your water in that milke as wil warme the milk. Then take a spoonefull of runnet and more, and put into your milke and make your Cheese, and put it into a faire cloth, and so put it into the presse, \u0026 turne it in the presse often, and wype it with faire clothes as often as \u00FEe turne it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheese Ruayn",
+      "relatedPageUrl": "ruaynCheese.htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Ruen Cheese",
+  "usedSnapshot": "20220815150542"
+}

@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922075007",
+  "finalPath": "burdock-root-salad.html",
+  "heading": "Burdock Root Salad",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Burdock Root Salad",
+  "usedSnapshot": "20220516211006"
+}

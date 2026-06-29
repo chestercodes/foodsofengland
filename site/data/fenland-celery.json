@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20211020221301",
+  "finalPath": "fenland-celery.html",
+  "heading": "Fenland Celery",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridgeshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fenland Celery",
+  "usedSnapshot": "20220705085522"
+}

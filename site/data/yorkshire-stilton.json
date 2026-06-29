@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140616085214",
+  "finalPath": "yorkshire-stilton.html",
+  "heading": "Yorkshire-Stilton",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Stilton",
+      "relatedPageUrl": "blue-stilton-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Yorkshire-Stilton",
+  "usedSnapshot": "20210510051703"
+}

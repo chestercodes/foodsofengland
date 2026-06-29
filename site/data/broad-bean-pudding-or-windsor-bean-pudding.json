@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20150922085908",
+  "finalPath": "broad-bean-pudding-or-windsor-bean-pudding.html",
+  "heading": "Broad Bean Pudding or Windsor Bean Pudding",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "butter",
+    "cream",
+    "egg",
+    "parsley",
+    "pepper",
+    "pudding",
+    "salt",
+    "spinach",
+    "eggs",
+    "cheese",
+    "margarine",
+    "milk"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "broad-bean-pudding-or-windsor-bean-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E) and \u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E by Maria Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBEAN PUDDING.\u003C/b\u003E Boil and blanch some old green-beans, beat them in a mortar, with very little pepper and salt, some cream, and the yolk of an egg. A little spinach juice will give a finer colour, but it is as good without. Boil it an hour, in a bason that will just hold it; pour parsley and butter over, and serve it up with bacon.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "broad-bean-pudding-or-windsor-bean-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EBarnsley Chronicle\u003C/i\u003E\u0027. - Saturday 19 March 1881",
+      "receiptText": "\u003Cb\u003EGreen Bean Pudding.\u003C/b\u003E -One quart of full-grown mealy beans, two tablespoonful of cream, and two yolks of eggs. Boil the beans till quite tender; peel and mash them fine with little pepper and salt till quite smooth; add the cream and the yolk of eggs, well beaten; boil hour in basin that will just hold it, and serve with parsley sauce poured over it. Two tablespoonfuls of spinach, boiled and cut small, or a little spinach juice added to the ingredients before boiling, improve the colour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "broad-bean-pudding-or-windsor-bean-pudding.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 04 May 1940",
+      "receiptText": "\u003Cb\u003EBEAN PUDDING\u003C/b\u003E\u003Cbr\u003E\nTake one pound of haricot beans have been soaked overnight, and cook until tender. Mix one ounce of margarine and two tablespoonfuls of unsweetened condensed milk and heat in a pan. Put in the beans, and add a sprinkling of cheese and parsley, with seasoning. Stir whilst heating and add the yolk of one egg, beten up with one tablespoonful of water Stir for a few minutes, then put the mixture into a greased fire-proof dish. Sprinkle more cheese on the top and paste over with margarine for browning. Put under the griller or in the oven until ready.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Windsor"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Broad Bean Pudding or Windsor Bean Pudding",
+  "usedSnapshot": "20200222061726"
+}

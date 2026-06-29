@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922071930",
+  "finalPath": "monmouth-pudding.html",
+  "heading": "Monmouth Pudding",
+  "ingredients": [
+    "apricot",
+    "beat",
+    "bread",
+    "breadcrumbs",
+    "butter",
+    "eggs",
+    "jam",
+    "lemon",
+    "milk",
+    "pudding"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "monmouth-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENorthants Evening Telegraph\u003C/i\u003E\u0027 - Friday 4 May 1900",
+      "receiptText": "Monmouth Pudding.- Put a quarter of a pound of fine white breadcrumbs into a basin and cover them with a pint of boiling milk which has been sweetened to taste; cover the basin with a plate, and let the bread soak for five minute. Then beat it up and turn it into a saucepan, and toil it for six minutes, stirring it occasionally. Add an ounce of butter to the bread, and, after removing the pan from the stove, the yolks of two beaten eggs, a table spoonful of lemon-juice, the rind of a small lemon grated, and, lastly, the whites of the eggs whisked to a stiff froth. Line a pie-dish with paste, and put in a layer or apricot Jam, and then fill up the dish with the pudding mixture, and bake at once in a fairly quick oven until it is evenly browned\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Monmouth"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Monmouth Pudding",
+  "usedSnapshot": "20220527054458"
+}

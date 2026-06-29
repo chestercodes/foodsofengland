@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922074423",
+  "finalPath": "weak-honey-drink.html",
+  "heading": "Weak Honey-drink",
+  "ingredients": [
+    "ale",
+    "ginger",
+    "honey",
+    "orange",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "weak-honey-drink.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Take nine parts of warm fountain-water, and dissolve in it one pint of pure white Honey. Then boil it gently... Put to it a little spoonful of Ginger; and almost half as much of the thin yellow rhind of Orange, cast to it Ale-yeast. Next morning when you rise, scum it clean off with a silver spoon and a feather, and bottle up the liquor. It will be ready to drink in two or three days; but it will keep well a month or two. It will be from the first very quick and pleasant\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Weak Honey-drink",
+  "usedSnapshot": "20220808003337"
+}

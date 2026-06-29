@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922071635",
+  "finalPath": "gentleman-s-relish.html",
+  "heading": "Gentleman\u0027s Relish",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Anchovy Butter",
+      "relatedPageUrl": "anchovy-butter.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Anchovy Powder",
+      "relatedPageUrl": "anchovy-powder.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gentleman\u0027s Relish",
+      "relatedPageUrl": "gentleman-s-relish.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Magdalen College Butter",
+      "relatedPageUrl": "magdalen-college-butter.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gentleman\u0027s Relish",
+  "usedSnapshot": "20211207115133"
+}

@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20140212024740",
+  "finalPath": "friday-pie.html",
+  "heading": "Friday Pie",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "herbs",
+    "pepper",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "friday-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E160. A Friday Pie without Fish or Flesh.\u003C/b\u003E Wash a good quantity of green Beets, and pluck out the middle string, then chop them small, with two or three ripe Apples well relished, season it with Pepper, Salt, and Ginger, then add to it some Currans, and having your Pie ready, and Butter in the bottom, put in these herbs, and with them a little Sugar, then put Butter on the top, and close and bake it, then cut it up, and put in the juice of a Limon and Sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Butter Pie",
+      "relatedPageUrl": "butter-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Friday Pie",
+      "relatedPageUrl": "friday-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gardener\u0027s Pie",
+      "relatedPageUrl": "gardener-s-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Vegetable Pie",
+      "relatedPageUrl": "vegetable-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Woolton Pie",
+      "relatedPageUrl": "woolton-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Friday Pie",
+  "usedSnapshot": "20210518200720"
+}

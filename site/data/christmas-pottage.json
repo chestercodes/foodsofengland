@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20150922091532",
+  "finalPath": "christmas-pottage.html",
+  "heading": "Christmas-Pottage",
+  "ingredients": [
+    "beef",
+    "beer",
+    "plum",
+    "prunes",
+    "raisins",
+    "beat",
+    "bread",
+    "currants",
+    "lemons",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "christmas-pottage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Plum-Pottage, or Christmas-Pottage.\u003Cbr\u003E\nTake a Leg of Beef, and boil it till it is tender in a sufficient quantity of Water, add two Quarts of red Wine, and two Quarts of old strong Beer; put to these some Cloves, Mace, and Nutmegs, enough to season it, and boil some Apples, pared and freed from the Cores into it, and boil them tender, and break them; and to every Quart of Liquor, put half a Pound of Currans pick\u0027d clean, and rubb\u0027d with a coarse Cloth, without washing. Then add a Pound of Raisins of the Sun, to a Gallon of Liquor, and half a Pound of Prunes. Take out the Beef, and the Broth or Pottage will be fit for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "christmas-pottage.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make plum-porridge for Christmas.\u003C/b\u003E\u003Cbr\u003E\nTAKE a leg and shin of beef, put them into eight gallons of water, and boil them till they are very tender, and when the broth is strong strain it out; wipe the pot and put in the broth again; then slice six penny loaves thin, cut off the top and bottom, put some of the liquor to it, cover it up and let it stand a quarter of an hour, boil it and strain it, and then put it into your pot. Let it boil a quarter of an hour, then put in five pounds of currants clean washed and picked; let them boil a little, and put in five pounds of raisins of the sun, stoned, and two pounds of prunes, and let them boil till they swell; then put in three quarters of an ounce of mace, half an ounce of cloves, two nutmegs, all of them beat fine, and mix it with a little liquor cold, and put them in a very little while, and take off the pot; then put in three pounds of sugar, a little salt, a quart of sack, a quart of claret, and the juice of two or three lemons. You may thicken with sago instead of bread, if you please; pour them into earthen pans, and keep them for use. You must boil two pounds of prunes in a quart of water till they are tender, and strain them into the pot when it is boiling.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Christmas Pudding",
+      "relatedPageUrl": "christmas-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EChristmas Pottage, Plum-Pottage, Plum Pottage",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Christmas-Pottage",
+  "usedSnapshot": "20201219090102"
+}

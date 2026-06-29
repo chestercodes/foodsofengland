@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922072941",
+  "finalPath": "celery-vinegar.html",
+  "heading": "Celery Vinegar",
+  "ingredients": [
+    "cayenne",
+    "celery",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "celery-vinegar.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECELERY VINEGAR.\u003C/b\u003E\u003Cbr\u003E\nThrow into a pint and a half of ready boiling vinegar a few grains of cayenne, or half an ounce of peppercorns, a large saltspoonful of salt, and a pint of the white part of the roots and stems of some fine fresh celery sliced up thin: let it boil for two or three minutes, turn it into a stone jar, and secure it well from the air as soon as it is cold It may be strained off and bottled in three or four weeks, but may remain as many months in the jar without injury.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Celery Vinegar",
+  "usedSnapshot": "20220517180939"
+}

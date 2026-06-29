@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20130324050643",
+  "finalPath": "shropshire-black-ham-2.html",
+  "heading": "Shropshire Black Ham",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bradenham Ham",
+      "relatedPageUrl": "shropshire-black-ham.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shropshire Black Ham",
+  "usedSnapshot": "20211018072952"
+}

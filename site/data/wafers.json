@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140508102820",
+  "finalPath": "wafers.html",
+  "heading": "Wafers",
+  "ingredients": [
+    "beat",
+    "butter",
+    "rose-water",
+    "salt",
+    "sugar",
+    "cinnamon",
+    "cream",
+    "flour",
+    "orange"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "wafers.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#archi-1658\u0022\u003E\u003Cb\u003EArchi 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "Take Rose-water or other water, the whites of two egs and beat them and your water, then put in flower, and make them thick as you would do butter for fritters, then season them with salt, and put in so much sugar as will make them sweet, and so cast them upon your irons being hot, and roule them up upon a little pin of wood; if they cleave to your irons, put in more sugar to your butter, for that will make them turn\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "wafers.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWAFERS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a table spoonful of orange flower water, a table spoonful of flour, the same of good cream, sifted sugar to the palate, and a dessert spoonful of syrup of cinnamon; beat all the ingredients together for twenty minutes; then make the wafer-tongs hot, and pour a little batter just sufficient to cover the irons; bake them over a slow fire, and when taken from the tongs roll them round, and preserve them in a dry place.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "langland-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "archi-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Wafers",
+  "usedSnapshot": "20210512103010"
+}

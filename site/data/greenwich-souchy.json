@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922082403",
+  "finalPath": "greenwich-souchy.html",
+  "heading": "Greenwich Souchy",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "eels",
+    "lemon",
+    "parsley",
+    "pepper",
+    "salmon",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "greenwich-souchy.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EWATER SOUCHY. (Greenwich Receipt.)\u003C/b\u003E\u003Cbr\u003E\nThis is a very simple and inexpensive dish, much served at the regular fish-dinners for which Greenwich is celebrated, as well as at private tables. It is excellent if well prepared; and as it may be made with fish of various kinds when they are too small to present a good appearance or to be palatable dressed in any other way, it is also very economical. Flounders, perch, tench, and eels, are said to answer best for water souchy; but very delicate soles, and several other varieties of small white fish are often used for it with good effect: it is often made also with slices of salmon, or of salmon-peel, freed from the skin.\u003Cbr\u003E\n\u003Cbr\u003E\nThrow into rather more than sufficient water to just cover the quantity of fish required for table, from half to three quarters of an ounce of salt to the quart, a dozen corns of white pepper, a small bunch of green parsley, and two or three tender parsley roots, first cut into inch lengths, and then split to the size of straws, Simmer the mixture until these last are tender, which will be in from half to a whole hour; then lay in the fish delicately cleaned, cleared from every morsel of brown skin, and divided into equal portions of about two inches in width. Take off all the scum as it rises, and stew the fish softly from eight to twelve minutes, watching it that it may not break from being over-done.\u003Cbr\u003E\n\u003Cbr\u003E\nTwo minutes before it is dished, strew in a large tablespoonful or more of minced parsley, or some small branches of the herb boiled very green in a separate saucepan (we prefer the latter mode); lift out the fish carefully with a slice, and the parsley roots with it; pour over it the liquor in which it has been boiled, but leave out the peppercorns. For a superior water souchy, take all the bones out of the fish, and stew down the inferior portions of it to a strong broth: about an hour will be sufficient for this. Salt, parsley, and a little cayenne may be added to it. Strain it off clear through a sieve, and use it instead of water for the souchy. The juice of half a good lemon may be thrown into the stew before it is served. A deep dish will of course be required for it. The parsley-roots can be boiled apart when more convenient, but they give an agreeable flavour when added to the liquor at first. Slices of brown or white bread and butter must be sent to table always with water souchy: the first is usually preferred, but to suit all tastes some of each may be served with it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Water Souchy",
+      "relatedPageUrl": "water-souchy.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Greenwich Souchy",
+  "usedSnapshot": "20220118035520"
+}

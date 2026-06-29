@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922072800",
+  "finalPath": "turnip-soup.html",
+  "heading": "Turnip Soup",
+  "ingredients": [
+    "fat",
+    "lard",
+    "turnip",
+    "turnips",
+    "butter",
+    "cream",
+    "tea",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "turnip-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETURNIP SOUP.\u003C/b\u003E\u003Cbr\u003E\nPare good and firm turnips, cut them with a knife or scoop into shapes, fry them with a bit of lard till of a light brown colour, then drain and wipe them free from fat (or they may be steamed with a very little water, to prevent them from burning, till they are half done); then put to them cleared stock, and boil them gently till tender.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "turnip-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Lady\u2019s Own Cookery Book, and New Dinner-Table Directory\u003C/i\u003E\u0027 of 1844",
+      "receiptText": "\u003Cb\u003ETurnip Broth.\u003C/b\u003E\u003Cbr\u003E\nHave a sufficient quantity of good strong broth as for any other soup, taking care that it is not too strongly flavoured by any of the roots introduced into it. Peel a good quantity of the best turnips, selecting such as are not bitter. Sweat them in butter and a little water till they are quite tender. Rub them through a tamis, mix them with the broth; boil it for about half an hour. Add half a pint of very good cream, and be careful not to have too fierce a fire, as it is apt to burn.\u003Cbr\u003E\n\u003Cb\u003EAnother.\u003C/b\u003E\u003Cbr\u003E\nPut one pound of lean veal, pulled into small pieces in a pipkin, with two large or three middling turnips. Cover the pipkin very close, to prevent water from getting into it; set it in a pot of water, and let it boil for two or three hours. A tea-cupful of the broth produced in the pipkin may be taken twice or thrice a day.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Turnip Soup",
+  "usedSnapshot": "20210518211535"
+}

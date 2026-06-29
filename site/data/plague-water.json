@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140226012857",
+  "finalPath": "plague-water.html",
+  "heading": "Plague Water",
+  "ingredients": [
+    "herbs",
+    "rosemary"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "plague-water.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO MAKE PLAGUE-WATER\u003C/b\u003E\u003Cbr\u003E\nTake a pound of Rue, of Rosemary, Sage, Sorrel, Celandine, Mugwort, of the tops of red brambles of Pimpernel, Wild-dragons, Agrimony, Balm, Angelica of each a pound. Put these Compounds in a Pot, fill it with White-wine above the herbs, so let it stand four days. Then still it for your use in a Limbeck.\u003Cbr\u003E\n\u003Cb\u003EANOTHER PLAGUE-WATER\u003C/b\u003E\u003Cbr\u003E\nTake Rue, Agrimony, Wormwood, Celandine, Sage, Balm, Mugwort, Dragons, Pimpernel, Marygold, Fetherfew, Burnet, Sorrel, and Elicampane-roots scraped and sliced small. Scabious, Wood-betony, Brown-mayweed, Mints, Avence, Tormentil, Carduus benedictus, and Rosemary as much as of anything else, and Angelica if you will. You must have like weight of all them, except Rosemary aforesaid, which you must have twice as much of as of any of the rest; then mingle them altogether and shred them very small; then steep them in the best White-wine you can get, three days and three nights, stirring them once or twice a day, putting no more wine then will cover the Herbs well; then still it in a Common-still; and take not too much of the first-water, and but a little of the second, according as you feel the strength, else it will be sower. There must be but half so much Elicampane as of the rest.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EThieves\u0027 Vinegar\u003C/b\u003E",
+      "relatedPageUrl": "thieves-vinegar.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMade-Wine\u003C/b\u003E",
+      "relatedPageUrl": "made-wine.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    }
+  ],
+  "title": "Plague Water",
+  "usedSnapshot": "20220705084521"
+}

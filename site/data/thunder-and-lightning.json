@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922093821",
+  "finalPath": "thunder-and-lightning.html",
+  "heading": "Thunder and Lightning",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "West Country"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Thunder and Lightning",
+  "usedSnapshot": "20220705095551"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922090113",
+  "finalPath": "northamptonshire-pudding.html",
+  "heading": "Northamptonshire Pudding",
+  "ingredients": [
+    "butter",
+    "castor sugar",
+    "cream",
+    "eggs",
+    "flour",
+    "jam",
+    "pudding",
+    "raspberry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "northamptonshire-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Northamptonshire Federation of Women\u2019s Institutes Recipe Book\u003C/i\u003E\u0027, 1933, supplied by \u003Ca href=\u0022http://northamptonmuseums.wordpress.com/\u0022\u003E\u003Cb\u003Enorthamptonmuseums.wordpress.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EA Good Northamptonshire Pudding:\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2ozs. butter, 4ozs. of flour, 3 ozs of castor sugar, and 2 eggs and 1 tablespoon of raspberry jam.\u003Cbr\u003E\n\u003Cbr\u003E\nCream the butter and sugar, let it stand for 15 minutes, then add the flour eggs alternately and lastly mix in the jam. Steam for 2 hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Northamptonshire Pudding",
+  "usedSnapshot": "20220808014141"
+}

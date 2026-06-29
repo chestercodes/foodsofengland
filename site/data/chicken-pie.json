@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140212015717",
+  "finalPath": "chicken-pie.html",
+  "heading": "Chicken Pie",
+  "ingredients": [
+    "anchovy",
+    "beat",
+    "chicken",
+    "chickens",
+    "egg",
+    "gravy",
+    "lemon",
+    "pepper",
+    "salt",
+    "suet",
+    "thyme",
+    "truffles",
+    "veal",
+    "bacon",
+    "butter",
+    "eggs",
+    "mushrooms",
+    "onions",
+    "parsley"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chicken-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a chicken pie.\u003C/b\u003E\u003Cbr\u003E\nMAKE a puff-paste crust, take two chickens, cut them to pieces, season them with pepper and salt, a little beaten mace, lay in force-meat made thus round the side of the dish: take half a pound of veal, half a pound of suet, beat them quite fine in a marble mortar, with as many crumbs of bead; season it with a very little pepper and salt, an anchovy with the liquor, cut the anchovy to pieces, a little lemon-peel cut very fine and shred small, a very little thyme, mix all together with the yolk of an egg, make some into round balls, about twelve, the rest lay round the dish. Lay in one chicken over the bottom of the dish, take two sweet-breads, cut them into five or six pieces, lay them all over, season them with pepper and salt, strew over them half an ounce of truffles and morels, two or three artichoke-bottoms cut to pieces, a few cocks-combs, if you have them, a palate boiled tender and cut to pieces; then lay on the other part of the chicken, put half a pint of water in, and cover the pie; bake it well, and when it comes out of the oven, fill it with good gravy, lay on the crust, and send it to table.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chicken-pie.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E1660 CHICKEN PIE\u003C/b\u003E\u003Cbr\u003E\nCut a fowl into pieces as for a fricassee; season the pieces, and sprinkle them with three finely-chopped onions, one and one-half oz. of chopped mushrooms cooked in butter, and a pinch of chopped parsley.\u003Cbr\u003E\n\u003Cbr\u003E\nLine the bottom and sides of a pie-dish with thin slices of veal; set the pieces of fowl inside, putting the legs undermost; add five oz. of thin slices of bacon; the yolks of four hard- boiled eggs cut into two; and moisten sufficiently to three-parts cover with chicken consomme. Cover with a layer of puff- paste, which should be sealed down to a strip of paste stuck to the edges of the pie-dish; gild; streak; make a slit in the middle of the paste, and bake in a moderate oven for one and one-half hours.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen taking the pie out of the oven, pour a few table-spoonfuls of strong gravy into it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Chicken Pie",
+  "usedSnapshot": "20210512105636"
+}

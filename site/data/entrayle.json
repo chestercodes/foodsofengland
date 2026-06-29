@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20121024084418",
+  "finalPath": "entrayle.html",
+  "heading": "Entrayle",
+  "ingredients": [
+    "eggs",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "entrayle.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAn Entrayle.\u003C/b\u003E Take a chepis wombe; take polettys y-rostyd, \u0026 hew them; then take porke, chese, \u0026 spicery, \u0026 do it on a morter, \u0026 grind alle y-fere; then take it up with eggs y-swonge, \u0026 do in the wombe, \u0026 salt, \u0026 seethe them tyl he be y-nowe, \u0026 serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Entrayle",
+  "usedSnapshot": "20210512114443"
+}

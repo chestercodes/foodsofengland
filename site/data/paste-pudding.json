@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082530",
+  "finalPath": "paste-pudding.html",
+  "heading": "Paste Pudding",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "jam",
+    "puddings",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "paste-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PASTE PUDDINGS. Make a paste of butter and flour, roll it out thin, and spread any kind of jam, or currants over it, with some suet chopped fine. Roll it up together, close the paste at both ends, and boil it in a cloth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Paste Pudding",
+  "usedSnapshot": "20220808004218"
+}

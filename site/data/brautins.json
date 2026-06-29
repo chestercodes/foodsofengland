@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140212021253",
+  "finalPath": "brautins.html",
+  "heading": "Brautins",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Northumberland Girdle Cakes",
+      "relatedPageUrl": "northumberland-girdle-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brautins",
+  "usedSnapshot": "20211201040657"
+}

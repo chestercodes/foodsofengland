@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922074947",
+  "finalPath": "liver-fritters.html",
+  "heading": "Liver Fritters",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "liver",
+    "salt",
+    "sugar",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "liver-fritters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E34. To make fritters of Liver or of any other Meat.\u003C/b\u003E Take your Liver, Capon or Veal, parboil it, mince it small, and then put to it some Cream, Eggs, Spice and Salt, and make it pretty thick, and so fry them; you may add a little Flower if you will, serve them in with beaten Spice and Sugar strewed over them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Liver Fritters",
+  "usedSnapshot": "20200107095120"
+}

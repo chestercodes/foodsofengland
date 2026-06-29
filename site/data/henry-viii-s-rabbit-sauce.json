@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082002",
+  "finalPath": "henry-viii-s-rabbit-sauce.html",
+  "heading": "Henry VIII\u0027s Rabbit Sauce",
+  "ingredients": [
+    "bread",
+    "butter",
+    "pepper",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "henry-viii-s-rabbit-sauce.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EFine Sauce for a roasted Rabbet: used to king Henrie the eight.\u003C/b\u003E\u003Cbr\u003E\nTAKE a handfull of washed Parcelie, minced small, boil it with butter and vergious vpon a chafingdish, season it with Sugar, and a litle pepper grose beaten: when it is readie, put in a few crums of white bread amongst the others let it boile againe til it be thick: then lay it in a platter, like the bredth of three fingers, lay of each side one rosted Cony or more so serue them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERoyal Dishes...\u003C/b\u003E",
+      "relatedPageUrl": "royalty.html",
+      "relationDescription": "See other "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Henry VIII\u0027s Rabbit Sauce",
+  "usedSnapshot": "20220706172158"
+}

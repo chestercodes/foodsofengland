@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922093545",
+  "finalPath": "kixies-jelly.html",
+  "heading": "Kixies Jelly",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EIsle of Wight Pudding\u003C/b\u003E",
+      "relatedPageUrl": "isle-of-wight-pudding.html",
+      "relationDescription": "For other puddings associated with the Isle of Wight, see "
+    }
+  ],
+  "synonym": "\u003Cb\u003EKixsies\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Kixies Jelly",
+  "usedSnapshot": "20211207124159"
+}

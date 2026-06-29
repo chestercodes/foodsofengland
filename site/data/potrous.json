@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20130323042016",
+  "finalPath": "potrous.html",
+  "heading": "Potrous",
+  "ingredients": [
+    "eggs",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potrous.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPotrous.\u003C/b\u003E Take a schouyl of yron, \u0026 hete it brennyng hote; \u0026 than take it out of the fire, \u0026 fille it fulle of Salt; than make a pitte in the Salt al holow, the schap of a treen dyssche; \u0026 set the panne \u0026 the Salt over the fire a-en, tyl the Salt be brennyng hote; \u0026 than caste thin whyte \u0026 the yolks of eggs in-to the hole of the Salte, \u0026 let seethe over the fire tyl it be half harde; \u0026 than put a dyssche half fulle of Salt; \u0026 than take a dressoure knyf, \u0026 put vndernethe the Salt in the panne, \u0026 hef [Heave] it up so fair, that the cofyn with the eggs breke not; than set it on the dyssche with the Salt, \u0026 than serve it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Potrous",
+  "usedSnapshot": "20211021013744"
+}

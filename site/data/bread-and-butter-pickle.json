@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922090229",
+  "finalPath": "bread-and-butter-pickle.html",
+  "heading": "Bread and Butter Pickle",
+  "ingredients": [
+    "celery",
+    "cucumber",
+    "ginger",
+    "granulated sugar",
+    "mustard",
+    "mustard seed",
+    "onion",
+    "onions",
+    "salt",
+    "sugar",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bread-and-butter-pickle.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bread%20and%20Butter%20Pickle\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "3 large cucumbers\u003Cbr\u003E\n2 large white onions\u003Cbr\u003E\n450ml distilled white wine vinegar\u003Cbr\u003E\n250g granulated sugar\u003Cbr\u003E\n3tbsp salt\u003Cbr\u003E\n1 tbsp celery seed\u003Cbr\u003E\n2 tbsp mustard seed\u003Cbr\u003E\npinch ground ginger\u003Cbr\u003E\n\u003Cbr\u003E\n1. Thinly slice the cucumbers and peel and finely slice the onions.\u003Cbr\u003E\n2. Extract excess water by covering with the salt and leaving overnight.\u003Cbr\u003E\n3. Rinse the cucumber and onion and gently pat dry.\u003Cbr\u003E\n4. Pour the vinegar into a large pan with the mustard and celery seeds, pinch of ground ginger and sugar and heat gently, stirring until the sugar dissolves.\u003Cbr\u003E\n5. Bring to the boil, add the cucumber and onion and simmer for 10 minutes or until the vegetables have softened but not disintegrated.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bread and Butter Pickle",
+  "usedSnapshot": "20211201024649"
+}

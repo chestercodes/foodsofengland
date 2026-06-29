@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140616085336",
+  "finalPath": "craster-kippers.html",
+  "heading": "Craster Kippers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Kippers"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Craster Kippers",
+  "usedSnapshot": "20211201010520"
+}

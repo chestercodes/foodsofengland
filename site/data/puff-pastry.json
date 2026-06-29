@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212025334",
+  "finalPath": "puff-pastry.html",
+  "heading": "Puff Pastry",
+  "ingredients": [
+    "butter",
+    "flour",
+    "lard",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "puff-pastry.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E125. - Butter for Puff Paste.\u003C/b\u003E\u003Cbr\u003E\nThe butter must be perfectly sweet, and before it is used worked on a marble slab to make it smooth. Salt butter from cows fed on poor land makes the best puff paste, but it must first be washed in two or three waters. For every kind of cakes the butter cannot be too rich.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E126. - Puff Paste.\u003C/b\u003E\u003Cbr\u003E\n3 lbs. of butter and 3 lbs. of flour. The butter must be tough: if salt, wash it in two waters the night before using it. Take half of it and rub into the flour, and with pure water make into a paste the same stiffness as the butter. Roll it on a marble slab half an inch thick, spot it with small pieces of butter, dust it with flour; then double it up again, spot it as before, and roll it out again, spot it the third time, roll out again twice, and put in a cool place for half an hour with a cloth over it, when it will be fit for use.\u003Cbr\u003E\n\u003Cbr\u003E\nNOTE. - Common puff paste for large pies may be made this way by using 1 lb. of butter and 2 lbs. of flour.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E127. Another Way.\u003C/b\u003E - 2 lbs. 8 ozs. of butter, and 3 lbs. 8 ozs. of flour. Mix the flour with water to the same stiffness as the butter, then roll out the paste, spot it with the butter. Roll it out three times, and dust it with flour as before. This paste is worse for lying, and should therefore be baked as soon as possible.\u003Cbr\u003E\n\u003Cbr\u003E\nBy using lard of a good tough quality, and mixing it as above, with the addition of a little salt, a good puff paste can be made suitable for wholesale purposes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Puff Pastry",
+  "usedSnapshot": "20210518201045"
+}

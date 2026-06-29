@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922074125",
+  "finalPath": "hell-balls.html",
+  "heading": "Hell Balls",
+  "ingredients": [
+    "bacon",
+    "breadcrumbs",
+    "cayenne",
+    "chutney",
+    "egg",
+    "gravy",
+    "ham",
+    "olives",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hell-balls.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 ox cooked game\u003Cbr\u003E\n4 oz cooked ham or lean, cooked bacon rashers\u003Cbr\u003E\n2 oz chutney\u003Cbr\u003E\npinch of cayenne pepper\u003Cbr\u003E\n2 or 3 stoned olives, chopped\u003Cbr\u003E\n1 teaspoon game gravy\u003Cbr\u003E\n1 large egg, beaten\u003Cbr\u003E\n2 oz (approximately) fresh white breadcrumbs\u003Cbr\u003E\n\u003Cbr\u003E\nMince the meats, mix with the other ingredients. Form into 12 balls, roll in egg then breadcrumbs. Shallow fry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Hell Balls",
+  "usedSnapshot": "20220819113217"
+}

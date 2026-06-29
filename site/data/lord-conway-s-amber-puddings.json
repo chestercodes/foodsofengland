@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140125041307",
+  "finalPath": "lord-conway-s-amber-puddings.html",
+  "heading": "Lord Conway\u0027s Amber Puddings",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "fat",
+    "orange",
+    "puddings",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-conway-s-amber-puddings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EThe Lord Conway, his Lordships receipt for the making of Amber Puddings.\u003C/b\u003E\u003Cbr\u003E\nFirst take the Guts of a young hog, and wash them very clean, and then take two pound of the best hogs fat, and a pound and a halfe of the best Jurden almonds, the which being blancht, take one half of them, \u0026 beat them very small, and the other halfe reserve whole unbeaten, then take a pound and a halfe of fine Sugar and four white Loaves, and grate the Loaves over the former composition, and mingle them well together in a bason having so done, put to it halfe an ounce of Ambergreece, the which must be scrapt very small over the said composition, take halfe a quarter of an ounce of levant musk and bruise it in a marble morter, with a quarter of a Pint of orange flower water, then mingle these all very well together, and having so done, fill the said Guts therwith, this Receipt was given his Lordship by an Italian for a great rariety, and has been found so to be by those Ladies of honour to whom his lordship has imparted the said reception.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Lord Conway\u0027s Amber Puddings",
+  "usedSnapshot": "20220819104737"
+}

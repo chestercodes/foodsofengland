@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922072228",
+  "finalPath": "oyster-sauce.html",
+  "heading": "Oyster Sauce",
+  "ingredients": [
+    "butter",
+    "flour",
+    "gravy",
+    "oysters",
+    "pepper",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oyster-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make oyster-sauce.\u003C/b\u003E\u003Cbr\u003E\nTAKE half a pint of large oysters, liquor and all; put them into a sauce-pan, with two or three blades of mace, and twelve whole pepper-corns; let them simmer over a low fire, till the oysters are fine and plump, then carefully with a fork take out the oysters from the liquor and spice, and let the liquor boil five or six minutes; then strain the liquor, wash out the sauce-pan clean, and put the oysters and liquor into the sauce-pan again, with half a pint of gravy, and half a pound of butter just rolled in a little flour. You may put in two spoonfuls of white wine, keep it stirring till the sauce boils, and all the butter is melted.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Oyster Sauce",
+  "usedSnapshot": "20220819102232"
+}

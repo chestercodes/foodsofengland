@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140212020501",
+  "finalPath": "apple-and-sultana-pie.html",
+  "heading": "Apple and Sultana Pie",
+  "ingredients": [
+    "brown sugar",
+    "butter",
+    "cinnamon",
+    "lemon",
+    "pastry",
+    "shortcrust pastry",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-and-sultana-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Apple%20and%20Sultana%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2lbs apples, cored, peeled, chopped\u003Cbr\u003E\n2 oz sultanas\u003Cbr\u003E\n\u00BD tbsp light brown sugar\u003Cbr\u003E\n\u00BD lemon, juice\u003Cbr\u003E\n\u00BD tsp cinnamon\u003Cbr\u003E\n1oz butter, melted\u003Cbr\u003E\n\u00BD tsp sugar\u003Cbr\u003E\nShortcrust Pastry\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Apple and Sultana Pie",
+  "usedSnapshot": "20220808011708"
+}

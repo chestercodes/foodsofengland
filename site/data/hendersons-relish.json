@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20201212195652",
+  "finalPath": "hendersons-relish.html",
+  "heading": "Hendersons Relish",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hendersons Relish",
+  "usedSnapshot": "20210518202639"
+}

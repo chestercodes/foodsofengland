@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072814",
+  "finalPath": "apricot-chutney.html",
+  "heading": "Apricot Chutney",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Apricot Chutney",
+  "usedSnapshot": "20220527071418"
+}

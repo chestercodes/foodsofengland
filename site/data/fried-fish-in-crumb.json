@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808234402",
+  "finalPath": "fried-fish-in-crumb.html",
+  "heading": "Fried Fish in Crumb",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Fried Fish in Crumb",
+  "usedSnapshot": "20211207114846"
+}

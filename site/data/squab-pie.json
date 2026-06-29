@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20140212031037",
+  "finalPath": "squab-pie.html",
+  "heading": "Squab Pie",
+  "ingredients": [
+    "mutton",
+    "onions",
+    "pepper",
+    "salt",
+    "steaks",
+    "sugar",
+    "brown sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "squab-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Devonshire squab pie.\u003C/b\u003E\u003Cbr\u003E\nMAKE a good crust, cover the dish all over, put at the bottom a layer of sliced pippins, strew over them some sugar, then a layer of mutton steaks cut from the loin, well seasoned with pepper and salt, then another layer of pippins; peel some onions and slice them thin, lay a layer all over the apples, then a layer of mutton, then pippins and onions, pour in a pint of water; so close your pie and bake it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "squab-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "47. SQUAB PIE (Devonshire) Take a pie-dish, put at the bottom a layer of sliced apples, strew over them a little sugar, then a layer of fresh mutton (well seasoned with salt and pepper). Then another layer of apples. Peel some onions and slice them, lay them on the apples, then a layer of mutton, then apples and onions. Pour in a pint of water, cover all over with a good crust, and bake.\u003Cbr\u003E\n\u003Cbr\u003E\n48. SQUAB PIE (Kent) Take two pounds of the best end of the neck of mutton, cut it into small pieces, flavour with salt and pepper, and put a layer of it at the bottom of a pie-dish, next add a layer of sliced apples and onions, with about a dessertspoonful of brown sugar, then another layer of mutton. Cover with a good pie-crust, and bake as an ordinary meat pie.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lample Pie",
+      "relatedPageUrl": "lample-pie.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Gloucestershire Pie",
+      "relatedPageUrl": "gloucestershire-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EDevonshire Squab Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Squab Pie",
+  "usedSnapshot": "20211207125908"
+}

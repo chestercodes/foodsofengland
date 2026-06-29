@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140212023923",
+  "finalPath": "sad-cakes.html",
+  "heading": "Sad Cakes",
+  "ingredients": [
+    "butter",
+    "currants",
+    "pastry",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sad-cakes.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://visitburnley.com/taste-burnley/recipes-2/\u0022\u003E\u003Cb\u003Ewww.visitburnley.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELancashire Sad Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nA great way of using left over pastry to make a tasty tea-time treat.\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out pastry put a handful of currants, some sugar and a lump of butter into the centre. Moisten the edges of the pastry and bring the four corners together like an envelope. Turn over and roll out to the thickness desired. Put in a hot oven (200\u00BAC / 400\u00BA C, Fan 170\u00BAC, Gas Mark 6) for twenty minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EDesolate Cakes\u003C/b\u003E, or \u003Cb\u003EFlat Cakes\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sad Cakes",
+  "usedSnapshot": "20220804200311"
+}

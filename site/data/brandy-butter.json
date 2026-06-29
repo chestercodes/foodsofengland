@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072908",
+  "finalPath": "brandy-butter.html",
+  "heading": "Brandy Butter",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rum Butter",
+      "relatedPageUrl": "rum-butter.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brandy Butter",
+  "usedSnapshot": "20191104044331"
+}

@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20130324050833",
+  "finalPath": "boiled-pickled-pork.html",
+  "heading": "Boiled Pickled Pork",
+  "ingredients": [
+    "pork",
+    "bacon",
+    "carrots",
+    "coriander",
+    "coriander seeds",
+    "mustard",
+    "onions",
+    "parsley",
+    "pudding",
+    "thyme",
+    "turnips"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "boiled-pickled-pork.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPickled Pork\u003C/b\u003E.\u003Cbr\u003E\nHAVING washed your pork, and scraped it clean, let it lie half an hour in cold water, put it in when the water is cold, and let it boil till the rind be tender.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "boiled-pickled-pork.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027Northern Counties Cook Book\u0027\u003C/i\u003E by Philip Atkinson",
+      "receiptText": "\u003Cb\u003EPickled Pork\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPickled pork is another name for an unsmoked bacon joint. Once a popular dish in the Northern Counties, traditionally served with pease pudding and mustard.\u003Cbr\u003E\nBacon joint, shoulder or hand - 1.5 kg soaked for 4 hours\u003Cbr\u003E\nWater - 2 litres\u003Cbr\u003E\nOnions - 4 large chopped\u003Cbr\u003E\nCarrots - 6 large cut in half lengthwise\u003Cbr\u003E\nLovage, 4tbs chopped\u003Cbr\u003E\nSmall turnips - 4 halved\u003Cbr\u003E\nBlack peppercorns - 6\u003Cbr\u003E\nCoriander seeds - 1 tbs\u003Cbr\u003E\nFresh parsley - 1 sprig\u003Cbr\u003E\nFresh thyme - 1 sprig\u003Cbr\u003E\n\u003Cbr\u003E\nPut the pork and water in a large saucepan and bring to the boil.\u003Cbr\u003E\nAdd the remaining ingredients and simmer for about 1\u00BD hours.\u003Cbr\u003E\nPlace the pork and vegetables on a warm serving dish and serve with Pease Pudding (page 39) and Durham mustard (page 152).\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    }
+  ],
+  "title": "Boiled Pickled Pork",
+  "usedSnapshot": "20211201043046"
+}

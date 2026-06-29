@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140212014932",
+  "finalPath": "dartmouth-pie.html",
+  "heading": "Dartmouth Pie",
+  "ingredients": [
+    "beef",
+    "butter",
+    "currants",
+    "flour",
+    "mutton",
+    "nutmeg",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "dartmouth-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDartmouth Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis curious pie, formerly of great fame, is thus made:- Chop or mince small on a chopping board, two pounds of the lean part of a 1lb, of mutton, with one pound of beef suet; keeping them constantly stirred up from the board, to prevent the minute particles from sticking. . Add^ a pound of wellcleansed currants, sifl over three ounces of powdered loaf sugar, grate some nutmeg, and season with a little salt. The whole, being well mixed, is to be put into a paste composed of two parts purified beef suet, and one part fresh butter; both melted, mixed in the water which is to make the crust or paste, then boiled up together, poured into the excavated centre of the sided flour, kneaded up, and rolled out in the usual way for lining and covering the dish.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "dartmouth-pie.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe housekeeper\u0027s guide: or, A plain \u0026 practical system of domestic cookery\u003C/i\u003E By Esther Copley, 1838",
+      "receiptText": "For those who retain any fondness for these incongruous mixtures we inform them that a Dartmouth pie is made in raised crust enriched with two parts beef suet and one part fresh butter. The contents of the pie are composed of two pounds of the lean meat of a leg of mutton chopped very small and one of beef suet a pound of currants three ounces of powdered lump sugar with salt and nutmeg\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "dartmouth-pie.html-3",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Household Encyclopedia,\u003C/i\u003E W Kent \u0026 Co, 1858",
+      "receiptText": "\u003Cb\u003EDARTMOUTH PIE\u003C/b\u003E Chop and mince 2 lbs of the lean part of a leg of mutton and half as much beef suet, keep it constantly stirred from the board to prevent the minute particles from sticking, add 1 lb of currants, sift over them 3 ozs of powdered lump sugar, grate some nutmeg and season with a little salt. Work this mixture into a paste composed of two parts of purified beef suet and one of fresh butter, both melted, and mix in the water which is to be used in making the crust, boil all together and then pour it into the cavity formed in the centre of the flour, knead it up and roll it out for a lining and covering to the dish\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Dartmouth Pie",
+  "usedSnapshot": "20210619234140"
+}

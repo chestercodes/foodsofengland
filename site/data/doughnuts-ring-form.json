@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140212023259",
+  "finalPath": "doughnuts-ring-form.html",
+  "heading": "Doughnuts - Ring form",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Isle of Wight Donoughts",
+      "relatedPageUrl": "isle-of-wight-doughnuts.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Doughnuts - Ring form",
+      "relatedPageUrl": "doughnuts-ring-form.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Grey Peas (and Bacon)",
+      "relatedPageUrl": "grey-peas-and-bacon.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Pancakes for Shrove Tuesday",
+      "relatedPageUrl": "pancakes-for-shrove-tuesday.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Monday Collop",
+      "relatedPageUrl": "monday-collop.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Doughnuts - Ring form",
+  "usedSnapshot": "20211129120616"
+}

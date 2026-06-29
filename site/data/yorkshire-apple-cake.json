@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20130916154058",
+  "finalPath": "yorkshire-apple-cake.html",
+  "heading": "Yorkshire Apple Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cheese",
+      "relatedPageUrl": "apple-cheese.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Breadcrumb Apple Cake",
+      "relatedPageUrl": "breadcrumb-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cheese and Apple Cake",
+      "relatedPageUrl": "cheese-and-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Dorset Apple Cake",
+      "relatedPageUrl": "dorset-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shropshire Apple Cake",
+      "relatedPageUrl": "shropshire-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Somerset Apple Cake",
+      "relatedPageUrl": "somerset-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Yorkshire Apple Cake",
+      "relatedPageUrl": "yorkshire-apple-cake.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Yorkshire Apple Cake",
+  "usedSnapshot": "20220527055911"
+}

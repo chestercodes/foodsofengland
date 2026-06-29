@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20190509145546",
+  "finalPath": "chilli-beer.html",
+  "heading": "Chilli Beer",
+  "ingredients": [
+    "beer",
+    "chillies",
+    "ginger",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chilli-beer.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EMonmouthshire Beacon\u003C/i\u003E\u0027 - Friday 24 February 1899",
+      "receiptText": "Some Winter Drinks.\u003Cbr\u003E\n\u003Cb\u003EChilli Beer.\u003C/b\u003E-Put twenty chillies, half ounce of bruised ginger, and two pounds sugar into a pan. Pour over one gallon of boiling water; stir well; then add one gallon water and one ounce of German yeast. Stand in a warm place for six hours; then bottle, leaving all sediment at the bottom. Cork down good corks, and tie them down. Ready in 24 hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chilli Beer",
+  "usedSnapshot": "20210510053413"
+}

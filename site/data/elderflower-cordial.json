@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082429",
+  "finalPath": "elderflower-cordial.html",
+  "heading": "Elderflower Cordial",
+  "ingredients": [
+    "brandy",
+    "eggs",
+    "lemon",
+    "lemon juice",
+    "sugar",
+    "yeast",
+    "lemons"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "elderflower-cordial.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Lady\u0027s Own Cookery Book, and New Dinner-table Directory\u003C/i\u003E\u0027 by Lady Charlotte Campbell Bury - 1844",
+      "receiptText": "\u003Cb\u003EElder-Flower Water\u003C/b\u003E To every gallon of water take four pounds of loaf sugar boiled and clarified with eggs according to the quantity and thrown hot upon the elder flowers allowing a quart of flowers to each gallon They must be gathered when the weather is quite dry and when they are so ripe as to shake off without any of the green part. When nearly cold add yeast in proportion to the quantity of liquor strain it in two or three days from the flowers and put it into a cask with two or three table spoonfuls of lemon juice to every two gallons. Add if you please a small quantity of brandy and in ten months bottle it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "elderflower-cordial.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Elderflower%20Cordial\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "20 Elderflower blossom heads, shaken to remove insects\u003Cbr\u003E\n3 lemons, sliced\u003Cbr\u003E\n3 lbs sugar\u003Cbr\u003E\n3 pints water\u003Cbr\u003E\n\u003Cbr\u003E\nBring the water to boil with the sugar and lemon. Take off the heat, press in the flower-heads, cover and leave in a cool place 24 hours. Strain into sterilised bottles and use within a month.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Elderflower Champagne",
+      "relatedPageUrl": "elderflower-champagne.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Elderflower Cordial",
+  "usedSnapshot": "20200108132751"
+}

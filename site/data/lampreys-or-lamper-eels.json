@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922074716",
+  "finalPath": "lampreys-or-lamper-eels.html",
+  "heading": "Lampreys or Lamper-Eels",
+  "ingredients": [
+    "beer",
+    "butter",
+    "eggs",
+    "nutmeg",
+    "onions",
+    "pepper",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lampreys-or-lamper-eels.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo bake a Lampry.\u003C/b\u003E\u003Cbr\u003E\nDraw it, and split the back on the inside from the mouth to the end of the tail, take out the string in the back, flay her and truss her round, parboil it and season it with nutmeg, pepper, and salt, put some butter in the bottom of the pie, and lay on the lampry with two or three good big onions, a few whole cloves and butter, close it up and baste it over with yolks of eggs, and beer or saffron water, bake it, and being baked, fill it up with clarified butter, stop it up with butter in the vent hole, and put in some claret wine, but that will not keep long.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Gloucester Royal Pie",
+      "relatedPageUrl": "gloucester-royal-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Red Herring",
+      "relatedPageUrl": "red-herring.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Worcester Lampreys",
+      "relatedPageUrl": "worcester-lampreys.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Worcestershire Potted Lamperns",
+      "relatedPageUrl": "worcestershire-potted-lamperns.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Lampreys or Lamper-Eels",
+  "usedSnapshot": "20170314024002"
+}

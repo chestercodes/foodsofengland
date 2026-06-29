@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922081740",
+  "finalPath": "cornish-sponge-pudding.html",
+  "heading": "Cornish Sponge Pudding",
+  "ingredients": [
+    "beat",
+    "egg",
+    "flour",
+    "jam",
+    "lard",
+    "lemon",
+    "marmalade",
+    "milk",
+    "pastry",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornish-sponge-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E456. CORNISH PUDDING (Cornwall)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWork four ounces of dripping or lard with one pound of pastry flour, then add one pinch of salt, two ounces of sugar, and a teaspoonful of bakingpowder. Beat up one egg with a little milk; grease a pudding basin and put an inch layer of preserve or marmalade at the bottom. Flavour the pudding mixture with lemon, and arrange on the jam so as to half fill the mould. Cover with a cloth, dipped into boiling water and floured, and steam for three hours. The pudding will quite fill the basin when cooked, and should turn out well with jam on the top. Serve with any sweet sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECornish Sago Pudding\u003C/b\u003E",
+      "relatedPageUrl": "cornish-sago-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Cornish Sponge Pudding",
+  "usedSnapshot": "20211129123533"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212021015",
+  "finalPath": "lemon-tarts.html",
+  "heading": "Lemon Tarts",
+  "ingredients": [
+    "butter",
+    "lemon",
+    "lemons",
+    "orange",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lemon-tarts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Orange or Lemon Tarts.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE six large lemons, and rub them very well with faff [?] and put them in water for two days, with a handful of salt in it; then change them into fresh water every day (without fail), for a fortnight, then boil them for two or three hours till they are tender, then cut them into half-quarters, and then cut them three-corner ways, as thin as you can: take six pippins pared, cored, and quartered, and a pint of fair water. Let them boil till the pippins break; put the liquor to your orange or lemon, and half the pulp of the pippins well broken and a pound of sugar. Boil these together a quarter of an hour, then put it in a gallipot, and squeeze an orange in it; if it be a lemon tart, squeeze a lemon, two spoonfuls is enough for a tart. Your patty pans must be small and shallow. Put fine puff-paste and very thin; a little while will bake it. Just as your tarts are going into the oven, with a feather or brush do them over with melted butter, and then sift double-refined sugar over them, and this is a pretty icing on them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Lemon Tarts",
+  "usedSnapshot": "20220819105357"
+}

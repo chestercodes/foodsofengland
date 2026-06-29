@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922074130",
+  "finalPath": "chocolate-fudge-pudding.html",
+  "heading": "Chocolate Fudge Pudding",
+  "ingredients": [
+    "butter",
+    "cocoa",
+    "flour",
+    "milk",
+    "muscovado sugar",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chocolate-fudge-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Chocolate%20Fudge%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Serves: 4\u003Cbr\u003E\n\u003Cbr\u003E\nFor Sponge:\u003Cbr\u003E\n4oz self raising flour\u003Cbr\u003E\n4oz sugar\u003Cbr\u003E\n1 tbsp cocoa powder\u003Cbr\u003E\n4oz milk\u003Cbr\u003E\n1oz melted butter\u003Cbr\u003E\nFor Sauce:\u003Cbr\u003E\n6oz dark muscovado sugar\u003Cbr\u003E\n1 tbsp cocoa powder\u003Cbr\u003E\nBoiling Water\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat oven to 190C, 375F.\u003Cbr\u003E\nSift flour, sugar and cocoa powder together.\u003Cbr\u003E\nAdd milk but do not stir. Add melted butter then stir together thoroughly .\u003Cbr\u003E\nPour mixture into a greased ovenproof bowl/pudding basin.\u003Cbr\u003E\nPlace muscovado sugar into a measuring jug and add the cocoa powder.\u003Cbr\u003E\nPour on boiling water till level reaches approximately the half-pint mark (can make it wetter if required but these measurements make the sauce nice and thick). Stir thoroughly to ensure solids are completely broken up.\u003Cbr\u003E\nPour sauce over sponge mixture but DO NOT STIR!\u003Cbr\u003E\nPlace dish into oven and leave for approximately 20-25 mins, or until top is crispy.\u003Cbr\u003E\nMust be served immediately but beware as sauce is literally boiling!\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chocolate Fudge Pudding",
+  "usedSnapshot": "20211129105141"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922084301",
+  "finalPath": "nettle-soup.html",
+  "heading": "Nettle Soup",
+  "ingredients": [
+    "beef",
+    "butter",
+    "nettle",
+    "nettles",
+    "oatmeal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "nettle-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003E\u0027The Household Encyclopedia\u0027\u003C/i\u003E 1859",
+      "receiptText": "\u003Cb\u003ENETTLE SOUP\u003C/b\u003E or Kail: Have water on the fire with a little clarified dripping, butter, the stock of roast beef, bones, or any other stock, cut up young nettles, put them into it and mix one or two handsful of oatmeal perfectly into it. Let it simmer on the side of the fire\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003Enettles...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/nettles.html",
+      "relationDescription": "For other receipts, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "nettles..."
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Nettle Soup",
+  "usedSnapshot": "20210512102800"
+}

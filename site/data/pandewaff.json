@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20121024084525",
+  "finalPath": "pandewaff.html",
+  "heading": "Pandewaff",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrewis\u003C/b\u003E",
+      "relatedPageUrl": "brewis-soup.html",
+      "relationDescription": "For similar dishes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Pandewaff",
+  "usedSnapshot": "20220527053421"
+}

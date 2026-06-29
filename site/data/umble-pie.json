@@ -1,0 +1,102 @@
+﻿{
+  "earliestSnapshot": "20130617042858",
+  "finalPath": "umble-pie.html",
+  "heading": "Umble Pie",
+  "ingredients": [
+    "ale",
+    "bacon",
+    "beef",
+    "butter",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "suet",
+    "tyme",
+    "lemons",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "umble-pie.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ENombuls.\u003C/b\u003E\u003Cbr\u003E\nTake tho hert and tho mydruv and the kydnere,\u003Cbr\u003E\nAnd hew hom smalle, as I the lere;\u003Cbr\u003E\nPresse oute the blode, wasshe hom thou schalle,\u003Cbr\u003E\nSethe hom in water and in gode ale;\u003Cbr\u003E\nColoure hit with brende bred or with blode;\u003Cbr\u003E\nFors hit with peper and canel gode,\u003Cbr\u003E\nSett hit to tho fyre, as I the telle in tale;\u003Cbr\u003E\nKele hit with a litelle ale,\u003Cbr\u003E\nAnd set hit downe to serve in sale.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "umble-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Umble-Pies.\u003C/b\u003E\u003Cbr\u003E\nLay minced beef-suet in the bottom of the pie, or slices of interlarded bacon, and the umbles cut as big as small dice, with some bacon cut in the same form, and seasoned with nutmeg, pepper, and salt, fill your pyes with it, and slices of bacon and butter, close it up and bake it, and liquor it with claret, butter, and stripped tyme.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "umble-pie.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Umble Pye. From Mr. Thomas Fletcher of Norwich.\u003C/b\u003E\u003Cbr\u003E\nTake the Umbles of a Deer and boil them tenderly, and when they are cold, chop them as small as Meat for minc\u0027d Pyes, and shred to them as much Beef-Suet, six large Apples, half a Pound of Sugar, a Pound of Currans, a little Salt, and as much Cloves, Nutmeg and Pepper powder\u0027d as you see convenient; then mix them well together, and when they are put into the Paste, pour in half a Pint of Sack, the Juice of two Lemons and an Orange: and when this is done, close the Pye, and when it is baked, serve it hot to the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Devizes Pie",
+      "relatedPageUrl": "devizes-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Heart and Kidney Pudding",
+      "relatedPageUrl": "heart-and-kidney-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Liver and Kidney Pudding",
+      "relatedPageUrl": "liver-and-kidney-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pie",
+      "relatedPageUrl": "steak-and-kidney-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pudding",
+      "relatedPageUrl": "steak-and-kidney-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECrow-Pie\u003C/b\u003E",
+      "relatedPageUrl": "crows.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003ENumble Pie, Nombul Pie, Humble Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Umble Pie",
+  "usedSnapshot": "20210620001559"
+}

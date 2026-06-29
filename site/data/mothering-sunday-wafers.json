@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140311020634",
+  "finalPath": "mothering-sunday-wafers.html",
+  "heading": "Mothering Sunday Wafers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bury Simnel Cake",
+      "relatedPageUrl": "bury-simnel-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fig Pie",
+      "relatedPageUrl": "fig-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Frumenty or Furmety",
+      "relatedPageUrl": "frumenty-or-furmety.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Mothering Buns",
+      "relatedPageUrl": "mothering-buns.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Mother\u0027s Day Cake",
+      "relatedPageUrl": "mother-s-day-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Shrewsbury Simnel Cake",
+      "relatedPageUrl": "shrewsbury-simnel-cake.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Mothering Sunday Wafers",
+  "usedSnapshot": "20220808014739"
+}

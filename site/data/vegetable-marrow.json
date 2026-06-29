@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922094344",
+  "finalPath": "vegetable-marrow.html",
+  "heading": "Vegetable Marrow",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "vegetable-marrow.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "THE VEGETABLE MARROW. - This is a variety of the gourd family, brought from Persia by an East-India ship, and only recently introduced to Britain. It is already cultivated to a considerable extent, and, by many, is highly esteemed when fried with butter. It is, however, dressed in different ways, either by stewing or boiling, and, besides, made into pies.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "vegetable-marrow.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 152. How to Cook Vegetable Marrow.\u003C/b\u003E\u003Cbr\u003E\nThis is a cheap and excellent vegetable; let them be peeled, split them, and remove the seedy part; boil them in hot water with salt, and when done, eat them with a bit of butter, pepper, and salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Stuffed Marrow",
+      "relatedPageUrl": "stuffed-marrow.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fried Vegetable Marrow",
+      "relatedPageUrl": "fried-vegetable-marrow.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Marrow and Tomato Chutney",
+      "relatedPageUrl": "marrow-and-tomato-chutney.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Million Pie",
+      "relatedPageUrl": "million-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Vegetable Marrow",
+  "usedSnapshot": "20211201010806"
+}

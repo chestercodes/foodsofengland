@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140201223315",
+  "finalPath": "fish-fingers.html",
+  "heading": "Fish Fingers",
+  "ingredients": [
+    "breadcrumbs",
+    "egg",
+    "fat",
+    "parsley",
+    "pepper",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fish-fingers.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ETamworth Herald\u003C/i\u003E\u0027 - Saturday 30 June 1900",
+      "receiptText": "\u003Cb\u003ETASTY FISH FINGERS\u003C/b\u003E A very useful breakfast dish can be prepared as follows: Flake and mince any cold cooked fish very finely, and mix it with two-thirds its bulk of cold cooked rice; season to taste with pepper, salt, and minced parsley, mixing it into cakes with the white of an egg; shape these neatly, brush with beaten egg, cover with breadcrumbs, and fry in plenty of hot fat to a delicate golden brown; drain well, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fish Fingers",
+  "usedSnapshot": "20220123190904"
+}

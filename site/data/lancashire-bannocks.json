@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922084637",
+  "finalPath": "lancashire-bannocks.html",
+  "heading": "Lancashire Bannocks",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cumberland Girdle Cakes",
+      "relatedPageUrl": "cumberland-girdle-cakes.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Brautins",
+      "relatedPageUrl": "brautins.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lancashire Bannocks",
+  "usedSnapshot": "20220527212221"
+}

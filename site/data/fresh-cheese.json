@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140616083008",
+  "finalPath": "fresh-cheese.html",
+  "heading": "Fresh Cheese",
+  "ingredients": [
+    "beat",
+    "cheese",
+    "cream",
+    "eggs",
+    "lemon",
+    "rose water",
+    "sugar",
+    "egg",
+    "fat",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fresh-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a fresh Cheese:\u003C/b\u003E Take a pint of fresh cream set it on the fire, then take the white of six eggs, beat them very well, and wring in the juyce of a good Lemon into the whites, when the cream seeths up, put in the whites, and stir it about till it be turned, and then take it off, and put it into the cheesecloth, and let the whay be drawn from it, then take the curd and pound it in a Stone morter with a little Rose water and Sugar, then put it into an earthen Cullender, and so let it stand till you send it to table, then put it into a dish, and put a little sweet cream to it, and so serve it in.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fresh-cheese.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make fresh Cheese\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTo make an excellent fresh Cheese, take a pottle of Milk as it comes from the Cow, and a pint of Cream: then take a spoonful of Runnet or Earning, and put it unto it, and let it stand two hours; then stir it up, and put it into a fine cloth, and let they Whey drain from it: then put it into a bowl, and take the yelk of an Egg, a spoonful of Rose-ater, and bray them together with a very little Salt, with Sugar and Nutmegs, and when all these are brayed together, and searst, mix it with the curd, and then put it in the Cheese-fat with a very fine cloth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cambridge Cheese",
+      "relatedPageUrl": "cambridge-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Fresh Cheese",
+  "usedSnapshot": "20211201024136"
+}

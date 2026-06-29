@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Domain/Types.fs" />
+    <Compile Include="Database/Entities.fs" />
+    <Compile Include="Domain/Mapping.fs" />
+    <Compile Include="Database/Context.fs" />
+    <Compile Include="Database/SiteDataContext.fs" />
+    <Compile Include="Shared/Hashing.fs" />
+    <Compile Include="Shared/Kebab.fs" />
+    <Compile Include="Shared/HtmlParsing.fs" />
+    <Compile Include="Shared/Logging.fs" />
+    <Compile Include="Shared/ChannelProcessing.fs" />
+    <Compile Include="Steps/Step1_IdentifyFiles.fs" />
+    <Compile Include="Steps/Step2_ParseHtml.fs" />
+    <Compile Include="Steps/Step3_FinalNames.fs" />
+    <Compile Include="Steps/Step4_PreTidy.fs" />
+    <Compile Include="Steps/Step5_Tidy.fs" />
+    <Compile Include="Steps/Step6_Extract.fs" />
+    <Compile Include="Steps/Step7_IngredientList.fs" />
+    <Compile Include="Steps/Step7_Ingredients.fs" />
+    <Compile Include="Steps/Step8_OutputTables.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.12.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.12" />
+  </ItemGroup>
+
+</Project>

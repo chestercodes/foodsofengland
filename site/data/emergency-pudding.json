@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20200514163246",
+  "finalPath": "emergency-pudding.html",
+  "heading": "Emergency Pudding",
+  "ingredients": [
+    "almond",
+    "apple",
+    "beer",
+    "butter",
+    "carrot",
+    "cinnamon",
+    "currants",
+    "custard",
+    "dates",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "jam",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "puddings",
+    "raisins",
+    "self-raising flour",
+    "suet",
+    "sugar",
+    "toffee",
+    "treacle",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "emergency-pudding.html-1",
+      "receiptSource": "A Foods of England Original Receipt",
+      "receiptText": "\u003Ccenter\u003E\u003Cb\u003EEmergency Suet Sponge Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n100g Self-raising flour\u003Cbr\u003E\n100g liquid\u003Cbr\u003E\n50g suet\u003Cbr\u003E\n50g sugar\u003C/center\u003E\u003Cbr\u003E\nMix it all up.\u003Cbr\u003E\nAdd your choice of 392 different traditional pudding bits from \u003Ca href=\u0022puddings-sweets.html\u0022\u003E\u003Cb\u003EFoods of England Puddings\u003C/b\u003E\u003C/a\u003E, such as:\u003Cbr\u003E\n\u003Ca href=\u0022brown-george.html\u0022\u003E\u003Cb\u003EBrown George\u003C/b\u003E\u003C/a\u003E - ginger and golden syrup\u003Cbr\u003E\n\u003Ca href=\u0022hunter-s-pudding.html\u0022\u003E\u003Cb\u003EHunter\u0027s Pudding\u003C/b\u003E\u003C/a\u003E - Candied peel, lemon and almond\u003Cbr\u003E\n\u003Ca href=\u0022omnibus-pudding.html\u0022\u003E\u003Cb\u003EOmnibus Pudding\u003C/b\u003E\u003C/a\u003E - Raisins, treacle and grated carrot\u003Cbr\u003E\n\u003Ca href=\u0022sir-robert-walpole-s-dumplings.html\u0022\u003E\u003Cb\u003ESir Robert Walpole\u0027s\u003C/b\u003E\u003C/a\u003E - Currants, orange, citron, cinnamon, sugar\u003Cbr\u003E\n\u003Ca href=\u0022sticky-toffee-pudding.html\u0022\u003E\u003Cb\u003ESticky Toffee\u003C/b\u003E\u003C/a\u003E - Chopped dates and vanilla\u003Cbr\u003E\n\u003Ca href=\u0022windsor-pudding.html\u0022\u003E\u003Cb\u003EWindsor Suet Sponge\u003C/b\u003E\u003C/a\u003E - Chopped apple, lemon and nutmeg\u003Cbr\u003E\n\u003Cbr\u003E\n...pour it into a greased pudding basin and microwave 5 minutes. Wait a couple of minutes for it to set, then serve with the correct accompaniment, such as \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003ETraditional \u0027Pudding Sauce\u0027\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022beer-brown-sauce.html\u0022\u003E\u003Cb\u003EBeer Brown Sauce\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022downton-sauce.html\u0022\u003E\u003Cb\u003EDownton Sauce\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EOld Fashioned Butter Sauce\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022punch-sauce.html\u0022\u003E\u003Cb\u003EPunch Sauce\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022egg-custard-sauce.html\u0022\u003E\u003Cb\u003ECustard\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022jam-sauce.html\u0022\u003E\u003Cb\u003EJam Sauce\u003C/b\u003E\u003C/a\u003E \u25CF \u003Ca href=\u0022sticky-toffee-pudding.html\u0022\u003E\u003Cb\u003ESticky Toffee Sauce\u003C/b\u003E\u003C/a\u003E, or have a poke through our \u003Ca href=\u0022https://www.google.com/search?hl=en\u0026amp;ie=ISO-8859-1\u0026amp;sitesearch=foodsofengland.co.uk\u0026amp;q=sauce\u0026amp;btnG=Go..\u0022\u003E\u003Cb\u003E1,480 references\u003C/b\u003E\u003C/a\u003E to different sauces\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Emergency Pudding",
+  "usedSnapshot": "20200804074902"
+}

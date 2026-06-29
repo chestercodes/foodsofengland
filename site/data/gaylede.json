@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922071814",
+  "finalPath": "gaylede.html",
+  "heading": "Gaylede",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "flour",
+    "ginger",
+    "milk",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gaylede.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGaylede.\u003C/b\u003E Take almond milk \u0026 flour of rice, \u0026 do thereto sugar or hony, \u0026 powder ginger \u0026 galyngale; then take figys, an kerve them a-to, or raysonys y-hole, or hard \u003Ca href=\u0022wastel-bread.html\u0022\u003E\u003Cb\u003Ewastel\u003C/b\u003E\u003C/a\u003E y-diced and coloure it with \u003Ca href=\u0022sanders-powder.html\u0022\u003E\u003Cb\u003Esaunderys\u003C/b\u003E\u003C/a\u003E, \u0026 seethe it \u0026 dresse them yn.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Gaylede",
+  "usedSnapshot": "20210510044514"
+}

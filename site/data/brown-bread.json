@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082425",
+  "finalPath": "brown-bread.html",
+  "heading": "Brown Bread",
+  "ingredients": [
+    "bread",
+    "flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brown-bread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EENGLISH BROWN BREAD.\u003C/b\u003E\u003Cbr\u003E\nThis is often made with a portion only of the unbolted meal recommended in the preceding receipt, mixed with more or less of fine flour, according to the quality of bread required; and in many families the coarse bran is always sifted from the meal, as an impression exists that it is irritating to the stomach. If one gallon of meal as it comes from the mill, be well mixed with an equal measure of flour, and made into a dough in the manner directed for white household bread, the loaves will still be sufficiently brown for the general taste in this country, and they will be good and wholesome, though not, perhaps, so entirely easy of digestion as Baron Liebig\u0027s Bavarian\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Wheatgerm Bread",
+      "relatedPageUrl": "wheatgerm-breads.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Brown Bread",
+  "usedSnapshot": "20211019190325"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922073718",
+  "finalPath": "macaroni-rissoles.html",
+  "heading": "Macaroni Rissoles",
+  "ingredients": [
+    "bread",
+    "breadcrumbs",
+    "butter",
+    "butter beans",
+    "egg",
+    "eggs",
+    "macaroni",
+    "mashed potatoes",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "macaroni-rissoles.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E244 MACARONI RISSOLES (Kent)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake one teacupful of butter beans, which have been boiled till they are quite soft, half a teacupful of boiled macaroni, half a teacupful of cold mashed potatoes, the yolks of two eggs, pepper and salt, half a teacupful of brown bread crumbs - that is to say, the crumbs of bread which has been browned and dried in the oven. Cut the macaroni up into small pieces; mash the beans and potatoes; mix all together with half the quantity of breadcrumbs, bind them with the yolk of the egg, and shape them into small balls. Roll the balls in bread crumbs,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Macaroni Rissoles",
+  "usedSnapshot": "20211019182710"
+}

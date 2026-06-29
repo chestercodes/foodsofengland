@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140212030513",
+  "finalPath": "cherry-pie.html",
+  "heading": "Cherry Pie",
+  "ingredients": [
+    "cherries",
+    "cherry",
+    "currants",
+    "custard",
+    "plum",
+    "red currants",
+    "sugar",
+    "currant",
+    "raspberries"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cherry-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ECherry-pie.\u003C/b\u003E\u003Cbr\u003E\nHaving made a good crust, lay a little of it round the sides of the dish, and throw some sugar at the bottom. Then lay in the fruit, and some sugar at the top. A few red currants must be put along with the cherries, or it will be without juice. Then put on the crust, and bake it in a slack oven. A plum-pie, or a gooseberry-pie, may be made in the same manner. A custard eats well with a gooseberry-pie.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cherry-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CHERRY PIE. This should have a mixture of other fruit; currants or raspberries, or both. Currant pie is also best with raspberries.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Cherry Pie",
+  "usedSnapshot": "20211201000454"
+}

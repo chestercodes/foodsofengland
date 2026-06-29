@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922075103",
+  "finalPath": "bookmaker-sandwiches.html",
+  "heading": "Bookmaker Sandwiches",
+  "ingredients": [
+    "bread",
+    "butter",
+    "horse-radish",
+    "mustard",
+    "pepper",
+    "salt",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bookmaker-sandwiches.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier 1903\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E2337 - BOOKMAKER SANDWICHES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIn his book, \u0022\u003Ci\u003E\u003Ca href=\u0022la-cuisine-anglaise-1894.html\u0022\u003E\u003Cb\u003ELa Cuisine Anglaise\u003C/b\u003E\u003C/a\u003E\u003C/i\u003E\u0022 Mr. Suzanne gives the following kind of sandwich, which deserves attention:\u003Cbr\u003E\n\u003Cbr\u003E\nThis kind of sandwich, which is liked by racing people, is a most substantial affair, and it will be seen from the following recipe that a sandwich of the nature prescribed might, in an emergency, answer the purpose of a meal.\u003Cbr\u003E\n\u003Cbr\u003E\nTake an English tin-loaf, and cut off its two end crusts, leaving on them about one-third inch of crumb. Butter these crusts. Meanwhile grill a thick steak, well seasoned with salt and pepper. When it is cooked, cool it; sprinkle it with grated horse-radish and mustard, and lay it between the two crusts. String the whole together as for a galantine, and wrap it in several sheets of blotting-paper. Then place the parcel under a letter-press, the screw of which should be gradually tightened, and leave the sandwich thus for one-half hour.\u003Cbr\u003E\n\u003Cbr\u003E\nAt the end of this time the insides of the slices of bread have, owing to the pressure, become saturated with meat juice, which is prevented from escaping by the covering of crust.\u003Cbr\u003E\n\u003Cbr\u003E\nRemove the blotting-paper, and pack the sandwich in a box or in several sheets of white paper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Bookmaker Sandwiches",
+  "usedSnapshot": "20220717191250"
+}

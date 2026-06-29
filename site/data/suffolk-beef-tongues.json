@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922084316",
+  "finalPath": "suffolk-beef-tongues.html",
+  "heading": "Suffolk Beef Tongues",
+  "ingredients": [
+    "beef",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-beef-tongues.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBEEF TONGUES (a Suffolk receipt)\u003C/b\u003E\u003Cbr\u003E\nFor each very large tongue mix with half a pound of salt two ounces of saltpetre and three quarters of a pound of the coarsest sugar, rub the tongues daily, and turn them in the pickle for five weeks, when they will be fit to be dressed or to be smoked.\u003Cbr\u003E\n1 large tongue, salt\u00BD lb; sugar \u00BE lb; saltpetre 2 ozs; 5 weeks\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Suffolk Beef Tongues",
+  "usedSnapshot": "20220516220229"
+}

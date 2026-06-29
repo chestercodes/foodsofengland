@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922101807",
+  "finalPath": "derbyshire-bread.html",
+  "heading": "Derbyshire Bread",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "derbyshire-bread.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EDERBYSHIRE BREAD.\u003C/b\u003E Rub four ounces of butter into four pounds of flour, add four eggs well beaten, a pint of milk, and a large spoonful of yeast. Mix them into a paste, make it into rolls, and let them stand half an hour to rise before the fire. Put them into the oven, dip them in milk the next day, and then let them stand by the fire in a Dutch oven about twenty minutes. The rolls will then be very good, and keep a fortnight.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Derbyshire Bread",
+  "usedSnapshot": "20211021014154"
+}

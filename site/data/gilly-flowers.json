@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922074002",
+  "finalPath": "gilly-flowers.html",
+  "heading": "Gilly-flowers",
+  "ingredients": [
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gilly-flowers.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Queens Delight in The Art of Preserving, Conserving and Candying\u003C/i\u003E\u0027, by WM, 1671 (\u003Ca href=\u0022references.html#wm-1671\u0022\u003E\u003Cb\u003EWM 1671\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ETo make Syrup of Clove-gilly flowers.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nTake a quart of water, half a bushel of Flowers, cut off the whites, and with a sieve sift away the seeds, bruise them a little; let your water be boiled, and a little cold again, then put in your Flowers, and let them stand close covered twenty four hours; you may put in but half the flowers at a time, the strength will come out the better; to that liquor put in four pound of Sugar, let it lye in all night, next day boil it in a Gallipot, set it in a pot of water, and there let it boil till all the Sugar be melted and the syrup be pretty thick, then take it out, and let it stand in that till it be through cold, then glass it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1671"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Gilly-flowers",
+  "usedSnapshot": "20220516224708"
+}

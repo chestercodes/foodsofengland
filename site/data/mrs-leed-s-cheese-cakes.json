@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212021354",
+  "finalPath": "mrs-leed-s-cheese-cakes.html",
+  "heading": "Mrs Leed\u0027s Cheese Cakes",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "cheese",
+    "cream",
+    "eggs",
+    "milk",
+    "pigeon",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mrs-leed-s-cheese-cakes.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Mrs. Leeds Cheese Cakes.\u003C/b\u003E\u003Cbr\u003E\nTake six quarts of milk and ren it prety cold, and when it is tender come drayn from it your Whey in a strainer, then hang it up till all the Whey be dropt from it, then presse it, change it into dry cloaths till it wet the cloth no longer, then beat it in a stone Morter till it be like butter, then straine it through a thin strayner, mingle it with a pound and a halfe of butter with your hands, take one pound of Almonds, and heat them with Rosewater till they are like your Curd, then mingle them with the yolks of twenty Eggs and a quart of Cream, two great Nutmegs, one pound and a half of sugar, when your Coffins are ready and going to set in the Oven; then mingle them together, let your Oven be made hot enough for a Pigeon Pye, and let a stone stand up till the scorcthing be past, then set them in, half an hour will bake them well, your Coffins must be made with Milk and Butter as stiffe as for other Past, then you must set them into a pretty hot Oven, and fill them full of Bran, and when they are harded, take them out, and with a Wing, brush out the Bran, they must be pricked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Mrs Leed\u0027s Cheese Cakes",
+  "usedSnapshot": "20220527223803"
+}

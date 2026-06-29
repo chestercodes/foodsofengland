@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922074822",
+  "finalPath": "mock-sweetbreads.html",
+  "heading": "Mock Sweetbreads",
+  "ingredients": [
+    "bacon",
+    "breadcrumbs",
+    "cream",
+    "eggs",
+    "gravy",
+    "milk",
+    "pepper",
+    "salt",
+    "suet",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mock-sweetbreads.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E113. MOCK SWEETBREADS (Cheshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake three-quarters of a pound of veal, pass it through a mincer two or three times till it is practically a pulp: add a little suet or bacon very finely shredded or minced, the yolks of two eggs to bind, and a few fine breadcrumbs to give it consistency. Season with a little mace, pepper, and salt: add a little cream or milk to moisten. Make up into the shape of sweetbreads, and brown in good (but not fierce) oven. Serve with gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMock Tripe\u003C/b\u003E",
+      "relatedPageUrl": "tripe-of-eggs.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Mock Sweetbreads",
+  "usedSnapshot": "20220516210539"
+}

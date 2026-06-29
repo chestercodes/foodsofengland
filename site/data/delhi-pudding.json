@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922075001",
+  "finalPath": "delhi-pudding.html",
+  "heading": "Delhi Pudding",
+  "ingredients": [
+    "currants",
+    "lemon",
+    "nutmeg",
+    "pudding",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "delhi-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDELHI PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1272. INGREDIENTS: 4 large apples, a little grated nutmeg, 1 teaspoonful of minced lemon-peel, 2 large tablespoonfuls of sugar, 6 oz. of currants, \u00BE lb. of suet crust No. 1215.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Pare, core, and cut the apples into slices; put them into a saucepan, with the nutmeg, lemon-peel, and sugar; stir them over the fire until soft; then have ready the above proportion of crust, roll it out thin, spread the apples over the paste, sprinkle over the currants, roll the pudding up, closing the ends properly, tie it in a floured cloth, and boil for 2 hours.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 2 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from August to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Delhi Pudding",
+  "usedSnapshot": "20200116035923"
+}

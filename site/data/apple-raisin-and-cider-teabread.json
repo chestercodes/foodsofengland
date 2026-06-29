@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074836",
+  "finalPath": "apple-raisin-and-cider-teabread.html",
+  "heading": "Apple, Raisin and Cider Teabread",
+  "ingredients": [
+    "apple",
+    "breadcrumbs",
+    "brown sugar",
+    "butter",
+    "cider",
+    "eggs",
+    "flour",
+    "raisins",
+    "salt",
+    "soft brown sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-raisin-and-cider-teabread.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz self raising flour\u003Cbr\u003E\n\u00BC teaspoon salt\u003Cbr\u003E\n1 level tsp mixed spice\u003Cbr\u003E\n4 oz butter\u003Cbr\u003E\n3 oz soft brown sugar\u003Cbr\u003E\n3 oz raisins, soaked in 2 tbsp cider\u003Cbr\u003E\n1 medium cooking apple, peeled, cored and finely\u003Cbr\u003E\nchopped\u003Cbr\u003E\n2 medium eggs\u003Cbr\u003E\nGlaze\u003Cbr\u003E\n2 oz soft brown sugar\u003Cbr\u003E\n2 tbsp cider\u003Cbr\u003E\n\u003Cbr\u003E\nSet the oven to 180\u00B0C. Grease a 2 lb loaf tin Place the flour, salt and spice into a bowl. Rub the butter into the dry ingredients the mixture resembles fine breadcrumbs. Stir in the sugar, apples and raisin. cider mixture. Add the eggs and mix well. Put the mixture into the loaf tin and bake for approximately one hour until golden and cooked through when tested with a skewer. Turn out to cool on a wire rack. Boil the glaze ingredients together for 3 or 4 minutes and brush over the warm loaf. Serve sliced, plain or buttered\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Apple, Raisin and Cider Teabread",
+  "usedSnapshot": "20220705091111"
+}

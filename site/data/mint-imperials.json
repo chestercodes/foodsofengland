@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140130045532",
+  "finalPath": "mint-imperials.html",
+  "heading": "Mint Imperials",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Mint Imperials",
+  "usedSnapshot": "20220527215455"
+}

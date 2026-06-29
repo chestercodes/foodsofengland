@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616083028",
+  "finalPath": "jellied-eels.html",
+  "heading": "Jellied Eels",
+  "ingredients": [
+    "carrots",
+    "eels",
+    "lemon",
+    "mushrooms",
+    "onions",
+    "parsley",
+    "peas",
+    "potato",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jellied-eels.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EMrs. Norton\u0027s cook-book; selecting, cooking, and serving for the home table\u003C/i\u003E\u0027 (1917)",
+      "receiptText": "\u003Cb\u003ECold Jellied Eels\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSkin and cut the eels into short pieces; put them into a pint of white wine with sliced onions, carrots, mushrooms, a few peas, and one diced potato. Season to taste and stew until the eels are done; remove from the fire, add a few thin slices of lemon and a teaspoon of minced parsley.\u003Cbr\u003E\n\u003Cbr\u003E\nTurn into an oblong mold and set away to cool and jell; when ready to serve turn onto a platter and garnish with lemon and parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Eels",
+      "relatedPageUrl": "fenland-eels.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Jellied Eels",
+  "usedSnapshot": "20211201000534"
+}

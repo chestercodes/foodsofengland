@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20141009091913",
+  "finalPath": "alexander-herb.html",
+  "heading": "Alexander (herb)",
+  "ingredients": [
+    "butter",
+    "herbs",
+    "oatmeal",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "alexander-herb.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EEllicksander Pottage.\u003C/b\u003E\u003Cbr\u003E\nChop ellicksanders and oatmeal together, being picked and washed, then set on a pipkin with fair water, and when it boils, put in your herbs, oatmeal, and salt, boil it on a soft fire, and make it not too thick, being almost boil\u0027d put in some butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Alexander Salad",
+      "relatedPageUrl": "alexander-salad.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Alexander (herb)",
+  "usedSnapshot": "20220527065932"
+}

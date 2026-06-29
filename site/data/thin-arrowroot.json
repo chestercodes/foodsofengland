@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140508121017",
+  "finalPath": "thin-arrowroot.html",
+  "heading": "Thin Arrowroot",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "eggs",
+    "flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "thin-arrowroot.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E72. - Small Arrowroot Biscuits.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n51/2 lbs. of flour, 8 ozs. of butter, 6 ozs. of sugar, 6 ozs. of arrowroot, 3 eggs, 1 pint of liquor. Prepare as the last. Make 16 biscuits from 1 lb. of dough. Mould and pin into round cakes 3 inches in diameter, dock them with an arrowroot docker, and bake them in a sound oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Thin Arrowroot",
+  "usedSnapshot": "20201201151355"
+}

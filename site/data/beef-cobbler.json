@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922074925",
+  "finalPath": "beef-cobbler.html",
+  "heading": "Beef Cobbler",
+  "ingredients": [
+    "beef",
+    "breadcrumbs",
+    "butter",
+    "carrots",
+    "egg",
+    "fat",
+    "flour",
+    "herbs",
+    "margarine",
+    "milk",
+    "onion",
+    "parsnips",
+    "peas",
+    "pepper",
+    "plain flour",
+    "salt",
+    "self- raising flour",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-cobbler.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Beef%20Cobbler\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBeef Cobbler Recipe\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n1 \u00BC lb stewing or braising steak, cut into cubes\u003Cbr\u003E\n1 oz plain flour\u003Cbr\u003E\n1 teaspoon dried mixed herbs\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n1 onion, chopped\u003Cbr\u003E\n3 tablespoons oil\u003Cbr\u003E\n4 oz baby carrots\u003Cbr\u003E\n2 parsnips, quartered and sliced\u003Cbr\u003E\n1 pint beef stock\u003Cbr\u003E\n4 oz frozen peas\u003Cbr\u003E\n\u003Cbr\u003E\nFor the topping:\u003Cbr\u003E\n8 oz self- raising flour\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n2 oz butter or margarine\u003Cbr\u003E\n1 egg, beaten plus extra to glaze\u003Cbr\u003E\n3 tablespoons milk\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:\u003Cbr\u003E\n1. Toss the meat in a mixture of the flour, herbs and seasoning. Cook in the oil until browned. Transfer to a casserole.\u003Cbr\u003E\n2. Cook the onion in the oil until soft and add to the casserole with the carrots, parsnips and beef stock. Season to taste. Cover and cook in a moderate oven for 2 hours until the meat is cooked. Stir in the peas.\u003Cbr\u003E\n3. Sift the flour and salt into a bowl, rub in the fat until the mixture resembles fine breadcrumbs.\u003Cbr\u003E\n4. Stir in the beaten egg and enough milk to make a soft dough. Roll out on a lightly floured work surface to about 1 in thick. Cut into rounds using a 2 in scone cutter.\u003Cbr\u003E\n5. Place the cobblers on top of the meat in the casserole, increase the oven heat and bake for 15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Beef Cobbler",
+  "usedSnapshot": "20220808020441"
+}

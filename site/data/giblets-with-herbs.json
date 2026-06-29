@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922132956",
+  "finalPath": "giblets-with-herbs.html",
+  "heading": "Giblets with Herbs",
+  "ingredients": [
+    "barberries",
+    "eggs",
+    "herbs",
+    "spinage",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "giblets-with-herbs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Whole Duty of a Woman: or a Guide to the Female Sex\u003C/i\u003E\u0027 by Lady Mary Cressy (\u003Ca href=\u0022references.html#cressy-1696\u0022\u003E\u003Cb\u003ECressy 1696\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u0022Parboyl them and put them into a quart of Claret in a Pipkin, or Earthen vessel, add an ounce of Sugar, some Pickled Barberries, and Spinage, a fagot of sweet herbs and such roots as you think convenient, sliced, then take strong Broath, Verjuice, and the Yolks of two or three new laid Eggs, strain them and put them into the Pipkin, and let them stew together: So Serve them on Sippets, Garnished with Flowers or Greens.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cressy-1696"
+    }
+  ],
+  "title": "Giblets with Herbs",
+  "usedSnapshot": "20220819111020"
+}

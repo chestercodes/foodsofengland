@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140212023203",
+  "finalPath": "rosehip-tarte.html",
+  "heading": "Rosehip Tarte",
+  "ingredients": [
+    "ginger",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rosehip-tarte.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a tarte of Hippes\u003C/b\u003E\u003Cbr\u003E\nTAKE Hippes, slit them, and pick out the kernels: then seeth them in white wine, or in faire water, when they bee soft sodden, straine them as thick as you can, and season them with Synamon, ginger \u0026 sugar, and lay it in paste.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rose Hip Jelly",
+      "relatedPageUrl": "rose-hip-jelly.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rose Hip Syrup",
+      "relatedPageUrl": "rose-hip-syrup.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rosehip Tarte",
+      "relatedPageUrl": "rosehip-tarte.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Rosehip Tarte",
+  "usedSnapshot": "20220808020712"
+}

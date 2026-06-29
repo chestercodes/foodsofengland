@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922074353",
+  "finalPath": "herb-dumplings.html",
+  "heading": "Herb Dumplings",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "dumplings",
+    "eggs",
+    "herbs",
+    "milk",
+    "nutmeg",
+    "orange",
+    "parsley",
+    "powder sugar",
+    "salt",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "herb-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E170. To make HERB DUMPLINGS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a penny loaf, cut off the out crust, and the rest in slices, put to it as much hot milk as will just wet it, take the yolks and whites of six eggs, beat them with two spoonfuls of powder sugar, half a nutmeg, and a little salt, so put it to your bread; take half a pound of currans well cleaned, put them to your eggs, then take a handful of the mildest herbs you can get, gather them so equal that the taste of one be not above the other, wash and chop them very small, put as many of them in as will make a deep green, (don\u0027t put any parsley among them, nor any other strong herb) so mix them all together, and boil them in a cloth, make them about the bigness of middling apples; about half an hour will boil them; put them into your dish, and have a little candid orange, white wine, butter and sugar for sauce, so serve them up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Herb Dumplings",
+  "usedSnapshot": "20211205172611"
+}

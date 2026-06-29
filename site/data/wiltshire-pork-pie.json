@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212020758",
+  "finalPath": "wiltshire-pork-pie.html",
+  "heading": "Wiltshire Pork Pie",
+  "ingredients": [
+    "apple",
+    "bacon",
+    "black pepper",
+    "butter",
+    "cheddar",
+    "cheese",
+    "egg",
+    "herbs",
+    "mustard",
+    "mustard powder",
+    "onion",
+    "parsley",
+    "pastry",
+    "pepper",
+    "pork",
+    "salt",
+    "shortcrust pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wiltshire-pork-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Wiltshire%20Pork%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "12 oz shortcrust pastry\u003Cbr\u003E\n\u00BD oz butter\u003Cbr\u003E\n1 onion, peeled and chopped\u003Cbr\u003E\n2 rashers streaky bacon, chopped\u003Cbr\u003E\n1 lb pork belly, chopped\u003Cbr\u003E\n1 small cooking apple, peeled, cored and chopped\u003Cbr\u003E\n3 oz Cheddar cheese, diced\u003Cbr\u003E\n2 tbsp parsley, chopped\u003Cbr\u003E\n1 tsp sage, chopped\u003Cbr\u003E\nsalt and black pepper\u003Cbr\u003E\npinch mustard powder\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\n1 sprig sage, to garnish\u003Cbr\u003E\n\u003Cb\u003EMethod:\u003C/b\u003E\u003Cbr\u003E\nOn a lightly floured surface roll out the pastry. Divide in half and use one half to line a lightly greased 23cm pie dish.\u003Cbr\u003E\nIn a skillet melt the butter and lightly saute the onion and the bacon. Add the pork and cook stirring for approximately 20 minutes. Allow to cool then stir in the apple, cheese and herbs. Season to taste with salt, pepper and mustard powder. Add some of the beaten egg to bind the mixture.\u003Cbr\u003E\nPreheat the oven to 220\u00B0C.\u003Cbr\u003E\nSpoon the pork mixture into the pie dish then cover with the remaining pastry. Firmly press together the edges. Make a steam hole.\u003Cbr\u003E\nBrush the pie with the remaining beaten egg and bake for 15 minutes. Reduce the heat to 180\u00B0C and bake for a further approximately 30 minutes or until golden brown.\u003Cbr\u003E\nGarnish with sage leaves. Serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Wiltshire Pork Pie",
+  "usedSnapshot": "20220527065303"
+}

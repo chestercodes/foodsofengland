@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072440",
+  "finalPath": "artichoke-cream.html",
+  "heading": "Artichoke Cream",
+  "ingredients": [
+    "artichokes",
+    "beat",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "artichoke-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E48. Artichoke Cream.\u003C/b\u003E Take the tender bottoms of Artichokes, and beat them in a Mortar, and pick out all the strings, then boil a quart of Cream with large Mace and Nutmeg, then put in your bottoms, and when they have boiled a while, put in the yolks of six Eggs well beaten, and so much Sugar as you think fit, and heat them together over the fire, then pour it into a Dish, and when it is cold serve it in with Sugar strewed over it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Artichoke Cream",
+  "usedSnapshot": "20211021024302"
+}

@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922083108",
+  "finalPath": "small-beer.html",
+  "heading": "Small Beer",
+  "ingredients": [
+    "ale",
+    "beer",
+    "ginger",
+    "hogshead",
+    "hops",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "small-beer.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003E\u0027The Compleat Brewer, or Art and Mystery of Brewing Explained\u0027\u003C/i\u003E, by \u0022A Brewer of Extensive Practice\u0022, published in London in 1760",
+      "receiptText": "\u003Cb\u003EOf Brewing Small beer\u003C/b\u003E\u003Cbr\u003E\nMOST families have got into so regular a way of brewing their small beer after their ale that it will be not be easy to persuade them them out of it, but they may be assured that if they have any value for that kind of drink it is their interest to brew it alone, for the trouble is very little more than the other way, and the drink is incomparably better. The method is very little different from the brewing of any other kind. As to the quantity of malt or strength of the beer that is at the pleasure of the person, but however it is intended in point of strength, the brewing should be performed at once, and all that is made should be of one kind, not a stronger first and a weaker afterwards. We shall give directions at the rate of two bushels and a half to the hogshead, which will make a very excellent kind\u003Cbr\u003E\n\u003Cbr\u003E\nMix two bushels of amber malt and half a bushel of brown, let the whole be ground a little more than is done for stronger liquors, but then not fine. Let it be laid out on a floor or in a cool airy room eighteen hours, and then set on half a hogshead and two pails of water, this is the proper quantity for the first copper as it will yield a clear half hogshead of wort. Put into the copper a handful of hops as much salt as will lie on a shilling, and a race of whole ginger lift over a little malt to keep in the spirit and just make it boil let it out into the mash tub and let it stand to be somewhat cooler than for the stronger kinds of beer then pour in the malt except about a peck and stir it a good while very carefully together not beating it about hastily to break it but mixing it very well with the liquor, then sift on the malt that was saved out through a coarse sieve and cover it up, let it stand two hours then rub to pieces a pound and a half of hops and tie them up in a coarse bag, put them into the receiver, and let the wort run out upon them in a small stream. While this mash is standing the fame quantity of water must be brought to a due degree of heat. It should be somewhat hotter than the first, and when the mash tub is drained pretty near dry this must be let in, It is to stand two hours as the other did, and then to be run off to the rest in the receiver. When the grains are well drained the liquor is to be put into the copper with the hops, and it should boil about half an hour, for more boiling is necessary for these small worts than for the strong, nor does it do them such mischief. After this the working is to be managed as in other cases and the beer will be capable of keeping to a perfect fineness, and will far exceed that ordinary and poor kind which it is possible to make after other drinks, When such small beer has stood to a due fineness there is no wholesomer liquor. I remember to have drank at SirCRISP GASCOIGNE\u0027s small beer which I think was made in this way, and kept a due time which every one allowed exceeded in pleasantness any small drink of malt whatsoever.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Small Beer",
+  "usedSnapshot": "20210731163311"
+}

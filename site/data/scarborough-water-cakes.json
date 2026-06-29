@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922074617",
+  "finalPath": "scarborough-water-cakes.html",
+  "heading": "Scarborough Water Cakes",
+  "ingredients": [
+    "biscuits",
+    "cinnamon",
+    "eggs",
+    "flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "scarborough-water-cakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E121. - Scarborough Water Cakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 eggs, 1 lb. of sugar, 1 lb. of flour, and a little ground cinnamon. Mix the same way as for Savoy Biscuits [ie. piped onto a baking paper sheet]. Flavour with as much ground cinnamon as will make them pleasant to the taste. When taken off the paper put two together.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Scarborough Water Cakes",
+  "usedSnapshot": "20210518205923"
+}

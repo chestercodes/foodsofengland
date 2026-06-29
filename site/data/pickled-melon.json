@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922085011",
+  "finalPath": "pickled-melon.html",
+  "heading": "Pickled Melon",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Pickled Melon",
+  "usedSnapshot": "20220517175240"
+}

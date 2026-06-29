@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20140212021025",
+  "finalPath": "mrs-loudon-s-pie.html",
+  "heading": "Mrs Loudon\u0027s Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Mrs Loudon\u0027s Pie",
+  "usedSnapshot": "20211129121018"
+}

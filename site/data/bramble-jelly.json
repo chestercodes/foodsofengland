@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922082833",
+  "finalPath": "bramble-jelly.html",
+  "heading": "Bramble Jelly",
+  "ingredients": [
+    "jelly",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bramble-jelly.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EReform Cookery Book\u003C/i\u003E\u0027 (4th edition) by Mrs. Mill (\u003Ca href=\u0022references.html#mill-1909\u0022\u003E\u003Cb\u003EMill 1909\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBramble Jelly.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis is one of the finest preserves one can make--especially if we have gathered the fruit. The brambles should not be too ripe, but should have a good proportion of hard red ones. Wash well in cold water and put on with water to barely cover. Simmer gently for an hour or longer, bruising well with wooden spoon. Drain without pressure. Measure, and allow 14 ozs.\u003Cbr\u003E\n\u003Cbr\u003E\nsugar to pint, i.e., breakfast cupful. Allow the juice to boil up well. Add the sugar, boil fast for a few minutes, skim and pot.\u003Cbr\u003E\n\u003Cbr\u003E\nNOTE.--Only pure cane sugar should be used for preserves. Add the sugar when the preserve is boiling--nearly ready indeed. It only requires to be thoroughly dissolved and boiled through. This method goes far to prevent burning and loss of flavour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    }
+  ],
+  "title": "Bramble Jelly",
+  "usedSnapshot": "20211201033055"
+}

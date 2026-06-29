@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922093215",
+  "finalPath": "currant-water.html",
+  "heading": "Currant Water",
+  "ingredients": [
+    "currant",
+    "jelly"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "currant-water.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ECurrant Water.\u003C/b\u003E\u003Cbr\u003E\n1248. Currant water is made by dissolving a small table-spoonful of currant jelly in a tumbler of water, and adding from ten to fifteen grains of tartaric acid.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Currant Water",
+  "usedSnapshot": "20211027034353"
+}

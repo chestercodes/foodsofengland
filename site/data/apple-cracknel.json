@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922074615",
+  "finalPath": "apple-cracknel.html",
+  "heading": "Apple Cracknel",
+  "ingredients": [
+    "apple",
+    "brown sugar",
+    "butter",
+    "dates",
+    "flour",
+    "lard",
+    "margarine",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-cracknel.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWest Sussex County Times\u003C/i\u003E\u0027 - Friday 03 December 1954",
+      "receiptText": "Take 3 ozs. of \u0022SERAFLO\u0022 S.R. Flour\u003Cbr\u003E\n1/4 lb apples, peeled and cored, 1 \u00BC ozs. Butter or Margarine, \u00BD lb Dates. chopped. oz. \u00BC oz Lard. 5 ozs. Water. 2 ozs. Brown Sugar. Sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nThen make delicious APPLE CRACKNEL this way\u003Cbr\u003E\nStew the dates with the water till they are soft. Lay them in the bottom of a pie dish greased round the top. Cover with apples sliced thinly, sprinkling a little sugar over each layer. Rub the butter and lard into flour till fine and crumbly, then mix in the brown sugar. Sprinkle evenly bake at 400 or R6 for 50 minutes. Sufficient for four persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Apple Cracknel",
+  "usedSnapshot": "20220517175158"
+}

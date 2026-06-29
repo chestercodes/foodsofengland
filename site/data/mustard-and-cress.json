@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922092504",
+  "finalPath": "mustard-and-cress.html",
+  "heading": "Mustard and Cress",
+  "ingredients": [
+    "chives",
+    "lettuce",
+    "mustard",
+    "tarragon"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mustard-and-cress.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "433. Mustard and Cress.- -These, if eaten alone, make an excellent salad; they should be quickly washed and used, dressed as lettuce. A little tarragon or chervil, or a few chives, may be used.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Mustard and Cress",
+  "usedSnapshot": "20170314021121"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082749",
+  "finalPath": "cornish-blue.html",
+  "heading": "Cornish Blue",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cornish Blue",
+  "usedSnapshot": "20211019175357"
+}

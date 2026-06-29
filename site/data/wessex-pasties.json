@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140212025344",
+  "finalPath": "wessex-pasties.html",
+  "heading": "Wessex Pasties",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Wessex Pasties",
+  "usedSnapshot": "20211129122902"
+}

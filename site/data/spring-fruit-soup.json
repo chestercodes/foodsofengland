@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20210510050207",
+  "finalPath": "spring-fruit-soup.html",
+  "heading": "Spring Fruit Soup",
+  "ingredients": [
+    "bread",
+    "butter",
+    "carrot",
+    "cayenne",
+    "fat",
+    "ham",
+    "onions",
+    "pepper",
+    "rhubarb",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spring-fruit-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESpring Fruit Soup.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPeel and well wash four dozen sticks of rhubarb; blanch it in water three or four minutes; drain it on a sieve, and put it into a stew-pan, with two onions sliced, a carrot, an ounce of lean ham, and a good bit of butter; let it stew gently over a slow fire till tender; then put in two quarts of good \u003Ci\u003Econsomm\u00E9,\u003C/i\u003E to which add two or three ounces of bread-crumbs; boil about fifteen minutes; skim off all the fat; season with salt and Cayenne pepper; pass it through a tamis, and serve up with fried bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERhubarb Soup\u003C/b\u003E",
+      "relatedPageUrl": "rhubarb-soup.html",
+      "relationDescription": "See also "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Spring Fruit Soup",
+  "usedSnapshot": "20210510050207"
+}

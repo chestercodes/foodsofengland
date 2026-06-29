@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616084736",
+  "finalPath": "scampi.html",
+  "heading": "Scampi",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Scampi",
+  "usedSnapshot": "20210308033215"
+}

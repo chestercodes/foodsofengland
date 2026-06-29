@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616082739",
+  "finalPath": "gloucester-cheese-and-ale.html",
+  "heading": "Gloucester Cheese and Ale",
+  "ingredients": [
+    "ale",
+    "bread",
+    "cheese",
+    "english mustard",
+    "mustard",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-cheese-and-ale.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Gloucester%20Cheese%20and%20Ale\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "180 g Gloucester cheese, sliced\u003Cbr\u003E\n1 tsp English mustard\u003Cbr\u003E\n120 ml brown ale\u003Cbr\u003E\n4 slices bread\u003Cbr\u003E\n\u003Cbr\u003E\nArrange the cheese slices in the bottom of a shallow casserole dish and spread the mustard over the top of them.\u003Cbr\u003E\nPour in enough brown ale to cover the cheese.\u003Cbr\u003E\nPreheat oven to 190\u00B0C.\u003Cbr\u003E\nCover dish with foil and bake for about 10 minutes, until the cheese has softened.\u003Cbr\u003E\nTo serve, toast the bread and pour the warm ale and cheese mixture over the toast.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rarebit",
+      "relatedPageUrl": "rarebit(orrabbit).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Gloucester Cheese and Ale",
+  "usedSnapshot": "20211201002557"
+}

@@ -1,0 +1,8 @@
+data/
+out/**/*.htm
+out/**/*.htm%22
+out/**/*.html
+out/**/*.js
+out/**/*.css
+out/**/*.txt
+out/*robots.txt*

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150822224117",
+  "finalPath": "northumberland-twists.html",
+  "heading": "Northumberland Twists",
+  "ingredients": [
+    "butter",
+    "castor sugar",
+    "flour",
+    "sugar",
+    "yeast",
+    "caster sugar",
+    "plain flour",
+    "sherry",
+    "tea"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "northumberland-twists.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EShepton Mallet Journal\u003C/i\u003E - Friday 30 March 1934",
+      "receiptText": "This week\u2019s recipe for Northumberland Twists has been sent to me by reader in the North of England who vouches for its excellence. Melt 1 lb. of butter, and mix with it 1 lb. of castor sugar and 4 lbs. of flour, which should be mixed together beforehand. Knead together very quickly, and add 2 ozs., of yeast dissolved warm water. Add sufficient salted water to make nice stiff dough, then knead for three* quarters of an hour, and set to rise for two hours. Roll out on floured board, cut into stripe, and roll between the hands twists. Sprinkle with sugar and bake in a moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "northumberland-twists.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Northumberland%20Twists\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENorthumberland Twists\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1lb Strong plain flour (1 lb)\u003Cbr\u003E\n2 oz Caster sugar plus extra for sprinkling\u003Cbr\u003E\n4 oz Butter, melted\u003Cbr\u003E\n1/4 pint Warm water\u003Cbr\u003E\nyeast\u003Cbr\u003E\n3 Tablespoon Sherry\u003Cbr\u003E\n\u003Cbr\u003E\nStir the flour and sugar together in a warm bowl, then add the melted butter and combine well. Mix 2 tablespoons of the warm water with the yeast and leave to stand for a few minutes until frothy. Add to the flour mixture with the remainder of the water and combine well.\u003Cbr\u003E\nTurn out onto a lightly floured surface and knead until smooth and elastic. Form into a ball, place in a bowl and cover with a clean tea towel. Leave in a warm place for 1 \u00BD - 2 hours until doubled in bulk.\u003Cbr\u003E\nSet the oven to 190C / 375F/ Gas 5. Turn the dough out on to a lightly floured surface and knead well, then roll out and cut into strips approximately 10 cm (4 inches) long and 1 cm (1/2 inch) wide. Twist each strip slightly and divide between 2 well-greased baking sheets. Brush the twists with sherry and sprinkle with caster sugar, then bake for 20-25 minutes until golden. Eat freshly baked and slightly warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Northumberland Twists",
+  "usedSnapshot": "20210512102446"
+}

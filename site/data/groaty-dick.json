@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20121024084601",
+  "finalPath": "groaty-dick.html",
+  "heading": "Groaty Dick",
+  "ingredients": [
+    "barley",
+    "carrot",
+    "celery",
+    "lamb",
+    "leeks",
+    "lentils",
+    "parsnip",
+    "pepper",
+    "salt",
+    "tea",
+    "bay leaf",
+    "beef",
+    "bread",
+    "onions",
+    "pudding"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "groaty-dick.html-1",
+      "receiptSource": "Original Receipt from Daily Mirror - Tuesday 09 April 1974",
+      "receiptText": "Mrs. Beatrup, mother of 2, from Halesowen, Worcs., tells us her version of \u0060Groaty Dick\u0027 is a traditional Black Country recipe for Guy Fawkes night. She\u0027s been serving it up now every November 5th for 22 years of married life. Connie\u0027s recipe was handed down by her mother and grandmother before her. But \u0060Groaty Dick\u0027 is too good to keep for one night in the year. \u0027My family love it for lunch, tea or supper, and my little boy of 4 eats till he nearly bursts\u0027, she says. \u0060With two sons and a husband all with enormous appetites it\u0027s ideal when the housekeeping is running low!\u0027\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EGroaty Dick\u003C/b\u003E\u003Cbr\u003E\nApprox. cost: 60p\u003Cbr\u003E\nApprox. preparation time: 15 minutes\u003Cbr\u003E\nApprox. cooking time: 3-4 hours\u003Cbr\u003E\n6 oz. pearl barley or groats\u003Cbr\u003E\n3-4 leeks (washed and sliced)\u003Cbr\u003E\n1 carrot (peeled and sliced)\u003Cbr\u003E\n1 parsnip (peeled and sliced)\u003Cbr\u003E\n2 sticks celery (roughly chopped)\u003Cbr\u003E\n1 teasp: lentils\u003Cbr\u003E\n1 \u00BD lbs. scrag end lamb\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\nPinch celery salt\u003Cbr\u003E\n3-4 Red Oxo Cubes crumbled and dissolve, approx. 21-3 pints hut water\u003Cbr\u003E\n\u003Cbr\u003E\nPut all Ingredients into a large casserole dish with a well-fitting lid. Enough Oxo stock to cover generously. Place in a cool oven (Gas No. 2 - 300F.) for 3-4 hours. Stir occasionally as Groaty Dick thickens, add add more stock if necessary. (Four good servings.)\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "groaty-dick.html-2",
+      "receiptSource": "Original Receipt in Marjorie Cashmore\u0027s \u0027\u003Ci\u003EA Feast of Memories: Black Country Food and Life at the Turn of the Nineteenth Century\u003C/i\u003E\u0027, published in 1986 by Westwood Press;",
+      "receiptText": "\u003Cb\u003EGroaty Pudding or Groaty Dick\u003C/b\u003E\u003Cbr\u003E\n0.5 lb groats\u003Cbr\u003E\n1 bay leaf (optional)\u003Cbr\u003E\n1.5 lbs shin of beef\u003Cbr\u003E\n1lb leeks Salt and Pepper\u003Cbr\u003E\n2 medium sized onions\u003Cbr\u003E\nHot water to cover\u003Cbr\u003E\n\u003Cbr\u003E\nCut the beef into bite-size pieces, slice the leeks and onions. Place all the ingredients in a stew pot and bake slowly for at least three hours, longer if possible. Serve with crusty bread. A thicker version of this, with more groats and less meat, was all some families could afford. It was spread on bread so that each member could have something warm and filling.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Groarty, or Groaty Pudding",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Groaty Dick",
+  "usedSnapshot": "20210512103854"
+}

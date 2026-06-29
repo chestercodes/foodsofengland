@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616082734",
+  "finalPath": "celery-cheese.html",
+  "heading": "Celery Cheese",
+  "ingredients": [
+    "black pepper",
+    "breadcrumbs",
+    "butter",
+    "celery",
+    "cheddar",
+    "cheese",
+    "egg",
+    "milk",
+    "pepper",
+    "salt",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "celery-cheese.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECelery Cheese\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EA Northumbrian supper dish.\u003C/i\u003E\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n1 large head Celery, wiped and trimmed\u003Cbr\u003E\nMilk\u003Cbr\u003E\nSalt and black pepper\u003Cbr\u003E\n75-110 Gram Cheddar cheese, grated (3-4 oz)\u003Cbr\u003E\n1 Large Egg, beaten\u003Cbr\u003E\n25 Gram Fresh white breadcrumbs (1 oz)\u003Cbr\u003E\nWalnut Butter\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 180 \u00B0C / 350 \u00B0F / Gas 4.\u003Cbr\u003E\nGrate or chop the celery very finely and place in a saucepan. Pour over sufficient milk to cover and season. Simmer gently for 10-15 minutes or until the celery is tender. Leave to cool.\u003Cbr\u003E\nStir in the cheese and beaten egg and turn into a well-buttered ovenproof dish. Sprinkle the breadcrumbs over the celery mixture and dot with butter.\u003Cbr\u003E\nBake for 10-20 minutes until golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Celery Cheese",
+  "usedSnapshot": "20211019182959"
+}

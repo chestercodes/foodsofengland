@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20140616082804",
+  "finalPath": "crab-cakes.html",
+  "heading": "Crab Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWhitby Crab Cakes\u003C/b\u003E",
+      "relatedPageUrl": "whitby-crab-cakes.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFish Cakes\u003C/b\u003E",
+      "relatedPageUrl": "fish-cakes.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Crab Cakes",
+  "usedSnapshot": "20220516220309"
+}

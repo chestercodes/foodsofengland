@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150913034157",
+  "finalPath": "ploughboys.html",
+  "heading": "Ploughboys",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Yorkshire Plough Salad",
+      "relatedPageUrl": "yorkshire-ploughman-s-salad-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Ploughboys",
+  "usedSnapshot": "20211021015104"
+}

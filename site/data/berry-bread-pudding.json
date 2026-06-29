@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922072027",
+  "finalPath": "berry-bread-pudding.html",
+  "heading": "Berry Bread Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "currants",
+    "eggs",
+    "lemon",
+    "milk",
+    "plums",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "berry-bread-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 42. A BREAD PUDDING FOR A FAMILY.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients, a two-pound loaf, two quarts of milk, two ounces of butter, four ounces of sugar, four ounces of plums or currants, three eggs, a piece of lemon-peel chopped, and a spoonful of salt. Divide the loaf into four equal-sized pieces, and soak them in boiling-water for twenty minutes, then squeeze out the water, and put the bread into a saucepan with the milk, butter, sugar, lemon-peel, and salt, and stir all together on the fire till it boils; next add the beaten eggs and the currants; pour the pudding into a proper sized greased baking-dish, and bake it for an hour and a-quarter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Berry Bread Pudding",
+  "usedSnapshot": "20211027031521"
+}

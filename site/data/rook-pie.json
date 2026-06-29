@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212021404",
+  "finalPath": "rook-pie.html",
+  "heading": "Rook Pie",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "salt",
+    "beef",
+    "carrots",
+    "egg",
+    "onion",
+    "pastry",
+    "puff pastry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rook-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ROOK PIE. Skin and draw some young rooks, cut out the backbones, and season with pepper and salt. Lay them in a dish with a little water, strew some bits of butter over them, cover the dish with a thick crust, and bake it well.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rook-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Field\u003C/i\u003E\u0027 June 1, 2016",
+      "receiptText": "\u003Cb\u003ERook pie from the Arundell Arms\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nOrganised rook shoots were once a traditional part of the country calendar. Young rooks, known as \u201Cbranchers\u201D as they hop around on the branches, would be shot in the vicinity of the nest and a rook pie would be made from the breast meat. Older country folk still talk nostalgically of rook pie and it is time to bring this classic recipe back into the modern country kitchen. Try this rook pie recipe from Francis Denford and Chris Heaver at the Arundell Arms.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022rook-pie-rook-pie-breasts.jpg\u0022\u003E\u003Cimg src=\u0022rook-pie-rook-pie-breasts.jpg\u0022 width=\u0022500\u0022 height=\u0022auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E \u003Ca href=\u0022rook-pie-rookypiepie.jpg\u0022\u003E\u003Cimg src=\u0022rook-pie-rookypiepie.jpg\u0022 width=\u0022500\u0022 height=\u0022auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 4-6 fledgling rook breasts\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 100g chopped beef\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 onion, diced\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 2 carrots, chopped\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 55ml beef stock\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 packet puff pastry\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Egg wash\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Salt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nCut the meat into thumb-sized chunks. Seal both meats for a few minutes then add the onion and carrots.\u003Cbr\u003E\nIntroduce the beef stock and simmer for 30 minutes. Remove the meat and reduce the stock to a thick sauce.\u003Cbr\u003E\nWhen reduced to the required consistency, return the meat and place in a flameproof pie dish. Place the rolled pastry on top. Vent the pastry before egg washing and seasoning.\u003Cbr\u003E\nCook at 180\u00B0C/350\u00B0F/Gas Mark 4 for 30 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Rook Pie",
+  "usedSnapshot": "20220103175234"
+}

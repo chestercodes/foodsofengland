@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922074225",
+  "finalPath": "tandry-cakes.html",
+  "heading": "Tandry Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Kattern Cakes",
+      "relatedPageUrl": "kattern-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003E\u0027Tandra\u0027\u003C/b\u003E or \u003Cb\u003E\u0027Tandrew\u0027 Cakes\u003C/b\u003E or \u003Cb\u003EWhiggs or Whigs\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Tandry Cakes",
+  "usedSnapshot": "20210510053225"
+}

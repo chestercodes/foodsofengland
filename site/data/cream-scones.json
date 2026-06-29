@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922075713",
+  "finalPath": "cream-scones.html",
+  "heading": "Cream Scones",
+  "ingredients": [
+    "butter",
+    "castor sugar",
+    "cream",
+    "egg",
+    "flour",
+    "lard",
+    "milk",
+    "scones",
+    "sugar",
+    "sultanas",
+    "tartar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cream-scones.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe modern baker, confectioner and caterer\u003C/i\u003E\u0027 Edited by John Kirkland, London, 1907",
+      "receiptText": "\u003Cb\u003ECream Scones\u003C/b\u003E\u003Cbr\u003E\nWhat are usually called cream scones are made from the following:\u003Cbr\u003E\n\u003Cbr\u003E\n4 lb. flour.\u003Cbr\u003E\n3/4 lb. butter.\u003Cbr\u003E\n1/2 lb. castor sugar.\u003Cbr\u003E\n2 \u00BC oz. cream of tartar.\u003Cbr\u003E\n1 oz. bicarbonate of soda.\u003Cbr\u003E\nAbout 1 pt. milk.\u003Cbr\u003E\n\u003Cbr\u003E\nMake all up into a smooth clear dough as for the former scones, scale off in 5i-oz. pieces, pin round to 7 in. diameter, and place upon greased baking sheets. Wash over twice with egg and bake in a hot oven. When these scones are partly baked, and may be handled without spoiling the shape, turn them over on the baking sheet, and return again to the oven to finish. Care must be taken that they are not allowed to bake too much before turning.\u003Cbr\u003E\nIn London one of the largest tea-shop companies makes a speciality of such scones, which are made from the following mixture: 8 lb. London Teasoft flour, 2 oz. bicarbonate of soda, 4 oz. cream of tartar. Shop Scones.\u003Cbr\u003E\n\u003Cbr\u003E\n30 oz. lard, 18 oz. sugar, 12 oz. sultanas, 4 1 pt. milk. These are greasy unless handled with care, but they eat very soft.\u003Cbr\u003E\n\u003Cbr\u003E\nAfternoon tea small scones of the same sort, but cut in four pieces, are made thus:\u003Cbr\u003E\n\u003Cbr\u003E\n4 lb. flour.\u003Cbr\u003E\n2 oz. cream of tartar.\u003Cbr\u003E\n6 oz. lard.\u003Cbr\u003E\n1 oz. bicarbonate of soda.\u003Cbr\u003E\n10 oz. castor sugar.\u003Cbr\u003E\n1 qt. milk.\u003Cbr\u003E\n\u003Cbr\u003E\nWeigh up and mix all together, scale off in 7-oz. pieces, pin out to 8 in. diameter, cut in four, and place on a baking sheet. Wash over with egg, and finish as for large cream scones.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Scones",
+      "relatedPageUrl": "scones-2.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWhite 1932\u003C/b\u003E",
+      "relatedPageUrl": "references.html#white-1932",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Cream Scones",
+  "usedSnapshot": "20211207113048"
+}

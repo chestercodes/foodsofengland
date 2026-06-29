@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140616085132",
+  "finalPath": "wandle-stuffed-trout.html",
+  "heading": "Wandle Stuffed Trout",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "chives",
+    "egg",
+    "herbs",
+    "lemon",
+    "lemon juice",
+    "parsley",
+    "pepper",
+    "potatoes",
+    "salt",
+    "thyme",
+    "trout",
+    "watercress",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wandle-stuffed-trout.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://greatbritishkitchen.co.uk/\u0022\u003E\u003Cb\u003Ehttp://greatbritishkitchen.co.uk/\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWandle Baked Stuffed Trout\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis is really good served with boiled potatoes and watercress sauce.\u003Cbr\u003E\n\u003Cbr\u003E\nAt one time the River Wandle in Surrey was considered to be amongst the finest trout streams in the South of England.\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n4 Trout, cleaned and washed\u003Cbr\u003E\n175 Gram Fresh white breadcrumbs (6 oz)\u003Cbr\u003E\n2 Tablespoon Fresh mixed herbs, finely chopped, parsley, chives, thyme, fennel\u003Cbr\u003E\n1/2 Lemon, zest only\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\nEgg, beaten\u003Cbr\u003E\n40 Gram Butter (1 \u00BD oz)\u003Cbr\u003E\n1 Teaspoon Lemon juice\u003Cbr\u003E\n2 Tablespoon Dry white wine\u003Cbr\u003E\nLemon slices to garnish\u003Cbr\u003E\nFresh herbs to garnish\u003Cbr\u003E\nMethod\u003Cbr\u003E\nPreheat the oven to 180 \u00B0C / 350 \u00B0F / Gas 4.\u003Cbr\u003E\n\u003Cbr\u003E\nMix the breadcrumbs, herbs, lemon zest and seasoning together in a bowl and bind with a little beaten egg to form a soft stuffing.\u003Cbr\u003E\n\u003Cbr\u003E\nDivide the stuffing evenly between the trout, filling the cavities and, if necessary, securing the openings with small skewers or wooden cocktail sticks.\u003Cbr\u003E\n\u003Cbr\u003E\nLay the fish, head to tail, in a buttered ovenproof dish, dot with the butter, then pour the lemon juice and white wine over. Cover lightly with foil and bake for 25-30 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nBefore serving, remove the skewers or cocktail sticks, then serve the trout, spooning the pan\u0027s liquid over them. Garnish with lemon slices and herb sprigs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Wandle Stuffed Trout",
+  "usedSnapshot": "20211201000807"
+}

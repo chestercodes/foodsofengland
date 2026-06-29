@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150913023119",
+  "finalPath": "collops.html",
+  "heading": "Collops",
+  "ingredients": [
+    "beat",
+    "beef",
+    "butter",
+    "collops",
+    "flour",
+    "herbs",
+    "lemon",
+    "nutmeg",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "collops.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBeef collops\u003C/b\u003E\u003Cbr\u003E\nCUT them into thin pieces about two inches long, beat them with the back of a knife very well, grate some nutmeg, flour them a little, lay them in a stew-pan, put in as much water as you think will do for sauce, half an onion cut small, a little piece of lemon-peel cut small, a bundle of sweet-herbs, a little pepper and salt, a piece of butter rolled in a little flour. Set them on a slow fire: when they begin to simmer, stir them now and then; when they begin to be hot, ten minutes will do them, but take care they do not boil. Take out the sweet-herbs, pour it into the dish, and send it to table.\u003Cbr\u003E\nNote, You may do the inside of the sirloin of beef in the same manner, the day after it is roasted, only do not beat them, but cut them thin.\u003Cbr\u003E\n\u003Cbr\u003E\nNB: You may do this dish between two pewter dishes, hang them between two chairs, take six sheets of white brown paper, tear them into strips, and burn them under the dish one piece at a time.\u003Cbr\u003E\n\u003Cbr\u003E\n[Mrs Glasse gives more advice about the Brown Paper method elsewhere:\u003Cbr\u003E\n... hang the dish on the back of two chairs by the rim, have ready three sheets of brown paper, tear each sheet into five pieces and draw them through your hand; light one piece and hold it under the bottom of the dish moving the paper about; as fast as the paper burns light another till all is burnt and your meat will be enough. Fifteen minutes just does it. ]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Collop Monday",
+      "relatedPageUrl": "monday-collop.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "Colhoppes",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Collops"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "langland-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Collops",
+  "usedSnapshot": "20220227131931"
+}

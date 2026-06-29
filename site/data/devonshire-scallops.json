@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922082632",
+  "finalPath": "devonshire-scallops.html",
+  "heading": "Devonshire Scallops",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Beef Scallops",
+      "relatedPageUrl": "beef-scallops.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Chip-Shop Scallops",
+      "relatedPageUrl": "chip-shop-scallops.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Devonshire Scallops",
+      "relatedPageUrl": "devonshire-scallops.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Exeter Scalloped Oysters",
+      "relatedPageUrl": "exeter-scalloped-oysters.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Fish Scallop",
+      "relatedPageUrl": "fish-scallop.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Scallops",
+      "relatedPageUrl": "scallops.html",
+      "relationDescription": "For other versions, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Devonshire Scallops",
+  "usedSnapshot": "20210121014756"
+}

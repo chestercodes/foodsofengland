@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073730",
+  "finalPath": "wiltshire-tatties.html",
+  "heading": "Wiltshire Tatties",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Wiltshire Tatties",
+  "usedSnapshot": "20170314021955"
+}

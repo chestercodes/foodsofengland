@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20141006231859",
+  "finalPath": "sheep-s-head-broth.html",
+  "heading": "Sheep\u0027s Head Broth",
+  "ingredients": [
+    "barley",
+    "carrots",
+    "celery",
+    "leeks",
+    "onions",
+    "pepper",
+    "rice",
+    "salt",
+    "sheep",
+    "thyme",
+    "turnips",
+    "mustard",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "sheep-s-head-broth.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 11. SHEEP\u0027S-HEAD BROTH.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nGet the butcher to split the sheep\u0027s head into halves, wash these clean, and put them into a boiling-pot with two gallons of water; set this on the fire to boil, skim it well, add carrots, turnips, onions, leeks, celery, thyme or winter savory, season with pepper and salt; add a pint of Patna rice, or Scotch barley; and all the whole to keep gently boiling by the side of the fire for three hours, adding a little water to make up for the deficiency in quantity occasioned by boiling.\u003Cbr\u003E\n\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sheep-s-head-broth.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "139. SHEEP\u0027S HEAD BROTH (Kent, 1809) In Scotland an excellent broth, similar to the above is made of sheep\u0027s head, and sheep\u0027s feet. The head and feet are not skinned as in England, but the wool is singed off. It is a dish esteemed even at the tables of the rich, as barley broth and hodge-podge also are. The head, cold, eaten with vinegar and mustard, is excellent eating, and is used at breakfast in many parts of that country.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Sheep\u0027s Head Broth",
+  "usedSnapshot": "20211027050009"
+}

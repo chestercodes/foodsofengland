@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150405015006",
+  "finalPath": "herbolade-or-erbolat.html",
+  "heading": "Herbolade or Erbolat",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "mint",
+    "parsley"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "herbolade-or-erbolat.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EERBOLATES\u003C/b\u003E\u003Cbr\u003E\nTake parsley, mint, savory, sage, tansey, vervain, clary, rue, ditayn (?), fennel, southernwood. Hew them \u0026 grinde them small, mix them up with eggs. Butter a cloth \u0026 do \u00FEe forcemeat thereto \u0026 bake it \u0026 present it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Herbolade or Erbolat",
+  "usedSnapshot": "20220516215752"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150524221055",
+  "finalPath": "brasey-or-brasill.html",
+  "heading": "Brasey or Brasill",
+  "ingredients": [
+    "ginger",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brasey-or-brasill.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPYKES IN BRASEY\u003C/b\u003E\u003Cbr\u003E\nTake Pykes and undo them on their wombes [bellies] and wash them clean and lay them on a roastin iron then take good wine and powder ginger \u0026 sugar good wone [plenty] \u0026 salt, and boile it in an erthen panne \u0026 present forth the pick \u0026 lay the sewce onoward.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Brasey or Brasill",
+  "usedSnapshot": "20210512104206"
+}

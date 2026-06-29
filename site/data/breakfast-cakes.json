@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150922081917",
+  "finalPath": "breakfast-cakes.html",
+  "heading": "Breakfast Cakes",
+  "ingredients": [
+    "beat",
+    "brandy",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "nutmeg",
+    "sugar",
+    "yeast",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "breakfast-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E239. To make BREAKFAST CAKES.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of currans well washed, (rub them in a cloth till dry) a pound of flour dried before a fire, take three eggs, leave out one of the whites, four spoonfuls of new yeast, and four spoonfuls of sack or two of brandy, beat the yeast and eggs well together; then take a jill of cream, and something above a quarter of a pound of butter, set them on a fire, and stir them till the butter be melted, (but do not let them boil) grate a large nutmeg into the flour, with currans and five spoonfuls of sugar; mix all together, beat it with your hand till it leave the bowl, then flour the tins you put the paste in, and let them stand a little to rise, then bake them an hour and a quarter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "breakfast-cakes.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BREAKFAST CAKES. Take a pound and a half of flour, four ounces of butter, a spoonful of yeast, and half a pint of warm milk. Rub the butter into the flour, and mix the eggs, yeast, and milk together. Put the liquid into the middle of the flour, and let it stand to rise for two hours. Make it into cakes, let them stand to rise again, and wash them over with skimmed milk before they are put into the oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESally Lunn\u003C/b\u003E",
+      "relatedPageUrl": "sally-lunn.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETurtulongs\u003C/b\u003E",
+      "relatedPageUrl": "turtulong.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Breakfast Cakes",
+  "usedSnapshot": "20211205163337"
+}

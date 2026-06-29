@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140403145253",
+  "finalPath": "treacle-wine.html",
+  "heading": "Treacle Wine",
+  "ingredients": [
+    "beer",
+    "egg",
+    "herbs",
+    "rosemary",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "treacle-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E285. To make Vin de Molosso, or Treacle Wine\u003C/b\u003E. Take fair Water and make it so strong with Molossoes, otherwise called Treacle, as that it will bear an Egg, then boil it with a Bag of all kinds of Spices, and a Branch or two of Rosemary, boil it and scum it, and put in some sweet herbs or flowers, according to the time of the year, boil it till a good part be consumed, and that it be very clear, then set it to cool in several things, and when it is almost cold, work it with yest, as you do Beer, the next day put it into the Vessel, and so soon as it hath done working stop it up close, and when it hath stood a fortnight, bottle it, this is a very wholesom Drink against any Infection, or for any that are troubled with the Ptisick.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Treacle Wine",
+  "usedSnapshot": "20211207124233"
+}

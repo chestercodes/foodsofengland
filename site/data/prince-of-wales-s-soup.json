@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082043",
+  "finalPath": "prince-of-wales-s-soup.html",
+  "heading": "Prince of Wales\u0027s Soup",
+  "ingredients": [
+    "bread",
+    "pepper",
+    "salt",
+    "sugar",
+    "turnips",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prince-of-wales-s-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPRINCE OF WALES\u0027S SOUP.\u003C/b\u003E\u003Cbr\u003E\n148. INGREDIENTS: 12 turnips, 1 lump of sugar, 2 spoonfuls of strong veal stock, salt and white pepper to taste, 2 quarts of very bright stock, No. 105.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Peel the turnips, and with a cutter cut them in balls as round as possible, but very small. Put them in the stock, which must be very bright, and simmer till tender. Add the veal stock and seasoning. Have little pieces of bread cut round, about the size of a shilling; moisten them with stock; put them into a tureen and pour the soup over without shaking, for fear of crumbling the bread, which would spoil the appearance of the soup, and make it look thick.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 2 hours.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in the winter.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 8 persons.\u003Cbr\u003E\n\u003Cbr\u003E\nTHE PRINCE Of WALES. - This soup was invented by a philanthropic friend of the Editress, to be distributed among the poor of a considerable village, when the Prince of Wales attained his majority, on the 9th November, 1859. Accompanying this fact, the following notice, which appears in \u0022BEETON\u0027S DICTIONARY OF UNIVERSAL INFORMATION\u0022 may appropriately be introduced, premising that British princes attain their majority in their 18th year, whilst mortals of ordinary rank do not arrive at that period till their 21st.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Prince of Wales"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Prince of Wales\u0027s Soup",
+  "usedSnapshot": "20210518211923"
+}

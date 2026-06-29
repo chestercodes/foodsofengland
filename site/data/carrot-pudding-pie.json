@@ -1,0 +1,84 @@
+﻿{
+  "earliestSnapshot": "20140212030457",
+  "finalPath": "carrot-pudding-pie.html",
+  "heading": "Carrot Pudding-Pie",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "carrot",
+    "carrots",
+    "cream",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "sugar",
+    "white wine",
+    "lemon",
+    "rose water"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "carrot-pudding-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a carrot pudding.\u003C/b\u003E\u003Cbr\u003E\nYOU must take a raw carrot, scrape it very clean and grate it. Take half a pound of the grated carrot, and a pound of grated bread, beat up eight eggs, leave out half the whites, and mix the eggs with half a pint of cream: then stir in the bread and carrot, half a pound of fresh butter melted, half a pint of sack, and three spoonfuls of orange-flower-water, a nutmeg grated. Sweeten to your palate. Mix all well together, and if it is not thin enough, stir in a little new milk or cream. Let it be of a moderate thickness, lay a puff-paste all over the dish, and pour in the ingredients. Bake it; it will take an hour\u0027s baking. Or you may boil it, but then you must melt butter and put in white wine and sugar.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EA second carrot pudding.\u003C/b\u003E\u003Cbr\u003E\nGET two penny loaves, pare off the crust, soak them in a quart of boiling milk, let it stand till it is cold, then grate in two or three large carrots, then put in eight eggs well beat, and three quarters of a pound of fresh butter melted, grate in a little nutmeg, and sweeten to your taste. Cover your dish with puff-paste, pour in the ingredients and bake it an hour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "carrot-pudding-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E135. A CARROT PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake three or four clear red carrots, boil and peel them, take the red part of the carrot, beat it very fine in a marble mortar, put to it the crumbs of a penny loaf, six eggs, half a pound of clarified butter, two or three spoonfuls of rose water, a little lemon-peel shred, grate in a little nutmeg, mix them well together, bake it with a puff-paste round your dish, and have a little white wine, butter and sugar, for the sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESweet Carrot Pudding\u003C/b\u003E",
+      "relatedPageUrl": "sweet-carrot-pudding.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECarrot Pudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "carrot-pudding-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Carrot Pudding-Pie",
+  "usedSnapshot": "20220527211230"
+}

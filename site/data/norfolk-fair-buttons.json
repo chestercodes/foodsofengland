@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140508102747",
+  "finalPath": "norfolk-fair-buttons.html",
+  "heading": "Norfolk Fair Buttons",
+  "ingredients": [
+    "bread",
+    "brown sugar",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "lard",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-fair-buttons.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Norfolk%20Fair%20Buttons\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENorfolk Fair Buttons\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz. flour\u003Cbr\u003E\n4 oz. brown sugar\u003Cbr\u003E\n\u00BC oz. ground ginger\u003Cbr\u003E\npinch of bicarbonate of soda\u003Cbr\u003E\n2 oz. lard\u003Cbr\u003E\n4 oz. golden syrup\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00BAF. Mix together the flour, sugar, ginger, bicarbonate of soda and rub in the lard until the mixture resembles fine bread crumbs. Add the syrup and thoroughly mix together . Roll out thinly on a lightly floured surface and cut into 2 inch rounds. Place on a greased baking sheet and cook for 10 to 12 minutes. Cool on wire rack.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ESpice Buttons, Tombland Fair Buttons\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norfolk Fair Buttons",
+  "usedSnapshot": "20210510034216"
+}

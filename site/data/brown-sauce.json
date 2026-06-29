@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20150922133010",
+  "finalPath": "brown-sauce.html",
+  "heading": "Brown Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brown Sauce",
+  "usedSnapshot": "20180406080346"
+}

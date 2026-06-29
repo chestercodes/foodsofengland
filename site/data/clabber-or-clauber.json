@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616085326",
+  "finalPath": "clabber-or-clauber.html",
+  "heading": "Clabber or Clauber",
+  "ingredients": [
+    "brown sugar",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "clabber-or-clauber.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHull Daily Mail\u003C/i\u003E\u0027 - Wednesday 15 August 1917",
+      "receiptText": "\u003Cb\u003EBONNY CLABBER.\u003C/b\u003E answer to the question, What is \u0027bonny clabber\u0027; (writes a correspondent of the Chronicle), it is milk which has been allowed to to sour, until it is solid mass of curd. This beaten up, with brown sugar, until it is liquid enough drink, though it is generally taken with spoon. Eighty or 90 years since it was a favourite dish in Staffordshire, and I believe still in Scotland\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWig, or \u003Ci\u003Elac acidum\u003C/i\u003E\u003C/b\u003E",
+      "relatedPageUrl": "wig.html",
+      "relationDescription": "For a similar fermented milk dish, see:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EBonny-Clabber\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Clabber or Clauber",
+  "usedSnapshot": "20220818210706"
+}

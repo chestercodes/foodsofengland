@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140514172349",
+  "finalPath": "staffordshire-syllabub.html",
+  "heading": "Staffordshire Syllabub",
+  "ingredients": [
+    "brandy",
+    "cider",
+    "milk",
+    "nutmeg",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "staffordshire-syllabub.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESTAFFORDSHIRE SILLABUB\u003C/b\u003E\u003Cbr\u003E\nPut a pint of cider and a glass of brandy, sugar and nutmeg, into a bowl, and milk into it, or pour warm milk from a large tea pot some height from it .\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Syllabub",
+      "relatedPageUrl": "everlasting-syllabub.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Staffordshire Syllabub",
+  "usedSnapshot": "20220112214854"
+}

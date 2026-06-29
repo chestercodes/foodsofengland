@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922084142",
+  "finalPath": "rhubarb-sponge-cake.html",
+  "heading": "Rhubarb Sponge Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "cream",
+    "eggs",
+    "flour",
+    "rhubarb",
+    "self-raising flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-sponge-cake.html-1",
+      "receiptSource": "Original Receipt from The National Trust \u003Ca href=\u0022http://www.nationaltrust.org.uk\u0022\u003E\u003Cb\u003Ewww.nationaltrust.org.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHardwick Hall\u0027s rhubarb cake\u003C/b\u003E\u003Cbr\u003E\nServes: 6\u003Cbr\u003E\nPreparation time: 20 minutes\u003Cbr\u003E\nCooking time: 30 minutes\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n200g butter\u003Cbr\u003E\n200g caster sugar\u003Cbr\u003E\n200g self-raising flour\u003Cbr\u003E\n150g stewed rhubarb\u003Cbr\u003E\n3 eggs\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nFirstly, get yourself prepared and preheat your oven to 150C/300F/Gas 2.\u003Cbr\u003E\nThen grease your cake tin.\u003Cbr\u003E\nTo make the sponge mixture cream together the sugar and butter until light and creamy, be careful not to over beat the mixture.\u003Cbr\u003E\nLightly beat the eggs together in a separate bowl and add a little at a time until fully combined.\u003Cbr\u003E\nFold in the stewed rhubarb.\u003Cbr\u003E\nSieve in the flour and gently fold it in using a metal spoon.\u003Cbr\u003E\nBake for 25 - 30 minutes or until golden-brown on top, the sponge comes away at the edges and is springy to the touch.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Rhubarb Sponge Cake",
+  "usedSnapshot": "20211021023934"
+}

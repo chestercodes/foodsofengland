@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20121024084238",
+  "finalPath": "nadger-s-pie.html",
+  "heading": "Nadger\u0027s Pie",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "butter",
+    "fat",
+    "flour",
+    "mashed potatoes",
+    "milk",
+    "onion",
+    "pepper",
+    "plain flour",
+    "potatoes",
+    "salt",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "nadger-s-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.peakdistrictonline.co.uk/nadgers-pie-c3088.html\u0022\u003E\u003Cb\u003EPeak District Online\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENadger\u0027s Pie\u003C/b\u003E\u003Cbr\u003E\n25g (\u00BDoz) beef dripping\u003Cbr\u003E\n25g (\u00BDoz) onion, diced\u003Cbr\u003E\n1 teaspoon plain flour\u003Cbr\u003E\n225g (8oz) game meat well chopped or minced\u003Cbr\u003E\n1 tomato, chopped\u003Cbr\u003E\nstock, pepper and salt\u003Cbr\u003E\nmashed potatoes\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the fat and fry the diced onion. Blend in the flour. Add the chopped meat and tomato, enough stock to moisten and salt and pepper to taste. Stir over a low heat to blend well. Put into a well greased ovenproof dish. Cover with mashed potatoes, well creamed with milk or butter, and brown in a moderate over for 30 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Nadger\u0027s Pie",
+  "usedSnapshot": "20220527054715"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922073611",
+  "finalPath": "endive.html",
+  "heading": "Endive",
+  "ingredients": [
+    "lettuce",
+    "liver"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "endive.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E25. Endive, Endivium, Intubum sativum;\u003C/b\u003E the largest, whitest, and tenderest Leaves best boil\u0027d, and less crude. It is naturally Cold, profitable for hot stomachs; Incisive and opening Obstructions of the Liver: The curled is more delicate, being eaten alone, or in Composition, with the usual Intinctus: It is also excellent being boil\u0027d; the middle part of the Blanch\u0027d-stalk separated, eats firm, and the ampler Leaves by many perferr\u0027d before Lettuce. see succory.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Endive",
+  "usedSnapshot": "20220527224439"
+}

@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150524215707",
+  "finalPath": "cabbages-in-potage.html",
+  "heading": "Cabbages in Potage",
+  "ingredients": [
+    "cabbages",
+    "leeks",
+    "onions",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cabbages-in-potage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECABOCHES IN POTAGE.\u003C/b\u003E\u003Cbr\u003E\nTake Caboches and quarter hem and seeth hem in gode broth with Oynouns y mynced and the whyte of Lekes y slyt and corue smale and do \u00FEer to safroun an salt and force it with powdour douce.\u003Cbr\u003E\n\u003Cbr\u003E\n[Take Cabbages and quarter them and seethe them in good broth with minced onions and the white of Leeks slit and cut small, and thereto saffron and salt and \u003Ca href=\u0022spice-powders.html\u0022\u003E\u003Cb\u003Epowder douce\u003C/b\u003E\u003C/a\u003E]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Cabbages in Potage",
+  "usedSnapshot": "20211021025835"
+}

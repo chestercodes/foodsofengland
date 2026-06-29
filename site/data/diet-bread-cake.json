@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922072149",
+  "finalPath": "diet-bread-cake.html",
+  "heading": "Diet Bread Cake",
+  "ingredients": [
+    "beat",
+    "bread",
+    "carraway seeds",
+    "eggs",
+    "flour",
+    "sugar",
+    "lemon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "diet-bread-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDIET BREAD CAKE.\u003C/b\u003E\u003Cbr\u003E\nTake nine eggs and sifted sugar of their weight; break the whites into one pan the yolks into another; then whisk the whites till of a solid froth, beat the yolks, and whisk them with the whites; add the sugar with the weight of five eggs of flour, mix all well together, put in a few carraway seeds, and bake it in a hoop.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "diet-bread-cake.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "DIET BREAD. Beat nine eggs, and add their weight in sifted sugar, and half as much flour. Mix them well together, grate in the rind of a lemon, and bake it in a hoop.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Diet Bread Cake",
+  "usedSnapshot": "20211207114345"
+}

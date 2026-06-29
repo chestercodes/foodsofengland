@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922090012",
+  "finalPath": "arval-cake.html",
+  "heading": "Arval Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EArthel, Arthal, Averill, Arvil, Arvall\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Arval Cake",
+  "usedSnapshot": "20211201042842"
+}

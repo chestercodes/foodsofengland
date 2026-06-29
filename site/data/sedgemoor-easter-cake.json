@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922132915",
+  "finalPath": "sedgemoor-easter-cake.html",
+  "heading": "Sedgemoor Easter Cake",
+  "ingredients": [
+    "brandy",
+    "butter",
+    "caster sugar",
+    "cinnamon",
+    "currants",
+    "egg",
+    "flour",
+    "icing sugar",
+    "milk",
+    "nutmeg",
+    "plain flour",
+    "salt",
+    "sugar",
+    "unsalted butter",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sedgemoor-easter-cake.html-1",
+      "receiptSource": "Original Receipt from Hugh Fearnley-Whittingstall, The Guardian, Saturday 11 April 2009",
+      "receiptText": "\u003Cb\u003ESedgemoor Easter Cake\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThese Somerset specialities aren\u0027t really cakes - they\u0027re more of a rich shortbread studded with fruit and spices. Traditionally, they were tied into bundles of three to represent the Holy Trinity and given to friends on Easter Sunday. Makes 18.\u003Cbr\u003E\n\u003Cbr\u003E\n110g currants\u003Cbr\u003E\n2 tbsp brandy\u003Cbr\u003E\n1 tsp vanilla extract\u003Cbr\u003E\n225g plain flour\u003Cbr\u003E\n1/2 tsp mixed spice\u003Cbr\u003E\n1/2 tsp ground cinnamon\u003Cbr\u003E\nA few gratings nutmeg\u003Cbr\u003E\n1 good pinch salt\u003Cbr\u003E\n110g unsalted butter, chilled and cut into small cubes\u003Cbr\u003E\n110g caster sugar\u003Cbr\u003E\n1 egg, lightly beaten\u003Cbr\u003E\n3 tbsp caster sugar or 70g icing sugar mixed with 2-3 tbsp milk\u003Cbr\u003E\n\u003Cbr\u003E\nLine a large baking sheet with baking parchment. Put the currants in a bowl with the brandy and vanilla, and leave to soak for 10 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nSieve together the flour, mixed spice, cinnamon, nutmeg and salt. Rub the butter into the flour - use a light touch - then whisk in the sugar. Tip in the currants and brandy, add the egg and mix until it just comes together. Turn out on to a lightly floured surface and knead very gently until it comes together into a ball of dough. Chill for 15 minutes. Preheat the oven to 180C/350F/gas mark 4.\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out dough until it\u0027s 0.5-0.75cm thick, then use a fluted or plain cutter to cut into 6cm rounds. Place on the baking sheet and bake for 16-20 minutes until golden. Transfer to a wire rack to cool. While the cakes are still warm, dredge with caster sugar or make a glaze by mixing the icing sugar and milk until smooth. Brush more glaze over the cakes when they\u0027re cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Sedgemoor Easter Cake",
+  "usedSnapshot": "20211201031624"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150524220417",
+  "finalPath": "subtleties.html",
+  "heading": "Subtleties",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EShow Salad\u003C/b\u003E",
+      "relatedPageUrl": "show-salads.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFarts\u003C/b\u003E",
+      "relatedPageUrl": "farts.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003Esotiltees, sutteltees, sotelte, sotelle, sotilties, subtleties.\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Subtleties",
+  "usedSnapshot": "20211205161911"
+}

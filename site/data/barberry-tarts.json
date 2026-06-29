@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20220705090855",
+  "finalPath": "barberry-tarts.html",
+  "heading": "Barberry Tarts",
+  "ingredients": [
+    "barberries",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barberry-tarts.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBarberries for Tartlets.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPick barberries, that have no stones, from the stalks, and to every pound weigh three quarters of a pound of lump sugar. Put the fruit into a stone- jar, and either set it on a hot hearth or in a sauce- pan of water, and let them simmer very slowly till soft; put them and the sugar into a preservingpan, and boil them gently fifteen minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nUse no metal but silver.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Barberry Tarts",
+  "usedSnapshot": "20220705090855"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616084752",
+  "finalPath": "shropshire-blue-cheese.html",
+  "heading": "Shropshire Blue Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shropshire Blue Cheese",
+  "usedSnapshot": "20211201000848"
+}

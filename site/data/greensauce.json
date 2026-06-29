@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150303114545",
+  "finalPath": "greensauce.html",
+  "heading": "Greensauce",
+  "ingredients": [
+    "beat",
+    "bread",
+    "eggs",
+    "pork",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "greensauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E284. To make Green Sauce for a powdred Leg of Pork, or for a Spring.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a great quantity of French Sorrel, and pick out the Strings and wash it well, and drain it clean from the water, then stamp it in a Mortar till it be extream fine, then put in grated bread and beat it again, then a few Currans and the yolks of hard Eggs, and when it is beaten to a kind of Pap, put in a little Vinegar and Sugar into it; so serve it in upon a Plate with your Meat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Greensauce",
+  "usedSnapshot": "20220527051123"
+}

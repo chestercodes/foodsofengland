@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616085359",
+  "finalPath": "devilled-whitebait.html",
+  "heading": "Devilled Whitebait",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Devilled Whitebait",
+  "usedSnapshot": "20211207123210"
+}

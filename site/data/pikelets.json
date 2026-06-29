@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212023918",
+  "finalPath": "pikelets.html",
+  "heading": "Pikelets",
+  "ingredients": [
+    "bacon",
+    "buttermilk",
+    "fat",
+    "flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pikelets.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "924. PIKELETS (Staffordshire) Take one and a half pounds of flour, half an ounce of carbonate of soda, a pinch of salt, and mix them to a batter with one quart of buttermilk. Have ready a hot iron plate or a heated frying pan, either of which must be rubbed with a piece of fat bacon before putting in the batter. Allow one small teacupful of batter for each pikelet. When it is a light brown, raise and turn it over gently with a sharp knife.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Stafordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Pikelets",
+  "usedSnapshot": "20220527070842"
+}

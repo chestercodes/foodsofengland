@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140616081057",
+  "finalPath": "potted-salmon.html",
+  "heading": "Potted Salmon",
+  "ingredients": [
+    "butter",
+    "gravy",
+    "pepper",
+    "salmon",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "potted-salmon.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO POT SALMON.\u003Cbr\u003E\u003C/b\u003E Take a large piece, scale and wipe, but do not wash it; salt very well; let it lie till the salt is melted and drained from it, then season it with beaten mace, cloves, and whole pepper: lay in a few bay leaves, put it close into a pan, cover it over with butter, and bake it; when well done, drain it from the gravy, put it into the pots to keep, and, when cold, cover it with clarified butter. In this manner any firm fish may be done.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "potted-salmon.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPOTTED SALMON.\u003C/b\u003E\u003Cbr\u003E\n309. INGREDIENTS. - Salmon; pounded mace, cloves, and pepper to taste; 3 bay-leaves, \u00BC lb. butter.\u003Cbr\u003E\nMode. - Skin the salmon, and clean it thoroughly by wiping with a cloth (water would spoil it); cut it into square pieces, which rub with salt; let\u0026nbsp;\u0026nbsp;\u0026nbsp;them remain till thoroughly drained, then lay them in a dish with the other ingredients, and bake. When quite done, drain them from the gravy, press into\u0026nbsp;\u0026nbsp;\u0026nbsp;pots for use, and, when cold, pour over it clarified butter.\u003Cbr\u003E\nTime. -\u00BD hour.\u003Cbr\u003E\n\u003Cbr\u003E\nAN AVERSION IN THE SALMON. - The salmon is said to have an aversion to anything red; hence, fishermen engaged in catching it do not wear jackets or caps of that colour. Pontoppidan also says, that it has an abhorrence of carrion, and if any happens to be thrown into the places it haunts, it immediately forsakes\u0026nbsp;\u0026nbsp;\u0026nbsp;them. The remedy adopted for this in Norway, is to throw into the polluted water a lighted torch. As food, salmon, when in perfection, is one of the most\u0026nbsp;\u0026nbsp;\u0026nbsp;delicious and nutritive of our fish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Potted Salmon",
+  "usedSnapshot": "20220705095229"
+}

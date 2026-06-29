@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20121024084325",
+  "finalPath": "farsure.html",
+  "heading": "Farsure",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Efarcere, farsor\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Farsure",
+  "usedSnapshot": "20210512115519"
+}

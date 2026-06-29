@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922083115",
+  "finalPath": "baked-pears.html",
+  "heading": "Baked Pears",
+  "ingredients": [
+    "allspice",
+    "lemon",
+    "pears",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-pears.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBAKED PEARS.\u003C/b\u003E\u003Cbr\u003E\n1574. INGREDIENTS: 12 pears, the rind of 1 lemon, 6 cloves, 10 whole allspice; to every pint of water allow\u00BD lb. of loaf sugar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Pare and cut the pears into halves, and, should they be very large, into quarters; leave the stalks on, and carefully remove the cores. Place them in a clean baking-jar, with a closely-fitting lid; add to them the lemon-rind cut in strips, the juice of\u00BD lemon, the cloves, pounded allspice, and sufficient water just to cover the whole, with sugar in the above proportion. Cover the jar down closely, put it into a very cool oven, and bake the pears from 5 to 6 hours, but be very careful that the oven is not too hot. To improve the colour of the fruit, a few drops of prepared cochineal may be added; but this will not be found necessary if the pears are very gently baked.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: Large pears, 5 to 6 hours, in a very slow oven.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1d. to 2d. each.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 7 or 8 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to January.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Baked Pears",
+  "usedSnapshot": "20170314145511"
+}

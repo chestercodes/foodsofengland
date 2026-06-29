@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150922132944",
+  "finalPath": "chesterfield-ice-cream-pudding.html",
+  "heading": "Chesterfield Ice-Cream Pudding",
+  "ingredients": [
+    "biscuits",
+    "cinnamon",
+    "cream",
+    "custard",
+    "double cream",
+    "eggs",
+    "lemon",
+    "milk",
+    "salt",
+    "sugar",
+    "apple",
+    "cherries",
+    "cherry",
+    "currants",
+    "pudding",
+    "raspberries",
+    "strawberries"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chesterfield-ice-cream-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe royal English and foreign confectioner\u003C/i\u003E\u0027 by \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003ECharles Elme Francatelli\u003C/b\u003E\u003C/a\u003E (1862);",
+      "receiptText": "\u003Cb\u003ENo 754 Chesterfield Cream Ice\u003C/b\u003E\u003Cbr\u003E\nIngredients: a cinnamon and lemon custard composed of 1\u00BD pint of milk, 12 oz of sugar, 8 yolks of eggs, a stick of cinnamon, the rind of a lemon and a small compote of damsons with a little thick syrup. Freeze the custard stiff, then add half a pint of double cream whipped, set up the ice in a plain mould with a hollowed smooth cavity in the centre, leaving one and a half inches thickness of the ice round the sides of the mould, nearly fill this hollow with the damsons, cover them in with more ice, put a lid on the mould, imbed it in rough ice and salt and when sent to table; garnish the base with Chesterfield biscuits\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chesterfield-ice-cream-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "1342. ICED PUDDING, A LA CHESTERFIELD.\u003Cbr\u003E\n\u003Cbr\u003E\nGrate one pound of pine-apple into a basin, add this to eight yolks of eggs, one pint and a half of boiled cream, one pound of sugar, and a very little salt; stir the whole together in a stewpan over a stove fire until the custard begins to thicken; then pass it through a tammy, by rubbing with two wooden spoons, in the same manner as for a puree, in order to force the pineapple through the tammy. This custard must now be iced in the usual manner, and put into a mould of the shape represented in the annexed wood-cut; and iu the centre of the iced cream, some Macedoine ice of red fruits, consisting of cherries, currants, strawberries and raspberries in a cherry-water ice, must be introduced; cover the whole in with the lid, then immerse the pudding in rough ice in the usual way, and keep it in a cool place until wanted.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen about to send the pudding to table, turn it out of the mould on to its dish, ornament the dish with a kind of drooping feather, formed with green angelica cut in strips, and arranged as represented in the wood-cut; garnish the base with small gauffres, filled with some of the iced cream reserved for the purpose, place a straw berry on the top of each, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chesterfield Steamed Pudding",
+      "relatedPageUrl": "chesterfield-steamed-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chesterfield"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Chesterfield Ice-Cream Pudding",
+  "usedSnapshot": "20220516205722"
+}

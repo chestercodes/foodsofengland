@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140508110657",
+  "finalPath": "yarmouth-biscuits.html",
+  "heading": "Yarmouth Biscuits",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "currants",
+    "eggs",
+    "flour",
+    "sugar",
+    "caraway seeds",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "yarmouth-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Confectioner\u003C/i\u003E\u0027 by Frederick Nutt, 1789 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 16. Yarmouth Biscuits\u003C/b\u003E\u003Cbr\u003E\nTAKE six ounces of currants, wash and pick them very clean, dry them well, rub a little flour among them to make them white, and put half a pound of powdered sugar with the currants upon a clean dresser, add twelve ounces of flour sifted, and half a pound of the best fresh butter you can get; break three eggs and mix all the ingredients together to become a paste that you can roll it on the dresser the thickness of an eighth part of an inch, and then cut them out either round or what shape you fancy.\u003Cbr\u003E\n\u003Cbr\u003E\nN. B. Your oven must be rather hot, and put two or three sheets of paper under them, do not bake them too much, only just make them brown.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yarmouth-biscuits.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Biscuit and Gingerbread Baker\u0027s Assistant\u003C/i\u003E\u0027 of 1854",
+      "receiptText": "\u003Cb\u003EDerby or Yarmouth Biscuits\u003C/b\u003E\u003Cbr\u003E\nThese are mostly known by the name of Derby cakes, but the original Yarmouth biscuits were made much richer than the Derby of the present day, viz 12 oz of flour, \u00BD lb of butter, \u00BD lb of loaf sugar, 6 oz of currants and 3 eggs. The modern method is the following 1 \u00BC lb of flour, \u00BD lb of butter, \u00BD lb of sugar, \u00BD lb of currants, 3 eggs, a little milk and \u00BC oz of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile salts.\u003C/b\u003E\u003C/a\u003E Rub the butter in with the flour, add the sugar, volatile salts, eggs and milk, and make them into a paste of a moderate consistence, roll it out into a sheet an eighth of an inch in thickness, cut them out with a scalloped cutter the same as is used for small seedies place them on clean tins and bake them in a brisk oven. Some of the dough may be made into cakes thus; Make four penny cakes out of 5 or 6 ounces of dough mould them up under the hand into a round ball, roll them out thin and either pinch them round the edge or leave them plain, bake them in a brisk oven as the others. Yarmouth biscuits are made by some persons of this paste with the addition of a few caraway seeds and by cutting them out with a diamond cutter to vary the form.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Yarmouth Biscuits",
+  "usedSnapshot": "20210518210526"
+}

@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922085750",
+  "finalPath": "plot-toffee.html",
+  "heading": "Plot Toffee",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Treacle Toffee",
+      "relatedPageUrl": "treacle-toffee.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EGunpowder Plot Toffee\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Plot Toffee",
+  "usedSnapshot": "20220819112528"
+}

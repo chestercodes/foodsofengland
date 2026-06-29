@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922131917",
+  "finalPath": "candied-orange.html",
+  "heading": "Candied Orange",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Candied Orange",
+  "usedSnapshot": "20170314083519"
+}

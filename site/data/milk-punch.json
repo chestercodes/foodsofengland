@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922073425",
+  "finalPath": "milk-punch.html",
+  "heading": "Milk Punch",
+  "ingredients": [
+    "brandy",
+    "jelly",
+    "lemon",
+    "lemons",
+    "milk",
+    "orange",
+    "oranges",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "milk-punch.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E334. To make MILK PUNCH.\u003C/b\u003E\u003Cbr\u003E\nTake two quarts of old milk, a quart of good brandy, the juice of six lemons or oranges, whether you please, and about six ounces of loaf sugar, mix them altogether and drop them thro\u0027 a jelly bag; take off the peel of two of the lemons or oranges, and put it into your bag, when it is run off bottle it; \u0027twill keep as long as you please.\u003Cbr\u003E\n\u003Cb\u003E335. To make MILK PUNCH another Way.\u003C/b\u003E\u003Cbr\u003E\nTake three jills of water, a jill of old milk, and a jill of brandy, sweeten it to your taste; you must not put any acid into this for it will make it curdle.\u003Cbr\u003E\nThis is a cooling punch to drink in a morning.\u003Cbr\u003E\n\u003Cb\u003E336. To make PUNCH another Way.\u003C/b\u003E\u003Cbr\u003E\nTake five pints of boiling water and one quart of brandy, add to it the juice of four lemons or oranges, and about six ounces of loaf sugar; when you have mixed it together strain it thro\u0027 a hair sieve or cloth, and put into your bowl the peel of a lemon or orange.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Milk Punch",
+  "usedSnapshot": "20211027034944"
+}

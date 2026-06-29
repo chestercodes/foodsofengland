@@ -1,0 +1,85 @@
+﻿{
+  "earliestSnapshot": "20130322234004",
+  "finalPath": "sally-lunn.html",
+  "heading": "Sally Lunn",
+  "ingredients": [
+    "butter",
+    "cream",
+    "pastry",
+    "salt",
+    "yeast",
+    "beer",
+    "flour",
+    "milk",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "sally-lunn.html-1",
+      "receiptSource": "Original Receipt from from \u0027\u003Ci\u003EThe Monthly magazine\u003C/i\u003E\u0027 (v2, p5) of 1796;",
+      "receiptText": "\u003Ccenter\u003E\u003Cb\u003ERECEIPT TO MAKE A SALLY LUN\u003C/b\u003E\u003Cbr\u003E\nA well-known cake at Bath\u003Cbr\u003E\nWritten by the late Major DREWE, of Exeter\u003Cbr\u003E\n\u003Cbr\u003E\nNO more I heed the muffin zest\u003Cbr\u003E\nThe Yorkshire cake or bun\u003Cbr\u003E\nSweet Muse of Pastry teach me how\u003Cbr\u003E\nTo make a Sally Lun.\u003Cbr\u003E\n\u003Cbr\u003E\nTake thou of luscious wholesome cream\u003Cbr\u003E\nWhat the full pint contains\u003Cbr\u003E\nWarm as the native Mood which glows\u003Cbr\u003E\nIn youthful virgin\u0027s veins\u003Cbr\u003E\n\u003Cbr\u003E\nHast thou not seen in olive rind\u003Cbr\u003E\nThe wall-tree\u0027s rounded nut\u003Cbr\u003E\nOf juicy butter just its size\u003Cbr\u003E\nIn thy clean pastry put\u003Cbr\u003E\n\u003Cbr\u003E\nHast thou not seen the golden yolk\u003Cbr\u003E\nIn Chrystal shrine immur\u0027d\u003Cbr\u003E\nWhence brooded o\u0027er by sostring wing\u003Cbr\u003E\nForth springs the warrior bird?\u003Cbr\u003E\n\u003Cbr\u003E\nOh save three birds from savage man\u003Cbr\u003E\nAnd combat\u0027s sanguine hour\u003Cbr\u003E\nCush in three yolk, the seeds of life\u003Cbr\u003E\nAnd on the butter pour\u003Cbr\u003E\n\u003Cbr\u003E\nTake then a cup that hold the juice\u003Cbr\u003E\nFam\u0027d China\u0027s fairest pride\u003Cbr\u003E\nLet foaming yeast its concave fill\u003Cbr\u003E\nAnd froth adown its side\u003Cbr\u003E\n\u003Cbr\u003E\nBut seek thou first for neatness sake\u003Cbr\u003E\nThe Naiad\u0027s crystal stream\u003Cbr\u003E\nSwift let it round the concave play\u003Cbr\u003E\nAnd o\u0027er the surface gleam\u003Cbr\u003E\n\u003Cbr\u003E\nOf salt more keen than that of Greece\u003Cbr\u003E\nWhich cooks not poets use\u003Cbr\u003E\nSprinkle thou then with sparing hand\u003Cbr\u003E\nAnd thro the mass diffuse\u003Cbr\u003E\n\u003Cbr\u003E\nThen let it rest disturb\u0027d no more\u003Cbr\u003E\nSafe in its steady feat\u003Cbr\u003E\nTill thrice Time\u0027s warning bell hath struck\u003Cbr\u003E\nNor yet the hour compleat\u003Cbr\u003E\n\u003Cbr\u003E\nAnd now let Fancy revel free\u003Cbr\u003E\nBy no stern rule confin\u0027d\u003Cbr\u003E\nOn glittr\u0027ing tin in varied form\u003Cbr\u003E\nEach Sally-Lun be twin\u0027d\u003Cbr\u003E\n\u003Cbr\u003E\nBut heed thou west to lift thy thought\u003Cbr\u003E\nTo me thy power divine\u003Cbr\u003E\nThen to the oven\u0027s glowing mouth\u003Cbr\u003E\nThe woud\u0027rous work consign\u003C/center\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sally-lunn.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESally Lunn Tea Cakes\u003C/b\u003E\u003Cbr\u003E\nTake one pint of milk quite warm, a quarter of a pint of thick small-beer yeast; put them into a pan with flour sufficient to make it as thick as batter,-cover it over, and let it stand till it has risen as high as it will, i.e. about two hours: add two ounces of lump sugar, dissolved in a quarter of a pint of warm milk, a quarter of a pound of butter rubbed into your flour very fine; then make your dough the same as for French rolls, \u0026amp;c.; and let it stand half an hour; then make up your cakes, and put them on tins: when they have stood to rise, bake them in a quick oven.\u003Cbr\u003E\nCare should be taken never to put your yeast to water or milk too hot, or too cold, as either extreme will destroy the fermentation. In summer it should be lukewarm, in winter a little warmer, and in very cold weather, warmer still. When it has first risen, if you are not prepared, it will not hurt to stand an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESally Lunn Pudding\u003C/b\u003E",
+      "relatedPageUrl": "sally-lunn-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBath Cakes\u003C/b\u003E",
+      "relatedPageUrl": "bathcakes(2).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMarlborough Buns\u003C/b\u003E",
+      "relatedPageUrl": "marlborough-buns.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBath Buns\u003C/b\u003E",
+      "relatedPageUrl": "bath-buns.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Sally Lunn",
+  "usedSnapshot": "20220527064348"
+}

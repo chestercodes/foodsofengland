@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074243",
+  "finalPath": "english-potage.html",
+  "heading": "English Potage",
+  "ingredients": [
+    "barley",
+    "beef",
+    "herbs",
+    "mutton",
+    "oat-meal",
+    "onion",
+    "parsley",
+    "pepper",
+    "pigeons",
+    "thyme",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "english-potage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPLAIN SAVOURY ENGLISH POTAGE\u003C/b\u003E\u003Cbr\u003E\nMake it of Beef, Mutton and Veal; at last adding a Capon, or Pigeons. Put in at first a quartered Onion or two, some Oat-meal, or French barley, some bottome of a Venison-pasty-crust, twenty whole grains of Pepper: four or five Cloves at last, and a little bundle of sweet-herbs, store of Marigold-flowers. You may put in Parsley or other herbs.\u003Cbr\u003E\nOr make it with Beef, Mutton and Veal, putting in some Oat-meal, and good pot-herbs, as Parsley, Sorrel, Violet-leaves, etc. And a very little Thyme and Sweet-marjoram, scarce to be tasted: and some Marigold leaves, at last. You may begin to boil it overnight, and let it stand warm all night; then make an end of boiling it next morning. It is well to put into the pot, at first, twenty or thirty corns of whole Pepper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "English Potage",
+  "usedSnapshot": "20220516205621"
+}

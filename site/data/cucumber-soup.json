@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922075956",
+  "finalPath": "cucumber-soup.html",
+  "heading": "Cucumber Soup",
+  "ingredients": [
+    "gravy",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cucumber-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SOUP WITH CUCUMBERS. Pare and cut the cucumbers, then stew them with some good broth, and veal gravy to cover them. When done enough, heat the soup with the liquor they were stewed in, and season it with salt. Serve up the soup garnished with the cucumbers. These will be a proper garnish for almost any kind of soup.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Wood Sorrel",
+      "relatedPageUrl": "wood-sorrel.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Cucumber Soup",
+  "usedSnapshot": "20170314145129"
+}

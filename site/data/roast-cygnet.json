@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922080728",
+  "finalPath": "roast-cygnet.html",
+  "heading": "Roast Cygnet",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Roast Swan",
+      "relatedPageUrl": "roast-swan.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Roast Cygnet",
+  "usedSnapshot": "20210518203357"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922100955",
+  "finalPath": "apple-chutney-2.html",
+  "heading": "Apple Chutney",
+  "ingredients": [
+    "brown sugar",
+    "cayenne",
+    "chutney",
+    "flour",
+    "garlic",
+    "ginger",
+    "mustard",
+    "mustard seed",
+    "onions",
+    "pepper",
+    "raisins",
+    "salt",
+    "sugar",
+    "vinegar",
+    "vinegir"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-chutney-2.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E410. BENGAL CHUTNEY (Surrey)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nOne pound of brown sugar, half a pound of salt, half a pound of mustard-seed, washed and pounded : half a garlic, or quarter of a pound of onions chopped finely, quarter of a pound of powdered ginger, half a pound of raisins, stoned and chopped, one ounce of cayenne pepper, three pints of vinegir; thirteen large sour apples, peeled, cored, and cut up, then boiled till tender in the vinegar, and, when tender, bruised with a spoon to a smooth pulp. When cold, mix all the ingredients together, and cover them lightly for a day or two. Then put into jars and cover down tightly. It is best to make half this quantity at a time. Mustard flour may be used instead of mustard seed, and onions instead of garlic.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Apple Chutney",
+  "usedSnapshot": "20211205165256"
+}

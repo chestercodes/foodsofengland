@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922072147",
+  "finalPath": "marchpane.html",
+  "heading": "Marchpane",
+  "ingredients": [
+    "almonds",
+    "rosewater",
+    "sugar",
+    "almonds blanched",
+    "butter"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "marchpane.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EHow to make a good Marchpaine.\u003C/b\u003E\u003Cbr\u003E\nFirst take a pound of long smal almonds and blanch them in cold water, and dry them as drye as you can, then grinde them small, and put no licour to them but as you must needs to keepe them from oyling, and that licour that you put in must be rosewater, in manner as you shall think good, but wet your Pestel therin, when ye have beaten them fine, take halfe a pound of Sugar and more, and see that it be beaten small in pouder, it must be fine sugar, then put it to your Almonds and beate them altogither, when they be beaten, take your wafers and cut them compasse round, and of the bignes you will have your Marchpaine, and then as soone as you can after the tempering of your stuffe, let it be put in your paste, and strike it abroad with a flat stick as even as you can, and pinch the very stuffe as it were an edge set upon, and then put a paper under it, and set it upon a faire boord, and lay lattin Basin over it the bottome upwarde, and then lay burning coles upon the bottom of the basin. To see how it baketh, if it happen to bren too fast in some place, folde papers as broad as the place is \u0026 lay it upon that place, and thus with attending ye shal bake it a little more then a quarter of an houre, and when it is wel baked, put on your gold and biskets, and stick in \u003Ca href=\u0022comfits.html\u0022\u003E\u003Cb\u003EComfits\u003C/b\u003E\u003C/a\u003E, and so you shall make a good Marchpaine. Or ever that you bake it you must cast on it fine Sugar and Rosewater that will make it look like Ice.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "marchpane.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Marchpan; to Ice him, \u0026amp;c.\u003C/b\u003E\u003Cbr\u003E\nTake two pound of Almonds blanched, \u0026 beaten in a stone Morter till they begin to come to a fine Past, and take a pound of sifted Sugar, and put it in the Morter with the Almonds, and so leave it till it come to a perfect Past, putting in now and then a Spoonfull of Rosewater to keep them from Oyling; when you have beaten them to a perfect Past cover the Marchpan in a sheet, as big as a Charger, and set an edge about as you do about a Tart, and a bottome of wafers under him; thus bake it in an oven or baking pan, when you see your marchpan is hard and dry, take it out and Ice him with Rosewater and sugar being made as thick as butter for Fritters; so spread it on him with a wing-feather; so put it into the Oven againe, and when you see it rise high, then take it out and garnish it with some pretty conceits made part of the same stuff, stick long cumfets uprigh in him so serve it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    }
+  ],
+  "title": "Marchpane",
+  "usedSnapshot": "20220517163552"
+}

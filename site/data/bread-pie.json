@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212024023",
+  "finalPath": "bread-pie.html",
+  "heading": "Bread Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Bread Pie",
+  "usedSnapshot": "20211027045152"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140616082754",
+  "finalPath": "cornish-eels.html",
+  "heading": "Cornish Eels",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "clotted cream",
+    "cream",
+    "eels",
+    "flour",
+    "lemon",
+    "parsley",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornish-eels.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EEELS. (Cornish Receipt.)\u003C/b\u003E\u003Cbr\u003E\nSkin, empty, and wash as clean as possible, two or three fine eels, cut them into short lengths, and just cover them with cold water; add sufficient salt and cayenne to season them, and stew them very softly indeed from fifteen to twenty minutes, or longer should they require it. When they are nearly done, strew over them a teaspoonful of minced parsley, thicken the sauce with a teaspoonful of flour mixed with a slice of butter, and add a quarter of a pint or more of clotted cream. Give the whole a boil, lift the fish into a hot dish, and stir briskly the juice of half a lemon into the sauce; pour it upon the eels, and serve them immediately. Very sweet thick cream is, we think, preferable to clotted cream for this dish. The sauce should be of a good consistence, and a dessertspoonful of flour will be needed for a large dish of the stew, and from one and a half to two ounces of butter. The size of the fish must determine the precise quantity of liquid and of seasoning which they will require.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Cornish Eels",
+  "usedSnapshot": "20211201034810"
+}

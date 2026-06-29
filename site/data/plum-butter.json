@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922071609",
+  "finalPath": "plum-butter.html",
+  "heading": "Plum Butter",
+  "ingredients": [
+    "butter",
+    "cinnamon",
+    "jelly",
+    "plum",
+    "plums",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "plum-butter.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EWoman\u0027s Institute Library of Cookery\u003C/i\u003E\u0027, c1910, USA",
+      "receiptText": "85. PLUM BUTTER.--Another very good way in which to preserve plums for future use is to make butter of them. The accompanying recipe explains the correct procedure for butter of this kind.\u003Cbr\u003E\n\u003Cbr\u003E\nPLUM BUTTER\u003Cbr\u003E\n4 qt. plums\u003Cbr\u003E\n1 c. hot water\u003Cbr\u003E\n3 lb. sugar\u003Cbr\u003E\n2 tsp. cinnamon\u003Cbr\u003E\n1/2 tsp. cloves\u003Cbr\u003E\n\u003Cbr\u003E\nWash the plums, cut them in half, and remove the seeds. Put the plums with the water into a preserving kettle, and boil until they are soft.\u003Cbr\u003E\nPress them through a sieve or a colander, return to the preserving kettle, and add the sugar and spices. Boil until the mixture is thick and jelly-like, stirring constantly to prevent scorching. Pour into hot sterilized crocks or glasses, cool, and seal. If very sour plums are used, increase the amount of sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Plum Butter",
+  "usedSnapshot": "20211129122932"
+}

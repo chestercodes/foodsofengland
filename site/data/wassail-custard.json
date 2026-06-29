@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922100522",
+  "finalPath": "wassail-custard.html",
+  "heading": "Wassail Custard",
+  "ingredients": [
+    "biscuits",
+    "cherries",
+    "custard",
+    "lemon",
+    "almonds",
+    "bread",
+    "nuts",
+    "pistachio nuts"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "wassail-custard.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E611. WASSAIL CUSTARD (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nLine a dish with slices of stale sponge cakes, ratafia biscuits, and macaroons. Mix the juice of a lemon with a little raisin wine and pour it over the cakes. When these have quite absorbed the liquor, pour a pint of good custard over, and decorate the top with angelica, chopped cherries, and a little chopped pistachio nut.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "wassail-custard.html-2",
+      "receiptSource": "Original Receipt from Daily Mirror - Tuesday 20 December 1932",
+      "receiptText": "\u003Cb\u003EWASSAIL CUSTARD\u003C/b\u003E Line a dish with slices of stale sponge-cake, biscuits and macaroons. Mix the juice of a lemon with a little raisin wine and pour over the cakes. When quite absorbed pour a pint of custard over and decorate with cherries, almonds and pistachio nuts. Stale bread can be used, but this should be sweetened to taste. From Mrs. Armitage, Hemel Hempstead.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWassail Bowl\u003C/b\u003E",
+      "relatedPageUrl": "wassail-bowl.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Wassail Custard",
+  "usedSnapshot": "20220117182742"
+}

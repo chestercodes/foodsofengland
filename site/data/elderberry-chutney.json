@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922084100",
+  "finalPath": "elderberry-chutney.html",
+  "heading": "Elderberry Chutney",
+  "ingredients": [
+    "brown sugar",
+    "currants",
+    "dried fruit",
+    "elderberries",
+    "ginger",
+    "malt vinegar",
+    "onions",
+    "pepper",
+    "raisins",
+    "salt",
+    "soft brown sugar",
+    "sugar",
+    "sultanas",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "elderberry-chutney.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Elderberry%20Chutney\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 lb elderberries, washed and stalks removed\u003Cbr\u003E\n1 lb cooking apples\u003Cbr\u003E\n4 oz dried fruit, e.g. currants, sultanas, raisins\u003Cbr\u003E\n8 oz onions, finely chopped\u003Cbr\u003E\n1 teaspoon salt\u003Cbr\u003E\n\u00BD teaspoon ground ginger\u003Cbr\u003E\n\u00BD teaspoon ground mixed spice\u003Cbr\u003E\nPinch of pepper\u003Cbr\u003E\n\u00BD pint malt vinegar\u003Cbr\u003E\n12 oz soft brown sugar\u003Cbr\u003E\n\u003Cbr\u003E\nPeel, core and chop the apples and put into a large pan with the elderberries, raisins and onions. Stir in the salt, spices and pepper and a little of the vinegar. Cook very gently for 1 hour until the fruit is soft, stirring from time to time to prevent the mixture sticking and burning. Remove from the heat and stir in the sugar and remaining vinegar. When the sugar has dissolved completely, return to the heat and bring to the boil. Boil steadily for about 30-40 minutes until thick and all the vinegar is absorbed. Spoon into warm, sterilised jars and seal immediately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Elderberry Chutney",
+  "usedSnapshot": "20200924011606"
+}

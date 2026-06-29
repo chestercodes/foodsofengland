@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212015712",
+  "finalPath": "caudle-chicken-pie.html",
+  "heading": "Caudle Chicken Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Caudle Chicken Pie",
+  "usedSnapshot": "20220516205529"
+}

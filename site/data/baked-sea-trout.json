@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616082642",
+  "finalPath": "baked-sea-trout.html",
+  "heading": "Baked Sea Trout",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Baked Sea Trout",
+  "usedSnapshot": "20211207114137"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140212023121",
+  "finalPath": "lancaster-tart.html",
+  "heading": "Lancaster Tart",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "caster sugar",
+    "eggs",
+    "icing sugar",
+    "lemon",
+    "lemon juice",
+    "pastry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lancaster-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lancaster%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELancaster Tart\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nShortcrust pastry\u003Cbr\u003E\n4 tablespoons lemon curd\u003Cbr\u003E\n3 eggs\u003Cbr\u003E\n5 oz caster sugar\u003Cbr\u003E\n5 oz butter\u003Cbr\u003E\n5 oz ground almonds\u003Cbr\u003E\n2 oz icing sugar\u003Cbr\u003E\nJuice of half a lemon\u003Cbr\u003E\n\u003Cbr\u003E\nLine a shallow pie dish with the pastry, spread the curd over the bottom. Beat the eggs with the sugar, butter (melted) and almonds and pour the paste over the lemon curd. Bake 30 minutes or so at 180C, 350F until pale brown on top. Cool and cover with thin sugar-ice made using the icing sugar with a little lemon juice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lancaster Tart",
+  "usedSnapshot": "20220808001943"
+}

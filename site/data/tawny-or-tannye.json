@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150423003247",
+  "finalPath": "tawny-or-tannye.html",
+  "heading": "Tawny or Tannye",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "cinnamon",
+    "ginger",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tawny-or-tannye.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETannye:\u003C/b\u003E Take almond milk, \u0026 sugar, an powdere ginger, \u0026 of Galyngale, \u0026 of cinnamon, and Rede wine, \u0026 boil y-fere: \u0026 that is good tannye.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Tawny or Tannye",
+  "usedSnapshot": "20211207120705"
+}

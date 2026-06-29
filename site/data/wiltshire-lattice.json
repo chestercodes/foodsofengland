@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140212030715",
+  "finalPath": "wiltshire-lattice.html",
+  "heading": "Wiltshire Lattice",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESausage Plait\u003C/b\u003E",
+      "relatedPageUrl": "sausage-plait.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESausage Pie\u003C/b\u003E",
+      "relatedPageUrl": "sausage-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wiltshire Lattice",
+  "usedSnapshot": "20211019175742"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212025414",
+  "finalPath": "barm-crust.html",
+  "heading": "Barm Crust",
+  "ingredients": [
+    "butter",
+    "egg",
+    "flour",
+    "lard",
+    "milk",
+    "salt",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barm-crust.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EBarm Crust.\u003C/b\u003E\u003Cbr\u003E\n723. Of the various kinds of paste, barm crust is the plainest, and the most easily made; but it is not very generally approved of in flavour.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E724. To Make Barm Crust very Plain\u003C/b\u003E.-Mix together one pound of flour, a quarter of a pound of butter or lard, one table-spoonful of barm, and a little salt, with milk enough to make a paste. Let it stand in a moderately warm place till it rises, then roll and use as a crust, baking as quickly after as possible.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EAnother Barm Crust\u003C/b\u003E (sufficient for three Tarts).-Take one pound of flour, three ounces of butter (or an ounce and a half of clarified dripping, and an ounce and a half of lard), the white and yolk of an egg well beaten, and one table-spoonful of yeast. Warm the butter in half a pint of new milk, let it stand till only lukewarm; mix all up together, and let the leaven stand to rise. Then roll the paste, cover the pies, and put them into the oven directly. (If you suspect the barm to be bitter, blow the ashes off a red-hot coal, and put it in.)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Barm Cake",
+      "relatedPageUrl": "barm-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Barm Crust",
+  "usedSnapshot": "20220504004606"
+}

@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150701010917",
+  "finalPath": "oven-bottom-cake.html",
+  "heading": "Oven Bottom Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBread Names\u003C/b\u003E",
+      "relatedPageUrl": "bread-names.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oven Bottom Cake",
+  "usedSnapshot": "20210111131859"
+}

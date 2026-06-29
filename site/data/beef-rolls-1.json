@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130323203453",
+  "finalPath": "beef-rolls-1.html",
+  "heading": "Beef Rolls (1)",
+  "ingredients": [
+    "beat",
+    "beef",
+    "butter",
+    "collops",
+    "flour",
+    "gravy",
+    "lemon",
+    "nutmeg",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "suet",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-rolls-1.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E123. To make BEEF-ROLLS.\u003C/b\u003E\u003Cbr\u003E\nCut your beef thin as for scotch collops, beat it very well, and season it with salt, Jamaica and white pepper, mace, nutmeg, sweet marjoram, parsley, thyme, and a little onion shred small, rub them on the collops on one side, then take long bits of beef-suet and roll in them, tying them up with a thread; flour them well, and fry them in butter very brown; then have ready some good gravy and stew them an hour and half, stirring them often, and keep them covered, when they are enough take off the threads, and put in a little flour, with a good lump of butter, and squeeze in some lemon, then they are ready for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Beef Rolls (1)",
+  "usedSnapshot": "20211201043120"
+}

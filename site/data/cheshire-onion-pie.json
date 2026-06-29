@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140212025147",
+  "finalPath": "cheshire-onion-pie.html",
+  "heading": "Cheshire Onion Pie",
+  "ingredients": [
+    "beat",
+    "black pepper",
+    "butter",
+    "cream",
+    "egg",
+    "flan",
+    "flour",
+    "lard",
+    "margarine",
+    "milk",
+    "nutmeg",
+    "onion",
+    "onions",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "salt",
+    "shortcrust pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheshire-onion-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENewcastle Evening Chronicle\u003C/i\u003E\u0027 - Tuesday 11 December 1984",
+      "receiptText": "Know your onions!\u003Cbr\u003E\n\u003Cb\u003ECHESHIRE ONION PIE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMOST of this week\u0027s recipes will be cost-conscious ones to help you face the extra expense of Christmas. Today\u0027s dish. for example. will cost next to nothing because most of the ingredients will be in the pastry, anyway.\u003Cbr\u003E\n\u003Cbr\u003E\nYou will need, for the shortcrust pastry 6oz (175g) plain white or wholewheat flour or a mixture of both, quarter teaspoonful salt, 1 1/2 oz (40g) lard, 1 1/2 oz (40g) margarine, 3 to 4 tablespoonful water.\u003Cbr\u003E\nFilling. 20z. (50g) butter, 1 to 1 1/4 lb (450 to 550g) peeled and sliced onions, loz (25g.) plain flour (scant measure), 1 level teaspoonful salt, a good quantity of black pepper, grated nutmeg, 1/4 pint (150ml) top of the milk or cream, 1 large egg.\u003Cbr\u003E\n\u003Cbr\u003E\nPlace flour and salt in mixing bowl, rub in fats, mix to a firm dough with the water. Roll out on floured board. Line an 8in (20cm) flan ring on a baking tray. Leave to rest while preparing filing. Melt butter in saucepan, add onions and cook gently until soft, about 15 minutes. Do not brown.\u003Cbr\u003E\n\u003Cbr\u003E\nAdd flour, let it sizzle then add salt and pepper and a little nutmeg. Stir in milk, bring to boil and cook for two minutes. Remove from heat. Beat egg lightly, spoon into it a little mixture from pan and stir in, then return to pan and mix in. Taste for seasoning. Spoon into flan case, level the top and grate on a little more nutmeg. Bake in a moderately hot oven (400 deg. F., deg C., Gas 6) for 45 to 50 minutes. After about 30 minutes, when pastry is set, remove flan ring to allow crust to brown. Cool on wire tray. Serves four.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOnion and Apple Pie\u003C/b\u003E",
+      "relatedPageUrl": "onion-and-apple-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECheese and Onion Pie\u003C/b\u003E",
+      "relatedPageUrl": "cheese-and-onion-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cheshire Onion Pie",
+  "usedSnapshot": "20220819115849"
+}

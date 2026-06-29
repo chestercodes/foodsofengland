@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922085957",
+  "finalPath": "lemon-meringue-pie.html",
+  "heading": "Lemon Meringue Pie",
+  "ingredients": [
+    "beat",
+    "currant",
+    "eggs",
+    "flour",
+    "jelly",
+    "lemon",
+    "lemons",
+    "oranges",
+    "pudding",
+    "strawberry",
+    "sugar",
+    "bread",
+    "butter",
+    "cream",
+    "egg",
+    "pastry",
+    "scallops"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lemon-meringue-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EMiss Leslie\u0027s new cookery book\u003C/i\u003E by Eliza Leslie - 1857;",
+      "receiptText": "\u003Cb\u003EA MERINGUE PUDDING\u003C/b\u003E Rub off upon a large lump of sugar the yellow rind of two fine ripe lemons and mix it with a pound of powdered loaf sugar adding the juice Whip to a stiff froth the whiles only of eight eggs and then gradually beat in the sugar and lemon adding a heaped table spoonful of the finest flour. Spread part of the mixture thickly over the bottom of a deep dish the rim of which has been bordered with a handsome wreath of puff paste and baked. Lay upon it a thick layer of stiff currant or strawberry jelly. Then fill up the dish and set it a few minutes in a rather cool oven to brown slightly. This pudding is for dinner company. If you use oranges omit half the grated peel.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemon-meringue-pie.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027Desserts and Salads\u0027\u003C/i\u003E by Gesine Lemcke, published in various versions in London and New York from 1892 to 1920",
+      "receiptText": "\u003Cb\u003E708. Lemon Meringue Pie\u003C/b\u003E.- 5 large eggs,\u00BD tablespoonful butter, 1 cup sugar and the juice and grated rind of 1 large lemon; beat 4 yolks to a cream and add the grated rind and juice of lemon; put the butter in a small saucepan over the fire; as soon as melted add the beaten yolks and stir over the fire to a creamy thickness; remove it from fire and when cold mix with 1 cup sugar and 1 whole egg; next line a large (not too deep) pie plate with fine pie crust, ornament the edge either with the pastry wheel or lay strips of paste around the edge cut on one side into scallops, brush the surface of crust all over with beaten egg and sprinkle over a little finely sifted bread or cracker crumbs; put in the lemon mixture, put the pie into a medium hot oven and bake till done; in the meantime beat the 4 remaining whites to a stiff froth and add 2 tablespoonfuls sifted powdered sugar and a little grated lemon peel; when the pie is done take it from the oven just long enough to spread over the meringue; return it again to oven for a few minutes and serve when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Lemon Meringue Pie",
+  "usedSnapshot": "20220527220615"
+}

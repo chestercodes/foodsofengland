@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140616081103",
+  "finalPath": "potted-shrimps.html",
+  "heading": "Potted Shrimps",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "prawns",
+    "shrimps",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "potted-shrimps.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPOTTED SHRIMPS, OR PRAWNS. (Delicious.)\u003C/b\u003E\u003Cbr\u003E\nLet the fish be quite freshly boiled, shell them quickly, and just before they are put into the mortar, chop them a little with a verv sharp knife; pound them perfectly with a small quantity of fresh butter, mace, and cayenne.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "potted-shrimps.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E192. To Pot Prawns And Shrimps.-\u003C/b\u003E\u003Cbr\u003E\nThey should be selected as large as possible. When boiled take them out of the skins, and season them with salt, white pepper, and a very little mace and cloves. Press them into a pot, set it in the oven ten minutes, and when cold cover them with a layer of clarified butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Potted Shrimps",
+  "usedSnapshot": "20211201003818"
+}

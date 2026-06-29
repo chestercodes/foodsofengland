@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072312",
+  "finalPath": "quince-jelly.html",
+  "heading": "Quince Jelly",
+  "ingredients": [
+    "jelly",
+    "quince",
+    "quinces",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "quince-jelly.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Little Preserving Book For A Little Girl\u003C/i\u003E\u0027 by Caroline French Benton, Pennsylvania 1920",
+      "receiptText": "\u003Cb\u003EQuince Jelly\u003C/b\u003E\u003Cbr\u003E\nQuinces (large), \u00BD dozen\u003Cbr\u003E\nSugar\u003Cbr\u003E\nWater\u003Cbr\u003E\n\u003Cbr\u003E\nQuinces are very hard to cut, so Adelaide found it necessary to use the little sharp knife, after washing and wiping them thoroughly.\u003Cbr\u003E\nIn preparing these, Adelaide removed the blossom ends and seeds, cut each quince into small pieces, nearly covered the fruit with cold water, placed the saucepan on the fire and let the quinces cook very slowly until soft, stirring occasionally with the wooden spoon to prevent burning.\u003Cbr\u003E\nAs soon as they had finished cooking she poured the fruit into the jelly bag and let it drip over night. Next morning she measured the juice, and for each cup Adelaide measured an equal quantity of sugar. The sugar she stood at the back of the range in an earthenware dish to heat through, but not brown, and the juice she let boil rapidly for twenty minutes. Then she added the sugar gradually, stirring constantly until all the sugar had dissolved. When the \u0022jelly point\u0022 was reached Adelaide skimmed quickly and poured the jelly into a pitcher. Filling the sterilized small glasses at once, she then stood them in a sunny window.\u003Cbr\u003E\nWhen cold, each glass was carefully wiped with a damp cloth around the top and on the outside, melted paraffin was poured over the jelly, the glass was shaken gently from side to side to exclude all air, and, finally, Adelaide pasted on the labels and stored the glasses away in the preserve closet.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Quince Jam",
+      "relatedPageUrl": "quince-jam.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Quince Jelly",
+  "usedSnapshot": "20220705103205"
+}

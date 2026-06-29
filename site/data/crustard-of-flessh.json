@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073258",
+  "finalPath": "crustard-of-flessh.html",
+  "heading": "Crustard of Flessh",
+  "ingredients": [
+    "chickens",
+    "currants",
+    "eggs",
+    "pigeons",
+    "raisins",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "crustard-of-flessh.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECrustardes of Flessh:\u003C/b\u003E\u003Cbr\u003E\nTake pigeons, chickens, and small birds smyte them in gobbets \u0026 seeth them all a-fire in good broth with verjuice. Do thereto saffron, make a crust in a case, and pinchit \u0026 couch the flessh therein \u0026 cast therein raisins currants, \u003Ca href=\u0022spice-powders.html\u0022\u003E\u003Cb\u003Epowder douce\u003C/b\u003E\u003C/a\u003E and salt. Brake eggs and wring them through a cloth \u0026 swyng the sewe of the stew therewith and helde it upon the flessh. Cover it \u0026 bake it well, and serve it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Small Birds",
+      "relatedPageUrl": "small-birds.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Crustard of Flessh",
+  "usedSnapshot": "20220808005114"
+}

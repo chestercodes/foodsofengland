@@ -1,0 +1,89 @@
+﻿{
+  "earliestSnapshot": "20150922084134",
+  "finalPath": "sanders-powder.html",
+  "heading": "Sanders Powder",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Alexander (herb)",
+      "relatedPageUrl": "alexander-herb.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Barley Wine",
+      "relatedPageUrl": "barley-wine.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Bath Polonies",
+      "relatedPageUrl": "bath-polonies.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Bryndons",
+      "relatedPageUrl": "bryndons.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Cherry Ale",
+      "relatedPageUrl": "cherry-ale.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Gaylede",
+      "relatedPageUrl": "gaylede.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Gingerbread",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Morree or Murrey",
+      "relatedPageUrl": "morree-or-murrey.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "Rapey or Rapeye",
+      "relatedPageUrl": "rapey-or-rapeye.html",
+      "relationDescription": "For historic dishes coloured with sanders see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFood Additives\u003C/b\u003E",
+      "relatedPageUrl": "food-additives.html",
+      "relationDescription": "For more information about historic addatives, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Sanders Powder",
+  "usedSnapshot": "20220213231247"
+}

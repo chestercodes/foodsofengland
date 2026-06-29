@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150913021826",
+  "finalPath": "brilla-soup.html",
+  "heading": "Brilla Soup",
+  "ingredients": [
+    "beef",
+    "carrots",
+    "celery",
+    "fat",
+    "onions",
+    "pepper",
+    "salt",
+    "thyme",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brilla-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBRILLA SOUP.\u003C/b\u003E\u003Cbr\u003E\n166. INGREDIENTS: 4 lbs. of shin of beef, 3 carrots, 2 turnips, a large sprig of thyme, 2 onions, 1 head of celery, salt and pepper to taste, 4 quarts water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Take the beef, cut off all the meat from the bone, in nice square pieces, and boil the bone for 4 hours. Strain the liquor, let it cool, and take off the fat; then put the pieces of meat in the cold liquor; cut small the carrots, turnips, and celery; chop the onions, add them with the thyme and seasoning, and simmer till the meat is tender. If not brown enough, colour it with browning.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 6 hours. \u003Ci\u003EAverage cost\u003C/i\u003E: 5d. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: all the year.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 10 persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Brilla Soup",
+  "usedSnapshot": "20220815150038"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922083155",
+  "finalPath": "queen-mary-s-baste.html",
+  "heading": "Queen Mary\u0027s Baste",
+  "ingredients": [
+    "anchovy",
+    "bread",
+    "gravy",
+    "mutton",
+    "pepper",
+    "shalot"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "queen-mary-s-baste.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EQUEEN MARY\u0027S SAUCE FOR A SHOULDER OF MUTTON.\u003Cbr\u003E\u003C/b\u003E Let a well-fed shoulder hang till tender. When three parts roasted, put a soup-plate under it, with three spoonsful of hot water, the same of port, a shalot, an anchovy chopped fine, and a little pepper; baste the meat with this and the gravy that drops from it. When the mutton is taken up, turn the inside upwards, score it various ways, pour the gravy over, and cover it with a quantity of fried crumbs of bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Queen Mary\u0027s Baste",
+  "usedSnapshot": "20211021022358"
+}

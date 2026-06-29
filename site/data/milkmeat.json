@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922073838",
+  "finalPath": "milkmeat.html",
+  "heading": "Milkmeat",
+  "ingredients": [
+    "eggs",
+    "milk",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "milkmeat.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMilkemete.\u003C/b\u003E Take faire milk and floure, and draue them through a streynour, and set them over the fire, and let them boil awhile; And then take them up, and let them kele awhile. And then take rawe yolkes of eggs and drawe them through a streynour, and caste thereto a little salt, And set it over the fire til it be som-what thik, And let it not fully boil, and stere it rigt well euermore. And put it in a diss al abrode, And serve it fort fore a good potage in one maner; And then take Sugur a good quantite, And caste there-to, and serve it fort.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Milkmeat",
+  "usedSnapshot": "20211027045656"
+}

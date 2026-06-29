@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922132803",
+  "finalPath": "sussex-pudding.html",
+  "heading": "Sussex Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESussex Pond Pudding\u003C/b\u003E",
+      "relatedPageUrl": "sussex-pond-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sussex Pudding",
+  "usedSnapshot": "20211201003534"
+}

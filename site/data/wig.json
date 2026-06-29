@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150822225814",
+  "finalPath": "wig.html",
+  "heading": "Wig",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EClabber\u003C/b\u003E",
+      "relatedPageUrl": "clabber-or-clauber.html",
+      "relationDescription": "For a similar fermented milk drink, see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWhiggs\u003C/b\u003E",
+      "relatedPageUrl": "whigs.html",
+      "relationDescription": "For the similarly-named bread cakes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Wig",
+  "usedSnapshot": "20210512115832"
+}

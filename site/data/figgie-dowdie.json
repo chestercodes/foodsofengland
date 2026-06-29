@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20121024084719",
+  "finalPath": "figgie-dowdie.html",
+  "heading": "Figgie-dowdie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Christmas Pudding",
+      "relatedPageUrl": "christmas-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgie Hobbin or Figgyhobbin",
+      "relatedPageUrl": "figgie-hobbin-or-figgyhobbin.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgie-dowdie",
+      "relatedPageUrl": "figgie-dowdie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgy Apples",
+      "relatedPageUrl": "figgy-apples.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgy Pudding",
+      "relatedPageUrl": "figgy-pudding.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EFiggy-Dowdy\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Figgie-dowdie",
+  "usedSnapshot": "20210518195312"
+}

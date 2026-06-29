@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922075424",
+  "finalPath": "tomato-and-onion-chutney.html",
+  "heading": "Tomato and Onion Chutney",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Tomato and Onion Chutney",
+  "usedSnapshot": "20211201040729"
+}

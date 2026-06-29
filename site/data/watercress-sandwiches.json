@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922085028",
+  "finalPath": "watercress-sandwiches.html",
+  "heading": "Watercress Sandwiches",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Watercress",
+      "relatedPageUrl": "watercress.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Watercress Sandwiches",
+  "usedSnapshot": "20210510040001"
+}

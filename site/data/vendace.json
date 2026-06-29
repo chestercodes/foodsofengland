@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616082533",
+  "finalPath": "vendace.html",
+  "heading": "Vendace",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Vendace",
+  "usedSnapshot": "20211201002736"
+}

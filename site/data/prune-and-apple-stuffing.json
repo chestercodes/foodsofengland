@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922133330",
+  "finalPath": "prune-and-apple-stuffing.html",
+  "heading": "Prune and Apple Stuffing",
+  "ingredients": [
+    "apple",
+    "brandy",
+    "goose",
+    "herbs",
+    "pepper",
+    "prunes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prune-and-apple-stuffing.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Prune%20and%20Apple%20Stuffing\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPrune and Apple Stuffing For Goose\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n\u003Cbr\u003E\n24 large prunes\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\nSalt, pepper\u003Cbr\u003E\n6 cooked apples\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\nHerbs\u003Cbr\u003E\nBrandy\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\n\u003Cbr\u003E\nSoak the prunes in brandy overnight. Stone then and chop them into four. Peel, core and quarter the apples and chop the quarters in half again.\u003Cbr\u003E\nMix up with the herbs, salt and pepper and a little of the remaining brandy to moisten.\u003Cbr\u003E\n\u003Cbr\u003E\nStuff the goose with the mixture.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Prune and Apple Stuffing",
+  "usedSnapshot": "20211129121802"
+}

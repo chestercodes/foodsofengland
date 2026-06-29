@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130809001446",
+  "finalPath": "eel-with-cider.html",
+  "heading": "Eel with Cider",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Eel with Cider",
+  "usedSnapshot": "20211018082445"
+}

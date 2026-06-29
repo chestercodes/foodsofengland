@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922072700",
+  "finalPath": "potato-fruits.html",
+  "heading": "Potato Fruits",
+  "ingredients": [
+    "butter",
+    "cherry",
+    "pepper",
+    "potato",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-fruits.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003E(Evelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "20. Potato. The small green Fruit (when about the size of the Wild Cherry) being pickled, is an agreeable Sallet. But the Root being roasted under the Embers, or otherwise, open\u0027d with a Knife, the Pulp is butter\u0027d in the Skin, of which it will take up a good Quantity, and is seasoned with a little Salt and Pepper. Some eat them with Sugar together in the Skin, which has a pleasant Crimpness. They are also stew\u0027d and bak\u0027d in Pyes, \u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Potato Fruits",
+  "usedSnapshot": "20211021024700"
+}

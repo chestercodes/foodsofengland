@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922082851",
+  "finalPath": "salad-all-sorts.html",
+  "heading": "Salad All-Sorts",
+  "ingredients": [
+    "almonds",
+    "mushrooms",
+    "olives",
+    "orange",
+    "raisins",
+    "rose-water",
+    "vinegar",
+    "walnuts"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "salad-all-sorts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn (\u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E35. Minc\u0027d, or sallet-all-sorts.\u003C/b\u003E Take Almonds blanch\u0027d in cold Water, cut them round and thin, and so leave them in the Water; Then have pickl\u0027d Cucumbers, Olives, Cornelians, Capers, Berberries, Red-Beet, Buds of Nasturtium, Broom, \u0026amp;c. Purslan-stalk, sampier, Ash-Keys, Walnuts, Mushrooms (and almost of all the pickl\u0027d Furniture) with Raisins of the sun ston\u0027d, Citron and Orange-Peel, Corinths (well cleansed and dried) \u0026amp;c. mince them severally (except the Corinths) or all together; and strew them over with any Candy\u0027d Flowers, and so dispose of them in the same Dish both mixt, and by themselves. To these add roasted Maroons, Pistachios, Pine-Kernels, and of Almonds four times as much as of the rest, with some Rose-water. Here also come in the Pickled Flowers and Vinegar in little China Dishes. And thus have you an Universal Winter-sallet, or an All sort in Compendium, fitted for a City Feast, and distinguished from the Grand-sallet: which shou\u0027d consist of the Green blanch\u0027d and unpickled, under a stately Pennash of sellery, adorn\u0027d with Buds and Flowers.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Salad All-Sorts",
+  "usedSnapshot": "20211021023731"
+}

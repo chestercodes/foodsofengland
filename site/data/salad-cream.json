@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922081959",
+  "finalPath": "salad-cream.html",
+  "heading": "Salad Cream",
+  "ingredients": [
+    "butter",
+    "cream",
+    "double cream",
+    "eggs",
+    "mustard",
+    "salt",
+    "sugar",
+    "tea",
+    "vinegar",
+    "anchovies",
+    "bread",
+    "cayenne",
+    "chili",
+    "chili vinegar",
+    "custard",
+    "garlic",
+    "gravy",
+    "olive oil",
+    "tarragon",
+    "toasted bread"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "salad-cream.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Boil a couple of eggs for twelve minutes, and put them in a basin of cold water for a few minutes; the yolks must be quite cold and hard, or they will not incorporate with the ingredients. Rub them through a sieve with a wooden spoon, and mix them with a table-spoonful of water, or fine double cream; then add two table-spoonfuls of oil or melted butter; when these are well mixed, add, by degrees, a tea-spoonful of salt, or powdered lump sugar, and the same of made mustard: when these are smoothly united, add very gradually three table-spoonfuls of vinegar; rub it with the other ingredients till thoroughly incorporated with them.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022salad-cream-kitchsaladcream.jpg\u0022\u003E\u003Cimg src=\u0022salad-cream-kitchsaladcream.jpg\u0022 width=\u0022284\u0022 height=\u0022416\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Csmall\u003EAdvrt. from Hertford Mercury and Reformer - Tuesday 19 May 1835\u003C/small\u003E\u003C/center\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "salad-cream.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EENGLISH SAUCE FOR SALAD, COLD MEAT, OR COLD FISH.\u003C/b\u003E\u003Cbr\u003E\nThe first essential for a smooth, well-made English salad dressing is to have the yolks of the eggs used for it sufficiently hard to be reduced easily to a perfect paste. They should be boiled at least fifteen minutes, and should have become quite cold before they are taken from the shells; they should also be well covered with water when they are cooked, or some parts of them will be tough, and will spoil the appearance of the sauce by rendering it lumpy, unless they be worked through a sieve, a process which is always better avoided if possible. To a couple of yolks broken up and mashed to a paste with the back of a wooden spoon, add a small saltspoonful of salt, a large one of pounded sugar, a few grains of fine cayenne, and a tea-spoonful of cold water; mix these well, and stir to them by degrees a quarter of a pint of sweet cream; throw in next, stirring the sauce briskly, a tablespoonful of strong chili vinegar, and add as much, common or French vinegar as will acidulate the mixture agreeably. A tablespoonful of either will be sufficient for many tastes, but it is easy to increase the proportion when more is liked. Six tablespoons-full of olive oil, of the purest quality, may be substituted for the cream: it should be added in very small portions to the other ingredients, and stirred briskly as each is added until the sauce resembles custard. When this is used, the water should be omitted. The piquancy of this preparation-which is very delicate, made by the directions just given-may be heightened by the addition of a little eschalot vinegar, Harvey\u0027s sauce, essence of anchovies, French mustard, or tarragon vinegar; or by bruising with the eggs a morsel of garlic, half the size of a hazel-nut: it should always, however, be rendered as appropriate as may be to the dish with which it is to be served.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EObs. 1.\u003C/i\u003E-As we have before had occasion to remark, garlic, when very sparingly and judiciously used, imparts a remarkably fine savour to a sauce or gravy, and neither a strong nor a coarse one, as it does- when used in larger quantities. The veriest morsel (or, as the French call it, a mere soupson, of the root, is sufficient to give this agreeable piquancy, but unless the proportion be extremely small, the effect will be quite different. The Italians dress their salads upon a round of delicately toasted bread, which is rubbed with garlic, saturated with, oil, and sprinkled with cayenne, before it is laid into the bowl: they also eat the bread thus prepared, but with less of oil, and untoasted often, before their meals, as a digester.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EObs. 2\u003C/i\u003E.-French vinegar is so infinitely superior to English in strength, purity, and flavour, that we cannot forbear to recommend, it in preference for the use of the table. We have for a long time past been supplied with some of most excellent quality (labelled. Vinaigre de Bordeaux) imported by the Messrs. Kent \u0026 Sons, of Upton-on-Severn, who supply it largely, we believe, both to wholesale and retail vendors in town and country.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Salad Cream",
+  "usedSnapshot": "20211213201042"
+}

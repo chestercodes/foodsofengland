@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922082436",
+  "finalPath": "fruit-cobbler.html",
+  "heading": "Fruit Cobbler",
+  "ingredients": [
+    "butter",
+    "cream",
+    "egg",
+    "flour",
+    "gooseberries",
+    "milk",
+    "peaches",
+    "plums",
+    "rhubarb"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fruit-cobbler.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Myrtle Reed Cook Book\u003C/i\u003E\u0027 New York, 1905;",
+      "receiptText": "\u003Cb\u003EFRUIT COBBLER\u003C/b\u003E\u003Cbr\u003E\nFill a deep buttered baking-dish with fresh or stewed fruit - apples, peaches, apricots, rhubarb, plums, or gooseberries being commonly used--and cover with a crust made as follows: Sift together two cupfuls of flour and two teaspoonfuls of baking-powder. Rub into it half a cupful of butter and add one egg beaten with a cupful of milk.\u003Cbr\u003E\n\u003Cbr\u003E\nSpread over the fruit which has been previously sweetened to taste and bake until the crust is done. Serve either hot or cold with cream or any preferred sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Beef Cobbler",
+      "relatedPageUrl": "beef-cobbler.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fruit Cobbler",
+      "relatedPageUrl": "fruit-cobbler.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Sherry Cobbler",
+      "relatedPageUrl": "sherry-cobbler.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fish Cobbler",
+      "relatedPageUrl": "fish-cobbler.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fruit Cobbler",
+  "usedSnapshot": "20211019183629"
+}

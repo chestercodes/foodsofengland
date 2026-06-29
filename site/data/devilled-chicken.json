@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074945",
+  "finalPath": "devilled-chicken.html",
+  "heading": "Devilled Chicken",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Devilled Chicken",
+  "usedSnapshot": "20211027040436"
+}

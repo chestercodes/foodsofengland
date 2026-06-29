@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922103343",
+  "finalPath": "barley-wine.html",
+  "heading": "Barley Wine",
+  "ingredients": [
+    "barley",
+    "lemon",
+    "lemons",
+    "rose water",
+    "sugar",
+    "white wine",
+    "ale",
+    "almond",
+    "beer",
+    "cherries",
+    "cherry",
+    "currant",
+    "hops"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "barley-wine.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBarley Wine.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBOIL half a pound of French barley in three waters, and save three pints of the last water. Mix it with a quart of white wine, half a pint of borage water, as much clary water, a little red rose water, the juice of five or six lemons, three quarters of a pound of fine sugar, and the thin yellow rind of a lemon. Mix all these well together, run it through a strainer, and bottle it up. It is pleasant in hot weather, and is very good in fevers.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "barley-wine.html-2",
+      "receiptSource": "Original Receipt from\u0027 \u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBarley Wine or Cherry Beer.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTo the wort produced by a bushel of the palest malt, as soon as the fermentation a little declines, add an ounce of yellow sanders in powder and half an ounce of almond cake. Only a quarter part of the usual quantity of hops most be used as the bitterish aromatic and agreeably pungent taste, very far superior to either white or red sanders, will be communicated to the liquor, and sufficiently assist in preserving it Those persons, it has been ingeniously remarked, who may marvel at this process for making cherry bear, both red and white, without a cherry of any sort in either, can easily, if they please flavour small ale or worts, one with black and the other with white heart cherries, and they may then soon be convinced that neither will be more wholesome, nor nearly so agreeable, as those which are here recommended and, what is still more wonderful, the liquors actually .made with the fruit itself will be found to possess much less of the true cherry flavour. In a similar way, the red, being assisted with logwood may be made currant beer, gooseberry beer, elderberry beer, \u0026amp;c. of the different colours, which all these fruits possess. The white, however, should be sweetened with loaf-sugar. These fruit beers, or barley wines, are by no means ill-adapted to our climate; and might, if well-prepared and sold ate moderate prices lessen in some degree the alarming and most immoderate use of spiritous liquors.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u0027Hum\u0027, \u0027Jacky\u0027, \u0027Stingo\u0027 or \u0027Stitchback\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Barley Wine",
+  "usedSnapshot": "20220527053456"
+}

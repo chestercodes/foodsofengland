@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20130323052631",
+  "finalPath": "currant-fritters.html",
+  "heading": "Currant Fritters",
+  "ingredients": [
+    "ale",
+    "beat",
+    "currant",
+    "currants",
+    "flour",
+    "lard",
+    "eggs",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "currant-fritters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CURRANT FRITTERS. Thicken half a pint of ale with flour, and add some currants. Beat it up quick, make the lard boil in the frying-pan, and put in a large spoonful of the batter at a time, which is sufficient for one fritter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "currant-fritters.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECURRANT FRITTERS.\u003C/b\u003E\u003Cbr\u003E\n1429. INGREDIENTS:\u00BD pint of milk, 2 tablespoonfuls of flour, 4 eggs, 3 tablespoonfuls of boiled rice, 3 tablespoonfuls of currants, sugar to taste, a very little grated nutmeg, hot lard or clarified dripping.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the milk into a basin with the flour, which should previously be rubbed to a smooth batter with a little cold milk; stir these ingredients together; add the well-whisked eggs, the rice, currants, sugar, and nutmeg. Beat the mixture for a few minutes, and, if not sufficiently thick, add a little more boiled rice; drop it, in small quantities, into a pan of boiling lard or clarified dripping; fry the fritters a nice brown, and, when done, drain them on a piece of blotting-paper, before the fire. Pile them on a white d\u0027oyley, strew over sifted sugar, and serve them very hot. Send a cut lemon to table with them.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: From 8 to 10 minutes to fry the fritters.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 9d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 3 or 4 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Currant Fritters",
+  "usedSnapshot": "20211020225105"
+}

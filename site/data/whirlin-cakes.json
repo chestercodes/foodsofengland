@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130322035215",
+  "finalPath": "whirlin-cakes.html",
+  "heading": "Whirlin Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whirlin Cakes",
+  "usedSnapshot": "20220327131435"
+}

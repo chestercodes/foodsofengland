@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082022",
+  "finalPath": "staffordshire-fig-pudding.html",
+  "heading": "Staffordshire Fig Pudding",
+  "ingredients": [
+    "flour",
+    "milk",
+    "pudding",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "staffordshire-fig-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "FIG PUDDING.\u003Cbr\u003E\n(Staffordshire Recipe.)\u003Cbr\u003E\n1276. INGREDIENTS: 1 lb. of figs, 6 oz. of suet, \u00BE lb. of flour, milk.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Chop the suet finely, mix with it the flour, and make these into a smooth paste with milk; roll it out to the thickness of about\u00BD inch, cut the figs in small pieces, and strew them over the paste; roll it up, make the ends secure, tie the pudding in a cloth, and boil it from 1-\u00BD to 2 hours.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD to 2 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 1d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Staffordshire Fig Pudding",
+  "usedSnapshot": "20220527055749"
+}

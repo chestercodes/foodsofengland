@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922093537",
+  "finalPath": "horseradish-ale.html",
+  "heading": "Horseradish Ale",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Horseradish",
+      "relatedPageUrl": "horseradish-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EHorse-Radish Ale\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Horseradish Ale",
+  "usedSnapshot": "20170314024940"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130323053658",
+  "finalPath": "rumbled-eggs.html",
+  "heading": "Rumbled Eggs",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "milk",
+    "salt",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rumbled-eggs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGodey\u2019s Lady\u2019s Book\u003C/i\u003E\u0027 magazine, Philadelphia, USA, c1860.",
+      "receiptText": "Ingredients:\u003Cbr\u003E\n3 eggs\u003Cbr\u003E\n2 oz. butter\u003Cbr\u003E\n1 tsp. cream or milk\u003Cbr\u003E\nButtered toast\u003Cbr\u003E\n\u003Cbr\u003E\nBeat up three eggs with two ounces of fresh butter, or well-washed salt butter; add a teaspoonful of cream or new milk. Put all in a saucepan and keep stirring it over the fire for nearly five minutes, until it rises up like a souffl\u00E9, when it should be immediately dished on buttered toast.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Rumbled Eggs",
+  "usedSnapshot": "20220819101854"
+}

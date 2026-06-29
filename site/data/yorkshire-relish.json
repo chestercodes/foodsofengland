@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20130211075226",
+  "finalPath": "yorkshire-relish.html",
+  "heading": "Yorkshire Relish",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Hendersons Relish",
+      "relatedPageUrl": "hendersons-relish.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Yorkshire Sauce",
+      "relatedPageUrl": "yorkshire-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Yorkshire Relish",
+  "usedSnapshot": "20220809201846"
+}

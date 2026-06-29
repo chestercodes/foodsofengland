@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072523",
+  "finalPath": "oatmeal-potage-with-herbs-and-flowers.html",
+  "heading": "Oatmeal Potage with Herbs and Flowers",
+  "ingredients": [
+    "herbs",
+    "mutton",
+    "oatmeal",
+    "parsley",
+    "salt",
+    "spinage",
+    "strawberry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oatmeal-potage-with-herbs-and-flowers.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#tpjprcnb-1674\u0022\u003E\u003Cb\u003ETPJPRCNB 1674\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Potage without the sight of Herbs:\u003C/b\u003E Having minced several sorts of sweet Herbs very small, stamp them with your Oatmeal, then strain them through a strainer with some of the broth of the Pot, boil your Herbs and Oatmeal with your Mutton, and some Salt, let your Herbs be Violet-leaves, Strawberry-leaves, Succory, Spinage, Scallions, Parsley and Marry-gold-flowers; having boiled them enough, serve them on Sippets.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "tpjprcnb-1674"
+    }
+  ],
+  "title": "Oatmeal Potage with Herbs and Flowers",
+  "usedSnapshot": "20220516223900"
+}

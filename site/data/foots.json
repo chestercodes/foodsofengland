@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140212024941",
+  "finalPath": "foots.html",
+  "heading": "Foots",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "egg",
+    "lancashire cheese",
+    "mustard",
+    "onion",
+    "pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "foots.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Foots\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELancashire Foots also known as Collier\u0027s Foots\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 medium onion, chopped\u003Cbr\u003E\n\u00BD oz butter\u003Cbr\u003E\n\u00BD lb \u003Ca href=\u0022lancashire-cheese.html\u0022\u003E\u003Cb\u003ELancashire cheese\u003C/b\u003E\u003C/a\u003E, crumbled\u003Cbr\u003E\nmustard\u003Cbr\u003E\n1 lb flaky pastry\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\n\u003Cbr\u003E\nSoften the onion in a frying pan, transfer to a bowl and mix with the crumbled cheese and mustard. Cut the pastry into eight pieces. Roll each one into an oval shape (the pastry should be fairly thin). Cut each oval in half lengthwise; at one end roll a little of the pastry to the side to give a \u0027foot\u0027 shape. Spoon the cheese mixture over half the pieces, leaving a margin around the edges. Dampen these edges with egg, cover with the other pieces of pastry. Seal the edges and brush the tops with egg. Place on baking sheets. Bake in the oven at 220\u00B0C (425f) mark 7 for about 20 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", \u003Cb\u003ECollier\u0027s Foots\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Foots",
+  "usedSnapshot": "20211201033426"
+}

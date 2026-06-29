@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150922080821",
+  "finalPath": "green-tomato-chutney.html",
+  "heading": "Green Tomato Chutney",
+  "ingredients": [
+    "brown sugar",
+    "chillies",
+    "chutney",
+    "cinnamon",
+    "ginger",
+    "onions",
+    "paprika",
+    "raisins",
+    "salt",
+    "shallots",
+    "sugar",
+    "tarragon",
+    "tomato",
+    "tomatoes",
+    "vinegar",
+    "allspice",
+    "mustard",
+    "onion"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "green-tomato-chutney.html-1",
+      "receiptSource": "Original Receipt from Marrion Harris\u0027s \u003Ci\u003ECanning, Preserving and Pickling\u003C/i\u003E, Philadelphia, 1914",
+      "receiptText": "\u003Cb\u003EGREEN TOMATO CHUTNEY\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4 lbs. green tomatoes\u003Cbr\u003E\n\u00BD teaspoonful paprika\u003Cbr\u003E\n\u00BD lb. onions\u003Cbr\u003E\n2 lbs. (4 cups)brown sugar\u003Cbr\u003E\n2 lbs. seeded raisins\u003Cbr\u003E\n1 teaspoonful salt\u003Cbr\u003E\n\u00BC lb. ground ginger\u003Cbr\u003E\n1 pint (2 cups) tarragon vinegar\u003Cbr\u003E\n3 chillies\u003Cbr\u003E\n2 pints (4 cups) vinegar\u003Cbr\u003E\n\u003Cbr\u003E\nPut through a food chopper the tomatoes, onions, raisins and chillies, and add the spices, sugar, salt and vinegars. Keep in a warm place; stir each day for a week, then cook until tender. Seal in bottles.\u003Cbr\u003E\n\u003Cbr\u003E\nAnother Method:\u003Cbr\u003E\nSlice ten pounds of green tomatoes, sprinkle each layer with salt, and let remain over night. Put two quarts of vinegar into a preserving pan, add two pounds of sugar, one pound of chopped shallots, one and one-half teaspoonful of paprika, twelve cloves, one crushed cinnamon stick and thirty peppercorns tied in a muslin bag. Drain the tomatoes, add them to the vinegar and simmer until thick and tender. Bottle when cold.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "green-tomato-chutney.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E412. TOMATO CHUTNEY (Sussex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients. - Three and a half pounds of green tomatoes, one teaspoonful of mustard-seed, one teaspoonful of ground ginger, one teaspoonful of allspice, one onion, one quart of vinegar, ten cloves, and a pound of brown sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod. - Peel and cut the tomatoes, put into the preserving pan with vinegar and spices. When nearly boihng, add sugar, and the onion whole. Boil gently for about two hours. Remove the onion before it breaks. Put into small pots and tie down. If ripe tomatoes are used, less vinegar is required.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Green Tomato Chutney",
+  "usedSnapshot": "20220527065059"
+}

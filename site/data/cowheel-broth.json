@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150129021631",
+  "finalPath": "cowheel-broth.html",
+  "heading": "Cowheel Broth",
+  "ingredients": [
+    "leeks",
+    "parsley",
+    "pepper",
+    "rice",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cowheel-broth.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 12. Cow-heel Broth.\u003C/b\u003E\u003Cbr\u003E\nPut a couple of cow-heels into a boiling-pot, with a pound of rice, a dozen leeks washed free from grit and cut into pieces, and some coarsely chopped parsley; fill up with six quarts of water, set the whole to boil on the fire, skim it well, season with thyme, pepper, and salt, and allow the whole to boil very gently on the hob for about two hours. You will thus provide a savoury meal at small cost.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Cowheel Broth",
+  "usedSnapshot": "20220516214051"
+}

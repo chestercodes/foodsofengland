@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922084657",
+  "finalPath": "dorset-cream-toast.html",
+  "heading": "Dorset Cream Toast",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "caster sugar",
+    "cream",
+    "egg",
+    "egg yolk",
+    "eggs",
+    "lemon",
+    "orange",
+    "sugar",
+    "sunflower oil"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dorset-cream-toast.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "This seventeenth century recipe is a very rich version of eggy-bread. It is similar to \u0027\u003Ca href=\u0022poor-knights-of-windsor.html\u0022\u003E\u003Cb\u003EPoor Knights of Windsor\u003C/b\u003E\u003C/a\u003E\u0027 and was also known as Panperdy after the French \u0027pain perdu\u0027 - lost bread.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003Cbr\u003E\nServes: 6\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n150 ml Single cream ( \u00BC pint)\u003Cbr\u003E\n1 Egg yolk\u003Cbr\u003E\n1 Teaspoon Sugar\u003Cbr\u003E\n\u00BD Lemon, zest only\u003Cbr\u003E\n6 Slices French bread, 5mm thick\u003Cbr\u003E\n2 Eggs\u003Cbr\u003E\n15 Gram Butter, for frying (\u00BD oz)\u003Cbr\u003E\n2 Tablespoon Sunflower oil, for frying\u003Cbr\u003E\nCaster sugar\u003Cbr\u003E\n1 Orange, quartered, to squeeze on the \u0027toasts\u0027\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBeat together the cream and egg yolk with the teaspoon of sugar and the lemon zest. Pour this mixture over the bread and let it soak in.\u003Cbr\u003E\nBeat the eggs lightly in a bowl.\u003Cbr\u003E\nDip the slices of bread into the beaten egg and fry them on each side, until golden brown, in foaming butter and oil.\u003Cbr\u003E\nServe with caster sugar and quarters of orange, like pancakes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Dorset Cream Toast",
+  "usedSnapshot": "20211129121731"
+}

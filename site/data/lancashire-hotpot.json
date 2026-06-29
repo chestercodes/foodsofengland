@@ -1,0 +1,104 @@
+﻿{
+  "earliestSnapshot": "20131217103312",
+  "finalPath": "lancashire-hotpot.html",
+  "heading": "Lancashire Hotpot",
+  "ingredients": [
+    "fat",
+    "mutton",
+    "onion",
+    "pepper",
+    "potatoes",
+    "salt",
+    "mushrooms",
+    "butter",
+    "kidneys",
+    "oysters",
+    "rump steak",
+    "steak",
+    "curry",
+    "gravy",
+    "potato",
+    "poultry",
+    "rabbit"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "lancashire-hotpot.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English cookery book, receipts collected by a committee of ladies\u003C/i\u003E\u0027, ed. by J. H. Walsh, 1859 (\u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHot-Pot.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n399. Take some fine chops from a neck of mutton, and trim them nicely, taking off most of the fat. Lay them at the bottom of a deep and rather wide dish, and season them with pepper and salt. Lay a few slices of an onion in the middle at the bottom of the dish, if the flavour is approved and pour a quarter of a pint of cold water upon the whole. Then cover it with a layer of sliced potatoes, on the top of which lay a few more small chops, well-seasoned, and cover all with another layer of sliced potatoes. Bake from an hour to an hour and a half or more, according to the size of the dish; in a very moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lancashire-hotpot.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitstable Times and Herne Bay Herald\u003C/i\u003E\u0027 - Saturday 29 October 1892",
+      "receiptText": "\u0022Lancashire Hot Pot\u0022 is made of mutton chops and potatoes cooked in a crock. First a layer of potatoes, then of mutton seasoned with pepper and salt, mushrooms being added, if convenient, and so on until the crock full. On the top the potatoes are cut small, in order that they may brown. To make the dish less rich, partly cook the mutton before putting into the crock.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lancashire-hotpot.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EExeter and Plymouth Gazette\u003C/i\u003E\u0027 - Friday 2 September 1904",
+      "receiptText": "For the famous Lancashire hot-pot a strong earthenware pan is required. Butter the pan well. Have plenty boiled potatoes, cut in slices, and put a layer the bottom, and next put a layer of fresh rump steak and either kidneys or oysters. Pepper and salt these. Then another layer of sliced potatoes, then more so on alternate layers, with a top layer of potatoes. Before putting this on, pour in a little stock or water, and, desired, an onion cut very thinly on the meat. Put pieces butter the top, and: bake a nice brown.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lancashire-hotpot.html-4",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Queen Book of Meat and Game\u003C/i\u003E\u0027 (1902)",
+      "receiptText": "The famous \u0022Lancashire hotpot\u0022 is made thus, though with slight variations. The cutlets are trimmed, seasoned, and laid in first into the lightly buttered \u0022pot,\u0022 then a good layer of seasoned sliced kidneys, very thinly sliced onion, bearded oysters, and sliced, parboiled potatoes, sprinkling this layer with a small teaspoonful of curry powder (this is a matter of taste), and repeat these layers, finishing with potato, which, however for this should be only halved, than add the oyster liquor, and a little good gravy, and bake it all in not too fierce an oven, till the top lay(\u00BBr of potatoes is cooked and nicely browned. Add a little more hot gravy before serving. In every case these hotpots are improved by being stood whilst baking in a tin of boiling water, and being covered with a buttered paper. This dish can be made of almost anything, and is equally good with cut up poultry, rabbit, \u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bolton Hotpot",
+      "relatedPageUrl": "bolton-hotpot.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chiddingly Hot Pot",
+      "relatedPageUrl": "chiddingly-hot-pot.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Essex Hotpot",
+      "relatedPageUrl": "essex-hotpot.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Scouse or Lobscouse",
+      "relatedPageUrl": "scouse-or-lobscouse.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Tatie Pot",
+      "relatedPageUrl": "tatie-pot.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Vegetable Hot Pot",
+      "relatedPageUrl": "vegetable-hot-pot.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003ELancashire Hot-Pot\u003C/b\u003E, or \u003Cb\u003EHot Pot\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Lancashire Hotpot",
+  "usedSnapshot": "20220120082718"
+}

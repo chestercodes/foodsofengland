@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616084707",
+  "finalPath": "rachel-cheese.html",
+  "heading": "Rachel Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rachel Cheese",
+  "usedSnapshot": "20211201000730"
+}

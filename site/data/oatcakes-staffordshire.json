@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922082651",
+  "finalPath": "oatcakes-staffordshire.html",
+  "heading": "Oatcakes - Staffordshire",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOat Cakes\u003C/b\u003E",
+      "relatedPageUrl": "oat-cakes.html",
+      "relationDescription": "For other types of oat bread and biscuit, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oatcakes - Staffordshire",
+  "usedSnapshot": "20211027031623"
+}

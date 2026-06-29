@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150513065855",
+  "finalPath": "poor-man-s-cake.html",
+  "heading": "Poor Man\u0027s Cake",
+  "ingredients": [
+    "beat",
+    "currants",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "allspice",
+    "baking powder",
+    "butter",
+    "egg",
+    "raisins",
+    "vanilla"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "poor-man-s-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGloucester Citizen\u003C/i\u003E\u0027 - Monday 08 July 1912",
+      "receiptText": "\u003Cb\u003EPOOR MAN\u2019S CAKE.\u003C/b\u003E This recipe a good one used in several workhouses, says the \u201CHospital.\u201D Slightly warm 4 oz. dripping; beat into it 4 oz. of moist sugar until the mixture is very soft and creamy. Mix together 15 oz. of flour, one teaspoonful of salt, and \u00BD oz. of baking-powder. Add these to the dripping, etc. Add next 3 oz. of currants and about 2 gills of milk or milk and water. Beat well together and turn into well greased baking-tin. and bake moderate oven for about half hour. Product, 2 lb. Cut into slabs. Add spice if wished\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "poor-man-s-cake.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EStevenson Memorial Cook Book\u003C/i\u003E\u0027, 1919, Chicago, USA",
+      "receiptText": "\u003Cb\u003EPOOR MAN\u0027S CAKE\u003C/b\u003E\u003Cbr\u003E\nMrs. K. Larson\u003Cbr\u003E\n\u003Cbr\u003E\nOne tablespoon butter; one cup sugar; one teaspoonful soda; one teaspoonful baking powder; two cups flour; one cup raisins; two teaspoons vanilla; one teaspoonful allspice; one cup sour milk; one egg beaten.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Rahul Khubchandani"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Poor Man\u0027s Cake",
+  "usedSnapshot": "20211021010523"
+}

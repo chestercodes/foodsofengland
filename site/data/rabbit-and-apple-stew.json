@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922082135",
+  "finalPath": "rabbit-and-apple-stew.html",
+  "heading": "Rabbit and Apple Stew",
+  "ingredients": [
+    "apple",
+    "bacon",
+    "butter",
+    "carrots",
+    "flour",
+    "mushrooms",
+    "onions",
+    "pepper",
+    "rabbit",
+    "salt",
+    "thyme",
+    "tomato",
+    "veg stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rabbit-and-apple-stew.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Rabbit%20and%20Apple%20Stew\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4-6 joints of rabbit\u003Cbr\u003E\nSeasoned Flour\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\n2 medium onions, chopped\u003Cbr\u003E\n2 medium carrots, sliced\u003Cbr\u003E\n2 Medium apples, peeled, cored and thickly sliced\u003Cbr\u003E\n8oz mushrooms, sliced\u003Cbr\u003E\n8oz streaky bacon, cut into 1 inch pieces\u003Cbr\u003E\nPint veg stock\u003Cbr\u003E\n2 tsp tomato puree\u003Cbr\u003E\nPinch dried thyme\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nHeat half the butter in a large saucepan and cook carrots, onions and apples for 5 minutes, stirring well. Remove from the pan and set aside.\u003Cbr\u003E\nToss the rabbit in seasoned flour. Heat the remaining butter in the pan and brown the rabbit on both sides.\u003Cbr\u003E\nLower the heat, add the mushrooms and bacon and continue cooking for about 5 mins. Add the stock slowly and add the apple/veg mix, tomato puree and thyme, stirring all the time. season if required.\u003Cbr\u003E\nbring to the boil, cover, lower the heat and simmer for about and hour or until the rabbit is tender.\u003Cbr\u003E\nstir occasionally and add more stock or water if required.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Rabbit and Apple Stew",
+  "usedSnapshot": "20210518194641"
+}

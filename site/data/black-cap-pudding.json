@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150514221450",
+  "finalPath": "black-cap-pudding.html",
+  "heading": "Black-Cap Pudding",
+  "ingredients": [
+    "butter",
+    "currants",
+    "pudding",
+    "puddings",
+    "beat",
+    "eggs",
+    "flour",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "black-cap-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (;",
+      "receiptText": "\u003Cb\u003EBLACK-CAP PUDDING.\u003C/b\u003E\u003Cbr\u003E\nMake a good light thin batter, and just before it is poured into the cloth stir to it half a pound of currants, well cleaned and dried: these will sink to the lower part of the pudding and blacken the surface. Boil it the usual time, and dish it with the dark side uppermost; send very sweet sauce to table with it. Some cooks butter a mould thickly, strew in the currants, and pour the batter on them, which produces the same appearance as when the ingredients are tied in a cloth.\u003Cbr\u003E\n\u003Cbr\u003E\nAll batter puddings should be despatched quickly to table when they are once ready to serve, as they speedily become heavy if allowed to wait\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "black-cap-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitstable Times and Herne Bay Herald\u003C/i\u003E\u0027 - Saturday 21 December 1907",
+      "receiptText": "\u003Cb\u003EWHAT PUDDING IS IT TO-DAY?\u003C/b\u003E\u003Cbr\u003E\nBe ready at least three days a week with the answer; \u0022A pudding with lots of currants in it.\u0022\u003Cbr\u003E\nThe craving which little folks have for fruits and sweetmeats is a natural one, and should be gratified by supplying them with that most healthful and nourishing of all fruits-dried currants. Here is a recipe for a nice light pudding just right for the children:\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EBLACK-CAP PUDDING.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients Halt a pound of flour, two eggs, three-quarters of pint of milk, three ounces of currants, pinch of salt.\u003Cbr\u003E\nMethod -Sift the floor into basin, add the salt, beat up the eggs, and stir gradually into the flour, add the milk by degrees, and work into a batter. Butter large pudding basin. Sprinkle in the currants, and pour in the prepared batter. Cover the basin with buttered paper, and steam for an hour.\u003Cbr\u003E\n\u003Cbr\u003E\nYour Grocer will give you free on request a booklet entitled; \u0022Currants-A few Tasty Recipes, which is full of useful recipes suitable for the family dinner.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBlack-Cap Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Black-Cap Pudding",
+  "usedSnapshot": "20211201042932"
+}

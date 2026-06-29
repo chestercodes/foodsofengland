@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922084608",
+  "finalPath": "cabbage-and-pork.html",
+  "heading": "Cabbage and Pork",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "cabbage",
+    "cabbages",
+    "ham",
+    "herbs",
+    "onions",
+    "pepper",
+    "pork",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cabbage-and-pork.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E201. Cabbage and Pork.-\u003C/b\u003ECut two good Savoy cabbages in thin slices, wash them, put half in pan, then a piece of pork about two pounds, or either ham, bacon, or salt beef; season [as foregoing receipt], add the remainder of the cabbage; add, if you have it, four cloves, or pepper corns, foe. onions, and a bunch of sweet herbs: do not fill it with water to the brim, or it will boil over. Red cabbage may be used the same way, only adding half a pint of vinegar, and if beef, two ounces of dripping.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Cabbage and Pork",
+  "usedSnapshot": "20211205165135"
+}

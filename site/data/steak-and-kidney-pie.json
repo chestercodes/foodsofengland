@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212030629",
+  "finalPath": "steak-and-kidney-pie.html",
+  "heading": "Steak and Kidney Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Steak and Kidney Pie",
+  "usedSnapshot": "20220808012602"
+}

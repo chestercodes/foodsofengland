@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150918001453",
+  "finalPath": "sippets.html",
+  "heading": "Sippets",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "egg",
+    "flour",
+    "lard"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "sippets.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ESippets Of Bread To Garnish Hashes.\u003C/b\u003E\u003Cbr\u003E\n342. May be made by simply toasting slices of bread an inch in thickness; paring off the crusts, and cutting the slices into angular pieces. Or, by cutting the bread in the shape of common sippets, soaking them for three quarters of an hour with a spoonful of cream gently dropped upon each, and then frying them in butter of a light brown; after which they must be drained on a cloth by the fire, and served hot and dry. If as an ornamental garnish, they may be cut in shapes with a paste-cutter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sippets.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFRIED SIPPETS OF BREAD (for Garnishing many Dishes).\u003C/b\u003E\u003Cbr\u003E\n425. Cut the bread into thin slices, and stamp them out in whatever shape you like, - rings, crosses, diamonds, \u0026amp;c. \u0026amp;c. Fry them in the same manner as the bread crumbs, in clear boiling lard, or clarified dripping, and drain them until thoroughly crisp before the fire. When variety is desired, fry some of a pale colour, and others of a darker hue.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EFRIED BREAD FOR BORDERS.\u003C/b\u003E\u003Cbr\u003E\n426. Proceed as above, by frying some slices of bread cut in any fanciful shape. When quite crisp, dip one side of the sippet into the beaten white of an egg mixed with a little flour, and place it on the edge of the dish. Continue in this manner till the border is completed, arranging the sippets a pale and a dark one alternately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1596"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Sippets",
+  "usedSnapshot": "20210512105732"
+}

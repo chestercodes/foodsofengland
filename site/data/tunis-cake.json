@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20160519235442",
+  "finalPath": "tunis-cake.html",
+  "heading": "Tunis Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "dates",
+    "demerara sugar",
+    "eggs",
+    "flour",
+    "golden syrup",
+    "milk",
+    "nuts",
+    "prunes",
+    "sugar",
+    "walnuts",
+    "egg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tunis-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Wednesday 28 March 1934",
+      "receiptText": "[Part of a list of Easter Festival foods]\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETUNIS CAKE.\u003C/b\u003E\u003Cbr\u003E\nA quarter-pound of dates, figs, and prunes, half-a-pound of flour, three ounces Demerara sugar, three ounces of butter, one ounce of shelled walnuts, one level teaspoonful of mixed spice, two eggs, half-a-teaspoonful of bi-carbonate of soda, three ounces golden syrup, milk.\u003Cbr\u003E\n\u003Cbr\u003E\nStone and cut up the dates. Wash and drain the figs and prunes, and cut both into small pieces, rejecting the stalks and stones. Chop the walnuts, whisk up the eggs, add the warmed golden syrup, and whisk together. Beat the butter and sugar to a cream, then gradually stir in the flour with the spice and soda, adding the prepared fruit, nuts, eggs and golden syrup. Mix and beat well, adding milk as required. Turn into a greased cake tin, and hake in a moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tunis-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable shop goods for counter-tray and window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 106. Tunis Cakes.\u003C/b\u003E\u003Cbr\u003E\n1 \u00BD lbs. flour. \u00BD lb. sugar.\u003Cbr\u003E\n6 oz. butter. \u00BD oz. baking-powder (No. 2).\u003Cbr\u003E\n\u00BC oz. \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile.\u003C/b\u003E\u003C/a\u003E 2 eggs.\u003Cbr\u003E\nMilk.\u003Cbr\u003E\n\u003Cbr\u003E\nMode, - Sieve the baking-powder well with the flour; break the volatile down in a mortar with a little milk; cream up the butter and sugar, adding the volatile and eggs in the usual manner. Then mix in the flour with milk to a nice free cake-batter consistency; grease a clean flat tin, and lay the batter out in gieces weighing about 2 \u00BD ozs. each; wash them carefully over with egg, brush-ing them up to the centre, and bake in a warm oven. Sell at 1d. each.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Tunis Cake",
+  "usedSnapshot": "20211228133144"
+}

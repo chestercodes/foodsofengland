@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150922093801",
+  "finalPath": "clapbread-or-havercake.html",
+  "heading": "Clapbread or Havercake",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cheese",
+    "fat",
+    "flour",
+    "oatmeal",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "clapbread-or-havercake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELakeland Recipes Old and New\u003C/i\u003E\u0027 by Joan Poulson 1978. (Countryside Publications, ISBN 0 86157 008 1). Found by Linda Johnson",
+      "receiptText": "p38 No. 52\u003Cbr\u003E\n\u003Cb\u003EHavver Bread\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6oz fine or medium oatmeal\u003Cbr\u003E\nA pinch each of salt and bicarbonate of soda\u003Cbr\u003E\n2oz flour\u003Cbr\u003E\nBoiling water\u003Cbr\u003E\nOne tablespoon melted dripping or butter\u003Cbr\u003E\n\u003Cbr\u003E\nMix together the dry ingredients and add fat with enough boiling water to make a pliable dough. Knead well and roll out thinly. Cut into rounds or triangles and bake until brown and crisp, about 25 minutes at 350F, 180C or gas mark 4. Serve buttered with cheese or preserves.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBroughton or Brough-Wham\u003C/b\u003E",
+      "relatedPageUrl": "broughton-or-brough-wham.html",
+      "relationDescription": "See; "
+    }
+  ],
+  "synonym": "\u003Cb\u003EClapcake, Clap-Bread, Havver Bread\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Clapbread or Havercake",
+  "usedSnapshot": "20220819120458"
+}

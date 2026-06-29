@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922074601",
+  "finalPath": "porter.html",
+  "heading": "Porter",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPorter Cake\u003C/b\u003E",
+      "relatedPageUrl": "porter-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EStout\u003C/b\u003E",
+      "relatedPageUrl": "stout.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Porter",
+  "usedSnapshot": "20220808005258"
+}

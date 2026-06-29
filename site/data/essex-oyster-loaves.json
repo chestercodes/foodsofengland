@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616082144",
+  "finalPath": "essex-oyster-loaves.html",
+  "heading": "Essex Oyster Loaves",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Oyster Loaf",
+      "relatedPageUrl": "oyster-loaves.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Essex Oyster Loaves",
+  "usedSnapshot": "20211207121801"
+}

@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140212033536",
+  "finalPath": "mushroom-pudding.html",
+  "heading": "Mushroom Pudding",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "flour",
+    "milk",
+    "mushroom",
+    "mushrooms",
+    "onion",
+    "pastry",
+    "pepper",
+    "pudding",
+    "salt",
+    "tomatoes",
+    "bacon",
+    "self-raising flour",
+    "suet"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "mushroom-pudding.html-1",
+      "receiptSource": "Original Receipt from Surrey Mirror - Friday 19 November 1937",
+      "receiptText": "MUSHROOM PUDDING.\u003Cbr\u003E\nIngredients for small pudding: \u00BD lb, mushrooms. \u00BC lb S R. flour. 1 oz. breadcrumbs. 1 onion, and 2 tomatoes, 3 ozs. butter, and a little salt and pepper. Method; Mix flour and breadcrumbs, rub in 2 ozs. of butter, adding a dust of salt and enough water to moisten. Roll out and line a greased basin with the paste. Peel. wash, and cut up mushrooms place in the middle of basin with chopped onion and tomatoes, 1 oz. butter, little salt and pepper, and Pint oi water or milk. Put pastry lop to pudding, cover with grease paper and steam for houis. If you have no steamer, steam in ordinary saucepan partly filled with water\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mushroom-pudding.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Mushroom%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMushroom Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz self-raising flour\u003Cbr\u003E\n3 oz shredded suet\u003Cbr\u003E\nsalt, pepper\u003Cbr\u003E\n1 lb mushrooms\u003Cbr\u003E\nbutter\u003Cbr\u003E\n1 onion, sliced\u003Cbr\u003E\n3 rashers bacon\u003Cbr\u003E\n\u003Cbr\u003E\nMix the flour, suet and salt, bind with cold water into a stiff dough. Roll out and us to line a pudding basin, reserving a little as a lid. Pack with the uncooked mushrooms, butter, chopped bacon and onion, cut a lid to fit and seal on with water. Steam for 1\u00BD to 2 hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Mushroom Pudding",
+  "usedSnapshot": "20211129112121"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072118",
+  "finalPath": "hastlete.html",
+  "heading": "Hastlete",
+  "ingredients": [
+    "almonds",
+    "dates"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hastlete.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHASTLETES OF FRUYT\u003C/b\u003E\u003Cbr\u003E\nTake Fyges quarterid, Raysouns hole, dates and almonds whole, and ryne them on a spyt and roast them, and endore [?] them as pomme dorryes \u0026 serve them forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Hastlete",
+  "usedSnapshot": "20211205175204"
+}

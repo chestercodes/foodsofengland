@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20130211075156",
+  "finalPath": "mrs-comber-s-sauce.html",
+  "heading": "Mrs. Comber\u0027s Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Mrs. Comber\u0027s Sauce",
+  "usedSnapshot": "20211026213058"
+}

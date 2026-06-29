@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616084828",
+  "finalPath": "squid.html",
+  "heading": "Squid",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Squid",
+  "usedSnapshot": "20211201010118"
+}

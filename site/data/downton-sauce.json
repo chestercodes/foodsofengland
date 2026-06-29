@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922074752",
+  "finalPath": "downton-sauce.html",
+  "heading": "Downton Sauce",
+  "ingredients": [
+    "anchovy",
+    "sherry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "downton-sauce.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EBreakfasts, Luncheons, and Ball Suppers\u003C/i\u003E 1887.",
+      "receiptText": "\u003Cb\u003EDOWNTON SAUCE.\u003C/b\u003E\u003Cbr\u003E\nNo. 47,\u003Cbr\u003E\nTo three-quarters of a pint of good White Sauce add a dessert-spoonful of anchovy sauce, and a small wine-glassful of sherry; mix well and serve,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Downton Sauce",
+  "usedSnapshot": "20220819112554"
+}

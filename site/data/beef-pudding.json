@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212191832",
+  "finalPath": "beef-pudding.html",
+  "heading": "Beef Pudding",
+  "ingredients": [
+    "beef",
+    "fat",
+    "flour",
+    "gravy",
+    "kidney",
+    "mushroom",
+    "onions",
+    "oysters",
+    "pepper",
+    "plum",
+    "potatoes",
+    "pudding",
+    "puddings",
+    "salt",
+    "steak",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E234. Beef Pudding -\u003C/b\u003E Take about one pound of steak, cut it lengthways in three pieces, and then slantways at each inch, instead of in lumps; hut should you buy cuttings of meat from the butchers, then remove all the sinew and over fat, and cut the large pieces slantways, put them in a dish, and sprinkle over with a teaspoonful of salt, a half ditto of pepper, and a tea- spoonful of flour, the same of chopped onions; mix well together, make six or eight ounces of paste as No. 319, roll it to the thickness of a quarter of an inch, or a little more, put pudding-cloth in a basin, sprinkle some flour over it, lay in your paste, and then the meat, together with a few pieces of fat; when full put in three wineglasses of water; turn the paste over the meat, so as not to form a lump, but well closed; then tie the cloth, not too close on the paste, or it will not he light; boil it fast in four quarts of water for one hour; take it out, let it stand a few minutes to cool the cloth, cut the string, turn back the cloth, place a dish on the top, and turn it over on it, remove tho cloth, and serve.\u003Cbr\u003E\n\u003Cbr\u003E\n235 - If you choose to add a kidney it may add to the richness of the gravy, also a few oysters, or even a mushroom. The crust should always be cut with a knife.\u003Cbr\u003E\n\u003Cbr\u003E\nIf you carefully follow the above instructions yon will have a pudding quite perfect, the paste as light and as white as snow, and the meat tender, with a thick gravy.\u003Cbr\u003E\n\u003Cbr\u003E\n236.-Observation. You will perhaps be surprised that I recommend it to be boiled fast instead of simmering. I do so, because the meat, being enclosed in the paste, and sometimes in a basin, is alone subject to the action of simmering in its own gravy. These puddings lose a less amount of nourishment in cooking than any other kind. In a large pudding a few sliced potatoes is not bad. This may truly l:c considered as much n national dish as roast beef and plum pudding, and being so, it is surprising that it is so often made badly, and indigestible: the pieces of meat and fat often cut two inches square, instead of smaller pieces; the pudding, sometimes left half out of this water, the crust becomes hard and black, and the moat very dry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Beef Pudding",
+  "usedSnapshot": "20220808013203"
+}

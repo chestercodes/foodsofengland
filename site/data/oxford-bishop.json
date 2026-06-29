@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922072710",
+  "finalPath": "oxford-bishop.html",
+  "heading": "Oxford Bishop",
+  "ingredients": [
+    "allspice",
+    "cinnamon",
+    "ginger",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "port wine",
+    "seville orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxford-bishop.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EOXFORD RECEIPT FOR BISHOP.\u003C/b\u003E\u003Cbr\u003E\n\u0022Make several incisions in the rind of a lemon, stick cloves in these, and roast the lemon by a slow fire. Put small but equal quantities of cinnamon, cloves, mace, and allspice, with a race of ginger, into a saucepan with half a pint of water: let it boil until it is reduced one- half. Boil one bottle of port wine, burn a portion of the spirit out of it by applying a lighted paper to the saucepan; put the roasted lemon and spice into the wine; stir it up well, and let it stand near the fire ten minutes. Rub a few knobs of sugar on the rind of a lemon, put the sugar into a bowl or jug, with the juice of half a lemon (not roasted), pour the wine into it, grate in some nutmeg, sweeten it to the- taste, and serve it up with the lemon and spice floating in it.\u0022\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EObs\u003C/b\u003E.- Bishop is frequently made with a Seville orange stuck with cloves and slowly roasted, and its flavour to many tastes is infinitely finer than that of the lemon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Smoking Bishop",
+      "relatedPageUrl": "smoking-bishop.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Oxford Bishop",
+  "usedSnapshot": "20211021012715"
+}

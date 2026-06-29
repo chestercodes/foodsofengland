@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140212021329",
+  "finalPath": "green-almond-tart.html",
+  "heading": "Green Almond Tart",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-almond-tart.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGreen Almond Tarts.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE some almonds off the tree before they begin to shell; scrape off the down with a knife; have ready a pan with some cold spring water, and put them into it as fast as they are done. Then put them into a skillet, with more spring water, over a very slow fire, till it just simmers. Change the water twice, and let them be in the last till they begin to be tender. Then take them out, and put them on a clean cloth, with another over them, and press them to make them quite dry. Then make a syrup with double refined sugar, put them into it, and let them simmer a little. Do the same the next day, put them into a stone jar, and cover them very close, for, if the least air comes to them, they will turn black. The yellower they are before they are taken out of the water, the greener they will be after they are done. Put them into the sugar crust, put the lid down close, and let them be covered with syrup. Bake them in a moderate oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "woolley-1677"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    }
+  ],
+  "title": "Green Almond Tart",
+  "usedSnapshot": "20220527212555"
+}

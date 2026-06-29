@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922132855",
+  "finalPath": "anchovy-toast.html",
+  "heading": "Anchovy Toast",
+  "ingredients": [
+    "anchovies",
+    "anchovy",
+    "bread",
+    "butter",
+    "parsley",
+    "pickles",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "anchovy-toast.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ANCHOVY TOAST. Bone and skin six or eight anchovies, pound them to a mass with an ounce of fine butter till the colour is equal, and then spread it on toast or rusks. Or, cut thin slices of bread, and fry them in clarified butter. Wash three anchovies split, pound them in a mortar with a little fresh butter, rub them through a hair sieve, and spread on the toast when cold. Garnish with parsley or pickles.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Anchovy Toast",
+  "usedSnapshot": "20211201003019"
+}

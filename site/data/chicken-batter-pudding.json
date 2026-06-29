@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922083002",
+  "finalPath": "chicken-batter-pudding.html",
+  "heading": "Chicken Batter Pudding",
+  "ingredients": [
+    "bacon",
+    "biscuit",
+    "butter",
+    "chicken",
+    "milk",
+    "parsley",
+    "pepper",
+    "pudding",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chicken-batter-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E252. Chicken Pudding.-\u003C/b\u003E Cut one into eight pieces, half a pound of bacon, cut into slices; season with one teaspoonful of salt, half of pepper, two of chopped parsley, a little thyme, and one captain\u0027s biscuit, well broken; fill the pudding with the meat, add half a pint of milk, boil for one hour and a half; serve with \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EButter Sauce\u003C/b\u003E\u003C/a\u003E over, and chopped parsley on the top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Chicken Batter Pudding",
+  "usedSnapshot": "20211027044348"
+}

@@ -1,0 +1,92 @@
+﻿{
+  "earliestSnapshot": "20140212030818",
+  "finalPath": "curd-tart.html",
+  "heading": "Curd Tart",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "currants",
+    "egg",
+    "lemon",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "curd-tart.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EAberdeen Journal\u003C/i\u003E\u0027 - Friday 21 June 1929",
+      "receiptText": "\u003Cb\u003ECurd Tart.\u003C/b\u003E\u003Cbr\u003E\nA popular dish in Yorkshire is curd tart. To make this heat 2 quarts of sour milk very slowly (adding a little tartaric acid if the milk has only just turned and not solid. When the curd has caked, cool, then drain it through a hairsieve; or, preferably, hang it a fine napkin over the sink till morning.\u003Cbr\u003E\nBeat an egg and its weight in sugar to a white cream with 2 oz. of butter and 1/2 oz bicarbonate of soda. Add the curd (it will be about 1/2 lb) and a teaspoonful of lemon essence. Mix in 1/4 lb currants that have been rubbed clean in a hot, dry cloth, or washed and well dried.\u003Cbr\u003E\nLine a buttered tin with short crust 1/8 inch thick, before baking; fill it with this mixture, section it with the remains of the paste rolled into strips and twisted, and cook it in a fast oven for 20 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Charminster Curd Tart",
+      "relatedPageUrl": "charminster-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cheese Cake or Curd Tart",
+      "relatedPageUrl": "cheese-cake-or-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Curd Tart",
+      "relatedPageUrl": "curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sambocade",
+      "relatedPageUrl": "sambocade.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spiced Curd Tarts",
+      "relatedPageUrl": "spiced-curd-tarts.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Curd Tart or Cheesecake",
+      "relatedPageUrl": "yorkshire-curd-tart.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Curd Tart",
+  "usedSnapshot": "20220815155416"
+}

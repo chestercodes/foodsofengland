@@ -1,0 +1,33 @@
+﻿{
+  "earliestSnapshot": "20140616082343",
+  "finalPath": "scallops.html",
+  "heading": "Scallops",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EScalloped Potato\u003C/b\u003E",
+      "relatedPageUrl": "scalloped-potato.html",
+      "relationDescription": "For the potato dish, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EScalloped Crab\u003C/b\u003E",
+      "relatedPageUrl": "scalloped-crab.html",
+      "relationDescription": "For the crab dish see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Scallops",
+  "usedSnapshot": "20211207130213"
+}

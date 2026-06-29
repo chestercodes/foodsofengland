@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922073936",
+  "finalPath": "bacon-and-cabbage.html",
+  "heading": "Bacon and Cabbage",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "cabbages",
+    "carrots",
+    "parsnips",
+    "potatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-and-cabbage.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 89. Boiled Bacon and Cabbages.\u003C/b\u003E\u003Cbr\u003E\nPut a piece of bacon in a pot capable of containing two gallons; let it boil up, and skim it well; then put in some well-washed split cabbages, a few carrots and parsnips also split, and a few peppercorns; when the whole has boiled gently for about an hour and a-half, throw in a dozen peeled potatoes, and by the time that these are done, the dinner will be ready. And this is the way in which to make the most of this excellent and economical dinner. First, take up the bacon, and having placed it on its dish, garnish it round with the cabbages, carrots, parsnips, and potatoes, and then add some pieces of crust, or thin slices of bread, to the liquor in which the bacon-dinner has been cooked, and this will furnish you with a good wholesome soup with which to satisfy the first peremptory call of your healthy appetites.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Bacon and Cabbage",
+  "usedSnapshot": "20220527070955"
+}

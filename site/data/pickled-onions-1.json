@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922074149",
+  "finalPath": "pickled-onions-1.html",
+  "heading": "Pickled Onions (1)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "(1)",
+      "relatedPageUrl": "pickledonions(1).htm",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "(2)",
+      "relatedPageUrl": "pickledonions(2).htm",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "(3)",
+      "relatedPageUrl": "pickledonions(2).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pickled Onions (1)",
+  "usedSnapshot": "20211021023245"
+}

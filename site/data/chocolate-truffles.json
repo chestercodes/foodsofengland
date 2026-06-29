@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922071605",
+  "finalPath": "chocolate-truffles.html",
+  "heading": "Chocolate Truffles",
+  "ingredients": [
+    "butter",
+    "chocolate",
+    "cream",
+    "truffles",
+    "unsalted butter",
+    "whipping cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chocolate-truffles.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Chocolate%20Truffles\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECHOCOLATE TRUFFLES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz dark chocolate\u003Cbr\u003E\n9 oz whipping cream\u003Cbr\u003E\n2 oz unsalted butter, softened\u003Cbr\u003E\nChocolate sprinkles\u003Cbr\u003E\n\u003Cbr\u003E\nChop the chocolate to a fine crumb. Heat the cream, add the chocolate slowly and whisk gently to a smooth emulsion. Gradually add the butter until a thick paste is achieved. Chill for 25 minutes. Scoop out teaspoonfuls and shape into small balls with a second teaspoon. Roll in chocolate sprinkles to finish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chocolate Truffles",
+  "usedSnapshot": "20180924035354"
+}

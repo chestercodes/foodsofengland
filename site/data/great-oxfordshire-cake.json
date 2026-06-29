@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922080019",
+  "finalPath": "great-oxfordshire-cake.html",
+  "heading": "Great Oxfordshire Cake",
+  "ingredients": [
+    "ale",
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "raisins",
+    "rosewater",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "great-oxfordshire-cake.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a very Good Great Oxford-shire Cake.\u003C/b\u003E\u003Cbr\u003E\nTake a peck of flower by weight, and dry it a little, \u0026 a pound and a halfe of Sugar, one ounce of Cinamon, half an ounce of Nutmegs, a quarter of an ounce of Mace and Cloves, a good spoonfull of Salt, beat your Salt and Spice very fine, and searce it, and mix it with your flower and Sugar; then take three pound of butter and work it in the flower, it will take three hours working; then take a quart of Ale-yeast, two quarts of Cream, half a pint of Sack, six grains of Amber-greece dissolved in it, halfe a pint of Rosewater, sixteen Eggs, eight of the Whites, mix these with the flower, and knead them well together, then let it lie warm by your fire till your Oven be hot, which must be little hotter then for manchet; when you make it ready for your Oven, put to your Cake six pound of Currans, two pound of Raisins, of the Sun stoned and minced, so make up your Cake, and set it in your oven stopped close; it wil take three houres a baking; when baked, take it out and frost it over with the white of an Egge and Rosewater, well beat together, and strew fine Sugar upon it, and then set it again into the Oven, that it may Ice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Great Oxfordshire Cake",
+  "usedSnapshot": "20211019182420"
+}

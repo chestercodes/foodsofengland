@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922091514",
+  "finalPath": "peanut-brittle.html",
+  "heading": "Peanut Brittle",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Nut Brittle",
+      "relatedPageUrl": "nut-brittle.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Peanut Brittle",
+  "usedSnapshot": "20211205164007"
+}

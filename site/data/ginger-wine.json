@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922074334",
+  "finalPath": "ginger-wine.html",
+  "heading": "Ginger Wine",
+  "ingredients": [
+    "brandy",
+    "bread",
+    "eggs",
+    "ginger",
+    "lemons",
+    "milk",
+    "sugar",
+    "toast",
+    "yeast",
+    "lemon",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "ginger-wine.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EEnglish Housewifry\u003C/i\u003E By Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGinger Wine\u003C/b\u003E Take fourteen quarts of water three pounds of loaf sugar and one ounce of ginger sliced thin boil these together half an hour fine it with the whites of two eggs when new milk warm put in three lemons a quartos brandy and a white bread toast covered on both sides with yeast put all these together into a stand and work it one day then tun it It will be ready to bottle in five days and ready to drink in a week after it is bottled\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "ginger-wine.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGINGER WINE.\u003C/b\u003E\u003Cbr\u003E\n1819. INGREDIENTS: To 9 gallons of water allow 27 lbs. of loaf sugar, 9 lemons, 12 oz. of bruised ginger, 3 tablespoonfuls of yeast, 2 lbs. of raisins stoned and chopped, 1 pint of brandy.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Boil together for 1 hour in a copper (let it previously be well scoured and beautifully clean) the water, sugar, lemon-rinds, and bruised ginger; remove every particle of scum as it rises, and when the liquor is sufficiently boiled, put it into a large tub or pan, as it must not remain in the copper. When nearly cold, add the yeast, which must be thick and very fresh, and, the next day, put all in a dry cask with the strained lemon-juice and chopped raisins. Stir the wine every day for a fortnight; then add the brandy, stop the cask down by degrees, and in a few weeks it will be fit to bottle.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 2s. per gallon.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: to make 9 gallons of wine.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: The best time for making this wine is either in March or September.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: Wine made early in March will be fit to bottle in June.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Made-Wine",
+      "relatedPageUrl": "made-wine.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Ginger Wine",
+  "usedSnapshot": "20211021014716"
+}

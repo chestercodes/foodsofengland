@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922074548",
+  "finalPath": "gem-bread.html",
+  "heading": "Gem bread",
+  "ingredients": [
+    "beat",
+    "bread",
+    "cream",
+    "eggs"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gem-bread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Healthy Life Cook Book\u003C/i\u003E\u0027 by Florence Daniel (\u003Ca href=\u0022references.html#daniel-1915\u0022\u003E\u003Cb\u003EDaniel 1915\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E3. GEM BREAD.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPut into a basin a pint of cold water, and beat it for a few minutes in order to aerate it as much as possible. Stir gently, but quickly, into this as much fine wholemeal as will make a batter the consistency of thick cream. It should just drop off the spoon. Drop this batter into very hot greased gem pans. Bake for half an hour in a hot oven. When done, stand on end to cool. They may appear to be a little hard on first taking out of the oven, but when cool they should be soft, light and spongy. When properly made, the uninitiated generally refuse to believe that they do not contain eggs or baking-powder.\u003Cbr\u003E\n\u003Cbr\u003E\nThere are proper gem pans, made of cast iron (from 1s.) for baking this bread, and the best results are obtained by using them. But with a favourable oven I have got pretty good results from the ordinary baking-tins with depressions, the kind used for baking small cakes. But these are a thinner make and apt to produce a tough crust.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "daniel-1915"
+    }
+  ],
+  "title": "Gem bread",
+  "usedSnapshot": "20170313223124"
+}

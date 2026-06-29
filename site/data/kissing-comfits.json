@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922084531",
+  "finalPath": "kissing-comfits.html",
+  "heading": "Kissing Comfits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    }
+  ],
+  "title": "Kissing Comfits",
+  "usedSnapshot": "20220527213700"
+}

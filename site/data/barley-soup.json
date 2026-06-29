@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922090056",
+  "finalPath": "barley-soup.html",
+  "heading": "Barley Soup",
+  "ingredients": [
+    "barley",
+    "beef",
+    "onions",
+    "parsley",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barley-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBARLEY SOUP.\u003C/b\u003E\u003Cbr\u003E\n116. INGREDIENTS: 2 lbs. of shin of beef, \u00BC lb. of pearl barley, a large bunch of parsley, 4 onions, 6 potatoes, salt and pepper, 4 quarts of water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put in all the ingredients, and simmer gently for 3 hours.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 3 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 2-\u00BDd. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: all the year, but more suitable for winter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Barley Soup",
+  "usedSnapshot": "20220527210011"
+}

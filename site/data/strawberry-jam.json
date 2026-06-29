@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922071836",
+  "finalPath": "strawberry-jam.html",
+  "heading": "Strawberry Jam",
+  "ingredients": [
+    "beat",
+    "jam",
+    "strawberries",
+    "strawberry",
+    "strawberry jam",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "strawberry-jam.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Red Strawberry Jam\u003C/b\u003E\u003Cbr\u003E\nGATHER the scarlet strawberries very ripe bruise them very fine and put to them a little juice of strawberries, beat and sift their weight in sugar strew it among them, and put them in the preserving pan, set them over a clear slow fire fleim them and boil them twenty minutes, then put them in pots or glasses for use\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Strawberry Jam",
+  "usedSnapshot": "20170313210205"
+}

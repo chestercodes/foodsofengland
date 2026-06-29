@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20210512101622",
+  "finalPath": "homity-pie.html",
+  "heading": "Homity Pie",
+  "ingredients": [
+    "black pepper",
+    "breadcrumbs",
+    "butter",
+    "cheddar",
+    "cheese",
+    "cream",
+    "double cream",
+    "egg",
+    "flour",
+    "garlic",
+    "nutmeg",
+    "onions",
+    "parsley",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "potatoes",
+    "salt",
+    "spinach",
+    "sunflower oil",
+    "wholemeal flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "homity-pie.html-1",
+      "receiptSource": "Receipt from \u003Ca href=\u0022https://www.bbc.co.uk/food/recipes/deep-filled_homity_pie_48616\u0022\u003E\u003Cb\u003EBBC Good Food\u003C/b\u003E\u003C/a\u003E - Hairy Bikers\u0027 Best of British, Vegetarian",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n\u003Cb\u003EFor the pastry\u003C/b\u003E\u003Cbr\u003E\n125g/4oz plain flour, plus extra for rolling\u003Cbr\u003E\n125g/4oz wholemeal flour\u003Cbr\u003E\n150g/5oz butter\u003Cbr\u003E\n1 free-range egg, beaten\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EFor the filling\u003C/b\u003E\u003Cbr\u003E\n850g/1lb 14oz floury potatoes, such as Maris Piper or King Edward, peeled and cut into quarters\u003Cbr\u003E\n25g/1oz butter\u003Cbr\u003E\n1 tbsp sunflower oil\u003Cbr\u003E\n3 onions, halved and sliced\u003Cbr\u003E\n2 garlic cloves, crushed\u003Cbr\u003E\n100g/3\u00BDoz baby spinach leaves\u003Cbr\u003E\n175g/6oz mature cheddar cheese, coarsely grated\u003Cbr\u003E\n2 tbsp chopped fresh parsley leaves\u003Cbr\u003E\n250ml/9fl oz double cream\u003Cbr\u003E\npinch freshly grated nutmeg\u003Cbr\u003E\nflaked sea salt and freshly ground black pepper\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPut the flour and butter in a food processor and blend until the mixture resembles fine breadcrumbs. Add the egg and pulse until the mixture just comes together as a dough. Bring the dough together and flatten into a round.\u003Cbr\u003E\nPut the pastry in the centre of a 20cm/8in springform cake tin and carefully ease it over the base and up the sides of the tin.\u003Cbr\u003E\nCook the potatoes in boiling water for 15 minutes, or until just tender. Drain in a colander, tip back into the saucepan and cut into 3cm/1\u00BCin pieces with a round-bladed knife.\u003Cbr\u003E\nMelt the butter and oil in a frying pan and fry the onions gently for 15 minutes, or until soft and pale golden-brown. Add the garlic and cook for two further minutes, stirring regularly.\u003Cbr\u003E\nPreheat the oven to 200C/180C (fan)/Gas 6.\u003Cbr\u003E\nAdd the onions and garlic to the potatoes and sprinkle with 100g/3\u00BDoz of the cheese and the parsley. Add the spinach leaves and season with nutmeg, salt and freshly ground black pepper. Mix all the ingredients together until well combined.\u003Cbr\u003E\nSpoon the filling mixture into the pastry case. Pour over the cream and allow it to drizzle down between the layers. Sprinkle the remaining cheese on top. Place the tin on a baking tray and bake in the oven for 40-45 minutes, or until the pastry is crisp and pale golden-brown.\u003Cbr\u003E\nLeave the pie to cool in the tin for 10 minutes. Remove the pie from the tin and place it on a serving plate. Cut into thick wedges with a sharp knife.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Homity Pie",
+  "usedSnapshot": "20210512101622"
+}

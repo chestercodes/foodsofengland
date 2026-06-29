@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616085603",
+  "finalPath": "oyster-chewitts.html",
+  "heading": "Oyster Chewitts",
+  "ingredients": [
+    "butter",
+    "dates",
+    "ginger",
+    "pepper",
+    "prunes",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oyster-chewitts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Oyster Chewets.\u003C/b\u003E\u003Cbr\u003E\nTAKE a peck of Oisters, \u0026 wash them clean. Then shel them, and wash them in a colender faire and clean, then seeth them in faire water a litle, and when they bee sodden, strain the water from them, and cut them smal as pie meat, season them with a little pepper, a peniworth of Cloues and Mace, a peniworth of Sinamon and Ginger, a peniworth of Sugar, a litle Saffron and salt: then take a handfull of Corrans, sixe Dates minced small, and mingle them altogether. Then make your paste with a quantitie of fine flower, ten yolkes of Egges, a quantitie of Butter, with a litle Saffron and boyled water, then raise vp your Chewets, and put in the bottom of your Chewets a litle Butter, and cast vpon them Prunes, Dates, and Corrans, so close them and bake them: let not your Ouen be too hot, for they would haue but litle baking. Then drawe them, and put in euerie of them two spoonfuls of \u003Ca href=\u0022verjuice.html\u0022\u003E\u003Cb\u003EUergious\u003C/b\u003E\u003C/a\u003E and butter, and so serue them in, etc.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Oyster Chewitts",
+  "usedSnapshot": "20211201030547"
+}

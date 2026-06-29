@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922081041",
+  "finalPath": "peacock.html",
+  "heading": "Peacock",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "peacock.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPecok rosted.\u003C/b\u003E Take a Pecok, breke his necke, and cut his throte, And fle him, the skyn and the ffethurs together, and the hede sti to the skyn of the nekke, And kepe the skyn and the ffethurs hole togiders; drawe him as an hen, And kepe the bone to the necke hole, and roste him, And set the bone of the necke aboue the broche, as he was wonte to sitte a-lyve, And abowe the legges to the body, as he was wonte to sitte a-lyve; And whan he is rosted ynowe, take him of, And let him kele; And then wynde the skyn wit the fethurs and the taile abought the body, And serve him forthe as he were a-live; or elle pu him dry, And roste him, and serve him as thou doest a henne.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Peacock",
+  "usedSnapshot": "20211205164640"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922071930",
+  "finalPath": "anchovy-sauce.html",
+  "heading": "Anchovy Sauce",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "flour",
+    "gravy",
+    "lemon",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "anchovy-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make anchovy-sauce.\u003C/b\u003E\u003Cbr\u003E\nTAKE a pint of gravy, put in an anchovy, take a quarter of a pound of butter rolled in a little flour, and stir all together till it boils. You may add a little juice of a lemon, catchup, red wine, and walnut-liquor, just as you please.\u003Cbr\u003E\nPlain butter melted thick, with a spoonful of walnut-pickle, or catchup, is good sauce for anchovy; in short you may put as many things as you fancy into sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Anchovy Sauce",
+  "usedSnapshot": "20170314085152"
+}

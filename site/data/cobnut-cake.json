@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20150922073134",
+  "finalPath": "cobnut-cake.html",
+  "heading": "Cobnut Cake",
+  "ingredients": [
+    "breadcrumbs",
+    "brown sugar",
+    "butter",
+    "egg",
+    "flour",
+    "ginger",
+    "self-raising flour",
+    "sugar",
+    "baking powder",
+    "beat",
+    "chocolate",
+    "cream",
+    "eggs",
+    "nuts",
+    "lemon",
+    "salt"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "cobnut-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cobnut%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "225g self-raising flour\u003Cbr\u003E\n1 rounded teaspoon of ginger\u003Cbr\u003E\n110g butter (at room temperature)\u003Cbr\u003E\n110g brown sugar\u003Cbr\u003E\n50g Kentish cobnuts, roasted and chopped\u003Cbr\u003E\n1 large egg, beaten\u003Cbr\u003E\n\u003Cbr\u003E\n1. Preheat oven to 180C/350F/Gas 4.\u003Cbr\u003E\n2. Grease a baking tin of approx. 9\u0022 by 4\u0022. I used a loaf tin instead as my shallow (square) tin was too large.\u003Cbr\u003E\n3. Sift flour into a bowl with the ginger.\u003Cbr\u003E\n4. Rub in the butter until the mixture resembles breadcrumbs.\u003Cbr\u003E\n5. Add the sugar and the nut and mix well.\u003Cbr\u003E\n6. Stir in the beaten egg. The mixture will remain fairly dry and crumbly.\u003Cbr\u003E\n7. Put the mixture into the prepared tin and pat down gently with a fork.\u003Cbr\u003E\n8. Bake for 20 - 30 minutes. I took mine out after 20, but after cutting a slice I put it back in the oven for another 15 mintures. This was because the centre of the cake was very moist looking; however, after further cooking it still looked exactly the same so I concluded that this was how it was supposed to be.\u003Cbr\u003E\n9. If using a shallow cake tin, cut the cake into squares.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cobnut-cake.html-2",
+      "receiptSource": "Original Receipt from Western Chronicle - Friday 02 September 1904",
+      "receiptText": "Filbert cake is delicious. Take six eggs, six tablespoon Is of sugar, six tablespoonfuls of chopped filberts, two tablespoonfuls of flour, one tablespoonful of baking powder. Beat the whites, add the sugar, the beaten yolks, nuts, and flour and baking powder sifted together. Bake in two layers. Between layers and top of cake put this filling: Whip one cup of cream, add two tablespoonfuls of sugar, four tablespoonfuls of grated chocolate, four tablespoonfuls chopped filberts.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cobnut-cake.html-3",
+      "receiptSource": "Original Receipt from Sevenoaks Chronicle and Kentish Advertiser - Friday 20 April 1888",
+      "receiptText": "Filbert or Hazelnut Cake.- Ten eggs; ounces of flour; one pound of powdered sugar; half pound of filberts or hazelnuts; half lemon; a pinch of salt. Beat the yolks of the eggs with the grated rind and juice of half a lemon. Sift in the sugar, and stir till creamy; then add the flour gradually; then the whites of the eggs, beaten till they will not slip from the dish. Stir very lightly till blended. Only then add the hazelnuts, which must have been put into the oven to get just hot (be sure they do not scorch), then rubbed between a coarse cloth to remove as much possible of the skin, and then chopped very fine. Let them be warm when added to the cake mixture; then pour as soon as possible into a pan lined with buttered paper. Sift the sugar and chopped nuts over the top, and bake in moderate oven one hour. Keep a card or doubled paper over the pan the greater part of the time. Catherine Owen, in Good Housekeeping\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EFilbert Cake, Hazelnut Cake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Cobnut Cake",
+  "usedSnapshot": "20211021030533"
+}

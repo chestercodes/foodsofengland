@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074540",
+  "finalPath": "codlins.html",
+  "heading": "Codlins",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ECodling\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Codlins",
+  "usedSnapshot": "20170314024707"
+}

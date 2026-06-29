@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922084052",
+  "finalPath": "banana-custard.html",
+  "heading": "Banana Custard",
+  "ingredients": [
+    "almond",
+    "apricot",
+    "bananas",
+    "cream",
+    "custard",
+    "jam",
+    "beat",
+    "butter",
+    "castor sugar",
+    "eggs",
+    "milk",
+    "pudding",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "banana-custard.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EReform Cookery Book\u003C/i\u003E\u0027 (4th edition) by Mrs. Mill (\u003Ca href=\u0022references.html#mill-1909\u0022\u003E\u003Cb\u003EMill 1909\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBanana Custard.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFive or six bananas. Jam. Custard.\u003Cbr\u003E\nPeel the bananas, which must be sound and ripe; split lengthways. Spread each half with jam--apricot is very good; put halves together. Lay in glass dish and pour \u003Ca href=\u0022almond-custard.html\u0022\u003E\u003Cb\u003Ealmond custard\u003C/b\u003E\u003C/a\u003E, or cocoanut cream custard, over.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "banana-custard.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ELloyd\u0027s Weekly Newspaper\u003C/i\u003E\u0027 - Sunday 17 May 1896",
+      "receiptText": "Banana custard is an Oriental sweet dish of great delicacy. It is easy to make and inexpensive just now, as bananas are cheap. Mash to a pulp with a plated fork three nice ripe bananas. Beat to a froth three eggs, add the bananas, a pint of milk, some castor sugar, a few drops of Vanilla essence. Butter a fancy china mould or pudding basin, pour the custard in and steam. It is good eaten either hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    }
+  ],
+  "title": "Banana Custard",
+  "usedSnapshot": "20220713132751"
+}

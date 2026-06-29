@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140616082229",
+  "finalPath": "kippers.html",
+  "heading": "Kippers",
+  "ingredients": [
+    "brown sugar",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kippers.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Whole Art of Curing\u003C/i\u003E\u0027 by James Robinson (\u003Ca href=\u0022references.html#robinson-1847\u0022\u003E\u003Cb\u003ERobinson 1847\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EKIPPERED HADDOCKS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIn the absence of Finnon Haddies, you may take some fresh ones and split them open at the belly, cleaning them well with salt and water, and taking off\u0022 the heads. Then lay them completely open leaving the back bone in sight, and put them into the following pickle: -\u003Cbr\u003E\n\u003Cbr\u003E\nSoft water - - - - 1 gallon.\u003Cbr\u003E\nBrown sugar - - - - i lb.\u003Cbr\u003E\nSaltpetre - - - - 1 oz.\u003Cbr\u003E\nCommon salt - - - - 1 lb.\u003Cbr\u003E\nBay salt - - - - - 1 lb.\u003Cbr\u003E\n\u003Cbr\u003E\nIf the fish are large, let them remain in pickle six hours, then take them out, and let them drip from the frames for three hours, then put them into the chimney, and smoke them well for twelve or fourteen hours longer. If you have any dried fern at hand, it may be buried in the sawdust when you add to the fire, but do not allow it to blaze away, or it will be of no effect.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBloater\u003C/b\u003E",
+      "relatedPageUrl": "bloaters.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ERed Herring\u003C/b\u003E",
+      "relatedPageUrl": "red-herring.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Kippers"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robinson-1847"
+    }
+  ],
+  "title": "Kippers",
+  "usedSnapshot": "20211018072654"
+}

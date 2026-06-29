@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212014952",
+  "finalPath": "egg-pye.html",
+  "heading": "Egg-Pye",
+  "ingredients": [
+    "apple",
+    "beef",
+    "dates",
+    "egg",
+    "eggs",
+    "rosewater",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-pye.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E110. To make Egg-Pies\u003C/b\u003E. Take the yolks of eight hard Eggs, and shred them small with their weight of Beef Suet minced very small also, then put in one pound of Currans, four Ounces of Dates stoned and sliced, some beaten Spice, Limon pill, Rosewater and Sugar, and a little Salt, mix them well together, if you please, you may put in an Apple shred small, so fill your Pies and bake them, but not too much, serve them to the Table with a little Wine.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Egg-Pye",
+  "usedSnapshot": "20211201030102"
+}

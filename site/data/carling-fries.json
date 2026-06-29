@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922082625",
+  "finalPath": "carling-fries.html",
+  "heading": "Carling Fries",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carlin Peas",
+      "relatedPageUrl": "carlin-peas-or-brown-badgers.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ECarlin Fries, Carlin Fry\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Carling Fries",
+  "usedSnapshot": "20211027044800"
+}

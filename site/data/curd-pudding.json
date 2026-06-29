@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922100455",
+  "finalPath": "curd-pudding.html",
+  "heading": "Curd Pudding",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "eggs",
+    "lemon",
+    "milk",
+    "mustard",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "curd-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E193. To make a CURD PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake three quarts of new milk, put to it a little erning, as much as will break it when it is scumm\u0027d break it down with your hand, and when it is drained grind it with a mustard ball in a bowl, or beat it in a marble-mortar; then take half a pound of butter and six eggs, leaving out three of the whites; beat the eggs well, and put them into the curds and butter, grate in half a nutmeg, a little lemon-peel shred fine, and salt, sweeten it to your taste, beat them all together, and bake them in little petty-pans with fast bottoms; a quarter of an hour will bake them; you must butter the tins very well before you put them in; when you dish them up you must lay them the wrong side upwards on the dish, and stick them with either blanch\u0027d almonds, candid orange, or citron cut in long bits, and grate a little loaf sugar over them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Curd Pudding",
+  "usedSnapshot": "20220527070653"
+}

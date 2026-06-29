@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150822224127",
+  "finalPath": "pickled-goose.html",
+  "heading": "Pickled Goose",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "butter",
+    "fat",
+    "ginger",
+    "goose",
+    "lard",
+    "pepper",
+    "salt",
+    "vinegar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-goose.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO PICKLE AN OLD FAT GOOSE\u003C/b\u003E\u003Cbr\u003E\nCut it down the back, and take out all the bones; Lard it very well with green Bacon, and season it well with three quarters of an Ounce of Pepper; half an Ounce of Ginger; a quarter of an Ounce of Cloves, and Salt as you judge proportionable; a pint of white wine and some Butter. Put three or four Bay-leaves under the meat, and bake it with Brown-bread in an earthen pot close covered, and the edges of the cover closed with Paste. Let it stand three or four days in the pickle; then eat it cold with Vinegar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Pickled Goose",
+  "usedSnapshot": "20210512121921"
+}

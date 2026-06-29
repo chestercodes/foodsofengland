@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20191127000308",
+  "finalPath": "congress-tarts.html",
+  "heading": "Congress Tarts",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "castor sugar",
+    "cornflour",
+    "cream",
+    "egg",
+    "egg whites",
+    "icing sugar",
+    "jam",
+    "pastry",
+    "sugar",
+    "tartar",
+    "eggs"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "congress-tarts.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHull Daily Mail\u003C/i\u003E\u0027 - Wednesday 12 July 1922",
+      "receiptText": "\u003Cb\u003EFor Congress Tarts.\u003C/b\u003E- Line some patty pans with thin good short pastry and put in pot of jam. Mix together 1 \u00BD lb. icing sugar, crushed and sieved. \u00BD lb. castor sugar, \u00BD lb. ground almonds. 2oz. cornflour and a pinch of cream of tartar. Work fairly soft paste with egg whites, and beat well. It be just soft enough to run flat when filled into the cases. Put cross of pastry over tho top, sprinkle with sugar, and bake in a moderate oven, taking care that the under crust bakes nicely. S.B.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "congress-tarts.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "184.- \u003Cb\u003ECongress Curd.\u003C/b\u003E\u003Cbr\u003E\n1 lb. of castor sugar, \u00BD lb. of ground almonds, the whites of 6 eggs. Mix well together.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Congress Tarts",
+  "usedSnapshot": "20200126100259"
+}

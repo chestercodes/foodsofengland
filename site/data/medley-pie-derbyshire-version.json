@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140212191918",
+  "finalPath": "medley-pie-derbyshire-version.html",
+  "heading": "Medley Pie (Derbyshire Version)",
+  "ingredients": [
+    "apple",
+    "bacon",
+    "egg",
+    "egg yolk",
+    "flour",
+    "ginger",
+    "onion",
+    "onions",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "medley-pie-derbyshire-version.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Medley%20Pie%20(Derbyshire%20Version)\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "10 oz plain flour\u003Cbr\u003E\n5 oz dripping\u003Cbr\u003E\npinch of ginger or cloves\u003Cbr\u003E\n8 oz back bacon\u003Cbr\u003E\n1 large cooking apple\u003Cbr\u003E\n3 medium onions, sliced\u003Cbr\u003E\n1 teaspoon sage\u003Cbr\u003E\negg yolk for glaze\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nMake the pastry with the flour and salt by rubbing in the dripping and mixing to a dough with cold water, roll out \u00BC in thick and line a deep pie dish with two-thirds of the pastry.\u003Cbr\u003E\nPeel, core and slice the apples, and cut the rind from the bacon. Arrange the bacon, apple and onion in layers in that order. Sprinkle each layer with sage and seasoning. Add 150 ml (1/4 pint water or stock. Add the cover and seal well. Cut slits in the top and decorate. Glaze with beaten egg.\u003Cbr\u003E\n\u003Cbr\u003E\nBake in the centre of a preheated oven at 180C, 350F, Gas 4 for 40 minutes, then reduce to 150C, 300F, Gas 2 for a further 40 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nIf the pie begins to brown, cover with foil or greaseproof paper to prevent burning.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Medley Pies",
+      "relatedPageUrl": "medley-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Medley Pie (Derbyshire Version)",
+  "usedSnapshot": "20220516225332"
+}

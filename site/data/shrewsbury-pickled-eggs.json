@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20130323042837",
+  "finalPath": "shrewsbury-pickled-eggs.html",
+  "heading": "Shrewsbury Pickled Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pickled Eggs",
+      "relatedPageUrl": "pickled-eggs.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Shrewsbury Pickled Eggs",
+  "usedSnapshot": "20211021024938"
+}

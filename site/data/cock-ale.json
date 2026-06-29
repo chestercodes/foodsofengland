@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922083817",
+  "finalPath": "cock-ale.html",
+  "heading": "Cock-Ale",
+  "ingredients": [
+    "ale",
+    "beat",
+    "dates",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cock-ale.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Cock-Ale:\u003C/b\u003E Take eight gallons of Ale, take a Cock and boil him well; then take four pounds of Raisins of the Sun well stoned, two or three Nutmegs, three or four flakes of Mace, half a pound of Dates; beat these all in a Mortar, and put to them two quarts of the best Sack: and when the Ale hath done working, put these in, and stop it close six or seven days, and then bottle it, and a month after you may drink it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cock-ale.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Housewife: Or, Accomplished Gentlewoman\u0027s Companion\u003C/i\u003E\u0027, by E Smith, 1766",
+      "receiptText": "\u003Cb\u003ETo make Cock Ale\u003C/b\u003E\u003Cbr\u003E\nTake ten gallons of ale and a large cock the older the better. Parboil the cock slay him and stamp him in a stone mortar till his bones are broken, you must craw and gut him when you slay him then put the cock into two quarts of sack, and put to it three pounds of raisins of the sun, stoned, some blades of mace and a few cloves, put all these into a canvas bag and a little before you find the ale has done working put the ale and bag together into a vessel in a week or nine days time bottle it up, fill the bottle but just above the neck and give it the same time to ripen as other ale.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Cock-Ale",
+  "usedSnapshot": "20220706172721"
+}

@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140212021359",
+  "finalPath": "richard-bradley-s-pineapple-tart.html",
+  "heading": "Richard Bradley\u0027s Pineapple Tart",
+  "ingredients": [
+    "apple",
+    "cream",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "richard-bradley-s-pineapple-tart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Tart of the Ananas, or Pine-Apple. From Barbadoes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a Pine-Apple, and twist off its Crown: then pare it free from the Knots, and cut it in Slices about half an Inch thick; then stew it with a little Canary Wine, or Madera Wine, and some Sugar, till it is thoroughly hot, and it will distribute its Flavour to the Wine much better than any thing we can add to it. When it is as one would have it, take it from the Fire; and when it is cool, put it into a sweet Paste, with its Liquor, and bake it gently, a little while, and when it comes from the Oven, pour Cream over it, (if you have it) and serve it either hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Richard Bradley\u0027s Pineapple Tart",
+  "usedSnapshot": "20211019174247"
+}

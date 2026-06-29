@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922091954",
+  "finalPath": "apple-jelly.html",
+  "heading": "Apple Jelly",
+  "ingredients": [
+    "apple",
+    "jelly",
+    "cayenne",
+    "lemon",
+    "lemons",
+    "pepper",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "apple-jelly.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EMrs. Mary Eales\u0027s receipts\u003C/i\u003E\u0027 by Mary Eales (\u003Ca href=\u0022references.html#eales-1718\u0022\u003E\u003Cb\u003EEales 1718\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make APPLE-JELLY for all Sorts of SWEET-MEATS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nLet your Water boil in the Pan you make it in; and when the Apples are par\u0027d and quarter\u0027d, put them into the boiling Water; let there be no more Water than just to cover them, and let it boil as fast as possible; when the Apples are all to Pieces, put in about a Quart of Water more; let it boil at least half an Hour; and then run it thro\u0027 a Jelly-bag: In the Summer, Codlings are best; in September, Golden Runnets and Winter Pippins.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "apple-jelly.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "627. APPLE JELLY (Essex)\u003Cbr\u003E\n\u003Cbr\u003E\nTo every three pounds of apples add about a quart of cold water. Simmer gently till tender and just on the point of mashing. Strain, without squeezing, through a jelly bag or hair sieve. Measure the juice which comes through, and boil it for fifteen minutes alone, then add a pound of preserving sugar to every pint, and boU sugar and juice together for twenty-five minutes. (The sugar should be made hot in the oven before using.) Pour into jars or jelly glasses, and cover over when cold,\u003Cbr\u003E\n\u003Cbr\u003E\n628. APPLE JELLY (Ireland) (For dessert use, not for keeping)\u003Cbr\u003E\n\u003Cbr\u003E\nTake the amount you wish of \u003Ca href=\u0022codlins.html\u0022\u003E\u003Cb\u003Ecodlings\u003C/b\u003E\u003C/a\u003E, or other good English cooking apples; pare, core, and cut them into thin slices into a deep earthenware pan, with as much water as will just cover them. When soft, strain them through a jeUy-bag. To every pound of liquor, add one pound of crushed or (better) powdered sugar. Boil it very fsist for ten minutes. Put some thinly sliced lemon peel in your moulds, and pour in the jelly. Do not boil much at a time.\u003Cbr\u003E\n\u003Cbr\u003E\n629. APPLE JELLY (Kent)\u003Cbr\u003E\n\u003Cbr\u003E\nThree pounds of white sugar, four pounds of apples (peeled and cored), a teaspoonful of cayenne pepper, two lemons, rind and juice.\u003Cbr\u003E\n\u003Cbr\u003E\n630. APPLE JELLY (Lancashire)\u003Cbr\u003E\n\u003Cbr\u003E\nPare, core, and quarter the fruit, and weigh it quickly that it may not lose its colour. To each pound pour a pint of cold water, and boil it until it is well broken without being reduced to a white thick pulp, as it would then be difficult to render the juice perfectly clear, which it ought to be. Drain the juice well from the apples, either through a fine sieve, or a folded muslin strainer, and pass it afterwards through a jelly-bag, or turn the fruit at once into the last of these, and pour the liquid through a second time if needed. When it appears quite transparent, weigh, and reduce it by quick boiling for twenty minutes. Add two pounds of sugar for three of juice, then boil it for ten minutes. Put in the strained juice of a small lemon for every two pounds of jelly, a couple of minutes before it is taken from the fire.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eales-1718"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Apple Jelly",
+  "usedSnapshot": "20220322023739"
+}

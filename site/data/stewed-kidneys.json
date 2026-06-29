@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922085913",
+  "finalPath": "stewed-kidneys.html",
+  "heading": "Stewed Kidneys",
+  "ingredients": [
+    "butter",
+    "flour",
+    "gravy",
+    "herbs",
+    "kidneys",
+    "sheep"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stewed-kidneys.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Stewed%20Kidneys\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EStewed Kidneys\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCooking time 60 minutes.\u003Cbr\u003E\n3 sheep\u2019s kidneys\u003Cbr\u003E\n1 ounce of butter\u003Cbr\u003E\n1 ounce of flour\u003Cbr\u003E\nHalf a pint of water\u003Cbr\u003E\n1 teaspoonful of herbs\u003Cbr\u003E\nSeasoning\u003Cbr\u003E\n\u003Cbr\u003E\nSkin and cut in half the kidneys, fry in butter until brown then stir in the flour. Pour in the water, herbs and seasoning, then stew slowly until cooked, serve in a hot dish with gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stewed Kidneys",
+  "usedSnapshot": "20210518201319"
+}

@@ -1,0 +1,86 @@
+﻿{
+  "earliestSnapshot": "20140212020803",
+  "finalPath": "yorkshire-christmas-pie.html",
+  "heading": "Yorkshire Christmas Pie",
+  "ingredients": [
+    "butter",
+    "egg",
+    "goose",
+    "jelly",
+    "pastry",
+    "pheasants",
+    "pigeons",
+    "poultry",
+    "turkey",
+    "veal",
+    "beat",
+    "flour",
+    "partridge",
+    "pepper",
+    "pigeon",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-christmas-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EYorkshire Pie.\u003C/b\u003E A true Yorkshire pie, such as constitutes a standing dish during the Christmas festivities at the hospitable board of a Yorkshire squire, is simply a raised pie filled with poultry and game of different kinds, put one inside the other and side by side. These pies are sometimes made of a large size; and it is recorded that one of them, which was sent from Sheffield in 1832 as a present to the then Lord Chancellor Brougham, broke down on account of its weight.\u003Cbr\u003E\nYorkshire pies require both skill and patience for their manufacture. They are not common, and are becoming less and less so; nevertheless, when successfully made they form a most excellent dish, and one sure to be highly appreciated. Turkey, pheasants, ducks, fowls, grouse, snipes, and tongue; any or all of these may enter into their composition. Whatever birds are used should be boned and partially stewed before being put into the pie: the smallest of them should be filled with good, highly-seasoned veal forcemeat; a layer of forcemeat should be placed at the bottom of the pie, and all the vacant places filled with the same. A recipe is here given for making a moderate-sized pie. Bone a fowl and a goose; fill the fowl with good veal forcemeat, truss it, and sew it up. Truss the goose, and put the two side by side in a stewpan which will just hold them. Pour over them as much stock as will cover them, and let them simmer gently for half an hour. Take them up, put the fowl inside the goose, truss the latter, and sew it up. Line a pie-mould with some pastry, such as is used for making raised jaies, rolled out to a good thickness. Cover the bottom with a layer of forcemeat, lay the goose upon it, pour a little of the liquor in which it was stewed over it, and place round it slices of pigeons, boned hare, tongue, \u0026amp;c. Fill the vacant spaces with forcemeat, and when the meat is closely packed in the crust put over it a layer of clarified butter. Place the pastry-cover on the top, brush over with egg, ornament it, bind several folds of buttered paper round it, and bake in a well-heated oven. Make a little strong jelly by boiling the bones and trimmings with seasoning and spices, and pour this into the pie after it is baked. When the pie is to be served, place it on a dish covered with a napkin, remove the cover whole, and cut the meat in thin slices. The pastry of a pie like this is not made to be eaten but is simply intended as a case in which to preserve and serve the meat. When a skewer will pierce easily to the bottom of the pie in the centre it is done enough. Time to bake the pie, four hours or more.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yorkshire-christmas-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Yorkshire Christmas-Pie\u003C/b\u003E\u003Cbr\u003E\nFIRST make a good standing crust, let the wall and bottom be very thick; bone a turkey, a goose, a fowl, a partridge, and a pigeon, Season them all very well, take half an ounce of mace, half an ounce of nutmegs, a quarter of ah ounce of cloves, and half an ounce of black-pepper, all beat fine together, two large spoonfuls of salt, and then mix them together. Open the fowls all down the back, and bone them; first the pigeon, then the partridge; cover them; then the fowls then the goose, and then the turkey, which must be large; sea- . son them all well first, and lay them in the crust, so as it, will look only like a whole turkey; then have a hare ready cased, and wiped with a clean cloth. Cut it to pieces, that is, joint it; season it, and lay it as close as you can on one side; on the other side woodcocks, moor game, and what sort of wild-fowl you can get. Season them well, and lay them close; put at least four pounds of butter into the pie, then lay on your lid, which must be a very thick one, and let it be well baked. It must have a very hot oven, and will take at least four hours. This crust will take a bushel of flour. These pies are often sent to London in a box, as presents; therefore, the walls must be well built.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Denby Dale Pie",
+      "relatedPageUrl": "denby-dale-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Trunk Pie",
+      "relatedPageUrl": "trunk-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Pie",
+      "relatedPageUrl": "yorkshire-christmas-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Yorkshire Christmas Pie",
+  "usedSnapshot": "20220527065036"
+}

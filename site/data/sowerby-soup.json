@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922072744",
+  "finalPath": "sowerby-soup.html",
+  "heading": "Sowerby Soup",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "oatmeal",
+    "onions",
+    "pepper",
+    "salt",
+    "tomato",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sowerby-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Sowerby%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "500 g tomatoes, peeled and thinly diced\u003Cbr\u003E\n800 g onions, chopped\u003Cbr\u003E\n2 litres water\u003Cbr\u003E\n1 tbsp oatmeal\u003Cbr\u003E\nsalt and freshly ground black pepper\u003Cbr\u003E\n50 g butter\u003Cbr\u003E\nMethod:\u003Cbr\u003E\nIn a large saucepan, melt the butter. Add the onions and saute until translucent. Stir in the tomatoes and cook stirring for 8-10 minutes. Stir in half of the water and bring to a boil. Reduce the heat and cook for 20-25 minutes. Puree the soup.\u003Cbr\u003E\n\u003Cbr\u003E\nBring the remaining water with the oatmeal to a boil. Reduce the heat and simmer for 8-12 minutes until thickened. Pour this to the tomato soup and stir until well combined. Season to taste with salt and pepper. Cover and cook over low heat for some more minutes. Check seasoning and correct if necessary.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sowerby Soup",
+  "usedSnapshot": "20210518195738"
+}

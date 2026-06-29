@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150922074815",
+  "finalPath": "brewis-soup.html",
+  "heading": "Brewis Soup",
+  "ingredients": [
+    "beef",
+    "bread",
+    "fat",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brewis-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E By \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERESPECTING THE POOR\u003C/b\u003E\u003Cbr\u003E\nA very good meal may be bestowed in a thing called Brewis, which is thus made: cut a very thick upper crust of bread and put it into the pot, Have salt beef boiling and near ready; it will attract some of the fat, and, when swelled out, will be no unpalatable dish to those who rarely taste meat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bolton Brewis",
+      "relatedPageUrl": "bolton-brewis.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Brewis or Bruette Sauce",
+      "relatedPageUrl": "brewis-or-bruette-sauce.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Brewis Soup",
+      "relatedPageUrl": "brewis-soup.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Kettle or Keddy Broth",
+      "relatedPageUrl": "kettle-or-keddy-broth.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oil Soppes",
+      "relatedPageUrl": "oil-soppes.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oldham Brewis",
+      "relatedPageUrl": "oldham-brewis.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pandewaff",
+      "relatedPageUrl": "pandewaff.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EBruys\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Brewis Soup",
+  "usedSnapshot": "20220819110636"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616082831",
+  "finalPath": "gloucester-cheese.html",
+  "heading": "Gloucester Cheese",
+  "ingredients": [
+    "cheese",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "GLOUCESTER CHEESE. This article is made of milk immediately from the cow; and if it be too hot in the summer, a little skim milk or water is added to it, before the rennet is put in. As soon as the curd is come it is broken small, and cleared of the whey. The curd is set in the press for about a quarter of an hour, in order to extract the remainder of the liquid. It is then put into the cheese tub again, broken small, and scalded with water mixed with a little whey. When the curd is settled, the liquor is poured off; the curd is put into a vat, and worked up with a little salt when about half full. The vat is then filled up, and the whole is turned two or three times in it, the edges being pared, and the middle rounded up at each turning. At length, the curd being put into a cloth, it is placed in the press, then laid on the shelves, and turned every day till it becomes sufficiently firm to bear washing.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Gloucester Cheese",
+  "usedSnapshot": "20210512111551"
+}

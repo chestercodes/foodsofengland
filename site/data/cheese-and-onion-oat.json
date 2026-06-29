@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922092332",
+  "finalPath": "cheese-and-onion-oat.html",
+  "heading": "Cheese and Onion Oat",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheese and Onion Oat Flan",
+      "relatedPageUrl": "cheese-and-onion-oat-flan.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cheese and Onion Oat",
+  "usedSnapshot": "20220527220203"
+}

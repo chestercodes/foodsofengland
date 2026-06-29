@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922082229",
+  "finalPath": "white-foam-soup.html",
+  "heading": "White Foam Soup",
+  "ingredients": [
+    "beat",
+    "butter",
+    "celery",
+    "cheese",
+    "egg",
+    "egg whites",
+    "egg yolks",
+    "eggs",
+    "flour",
+    "leek",
+    "milk",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "white-foam-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20White%20Foam%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWhite Foam Soup\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nserves 4\u003Cbr\u003E\n1 \u00BD oz butter\u003Cbr\u003E\n1 oz flour\u003Cbr\u003E\n1 pint milk\u003Cbr\u003E\n1/2 pint stock\u003Cbr\u003E\n1 onion, finely chopped\u003Cbr\u003E\n1 small leek, finely chopped\u003Cbr\u003E\n1 celery stalk, finely chopped\u003Cbr\u003E\npinch of ground mace\u003Cbr\u003E\nsalt, pepper\u003Cbr\u003E\n2 eggs, separated\u003Cbr\u003E\n2 oz cheese, grated\u003Cbr\u003E\nchopped parsley to garnish\u003Cbr\u003E\n\u003Cbr\u003E\n1. Melt the butter in a saucepan and add the flour. Cook, stirring, for 2 minutes, then gradually stir in the milk and stock.\u003Cbr\u003E\n2. Bring to the boil, stirring. Add the vegetables, mace, salt and pepper and stir well.\u003Cbr\u003E\n3. Cover and simmer gently for 30 minutes.\u003Cbr\u003E\n4. Beat the egg yolks slightly and mix in a little of the hot soup.\u003Cbr\u003E\n5. Stir this into the rest of the soup with the cheese and heat gently, stirring, until the cheese has melted.\u003Cbr\u003E\n6. Whisk the egg whites until stiff. Fold half into the soup and divide the remainder between soup bowls or a tureen.\u003Cbr\u003E\n7. Pour over the soup and sprinkle with parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "White Foam Soup",
+  "usedSnapshot": "20211020230846"
+}

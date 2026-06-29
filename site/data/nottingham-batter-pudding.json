@@ -1,0 +1,119 @@
+﻿{
+  "earliestSnapshot": "20130808221312",
+  "finalPath": "nottingham-batter-pudding.html",
+  "heading": "Nottingham Batter Pudding",
+  "ingredients": [
+    "apple",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "nottingham-batter-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "NOTTINGHAM PUDDING. Peel six large apples, take out the core with the point of a small knife or an apple scoop, but the fruit must be left whole. Fill up the centre with sugar, place the fruit in a pie dish, and pour over a nice light batter, prepared as for batter pudding, and bake it an hour in a moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "nottingham-batter-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ENottingham Pudding.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nPeel six good apples; take out the core with the point of a small knife, or an apple corer, if you have one; but be sure to leave the apples whole; fill up where you took the core from with sugar; place them in a pie-dish, and pour over them a nice light batter, prepared as for batter pudding, and bake an hour in a moderate oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cobs",
+      "relatedPageUrl": "apple-cobs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "East Anglian Apple Dumplings",
+      "relatedPageUrl": "east-anglian-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Hereford Apple Dumplings",
+      "relatedPageUrl": "hereford-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stilton Pears",
+      "relatedPageUrl": "stilton-pears.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Batter and Fruit Pudding",
+      "relatedPageUrl": "batter-and-fruit-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Cherry Batter Pudding",
+      "relatedPageUrl": "cherry-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Derby Batter Pudding",
+      "relatedPageUrl": "derby-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Duffield Pudding",
+      "relatedPageUrl": "duffield-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Kentish Fruit Batter",
+      "relatedPageUrl": "kentish-fruit-batter.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tasty Batter Pudding",
+      "relatedPageUrl": "tasty-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tewkesbury Saucer Batters",
+      "relatedPageUrl": "tewkesbury-saucer-batters.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    }
+  ],
+  "synonym": "\u003Cb\u003ENottingham Pudding, Nottingham Apple Batter\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Nottingham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Nottingham Batter Pudding",
+  "usedSnapshot": "20211205175337"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150310122942",
+  "finalPath": "lord-mayor-s-trifle.html",
+  "heading": "Lord Mayor\u0027s Trifle",
+  "ingredients": [
+    "brandy",
+    "cream",
+    "custard",
+    "jam",
+    "raspberry",
+    "strawberry",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-mayor-s-trifle.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELord Mayor\u0027s Trifle.\u003C/b\u003E - Slice four penny spongecakes and lay them at the bottom of a deep trifle-dish. Put with them a dozen ratafias, eight macaroons, and two wine-glassfuls of brandy. When the liquor is soaked up, spread a layer of strawberry or raspberry jam over the spongecakes, and cover them with a pint of rich cold custard. Pile whipped cream high over the top, and ornament with pink comfits. The cream should be whipped some hours before it is needed, and laid upon a reversed sieve to drain. Time, about an hour to whip the cream. Probable cost, exclusive of the brandy, 3s. 6d. Sufficient for eight or ten persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Lord Mayor\u0027s Trifle",
+  "usedSnapshot": "20211205174345"
+}

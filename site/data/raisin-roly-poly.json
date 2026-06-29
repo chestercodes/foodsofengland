@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922085943",
+  "finalPath": "raisin-roly-poly.html",
+  "heading": "Raisin Roly-Poly",
+  "ingredients": [
+    "baking powder",
+    "custard",
+    "flour",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "raisin-roly-poly.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Ci\u003EA traditional boiled suet roll, beloved by men and best served with plenty of thick custard.\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 oz flour\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n1 teaspoon baking powder\u003Cbr\u003E\n4 oz suet\u003Cbr\u003E\n12 oz raisins, stoned\u003Cbr\u003E\n1 desertspoon sugar\u003Cbr\u003E\n\u003Cbr\u003E\nMix the flour, salt and baking powder together, add the suet and sufficient cold water to form a soft dough. Turn onto a floured surface and roll into an oblong about \u00BC inch thick. Sprinkle the raisins and the sugar on to the dough, then roll up like a Swiss roll, dampening the ends and pressing firmly to seal. Sprinkle with flour, wrap in greaseproof paper, roll in floured pudding cloth, and tie the ends but leave room for the pudding to swell. Place in a saucepan of boiling water and boil 3 hours. Serve cut into slices sprinkled with a little sugar and accompanied by custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Raisin Roly-Poly",
+  "usedSnapshot": "20200116032306"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922090835",
+  "finalPath": "damson-and-apple-tansy.html",
+  "heading": "Damson and Apple Tansy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Damson and Apple Tansy",
+  "usedSnapshot": "20211019192153"
+}

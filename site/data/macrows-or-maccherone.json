@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140616080908",
+  "finalPath": "macrows-or-maccherone.html",
+  "heading": "Macrows or Maccherone",
+  "ingredients": [
+    "butter",
+    "cheese"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "macrows-or-maccherone.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMacrows:\u003C/b\u003E Take and make a thin foil of dough and carve it in pieces, and cast them on boiling water \u0026 seethe it well. Take cheese and grate it and butter, cast beneath and above, as with \u003Ca href=\u0022loseyns.html\u0022\u003E\u003Cb\u003ELoseyns\u003C/b\u003E\u003C/a\u003E, and serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Macrows or Maccherone",
+  "usedSnapshot": "20210308041036"
+}

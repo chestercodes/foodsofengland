@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922082230",
+  "finalPath": "butter-loaf.html",
+  "heading": "Butter Loaf",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "sugar",
+    "eggs",
+    "salt",
+    "white wine",
+    "yeast"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "butter-loaf.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA buttered Loafe.\u003C/b\u003E\u003Cbr\u003E\nTake very fine flowre and yolks of Egs, sweet butter, yest, cloves, mace, sugar, sinamon, ginger, and woork it togither and make them in little loves, and when they are baked inough, set a good deale of sweet butter upon a chafingdish and coles, then cut your loaf in three peeces and butter it, then strew sugar betwixt every peece and serve it out.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "butter-loaf.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make buttered Loaves.\u003C/b\u003E\u003Cbr\u003E\nTake the yolks of twelve Eggs, and six whites, and a quarter of a pint of yeast, when you have beaten the Eggs well, strain them with the yeast into a Dish, then put to it a little Salt, and two rases of Ginger beaten very small, then put flower to it till it come to a high Past that will not cleave, then you must roule it upon your hands and afterwards put it into a warm Cloath and let it lye there a quarter of an hour, then make it up in little Loaves, bake; against it is baked prepare a pound and a half of Butter, a quarter of a pint of white wine, and halfe a pound of Sugar; This being melted and beaten together with it, set them into the Oven a quarter of an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Butter Loaf",
+  "usedSnapshot": "20220516212121"
+}

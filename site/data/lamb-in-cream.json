@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20130323195939",
+  "finalPath": "lamb-in-cream.html",
+  "heading": "Lamb in Cream",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "carrots",
+    "cream",
+    "fat",
+    "flour",
+    "herbs",
+    "lamb",
+    "lamb chops",
+    "onion",
+    "onions",
+    "parsley",
+    "peas",
+    "pepper",
+    "potatoes",
+    "rosemary",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-in-cream.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E \u0027\u003Ci\u003EFavourite Shropshire Recipes\u003C/i\u003E\u0027",
+      "receiptText": "\u003Cb\u003ELAMB IN CREAM SAUCE\u003C/b\u003E\u003Cbr\u003E\nA country house recipe for lamb chops served in a herb-flavoured cream sauce.\u003Cbr\u003E\n\u003Cbr\u003E\n4 large lamb chops, wiped and trimmed\u003Cbr\u003E\n1 oz. butter 2 onions, peeled and sliced\u003Cbr\u003E\n2 tablespoons flour\u003Cbr\u003E\n8 fl. oz. lamb stock\u003Cbr\u003E\n4 fl. oz. single cream\u003Cbr\u003E\nSalt and black pepper\u003Cbr\u003E\n1 dessertspoon fresh chopped herbs - parsley, thyme, rosemary, etc.\u003Cbr\u003E\nParsley sprigs to garnish\u003Cbr\u003E\n\u003Cbr\u003E\nDust the chops with a little seasoned flour and fry in the butter on both sides to seal. Remove with a slotted spoon and keep warm. Fry the onion in the remaining fat until lightly golden, then stir in the flour. Add the stock, a little at a time, stirring between each addition, and bring to the boil. Reduce the heat and stir in the cream, seasoning and herbs. Add the chops, cover and simmer for 25-30 minutes. Serve garnished with parsley sprigs and accompanied by creamed potatoes, peas and carrots. Serves 4.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Lamb in Cream",
+  "usedSnapshot": "20211020215835"
+}

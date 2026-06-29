@@ -1,0 +1,579 @@
+﻿{
+  "earliestSnapshot": "20121024085147",
+  "finalPath": "meat-meat-dishes.html",
+  "heading": "Meat \u0026 Meat Dishes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETraditional English meat cuts\u003C/b\u003E",
+      "relatedPageUrl": "meat-cuts.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGame \u0026 Offal\u003C/b\u003E",
+      "relatedPageUrl": "game-offal.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bacon",
+      "relatedPageUrl": "bacon.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bacon Chops with Gooseberry Sauce",
+      "relatedPageUrl": "bacon-chops-with-gooseberry-sauce.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bacon Floddies",
+      "relatedPageUrl": "bacon-floddies.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bacon Fraise (1)",
+      "relatedPageUrl": "baconfraise(1).htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bacon Fraise (2) or Froise",
+      "relatedPageUrl": "baconfraise(2)orfroise.htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bacon Ribs",
+      "relatedPageUrl": "bacon-ribs.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Baked Gammon in Cider",
+      "relatedPageUrl": "baked-gammon-in-cider.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Baked Ham",
+      "relatedPageUrl": "baked-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Barnsley Chop",
+      "relatedPageUrl": "barnsley-chop.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bath Chaps",
+      "relatedPageUrl": "bath-chaps.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Cake",
+      "relatedPageUrl": "beef-cake.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Cecils",
+      "relatedPageUrl": "beef-cecils.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Hare",
+      "relatedPageUrl": "beef-hare.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef in Beer",
+      "relatedPageUrl": "beef-in-beer.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Olives",
+      "relatedPageUrl": "olives.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Paste",
+      "relatedPageUrl": "beef-paste.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Rissoles",
+      "relatedPageUrl": "beef-rissoles.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Rolls (1)",
+      "relatedPageUrl": "beefrolls(1).htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Beef Rolls (2)",
+      "relatedPageUrl": "beefrolls(2).htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Berkshire Faggots",
+      "relatedPageUrl": "berkshire-faggots.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Berkshire Hog",
+      "relatedPageUrl": "berkshire-hog.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Boiled Bacon",
+      "relatedPageUrl": "boiled-bacon.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Boiled Pickled Pork",
+      "relatedPageUrl": "boiled-pickled-pork.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bordyke Veal Cake",
+      "relatedPageUrl": "bordyke-veal-cake.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Bradenham Ham",
+      "relatedPageUrl": "shropshire-black-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Breakfast Chops",
+      "relatedPageUrl": "breakfast-chops.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Cheshire Lamb Crumble",
+      "relatedPageUrl": "cheshire-lamb-crumble.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Coger Cakes",
+      "relatedPageUrl": "coger-cakes.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Collared Meat",
+      "relatedPageUrl": "collared-meat.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Collops",
+      "relatedPageUrl": "collops.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Corned Beef",
+      "relatedPageUrl": "corned-beef.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Corned or Bully Beef",
+      "relatedPageUrl": "corned-or-bully-beef.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Cornish Under Roast",
+      "relatedPageUrl": "cornish-under-roast.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Cottage Pie",
+      "relatedPageUrl": "cottage-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Crown Roast",
+      "relatedPageUrl": "crown-roast.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Cumberland Ham",
+      "relatedPageUrl": "cumberland-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Cumberland Pie",
+      "relatedPageUrl": "cumberland-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Devilled Mutton",
+      "relatedPageUrl": "devilled-mutton.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Devilled Steak",
+      "relatedPageUrl": "devilled-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Devonshire Ham",
+      "relatedPageUrl": "devonshire-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Dorset Jugged Steak",
+      "relatedPageUrl": "dorset-jugged-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Dorset Lamb Crumble",
+      "relatedPageUrl": "dorset-lamb-crumble.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Dunmow Flitch",
+      "relatedPageUrl": "dunmow-flitch.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Durham Cutlets",
+      "relatedPageUrl": "durham-cutlets.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Fackle",
+      "relatedPageUrl": "fackle.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Fillet of Beef Prince Albert",
+      "relatedPageUrl": "fillet-of-beef-prince-albert.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Frazzled (or Frizzled) Beef",
+      "relatedPageUrl": "frazzled(orfrizzled)beef.htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Fried Beef-Collops",
+      "relatedPageUrl": "fried-beef-collops.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Frizzled Ham",
+      "relatedPageUrl": "frizzled-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Gammon",
+      "relatedPageUrl": "gammon.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Gammon and Fruit",
+      "relatedPageUrl": "gammon-and-fruit.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Gloucestershire Pie",
+      "relatedPageUrl": "gloucestershire-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Guard of Honour",
+      "relatedPageUrl": "guard-of-honour.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Haslet - Lincolnshire",
+      "relatedPageUrl": "lincolnshire-haslet.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Hereford Beef Olives",
+      "relatedPageUrl": "hereford-beef-olives.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Horse",
+      "relatedPageUrl": "horse.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Hunter\u0027s Beef",
+      "relatedPageUrl": "hunter-s-beef.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Lamb and Barley Stew",
+      "relatedPageUrl": "lamb-and-barley-stew.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Lamb Henry",
+      "relatedPageUrl": "lamb-henry.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Lamb in Cream",
+      "relatedPageUrl": "lamb-in-cream.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Lamb Stuffed with Crab",
+      "relatedPageUrl": "lamb-stuffed-with-crab.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Lamb with Anchovies",
+      "relatedPageUrl": "lamb-with-anchovies.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Lamb\u0027s Liver Pate",
+      "relatedPageUrl": "lamb-s-liver-pate.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Leg of Mutton Stuffed",
+      "relatedPageUrl": "leg-of-mutton-stuffed.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Macon Ham",
+      "relatedPageUrl": "macon-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Maldon Boiled Beef",
+      "relatedPageUrl": "maldon-boiled-beef.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Marmalade Glazed Ham",
+      "relatedPageUrl": "marmalade-glazed-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Meat Balls",
+      "relatedPageUrl": "meat-balls.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Meatball Batter Pudding",
+      "relatedPageUrl": "meatball-batter-pudding.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Minted Lamb",
+      "relatedPageUrl": "minted-lamb.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Mock Goose of Pork",
+      "relatedPageUrl": "mock-goose-of-pork.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Mutton with Cockles",
+      "relatedPageUrl": "mutton-with-cockles.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Norfolk Lamb Parcel",
+      "relatedPageUrl": "norfolk-lamb-parcel.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Norwich Cutlets",
+      "relatedPageUrl": "norwich-cutlets.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Oxford John Steaks",
+      "relatedPageUrl": "oxford-john-steaks.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Padiham Pie",
+      "relatedPageUrl": "padiham-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Painswick Pork or Gammon",
+      "relatedPageUrl": "painswick-pork-or-gammon.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Parson\u0027s Venison",
+      "relatedPageUrl": "parson-s-venison.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Pork Cheese",
+      "relatedPageUrl": "pork-cheese.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Pork with Prunes",
+      "relatedPageUrl": "pork-with-prunes.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Porterhouse Steak",
+      "relatedPageUrl": "porterhouse-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Portmanteau Lamb Chops",
+      "relatedPageUrl": "portmanteau-lamb-chops.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Rissoles",
+      "relatedPageUrl": "rissoles.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Roast Leg of Lamb",
+      "relatedPageUrl": "roast-leg-of-lamb.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Roast Pork",
+      "relatedPageUrl": "roast-pork.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Rolled Breast of Lamb",
+      "relatedPageUrl": "rolled-breast-of-lamb.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Salisbury Steak",
+      "relatedPageUrl": "salisbury-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Saltmarsh Lamb",
+      "relatedPageUrl": "saltmarsh-lamb.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Salt Beef",
+      "relatedPageUrl": "salt-beef.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Salt Beef and Dumplings",
+      "relatedPageUrl": "salt-beef-and-dumplings.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Shepherd\u0027s Pie",
+      "relatedPageUrl": "shepherd-s-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Shropshire Black Ham",
+      "relatedPageUrl": "shropshire-black-ham-2.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Sirloin of Beef",
+      "relatedPageUrl": "sirloin-of-beef.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Staffordshire Beef Steaks",
+      "relatedPageUrl": "staffordshire-beef-steaks.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Stewed Steak",
+      "relatedPageUrl": "stewed-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Stilton Steak",
+      "relatedPageUrl": "stilton-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Stuffed Chine",
+      "relatedPageUrl": "stuffed-chine.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Stuffed Lamb",
+      "relatedPageUrl": "stuffed-lamb.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Stuffed Lamb",
+      "relatedPageUrl": "stuffed-lamb.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Stuffed Pork Chops in Cider",
+      "relatedPageUrl": "stuffed-pork-chops-in-cider.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Suet",
+      "relatedPageUrl": "suet.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Suffolk Bacon",
+      "relatedPageUrl": "suffolk-bacon.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Suffolk Ham",
+      "relatedPageUrl": "suffolk-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Suffolk Stew",
+      "relatedPageUrl": "suffolk-stew.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Tournedos Rossini",
+      "relatedPageUrl": "tournedos-rossini.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Venison Pasty",
+      "relatedPageUrl": "venison-pasty.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Wakefield Steak",
+      "relatedPageUrl": "wakefield-steak.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Wiltshire Bacon",
+      "relatedPageUrl": "wiltshire-bacon.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "York Ham",
+      "relatedPageUrl": "york-ham.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Yorkshire Collop",
+      "relatedPageUrl": "yorkshire-collop.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Meat \u0026 Meat Dishes",
+  "usedSnapshot": "20220118044945"
+}

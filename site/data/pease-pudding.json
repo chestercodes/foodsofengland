@@ -1,0 +1,91 @@
+﻿{
+  "earliestSnapshot": "20150823040149",
+  "finalPath": "pease-pudding.html",
+  "heading": "Pease Pudding",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "pudding",
+    "salt",
+    "beat",
+    "beef",
+    "eggs",
+    "peas",
+    "pork"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pease-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a pease-pudding.\u003C/b\u003E\u003Cbr\u003E\nBOIL it till it is quite tender, then take it up, until it, stir in a good piece of butter, a little salt, and a good deal of beaten pepper, then tie it up tight again, boil it an hour longer, and it will eat fine.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pease-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPEASE PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1323. INGREDIENTS: 1-\u00BD pint of split peas, 2 oz. of butter, 2 eggs, pepper and salt to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the peas to soak over-night, in rain-water, and float off any that are wormeaten or discoloured. Tie them loosely in a clean cloth, leaving a little room for them to swell, and put them on to boil in cold rain-water, allowing 2-\u00BD hours after the water has simmered up. When the peas are tender, take them up and drain; rub them through a colander with a wooden spoon; add the butter, eggs, pepper, and salt; beat all well together for a few minutes, until the ingredients are well incorporated; then tie them tightly in a floured cloth; boil the pudding for another hour, turn it on to the dish, and serve very hot. This pudding should always be sent to table with boiled leg of pork, and is an exceedingly nice accompaniment to boiled beef.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 2-\u00BD hours to boil the peas, tied loosely in the cloth; 1 hour for the pudding.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 7 or 8 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Pease Pudding",
+  "usedSnapshot": "20211107185723"
+}

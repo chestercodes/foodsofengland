@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073347",
+  "finalPath": "strawberry-fool.html",
+  "heading": "Strawberry Fool",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Strawberry Fool",
+  "usedSnapshot": "20211021024819"
+}

@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140508113225",
+  "finalPath": "dorset-fair-gingerbreads.html",
+  "heading": "Dorset Fair Gingerbreads",
+  "ingredients": [
+    "baking powder",
+    "brown sugar",
+    "butter",
+    "cream",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "plain flour",
+    "soft brown sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dorset-fair-gingerbreads.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Dorset%20Fair%20Gingerbreads\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDorset Fair Gingerbreads\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3oz butter\u003Cbr\u003E\n3oz soft brown sugar\u003Cbr\u003E\n4 tablespoons golden syrup, warmed\u003Cbr\u003E\n6oz plain flour\u003Cbr\u003E\n1 level teaspoon baking powder\u003Cbr\u003E\n1 level teaspoon bicarbonate of soda\u003Cbr\u003E\n1 rounded teaspoon ground ginger\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 400 electric or Gas Mark 6. Grease baking trays. Cream together the butter and sugar in a warmed bowl and add the golden syrup, flour and all other dry ingredients. Mix well to form a firm dough. Roll out on a lightly floured surface, form into about 25-30 small balls and place 3 inches apart on the baking trays. Cook for approximately 10 minutes until golden brown. Cool slightly before transferring to a wire rack.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dorset Fair Gingerbreads",
+  "usedSnapshot": "20210510050921"
+}

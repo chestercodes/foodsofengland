@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130323203705",
+  "finalPath": "staffordshire-beef-steaks.html",
+  "heading": "Staffordshire Beef Steaks",
+  "ingredients": [
+    "beat",
+    "beef",
+    "flour",
+    "ketchup",
+    "onions",
+    "steaks",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "staffordshire-beef-steaks.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "STAFFORDSHIRE BEEF STEAKS. Beat them a little with a rollingpin, then flour and season, and fry them of a fine light brown, with sliced onions. Lay the steaks into a stewpan, and pour over them as much boiling water as will serve for sauce. Stew them very gently for half an hour, and add a spoonful of ketchup or walnut liquor, before they are served up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Staffordshire Beef Steaks",
+  "usedSnapshot": "20211018074028"
+}

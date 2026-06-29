@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922093207",
+  "finalPath": "belvoir-castle-buns.html",
+  "heading": "Belvoir Castle Buns",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "cream",
+    "currants",
+    "flour",
+    "milk",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "belvoir-castle-buns.html-1",
+      "receiptSource": "Original Receipt from Leicestershire County Council",
+      "receiptText": "\u003Cb\u003EBelvoir Castle Buns Recipe\u003C/b\u003E\u003Cbr\u003E\nDating from 1869, these buns were made at Belvoir Castle and were greatly liked by the Duke of Rutland, who often asked for them. The recipe has been preserved and handed on through generations.\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n2 lb Flour, plain,\u003Cbr\u003E\n6 oz currants,\u003Cbr\u003E\n6 oz sugar,\u003Cbr\u003E\n1 pint milk,\u003Cbr\u003E\n5 oz butter,\u003Cbr\u003E\n1 oz yeast\u003Cbr\u003E\n\u003Cbr\u003E\nTime to rise, just 2 hours; then half an hour; and 10 minutes to bake.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\n1. Place the flour in a basin. Add the butter and rub it in till the mixture looks like breadcrumbs. Mix in the sugar.\u003Cbr\u003E\n2. Place the yeast in a small basin cream it with a little sugar.\u003Cbr\u003E\n3. Take 1 gill of the milk; let it boil and add it to the remainder of the milk. Add this to the yeast and pour it in the centre of the flour.\u003Cbr\u003E\n4. Stir in the flour from the sides and Cover the basin with a clean towel.\u003Cbr\u003E\n5. Set in a warm place and let it rise for 2 hours 6. Knead it and divide into 6 pieces.\u003Cbr\u003E\n7. Weigh out the currants and wash well\u003Cbr\u003E\n8. Roll out the dough very thinly. Over each piece sprinkle some of the currants. Fold it up and cut into strips, and turn them upside down on a buttered and floured tin\u003Cbr\u003E\n9. Let them rise for 30 minutes and bake for 10 minutes\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Belvoir Castle Buns",
+  "usedSnapshot": "20211205172314"
+}

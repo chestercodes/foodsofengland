@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212020534",
+  "finalPath": "cornish-potato-cake.html",
+  "heading": "Cornish Potato Cake",
+  "ingredients": [
+    "bicarbonate soda",
+    "cream",
+    "currants",
+    "egg",
+    "flour",
+    "milk",
+    "potato",
+    "potatoes",
+    "tartar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornish-potato-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGood Things in England\u003C/i\u003E\u0027 by Florence White (\u003Ca href=\u0022references.html#white-1932\u0022\u003E\u003Cb\u003EWhite 1932\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Cornish Potato Cake\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nBoiled potatoes 6\u003Cbr\u003E\nflour 1\u00BD lb.\u003Cbr\u003E\ndripping \u00BD lb.\u003Cbr\u003E\ncurrants \u00BD lb.\u003Cbr\u003E\negg 1\u003Cbr\u003E\nmilk \u00BC pint (4 oz.)\u003Cbr\u003E\ncream of tartar 1 teaspoonful\u003Cbr\u003E\nbicarbonate soda \u00BD teaspoonful.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nRub the dripping into the flour.\u003Cbr\u003E\nAdd the rest of the dry ingredients and mix well.\u003Cbr\u003E\nMash the potatoes and mix them in.\u003Cbr\u003E\nMake into a dough with the egg and milk.\u003Cbr\u003E\nRoll out one inch thick and bake till brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ETatie Cake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Cornish Potato Cake",
+  "usedSnapshot": "20220705093052"
+}

@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20150922073827",
+  "finalPath": "hawkshead-whigs.html",
+  "heading": "Hawkshead Whigs",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "caraway seeds",
+    "eggs",
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "pepper",
+    "plain flour",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hawkshead-whigs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELakeland Recipes Old and New\u003C/i\u003E\u0027 by Joan Poulson 1978, Tamley-Reed Ltd - ISBN 0 86157 008 1 (with thanks to Linda Johnson)",
+      "receiptText": "Page 54 No 77 - \u003Cb\u003EHAWKSHEAD WHIGS\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1\u00BC lb plain flour\u003Cbr\u003E\none ounce fresh yeast\u003Cbr\u003E\n1\u00BD oz butter\u003Cbr\u003E\n1\u00BD oz sugar\u003Cbr\u003E\nhalf pint warm milk\u003Cbr\u003E\n\u00BC oz caraway seeds\u003Cbr\u003E\nA pinch of salt\u003Cbr\u003E\npepper\u003Cbr\u003E\n\u003Cbr\u003E\nSift together the flour and salt. Rub in the butter and add sugar. Make a well in the centre and into this put the yeast and a tiny pinch of pepper. Pour on the milk, warmed to blood heat. Stir and over with a cloth, then leave in a warm place to rise for ten minutes. Knead well for ten minutes adding the caraway seeds at the same time. Leave to prove for half an hour. Cut into pieces, each one weighing about two to three ounces, or roll into three-inch lengths. Put on a warmed greased oven sheet and leave to prove until lightly rise, about fifteen minutes. Bake in a hot oven until golden brown, about ten minutes at 425F, 220C, gas mark 7. Serve split and buttered.\u003Cbr\u003E\n\u003Cbr\u003E\nPage 55 No 78 - \u003Cb\u003EHAWKSHEAD WHIGS\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nAnother version.\u003Cbr\u003E\n\u003Cbr\u003E\n1lb flour\u003Cbr\u003E\n6oz sugar\u003Cbr\u003E\n4oz lard or butter\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\n2 tsp baking powder\u003Cbr\u003E\n1 tsp caraway seeds\u003Cbr\u003E\nmilk\u003Cbr\u003E\n\u003Cbr\u003E\nRub the fat into the flour. Add the sugar, baking powder and caraway seeds. Beat the eggs and use with milk to mix the flour etc to a stiff dough. Shape into rounds and place on a greased oven sheet. Bake in a hot oven, 425F, 220C, gas mark 7 for fifteen to twenty minutes or until golden brown.\u003Cbr\u003E\n\u003Cbr\u003E\nBoth recipes were given to me some years ago by Mrs J Doyle of Barrow-in-Furness, who told me that whigs were baked and sold in Hawkshead when she was there as a child. The first recipe is the traditional one, the second being a speedier version. The great William Wordsworth probably enjoyed them when he was at school in Hawkshead. Mrs Doyle told me that Wordsworth boarded with her great-aunt Ann Tyson and that Ann Tyson\u0027s account book for household requisitions can be seen at Hawkshead School\u0022.\u003Cbr\u003E\n\u003Cbr\u003E\nI read somewhere else that they were called \u201Cwigs\u201D (however spelt) because of their appearance when cooked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Whigs",
+      "relatedPageUrl": "whigs.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Dorset Wiggs",
+      "relatedPageUrl": "dorset-wiggs.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Hawkshead Whigs",
+  "usedSnapshot": "20220527230639"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922074751",
+  "finalPath": "blackberry-and-apple-pudding.html",
+  "heading": "Blackberry and Apple Pudding",
+  "ingredients": [
+    "apple",
+    "baking powder",
+    "beat",
+    "blackberries",
+    "bread",
+    "egg",
+    "flour",
+    "golden syrup",
+    "jelly",
+    "milk",
+    "pudding",
+    "salt",
+    "suet",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blackberry-and-apple-pudding.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EPortsmouth Evening News\u003C/i\u003E\u0027 - Wednesday 01 October 1913",
+      "receiptText": "TO DAY\u2019S RECIPE.\u003Cbr\u003E\nBLACKBERRY AND APPLE PUDDING\u003Cbr\u003E\nMix teaspoonful of baking powder with \u00BC lb. sifted flour, pinch of salt, and \u00BC lb of chopped suet. Pick \u00BD lb of blackberries and \u00BD lb. of apples (peeled, cored, and cut into thin slices), and add tbe flour. Beat an egg with 1 gill of milk, add two tablespoonfuls of golden syrup and a little vanilla essence. Mix all well together, then pour the mixture into a well-greased mould and boil for two hours. If not stiff enough, add a few bread-crumbs. Serve with blackberry jelly.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBlackberry and Apple Pie\u003C/b\u003E",
+      "relatedPageUrl": "blackberry-and-apple-pie.html",
+      "relationDescription": "See notes on "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Blackberry and Apple Pudding",
+  "usedSnapshot": "20211027030256"
+}

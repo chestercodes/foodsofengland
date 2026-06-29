@@ -1,0 +1,78 @@
+﻿{
+  "earliestSnapshot": "20140212015722",
+  "finalPath": "courageous-tart.html",
+  "heading": "Courageous Tart",
+  "ingredients": [
+    "butter",
+    "dates",
+    "ginger",
+    "quinces",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "courageous-tart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Tarte to prouoke courage either in man or Woman.\u003C/b\u003E\u003Cbr\u003E\nTAKE a quart of good wine, and boyle therein two Burre rootes scraped cleane, two good Quinces, and a Potaton roote well pared and an ounce of Dates, and when all these are boyled verie tender, let them be drawne throgh a strainer wine and al, and then put in the yolks of eight Egs, and the braines of three or foure cocke Sparrowes, and straine them into the other, and a litle Rosewater, and seeth them all with Sugar, Sinamon and Ginger, and cloues and Mace, and put in a litle sweet Butter, and set it vpon a chafingdish of coales betweene two platters, and so let it boyle till it be something big.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Small Fowl",
+      "relatedPageUrl": "small-waterfowl.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPudding of Small Birds\u003C/b\u003E",
+      "relatedPageUrl": "small-birds.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFonnell\u003C/b\u003E",
+      "relatedPageUrl": "fonnell.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPalpatoon\u003C/b\u003E",
+      "relatedPageUrl": "palpatoon.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESparrow Dumpling\u003C/b\u003E",
+      "relatedPageUrl": "sparrow-dumpling.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECourageous Tart\u003C/b\u003E",
+      "relatedPageUrl": "courageous-tart.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Courageous Tart",
+  "usedSnapshot": "20211201003607"
+}

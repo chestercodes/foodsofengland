@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922092300",
+  "finalPath": "gooseberry-custard.html",
+  "heading": "Gooseberry Custard",
+  "ingredients": [
+    "butter",
+    "custard",
+    "eggs",
+    "gooseberries",
+    "sugar",
+    "castor sugar",
+    "cream",
+    "demerara sugar",
+    "vanilla",
+    "caster sugar",
+    "egg",
+    "milk"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-custard.html-1",
+      "receiptSource": "Original Receipt from Cumberland \u0026 Westmorland Herald - Saturday 12 June 1897",
+      "receiptText": "\u003Cb\u003EGOOSEBERRY CUSTARD\u003C/b\u003E is cheap and wholesome as a sweet in early June. Take one quart of gooseberries, half a pint of water, 2oz. butter, 3/4 lb. sugar, four eggs. Boil the gooseberries in the water for about 15 minutes, until they are soft ; add the sugar and butter, stirring well together; then add the yolks of four eggs; stir over the fire until quite thick, but on no account let it boil, or it will curdle, and be spoilt; serve in custard glasses.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-custard.html-2",
+      "receiptSource": "Original Receipt from Western Gazette - Friday 20 July 1934",
+      "receiptText": "GOOSEBERRY CUSTARD. One and a half pints of gooseberries, half- pint of custard, one gill of cream, vanilla flavouring, four ounces of Demerara sugar, three sponge cakes, half-ounce of hundreds-and-thousands, castor sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nPlace the fruit and sugar in a jar, and put on the top of a stove or in the oven till fruit is soft. No water is necessary. Arrange the cakes in a glass dish, and put the pulp on top. Leave it till it is set and cold, then pour the custard over it. Whip the cream gently till it will hang on the whisk, sprinkle with castor sugar and vanilla, and heap it roughly top of the sweet. Lastly shake the hundreds-of-thousands over the cream Save a few whole cooked berries for decoration.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-custard.html-3",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Gooseberry%20Custard\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 pt whole milk\u003Cbr\u003E\n1 large egg\u003Cbr\u003E\n3 tablespoons caster sugar\u003Cbr\u003E\n1\u00BD lb green gooseberries, topped and tailed\u003Cbr\u003E\n\u003Cbr\u003E\nPour the milk in a bowl and whisk in the whole egg. Add two tablespoons or more of sugar to taste. If you want individual portions then place some gooseberries at the bottom of each ramekin and sprinkle with sugar or use a pie dish and again place the gooseberries at the bottom. (Reserve some gooseberries). Pour over the milk mixture, cover loosely with foil and place in your coolest oven (85C) overnight. In the morning take the gooseberry custard out of the oven you will find that it has sunk, due to the long, slow cooking. Leave in the fridge until you require to eat them. For serving and good presentation, finely slice some reserved gooseberries and place on the top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Gooseberry Custard",
+  "usedSnapshot": "20220808013149"
+}

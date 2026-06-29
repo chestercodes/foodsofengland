@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922082219",
+  "finalPath": "chip-butty.html",
+  "heading": "Chip Butty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Chip Butty",
+  "usedSnapshot": "20220831210808"
+}

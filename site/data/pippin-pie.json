@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140212023344",
+  "finalPath": "pippin-pie.html",
+  "heading": "Pippin Pie",
+  "ingredients": [
+    "beef",
+    "butter",
+    "currants",
+    "orange",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pippin-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ESussex County Magazine\u003C/i\u003E 1936",
+      "receiptText": "A correspondent has sent two recipes for Pippin Pies, and one for Mince Pie as these delicacies were made in Sussex in the reign of Queen Anne. They are taken from a document entitled \u0022Phil Shoebridge\u0027s Book,\u0022 dated 1708, and are printed here as they appear in the original.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo Make a Pippen Pye\u003C/b\u003E\u003Cbr\u003E\nTake the fairest \u0026 best Pippens, pare them \u0026 make a hole in the Top of them, \u0026 then prick in each hole a Clove or two, then put them into a Pie-dish, then break in whole sticks of Cinamon, \u0026 slices of Orange pills [peels], \u0026 on the top of every Pippen put a little piece of sweet Butter; then close up the Pye, \u0026 bake it as you do Pies of the like nature; when it is baked anoint the lid over with store of sweet butter, \u0026 then strew Sugar upon it a good thickness, \u0026 set it into the oven again for a little Space, as while the Meat is dishing up, \u0026 then serve it.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo Make Pippen Pies\u003C/b\u003E\u003Cbr\u003E\nTake two pound of Pippens, one pound of Currants, three quarters of beef Suet, one pound of Sugar, two pennyworth of Cina\u00ADmon; shred your Pippens very small with your suet \u0026 so make little Pies of them. They must be always eat warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pippin Pie",
+  "usedSnapshot": "20211019173151"
+}

@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150425022637",
+  "finalPath": "lincolnshire-roast-hare.html",
+  "heading": "Lincolnshire Roast Hare",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Lincolnshire Roast Hare",
+  "usedSnapshot": "20220527223600"
+}

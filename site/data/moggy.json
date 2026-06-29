@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212015452",
+  "finalPath": "moggy.html",
+  "heading": "Moggy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Moggy Cake",
+      "relatedPageUrl": "moggie-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Moggy",
+  "usedSnapshot": "20211201042815"
+}

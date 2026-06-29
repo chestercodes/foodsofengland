@@ -1,0 +1,96 @@
+﻿{
+  "earliestSnapshot": "20150922105046",
+  "finalPath": "ice-cream.html",
+  "heading": "Ice Cream",
+  "ingredients": [
+    "cherries",
+    "cream",
+    "currants",
+    "salt",
+    "strawberries",
+    "raspberries"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "ice-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EMrs. Mary Eales\u0027s receipts\u003C/i\u003E\u0027 by Mary Eales (\u003Ca href=\u0022references.html#eales-1718\u0022\u003E\u003Cb\u003EEales 1718\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo Ice CREAM.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake Tin Ice-Pots, fill them with any Sort of Cream you like, either plain or sweeten\u0027d, or Fruit in it; shut your Pots very close; to six Pots you must allow eighteen or twenty Pound of Ice, breaking the Ice very small; there will be some great Pieces, which lay at the Bottom and Top: You must have a Pail, and lay some Straw at the Bottom; then lay in your Ice, and put in amongst it a Pound of Bay-Salt; set in your Pots of Cream, and lay Ice and Salt between every Pot, that they may not touch; but the Ice must lie round them on every Side; lay a good deal of Ice on the Top, cover the Pail with Straw, set it in a Cellar where no Sun or Light comes, it will be froze in four Hours, but it may stand longer; than take it out just as you use it; hold it in your Hand and it will slip out. When you wou\u0027d freeze any Sort of Fruit, either Cherries, Rasberries, Currants, or Strawberries, fill your Tin-Pots with the Fruit, but as hollow as you can; put to them Lemmonade, made with Spring-Water and Lemmon-Juice sweeten\u0027d; put enough in the Pots to make the Fruit hang together, and put them in Ice as you do Cream.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "ice-cream.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make ice-cream.\u003C/b\u003E\u003Cbr\u003E\nTAKE two pewter-basons, one larger than the other; the inward one must have a close cover, into which you are to put your cream, and mix it with raspberries, or whatever you like best, to give it a flavour and a colour. Sweeten it to your palate; then cover it close, and set it into the larger bason. Fill it with ice, and a handful of salt: let it stand in this ice three quarters of an hour, then uncover it, and stir the cream well together; cover it close again, and let it stand half an hour longer, after that turn it into your plate. These things are made at the pewterers.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Brown Bread Ice Cream",
+      "relatedPageUrl": "brown-bread-ice-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Christmas Pudding Ice Cream",
+      "relatedPageUrl": "christmas-pudding-ice-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ice Cream",
+      "relatedPageUrl": "ice-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ice Cream Cornet",
+      "relatedPageUrl": "ice-cream-cornet.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Jubilee Cherries",
+      "relatedPageUrl": "jubilee-cherries.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Knickerbocker Glory",
+      "relatedPageUrl": "knickerbocker-glory.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ninety-Nine",
+      "relatedPageUrl": "ninety-nine-ice-cream.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eales-1718"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Ice Cream",
+  "usedSnapshot": "20211021024101"
+}

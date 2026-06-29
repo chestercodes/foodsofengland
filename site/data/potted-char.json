@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140616085623",
+  "finalPath": "potted-char.html",
+  "heading": "Potted Char",
+  "ingredients": [
+    "butter",
+    "white wine",
+    "black pepper",
+    "cayenne",
+    "pepper",
+    "salt",
+    "trout"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "potted-char.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Potted Char\u003Cbr\u003E\n\u003Cbr\u003E\nPoach the fish with a Mirepoix and white wine and allow to cool completely in the cooking liquid. Drain well, discard the skin and remove the fillets, carefully eliminating all the bones.\u003Cbr\u003E\nArrange the fillets carefully in the special deep glazed earthenware container and cover completely with clarified butter, place in a warm oven for 15 minutes, allow to cool until the following day then add more clarified butter so as to cover the fish to a depth of approximately 8 mm (? in).\u003Cbr\u003E\nKeep in a very cool place.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "potted-char.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGood Things in England\u003C/i\u003E\u0027 by Florence White (\u003Ca href=\u0022references.html#white-1932\u0022\u003E\u003Cb\u003EWhite 1932\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMrs. Barton\u2019s Recipe for Potting Char\u003C/b\u003E\u003Cbr\u003E\n1807\u003Cbr\u003E\n\u003Cbr\u003E\nAn Ulverston friend sends this receipt. Mrs. Barton was the wife of the Rector of Windermere at this period. \u2018Char is a fish chiefly remarkable for its scarceness,\u2019 writes Bickerdyke, sometime Angling Editor of The Field. \u2018He is a lake fish - much resembles trout, but is redder on the belly and has smaller scales - and generally more gorgeous in colouring. They are found in many lakes of the United Kingdom - in Loch Doon, Ayrshire; Loch Achilty, Ross-shire; Loch Knockie, Inverness-shire; The Tarff, Kircudbrightshire; Corry Lair; and in Lochs Dochart, Ericht and Fruchie. They are found in a number of lakes, large and small, in Ireland-in Lough Cona (for example); in Wales, and in the Cumberland and Westmorland lakes; in Goats Water, and Hawes Water as well as Windermere, Buttermere and Crummock. The American brook trout is a beautiful char.\u2019\u003Cbr\u003E\n\u003Cbr\u003E\nThe fish are excellent eating, and potted char is a well-known delicacy. The friend to whom we owe the recipe says it is equally good for trout.\u003Cbr\u003E\n\u003Cbr\u003E\nINGREDIENTS: Char or trout 7 \u00BD lb. or 1 dozen fish; black pepper and salt; white pepper 1 \u00BC oz.; cloves 6 drams; ground mace 2 drams clarified butter 2 lb.; cayenne pepper.\u003Cbr\u003E\nTIME: 12 hours to salt; 4 hours to bake.\u003Cbr\u003E\nMETHOD\u003Cbr\u003E\n1.Clean your fish, head and tail them, lay them 12 hours in black pepper and salt, sprinkle inside and out.\u003Cbr\u003E\n2.Then season inside and out with the white pepper, cloves and mace.\u003Cbr\u003E\n3.Lay them in a baking dish one\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Potted Char",
+  "usedSnapshot": "20220517171646"
+}

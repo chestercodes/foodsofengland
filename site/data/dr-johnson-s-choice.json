@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922073722",
+  "finalPath": "dr-johnson-s-choice.html",
+  "heading": "Dr Johnson\u0027s Choice",
+  "ingredients": [
+    "brandy",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dr-johnson-s-choice.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Dr%20Johnson\u0027s%20Choice\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 bottle red wine\u003Cbr\u003E\n12 lumps sugar\u003Cbr\u003E\n6 cloves\u003Cbr\u003E\n1 pt boiling water\u003Cbr\u003E\n1/4 pt curacao\u003Cbr\u003E\n1/4 pt brandy\u003Cbr\u003E\nnutmeg\u003Cbr\u003E\n\u003Cbr\u003E\nPour the wine into a saucepan, add the sugar and cloves and bring to near boiling point. Add the boiling water, curacao and the brandy. Pour into glasses and grate nutmeg on top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dr Johnson\u0027s Choice",
+  "usedSnapshot": "20200108132746"
+}

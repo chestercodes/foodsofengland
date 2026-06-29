@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922080724",
+  "finalPath": "hedgerow-jelly-or-jam.html",
+  "heading": "Hedgerow Jelly or Jam",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blackberry Jam",
+      "relatedPageUrl": "blackberry-jam.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hedgerow Jelly or Jam",
+  "usedSnapshot": "20170314025940"
+}

@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20130325124619",
+  "finalPath": "devonshire-ham.html",
+  "heading": "Devonshire Ham",
+  "ingredients": [
+    "bacon",
+    "salt",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devonshire-ham.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO CURE BACON OR HAMS IN THE DEVONSHIRE WAY.\u003C/b\u003E\u003Cbr\u003E\n821. INGREDIENTS.- To every 14 lbs. of meat, allow 2 oz. of saltpetre, 2 oz. of salt prunella, 1 lb. of common salt. For the pickle, 3 gallons of water, 5 lbs. of common salt, 7 lbs. of coarse sugar, 3 lbs. of bay-salt.\u003Cbr\u003E\nMode; Weigh the sides, hams, and cheeks, and to every 14 lbs. allow the above proportion of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esaltpetre, salt prunella\u003C/b\u003E\u003C/a\u003E, and common salt. Pound and mix these together, and rub well into the meat; lay it in a stone trough or tub, rubbing it thoroughly, and turning it daily for 2 successive days. At the end of the second day, pour on it a pickle made as follows:- Put the above ingredients into a saucepan, set it on the fire, and stir frequently; remove all the scum, allow it to boil for \u00BC hour, and pour it hot over the meat. Let the hams, \u0026amp;c., be well rubbed and turned daily; if the meat is small, a fortnight will be sufficient for the sides and shoulders to remain in the pickle, and the hams 3 weeks; if from 30 lbs. and upwards, 3 weeks will be required for the sides, \u0026amp;c., and from 4 to 5 weeks for the hams. On taking the pieces out, let them drain for an hour, cover with dry sawdust, and smoke from a fortnight to 3 weeks. Boil and carefully skim the pickle after using, and it will keep good, closely corked, for 2 years. When boiling it for use, add about 2 lbs. of common salt, and the same of treacle, to allow for waste. Tongues are excellent put into this pickle cold, having been first rubbed well with saltpetre and salt, and allowed to remain 24 hours, not forgetting to make a deep incision under the thick part of the tongue, so as to allow the pickle to penetrate more readily. A fortnight or 3 weeks, according to the size of the tongue, will be sufficient.\u003Cbr\u003E\nTime - Small meat to remain in the pickle a fortnight, hams 3 weeks; to be smoked from a fortnight to 3 weeks.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Devonshire Ham",
+  "usedSnapshot": "20211201031922"
+}

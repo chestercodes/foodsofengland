@@ -1,0 +1,132 @@
+﻿{
+  "earliestSnapshot": "20150127033128",
+  "finalPath": "cowheel.html",
+  "heading": "Cowheel",
+  "ingredients": [
+    "bread",
+    "butter",
+    "egg",
+    "mustard",
+    "onions",
+    "parsley",
+    "vinegar",
+    "jelly",
+    "beef",
+    "carrots",
+    "fat",
+    "ham",
+    "mutton",
+    "partridge",
+    "turnips",
+    "veal"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "cowheel.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EModern domestic cookery, and useful receipt book\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ECow heels.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nBoil till tender, (save the liquor they were boiled in, and use it for making soup), and serve with \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Emelted butter\u003C/b\u003E\u003C/a\u003E, mustard, and vinegar; or parsley and butter.\u003Cbr\u003E\n\u003Cbr\u003E\nOr, having cut the heel into four parts, dip them in yolk of egg, strew grated bread over them, and fry of a nice brown in. dripping: fry sliced onions, lay them in the middle of the dish, and the heel round it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cowheel.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "COW HEELS. These are very nutricious, and may be variously dressed. The common way is to boil, and serve them in a napkin, with melted butter, mustard, and a large spoonful of vinegar. Or broil them very tender, and serve them as a brown fricassee. The liquor will do to make jelly sweet or relishing and likewise to give richness to soups or gravies. Another way is to cut them into four parts, to dip them into an egg, and then dredge and fry them. They may be garnished with fried onions, aud served with sauce as above. Or they may be baked as for mock turtle.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cowheel.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Lady\u0027s Companion, 1753\u003C/i\u003E (\u003Ca href=\u0022references.html#ladys-companion-1753\u0022\u003E\u003Cb\u003ELady\u0027s Companion 1753\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA Cow-Heel Pottage.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPUT in your Pot \u017Feven or eight Pounds of Buttock of Beef, a Lot of Mutton cut in two, three or four Pounds of a Leg of Veal, and the Knuckle of a Ham j put your Pot over the Stove till the Meat \u017Fticks a little to it, then pour out \u017Fome Broth without Fat; put in al\u017Fo a Fowl, and an old Partridge, \u017Fome Carrots, Par\u017Fnips, Turnips, and a Bunch of Sellery, and let it boil \u017Flowly: Then boil your Cow-Heel, and fini\u017Fh the doing of it in a litde Braze, that is, in a good Sea\u017Foning; when all is ready take the Crusts of French Rolls, and put them into a Stew-pan, \u017Ftrain \u017Fome clear Broth upon them, take off all the Fat, and let them \u017Foak and \u017Fimmer awhile over the Stove; then put it into the Soop-Di\u017Fh, with, your Cow-Heel upon it. La\u017Ftly, fill it up with Broth, and \u017Ferve it very hot. Let it be well boiled.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cowheel Broth",
+      "relatedPageUrl": "cowheel-broth.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cowheel in Green Sauce",
+      "relatedPageUrl": "cowheel-in-green-sauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cowheel Pie",
+      "relatedPageUrl": "cowheel-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fried Cowheel",
+      "relatedPageUrl": "fried-cowheel.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fried Ox-Feet",
+      "relatedPageUrl": "friedoxfeet,orcowheel.htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fried Tripe",
+      "relatedPageUrl": "fried-tripe.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Manchester Collared Pork",
+      "relatedPageUrl": "manchester-collared-pork.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Steak and Cowheel",
+      "relatedPageUrl": "steak-and-cowheel.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "ladys-companion-1753"
+    }
+  ],
+  "title": "Cowheel",
+  "usedSnapshot": "20220722083304"
+}

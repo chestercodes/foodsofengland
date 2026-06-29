@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072337",
+  "finalPath": "heron-pudding.html",
+  "heading": "Heron Pudding",
+  "ingredients": [
+    "pudding"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "heron-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "123. A HERON PUDDING (Kent) Before cooking it must be ascertained that no bones of the heron are broken. These bones are filled with a fishy fluid, which, if allowed to come in contact with the flesh, makes the whole bird taste of fish. This fluid, however, should be always extracted from the bones, and kept ia the medicine cupboard, for it is excellent applied to all sorts of cuts and cracks. The heron is first picked and flayed. Then slices are cut from the breast and legs to make the pudding. The crust is made exactly like that of a meat pudding, and the slices of heron put in and seasoned exactly as meat would be. The pudding is boiled for several hours, according to its size. (I have been told that, as a matter of fact, it tastes very much like a nice meat pudding.)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERoast Heron\u003C/b\u003E",
+      "relatedPageUrl": "heron-and-crane.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Heron Pudding",
+  "usedSnapshot": "20220815165848"
+}

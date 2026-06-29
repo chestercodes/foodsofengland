@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20121024084405",
+  "finalPath": "whitley-goose.html",
+  "heading": "Whitley Goose",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "cheddar",
+    "cheese",
+    "cream",
+    "goose",
+    "onion",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "whitley-goose.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWhitley Goose\u003C/b\u003E\u003Cbr\u003E\n4 whole onions, peeled.\u003Cbr\u003E\n4 oz of grated Cheddar cheese.\u003Cbr\u003E\n\u00BE of a pint of single cream.\u003Cbr\u003E\nSalt and Black pepper.\u003Cbr\u003E\nA knob of butter.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod.\u003C/b\u003E\u003Cbr\u003E\nBoil the onions in lightly salted water until they are tender (15 to 20 mins)\u003Cbr\u003E\nDrain and allow to cool down a little.\u003Cbr\u003E\nChop onions roughly and mix with half the cheese.\u003Cbr\u003E\nUse the knob of butter to grease an ovenproof dish.\u003Cbr\u003E\nPour in the cream.\u003Cbr\u003E\nStir in the onion/cheese mix.\u003Cbr\u003E\nTop with the rest of the cheese\u003Cbr\u003E\nBake in preheated oven at, 400\u00B0F, 200\u00B0C, gas mark 6 for 20 to 30 minutes or until golden brown.\u003Cbr\u003E\nWill serve four if used as an accompaniment to cold meats, or two as a supper dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMock Goose\u003C/b\u003E",
+      "relatedPageUrl": "mock-goose.html",
+      "relationDescription": "For similar dishes, see \u0027"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Whitley Goose",
+  "usedSnapshot": "20210512120458"
+}

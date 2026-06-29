@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140616085525",
+  "finalPath": "lord-d-aubigny-s-broiled-herrings.html",
+  "heading": "Lord d\u0027Aubigny\u0027s Broiled Herrings",
+  "ingredients": [
+    "herrings",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-d-aubigny-s-broiled-herrings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERED-HERRINGS BROYLED\u003C/b\u003E\u003Cbr\u003E\nMy Lord d\u0027Aubigny eats Red-herrings thus broiled. After they are opened and prepared for the Gridiron, soak them (both sides) in Oyl and Vinegar beaten together in pretty quantity in a little Dish. Then broil them, till they are hot through, but not dry. Then soak them again in the same Liquor as before, and broil them a second time. You may soak and broil them again a third time; but twice may serve. They will be then very short and crisp and savoury. Lay them upon your Sallet, and you may also put upon it, the Oyl and Vinegar, you soaked the Herrings in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Lord d\u0027Aubigny\u0027s Broiled Herrings",
+  "usedSnapshot": "20211130233730"
+}

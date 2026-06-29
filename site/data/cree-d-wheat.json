@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20130808222739",
+  "finalPath": "cree-d-wheat.html",
+  "heading": "Cree\u0027d Wheat",
+  "ingredients": [
+    "brandy",
+    "cream",
+    "currants",
+    "dried fruit",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "raisins",
+    "salt",
+    "sheep",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cree-d-wheat.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Farmhouse Kitchen\u003C/i\u003E\u0027 Festival Food, page 206, by Mary Norwak, c1980, (with thanks to Linda Johnson)",
+      "receiptText": "\u003Cb\u003ECreed Wheat and Frumenty\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n8oz wheat grains\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n3 pints water\u003Cbr\u003E\n2 pints milk\u003Cbr\u003E\n2oz raisins\u003Cbr\u003E\n2oz currants\u003Cbr\u003E\nPinch of nutmeg\u003Cbr\u003E\n2oz sugar\u003Cbr\u003E\n2 eggs, beaten (optional)\u003Cbr\u003E\n\u003Cbr\u003E\nGarnish (see recipe)\u003Cbr\u003E\nPut the wheat and salt into three pints water in a casserole. Put into a very low oven and leave overnight to simmer until there is no water left. The wheat will then be \u201Ccreed\u201D. Leave until needed. Then add the milk and dried fruit, together with the nutmeg and sugar, and cook gently on the hob or in the oven for two hours. Some recipes also include two beaten eggs just before the frumenty is ready. Serve with sweetened whey, chopped fresh fruit, or with rum or brandy and cream.\u003Cbr\u003E\n\u003Cbr\u003E\nIn Wiltshire, this used to be eaten on Mothering Sunday in Lent, and the \u0022creed\u0022 wheat could be bought ready for the dish. In Lincolnshire, it was served hot or cold at sheep-shearing time, and at harvest suppers. In Yorkshire, it was a traditional Christmas Even or Twelfth Night dish. It is also known as Furmenty and Firmity, and a \u201Cfirmity tea\u201D was often served to Lincolnshire children to celebrate sheep clipping\u201D.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Cree\u0027d Wheat",
+  "usedSnapshot": "20200222201706"
+}

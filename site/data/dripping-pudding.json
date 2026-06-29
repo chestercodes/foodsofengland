@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922082354",
+  "finalPath": "dripping-pudding.html",
+  "heading": "Dripping Pudding",
+  "ingredients": [
+    "beat",
+    "cream",
+    "currants",
+    "eggs",
+    "flour",
+    "pudding",
+    "sugar",
+    "beef",
+    "beef dripping",
+    "bread",
+    "egg",
+    "milk",
+    "puddings",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "dripping-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E374. Dripping Pudding.-\u003C/b\u003E Three eggs and their weight in dripping, two tablespoonfuls of sifted sugar; beat them up until a cream, add a few currants, and the flour gradually, until it forms a stiff paste; bake in cups previously buttered.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "dripping-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDaily Herald\u003C/i\u003E\u0027 - Wednesday 02 October 1912",
+      "receiptText": "\u003Cb\u003ESOME ECONOMICAL PUDDINGS.\u003Cbr\u003E\nBread and Dripping Pudding.\u003C/b\u003E\u003Cbr\u003E\nIngredients: Clarified beef dripping, raisins, bread, one egg, sugar, half-pint milk. Method: Fill a greased pie-dish with alternate layers of slices of bread and dripping and raisins. Beat up the egg with the milk and a teaspoonful of sugar and pour over the pudding, leaving it to soak for an hour. Bake in a moderate oven for three-quarters of an hour; it should then turn out of the pie-dish quite easily. Sift little sugar over and serve. Cost about 3d\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Dripping Pudding",
+  "usedSnapshot": "20220118045358"
+}

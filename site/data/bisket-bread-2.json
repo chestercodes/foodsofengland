@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140508102636",
+  "finalPath": "bisket-bread-2.html",
+  "heading": "Bisket Bread (2)",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "eggs",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bisket-bread-2.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Bisket Bread.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of Sugar searced very fine, and a pound of flower well dryed, and twelve Eggs, a handfull of Carroway-seed, six whites of Eggs, a very little Salt, beat all these together, and keep them with beating till you set them in the Oven, then put them into your Plates or Tin things, and take Butter and put into a Cloth and rub your Plate; a spoonfull into a Plate is enough, and so set them in the Oven, and let your Oven be no hotter then to bake small Pyes; if your flower be not dryed in the Oven before, they will be heavy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Bisket Bread (2)",
+  "usedSnapshot": "20210510043903"
+}

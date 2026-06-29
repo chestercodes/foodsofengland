@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072753",
+  "finalPath": "huffkins.html",
+  "heading": "Huffkins",
+  "ingredients": [
+    "butter",
+    "egg",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "huffkins.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Huffkins\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1\u00BD lbs strong white flour\u003Cbr\u003E\n1 tsp salt\u003Cbr\u003E\n2 tsp sugar\u003Cbr\u003E\nyeast\u003Cbr\u003E\n3oz butter\u003Cbr\u003E\n1 pint water and milk, mixed\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n\u003Cbr\u003E\nRub the butter into the flour and combine the ingredients, apart from the egg, in to a dough. Knead, cut into 16 pieces, form into round shapes and allow to rise. Poke aech down in the centre with the thumb, wash with egg and bake to golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Huffkins",
+  "usedSnapshot": "20170313214351"
+}

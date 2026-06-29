@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130323054514",
+  "finalPath": "farm-custard.html",
+  "heading": "Farm Custard",
+  "ingredients": [
+    "brandy",
+    "custard",
+    "eggs",
+    "lemon",
+    "milk",
+    "orange",
+    "orange peel",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "farm-custard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E365. Farm Custard.-\u003C/b\u003E Put in a small saucepan the yolks of four eggs, four teaspoonfuls of sugar, the peel of half a lemon, or a quarter of that grated, a grain of salt; mix all well, then add half a pint of milk; set the whole on the fire, stir continually with a wooden spoon till it gets thick and smooth; but do not let it boil, or it will curd; then put it in a basin to cool, stirring now and then; if handy, pass it through a sieve, it gives it a nice appearance, and serve either in glasses or cups, with any fresh or stewed fruit, orange peel, or any essence, brandy, or rum, may be used for flavouring.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Farm Custard",
+  "usedSnapshot": "20220819111843"
+}

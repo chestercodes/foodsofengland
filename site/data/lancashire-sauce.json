@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20200510142454",
+  "finalPath": "lancashire-sauce.html",
+  "heading": "Lancashire Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lancashire Sauce",
+  "usedSnapshot": "20220406212123"
+}

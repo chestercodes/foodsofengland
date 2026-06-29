@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323063536",
+  "finalPath": "poached-eggs-in-broth.html",
+  "heading": "Poached Eggs in Broth",
+  "ingredients": [
+    "egg",
+    "eggs",
+    "gravy",
+    "mutton",
+    "nutmeg",
+    "onions",
+    "oranges",
+    "partridges"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "poached-eggs-in-broth.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo poach eggs.\u003C/b\u003E\u003Cbr\u003E\nTake a dozen of new laid Eggs and flesh of foure or five Partridges, or other; mince it so small as you can season it with a few beaten Cloves, Mace, and Nutmeg, into a Silver Dish, with a Ladlefull or two of the Gravy of Mutton, wherein two or three Anchoves are dissolved; then set it a stewing on a fire of Char-Coales, and after it is halfe stewed, as it boyles, break in your Eggs, one by one, and as you break them, poure away most part of the Whites, and with one end of your Egg-shell, make a place in your Dish of meat, and therein put your Yolks of your Eggs, round in order amongst your meat, and so let them stew till your Eggs be enough, then grate in a little Nutmeg, and the juyce of a couple of Oranges; have a care none of the Seeds goe in, wipe your Dish and garnish your Dish, with four or five whole Onions,\u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Poached Eggs in Broth",
+  "usedSnapshot": "20220819110254"
+}

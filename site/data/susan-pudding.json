@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140212015522",
+  "finalPath": "susan-pudding.html",
+  "heading": "Susan Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "pudding",
+    "salt",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "susan-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SUSAN PUDDING. Boil some Windsor beans, just as they begin to be black-eyed, till they are quite tender. Then peel them, and beat up half a pound of them very smooth in a marble mortar. Add four spoonfuls of thick cream, sugar to taste, half a pound of clarified butter, and eight eggs, leaving out half the whites. Beat up the eggs well with a little salt, and white wine sufficient to give it an agreeable flavour. Line a dish with puff paste, add a pretty good layer of candied citron cut in long pieces, pour in the other ingredients, and bake it in a moderate oven three quarters of an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Susan Pudding",
+  "usedSnapshot": "20211207111402"
+}

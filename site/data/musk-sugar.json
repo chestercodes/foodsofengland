@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073439",
+  "finalPath": "musk-sugar.html",
+  "heading": "Musk Sugar",
+  "ingredients": [
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "musk-sugar.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E2. How to make musk-sugar of common-sugar\u003C/b\u003E\u003Cbr\u003E\nBruise 4 or 6 graines of Muske: place them in a piece of sarcenet, fine Lawn or Cambrick doubled: lay this in the bottome of a gally pot, strewing your sugar thereon: stop your pot close, and all the Sugar in a few daies will both sent and taste of Muske: and you may lay more sugar thereon, when you have spent that sugar, which will also receive the like impression. Such Muske-sugar is sold for two shillings the pound.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    }
+  ],
+  "title": "Musk Sugar",
+  "usedSnapshot": "20211021022035"
+}

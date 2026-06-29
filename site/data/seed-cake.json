@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20150922082733",
+  "finalPath": "seed-cake.html",
+  "heading": "Seed Cake",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "yeast",
+    "almonds",
+    "carraway seed",
+    "cinnamon",
+    "sugar",
+    "baking powder",
+    "beat",
+    "biscuits",
+    "caraway seeds",
+    "castor sugar",
+    "egg",
+    "lemon",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "seed-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "235. To make a SEED CAKE.\u003Cbr\u003E\n\u003Cbr\u003E\nTake one quartern of fine flour well dried before the fire, when it is cold rub in a pound of butter; take three quarters of a pound of carraway comfits, six spoonfuls of new yeast, six spoonfuls of cream, the yolks of six eggs and two whites, and a little sack; mix all of these together in a very light paste, set it before the fire till it rise, and so bake it in a tin.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "seed-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Confectioner\u003C/i\u003E\u0027 by Frederick Nutt, 1789 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "No. 41. A small rich Seed Cake,\u003Cbr\u003E\n\u003Cbr\u003E\nBREAK fourteen eggs into a copper pan, whisk them ten minutes; then take one pound of butter, and rub it well with your hand to a cream; put one pound of powdered sugar to the eggs, and whisk them over the lire three minutes, then whisk them till they are cold, afterwards mix them with the butter, with your hand as light as you can; put two or three handsful of carraway seed in, and some sweet almonds cut; and a little cinnamon and mace; mix one pound and a quarter of flour, as light as you can with your hand: put three papers inside your heap, and four or five at bottom, and let your oven be rather brisk; when you find your cake has risen, and the oven too hot at the top, cover it with a sheet of paper, and it will be done in about an hour and a half, or two hours at farthest.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "seed-cake.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "844. SEED CAKE (Cheshire)\u003Cbr\u003E\nTake one pound of flour, one pound of sugar, one dozen eggs, quarter of a pound of caraway seeds. Put one pound of butter before the fire till it gets soft enough to beat it up; when well beaten with the hand, put in the sugar and beat it well, then the eggs, and afterwards the fiour. They must all be beaten as they are put in. Line your pan with buttered paper and put in the batter.\u003Cbr\u003E\n\u003Cbr\u003E\n845. SEED BISCUITS (Kent)\u003Cbr\u003E\nTake three and a half pounds of flour, one pound of moist sugar, one and a half ounces of caraway seeds, one and a half pints of milk, and a little \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile salts\u003C/b\u003E\u003C/a\u003E. Wash them over with egg and sugar, and bake in a quick oven.\u003Cbr\u003E\nN.B. - The sugar should be dissolved in the milk and strained, for all biscuits.\u003Cbr\u003E\n\u003Cbr\u003E\n846. SEED CAKE (Gloucestershire)\u003Cbr\u003E\n(Rich)\u003Cbr\u003E\nTake one pound of flour and a pinch of salt, six ounces of butter, three-quarters of a pound of castor sugar, four eggs, one teaspoonful of caraway seeds, one ounce of baking powder, one gill of milk or cream. Add the eggs well beaten, and work well together; thin down with milk. Add bakingpowder and seeds last. Let it stand on plate rack over oven (coolest part) for about one hour. Then bake in moderate oven about one hour. Sufficient for two medium-sized cakes.\u003Cbr\u003E\n\u003Cbr\u003E\n847. SEED CAKE (Ireland)\u003Cbr\u003E\nTake one pound of butter beaten to a cream. Beat in one pound of powdered sugar (white); then beat in, one by one, a pound of eggs, each whole. Keep beating all together with a wooden spoon. Then add one pound of flour, well dried at the fire, and lemon or hawthorn whisky to flavour - a wineglassful. Beat at least one hour from the commencement. Bake in tin shapes lined with buttered paper. Bake about two hours. (The seeds have been omitted. Two ounces of caraways should suffice. Ed.)\u003Cbr\u003E\n\u003Cbr\u003E\n848. COMMON SEED CAKE (Yorkshire)\u003Cbr\u003E\nTwo and a half pounds of flour, half a pound of loaf sugar, one tablespoonful of thick yeast, half a pint of warm milk, half a pound of butter, one ounce of caraway seeds. Line a tin with buttered paper, put in the mixture, and set it before the fire to rise. Bake it about one hour in a rather hot oven. When done, brush the tops over with milk.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Seed Cake",
+  "usedSnapshot": "20211205180703"
+}

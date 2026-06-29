@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130323042727",
+  "finalPath": "friar-s-omelette.html",
+  "heading": "Friar\u0027s Omelette",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "lard",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "friar-s-omelette.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EFriar\u0027s Omelets.\u003C/b\u003E\u003Cbr\u003E\n995. Prepare twelve apples as for sauce, and stir in a quarter of a pound of sugar and a quarter of a pound of butter; when cold, add four eggs well beaten, and fry in butter or lard made very hot, as for French frying, or proceed as follows: Well butter a dish, strew bread-crumbs or vermicelli over it, so as to make them stick to it, put in the mixture, then strew crumbs or vermicelli plentifully over the top; when baked, turn it out of the dish and strew sugar over.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Friar\u0027s Omelette",
+  "usedSnapshot": "20211020234403"
+}

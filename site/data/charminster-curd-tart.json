@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140212023758",
+  "finalPath": "charminster-curd-tart.html",
+  "heading": "Charminster Curd Tart",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Charminster Curd Tart",
+      "relatedPageUrl": "charminster-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cheese Cake or Curd Tart",
+      "relatedPageUrl": "cheese-cake-or-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Curd Tart",
+      "relatedPageUrl": "curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sambocade",
+      "relatedPageUrl": "sambocade.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spiced Curd Tarts",
+      "relatedPageUrl": "spiced-curd-tarts.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Curd Tart or Cheesecake",
+      "relatedPageUrl": "yorkshire-curd-tart.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Charminster Curd Tart",
+  "usedSnapshot": "20220815150209"
+}

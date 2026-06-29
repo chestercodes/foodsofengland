@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922093219",
+  "finalPath": "onion-broth-soup.html",
+  "heading": "Onion Broth Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Onion Broth",
+      "relatedPageUrl": "onion-broth.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Onion Broth Soup",
+  "usedSnapshot": "20220808012824"
+}

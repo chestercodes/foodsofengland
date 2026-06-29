@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140616082514",
+  "finalPath": "suffolk-trout.html",
+  "heading": "Suffolk Trout",
+  "ingredients": [
+    "butter",
+    "lemon",
+    "lemon juice",
+    "pepper",
+    "salt",
+    "trout"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-trout.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESuffolk Trout\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n4 cleaned Trout\u003Cbr\u003E\n4 Bayleaves\u003Cbr\u003E\n2ozs Butter\u003Cbr\u003E\nJuice of 1 lemon\u003Cbr\u003E\nSalt and Pepper\u003Cbr\u003E\nLemon Slices for garnish\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\nRemove the heads of the trout and put a bayleaf inside each fish cavity.\u003Cbr\u003E\nIn a large frying pan, melt the butter.\u003Cbr\u003E\nAdd the trout and pour over the lemon juice.\u003Cbr\u003E\nSeason lightly with salt and pepper.\u003Cbr\u003E\nPut a lid on the pan and cook over a very low heat for around 20 mins, turning once halfway through cooking. Serve with a garnish of lemon slices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Suffolk Trout",
+  "usedSnapshot": "20211201005143"
+}

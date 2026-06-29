@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130325124659",
+  "finalPath": "pork-with-prunes.html",
+  "heading": "Pork with Prunes",
+  "ingredients": [
+    "flour",
+    "lemon",
+    "lemon juice",
+    "pepper",
+    "pork",
+    "prunes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pork-with-prunes.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EYorkshire Evening Post\u003C/i\u003E\u0027 - Thursday 22 April 1937",
+      "receiptText": "\u003Cb\u003ECasserole of Pork and Prunes.\u003C/b\u003E\u003Cbr\u003E\n3lb- best prunes. 1 lb. lean pork, the rind of a lemon and juice, flour, salt, pepper, dripping. This makes a novel and interesting dish. Cover the prunes with cold water and cook them with the lemon rind until they are tender. Strain off the juices, set it aside, and stone the prunes. Cut the pork into neat pieces, roll these flour which been seasoned with salt and pepper. Melt little dripping the frying-pan. brown the pieces pork it, then arrange these and the stoned primes alternate layers the casserole. Brown a little flour the remaining in the pan and add prune Juice. Pour this over the pork, with the lemon juice, cover the casserole closely, and cook a moderate oven for hour and half to two hours.\u003Cbr\u003E\nThis is one of the many novel recipes In \u0022Requested Recipes.\u0022 published by \u0022The Yorkshire Evening Post.\u0022 The price of the little book is 6d.. and it should have place on all kitchen shelves and be consulted you want something \u0022a little different.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Pork with Prunes",
+  "usedSnapshot": "20211018063903"
+}

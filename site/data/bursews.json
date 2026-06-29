@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130325124548",
+  "finalPath": "bursews.html",
+  "heading": "Bursews",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "pork",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bursews.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EThe Forme of Cury\u003C/i\u003E by the Chief Master-Cook of King Richard II, c1390 \u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EBURSEWS\u003C/b\u003E\u003Cbr\u003E\nTake pork, seethe it and grynde it small with sodden eggs. Do thereto goode powders and whole spices and salt with sugur. Make thereof small balls, and cast them in a batter of eggs \u0026 wet them in flour. And fry them in grease as frytters, and serve them forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Bursews",
+  "usedSnapshot": "20210512123519"
+}

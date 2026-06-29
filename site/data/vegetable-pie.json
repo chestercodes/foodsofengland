@@ -1,0 +1,85 @@
+﻿{
+  "earliestSnapshot": "20140212015113",
+  "finalPath": "vegetable-pie.html",
+  "heading": "Vegetable Pie",
+  "ingredients": [
+    "asparagus",
+    "broccoli",
+    "carrots",
+    "cauliflowers",
+    "cayenne",
+    "celery",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "onions",
+    "pepper",
+    "salt",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "vegetable-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EVEGETABLE PIE.\u003C/b\u003E\u003Cbr\u003E\nCut celery heads two inches long, turnips and carrots into shapes, some peeled button onions or two Spanish onions, artichoke bottoms cut into quarters, pieces of cauliflowers or heads of broccoli, and heads of large asparagus. Let all the vegetables be washed clean; then boil each separately in a sufficient quantity of water to cover them, and as they get tender strain the liquor into one stewpan and put the vegetables into another. Then add to their essence half a pint of strong consume, thicken it with flour and water, season to the palate with cayenne pepper, salt, and lemon juice; add also a little colour. Let it boil ten minutes and strain it to the vegetables; then simmer them together, and serve them up in a raised pie crust, or in a deep dish with a raised crust baked round it, two inches high.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Butter Pie",
+      "relatedPageUrl": "butter-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Friday Pie",
+      "relatedPageUrl": "friday-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gardener\u0027s Pie",
+      "relatedPageUrl": "gardener-s-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Vegetable Pie",
+      "relatedPageUrl": "vegetable-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Woolton Pie",
+      "relatedPageUrl": "woolton-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETurnip Pie\u003C/b\u003E",
+      "relatedPageUrl": "turnip-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Vegetable Pie",
+  "usedSnapshot": "20211207112741"
+}

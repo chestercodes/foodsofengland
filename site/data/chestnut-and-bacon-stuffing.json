@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808222914",
+  "finalPath": "chestnut-and-bacon-stuffing.html",
+  "heading": "Chestnut and Bacon Stuffing",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chestnut and Bacon Stuffing",
+  "usedSnapshot": "20211205165507"
+}

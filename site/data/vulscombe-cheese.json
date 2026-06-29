@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082538",
+  "finalPath": "vulscombe-cheese.html",
+  "heading": "Vulscombe Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Vulscombe Cheese",
+  "usedSnapshot": "20211027024041"
+}

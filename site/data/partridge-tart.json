@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922085313",
+  "finalPath": "partridge-tart.html",
+  "heading": "Partridge Tart",
+  "ingredients": [
+    "beef",
+    "beef marrow",
+    "nutmeg",
+    "oranges",
+    "partridge",
+    "partridges",
+    "rosewater",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "partridge-tart.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Partridge Tart.\u003C/b\u003E\u003Cbr\u003E\nTake the flesh of four or five Partridges minced very small with the same weight of Beef marrow as you have Partridge flesh, with two ounces of Orangeadoes and green citron minced together as small as your meate, season it with Cloves and Mace and Nutmeg and a little salt and Sugar, mix all together, and bake it in puff past; when it is baked, open it, and put in halfe a Grain of Muske or Amber braid in a Morter or Dish, and with a spoonfull of Rosewater and the juyce of three or four Oranges, when you put all these therein, stir the meat and cover it again, and serve it to the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Partridge Tart",
+  "usedSnapshot": "20220819111739"
+}

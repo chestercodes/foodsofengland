@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922084422",
+  "finalPath": "white-soup.html",
+  "heading": "White Soup",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "bread",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "milk",
+    "poultry",
+    "rice",
+    "veal",
+    "bacon",
+    "celery",
+    "chicken",
+    "egg",
+    "herbs",
+    "onions",
+    "pepper"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "white-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWHITE SOUP.\u003C/b\u003E\u003Cbr\u003E\n164. INGREDIENTS: \u00BC lb. of sweet almonds, \u00BC lb. of cold veal or poultry, a thick slice of stale bread, a piece of fresh lemon-peel, 1 blade of mace, pounded, \u00BE pint of cream, the yolks of 2 hard-boiled eggs, 2 quarts of white stock, No. 107.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Reduce the almonds in a mortar to a paste, with a spoonful of water, and add to them the meat, which should be previously pounded with the bread. Beat all together, and add the lemon-peel, very finely chopped, and the mace. Pour the boiling stock on the whole, and simmer for an hour. Rub the eggs in the cream, put in the soup, bring it to a boil, and serve immediately.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour. \u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 6d. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: all the year.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 8 persons.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: A more economical white soup may be made by using common veal stock, and thickening with rice, flour, and milk. Vermicelli should be served with it.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 5d. per quart.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "white-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "173. AN EXCELLENT WHITE SOUP (Eighteenth Century)\u003Cbr\u003E\n\u003Cbr\u003E\nTo six quarts of water put in a knuckle of veal, a large old fowl, a pound of lean bacon, and half a pound of rice, a few pepper-corns, two or three onions, a bundle of sweet herbs, and three or four heads of celery in slices. Stew all together till your soup is as strong as you choose it, then strain it through a hair sieve into a clean earthen pot; let it stand all night, then take off the scum, and pour the soup clear off into a tossing-pan; put in half a pound of Jordan almonds beaten fine, boil it a little, and run it through a sieve, then put in a pint of cream and the yolk of an egg. Make it hot (but not boiling) and send it to table.\u003Cbr\u003E\n\u003Cbr\u003E\n174. WHITE SOUP WITH POACHED EGGS (Eighteenth Century)\u003Cbr\u003E\n\u003Cbr\u003E\nTake veal stock or chicken broth: beat half a pound of almonds, and the breast of a fowl, very fine in a mortar: add these to the white stock, boil well, and strain off. Let it gently simmer on the stove, while you poach eight eggs: lay these in your soup, with a French roll in the middle, filled with minced chicken or veal. Serve very hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "White Soup",
+  "usedSnapshot": "20210518212233"
+}

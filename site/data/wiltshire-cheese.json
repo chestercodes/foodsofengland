@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616081301",
+  "finalPath": "wiltshire-cheese.html",
+  "heading": "Wiltshire Cheese",
+  "ingredients": [
+    "cheese",
+    "cheeses",
+    "fat",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wiltshire-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "WILTSHIRE CHEESE. This is made of new milk, a little lowered with water and skim milk. The curd is first broken with the hand and dish, care being taken to let the whey run off gradually, to prevent its carrying away with it the fat of[486] the cowl. For thin cheese the curd is not broken so fine as in Gloucestershire; for thick cheese it is crushed finer still. The whey is poured off as it rises, and the curd pressed down. The mass is then pared down three or four times over, in slices about an inch thick, in order to extract all the whey from it, and then it is pressed and scalded as before. After separating the whey, the curd is sometimes broken again, and salted in the cowl; and at others it is taken warm out of the liquor, and salted in the vat. Thin cheeses are placed in one layer, with a small handful of salt; and thick ones in two layers, with two handfuls of salt; the salt being spread and rubbed uniformly among the curd.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Wiltshire Cheese",
+  "usedSnapshot": "20220815153751"
+}

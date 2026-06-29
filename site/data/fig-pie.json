@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130808225424",
+  "finalPath": "fig-pie.html",
+  "heading": "Fig Pie",
+  "ingredients": [
+    "apple",
+    "pastry",
+    "pears",
+    "raisins",
+    "saffron",
+    "breadcrumbs",
+    "ginger",
+    "golden syrup",
+    "lemon",
+    "mincemeat"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fig-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "XXIII. FOR TO MAKE TARTYS IN APPLIS.\u003Cbr\u003E\nTak gode Applys and gode Spycis and Figys and reysons and Perys and wan they are wel ybrayed colourd wyth Safroun wel and do yt in a cofyn and do yt forth to bake wel.\u003Cbr\u003E\n\u003Cbr\u003E\n[TO MAKE A TART WITH APPLE\u003Cbr\u003E\nTake good apples and good spices and figs and raisins and pears and when they are well softened, colour with saffron and put into a pastry case and bake it well]\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fig-pie.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EEvening Telegraph\u003C/i\u003E\u0027 - Wednesday 22 April 1931",
+      "receiptText": "\u003Cb\u003EFig Pie.\u003C/b\u003E This is a very old English pie and is very delicious. It may be made in many ways; try this one:- Grease plate - an enamel or tin one is best - line it with pastry, either short or flaky,-and spread it on, as you would mincemeat, the following filling: Take two ounces of white breadcrumbs, four ounces of chopped figs, the grated rind and juice of lemon, a sour apple, peeled, cored, and chopped, and little ground ginger. Mix these ingredients together with golden syrup that has been made liquid by heating. The mixture should be of the consistency of mincemeat.\u003Cbr\u003E\nCover the tart with pastry and bake in a hot oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u0027\u003Cb\u003EFag-Pie\u003C/b\u003E\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Fig Pie",
+  "usedSnapshot": "20211207122347"
+}

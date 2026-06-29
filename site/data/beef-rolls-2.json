@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130324050956",
+  "finalPath": "beef-rolls-2.html",
+  "heading": "Beef Rolls (2)",
+  "ingredients": [
+    "beef",
+    "fat",
+    "herbs",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-rolls-2.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBEEF ROLLS (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n647. INGREDIENTS: The remains of cold roast or boiled beef, seasoning to taste of salt, pepper, and minced herbs; puff paste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Mince the beef tolerably fine with a small amount of its own fat; add a seasoning of pepper, salt, and chopped herbs; put the whole into a roll of puff paste, and bake for\u00BD hour, or rather longer, should the roll be very large. Beef patties may be made of cold meat, by mincing and seasoning beef as directed above, and baking in a rich puff paste in patty-tins.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: \u00BD hour.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Beef Rolls (2)",
+  "usedSnapshot": "20211020233712"
+}

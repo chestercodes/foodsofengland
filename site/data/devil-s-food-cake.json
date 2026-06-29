@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084738",
+  "finalPath": "devil-s-food-cake.html",
+  "heading": "Devil\u0027s Food Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Devil\u0027s Food Cake",
+  "usedSnapshot": "20211205180108"
+}

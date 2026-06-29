@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20130808221456",
+  "finalPath": "coltsfoot-rock.html",
+  "heading": "Coltsfoot Rock",
+  "ingredients": [
+    "lemon"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "coltsfoot-rock.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA treatise on the art of boiling sugar, crystallizing, lozenge-making etc\u003C/i\u003E\u0027 By Henry Weatherley, 1865",
+      "receiptText": "\u003Cb\u003EColtsfoot Rock.\u003C/b\u003E\u003Cbr\u003E\nInstead of two quarts of gum mucilage use one, and about a quarter pound \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Egum dragon\u003C/b\u003E\u003C/a\u003E well soaked in a quart of water; this must be done twenty-four hours before it is required, force it through a coarse cloth or sieve; mix the liquorice in with half an ounce of essence of lemon; the paste must be stiff and tough to pass through the machine or it will not look smooth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Coltsfoot Rock",
+  "usedSnapshot": "20220819102921"
+}

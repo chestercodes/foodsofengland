@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20211020225858",
+  "finalPath": "staffordshire-cheese.html",
+  "heading": "Staffordshire Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Staffordshire Cheese",
+  "usedSnapshot": "20211020225858"
+}

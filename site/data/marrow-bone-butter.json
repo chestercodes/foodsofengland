@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922091407",
+  "finalPath": "marrow-bone-butter.html",
+  "heading": "Marrow Bone Butter",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Marrow Bone Butter",
+  "usedSnapshot": "20220118040251"
+}

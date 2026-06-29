@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140212023310",
+  "finalPath": "griddle-cakes.html",
+  "heading": "Griddle Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Griddle Cakes",
+  "usedSnapshot": "20220808013851"
+}

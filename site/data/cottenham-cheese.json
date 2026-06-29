@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922080948",
+  "finalPath": "cottenham-cheese.html",
+  "heading": "Cottenham Cheese",
+  "ingredients": [
+    "cheese"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cottenham-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "COTTENHAM CHEESE. Though this is so much noted for its superior flavour and delicacy, it does not appear to be owing to any particular management of the dairy, but rather to the fragrance of the herbage on which the cows feed in that part of the country.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fog Cheese",
+      "relatedPageUrl": "fog-cheese.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Ruayan",
+      "relatedPageUrl": "ruaynCheese.htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridgeshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Cottenham Cheese",
+  "usedSnapshot": "20220705093726"
+}

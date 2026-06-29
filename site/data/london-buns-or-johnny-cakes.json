@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922083859",
+  "finalPath": "london-buns-or-johnny-cakes.html",
+  "heading": "London Buns or Johnny Cakes",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "egg",
+    "eggs",
+    "flour",
+    "lemon",
+    "milk",
+    "orange",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "london-buns-or-johnny-cakes.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027Choice Recipes From Many Sources and of Acknowledged Worth\u0027\u003C/i\u003E in the March 8th 1899 edition of \u003Ci\u003EThe Day\u003C/i\u003E newspaper from New London, Connecticut, USA.",
+      "receiptText": "\u003Cb\u003ELONDON BUNS.\u003C/b\u003E\u003Cbr\u003E\nThree cups flour, one-hail cup butter, three eggs, on cup of milk, pinch of salt, five tablespoonfuls sugar, two teaspoonfuls baking powder, two tablespoonfuls candied peel (orange, lemon, citron etc.), grated rind of one-half lemon, grated rind of one-half, orange. Mix flour, salt, sugar and baking powder together, and sift three times; rub in the butter with the tips of the fingers, add the well-beat-en eggs, saving out one tablespoonful of egg to paint the buns with. Add the Milk slowly, cutting it in with a knife, then add the candied peel, cut in small pieces and well floured, also the grated lemon and orange rind. Mix well, place In well-buttered tins. Add one teaspoonful cold milk to the one tablespoonful egg saved from the buns, and paint them over well. Bake-in hot oven one-quarter hour; this quantity will make fifteen buns. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Marlborough Bun",
+      "relatedPageUrl": "marlborough-buns.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "London Buns or Johnny Cakes",
+  "usedSnapshot": "20210309020527"
+}

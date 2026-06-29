@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20130809001514",
+  "finalPath": "mutton-and-raisin-pie.html",
+  "heading": "Mutton and Raisin Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Mutton and Raisin Pie",
+  "usedSnapshot": "20211205162753"
+}

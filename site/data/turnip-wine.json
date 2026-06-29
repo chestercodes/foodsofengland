@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922074330",
+  "finalPath": "turnip-wine.html",
+  "heading": "Turnip Wine",
+  "ingredients": [
+    "brandy",
+    "sugar",
+    "turnip",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "turnip-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make turnip wine.\u003C/b\u003E\u003Cbr\u003E\nTAKE a good many turnips, pare them, slice them, put them in a cyder-press, and press out all the juice very well. To every gallon of juice have three pounds of lump sugar, have a vessel ready, just big enough to hold the juice, put your sugar into a vessel, and also to every gallon of juice half a pint of brandy. Pour in the juice, and aly something over the bung for a week, to see if it works. If it does, you must not bung it down till it has done working; then stop it close for three months, and draw if off into another vessel. When it is fine, bottle it off.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Turnip Wine",
+  "usedSnapshot": "20220825193811"
+}

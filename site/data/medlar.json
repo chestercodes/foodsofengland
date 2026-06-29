@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922084043",
+  "finalPath": "medlar.html",
+  "heading": "Medlar",
+  "ingredients": [
+    "ginger",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "medlar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Encyclopedia of Cookery\u003C/i\u003E\u0027 by Theodore Garrett (\u003Ca href=\u0022references.html#garrett-1891\u0022\u003E\u003Cb\u003EGarrett 1891\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Medlars for Dessert. - To serve these artistically, first of all the hollow in the dessert-dish must be filled up, which can easily be done with fancy paper, made into a roll or into a bun shape (called a tampion), or paste-board may be employed cut to the size of the dish, having a support in the centre to keep it well raised. Cover with leaves or moss, trim off all the rough parts of the Medlars, and arrange them on the dish in the form of a pyramid or any other design, putting leaves or moss between them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "medlar.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a tarte of Medlers\u003C/b\u003E\u003Cbr\u003E\nTAke Medlers that be rotten, \u0026 straine them then set them on a chafingdish of coales, and beate it in two yolkes of Egges, and let it boil til it be somewhat thick: then season it with synamon, Ginger and Sugar, and lay it in paste.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Medlar Cheese",
+      "relatedPageUrl": "medlar-cheese.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Medlar Jelly",
+      "relatedPageUrl": "medlar-jelly.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "garrett-1891"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Medlar",
+  "usedSnapshot": "20220706152908"
+}

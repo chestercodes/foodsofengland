@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922100643",
+  "finalPath": "cotswold-rabbit-pie.html",
+  "heading": "Cotswold Rabbit Pie",
+  "ingredients": [
+    "eggs",
+    "gravy",
+    "ham",
+    "herbs",
+    "liver",
+    "nutmeg",
+    "onion",
+    "pepper",
+    "rabbit",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cotswold-rabbit-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERABBIT PIE.\u003C/b\u003E\u003Cbr\u003E\n981. INGREDIENTS: 1 rabbit, a few slices of ham, salt and white pepper to taste, 2 blades of pounded mace,\u00BD teaspoonful of grated nutmeg, a few forcemeat balls, 3 hard-boiled eggs,\u00BD pint of gravy, puff crust.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut up the rabbit (which should be young), remove the breastbone, and bone the legs. Put the rabbit, slices of ham, forcemeat balls, and hard eggs, by turns, in layers, and season each layer with pepper, salt, pounded mace, and grated nutmeg. Pour in about\u00BD pint of water, cover with crust, and bake in a well-heated oven for about 1-\u00BD hour. Should the crust acquire too much colour, place a piece of paper over it to prevent its burning. When done, pour in at the top, by means of the hole in the middle of the crust, a little good gravy, which may be made of the breast- and leg-bones of the rabbit and 2 or 3 shank-bones, flavoured with onion, herbs, and spices.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: from 1s. to 1s. 6d. each.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to February.\u003Cbr\u003E\n\u003Ci\u003ENote.\u003C/i\u003E - The liver of the rabbit may be boiled, minced, and mixed with the forcemeat balls, when the flavour is liked.\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Cimg src=\u0022thumb-cony.jpg\u0022 border=\u00220\u0022\u003E\u003Cbr\u003E\n\u003Csmall\u003ERabbit from \u0027Conny-catching\u0027 by Robert Greene, 1591\u003C/small\u003E\u003C/center\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Cotswold Rabbit Pie",
+  "usedSnapshot": "20211020220755"
+}

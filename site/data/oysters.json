@@ -1,0 +1,318 @@
+﻿{
+  "earliestSnapshot": "20150922074844",
+  "finalPath": "oysters.html",
+  "heading": "Oysters",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Angels on Horseback",
+      "relatedPageUrl": "angels-on-horseback.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Barberries",
+      "relatedPageUrl": "barberries.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Bastard Gravy",
+      "relatedPageUrl": "bastard-gravy.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Battaglia Pie",
+      "relatedPageUrl": "battaglia-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Beef Pudding",
+      "relatedPageUrl": "beef-pudding.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Boiled Fowl with Oysters",
+      "relatedPageUrl": "boiled-fowl-with-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Bolton Hotpot",
+      "relatedPageUrl": "bolton-hotpot.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Capon with Orange or Oysters",
+      "relatedPageUrl": "capon-with-orange-or-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Cockle Soup",
+      "relatedPageUrl": "cockle-soup.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Cod\u0027s Head (and shoulders)",
+      "relatedPageUrl": "cod-s-head-and-shoulders.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Colchester Oysters",
+      "relatedPageUrl": "colchester-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Dredgerman\u0027s Breakfast",
+      "relatedPageUrl": "dredgerman-s-breakfast.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Essex Oyster Loaves",
+      "relatedPageUrl": "essex-oyster-loaves.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Exeter Scalloped Oysters",
+      "relatedPageUrl": "exeter-scalloped-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Fish and Oyster Pie",
+      "relatedPageUrl": "fish-and-oyster-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Fish Soup",
+      "relatedPageUrl": "fish-soup.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Fried Oysters",
+      "relatedPageUrl": "fried-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Fried Oysters in Batter",
+      "relatedPageUrl": "fried-oysters-in-batter.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Hen with Oysters",
+      "relatedPageUrl": "hen-with-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "John Bull\u0027s Pudding",
+      "relatedPageUrl": "john-bull-s-pudding.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Lamb with Anchovies",
+      "relatedPageUrl": "lamb-with-anchovies.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Ling Pie",
+      "relatedPageUrl": "ling-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Meat and Oyster Pie",
+      "relatedPageUrl": "meat-and-oyster-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Mrs Mary Gordon\u0027s Carp Pye",
+      "relatedPageUrl": "mrs-mary-gordon-s-carp-pye.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Mutton with Cockles",
+      "relatedPageUrl": "mutton-with-cockles.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Ox Cheek",
+      "relatedPageUrl": "ox-cheek.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Forcemeat",
+      "relatedPageUrl": "oyster-forcemeat.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Loaves",
+      "relatedPageUrl": "oyster-loaves.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Mouth Soup",
+      "relatedPageUrl": "oyster-mouth-soup.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Pie",
+      "relatedPageUrl": "oyster-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Sauce",
+      "relatedPageUrl": "oyster-sauce.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Sausages",
+      "relatedPageUrl": "oyster-sausages.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Soup",
+      "relatedPageUrl": "oyster-soup.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oyster Stuffing",
+      "relatedPageUrl": "oyster-stuffing.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oysters",
+      "relatedPageUrl": "oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Oysters in Bastard Gravy",
+      "relatedPageUrl": "oysters-in-bastard-gravy.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Palpatoon or Pompetone",
+      "relatedPageUrl": "palpatoon.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Parson\u0027s Venison",
+      "relatedPageUrl": "parson-s-venison.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Pickled Mussels",
+      "relatedPageUrl": "pickled-mussels.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Pickled Oysters",
+      "relatedPageUrl": "pickled-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Pigs-in-a-Blanket",
+      "relatedPageUrl": "pigs-in-a-blanket.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Plain Cookery for the Working Classes, 1852",
+      "relatedPageUrl": "plain-cookery-for-the-working-classes-1852.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Potato Table Pasty",
+      "relatedPageUrl": "potato-table-pasty.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Roast Leg of Lamb",
+      "relatedPageUrl": "roast-leg-of-lamb.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Salmon",
+      "relatedPageUrl": "salmon.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Scalloped Potato",
+      "relatedPageUrl": "scalloped-potato.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Shropshire Pie",
+      "relatedPageUrl": "shropshire-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Skuett",
+      "relatedPageUrl": "skuett.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Solomon Gundy",
+      "relatedPageUrl": "solomon-gundy.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "St Edmundsbury Mutton",
+      "relatedPageUrl": "st-edmundsbury-mutton.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pudding",
+      "relatedPageUrl": "steak-and-kidney-pudding.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Steak and Oyster Pie",
+      "relatedPageUrl": "steak-and-oyster-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Stout",
+      "relatedPageUrl": "stout.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Sturgeon",
+      "relatedPageUrl": "sturgeon.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Sweetbreads",
+      "relatedPageUrl": "sweetbreads.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Turkey Sauce",
+      "relatedPageUrl": "turkey-sauce.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Veal and Ham Pie",
+      "relatedPageUrl": "veal-and-ham-pie.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Veal and Oysters",
+      "relatedPageUrl": "veal-and-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    },
+    {
+      "relatedPageText": "Whitstable Oysters",
+      "relatedPageUrl": "whitstable-oysters.html",
+      "relationDescription": "For some dishes in The Foods of England including oysters, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oysters",
+  "usedSnapshot": "20170314145041"
+}

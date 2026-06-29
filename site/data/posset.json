@@ -1,0 +1,158 @@
+﻿{
+  "earliestSnapshot": "20150922075035",
+  "finalPath": "posset.html",
+  "heading": "Posset",
+  "ingredients": [
+    "ale",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "sugar",
+    "almonds",
+    "beat",
+    "butter",
+    "cherry",
+    "lemon",
+    "lemons",
+    "white wine"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "posset.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Posset.\u003C/b\u003E\u003Cbr\u003E\nTake the yolks of twenty eggs, then have a pottle of good thick sweet cream, boil it with good store of whole cinamon, and stir it continually on a good fire, then strain the eggs with a little raw cream; when the cream is well boiled and tasteth of the spice, take it off the fire, put in the eggs, and stir them well in the cream, being pretty thick, have some sack in a posset pot or deep silver bason, half a pound of double refined sugar, and some fine grated nutmeg, warm it in the bason and pour in the cream and eggs, the cinamon being taken out, pour it as high as you can hold the skillet, let it spatter in the bason to make it froth, it will make a most excellent posset, then have loaf-sugar fine beaten, and strow on it good store.\u003Cbr\u003E\nTo the curd you may add some fine grated manchet, some claret or white-wine, or ale only.\u003Cbr\u003E\n\u003Cb\u003ETo make a Posset otherways.\u003C/b\u003E\u003Cbr\u003E\nTake two quarts of new cream, a quarter of an ounce of whole cinamon, and two nutmegs quartered, boil it till it taste well of the spice, and keep it always stirring, or it will burn to, then take the yolks of fourteen or fifteen eggs beaten well together with a little cold cream, put them to the cream on the fire, and stir it till it begin to boil, then take it off and sweeten it with sugar, and stir it on till it be pretty cool; then take a pint and a quarter of sack, sweeten that also and set it on the fire till it be ready to boil, then put it in a fine clean scowred bason, or posset pot, and pour the cream into it, elevating your hand to make it froth, which is the grace of your posset; if you put it through a tunnel or cullender, it is held the more exquisite way.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "posset.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E150. To make a POSSET with Almonds.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBlanch and beat three quarters of a pound of almonds, so fine that they will spread betwixt your fingers like butter, put in water as you beat them to keep them for oiling; take a pint of sack, cherry or gooseberry wine, and sweeten it to your taste with double refin\u0027d sugar, make it boiling hot; take the almonds, put to them a little water, and boil the wine and almonds together; take the yolks of four eggs, and beat them very well, put to them three or four spoonfuls of wine, then put it into your pan by degrees, stirring it all the while; when it begins to thicken take it off, and stir it a little, put it into a china dish, and serve it up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "posset.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E620. LEMON POSSET (Yorkshire, 1769)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake one pint of good thick cream, grate into it the outer rind of two lemons, and squeeze the juice into half a gill of white wine, and sweeten it to your taste. Take the whites of two eggs and beat them to a froth, then beat all together in a bowl, then put it into the glasses for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Earl of Arundel\u0027s Posset",
+      "relatedPageUrl": "earl-of-arundel-s-posset.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "King William\u0027s Posset",
+      "relatedPageUrl": "king-william-s-posset.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Master Rudstone\u0027s Posset",
+      "relatedPageUrl": "master-rudstone-s-posset.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Powsowdie or Ponsondie",
+      "relatedPageUrl": "powsowdie-or-ponsondie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Sack Posset",
+      "relatedPageUrl": "sack-posset.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Treacle Posset",
+      "relatedPageUrl": "treacle-posset.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ale Gruel",
+      "relatedPageUrl": "ale-gruel.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Aleberry",
+      "relatedPageUrl": "aleberry.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Bragget",
+      "relatedPageUrl": "bragget.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Flip",
+      "relatedPageUrl": "egg-flip.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Hot",
+      "relatedPageUrl": "egg-hot.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Koorow",
+      "relatedPageUrl": "koorow.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Lamb\u0027s Wool, or Lamasool",
+      "relatedPageUrl": "lambswool,orlamasool.htm",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Mulled Ale",
+      "relatedPageUrl": "mulled-ale.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Posset",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Treacle Posset",
+      "relatedPageUrl": "treacle-posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Posset",
+  "usedSnapshot": "20211027030528"
+}

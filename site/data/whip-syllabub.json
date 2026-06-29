@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140514174131",
+  "finalPath": "whip-syllabub.html",
+  "heading": "Whip Syllabub",
+  "ingredients": [
+    "brandy",
+    "cream",
+    "lemon",
+    "nutmeg",
+    "sherry",
+    "sugar",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "whip-syllabub.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWHIPPED SYLLABUBS.\u003C/b\u003E\u003Cbr\u003E\n1493. INGREDIENTS. -\u00BD pint of cream, \u00BC pint of sherry, half that quantity of brandy, the juice of\u00BD lemon, a little grated nutmeg, 3 oz. of pounded sugar, whipped cream the same as for trifle No. 1489.\u003Cbr\u003E\nMode. - Mix all the ingredients together, put the syllabub into glasses, and over the top of them heap a little whipped cream, made in the same manner as for trifle No. 1489. Solid syllabub is made by whisking or milling the mixture to a stiff froth, and putting it in the glasses, without the whipped cream at the top.\u003Cbr\u003E\nAverage cost, 1s. 8d.\u003Cbr\u003E\nSufficient to fill 8 or 9 glasses.\u003Cbr\u003E\nSeasonable at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Syllabub",
+      "relatedPageUrl": "syllabub.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Whip Syllabub",
+  "usedSnapshot": "20220112214900"
+}

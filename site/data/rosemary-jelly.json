@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922084711",
+  "finalPath": "rosemary-jelly.html",
+  "heading": "Rosemary Jelly",
+  "ingredients": [
+    "beat",
+    "egg",
+    "fat",
+    "jelly",
+    "rosemary",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rosemary-jelly.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Jelly\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTo make the best Jelly, take Calves feet and wash them, and scald off the hair as clean as you can get it: then split them and take out the fat, and lay them in water and shift them, then bruise them in fair water untill it will jelly, which you shall know by now and then cooling a Spoonful of the Broth: when it will jelly, then strain it, and when it is cold, then put in a pint of Sack, and whole Cinamon, and Sugar, and a little Rosewater, and boyl it all well together again. Then beat the white of an Egg and put into it, and let it have one boyl more: then put in a branch of Rosemary into the bottom of your Jelly bag, and let it run through once or twice, and if you will have it coloured, then put in a little Townsal. Also if you want Calves-feet, you may make as good Jelly if you take the like quantity of Ising-glass, and so use no Calves-feet at all.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Rosemary Jelly",
+  "usedSnapshot": "20211018072115"
+}

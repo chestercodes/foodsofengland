@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140616080534",
+  "finalPath": "baked-herrings.html",
+  "heading": "Baked Herrings",
+  "ingredients": [
+    "allspice",
+    "beer",
+    "black pepper",
+    "herrings",
+    "onion",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-herrings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BAKED HERRINGS. Wash and drain, without wiping them; and when drawn, they should not be opened. Season with allspice in fine powder, salt, and a few whole cloves. Lay them in a pan with plenty of black pepper, an onion, and a few bay leaves. Add half vinegar and half small beer, enough to cover them. Put paper over the pan, and bake in a slow oven. If it be wished to make them look red, throw a little \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esaltpetre\u003C/b\u003E\u003C/a\u003E over them the night before.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Baked Herrings",
+  "usedSnapshot": "20220819113742"
+}

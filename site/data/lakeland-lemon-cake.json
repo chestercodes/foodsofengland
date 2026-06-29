@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150513065304",
+  "finalPath": "lakeland-lemon-cake.html",
+  "heading": "Lakeland Lemon Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lakeland Lemon Cake",
+  "usedSnapshot": "20220527071306"
+}

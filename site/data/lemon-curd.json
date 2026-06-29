@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150514221537",
+  "finalPath": "lemon-curd.html",
+  "heading": "Lemon Curd",
+  "ingredients": [
+    "beat",
+    "cream",
+    "eggs",
+    "jelly",
+    "lemon",
+    "lemons",
+    "sugar",
+    "orange",
+    "rose-water",
+    "butter",
+    "castor sugar"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "lemon-curd.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ELemon cream.\u003C/b\u003E\u003Cbr\u003E\nTAKE five large lemons, pare them as thin as possible, steep them all night in twenty sponfuls of spring-water, with the juice of the lemons, then strain it through a jelly-bag into a silver sauce-pan, if you have one, the whites of six eggs beat well, ten ounces of double refined sugar, set it over a very slow charcoal fire, stir all the time one way, skim it, and when it is as hot as you can bear your fingers in, pour it into glasses.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemon-curd.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E257. To make yellow LEMON CREAM\u003C/b\u003E.\u003Cbr\u003E\nTake two or three lemons, according as they are in bigness, take off the peel as thin as you can from the white, put it into a pint of clear water, and let it lie three or four hours; take the yolks of three or four eggs, beat them very well, about eight ounces of double refin\u0027d sugar, put it into your water to dissolve, and a spoonful or two of rose-water or orange-flower water, which you can get, mix all together with the juice of two of your lemons, and if your lemons prove not good, put in the juice of three, so strain them through a fine cloth into a silver tankard, and set it over a stove or chafing dish, stirring it all the time, and when it begins to be as thick as cream take it off, but don\u0027t let it boil, if you do it will curdle, stir it whilst it be cold and put it into glasses for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemon-curd.html-3",
+      "receiptSource": "Original Receipt in \u003Ci\u003E\u0027The Lady\u0027s Own Cookery Book, and New Dinner-table Directory\u0027\u003C/i\u003E, by Lady Charlotte Campbell Bury, 1844",
+      "receiptText": "\u003Cb\u003ELemon Curd\u003C/b\u003E\u003Cbr\u003E\nTo a pint of cream when it boils put in the whites of six eggs and one lemon and a half stir it until it comes to a tender curd Then put it into a holland bag and let it drain till all the whey is out of it beat the curd in a mortar with a little sugar put it in a basin to form about two or three hours before you use it turn it out and pour thick cream and sugar over it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemon-curd.html-4",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "640. LEMON CURD (Essex) Take two ounces of fresh butter, three beaten yolks of eggs, the juice and grated rind of two lemons, half a pound of castor sugar. Mix well, and put the mixture into a jar, and stand it in a saucepan of boihng water over a slow fire, till the mixture is like a thick cream. Put it into pots and cover closely.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ELemon Cheese, Lemon Cream\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Lemon Curd",
+  "usedSnapshot": "20220121110712"
+}

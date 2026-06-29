@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130324050940",
+  "finalPath": "bacon-chops-with-gooseberry-sauce.html",
+  "heading": "Bacon Chops with Gooseberry Sauce",
+  "ingredients": [
+    "bacon",
+    "brown sugar",
+    "butter",
+    "cabbage",
+    "gooseberries",
+    "mustard",
+    "mustard powder",
+    "onion",
+    "onions",
+    "pepper",
+    "soft brown sugar",
+    "sugar",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-chops-with-gooseberry-sauce.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bacon%20Chops%20with%20Gooseberry%20Sauce\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBacon Chops with Gooseberry Sauce\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 tbsp soft brown sugar\u003Cbr\u003E\n1 tsp mustard powder\u003Cbr\u003E\npepper\u003Cbr\u003E\n4 bacon chops, 6 oz each\u003Cbr\u003E\n1/2 oz butter\u003Cbr\u003E\n1 large onion, skinned and chopped\u003Cbr\u003E\n1/4 pint vegetable stock\u003Cbr\u003E\n4 oz gooseberries, topped and tailed\u003Cbr\u003E\n\u003Cbr\u003E\nMix together the brown sugar, mustard and pepper and rub into both sides of the bacon chops. Melt the butter in a large frying pan or flameproof casserole. Cook the onion for 2 minutes, then add the bacon chops, half the stock and the gooseberries. Simmer gently for 15 minutes. Remove chops. Puree onions and gooseberries in blender or food processor until smooth. Return the chops and puree to the pan with the remaining stock. Simmer gently for 10 minutes, until the chops are tender and cooked through. Serve at once with boiled sliced red cabbage.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Bacon Chops with Gooseberry Sauce",
+  "usedSnapshot": "20211020232033"
+}

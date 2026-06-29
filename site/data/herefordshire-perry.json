@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922075103",
+  "finalPath": "herefordshire-perry.html",
+  "heading": "Herefordshire Perry",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Herefordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Herefordshire Perry",
+  "usedSnapshot": "20211201040622"
+}

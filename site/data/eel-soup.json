@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140616082127",
+  "finalPath": "eel-soup.html",
+  "heading": "Eel Soup",
+  "ingredients": [
+    "bread",
+    "carrot",
+    "eels",
+    "herbs",
+    "onion",
+    "pepper",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "eel-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make and eel soup\u003C/b\u003E\u003Cbr\u003E\nTAKE eels according to the quantity of soup you would make: a pound of eels will make a pint of good soup; so to every pound of eels put a quart of water, a crust of bread, two or three blades of mace, a little whole pepper, an onion, and a bundle of sweet-herbs; cover them close, and let them boil till half the liquor is wasted; then strain it, and toast some bread, and cut it small, lay the bread into the dish, and pour in your soup. If you have a stew-hole, set the dish over it for a minute, and send it to table. If you find your soup not rich enough, you must let it boil till it is as strong as you would have it. You may make this soup as rich and good as if it was meat: you may add a piece of carrot to brown it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Eel Soup",
+  "usedSnapshot": "20220819103712"
+}

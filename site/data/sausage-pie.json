@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082345",
+  "finalPath": "sausage-pie.html",
+  "heading": "Sausage Pie",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "nuts",
+    "pepper",
+    "salt",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sausage-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitby Gazette\u003C/i\u003E\u0027 - Friday 20 October 1911",
+      "receiptText": "Sausage-pie is no means be despised. Into a deep pie-dish, place a layer of one of sausages, cut in four-inch lengths, and split; follow this a layer of cooked haricot beans, and another of sliced tomatoes. Cover with one teacupful of breadcrumbs, season with salt and pepper, and dot with nuts of butter. Bake for one hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESausage Plait\u003C/b\u003E",
+      "relatedPageUrl": "sausage-plait.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sausage Pie",
+  "usedSnapshot": "20210510045519"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922094320",
+  "finalPath": "uncle-joe-s-mint-balls.html",
+  "heading": "Uncle Joe\u0027s Mint Balls",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wigan"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Uncle Joe\u0027s Mint Balls",
+  "usedSnapshot": "20220819104656"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082358",
+  "finalPath": "stichelton-cheese.html",
+  "heading": "Stichelton Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Nottinghamshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Stichelton Cheese",
+  "usedSnapshot": "20220705091745"
+}

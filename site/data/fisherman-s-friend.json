@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922091659",
+  "finalPath": "fisherman-s-friend.html",
+  "heading": "Fisherman\u0027s Friend",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fisherman\u0027s Friend",
+  "usedSnapshot": "20220516221321"
+}

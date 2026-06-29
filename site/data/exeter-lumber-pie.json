@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20121024085015",
+  "finalPath": "exeter-lumber-pie.html",
+  "heading": "Exeter Lumber Pie",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "herbs",
+    "lemon",
+    "mushroom",
+    "pepper",
+    "salt",
+    "veal",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "exeter-lumber-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Lumber-Pye. From Exeter.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a Pound of lean Veal, free from Strings, shred it very small, season it with Cloves and Mace powder\u0027d, some powder of dry\u0027d sweet Herbs, some Lemon-Peel grated, some Pepper and Salt, three large spoonfulls of grated Bread, a little Juice of Lemon, and five or six butter\u0027d Eggs. Mix these Ingredients well together into a Paste or as a farced Meat for Balls about the Bigness of small Wallnuts; then take two or three large Veal Sweat breads, and cut them in pieces; then provide a Pint of Mushroom Buttons well clean\u0027d, and the Yolks of eight hard Eggs cut in halves, a dozen Coxcombs well scalded and clean\u0027d: lay these with a seasoning of Pepper and Salt in a good Paste that covers the bottom of your Dish; first laying bits of Butter on the Paste at the Bottom. Some will put about half a Pound of Currans into this Pye; but every one to their Fancy. When your Ingredients are disposed in your Dish, lay on about four Ounces of Marrow, and the quantity of six Ounces of Butter, and then close it.\u003Cbr\u003E\n\u003Cbr\u003E\nJust before you set it in the Oven, pour into your Pye half a Pint of Water; and as soon as you take it out, pour in half a Pint of White Wine warm\u0027d, and serve it hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Exeter Lumber Pie",
+  "usedSnapshot": "20210512101814"
+}

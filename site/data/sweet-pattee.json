@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922082816",
+  "finalPath": "sweet-pattee.html",
+  "heading": "Sweet Pattee",
+  "ingredients": [
+    "fat",
+    "kidney",
+    "lemon",
+    "nutmeg",
+    "salt",
+    "sugar",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sweet-pattee.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E122. To make sweet PATTEES.\u003C/b\u003E\u003Cbr\u003E\nTake the kidney of a loin of veal with the fat, when roasted shred it very fine, put to it a little shred mace, nutmeg and salt, about half a pound of currans, the juice of a lemon, and sugar to your taste, then bake them in puff-paste; you may either fry or bake them.\u003Cbr\u003E\nThey are proper for a side-dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Sweet Pattee",
+  "usedSnapshot": "20211205172425"
+}

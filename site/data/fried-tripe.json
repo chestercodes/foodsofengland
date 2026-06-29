@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150129031216",
+  "finalPath": "fried-tripe.html",
+  "heading": "Fried Tripe",
+  "ingredients": [
+    "butter",
+    "lard",
+    "mustard",
+    "onions",
+    "tripe",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fried-tripe.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Proper newe Booke of Cokerye\u003C/i\u003E\u0027, Anonymous around 1550 (\u003Ca href=\u0022references.html#proper-booke-1550\u0022\u003E\u003Cb\u003EProper Booke 1550\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Take your Tripes and cutte them in small peces and put them into a panne and put therto an onyon or two and a dysche of swete butter, and let them frye tyll they be browne\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fried-tripe.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFRIED TRIPE AND ONIONS.\u003C/b\u003E\u003Cbr\u003E\nCut the tripe into slips of four inches long and three inches wide, dip them in the batter and fry them in boiling lard. When it is to be served up put under it slices of onions cut one inch thick, and fry them in the same manner. Or instead of slips of tripe, pieces of cowheel may be used; and let \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EButter Sauce\u003C/b\u003E\u003C/a\u003E be sent in a sauce boat with a little mustard in it, and (if approved) a table spoonful of vinegar,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tripe",
+      "relatedPageUrl": "ox-tripe.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "proper-booke-1550"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Fried Tripe",
+  "usedSnapshot": "20211201041847"
+}

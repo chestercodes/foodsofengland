@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150524221135",
+  "finalPath": "soup-dorye.html",
+  "heading": "Soup Dorye",
+  "ingredients": [
+    "almonds",
+    "bread",
+    "ginger",
+    "saffron",
+    "salt",
+    "sugar",
+    "sugur",
+    "almond",
+    "almond milk",
+    "milk",
+    "toast"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "soup-dorye.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESOWPES DORRY\u003C/b\u003E\u003Cbr\u003E\nTake Almonds brayed, draw them up with wine. Oil it, cast thereupon saffron and salt, take bread toasted in wine, lay thereof a layer and another of the sewe and all together. Flourish it with sugar powder ginger and serve it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "soup-dorye.html-2",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESowpus dorre.\u003C/b\u003E\u003Cbr\u003E\nTake almondes, bray hem, wryng hom up;\u003Cbr\u003E\nBoyle hom with wyn rede to sup;\u003Cbr\u003E\nthen temper hom with wyn, salt, I rede,\u003Cbr\u003E\nAnd loke thou tost fyne wete brede,\u003Cbr\u003E\nAnd lay in dysshes, dubene with wyne;\u003Cbr\u003E\nDo in this dysshes mete, that is so fyne;\u003Cbr\u003E\nMesse it forthe, and florysshe it then\u003Cbr\u003E\nWith sugur and gynger, as I the kenne.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "soup-dorye.html-3",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESoupes dorroy.\u003C/b\u003E Shere Oynonys, an fry them in oyle; thanne take wine, an boil with Oynonys, toast whyte bread an do on a dish, an caste ther-on good almond milk, \u0026 temper it with wine: thanne do the dorry a-bowte, an messe it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Soup Dorye",
+  "usedSnapshot": "20210512122219"
+}

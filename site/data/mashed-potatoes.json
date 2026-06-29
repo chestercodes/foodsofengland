@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922075028",
+  "finalPath": "mashed-potatoes.html",
+  "heading": "Mashed Potatoes",
+  "ingredients": [
+    "butter",
+    "mashed potatoes",
+    "milk",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mashed-potatoes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EMashed potatoes.\u003C/b\u003E\u003Cbr\u003E\nBOIL your potatoes, peel them, and put them into a sauce-pan, mash them well; to two pounds of potatoes put a pint of milk, a little salt, stir them well together, take care they don\u0027t stick to the bottom, then take a quarter of a pound of butter, stir it in, and serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ELancashire Potato\u003C/b\u003E",
+      "relatedPageUrl": "lancashire-boiled-potatoes.html",
+      "relationDescription": "For a variant, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Mashed Potatoes",
+  "usedSnapshot": "20211021005604"
+}

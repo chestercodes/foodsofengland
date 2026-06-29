@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20130325124609",
+  "finalPath": "cornish-under-roast.html",
+  "heading": "Cornish Under Roast",
+  "ingredients": [
+    "fat",
+    "onion",
+    "onions",
+    "potatoes",
+    "steak",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornish-under-roast.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.cornwallinformation.com/info/cornish-recipes.php\u0022\u003E\u003Cb\u003Ewww.cornwallinformation.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "CORNISH UNDER-ROAST (serves 3-4)\u003Cbr\u003E\n\u003Cbr\u003E\nINGREDIENTS\u003Cbr\u003E\n450g steak, seasoned and rolled\u003Cbr\u003E\nPotatoes, medium sliced\u003Cbr\u003E\n1 medium onion, sliced\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD\u003Cbr\u003E\nUsing oven-proof dish, lay meat on the bottom and onions on it. Then fill dish with potatoes and put a little meat fat or suet on top. Half fill with water. Put into pre-heated oven at 220C for 30 minutes, then reduce heat to 190C for another 30 minutes. After 30 minutes correct seasoning and if liked, a roll of suet crust may be cooked along one edge of the dish. Serve with any green vegetables.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cornish Under Roast",
+  "usedSnapshot": "20220705085301"
+}

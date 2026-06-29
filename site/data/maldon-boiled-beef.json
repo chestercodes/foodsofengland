@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130323195959",
+  "finalPath": "maldon-boiled-beef.html",
+  "heading": "Maldon Boiled Beef",
+  "ingredients": [
+    "beef",
+    "carrot",
+    "herbs",
+    "leek",
+    "onion",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "maldon-boiled-beef.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.essextouristguide.com\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Maldon Boiled Beef\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 1 piece of topside or silverside of beef, 1 carrot, 1 onion (peeled), 1 leek, bunch of herbs, 2 cloves, peppercorns, water, Maldon Crystal Sea Salt\u003Cbr\u003E\n\u003Cbr\u003E\nPeel the onion and stud with the cloves. Scrub the carrot, wash the leek and place with the meat and all the other ingredients, except the salt, in a saucepan. Cover with water, bring to the boil and simmer until the meat is cooked and tender. Lift the meat out of the stock on to a serving dish. Serve the meat sliced, with a good grinding of Maldon Crystal Sea Salt over each slice, together with accompanying vegetables. The stock can be used for soup.\u003Cbr\u003E\nServes 4.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Maldon Boiled Beef",
+  "usedSnapshot": "20211201042750"
+}

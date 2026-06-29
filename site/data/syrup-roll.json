@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922072840",
+  "finalPath": "syrup-roll.html",
+  "heading": "Syrup Roll",
+  "ingredients": [
+    "ginger",
+    "golden syrup",
+    "lemon",
+    "pastry",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "syrup-roll.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Syrup%20Roll\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EGolden Syrup Roll\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8x suet pastry\u003Cbr\u003E\n4oz golden syrup\u003Cbr\u003E\n1 teaspoon ground ginger or lemon (optional)\u003Cbr\u003E\n\u003Cbr\u003E\nRoll pastry into a strip. Spread with syrup an sprinkle with seasoning. Roll, seal edges and steam 1\u00BD hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Syrup Roll",
+  "usedSnapshot": "20211027033521"
+}

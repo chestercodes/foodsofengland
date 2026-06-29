@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140508110434",
+  "finalPath": "lancashire-biscuits.html",
+  "heading": "Lancashire Biscuits",
+  "ingredients": [
+    "biscuits",
+    "egg",
+    "fat",
+    "flour",
+    "ginger",
+    "lard",
+    "margarine",
+    "oatmeal",
+    "salt",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lancashire-biscuits.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lancashire%20Biscuits\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELancashire Biscuits\u003C/b\u003E\u003Cbr\u003E\n\u003Cb\u003EIngredients:\u003C/b\u003E\u003Cbr\u003E\n2 rounded tablespoons self raising flour\u003Cbr\u003E\n4 rounded tablespoons oatmeal\u003Cbr\u003E\n2 rounded tablespoons sugar\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n1 level teaspoon ground ginger\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n1 ounce margarine or lard\u003Cbr\u003E\n1 rounded tablespoon syrup or treacle\u003Cbr\u003E\nHot water\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethodology:\u003C/b\u003E Mix all the dry ingredients together, and rub in the fat.\u003Cbr\u003E\nBind to a stiff paste with the syrup or treacle dissolved in a little hot water, adding more as required.\u003Cbr\u003E\nForm into small balls of equal size, and place well apart on a greased tray.\u003Cbr\u003E\nBake in a moderate oven for 15 to 20 minutes, and cool on a wire tray.\u003Cbr\u003E\nOven heat: gas mark 4 or D; 375 degrees F.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lancashire Biscuits",
+  "usedSnapshot": "20220527222627"
+}

@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20130323042010",
+  "finalPath": "popovers.html",
+  "heading": "Popovers",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "popovers.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENorthampton Mercury\u003C/i\u003E\u0027 - Saturday 18 May 1889",
+      "receiptText": "\u003Cb\u003EPopovers.-\u003C/b\u003ETwo teacups of flour, two cups of milk, two eggs, 2oz. of butter, and a pinch of salt. Rub the butter into the flour, add the milk gradually, stir in the eggs (well beaten) last. Half fill small tins which have been previously warmed and buttered. Bake 15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Popovers",
+  "usedSnapshot": "20220819113917"
+}

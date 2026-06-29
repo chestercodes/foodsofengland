@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140212030533",
+  "finalPath": "folkestone-pudding-pie.html",
+  "heading": "Folkestone Pudding Pie",
+  "ingredients": [
+    "butter",
+    "currants",
+    "custard",
+    "eggs",
+    "lemon",
+    "milk",
+    "pudding",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "folkestone-pudding-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFOLKESTONE PUDDING-PIES.\u003C/b\u003E\u003Cbr\u003E\n1277. INGREDIENTS.-1 pint of milk, 3 oz. of ground rice, 3 oz. of butter, \u00BC lb. of sugar, flavouring of lemon-peel or bay-leaf, 6 eggs, puff-paste, currants.\u003Cbr\u003E\nMode.-Infuse 2 laurel or bay leaves, or the rind of\u00BD lemon, in the milk, and when it is well flavoured, strain it, and add the rice; boil these for \u00BC hour, stirring all the time; then take them off the fire, stir in the butter, sugar, and eggs, and let these latter be well beaten before they are added to the other ingredients; when nearly cold, line some patty-pans with puff-paste, fill with the custard, strew over each a few currants, and bake from 20 to 25 minutes in a moderate oven.\u003Cbr\u003E\n\u003Ci\u003ETime.\u003C/i\u003E-20 to 25 minutes. Average cost, 1s. 1d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E to fill a dozen patty-pans.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EPudding-Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Folkestone Pudding Pie",
+  "usedSnapshot": "20211201024931"
+}

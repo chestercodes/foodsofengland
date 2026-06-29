@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082007",
+  "finalPath": "sussex-place-jelly.html",
+  "heading": "Sussex Place Jelly",
+  "ingredients": [
+    "jelly",
+    "lemons",
+    "orange",
+    "oranges",
+    "seville oranges",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sussex-place-jelly.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EVERY FINE ORANGE JELLY (Sussex Place Receipt.)\u003C/b\u003E\u003Cbr\u003E\nOn two ounces and a half of the finest isinglass, pour a full but an exact pint of spring water; press down the isinglass and turn it over until the whole is well moistened; then place it over a gentle fire and let it dissolve gradually; remove the scum after it has simmered for two or three minutes, then pour it out, and set it aside to cool. In another pint of spring water boil a pound of highly refined sugar for five or six minutes; turn this syrup into a bowl, and when it is only just warm, throw into it the very thinly pared rinds of two fine lemons, of two Seville oranges, and of two China oranges, with the juice of five China, and of two Seville oranges, and of three lemons. When this mixture is cold, but not beginning to thicken, mix it well with the liquid isinglass, and strain it through a fine lawn sieve, or through a square of muslin folded in four; pour it into moulds which have been laid in cold water, and when wanted for the table, loosen it from them by wrapping about them, closely, a cloth which has been dipped into boiling water, and by passing a knife round the edges.\u003Cbr\u003E\n\u003Cbr\u003E\nNothing can he more refined and delicate in flavour than the above; but the appearance of the jelly may be improved by clarifying the isinglass, and its colour by boiling the fruit-rinds in the syrup for three or four minutes, and by leaving them in it until it is\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Sussex Place Jelly",
+  "usedSnapshot": "20170314143807"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922085053",
+  "finalPath": "yeast-cake.html",
+  "heading": "Yeast Cake",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "milk",
+    "orange",
+    "orange peel",
+    "sugar",
+    "tea",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yeast-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EYEAST CAKE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake one pound of flour, two pounds of currants washed and picked, a quarter of a pound of fresh butter, a quarter of a pound of sugar, the same quantity of citron and candied orange peel cut into slices, and a small quantity of cinnmnon and mace, pounded and sifted. Make a cavity in the centre of the ingredients, add a gill of sweet wine, a little warm milk, a tea cupful of yeast, and let it stand till the yeast works; then put a little more warm milk, mix all together, fill a hoop with it, let it remain till risen, and bake.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Yeast Cake",
+  "usedSnapshot": "20220527221955"
+}

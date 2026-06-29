@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20121024084507",
+  "finalPath": "fidget-pie-shropshire-version.html",
+  "heading": "Fidget Pie - Shropshire version",
+  "ingredients": [
+    "black pepper",
+    "brown sugar",
+    "butter",
+    "egg",
+    "fat",
+    "milk",
+    "nutmeg",
+    "onions",
+    "pastry",
+    "pepper",
+    "pork",
+    "potatoes",
+    "salt",
+    "shortcrust pastry",
+    "sugar",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fidget-pie-shropshire-version.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Fidget%20Pie%20-%20Shropshire%20version\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EShropshire Fidget Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 Medium Potatoes, peeled and finely sliced\u003Cbr\u003E\n2 Onions, sliced\u003Cbr\u003E\n2 Cooking apples, peeled, cored and sliced\u003Cbr\u003E\n3 Slices Sweetcure gammon, de-rinded and cut into strips\u003Cbr\u003E\n1\u00BD Butter\u003Cbr\u003E\n2 Teaspoon Brown sugar\u003Cbr\u003E\nSalt and black pepper\u003Cbr\u003E\n\u00BD Teaspoon Ground nutmeg\u003Cbr\u003E\n5 oz Pork or vegetable stock\u003Cbr\u003E\n8 oz Shortcrust pastry\u003Cbr\u003E\nMilk or beaten egg, to glaze\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 180 \u00B0C / 350 \u00B0F / Gas 4.\u003Cbr\u003E\nLightly fry the potatoes, onions and apples in the butter until just golden. Remove with a slotted spoon and keep hot.\u003Cbr\u003E\nPlace the gammon in the pan and fry lightly in the remaining fat.\u003Cbr\u003E\nLayer the gammon and the potatoes, onions and apples in a 1 litre (1\u00BD - 2 pint) pie dish, seasoning with sugar, salt, pepper and nutmeg. Pour on the stock.\u003Cbr\u003E\nOn a lightly floured surface, roll out the pastry and cover the pie, trimming the edges. Make a steam hole and decorate with the trimmings. Brush with milk or egg.\u003Cbr\u003E\nBake for 30 minutes, then reduce the oven to 170 \u00B0C / 325 \u00B0F / Gas 3 for a further 10-15 minutes or until the pie is golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fidget Pie - Cheshire version",
+      "relatedPageUrl": "fidget-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fidget Pie - Huntingdon version",
+      "relatedPageUrl": "fidget-pie-huntingdon-version.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fidget Pie - Shropshire version",
+      "relatedPageUrl": "fidget-pie-shropshire-version.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fidgety Pie - Derbyshire Version",
+      "relatedPageUrl": "fidgety-pie-derbyshire-version.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fidget Pie - Shropshire version",
+  "usedSnapshot": "20210512111422"
+}

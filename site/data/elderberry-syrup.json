@@ -1,0 +1,35 @@
+﻿{
+  "earliestSnapshot": "20150922074411",
+  "finalPath": "elderberry-syrup.html",
+  "heading": "Elderberry Syrup",
+  "ingredients": [
+    "jelly",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "elderberry-syrup.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Tuesday 11 October 1927",
+      "receiptText": "\u003Cb\u003EElder.\u003C/b\u003E To make elderberry syrup, put the fruit into an enamelled pan with only enough water prevent its burning, and gradually bring boil, and then let boil tor five pressing with wooden spoon extract all the juice. Then strain through jelly bag; measure the juice, and to each pint add hall pound loaf sugar, and boil gently half an hour, stemming well. Pour into dry bottles, and when cold cork down tightly. This recipe maybe used for any soft fruit.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Elderberry Syrup",
+  "usedSnapshot": "20220527052719"
+}

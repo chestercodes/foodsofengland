@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922080859",
+  "finalPath": "fricat-of-calves-chaldrons.html",
+  "heading": "Fricat of Calves Chaldrons",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "gravy",
+    "lemon",
+    "mutton",
+    "nutmeg",
+    "onion",
+    "orange",
+    "parsley",
+    "pepper",
+    "salt",
+    "tarragon",
+    "walnuts"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fricat-of-calves-chaldrons.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo fricate Calves Chaldrons.\u003C/b\u003E\u003Cbr\u003E\nTake a Calves Chaldron, after it is little more then half boyled, and when it is cold, cut it into little bits as big as Walnuts; season it with beaten Cloves, Salt, Nutmeg, Mace, and a little Pepper, an Onion, Parsley, and a little Tarragon, all shred very small, then put it into a frying-pan, with a Ladle-full of strong broth, and a little piece of sweet Butter, so fry it; when it is fryed enough, have a little lear made with the Gravy of Mutton, the juyce of a Lemon and Orange, the yolks of three or four Eggs, and a little Nutmeg grated therein; put all this to your Chaldrons in the Pan, Toss your Fricat two or three times, then dish it, and so serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tripe",
+      "relatedPageUrl": "ox-tripe.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Fricat of Calves Chaldrons",
+  "usedSnapshot": "20220524205036"
+}

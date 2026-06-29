@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20140212023808",
+  "finalPath": "chicken-and-ham-pie.html",
+  "heading": "Chicken and Ham Pie",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "chickens",
+    "eggs",
+    "fat",
+    "gravy",
+    "ham",
+    "lemon",
+    "mince-meat",
+    "parsley",
+    "pepper",
+    "salt",
+    "cayenne",
+    "herbs",
+    "jelly",
+    "nutmeg",
+    "onion",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chicken-and-ham-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "4. Hot CHICKEN PIE.\u003Cbr\u003E\n\u003Cbr\u003E\nOrder the chickens as for fricassy, and form the pie deep, lay in the bottom a mince-meat made of the chicken\u0027s livers, ham, parsley and yolks of eggs; season with white pepper, mace, and a little salt; moisten with butter, then lay the chicken above the minc\u0027d meat, and a little more butter; cover the pie and bake it two hours; when baked take off the fat, and add to it white gravy, with a little juice of lemon. Serve this up hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chicken-and-ham-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EChicken Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCut up two young fowls: season with white pepper, salt, a little mace, and nutmeg, all in the finest powder; likewise a little Cayenne. Put the chicken, slices of ham or gammon, forcemeat, and hard eggs, alternately. If to be in a dish, put a little water; if in a raised crust, none. Against the pie be baked, have ready a gravy of knuckle of veal, with a few shank bones, seasoned with herbs, onion, mace, and pepper. If in a dish, put in as much gravy as you fill it: if in crust, let it go cold; then open the lid, and put in the jelly.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Chicken and Ham Pie",
+  "usedSnapshot": "20220516223206"
+}

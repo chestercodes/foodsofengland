@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140212024038",
+  "finalPath": "chesterfield-rabbit-stew.html",
+  "heading": "Chesterfield Rabbit Stew",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chesterfield"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chesterfield Rabbit Stew",
+  "usedSnapshot": "20211129122601"
+}

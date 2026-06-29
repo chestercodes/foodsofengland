@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922132735",
+  "finalPath": "boiled-fowl-with-oysters.html",
+  "heading": "Boiled Fowl with Oysters",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "gravy",
+    "oysters"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "boiled-fowl-with-oysters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBOILED FOWL WITH OYSTERS.\u003C/b\u003E\u003Cbr\u003E\n(Excellent.)\u003Cbr\u003E\n944. INGREDIENTS: 1 young fowl, 3 dozen oysters, the yolks of 2 eggs, \u00BC pint of cream.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Truss a young fowl as for boiling; fill the inside with oysters which have been bearded and washed in their own liquor; secure the ends of the fowl, put it into a jar, and plunge the jar into a saucepan of boiling water. Keep it boiling for 1-\u00BD hour, or rather longer; then take the gravy that has flowed from the oysters and fowl, of which there will be a good quantity; stir in the cream and yolks of eggs, add a few oysters scalded in their liquor; let the sauce get quite hot, but do not allow it to boil; pour some of it over the fowl, and the remainder send to table in a tureen. A blade of pounded mace added to the sauce, with the cream and eggs, will be found an improvement.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour. Average cost, 4s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 3 or 4 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to April.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Boiled Fowl with Oysters",
+  "usedSnapshot": "20220527052812"
+}

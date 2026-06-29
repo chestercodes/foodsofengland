@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922071824",
+  "finalPath": "stewed-broth.html",
+  "heading": "Stewed Broth",
+  "ingredients": [
+    "beef",
+    "bread",
+    "cinnamon",
+    "mutton",
+    "pepper",
+    "prunes",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stewed-broth.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Stewed Broth\u003Cbr\u003E\nTake a neck of Mutton, or a rump of Beef, let it boyle, and scum your pot clean, thicken your pot with grated bread, and put in some beaten Spice, as Mace, nutmegs, Cinnamon, and a little Pepper, put in a pound of Currans, a pound and a half of Raisins of the Sun, two pounds of Prunes last of all, then when it is stewed, to season put in a quart of Claret, and a pint of Sack, and some Saunders [\u003Ca href=\u0022sanders-powder.html\u0022\u003E\u003Cb\u003ESanders\u003C/b\u003E\u003C/a\u003E] to colour it, and a pound of Sugar to sweeten it, or more if need be.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    }
+  ],
+  "title": "Stewed Broth",
+  "usedSnapshot": "20220527211657"
+}

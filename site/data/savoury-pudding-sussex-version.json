@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20170314000942",
+  "finalPath": "savoury-pudding-sussex-version.html",
+  "heading": "Savoury Pudding - Sussex Version",
+  "ingredients": [
+    "bread",
+    "eggs",
+    "flour",
+    "lemon",
+    "oatmeal",
+    "pudding",
+    "salt",
+    "shalot",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "savoury-pudding-sussex-version.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "343. SAVOURY PUDDING (Sussex)\u003Cbr\u003E\n\u003Cbr\u003E\nHalf a pound of stale bread, three eggs, three ounces of flour, three ounces of suet, one ounce of fine oatmeal, one pint of mUk, a small shalot chopped very fine, a little salt, a pinch of sweet marjoram, and enough lemon to give a fiavour. Mix all thoroughly well together, not too moist: turn into a basin or (better) a floured cloth, and boil or steam for three hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Savoury Pudding - Derby version",
+      "relatedPageUrl": "savoury-pudding-derby-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Pudding - Lancashire version",
+      "relatedPageUrl": "savoury-pudding-lancashire-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Pudding - Yorkshire version",
+      "relatedPageUrl": "savoury-pudding-yorkshire-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Pudding - Sussex Version",
+      "relatedPageUrl": "savoury-pudding-sussex-version.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Savoury Pudding - Sussex Version",
+  "usedSnapshot": "20210510044711"
+}

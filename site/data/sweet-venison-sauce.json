@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922084641",
+  "finalPath": "sweet-venison-sauce.html",
+  "heading": "Sweet Venison Sauce",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sweet-venison-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESweet Venison Sauce.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake half a pint of Claret, a little Stick of Cinnamon, and boil them together till the Flavour of the Cinnamon is in the Claret; then sweeten it to your mind with double-refined Loaf-sugar. Or else, grate some Crumb of Bread, and put to it as much Claret as will make it like thin Pap; add to this a small piece of Cinnamon, and boil it well, then sweeten it with double-refined Loaf-sugar grated small. These are the sweet Sauces used for Hare, and all other Venison.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Sweet Venison Sauce",
+  "usedSnapshot": "20220517170523"
+}

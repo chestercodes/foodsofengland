@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922075051",
+  "finalPath": "bread-cake.html",
+  "heading": "Bread Cake",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "currants",
+    "egg",
+    "milk",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bread-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BREAD CAKE. To make a common bread cake, separate from the dough, when making white bread, as much as is sufficient for a quartern loaf, and knead well into it two ounces of butter, two of Lisbon sugar, and eight of currants. Warm the butter in a tea-cupful of good milk. By adding another ounce of butter or sugar, or an egg or two, the cake may be improved, especially by putting in a tea-cupful of raw cream. It is best to bake it in a pan, rather than as a loaf, the outside being less hard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Bread Cake",
+  "usedSnapshot": "20211205175026"
+}

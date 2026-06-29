@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922090238",
+  "finalPath": "custard-sauce.html",
+  "heading": "Custard Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEgg Custard Sauce\u003C/b\u003E",
+      "relatedPageUrl": "egg-custard-sauce.html",
+      "relationDescription": "For the earlier forms, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EEgg Custard\u003C/b\u003E",
+      "relatedPageUrl": "egg-custard.html",
+      "relationDescription": "For the earlier forms, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECustard\u003C/b\u003E",
+      "relatedPageUrl": "custard-pie.html",
+      "relationDescription": "For the earlier forms, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Custard Sauce",
+  "usedSnapshot": "20211207122413"
+}

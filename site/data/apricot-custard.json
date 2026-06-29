@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922090342",
+  "finalPath": "apricot-custard.html",
+  "heading": "Apricot Custard",
+  "ingredients": [
+    "cinnamon",
+    "cream",
+    "custard",
+    "eggs",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apricot-custard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E292. To make APRICOCK CUSTARD.\u003C/b\u003E\u003Cbr\u003E\nTake a pint of cream, boil it with a stick of cinnamon and six eggs, (leave out four of the whites) when your cream is a little cold, mix your eggs and cream together, with a quarter of a pound of fine sugar, set it over a slow fire, stir it all one way whilst it begin to be thick, then take it off and stir it whilst it be a little cold, and pour it into your dish; take six apricocks, as you did for your pudding, rather a little higher; when they are cold lie them upon your custard at an equal distance; if it be at the time when you have no ripe apricocks, you may lie preserv\u0027d apricocks.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Apricot Custard",
+  "usedSnapshot": "20211205164806"
+}

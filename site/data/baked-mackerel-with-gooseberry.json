@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616082637",
+  "finalPath": "baked-mackerel-with-gooseberry.html",
+  "heading": "Baked Mackerel with Gooseberry",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMackerel with Gooseberry\u003C/b\u003E",
+      "relatedPageUrl": "mackerel-with-gooseberry.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGooseberry Sauce\u003C/b\u003E",
+      "relatedPageUrl": "gooseberry-sauce.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Baked Mackerel with Gooseberry",
+  "usedSnapshot": "20210518203634"
+}

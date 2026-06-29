@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140125041147",
+  "finalPath": "appraylere.html",
+  "heading": "Appraylere",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "eggs",
+    "flour",
+    "ginger",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "appraylere.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAppraylere.\u003C/b\u003E Take the flesh of the lene porke, \u0026 seethe it wel: \u0026 whan it is sothe, hew it small; nym than saffron, ginger, cinnamon, salt, galyngale, old chese, myid [crumbed] bread, \u0026 bray it small on a morter; caste thine flesh in to the spicery, \u0026 loke that it be wil y-ground, \u0026 temper it up with raw eggs; than take a longe pecher, al a-bowte over alle that it be ransched [sinsed?] Than held out thin grease, \u0026 fulle thi pechir of thin farsure, \u0026 take a pese of fair canneuas, \u0026 doble it as moche as thou may ceuyr the mouthe with-al, \u0026 bynd it fast a-bowte the berde \u0026 caste him to seethe with thin grete flesh, in lede other in cauderoun, for it be well sothin; take then up thin pecher, \u0026 breke it, an saf thin farsure; \u0026 haue a fair broche, \u0026 broche it thorw, \u0026 lay it to the fire; \u0026 than haue a good bature of spicerye, saffron, galyngale, cinnamon, \u0026 ther-of y-now, \u0026 flour, \u0026 grind small in a morter, \u0026 temper it up with raw eggs, \u0026 do thereto sugar of alisaunder y-now; \u0026 euer as it dryit, baste it with bature, \u0026 set forth in seruyce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Appraylere",
+  "usedSnapshot": "20220103130044"
+}

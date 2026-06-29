@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140125041438",
+  "finalPath": "galantine.html",
+  "heading": "Galantine",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "beef",
+    "breadcrumbs",
+    "eggs",
+    "pepper",
+    "pudding",
+    "salt",
+    "jelly",
+    "pork",
+    "truffles",
+    "turkey",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "galantine.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGALANTINE OF BEEF\u003C/b\u003E (Hertfordshire) Mince a quarter of a pound of beef and half a pound of bacon. Put both in a basin with six ounces of breadcrumbs, and pepper and salt. Beat two eggs and a gill of stock together and add to the other ingredients, and mix all well. Shape this into a nice roll, tie in a buttered pudding cloth, and boil for two hours; turn out, let it set, and glaze it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "galantine.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGalantine of Fowl.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n1 fowl.\u003Cbr\u003E\n1 lb. of pork.\u003Cbr\u003E\n1 lb. of veal.\u003Cbr\u003E\nYolks of 3 hard-boiled eggs.\u003Cbr\u003E\n2 truffles.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod.--Bone the fowl, mince the pork and veal finely, and season with pepper and salt.\u003Cbr\u003E\nFill the fowl with the stuffing, placing in the yolks and truffles.\u003Cbr\u003E\nShape the fowl nicely, and fasten it securely in a cloth.\u003Cbr\u003E\nBoil it according to directions for boiling meat.\u003Cbr\u003E\nWhen cooked, remove the cloth and put in a clean one, fastening it as before.\u003Cbr\u003E\nPut it under pressure (not too much) until it is cold.\u003Cbr\u003E\nRemove the cloth, glaze it, and garnish with aspic jelly.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EGalantine of Veal.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBreast of veal boned may be used instead of a fowl to make a galantine.\u003Cbr\u003E\nRoll it round the stuffing and prepare it according to directions in preceding recipe.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EGalantine of Turkey.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis may be prepared like Galantine of Fowl, using larger proportions for the stuffing.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Galantine",
+  "usedSnapshot": "20210518210040"
+}

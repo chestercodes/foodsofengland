@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20121024084553",
+  "finalPath": "dumpsie-dearie.html",
+  "heading": "Dumpsie Dearie",
+  "ingredients": [
+    "lemon",
+    "pears",
+    "plums",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dumpsie-dearie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Dumpsie%20Dearie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDumpsie Dearie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 lbs pears\u003Cbr\u003E\n2 lbs cooking apples\u003Cbr\u003E\n2 lbs plums\u003Cbr\u003E\n1 lemon, grated zest and juice\u003Cbr\u003E\n\u00BD ounce fresh gingerroot, bruised\u003Cbr\u003E\n1 pinch ground cloves\u003Cbr\u003E\n5 lbs sugar\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Warwickshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dumpsie Dearie",
+  "usedSnapshot": "20220527054421"
+}

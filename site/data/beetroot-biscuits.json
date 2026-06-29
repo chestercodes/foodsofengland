@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140508115515",
+  "finalPath": "beetroot-biscuits.html",
+  "heading": "Beetroot Biscuits",
+  "ingredients": [
+    "beat",
+    "biscuit",
+    "biscuits",
+    "butter",
+    "eggs",
+    "lemon",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beetroot-biscuits.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Biscuits of Red Beet-Roots; from the same; call\u0027d the Crimson Biscuit.\u003Cbr\u003E\n\u003Cbr\u003E\u003C/b\u003E Take the Roots of Red-Beets, and boil them tender; clean them, and beat them in a Mortar with as much Sugar, finely sifted; some Butter; the Yolks of hard Eggs, a little Flower; some Spice, finely beaten, and some Orange-Flower-Water, and a little Lemon-Juice. When they are well mix\u0027d, and reduced to a Paste, make them into Cakes, and dry them in a slow Oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Root Biskits",
+      "relatedPageUrl": "root-biskets.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Beetroot Biscuits",
+  "usedSnapshot": "20211018065030"
+}

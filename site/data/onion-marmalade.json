@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922104948",
+  "finalPath": "onion-marmalade.html",
+  "heading": "Onion Marmalade",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Onion Marmalade",
+  "usedSnapshot": "20220527064136"
+}

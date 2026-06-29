@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922074930",
+  "finalPath": "black-cap-pudding-2.html",
+  "heading": "Black-Cap Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBlack Cap Pudding\u003C/b\u003E",
+      "relatedPageUrl": "blackcappudding(1).htm",
+      "relationDescription": "See "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Black-Cap Pudding",
+  "usedSnapshot": "20211019183915"
+}

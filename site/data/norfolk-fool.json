@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130407103155",
+  "finalPath": "norfolk-fool.html",
+  "heading": "Norfolk Fool",
+  "ingredients": [
+    "bread",
+    "cream",
+    "dates",
+    "eggs",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-fool.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Norfolk Fool.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of good thick sweet cream, and set it a boiling in a clean scoured skillet, with some large mace and whole cinamon; then having boil\u0027d a warm or two take the yolks of five or six eggs dissolved and put to it, being taken from the fire, then take out the cinamon and mace; the cream being pretty thick, slice a fine \u003Ca href=\u0022manchets.html\u0022\u003E\u003Cb\u003Emanchet\u003C/b\u003E\u003C/a\u003E into thin slices, as much as will cover the bottom of the dish, pour on the cream on them, and more bread, some two or three times till the dish be full, then trim the dish side with fine carved sippets, and stick it with slic\u0027t dates, scrape on sugar, and cast on red and white biskets.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Norfolk Fool",
+  "usedSnapshot": "20220808015906"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150913023130",
+  "finalPath": "devilled-kidneys.html",
+  "heading": "Devilled Kidneys",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "flour",
+    "gravy",
+    "kidney",
+    "kidneys",
+    "mustard",
+    "mustard powder",
+    "pepper",
+    "plain flour",
+    "salt",
+    "toast",
+    "worcester sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devilled-kidneys.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Devilled%20Kidneys\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 Lambs kidneys, cored and diced\u003Cbr\u003E\n1 Tablespoon Plain flour\u003Cbr\u003E\nSalt\u003Cbr\u003E\nCayenne pepper\u003Cbr\u003E\nMustard powder\u003Cbr\u003E\n2 oz Butter\u003Cbr\u003E\n2 Teaspoons Worcester sauce\u003Cbr\u003E\n1/4 pint stock\u003Cbr\u003E\n4 Pieces Hot buttered toast\u003Cbr\u003E\n\u003Cbr\u003E\nRoll the kidney pieces in flour, salt, ample cayenne pepper and mustard powder. Melt the butter in a frying pan and gently cook the kidneys until browned but just pink inside. Add the stock and Worcester Sauce and simmer until the gravy is thick. Serve on hot buttered toast.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Devilled Kidneys",
+  "usedSnapshot": "20220819103335"
+}

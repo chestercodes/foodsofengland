@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074200",
+  "finalPath": "cabbage.html",
+  "heading": "Cabbage",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cabbage",
+  "usedSnapshot": "20220819110113"
+}

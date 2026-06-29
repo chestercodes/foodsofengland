@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20210510045157",
+  "finalPath": "fried-patties.html",
+  "heading": "Fried Patties",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "fat",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-patties.html-1",
+      "receiptSource": "Original Receipt from The Hull Daily Mail \u003Ca href=\u0022http://www.hulldailymail.co.uk/whats-on/food-drink/how-make-perfect-hull-pattie-80449%3Cbr%3E\u0022\u003E\u003Cb\u003Ehttp://www.hulldailymail.co.uk/whats-on/food-drink/how-make-perfect-hull-pattie-80449",
+      "receiptText": "\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Cb\u003EHow to make the perfect Hull pattie\u003C/b\u003E\u003Cbr\u003E\nOur step-by-step guide to making your own Hull pattie\u003Cbr\u003E\nBy Benjamin Blosse\u003Cbr\u003E\n\u003Cbr\u003E\n1) \u0022We first boil the potatoes and get them nice and soft so we can mash them,\u0022 he says.\u003Cbr\u003E\n2) \u0022We\u0027ve then got a mixing machine, so the potatoes go in and mix in there.\u003Cbr\u003E\n\u0022At this point we put our secret recipe in, along with salt, pepper, some sage and onions as well.\u003Cbr\u003E\n3) \u0022We mix them and bring it all together to make a pattie. We have our pattie cutter, which cuts them into shape before we put them in the cooler.\u003Cbr\u003E\n4) \u0022We then start the process of frying them, which starts with putting them in our own handmade batter, which is again another secret recipe.\u003Cbr\u003E\n\u0022We are a traditional fish and chip shop so we use beef dripping fat to fry them in, which also makes them quite crispy and golden.\u003Cbr\u003E\n5) \u0022Cook them for about four to five minutes in the fryer, and you will have your perfect pattie.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EHull Patties, Savoury Patties, Fried Patties\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fried Patties",
+  "usedSnapshot": "20220520134044"
+}

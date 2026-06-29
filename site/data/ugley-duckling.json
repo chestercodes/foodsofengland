@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130131031506",
+  "finalPath": "ugley-duckling.html",
+  "heading": "Ugley Duckling",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "breadcrumbs",
+    "egg",
+    "herbs",
+    "liver",
+    "nutmeg",
+    "orange",
+    "orange juice",
+    "parsley",
+    "pepper",
+    "saffron",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ugley-duckling.html-1",
+      "receiptSource": "Receipt from \u003Ca href=\u0022http://www.essextouristguide.com\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EUgley Duckling -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 1 large duck (about 6 lb.), juice of 1 orange, 2 oz. shredded suet, 4 oz. soft breadcrumbs, pinch grated nutmeg, 3 teaspoons chopped parsley, 1 teaspoon mixed herbs, grated zest of an orange, salt and pepper, duck liver (chopped), two rashers of streaky bacon (chopped), 1 egg, orange segments and rashers of streaky bacon for garnish\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 425\u00BAF or Mark 7. Prick the duck breast with a skewer, brush over with the orange juice and sprinkle with salt. Make the stuffing by mixing the breadcrumbs with the suet, add the nutmeg, parsley, mixed herbs and orange zest. Then add the chopped duck liver and chopped bacon rashers. Season. Beat the egg and mix it with the stuffing mixture to bind it. Stuff the duck and place on the highest shelf of the oven for half an hour. Now reduce the oven heat to 350\u00BAF, or Mark 4 and roast for a further 2 hours. Transfer to a serving dish, garnish with the segments of orange that have been wrapped in the streaky bacon rashers and then fried.\u003Cbr\u003E\nServes 4.\u003Cbr\u003E\n\u003Cbr\u003E\nRoast duck with a delicious herb stuffing from the village of Ugley near Saffron Walden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Ugley Duckling",
+  "usedSnapshot": "20210518203555"
+}

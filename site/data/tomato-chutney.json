@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922100935",
+  "finalPath": "tomato-chutney.html",
+  "heading": "Tomato Chutney",
+  "ingredients": [
+    "cayenne",
+    "chutney",
+    "onions",
+    "pepper",
+    "raisins",
+    "salt",
+    "sugar",
+    "tomato",
+    "tomatoes",
+    "vinegar",
+    "allspice",
+    "brown sugar",
+    "ginger",
+    "mustard",
+    "onion"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tomato-chutney.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Standard Domestic Science Cook Book\u003C/i\u003E, 1908",
+      "receiptText": "\u003Cb\u003ETOMATO CHUTNEY.\u003C/b\u003E\u003Cbr\u003E\nCut up and peel 13 large tomatoes, 6 onions chopped fine, 1 cup vinegar, 1 of sugar, handful raisins, chopped fine, salt to taste, \u00BD teaspoon cayenne, \u00BD teaspoon white pepper. Boil one hour and a half; bottle or put in stone jar.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tomato-chutney.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E412. TOMATO CHUTNEY (Sussex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients. - Three and a half pounds of green tomatoes, one teaspoonful of mustard-seed, one teaspoonful of ground ginger, one teaspoonful of allspice, one onion, one quart of vinegar, ten cloves, and a pound of brown sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod. - Peel and cut the tomatoes, put into the preserving pan with vinegar and spices. When nearly boihng, add sugar, and the onion whole. Boil gently for about two hours. Remove the onion before it breaks. Put into small pots and tie down. If ripe tomatoes are used, less vinegar is required.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Tomato Chutney",
+  "usedSnapshot": "20210518211748"
+}

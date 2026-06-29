@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922084522",
+  "finalPath": "egg-hot-2.html",
+  "heading": "Egg-hot",
+  "ingredients": [
+    "beat",
+    "beer",
+    "egg",
+    "ginger",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-hot-2.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 165. Egg-hot.\u003C/b\u003E\u003Cbr\u003E\nPut a pint of beer on the fire to warm, break an egg into a jug, add a table-spoonful of sugar and some grated nutmeg or ginger; beat all together with a fork for three minutes; then add a drop of the beer, stir well together, and pour the remainder of the hot beer to this, and continue pouring the egg-hot out of the warming-pot into the jug for two minutes, when it will be well mixed and ready to drink.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Egg-hot",
+  "usedSnapshot": "20200108133844"
+}

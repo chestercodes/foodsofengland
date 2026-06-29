@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922072236",
+  "finalPath": "threshing-day-barley-bread.html",
+  "heading": "Threshing Day Barley Bread",
+  "ingredients": [
+    "barley",
+    "bread",
+    "butter",
+    "buttermilk",
+    "cream",
+    "egg",
+    "flour",
+    "milk",
+    "salt",
+    "tartar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "threshing-day-barley-bread.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Threshing%20Day%20Barley%20Bread\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Ci\u003EThis is a scone-like bread baked on a griddle and made at threshing time in Northumberland.\u003C/i\u003E Serves: 4\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n1 lb Barley flour\u003Cbr\u003E\n4 oz Plain wheat flour\u003Cbr\u003E\n1 Teaspoon Salt\u003Cbr\u003E\n1 Teaspoon Bicarbonate of soda\u003Cbr\u003E\n2 Teaspoon Cream of tartar\u003Cbr\u003E\n1 pint Buttermilk or milk\u003Cbr\u003E\nBeaten egg\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nSet the oven to 475 \u00B0F / Gas 9.\u003Cbr\u003E\nIn a bowl, mix together the flours, salt, bicarbonate of soda and cream of tartar. Then stir in the buttermilk or milk to form a firm dough. Turn out on to a lightly floured surface and form into a round scone shape about 2 cm thick.\u003Cbr\u003E\nBrush with beaten egg and place on a lightly greased baking sheet. Bake for 15-20 minutes until golden. Serve with butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Threshing Day Barley Bread",
+  "usedSnapshot": "20211130235504"
+}

@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922085102",
+  "finalPath": "weardale-tatie-cake.html",
+  "heading": "Weardale Tatie Cake",
+  "ingredients": [
+    "bacon",
+    "egg",
+    "flan",
+    "flour",
+    "lard",
+    "margarine",
+    "onion",
+    "pastry",
+    "potatoes",
+    "butter",
+    "milk",
+    "pepper",
+    "potato",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "weardale-tatie-cake.html-1",
+      "receiptSource": "Original Receipt from BBC Countryfile\u0027s Young Farmer of the Year 2017 Vicky Furlong \u003Ca href=\u0022https://www.bbcgoodfood.com/recipes/tatie-cake\u0022\u003E\u003Cb\u003Ehttps://www.bbcgoodfood.com/recipes/tatie-cake\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n100g lard or margarine\u003Cbr\u003E\n200g flour, plus a little for dusting\u003Cbr\u003E\n2-3 floury potatoes, depending on size, thinly sliced\u003Cbr\u003E\n1 large onion, thinly sliced\u003Cbr\u003E\n2 rashers bacon, or some small pieces cut from a joint\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003Cbr\u003E\nSTEP 1\u003C/b\u003E\u003Cbr\u003E\nHeat oven to 180C/160C fan/gas 4. Make the pastry by rubbing the lard or margarine into the flour and mixing to a dough with a little water - it\u2019ll take 2-3 tsp. Roll out half the pastry and use it to line a 22cm flan or tart tin. Layer the potatoes, onion, bacon and seasoning into the pastry case, then pour over the egg (saving a little to glaze the top).\u003Cbr\u003E\n\u003Cb\u003ESTEP 2\u003C/b\u003E\u003Cbr\u003E\nRoll out the remaining pastry, cover the pie and trim the edges. Brush with the remaining beaten egg. Bake for about 45 mins to 1 hr, until the pastry is golden brown and a knife can be easily inserted into the tender potatoes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "weardale-tatie-cake.html-2",
+      "receiptSource": "Original Receipt from our correspondent Pam Forbes of Westgate, 14.4.2015",
+      "receiptText": "\u003Cb\u003EWeardale Tatie Cake\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nI was given this recipe about 40 years ago by Maude Coulthard, an elderly lady and farmer\u2019s wife whose grandmother and then her mother, and then Maude herself made it frequently for baits (packed lunches) and suppers (often for a Chapel supper) and for taking out to those working in the hayfields. This traces the pie back to 1850-ish although Maude believed it was an older tradition than her grandmother\u2019s time.\u003Cbr\u003E\n\u003Cbr\u003E\nI have made this many times sometimes with lard pastry and sometimes with butter pastry. When we kept pigs in the 1980s we cured bacon in the old dry-cure way as instructed by local farmers\u2019 wives and I used bacon in tatie cakes as described below.\u003Cbr\u003E\n\u003Cbr\u003E\nI will lay out the recipe as I was told it:\u003Cbr\u003E\n\u003Cbr\u003E\nTake a good strong lard pastry and line a plate pie dish with it.\u003Cbr\u003E\n(Lard pastry is \u00BDlb lard to 1lb strong white flour)\u003Cbr\u003E\nSlice, wash and dry 3 or 4 large potatoes, don\u2019t use waxy ones.\u003Cbr\u003E\nSlice up \u00BD a white onion.\u003Cbr\u003E\nCut 2 or 3 slices of fatty bacon off the flitch.\u003Cbr\u003E\n(Bacon was dry cured and hung in a cold corner. It went reasty after a few weeks and had a particularly strong flavour).\u003Cbr\u003E\nLine the bottom of the dish with sliced potatoes. Use a good few.\u003Cbr\u003E\nLay out \u00BD the onion across the potato.\u003Cbr\u003E\nSpread the bacon evenly across the pie.\u003Cbr\u003E\nThen lay out the rest of the onion.\u003Cbr\u003E\nFinish with the remaining potatoes and maybe sprinkle a little pepper.\u003Cbr\u003E\nDon\u2019t put any salt in it!\u003Cbr\u003E\nRoll out the pastry quite thick for the top and seal it using a bit of water around the edge. Seal it tight with your thumbs so no steam can escape. Don\u2019t make any holes in the top.\u003Cbr\u003E\nPaint the top with milk if you want it to look fancy, but you don\u2019t need to do this if it\u2019s just for baits.\u003Cbr\u003E\nEat hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECornish Tatie Cake\u003C/b\u003E",
+      "relatedPageUrl": "cornish-tatie-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Weardale Tatie Cake",
+  "usedSnapshot": "20220421063946"
+}

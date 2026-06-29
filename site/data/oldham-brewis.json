@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922082640",
+  "finalPath": "oldham-brewis.html",
+  "heading": "Oldham Brewis",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrewis\u003C/b\u003E",
+      "relatedPageUrl": "brewis-soup.html",
+      "relationDescription": "For similar dishes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oldham Brewis",
+  "usedSnapshot": "20211019172404"
+}

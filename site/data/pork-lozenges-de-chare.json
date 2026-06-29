@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922072614",
+  "finalPath": "pork-lozenges-de-chare.html",
+  "heading": "Pork Lozenges de Chare",
+  "ingredients": [
+    "dates",
+    "eggs",
+    "ginger",
+    "pepper",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pork-lozenges-de-chare.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELesynges de chare\u003C/b\u003E. Take fair buttys of porke; hewe them, \u0026 grind them, \u0026 caste thereto raw yolks of eggs, \u0026 then put it in-to a fair vesselle; \u0026 take roysonys of corauns, \u0026 dates myncyd, \u0026 powder of ginger, pepper, \u0026 saffron, \u0026 sugar, an melle all thes to-gederys; \u0026 make fair paste of sugar \u0026 saffron, \u0026 salt; temper ther-in, \u0026 make ii fair flat cakys ther-of, \u0026 lay the stuf ther-on al a-brode on the cake al flat; \u0026 than take that other cake, \u0026 lay him al a-brode ther-on; \u0026 than kytte the cakys thorw with an knyf in maner of lesyngys; \u0026 than make fair bature of raw yolks of eggs, sugar, \u0026 salt, \u0026 close the sydys of the lesyng ther-with, \u0026 than fry them in fair grease, \u0026 serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Pork Lozenges de Chare",
+  "usedSnapshot": "20210510034740"
+}

@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922080653",
+  "finalPath": "game-soup.html",
+  "heading": "Game Soup",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "game-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EGame Soup.-(No. 242.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nIn the game season, it is easy for a cook to give her master a very good soup at a very little expense, by taking all the meat off the breasts of any cold birds which have been left the preceding day, and pounding it in a mortar, and beating to pieces the legs and bones, and boiling them in some broth for an hour. Boil six turnips; mash them, and strain them through a tamis-cloth with the meat that has been pounded in a mortar; strain your broth, and put a little of it at a time into the tamis to help you to strain all of it through. Put your soup-kettle near the fire, but do not let it boil: when ready to dish your dinner, have six yolks of eggs mixed with half a pint of cream; strain through a sieve; put your soup on the fire, and as it is coming to boil, put in the eggs, and stir well with a wooden spoon: do not let it boil, or it will curdle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Game Soup",
+  "usedSnapshot": "20220808010525"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922072310",
+  "finalPath": "cheese-and-onion-soup.html",
+  "heading": "Cheese and Onion Soup",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "celery",
+    "cheddar",
+    "cheese",
+    "chicken",
+    "chicken stock",
+    "flour",
+    "milk",
+    "nutmeg",
+    "onion",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheese-and-onion-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cheese%20and%20Onion%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECheese and Onion Soup\u003C/b\u003E\u003Cbr\u003E\n1 oz butter\u003Cbr\u003E\n2 onions, skinned and cut into rings\u003Cbr\u003E\n2 sticks celery, cleaned and chopped\u003Cbr\u003E\n1 pint milk\u003Cbr\u003E\n\u00BD pint chicken stock\u003Cbr\u003E\nsalt and freshly ground pepper\u003Cbr\u003E\npinch of grated nutmeg\u003Cbr\u003E\n2 slices bread\u003Cbr\u003E\n6 oz Cheddar cheese, grated\u003Cbr\u003E\nchopped fresh parsley\u003Cbr\u003E\n\u003Cb\u003Emethod\u003C/b\u003E\u003Cbr\u003E\nMelt the butter in a large saucepan. Lightly fry the onion rings and chopped celery without browning.\u003Cbr\u003E\nAdd the flour and cook for 1-2 minutes. Gradually beat in the milk, stock and seasonings. Heat, whisking continuously, until the soup comes to the boil and thickens. Simmer for 5 minutes.\u003Cbr\u003E\nToast the bread on one side. Sprinkle 2 oz grated cheese on the untoasted side and grill until the cheese melts. Cut into small squares.\u003Cbr\u003E\nRemove the soup from the heat and stir in the remaining grated cheese. Pour into warmed soup bowls or a tureen and float toasted cheese on top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cheese and Onion Soup",
+  "usedSnapshot": "20211021000046"
+}

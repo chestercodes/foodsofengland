@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150131160515",
+  "finalPath": "barm-cake.html",
+  "heading": "Barm Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bread Names",
+      "relatedPageUrl": "bread-names.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Breads",
+      "relatedPageUrl": "breads.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Barm Crust",
+      "relatedPageUrl": "barm-crust.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oven Bottom Cake",
+      "relatedPageUrl": "oven-bottom-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Wigan Slappy",
+      "relatedPageUrl": "wigan-slappy.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Barm Cake",
+  "usedSnapshot": "20220705084045"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922094747",
+  "finalPath": "norfolk-sauce.html",
+  "heading": "Norfolk Sauce",
+  "ingredients": [
+    "butter",
+    "flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ENORFOLK SAUCE or RICH MELTED BUTTER WITHOUT FLOUR\u003C/b\u003E\u003Cbr\u003E\nPut three tablespoonsful of water into a small saucepan and when it boils add four ounces of fresh butter, as soon as this is quite dissolved, take the saucepan from the fire and shake it round until the sauce looks thick and smooth. It must not be allowed to boil after the butter is added\u003Cbr\u003E\n\u003Cbr\u003E\nWater 3 tablespoonsful; butter 4 oz\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Norfolk Sauce",
+  "usedSnapshot": "20220819103913"
+}

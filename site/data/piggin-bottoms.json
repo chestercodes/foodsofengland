@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20191109093213",
+  "finalPath": "piggin-bottoms.html",
+  "heading": "Piggin Bottoms",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Piggin Bottoms",
+  "usedSnapshot": "20210512104916"
+}

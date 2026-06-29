@@ -1,0 +1,93 @@
+﻿{
+  "earliestSnapshot": "20140616082409",
+  "finalPath": "suffolk-fish-pie.html",
+  "heading": "Suffolk Fish Pie",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "cod",
+    "eggs",
+    "flour",
+    "hard boiled eggs",
+    "mashed potato",
+    "mashed potatoes",
+    "milk",
+    "parsley",
+    "pepper",
+    "potato",
+    "potatoes",
+    "salt",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-fish-pie.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESuffolk Fish Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n2 lbs Cod or haddock fillets\u003Cbr\u003E\n1 pint Milk\u003Cbr\u003E\nSalt and black pepper\u003Cbr\u003E\n3 Hard-boiled eggs, shelled\u003Cbr\u003E\n2 ozs Butter\u003Cbr\u003E\n2 ozs Flour\u003Cbr\u003E\n2 tbsp Chopped parsley\u003Cbr\u003E\n1 tsp Chopped capers\u003Cbr\u003E\n1 lbs Mashed potatoes\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\nPre-heat the oven to 190\u00B0C: 375\u00B0F: Gas 5\u003Cbr\u003E\nCook the fish and milk in a large saucepan, season to taste.\u003Cbr\u003E\nReserve the milk and flake the fish into a buttered and deep (2 to 21/2 pint) pie dish.\u003Cbr\u003E\nSlice the hard boiled eggs (as an alternative you could use sliced tomato) and lay on top of the fish.\u003Cbr\u003E\nMelt the butter in a saucepan, stir in the flour and then slowly add the reserved milk, stir continuously to prevent lumps.\u003Cbr\u003E\nWhen the sauce has thickened, add the parsley and capers to the sauce and season to taste.\u003Cbr\u003E\nPour the sauce over the fish and eggs.\u003Cbr\u003E\nCover this with mashed potato, lightly rough up the surface with a fork.\u003Cbr\u003E\nCook for 30 minutes or until the potato is lightly browned.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESalmon...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/salmon.html",
+      "relationDescription": "For other salmon dishes see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Salmon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Suffolk Fish Pie",
+  "usedSnapshot": "20220815153947"
+}

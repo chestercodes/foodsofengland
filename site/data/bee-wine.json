@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922073842",
+  "finalPath": "bee-wine.html",
+  "heading": "Bee Wine",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Made-Wine",
+      "relatedPageUrl": "made-wine.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Bee Wine",
+  "usedSnapshot": "20200108134624"
+}

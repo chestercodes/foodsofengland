@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212031759",
+  "finalPath": "banbury-cakes.html",
+  "heading": "Banbury Cakes",
+  "ingredients": [
+    "ale",
+    "butter",
+    "cinnamon",
+    "eggs",
+    "milk",
+    "rose-water",
+    "rosewater",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "banbury-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Banbury Cake\u003C/b\u003E.\u003Cbr\u003E\nTake a peck of pure Wheat-flower, six pound of Currans, half a pound of Sugar, two pound of Butter, halfe an ounce of Cloves and Mace, a pint and a halfe of Ale-yeast, and a little Rose-water; then boyle as much new-milk as will serve to knead it, and when it is almost cold, put into it as much Sack as will thicken it, and so work it all together before a fire, pulling it two or three times in pieces, after make it up.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EThe Countesse of RUTLANDS Receipt of making the rare Banbury Cake which was so much praised at her Daughters (the right Honourable the Lady Chawerths) wedding. Imprimis\u003C/b\u003E\u003Cbr\u003E\nTake a peck of fine flower, and halfe an ounce of large Mace, halfe an ounce of Nutmegs, and halfe an ounce of Cinnamon, your Cinnamon and Nutmegs must be sifted through a Searce, two pounds of Butter, halfe a score of Eggs, put out four of the whites of them, something above a pint of good Ale-yeast, beate your Eggs very well and straine them with your yeast, and a little warme water into your flowre, and stirre them together, then put your butter cold in little Lumpes: The water you knead withall must be scalding hot, if you will make it good past, the which having done, lay the past to rise in a warme Cloth a quarter of an hour, or thereupon; Then put in ten pounds of Currans, and a little Muske and Ambergreece dissolved in Rosewater; your Currans must be made very dry, or else they will make your Cake heavy, strew as much Sugar finely beaten amongst the Currans, as you shall think the water hath taken away the sweetnesse from them; Break your past into little pieces, into a kimnell or such like thing, and lay a Layer of past broken into little pieces, and a Layer of Currans, untill your Currans are all put in, mingle the past and the Currans very well, but take heed of breaking the Currans, you must take out a piece of past after it hath risen in a warme cloth before you put in the currans to cover the top, and the bottom, you must roule the cover something thin, and the bottom likewise, and wet it with Rosewater, and close them at the bottom of the side, or the middle which you like best, prick the top and the sides with a small long Pin, when your Cake is ready to go into the Oven, cut it in the midst of the side round about with a knife an inch deep, if your Cake be of a peck of Meale, it must stand two hours in the Oven, your Oven must be as hot as for Manchet.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Banbury Cakes",
+  "usedSnapshot": "20211201022835"
+}

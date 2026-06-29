@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140105052647",
+  "finalPath": "cheshire-pudding.html",
+  "heading": "Cheshire Pudding",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "flour",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheshire-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ECheshire Pudding (excellent).\u003C/b\u003E\u003Cbr\u003E\n946. Mix two table-spoonfuls of flour, and the yolks of three eggs with a pint of cream; stir it on the fire till it thickens; sweeten and flavour to taste, pour into a dish and bake. Before sending it to table, grate fine sugar over it, and brown it with a salamander.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Cheshire Pudding",
+  "usedSnapshot": "20220102215819"
+}

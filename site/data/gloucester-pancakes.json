@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20130323063439",
+  "finalPath": "gloucester-pancakes.html",
+  "heading": "Gloucester Pancakes",
+  "ingredients": [
+    "baking powder",
+    "egg",
+    "flour",
+    "jam",
+    "lard",
+    "milk",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-pancakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Gloucester%20Pancakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "6 oz flour\u003Cbr\u003E\n1 tsp baking powder\u003Cbr\u003E\n4 oz shredded suet\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\nsalt\u003Cbr\u003E\nmilk\u003Cbr\u003E\nlard for frying\u003Cbr\u003E\n\u003Cbr\u003E\nMix the flour, salt and baking powder. Rub in the suet. Knead in the egg and sufficient milk to get a firm dough. Roll out 3/4ins thick and cut into 2 ins rounds. Fry in a little melted lard until golden brown on both sides.\u003Cbr\u003E\nServe with warmed syrup or jam.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Gloucester Pancakes",
+  "usedSnapshot": "20220819112644"
+}

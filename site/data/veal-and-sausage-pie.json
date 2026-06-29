@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20170313233308",
+  "finalPath": "veal-and-sausage-pie.html",
+  "heading": "Veal and Sausage Pie",
+  "ingredients": [
+    "gravy",
+    "veal",
+    "collops",
+    "pork",
+    "poultry",
+    "sausage meat",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "veal-and-sausage-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "VEAL AND SAUSAGE PIE - ER\u003Cbr\u003E\nCover a shallow dish with paste, lay a well beaten veal cutlet at the bottom slightly seasoned, cover it with a Bologna sausage freed from the skin and cut into slices, then add another cutlet and a layer of the Bologna sausage, cover the whole with paste and put no water to it. The veal will give out sufficient gravy while it will be rendered very savoury by the sausage. It is excellent eaten cold\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "veal-and-sausage-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe breakfast book\u003C/i\u003E\u0027 by G. Hill (1865)",
+      "receiptText": "SAUSAGE PIE\u003Cbr\u003E\nSkin some Lyons or Bologna sausage cut it into tolerably thin slices divide these into quarters. Cover a pie dish or stewpan with paste, lay in the sausage, interspersing it with peppered collops of veal or sweetbreads and lumps of fresh sausage meat, spiced but not salted. If this sausage meat can conveniently be made with the flesh of game or poultry it is a great improvement. Pork cutlets may be employed in place of veal. Put on a lid of paste and bake in a slow oven for two hours if a large pie.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "veal-and-sausage-pie.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EMy Receipt Book\u003C/i\u003E\u0027, by \u0027A Lady\u0027, published by Groombridge and Sons, London, 1867",
+      "receiptText": "\u003Cb\u003EVeal and Sausage Pie\u003C/b\u003E\u003Cbr\u003E\nRaise some small pies about the size of a saucer, or not quite so large, chop some veal from the knuckle, season with white pepper and salt, put in the pie a little of the chopped veal and then a layer of pork sausage meat, and so on, till you have filled the crust, put on a lid ornament the top, and bake, pour in a little veal stock a few minutes before taking them out of the oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESausage Plait\u003C/b\u003E",
+      "relatedPageUrl": "sausage-plait.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Veal and Sausage Pie",
+  "usedSnapshot": "20200126101352"
+}

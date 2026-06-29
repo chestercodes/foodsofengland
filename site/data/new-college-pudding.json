@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922072939",
+  "finalPath": "new-college-pudding.html",
+  "heading": "New College Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "egg",
+    "eggs",
+    "nutmeg",
+    "puddings",
+    "salt",
+    "suet",
+    "sugar",
+    "turkey"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "new-college-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E422. To make new COLLEGE PUDDINGS.\u003C/b\u003E\u003Cbr\u003E\nGrate an old penny loaf, put to it a like quantity of suet shred, a nutmeg grated, a little salt and some currans, then beat some eggs in a little sack and sugar, mix all together, and knead it as stiff as for manchet, and make it up in the form and size of a turkey\u0027s egg, but a little flatter; take a pound of butter, put it in a dish or stew-pan, and set it over a clear fire in a chafing-dish, and rub your butter about the dish till it is melted, then put your puddings in, and cover the dish, but often turn your puddings till they are brown alike, and when they are enough grate some sugar over them, and serve them up hot.\u003Cbr\u003E\nFor a side-dish you must let the paste lie for a quarter of an hour before you make up your puddings.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "College Pudding",
+      "relatedPageUrl": "college-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxford"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "New College Pudding",
+  "usedSnapshot": "20210308024602"
+}

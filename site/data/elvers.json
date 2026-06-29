@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616080747",
+  "finalPath": "elvers.html",
+  "heading": "Elvers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Elver Cakes",
+      "relatedPageUrl": "elver-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Elvers",
+  "usedSnapshot": "20211207120320"
+}

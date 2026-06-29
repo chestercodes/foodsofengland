@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20150922072314",
+  "finalPath": "gardener-s-pie.html",
+  "heading": "Gardener\u0027s Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cauliflower",
+    "cheese",
+    "cream",
+    "mashed potatoes",
+    "milk",
+    "onion",
+    "parsley",
+    "potatoes",
+    "salt",
+    "thyme",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gardener-s-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Wednesday 24 October 1934, p3",
+      "receiptText": "\u003Cb\u003EGARDENER\u0027S PIE.\u003C/b\u003E One large cauliflower, one pound of tomatoes, four tablespoonfuls of milk, a sprig of thyme, two ounces of cheese, two ounces of butter, one teaspoonful of chopped parsley, salt, \u00AB one large onion, mashed potatoes, the cauliflower, boil in salted water until tender, and drain. Beat into a cream, season, add the cheese, parsley, chopped thyme, and half the milk. Mix well, and line buttered casserole with it. Add a layer of peeled and sliced tomatoes, and a sprinkling of grated onion. Put few small pieces of butter between the layers, and repeat until the dish is full. Season the potatoes. add the rest the milk to them, mix well, and spread on top of the casserole. Mark the top with a fork, and bake in a moderate oven for half-an-hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Butter Pie",
+      "relatedPageUrl": "butter-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Friday Pie",
+      "relatedPageUrl": "friday-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gardener\u0027s Pie",
+      "relatedPageUrl": "gardener-s-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Vegetable Pie",
+      "relatedPageUrl": "vegetable-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Woolton Pie",
+      "relatedPageUrl": "woolton-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Gardener\u0027s Pie",
+  "usedSnapshot": "20170314085304"
+}

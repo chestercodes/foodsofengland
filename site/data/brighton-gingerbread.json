@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922074751",
+  "finalPath": "brighton-gingerbread.html",
+  "heading": "Brighton Gingerbread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Gingerbreads",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brighton Gingerbread",
+  "usedSnapshot": "20211019182501"
+}

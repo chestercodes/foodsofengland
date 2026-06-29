@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922074414",
+  "finalPath": "brown-bread-pudding.html",
+  "heading": "Brown Bread Pudding",
+  "ingredients": [
+    "brandy",
+    "bread",
+    "cream",
+    "currants",
+    "eggs",
+    "nutmeg",
+    "pudding",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brown-bread-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BROWN BREAD PUDDING. Half a pound of stale brown bread grated, half a pound of currants, ditto of shred suet, sugar and nutmeg. Mix it up with four eggs, a spoonful of brandy, and twice as much cream. Boil it in a cloth or bason of proper size three or four hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Brown Bread Pudding",
+  "usedSnapshot": "20211129122805"
+}

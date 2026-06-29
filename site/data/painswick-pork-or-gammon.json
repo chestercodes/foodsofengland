@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130325124654",
+  "finalPath": "painswick-pork-or-gammon.html",
+  "heading": "Painswick Pork or Gammon",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "cider",
+    "demerara sugar",
+    "english mustard",
+    "flour",
+    "mustard",
+    "parsley",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "painswick-pork-or-gammon.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Painswick%20Pork%20or%20Gammon\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPainswick Bacon Chops in Cider Recipe\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4 x 150 Gram Bacon chops (6 oz)\u003Cbr\u003E\n1 Tablespoon English mustard\u003Cbr\u003E\n25 Gram Demerara sugar (1 oz)\u003Cbr\u003E\n300 ml Dry cider (\u00BD pint)\u003Cbr\u003E\n15 Gram Butter (\u00BD oz)\u003Cbr\u003E\n1 \u00BD Tablespoon Plain flour\u003Cbr\u003E\nFresh parsley, chopped for garnish\u003Cbr\u003E\n\u003Cbr\u003E\nPut the chops side by side in a large oven-proof dish. Mix the mustard and sugar with a little of the cider to make a smooth paste. Spread over the chops. Leave for 30 minutes.\u003Cbr\u003E\nPre-heat the oven to 200 \u00B0C / 400 \u00B0F / Gas 6.\u003Cbr\u003E\nBake for 15 minutes. Meanwhile, put the butter, flour and remaining cider in a saucepan. Heat, whisking continuously, until the sauce thickens, boils and is smooth. Simmer for 1-2 minutes. Pour over the chops. Bake for a further 15 minutes, until cooked through. Serve garnished with parsley.\u003Cbr\u003E\nFor a stronger cider flavour, use one-third to one-half more than the recipe states and reduce it by boiling to concentrate.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Painswick Pork or Gammon",
+  "usedSnapshot": "20211018070013"
+}

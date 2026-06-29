@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922073003",
+  "finalPath": "crows.html",
+  "heading": "Crows",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blackbird Pie",
+      "relatedPageUrl": "blackbird-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Crows",
+  "usedSnapshot": "20220819112314"
+}

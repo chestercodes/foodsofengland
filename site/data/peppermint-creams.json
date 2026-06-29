@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922091554",
+  "finalPath": "peppermint-creams.html",
+  "heading": "Peppermint Creams",
+  "ingredients": [
+    "egg",
+    "icing sugar",
+    "peppermint",
+    "sugar",
+    "vanilla",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "peppermint-creams.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E715. PEPPERMINT CREAMS (Hampshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the white of an egg (not beaten), add half its quantity of cold water. Stir well to mix the two together. Put in enough icing sugar to make it stiff enough to handle: mould into any shape desired. Flavour with essence of peppermint. Vanilla creams are prepared the same as above, only with vanilla flavouring instead of peppermint. Shape into balls, and put a piece of dried walnut at top and bottom.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Peppermint Creams",
+  "usedSnapshot": "20220516211128"
+}

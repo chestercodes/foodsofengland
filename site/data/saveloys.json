@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140125041337",
+  "finalPath": "saveloys.html",
+  "heading": "Saveloys",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ESavoloy\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Saveloys",
+  "usedSnapshot": "20210518204954"
+}

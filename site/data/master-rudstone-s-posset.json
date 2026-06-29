@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922092005",
+  "finalPath": "master-rudstone-s-posset.html",
+  "heading": "Master Rudstone\u0027s Posset",
+  "ingredients": [
+    "ale",
+    "cream",
+    "eggs",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "master-rudstone-s-posset.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMaster Rudstones Posset.\u003C/b\u003E\u003Cbr\u003E\nTake a Pint of Sack, a quarter of a pint of Ale three quarters of a pound of Sugar, boyle all these well together, take two yolks of Eggs and sixteen whites very well beaten, put this to your boyling Sack \u0026 slice it very well together till it be thick on the coales; then take the three pints of Milk or Cream being boyled to a quart, it must stand and cool till the Eggs thicken, put it to your Sack and Eggs, and stir them well together, then cover it with a Plate and so serve it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Master Rudstone\u0027s Posset",
+  "usedSnapshot": "20220527215615"
+}

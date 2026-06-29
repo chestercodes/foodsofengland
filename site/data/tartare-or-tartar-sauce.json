@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922080900",
+  "finalPath": "tartare-or-tartar-sauce.html",
+  "heading": "Tartare (or Tartar) Sauce",
+  "ingredients": [
+    "eggs",
+    "pepper",
+    "salt",
+    "shalot",
+    "tarragon",
+    "tartar",
+    "vinegar",
+    "cayenne",
+    "gherkins",
+    "mustard",
+    "olives",
+    "parsley",
+    "shalots"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tartare-or-tartar-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Modern Cook\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E96. TARTAR SAUCE\u003C/b\u003E.\u003Cbr\u003E\n\u003Cbr\u003E\nPlace a round-bottomed basin in a deep saut\u00E9-pan containing some pounded ice, put two raw yolks of eggs into the basin with a little pepper and salt, and with a wooden spoon proceed, with the back part of the bowl, to work the yolk of eggs, dropping in, at intervals, very small quantities of salad-oil, and a little tarragon-vinegar, until a sufficient quantity of sauce is produced; bearing in mind, that the relative quantity of oil to be used in proportion to the vinegar is as five to one. When the sauce is finished, add some chopped tarragon and chervil, and half a shalot.\u003Cbr\u003E\n\u003Cbr\u003E\nIn making this sauce, should it decompose through inattention, it may instantly be restored to its proper consistency by mixing in it a good spoonful of cold white sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tartare-or-tartar-sauce.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETARTAR SAUCE.\u003C/b\u003E\u003Cbr\u003E\n(Sauce a la Tartare).\u003Cbr\u003E\nAdd to the preceding remoulade, or to any other sauce of the same nature, a teaspoonful or more of made mustard, one of finely-minced shalots, one of parsley or tarragon, and one of capers or of pickled gherkins, with a rather high seasoning of cayenne, and some salt if needed. The tartar-mustard of the previous chapter, or good French mustard, is to be preferred to English for this sauce, which is usually made very pungent, and for which any ingredients can be used to the taste which will serve to render it so. Tarragon vinegar, minced tarragon and eschalots, and plenty of oil, are used for it in France, in conjunction with the yolks of one or two eggs, and chopped capers, or gherkins, to which olives are sometimes added.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Tartare (or Tartar) Sauce",
+  "usedSnapshot": "20211021022519"
+}

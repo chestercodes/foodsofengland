@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922081921",
+  "finalPath": "fig-sue.html",
+  "heading": "Fig-Sue",
+  "ingredients": [
+    "beer"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fig-sue.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ERegional Flavour - a TV Times book\u003C/i\u003E\u0027 (Independent Television Books Ltd 1975 - ISBN 0 900 72748 9) found by Linda Johnson",
+      "receiptText": "\u003Cb\u003EFig Sue\u003C/b\u003E\u003Cbr\u003E\nA hot drink made from figs and mild beer, which was drunk on special occasions mainly in the farm houses. It was drunk from the old-style blue and white porridge basins.\u003Cbr\u003E\n\u003Cbr\u003E\nPreparation Time: overnight\u003Cbr\u003E\nCooking Time: 10 minutes\u003Cbr\u003E\n\u003Cbr\u003E\nSERVES 6\u003Cbr\u003E\n\u003Cbr\u003E\n2 pints mild beer\u003Cbr\u003E\n4oz dried figs\u003Cbr\u003E\n\u003Cbr\u003E\nBring half a pint of beer to a simmer and pour over the figs. Leave to soak overnight. Add the remaining beer and bring the mixture to simmering point again and hold it at simmering point for 5 minutes. Strain and allow to cool before drinking. The figs, of course, are cooked and taste absolutely delicious, hot or cold, after being soaked in the beer.\u201D\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EFig Sue, Fig Sewe\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westmorland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Fig-Sue",
+  "usedSnapshot": "20210512123755"
+}

@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922074535",
+  "finalPath": "bread-and-rice-pudding.html",
+  "heading": "Bread and Rice Pudding",
+  "ingredients": [
+    "beat",
+    "bread",
+    "eggs",
+    "milk",
+    "pudding",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bread-and-rice-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BREAD AND RICE PUDDING. Boil a quarter of a pound of rice in some milk till it is quite soft, put it into a bason, and let it stand till the next day. Soak some sliced bread in cold milk, drain it off, mash it fine, and mix it with the rice. Beat up two eggs with it, add a little salt, and boil it an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rice Pudding",
+      "relatedPageUrl": "rice-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Bread and Rice Pudding",
+  "usedSnapshot": "20220808011453"
+}

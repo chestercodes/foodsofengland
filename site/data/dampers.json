@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922085324",
+  "finalPath": "dampers.html",
+  "heading": "Dampers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cold Water Willies",
+      "relatedPageUrl": "cold-water-willies.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dampers",
+  "usedSnapshot": "20220527210736"
+}

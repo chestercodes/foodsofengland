@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072840",
+  "finalPath": "raspberry-crumble.html",
+  "heading": "Raspberry Crumble",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crumble Topping",
+      "relatedPageUrl": "crumble.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Raspberry Crumble",
+  "usedSnapshot": "20211201000413"
+}

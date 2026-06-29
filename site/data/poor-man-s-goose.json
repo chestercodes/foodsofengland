@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922091229",
+  "finalPath": "poor-man-s-goose.html",
+  "heading": "Poor Man\u0027s Goose",
+  "ingredients": [
+    "flour",
+    "goose",
+    "liver",
+    "onion",
+    "pepper",
+    "salt",
+    "bacon",
+    "potatoes",
+    "pudding",
+    "tea",
+    "kidneys"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "poor-man-s-goose.html-1",
+      "receiptSource": "Original Receipt from the School Board for London\u0027s \u0027\u003Ci\u003EHandbook of household management and cookery\u003C/i\u003E\u0027 (1894)",
+      "receiptText": "\u003Cb\u003EPoor Man\u0027s Goose.\u003C/b\u003E Wash a pig\u0027s fry and dry it well in a cloth, cut the liver and heart into slices; flour it and lay it in a baking dish, season it with pepper, salt, and a teaspoonful of chopped sage leaves, and one onion chopped fine, pour in a gill of water, cover it with the caul, and bake three-quarters of an hour in a moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "poor-man-s-goose.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENelson\u0027s Handbook of Practical Cookery\u003C/i\u003E\u0027 (1886)",
+      "receiptText": "\u003Cb\u003EPoor Man\u0027s Goose.\u003C/b\u003E One pound liver, one quarter pound bacon, one half table-spoonful salt, one half tea-spoonful pepper, two pounds potatoes, one large onion, one half pint cold water.\u003Cbr\u003E\n\u003Cbr\u003E\nSoak the onion over night in a small basin of boiling water. Take it out of the water, and slice it. Place the potatoes in a pan, cover them with cold water, and allow the water to boil. Cut the liver in thin slices, and put them in a basin of cold water. Remove the skin from the bacon, and slice it also. Take the potatoes from the boiling water and slice them. Place now in a Yorkshire pudding-tin a layer of potatoes, then a layer of the liver, then a little of the onion, a little pepper and salt, then a little of the bacon. Continue to do this until all those ingredients are used up. Place over the top a last layer of potatoes. Pour in the water at the side. Place the tin in a hot oven, and bake one hour and a half.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "poor-man-s-goose.html-3",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Poor%20Man\u0027s%20Goose\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Heart, liver, kidneys, sweetbread.\u003Cbr\u003E\nPotatoes.\u003Cbr\u003E\nChopped onion\u003Cbr\u003E\nChopped sage\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nParboil the potatoes in their skins, peel and slice. Cut the meat into small pieces. Grease a pie dish, and place a layer of potatoes on the bottom of it with a little of the onion and sage. Then add a layer of the meat mixture. Alternate the layers until the pie dish is full using the potatoes for the final layer. Fill the pie dish up to the last inch with water and placed oiled greaseproof paper on top of the layer of potatoes. Bake in a medium oven for \u00BE of an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMock Goose\u003C/b\u003E",
+      "relatedPageUrl": "mock-goose.html",
+      "relationDescription": "For similar dishes, see \u0027"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Poor Man\u0027s Goose",
+  "usedSnapshot": "20210510051855"
+}

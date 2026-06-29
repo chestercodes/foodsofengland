@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808223354",
+  "finalPath": "durham-buckwheat-cakes.html",
+  "heading": "Durham Buckwheat Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Durham Buckwheat Cakes",
+  "usedSnapshot": "20170314145428"
+}

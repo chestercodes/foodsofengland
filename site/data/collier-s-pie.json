@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212021902",
+  "finalPath": "collier-s-pie.html",
+  "heading": "Collier\u0027s Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Collier\u0027s Pie",
+  "usedSnapshot": "20211020234203"
+}

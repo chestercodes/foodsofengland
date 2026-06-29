@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140508110459",
+  "finalPath": "oat-cakes.html",
+  "heading": "Oat Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Oatcakes - Derbyshire",
+      "relatedPageUrl": "oatcakes-derbyshire.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oatcakes - Lancashire",
+      "relatedPageUrl": "oatcakes-lancashire.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oatcakes - Staffordshire",
+      "relatedPageUrl": "oatcakes-staffordshire.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oatcakes - Yorkshire",
+      "relatedPageUrl": "oatcakes-yorkshire.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oatmeal Bread",
+      "relatedPageUrl": "oatmeal-bread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Old Wife\u0027s Sod",
+      "relatedPageUrl": "old-wife-s-sod.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Riddle Bread",
+      "relatedPageUrl": "riddle-bread.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oat Cakes",
+  "usedSnapshot": "20211027042458"
+}

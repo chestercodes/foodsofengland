@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922082005",
+  "finalPath": "comfortable-bread.html",
+  "heading": "Comfortable-Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Comfortable-Bread",
+  "usedSnapshot": "20211201010149"
+}

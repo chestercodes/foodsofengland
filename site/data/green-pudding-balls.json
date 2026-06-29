@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922080920",
+  "finalPath": "green-pudding-balls.html",
+  "heading": "Green Pudding Balls",
+  "ingredients": [
+    "beef",
+    "bread",
+    "butter",
+    "eggs",
+    "herbs",
+    "nutmeg",
+    "pudding",
+    "rose-water",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-pudding-balls.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a green Pudding.\u003C/b\u003E\u003Cbr\u003E\nTake a penny loafe of stale Bread, grate it, put to halfe a pound of Sugar, grated Nutmeg, as much Salt as will season it, three quarters of a pound of beef-suet shred very small, then take sweet Herbs, the most of them Marigolds, eight Spinages: shred the Herbs very small, mix all well together, then take two Eggs and work them up together with your hand, and make them into round balls, and when the water boyles put them in, serve them with Rose-water, Sugar, and Butter or Sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Green Pudding Balls",
+  "usedSnapshot": "20211205171015"
+}

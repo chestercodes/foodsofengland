@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212023819",
+  "finalPath": "egg-and-bacon-pie.html",
+  "heading": "Egg and Bacon Pie",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "cream",
+    "egg",
+    "eggs",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-and-bacon-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EEgg and Bacon Pie to eat cold:\u003C/b\u003E\u003Cbr\u003E\nSteep a few thin slices of bacon all night in water, to take out the salt, lay your bacon in the dish, beat eight eggs with a pint of thick cream, put in a little pepper and salt, and pour it on the bacon, lay over it a good cold paste, bake it a day before you want it in a moderate oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Egg Pie",
+      "relatedPageUrl": "egg-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Egg and Bacon Pie",
+  "usedSnapshot": "20220808021105"
+}

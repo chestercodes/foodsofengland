@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212025029",
+  "finalPath": "savoury-puffs.html",
+  "heading": "Savoury Puffs",
+  "ingredients": [
+    "beat",
+    "bread",
+    "cayenne",
+    "egg",
+    "eggs",
+    "fat",
+    "ham",
+    "herbs",
+    "lemon",
+    "pastry",
+    "pepper",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "savoury-puffs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EFalkirk Herald\u003C/i\u003E\u0027 - Wednesday 9 September 1896",
+      "receiptText": "Savoury Puffs.-Mince half a pound of cold cooked veal, freed from skin and gristle, and mix with it two ounces of minced ham, season well with cayenne pepper, salt, and a little grated lemon-peel. Beat, up two eggs and work into the mixture, adding sufficient herbs to flavour delicately. Cut some rounds of thin pastry, arrange the mixture on one half, press the other over, and, pinch the edges together. Dip into beaten egg, then into bread-crumbs, and fry in deep fat. Drain very dry, and serve in a circle round a pile of boiled French beans.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Savoury Puffs",
+  "usedSnapshot": "20200126064444"
+}

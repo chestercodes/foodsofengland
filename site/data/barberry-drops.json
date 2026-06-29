@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922082627",
+  "finalPath": "barberry-drops.html",
+  "heading": "Barberry Drops",
+  "ingredients": [
+    "barberries",
+    "beat",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barberry-drops.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E46. BARBERRY DROPS.\u003C/b\u003E\u003Cbr\u003E\nWhen the barberries are full ripe, pull \u0027em off the stalk, put them in a pot, and boil them in a pan of water till they are soft, then pulp them thro\u0027 a hair-sieve, beat and searce the sugar, and mix as much of the searc\u0027d sugar with the pulp, as will make it of the consistance of a light paste; then drop them with a pen-knife on paper (glaz\u0027d with a slight stone) and set them within the air of the fire for an hour, then take them off the paper and keep them dry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Barberry Drops",
+  "usedSnapshot": "20220516211429"
+}

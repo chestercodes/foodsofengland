@@ -1,0 +1,102 @@
+﻿{
+  "earliestSnapshot": "20150922081944",
+  "finalPath": "quince.html",
+  "heading": "Quince",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Charlotte",
+      "relatedPageUrl": "apple-charlotte.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Apple Dumplings",
+      "relatedPageUrl": "east-anglian-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chare",
+      "relatedPageUrl": "chare.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Courageous Tart",
+      "relatedPageUrl": "courageous-tart.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Marmalade",
+      "relatedPageUrl": "marmalade.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Powsowdie or Ponsondie",
+      "relatedPageUrl": "powsowdie-or-ponsondie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quiddany",
+      "relatedPageUrl": "quiddany.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quinade",
+      "relatedPageUrl": "quinade.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quince",
+      "relatedPageUrl": "quince.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quince and Apple Pie",
+      "relatedPageUrl": "quince-and-apple-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quince Butter",
+      "relatedPageUrl": "quince-butter.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quince Cream",
+      "relatedPageUrl": "quince-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quince Jam",
+      "relatedPageUrl": "quince-jam.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Quince Jelly",
+      "relatedPageUrl": "quince-jelly.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Sauce Madame",
+      "relatedPageUrl": "sauce-madame.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Quince",
+  "usedSnapshot": "20220517173430"
+}

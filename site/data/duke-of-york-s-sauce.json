@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922081112",
+  "finalPath": "duke-of-york-s-sauce.html",
+  "heading": "Duke of York\u0027s Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Duke of York\u0027s Sauce",
+  "usedSnapshot": "20211207111826"
+}

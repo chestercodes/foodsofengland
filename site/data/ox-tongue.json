@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922082831",
+  "finalPath": "ox-tongue.html",
+  "heading": "Ox Tongue",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Ox Tongue",
+  "usedSnapshot": "20220819105659"
+}

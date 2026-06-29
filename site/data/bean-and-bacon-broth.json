@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922083106",
+  "finalPath": "bean-and-bacon-broth.html",
+  "heading": "Bean and Bacon Broth",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bacon and Beans",
+      "relatedPageUrl": "bacon-and-beans.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bean and Bacon Broth",
+  "usedSnapshot": "20220527223102"
+}

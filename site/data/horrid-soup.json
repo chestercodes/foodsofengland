@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922084632",
+  "finalPath": "horrid-soup.html",
+  "heading": "Horrid Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Horrid Soup",
+  "usedSnapshot": "20220516211552"
+}

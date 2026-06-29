@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922073306",
+  "finalPath": "lady-paget-s-jelly.html",
+  "heading": "Lady Paget\u0027s Jelly",
+  "ingredients": [
+    "apple",
+    "orange",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lady-paget-s-jelly.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAPPLES IN GELLY\u003C/b\u003E\u003Cbr\u003E\nMy Lady Paget makes her fine preserved Pippins, thus: They are done best, when Pippins are in their prime for quickness, which is in November. Make your Pippin-water as strong as you can of the Apples, and that it may be the less boiled, and consequently the paler, put in at first the greatest quantity of pared and quartered Apples, the water will bear. To every Pint of Pippin-water add (when you put the Sugar to it) a quarter of a pint of fair spring-water, that will bear soap (of which sort only you must use) and use half a pound of Sugar, the purest double refined. If you will have much gelly, two Pippins finely pared and whole, will be enough; you may put in more, if you will have a greater proportion of substance to the gelly. Put at first but half the Sugar to the Liquor; for so it will be the paler. Boil the Apples by themselves in fair water, with a very little Sugar, to make them tender; then put them into the liquor, and the rest, the other half of the Sugar with them. Boil them with a quick fire, till they be enough, and the liquor do gelly, and that you see the Apples look very clear, and as though they were transparent. You must put the juyce of two Limons and half an Orange to this in the due time. Every Pippin should be lapped over in a broad-pill of Orange; which you must prepare thus. Pare your Orange broad and very thin, and all hanging together, rub it with Salt, prick it, and boil it in several waters, to take away the bitterness, and make it tender. Then preserve it by it self with sufficient quantity of Sugar. When it is throughly done, and very tender (which you must cast to do before hand, to be ready when the Apples are ready to be put up) take them out of their Syrup, and lap every Pippin in an Orange-peel, and put them into a pot or glass, and pour the liquor upon them: which will be gelly over and about the Apples, when all is cold. This proportion of liquor, Apples, and Orange-peels, will take up about three quarters of a pound of Sugar in all. If you would keep them any time, you must put in weight for weight of Sugar.\u003Cbr\u003E\nI conceive Apple-John\u0027s in stead of Pippins will do better, both for the gelly and Syrup; especially at the latter end of the year; and I like them thin sliced, rather than whole; and the Orange-peels scattered among them in little pieces or chipps.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Lady Paget\u0027s Jelly",
+  "usedSnapshot": "20170314024821"
+}

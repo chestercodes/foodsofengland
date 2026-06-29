@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073435",
+  "finalPath": "bacon-broth.html",
+  "heading": "Bacon Broth",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bacon Broth",
+  "usedSnapshot": "20220808015755"
+}

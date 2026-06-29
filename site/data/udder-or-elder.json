@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922100409",
+  "finalPath": "udder-or-elder.html",
+  "heading": "Udder or Elder",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cinnamon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "udder-or-elder.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo roast a Cows Udder\u003C/b\u003E\u003Cbr\u003E\nTake a Cows Udder, and first boyl it well: then stick it thick all over with Cloves: then when it is cold spit it, and lay it on the fire, and and apply it very well with basting of sweet Butter, and when it is sufficiently roasted and brown, then dredg it, and draw it from the fire, take Venegar and Butter, and put it on a chafing dish and coals; and boyl it with white bread crum, till it be thick: then put to it good store Sugar and of Cinnamon, and putting it into a clean dish, lay the Cows Udder therein, and trim the sides of the dish with Sugar, and so serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Udder or Elder",
+  "usedSnapshot": "20211207123959"
+}

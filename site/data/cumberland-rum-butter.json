@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922084442",
+  "finalPath": "cumberland-rum-butter.html",
+  "heading": "Cumberland Rum Butter",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Cumberland Rum Butter",
+  "usedSnapshot": "20220527222235"
+}

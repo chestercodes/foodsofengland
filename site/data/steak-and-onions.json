@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922085106",
+  "finalPath": "steak-and-onions.html",
+  "heading": "Steak and Onions",
+  "ingredients": [
+    "fat",
+    "flour",
+    "gravy",
+    "onions",
+    "pepper",
+    "salt",
+    "steaks",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "steak-and-onions.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 74. Fried Steaks and Onions.\u003C/b\u003E\u003Cbr\u003E\nSeason the steaks with pepper and salt, and when done brown on both sides, without being overdone, place them in a dish before the fire while you fry some sliced onions in the fat which remains in the pan; as soon as the onions are done, and laid upon the steaks, shake a spoonful of flour in the pan, add a gill of water and a few drops of vinegar; give this gravy a boil up on the fire, and pour it over the steaks, etc.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Steak and Onions",
+  "usedSnapshot": "20211205171421"
+}

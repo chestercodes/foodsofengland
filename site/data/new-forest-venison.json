@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073224",
+  "finalPath": "new-forest-venison.html",
+  "heading": "New Forest Venison",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "New Forest Venison",
+  "usedSnapshot": "20220516214623"
+}

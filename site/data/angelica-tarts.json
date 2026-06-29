@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212021235",
+  "finalPath": "angelica-tarts.html",
+  "heading": "Angelica Tarts",
+  "ingredients": [
+    "lemon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "angelica-tarts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ANGELICA TARTS. Take an equal quantity of apples and angelica, pare and peel them, and cut them separately into small pieces. Boil the apples gently in a little water, with fine sugar and lemon peel, till they become a thin syrup: then boil the angelica about ten minutes. Put some paste at the bottom of the pattipans, with alternate layers of apples and angelica: pour in some of the syrup, put on the lid, and bake them carefully.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Angelica Tarts",
+  "usedSnapshot": "20211201034441"
+}

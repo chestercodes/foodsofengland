@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808230820",
+  "finalPath": "apple-hearthbread.html",
+  "heading": "Apple Hearthbread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Apple Hearthbread",
+  "usedSnapshot": "20170314010630"
+}

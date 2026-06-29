@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922082713",
+  "finalPath": "apple-bobbing-punch.html",
+  "heading": "Apple Bobbing Punch",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHalloween\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/halloween.html",
+      "relationDescription": "For other seasonal traditions, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Halloween"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Apple Bobbing Punch",
+  "usedSnapshot": "20211205170402"
+}

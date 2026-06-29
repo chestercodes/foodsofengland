@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072432",
+  "finalPath": "wassail-bowl.html",
+  "heading": "Wassail Bowl",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wassail Bowl",
+  "usedSnapshot": "20220527072307"
+}

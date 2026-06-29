@@ -1,0 +1,115 @@
+﻿{
+  "earliestSnapshot": "20150418132827",
+  "finalPath": "winster-wakes-cake.html",
+  "heading": "Winster Wakes Cake",
+  "ingredients": [
+    "butter",
+    "carbonate soda",
+    "currants",
+    "eggs",
+    "flour",
+    "sugar",
+    "castor sugar",
+    "egg",
+    "plain flour",
+    "beat",
+    "cream",
+    "salt"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "winster-wakes-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EDerbyshire Courier\u003C/i\u003E\u0027 - Saturday 14 March 1914",
+      "receiptText": "\u003Cb\u003EWinster Wakes Cake\u003C/b\u003E\u003Cbr\u003E\nFlour. 1 \u00BE lb. \u00BE lb sugar. \u00BE lb butter, \u00BC lb. currants, one teaspoonful carbonate soda and three eggs. Melt the butter before putting into the flour and cut into various shapes.- Miss E. WHEELDON. Ravensworth, Victoria Crescent, Sherwood. Nottingham.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022winwakes.jpg\u0022\u003E\u003Cimg src=\u0022winster-wakes-cake-winwakes.jpg\u0022 width=\u0022414\u0022 height=\u0022282\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "winster-wakes-cake.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.peakdistrictonline.co.uk\u0022\u003E\u003Cb\u003EPeak District Online\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWinster Wakes Cakes\u003C/b\u003E\u003Cbr\u003E\n225g plain flour\u003Cbr\u003E\n170g butter\u003Cbr\u003E\n170g castor sugar\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n30g currants\u003Cbr\u003E\n\u003Cbr\u003E\nRub the flour and butter together and add the sugar and currants, then mix to a stiff dough with beaten egg. Knead a little, roll out,and then cut into rounds the size of a saucer. Place on a greased tray and bake in a moderate over until pale golden brown\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "winster-wakes-cake.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EFeast-Day Cakes from Many Lands\u003C/i\u003E\u0027 by Dorothy Gladys Spicer, Holt, Rinehart and Winston, 1960",
+      "receiptText": "3/4 cup sugar\u003Cbr\u003E\n1 cup butter\u003Cbr\u003E\n3 \u00BD cups all purpose flour\u003Cbr\u003E\n3 tablespoons dried currants\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n1/2 teaspoon salt\u003Cbr\u003E\n\u003Cbr\u003E\nYield: approx. 4 dozen cakes [sic.]\u003Cbr\u003E\n\u003Cbr\u003E\nCream the butter and sugar. Sift together dry ingredients. Beat egg until thick and light. Add to the first mixture. Gradually stir in the dry ingredients, mixing the dough thoroughly.\u003Cbr\u003E\nRoll out the dough \u00BC inch thick. Press in currants. Cut into 3 \u00BC inch rounds, sprinkle with coarse sugar, and bake in moderate oven until done.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Currant Bread",
+      "relatedPageUrl": "currant-bread.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Fruit Shortcake Biscuit",
+      "relatedPageUrl": "fruit-shortcake-biscuit.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Hindle Wakes",
+      "relatedPageUrl": "hindle-wakes.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Tosset Cakes",
+      "relatedPageUrl": "tosset-cakes.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Wakes Cake",
+      "relatedPageUrl": "wakes-cake.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Westhoughton Pasties",
+      "relatedPageUrl": "westhoughton-pasties.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Wirksworth Wakes Cake",
+      "relatedPageUrl": "wirksworth-wakes-cake.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Garstang Fair Cakes",
+      "relatedPageUrl": "garstang-fair-cakes.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Goosnargh Cake",
+      "relatedPageUrl": "goosnargh-cake.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Pilling Cakes",
+      "relatedPageUrl": "pilling-cakes.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    },
+    {
+      "relatedPageText": "Stalmine Club Cakes",
+      "relatedPageUrl": "stalmine-club-cakes.html",
+      "relationDescription": "For other Wakes Day traditions, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Winster Wakes Cake",
+  "usedSnapshot": "20211205181048"
+}

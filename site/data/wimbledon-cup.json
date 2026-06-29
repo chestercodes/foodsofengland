@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922073650",
+  "finalPath": "wimbledon-cup.html",
+  "heading": "Wimbledon Cup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Badminton Cup",
+      "relatedPageUrl": "badminton-cup.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wimbledon Cup",
+  "usedSnapshot": "20220808005543"
+}

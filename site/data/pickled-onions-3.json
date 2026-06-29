@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922093825",
+  "finalPath": "pickled-onions-3.html",
+  "heading": "Pickled Onions (3)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "(1)",
+      "relatedPageUrl": "pickledonions(1).htm",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "(2)",
+      "relatedPageUrl": "pickledonions(2).htm",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "(3)",
+      "relatedPageUrl": "pickledonions(2).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pickled Onions (3)",
+  "usedSnapshot": "20170314021109"
+}

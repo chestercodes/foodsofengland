@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20130324050919",
+  "finalPath": "meat-balls.html",
+  "heading": "Meat Balls",
+  "ingredients": [
+    "beat",
+    "bread",
+    "chicken",
+    "eggs",
+    "lard",
+    "lemon",
+    "nutmeg",
+    "onion",
+    "parsley",
+    "pepper",
+    "pork",
+    "salt",
+    "shalot",
+    "suet",
+    "thyme",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "meat-balls.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EForcemeat Balls.\u003C/b\u003E\u003Cbr\u003E\n335. Beat half a pound of lean veal or pork and half a pound of suet well in a mortar, put in three eggs, and some grated bread; season it with pepper, salt, nutmeg, and lemon-peel, two cloves, and a blade or two of mace. Make it into small balls, and fry them a light brown.\u003Cbr\u003E\n\u003Ci\u003EAnother Receipt.-\u003C/i\u003E A pound of fresh suet, one ounce of ready- dressed veal or chicken chopped fine, bread crumbs, a little shalot or onion, salt, white pepper, nutmeg, mace, pennyroyal, parsley, and lemon thyme finely shred; beat as many fresh eggs, yolks and whites separately, as will make the above ingredients into a moist paste; roll into small balls, and fry them in fresh lard, putting them in just as it boils up. When of a light brown, take them out and drain before the fire. If the suet is moist or stale, a great many more eggs will be necessary. Forcemeat balls made in this way are remarkably light; but being somewhat greasy, some people prefer them with less suet and eggs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Meat Balls",
+  "usedSnapshot": "20211020234039"
+}

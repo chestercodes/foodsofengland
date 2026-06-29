@@ -1,0 +1,126 @@
+﻿{
+  "earliestSnapshot": "20150922075917",
+  "finalPath": "tea.html",
+  "heading": "Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Earl Grey Tea",
+      "relatedPageUrl": "earl-grey-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Afternoon Tea",
+      "relatedPageUrl": "afternoon-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Aerated Bread",
+      "relatedPageUrl": "aerated-bread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Afternoon Tea",
+      "relatedPageUrl": "afternoon-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Apple Tea",
+      "relatedPageUrl": "apple-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Beef Tea",
+      "relatedPageUrl": "beef-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cream Tea",
+      "relatedPageUrl": "cream-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fat Rascals",
+      "relatedPageUrl": "fat-rascals.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fruited Teabread",
+      "relatedPageUrl": "fruited-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Herb Tea",
+      "relatedPageUrl": "herb-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Hop Tea",
+      "relatedPageUrl": "hop-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Poppy Tea",
+      "relatedPageUrl": "poppy-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Rich Tea",
+      "relatedPageUrl": "rich-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sage Tea",
+      "relatedPageUrl": "sage-tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Saloop",
+      "relatedPageUrl": "saloop.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tea",
+      "relatedPageUrl": "tea.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tea Cream",
+      "relatedPageUrl": "tea-cream.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tea with Eggs",
+      "relatedPageUrl": "tea-with-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Tea Cakes",
+      "relatedPageUrl": "yorkshire-tea-cakes.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Tea",
+  "usedSnapshot": "20211207122118"
+}

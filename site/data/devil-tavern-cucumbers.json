@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922090328",
+  "finalPath": "devil-tavern-cucumbers.html",
+  "heading": "Devil-Tavern Cucumbers",
+  "ingredients": [
+    "beef",
+    "butter",
+    "flour",
+    "lamb",
+    "mutton",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devil-tavern-cucumbers.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo stew Cucumbers. From the \u003Ci\u003EDevil Tavern\u003C/i\u003E Fleet street\u003C/b\u003E\u003Cbr\u003E\nTAKE a dozen large green Cucumbers that are not too full of Seed; pare them and slice them; then take two large Onions and shred them indifferently small. Put these in a Sauce Pan and set them over the Fire to stew with as much Salt as you think convenient; stir them now and then till they are tender and then pour them into a Cullender to drain from the Water and are as dry as possible you can make them; then flour them and put some Pepper to them. After this burn some Butter in a Frying Pan, and when it is very hot put in your Cucumbers, and stir them continually till they are brown; then put to them about a Gill of Claret, and when that is well mix\u0027d with them serve them hot under roast Mutton or Lamb, or else serve them on a Plate upon Sippits fry\u0027d and dip\u0027d in Mutton or Beef Gravey.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fried Cucumbers",
+      "relatedPageUrl": "fried-cucumbers.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Devil-Tavern Cucumbers",
+  "usedSnapshot": "20170314143335"
+}

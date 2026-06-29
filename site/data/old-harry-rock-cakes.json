@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20141120160223",
+  "finalPath": "old-harry-rock-cakes.html",
+  "heading": "Old Harry Rock Cakes",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "cherries",
+    "cinnamon",
+    "currants",
+    "demerara sugar",
+    "dried fruit",
+    "egg",
+    "flour",
+    "glace cherries",
+    "lemon",
+    "milk",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "old-harry-rock-cakes.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz self-raising wheatmeal flour\u003Cbr\u003E\n\u00BD teaspoon mixed spice\u003Cbr\u003E\n\u00BD teaspoon ground cinnamon\u003Cbr\u003E\n4 oz butter, softened\u003Cbr\u003E\n4 oz Demerara sugar\u003Cbr\u003E\n4 oz mixed dried fruits (currants, sultanas, mixed peel, glace cherries etc)\u003Cbr\u003E\nGrated rind of\u00BD lemon\u003Cbr\u003E\n1 medium egg, beaten\u003Cbr\u003E\n2 tablespoons milk\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 375F or Mark 5. Stir the flour, mixed spice and cinnamon together into a bowl and rub in the butter until the mixture resembles breadcrumbs. Stir in the sugar, dried fruit and lemon rind. Add the egg and milk and combine with the dry ingredients to form a crumbly dough. Form into 10 or 12 rough heaps on a greased baking tray. Bake for approximately 20 minutes until lightly browned. Cool on a baking tray for 5 minutes before transferring to a wire rack. these cakes are best eaten on the same day as made; they freeze well.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Old Harry Rock Cakes",
+  "usedSnapshot": "20220705103905"
+}

@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922100726",
+  "finalPath": "golden-toffee.html",
+  "heading": "Golden Toffee",
+  "ingredients": [
+    "brown sugar",
+    "butter",
+    "golden syrup",
+    "sugar",
+    "toffee",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "golden-toffee.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Golden%20Toffee\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Golden Toffee\u003Cbr\u003E\n\u003Cbr\u003E\n1lb brown sugar\u003Cbr\u003E\n1 \u00BD oz butter\u003Cbr\u003E\n2 level tablespoons \u003Ca href=\u0022golden-syrup.html\u0022\u003E\u003Cb\u003Egolden syrup\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n1/3 pint water\u003Cbr\u003E\n1 teaspoon vinegar\u003Cbr\u003E\n\u003Cbr\u003E\nPut all the ingredients into a strong saucepan and stir over a steady heat until the sugar has dissolved.\u003Cbr\u003E\nBring to the boil and cook until the mixture reaches the hard crack stage.\u003Cbr\u003E\nTemperature should be 280F for this stage, when the sugar mixture breaks quite easily between your fingers.\u003Cbr\u003E\nPour the mixture into an oiled tin and either allow to set as a slab or mark in squares as the toffee becomes partially set, then cut or break when completely set.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Golden Toffee",
+  "usedSnapshot": "20180924035424"
+}

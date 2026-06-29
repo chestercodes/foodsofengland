@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922132655",
+  "finalPath": "suffolk-spinach-soup.html",
+  "heading": "Suffolk Spinach Soup",
+  "ingredients": [
+    "butter",
+    "carrots",
+    "celery",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "spinach",
+    "suet",
+    "thyme",
+    "turnip",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-spinach-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SPINACH SOUP. Shred two handfuls of spinach, a turnip, two onions, a head of celery, two carrots, and a little parsley and thyme. Put all into a stewpot, with a bit of butter the size of a walnut, and a pint of good broth, or the liquor in which meat has been boiled. Stew till the vegetables are quite tender, and work them with a spoon through a coarse cloth or sieve. To the vegetable pulp and liquor, add a quart of fresh water, salt and pepper, and boil all together. Have ready some suet dumplins the size of a walnut, and put them into a tureen, before the soup is poured over. The suet must be quite fresh, and not shred too fine.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Suffolk Spinach Soup",
+  "usedSnapshot": "20210518201929"
+}

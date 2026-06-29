@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140616084731",
+  "finalPath": "sand-lance-or-sand-eel.html",
+  "heading": "Sand-Lance or Sand-Eel",
+  "ingredients": [
+    "eels",
+    "flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sand-lance-or-sand-eel.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESAND-LAUNCE, OR, SAND-EEL.\u003C/b\u003E\u003Cbr\u003E\nThe sand-launce, which is abundant on many parts of our coast, and the name of which is derived from its habit of burrowing in the sands when the tide retires, may be distinguished from the true sand-eel, by its lighter colour and more transparent appearance, as well as by its inferior size. The common mode of dressing the fish, which is considered by many a great delicacy, is to divest them of their heads, and to remove the insides with the gills, to dry them well in a cloth with flour, and to fry them until crisp. They are sometimes also dipped in batter like smelts. We have not ourselves had an opportunity of testing them, but we have received the particulars which we have given here from various friends who have resided where they were plentiful. The sand-eels are not so good as the smaller kind of these fish called launces.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Sand-Lance or Sand-Eel",
+  "usedSnapshot": "20211018082841"
+}

@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922084623",
+  "finalPath": "rose-hip-jelly.html",
+  "heading": "Rose Hip Jelly",
+  "ingredients": [
+    "jelly",
+    "lemon",
+    "lemon juice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rose-hip-jelly.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 01 September 1939",
+      "receiptText": "\u003Cb\u003EWild Rose Hip Jelly.\u003C/b\u003E Wild rose hips, gathered when fully ripe. To every pint of juice obtained, allow 1 pound of preserving sugar and 1 teaspoonful of lemon juice. Gather the hips when plump and ripe Wash them, let them drain, and top and tail each one. Now split open with sharp knife remove the seeds and woolly portion, and put the bins in preserving pan with just enough cold water to cover. Bring slowly to the boil and let them cook until tender and a soft pulp. Strain through a jelly-bag or a piece of muslin. Squeeze, so that all the goodness goes through them, measure this, also measure out the sugar and lemon juice. Put the juice in the preserving pan, bring to boiling point, and add the sugar, stirring well until dissolved. Add the lemon juice, then boil until a little will set when tested on a cold plate. (Miss S. P. Coppinger.)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rose Hip Jelly",
+      "relatedPageUrl": "rose-hip-jelly.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rose Hip Syrup",
+      "relatedPageUrl": "rose-hip-syrup.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rosehip Tarte",
+      "relatedPageUrl": "rosehip-tarte.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Rose Hip Jelly",
+  "usedSnapshot": "20210510055506"
+}

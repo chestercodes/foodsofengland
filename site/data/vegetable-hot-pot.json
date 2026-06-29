@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20131217113023",
+  "finalPath": "vegetable-hot-pot.html",
+  "heading": "Vegetable Hot Pot",
+  "ingredients": [
+    "butter",
+    "carrot",
+    "cauliflower",
+    "leeks",
+    "onion",
+    "pepper",
+    "potatoes",
+    "salt",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "vegetable-hot-pot.html-1",
+      "receiptSource": "Original Receipt in the Taunton Courier, and Western Advertiser - Wednesday 17 June 1931",
+      "receiptText": "\u003Cb\u003EVEGETABLE HOT POT\u003C/b\u003E 2 potatoes of medim size, 2 leeks 1 artichoke sliced onion, a quarter of a cauliflower. 1 carrot, 2 turnips, 3 tablespoonsful partially cooked haricot beans, 1 ounce butter, salt and pepper. Slice the potatoes, and cut the other vegetables into pieces equal size. Melt the butter in casserole, add the vegetables, keeping back half the potatoes, and stir until all the butter is absorbed. Cover with stock add seasoning put the sliced potatoes over the top, and sprinkle with salt. Put on the lid and simmer for 2 hours, or until the vegetables are cooked. Remove the lid and brown the potatoes. The above recipes were sent Miss M Bright, to whom half-a-crown has been awarded.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Vegetable Hot Pot",
+  "usedSnapshot": "20220517183751"
+}

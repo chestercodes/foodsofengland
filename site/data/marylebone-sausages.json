@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140125041503",
+  "finalPath": "marylebone-sausages.html",
+  "heading": "Marylebone Sausages",
+  "ingredients": [
+    "fat",
+    "ginger",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marylebone-sausages.html-1",
+      "receiptSource": "Receipt from from \u003Ca href=\u0022https://www.meatsandsausages.com\u0022\u003E\u003Cb\u003Emeatsandsausages.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMarylebone Sausage\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMarylebone sausage, a product of London\u2019s butchers, is usually flavored with mace, ginger and sage.\u003Cbr\u003E\nCalories: 240\u003Cbr\u003E\nServings: 10\u003Cbr\u003E\nPrep time: 30 minutes\u003Cbr\u003E\nCook time: 30 minutes\u003Cbr\u003E\n\u003Cbr\u003E\nNutritional information\u003Cbr\u003E\nMaterials Metric US\u003Cbr\u003E\nLean pork 500 g 1.10 lb\u003Cbr\u003E\nBack fat 200 g 0.44 lb\u003Cbr\u003E\nRusk, dry 120 g 0.26 lb\u003Cbr\u003E\nWater 180 g 0.40 lb\u003Cbr\u003E\nIngredients per 1000g (1 kg) of materials\u003Cbr\u003E\nSalt 15 g 2-1/2 tsp\u003Cbr\u003E\nWhite pepper 2.0 g 1 tsp\u003Cbr\u003E\nSage, ground 2.0 g 1 tsp\u003Cbr\u003E\nMace 2.0 g 1 tsp\u003Cbr\u003E\nGinger 1.0 g 1/2 tsp\u003Cbr\u003E\nInstructions\u003Cbr\u003E\n\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Soak rusk in water.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Grind lean pork through 3/8\u201D (10 mm) plate.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Cut back fat into 1/2\u201D (12 mm) or grind fat trimmings with 3/8\u201D (10 mm) plate.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Mix meat, spices, rusk and fat together OR\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Using a food processor emulsify meat, rusk, spices and fat together.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Stuff into 32-36 mm hog casings forming 3-4\u201D (7-10 cm) long links.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Refrigerate.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Cook before serving.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Marylebone Sausages",
+  "usedSnapshot": "20210518204919"
+}

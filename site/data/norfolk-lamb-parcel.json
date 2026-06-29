@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130323203625",
+  "finalPath": "norfolk-lamb-parcel.html",
+  "heading": "Norfolk Lamb Parcel",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Norfolk Lamb Parcel",
+  "usedSnapshot": "20211201033837"
+}

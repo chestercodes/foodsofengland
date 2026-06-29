@@ -1,0 +1,112 @@
+﻿{
+  "earliestSnapshot": "20150922081714",
+  "finalPath": "watercress.html",
+  "heading": "Watercress",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Coronation Chicken",
+      "relatedPageUrl": "coronation-chicken.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Green Butter",
+      "relatedPageUrl": "green-butter.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Green Goose",
+      "relatedPageUrl": "green-goose.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lincoln Salad",
+      "relatedPageUrl": "lincoln-salad.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Poached Eggs with Watercress Sauce",
+      "relatedPageUrl": "poached-eggs-with-watercress-sauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Potato and Watercress Soup",
+      "relatedPageUrl": "potato-and-watercress-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sandwich",
+      "relatedPageUrl": "sandwich.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Shropshire Blue and Watercress Flan",
+      "relatedPageUrl": "shropshire-blue-and-watercress-flan.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spring Green Soup",
+      "relatedPageUrl": "spring-green-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Wandle Stuffed Trout",
+      "relatedPageUrl": "wandle-stuffed-trout.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Watercress",
+      "relatedPageUrl": "watercress.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Watercress Flan",
+      "relatedPageUrl": "watercress-flan.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Watercress Sandwiches",
+      "relatedPageUrl": "watercress-sandwiches.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Watercress Sauce",
+      "relatedPageUrl": "watercress-sauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Watercress Soup",
+      "relatedPageUrl": "watercress-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Green Goose",
+      "relatedPageUrl": "green-goose.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Newmarket Sausages",
+      "relatedPageUrl": "newmarket-sausages.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Watercress",
+  "usedSnapshot": "20220517163135"
+}

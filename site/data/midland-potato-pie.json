@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922081630",
+  "finalPath": "midland-potato-pie.html",
+  "heading": "Midland Potato Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Midland Potato Pie",
+  "usedSnapshot": "20211019172207"
+}

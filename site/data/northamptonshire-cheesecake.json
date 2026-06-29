@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140212191929",
+  "finalPath": "northamptonshire-cheesecake.html",
+  "heading": "Northamptonshire Cheesecake",
+  "ingredients": [
+    "almond",
+    "almond extract",
+    "beat",
+    "butter",
+    "caster sugar",
+    "cheese",
+    "cheesecakes",
+    "cream",
+    "currants",
+    "eggs",
+    "lemon",
+    "nutmeg",
+    "pastry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "northamptonshire-cheesecake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Northamptonshire%20Cheesecake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENorthamptonshire Cheesecakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u00BD lb ounces shortcrust pastry\u003Cbr\u003E\n6 oz curds or cream cheese\u003Cbr\u003E\n2 oz butter\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\n3 oz caster sugar\u003Cbr\u003E\n4 oz currants\u003Cbr\u003E\n1 finely grated lemon, rind of\u003Cbr\u003E\n1/4 teaspoon almond extract\u003Cbr\u003E\n\u00BD teaspoon ground nutmeg, for dusting\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out the pastry use to line 14 to 16 lightly greased patty tins. Set oven to 350\u00BAF or mark 4.\u003Cbr\u003E\nBeat the curd or cheese until smooth.\u003Cbr\u003E\nPut the butter, eggs and sugar in a saucepan and heat gently, stirring, until thickened, but do not allow to boil!\u003Cbr\u003E\nRemove from the heat and stir in the curd or cheese, then add the currants, lemon rind and almond essence.\u003Cbr\u003E\nCombine well and fill the tins.\u003Cbr\u003E\nSprinkle a little nutmeg over each and bake for 20 to 25 minutes until well risen and golden.\u003Cbr\u003E\nServe hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", Towcester Cheesecake",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Northamptonshire Cheesecake",
+  "usedSnapshot": "20210510041112"
+}

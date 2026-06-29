@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922092123",
+  "finalPath": "potato-ribbons.html",
+  "heading": "Potato Ribbons",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-ribbons.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFRIED POTATOES.\u003C/b\u003E\u003Cbr\u003E\nAfter having washed them, wipe and pare some raw potatoes, cut them in slices of equal thickness, or into thin shavings, and throw them into plenty of boiling butter, or very pure clarified dripping. Fry them of a fine light brown, and very crisp; lift them out with a skimmer, drain them on a soft warm cloth, dish them very hot, and sprinkle fine salt over them. This is an admirable way of dressing potatoes, very common on the Continent, but less so in England than it deserves to be. When pared round and round to a corkscrew form, in ribbons or shavings of equal width, and served dry and well fried lightly piled in a dish, they make a handsome appearance and are excellent eating. We have known them served in this country with a slight sprinkling of cayenne. If sliced they should be something less than a quarter-inch thick.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Chips\u003C/b\u003E",
+      "relatedPageUrl": "potato-chips.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EHannah Glasse\u0027s Potato\u003C/b\u003E",
+      "relatedPageUrl": "hannah-glasse-s-potato.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Potato Ribbons",
+  "usedSnapshot": "20220420091639"
+}

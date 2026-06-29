@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20140616080837",
+  "finalPath": "izaak-walton-s-eel.html",
+  "heading": "Izaak Walton\u0027s Eel",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "herbs",
+    "nutmeg",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "izaak-walton-s-eel.html-1",
+      "receiptSource": "Original Receipt in Izaak Walton\u0027s \u003Ci\u003E\u0027The Compleat Angler\u0027\u003C/i\u003E of 1653;",
+      "receiptText": "\u0022Wash him in water and salt; then pull off his skin below his vent or navel, and not much further: having done that, take out his guts as clean as you can, but wash him not: then give him three or four scotches with a knife; and then put into his belly, sweet herbs, an anchovy, and a little nutmeg grated or cut very small, mixt with good butter and salt: having done this, then pull his skin over him, all but his head, which you are to cut off, to the end you may tie his skin about that part where his head grew, and it must be so tied as to keep all his moisture within his skin: and having done this, tie him with tape or packthread to a spit, and roast him leisurely; and baste him with water and salt till his skin breaks, and then with butter; and having roasted him enough, let what was put into his belly, and what he drips, be his sauce.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Izaak Walton\u0027s Eel",
+      "relatedPageUrl": "izaak-walton-s-eel.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Minnow Tansy",
+      "relatedPageUrl": "minnow-tansy.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Venator\u0027s Draught",
+      "relatedPageUrl": "venator-s-draught.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EEELS...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/eels.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "EELS"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Izaak Walton\u0027s Eel",
+  "usedSnapshot": "20211207114804"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140514173650",
+  "finalPath": "hampshire-syllabub.html",
+  "heading": "Hampshire Syllabub",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Syllabub",
+      "relatedPageUrl": "everlasting-syllabub.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hampshire Syllabub",
+  "usedSnapshot": "20220112215006"
+}

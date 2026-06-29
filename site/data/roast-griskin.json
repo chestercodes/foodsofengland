@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130324051351",
+  "finalPath": "roast-griskin.html",
+  "heading": "Roast Griskin",
+  "ingredients": [
+    "bread",
+    "butter",
+    "pork",
+    "apple",
+    "flour",
+    "gravy"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "roast-griskin.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ROAST GRISKIN. Put a piece of pork griskin into a stewpan, with very little more water than will just cover it. Let it boil gradually, and when it has fairly boiled up, take it out. Rub it over with a piece of butter, strew it with a little chopped sage and a few bread crumbs, and roast it in a Dutch oven. It will require doing but a little while.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "roast-griskin.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EROAST GRISKIN OF PORK.\u003C/b\u003E\u003Cbr\u003E\n827. INGREDIENTS. -- Pork; a little powdered sage.\u003Cbr\u003E\nMode. -- As this joint frequently comes to table hard and dry, particular care should be taken that it is well basted. Put it down to a bright fire, and flour it. About 10 minutes before taking it up, sprinkle over some powdered sage; make a little gravy in the dripping-pan, strain it over the meat, and serve with a tureen of apple sauce. This joint will be done in far less time than when the skin is left on, consequently, should have the greatest attention that it be not dried up.\u003Cbr\u003E\nTime. -- Griskin of pork weighing 6 lbs., 1-1/2 hour.\u003Cbr\u003E\nAverage cost, 7d. per lb. Sufficient for 5 or 6 persons.\u003Cbr\u003E\nSeasonable from September to March.\u003Cbr\u003E\nNote. -- A spare-rib of pork is roasted in the same manner as above, and would take 1-1/2 hour for one weighing about 6 lbs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Roast Griskin",
+  "usedSnapshot": "20211205164727"
+}

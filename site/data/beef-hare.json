@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130324050951",
+  "finalPath": "beef-hare.html",
+  "heading": "Beef Hare",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Beef Hare",
+  "usedSnapshot": "20211027040050"
+}

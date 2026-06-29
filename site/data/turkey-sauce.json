@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073342",
+  "finalPath": "turkey-sauce.html",
+  "heading": "Turkey Sauce",
+  "ingredients": [
+    "anchovies",
+    "butter",
+    "chickens",
+    "cream",
+    "flour",
+    "gravy",
+    "lemon",
+    "liver",
+    "mushrooms",
+    "oysters",
+    "salt",
+    "turkey",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "turkey-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHow to make Sauce for the Turkey.\u003C/b\u003E Take a little small white gravy, a pint of oysters, two or three spoonfuls of cream, a little juice of lemon, and salt to your taste, thicken it up with flour and butter, then pour it over your turkey, and serve it up; lay round your turkey fry\u0027d oysters, and the forc\u0027d-meat. Garnish your dish with oysters, mushrooms, and slices of lemon.\u003Cbr\u003E\n\u003Cb\u003E63. How to make another Sauce for a Turkey.\u003C/b\u003E\u003Cbr\u003E\nTake a little strong white gravy, with some of the whitest sellery you can get, cut it about an inch long, boil it whilst it be tender, and put it into the gravy, with two anchovies, a little lemon-peel shred, two or three spoonfuls of cream, a little shred mace, and a spoonful of white wine; thicken it up with flour and butter; if you dislike the sellery you may put in the liver as you did for chickens.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Turkey Sauce",
+  "usedSnapshot": "20170314082940"
+}

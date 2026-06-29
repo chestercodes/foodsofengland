@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922081159",
+  "finalPath": "half-pound-cake.html",
+  "heading": "Half Pound Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pound Cake",
+      "relatedPageUrl": "pound-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Half Pound Cake",
+  "usedSnapshot": "20211201034404"
+}

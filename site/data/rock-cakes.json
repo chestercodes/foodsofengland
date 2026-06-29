@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150513065938",
+  "finalPath": "rock-cakes.html",
+  "heading": "Rock Cakes",
+  "ingredients": [
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "sugar",
+    "tartar",
+    "almonds",
+    "beat",
+    "blanched almonds",
+    "cinnamon",
+    "lemon",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rock-cakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 44.- Rock Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 lbs, Vienna flour. \u00BD lb. sugar.\u003Cbr\u003E\n\u00BD lb. butter, \u00BD lb. currants.\u003Cbr\u003E\n1 oz. cream of tartar, \u00BD oz. carbonate of soda.\u003Cbr\u003E\n4 eggs, Milk.\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022rockcakes.jpg\u0022\u003E\u003Cimg src=\u0022500-rockcakes.jpg\u0022 width=\u0022302\u0022 height=\u0022399\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\nMode. - Sieve the soda, cream, and flour well together upon the board and make a bay, laying the currants round the outside; cream up the butter and sugar in a bowl, adding the eggs in the usual manner; when you have beaten it upright, turn out into the bay, add milk, and make into dough, not too tight or too slack; lay out in twenty-five or twenty-eight rough buns upon a greased flat tin with forks, as shown in the illustration (Fig. 25); dredge sugar over, and bake in a very warm oven. Sell at 1d., or make half the size for 1/2d. ones.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rock-cakes.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Allinson Vegetarian Cookery Book\u003C/i\u003E\u0027, by Thomas R. Allinson, 1915",
+      "receiptText": "\u003Cb\u003EWHOLEMEAL ROCK CAKES.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb. of meal, 3 oz. of butter or vege-butter, \u00BC lb. of sugar, a cupful of currants and sultanas mixed, 3 oz. of blanched almonds, chopped fine, 1 teaspoonful of cinnamon, or the grated rind of half a lemon, 3 eggs, and very little milk (about \u00BE of a teacup). Rub the butter into the meal, add the fruit, almonds, sugar, and cinnamon, beat up the eggs with the milk, and mix the whole to a stiff paste. Flour 1 or 2 flat tins, place little lumps of the paste on them, and bake the cakes in a quick oven 25 to 35 minutes. Particular care must be taken that the paste should not be too moist, as in that case the cakes would run. Vege-butter is a vegetable butter, made from the oil which is extracted from cocoanuts and clarified. It can be obtained from some of the larger stores, also from several dep\u00F4ts of food specialities. It is much cheaper than butter, and being very rich, goes further.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Rock Cakes",
+  "usedSnapshot": "20211019192118"
+}

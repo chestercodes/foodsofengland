@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20130406134752",
+  "finalPath": "boodle-s-fool.html",
+  "heading": "Boodle\u0027s Fool",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBoodle\u0027s Cake\u003C/b\u003E",
+      "relatedPageUrl": "boodle-s-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Boodle\u0027s Fool",
+  "usedSnapshot": "20220808005655"
+}

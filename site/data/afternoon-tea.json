@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808235121",
+  "finalPath": "afternoon-tea.html",
+  "heading": "Afternoon Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Afternoon Tea",
+  "usedSnapshot": "20220605154504"
+}

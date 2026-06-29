@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922132907",
+  "finalPath": "shropshire-faggots.html",
+  "heading": "Shropshire Faggots",
+  "ingredients": [
+    "black pepper",
+    "breadcrumbs",
+    "butter",
+    "liver",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shropshire-faggots.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Shropshire%20Faggots\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2 onions\u003Cbr\u003E\n1 lb pig liver\u003Cbr\u003E\n3 oz breadcrumbs\u003Cbr\u003E\n1/2 pint stock\u003Cbr\u003E\n1/2 teaspoon chopped sage\u003Cbr\u003E\n1 teaspoon chopped parsley\u003Cbr\u003E\nsalt and black pepper\u003Cbr\u003E\n1 oz melted butter\u003Cbr\u003E\n\u003Cbr\u003E\nBoil the onions until soft an coarsely mince them with the liver. Add the other ingredients and enough stock to form a dough. Roll into balls and pack in a greased tray. Pour over remaining stock and bake for 30 to 40 minutes at 425F of Mark 7.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Faggots",
+      "relatedPageUrl": "faggots.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Shropshire Faggots",
+  "usedSnapshot": "20210518200440"
+}

@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130323200117",
+  "finalPath": "suffolk-stew.html",
+  "heading": "Suffolk Stew",
+  "ingredients": [
+    "barley",
+    "black pepper",
+    "bread",
+    "carrots",
+    "cheese",
+    "dumplings",
+    "fat",
+    "herbs",
+    "lamb",
+    "lentils",
+    "onions",
+    "parsley",
+    "pepper",
+    "potatoes",
+    "ribs",
+    "salt",
+    "thyme",
+    "turnip"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-stew.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Suffolk%20Stew\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESuffolk Stew\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nStone-ground bread and hard Suffolk cheese was once the daily diet of the field and farm workers. However, at the weekend, there was always a hearty country spread. This rustic stew is the sort of food to have on a cold February day, when the harsh winter winds drive across the open fenlands and marshes.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n50 Gram Brown lentils (2 oz)\u003Cbr\u003E\n25 Gram Haricot beans (1 oz)\u003Cbr\u003E\n2 Large Potatoes, peeling \u0026 roughly chopped\u003Cbr\u003E\n1 Large Turnip, peeled \u0026 roughly chopped\u003Cbr\u003E\n4 Carrots, chopped\u003Cbr\u003E\n2 Onions, chopped\u003Cbr\u003E\n900 Gram Best end of neck or breast of lamb (2 lb)\u003Cbr\u003E\n2 Bay leaves\u003Cbr\u003E\n1 Sprig Fresh parsley\u003Cbr\u003E\n1 Sprig Fresh thyme\u003Cbr\u003E\nSalt \u0026 freshly ground black pepper\u003Cbr\u003E\n25 Gram Pearl barley (1 oz)\u003Cbr\u003E\n1.8 Litres Water (3 pints)\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\nSoak the lentils and beans in cold water overnight.\u003Cbr\u003E\nThe next day, put all the prepared vegetables in a large saucepan.\u003Cbr\u003E\nTrim the excess fat from the lamb and cut into pieces (either chops or ribs).\u003Cbr\u003E\nAdd the lamb and herbs to the pot and season well.\u003Cbr\u003E\nDrain the lentils and beans and add together with the pearl barley.\u003Cbr\u003E\nPour on the water, gently bring to the boil, cover and simmer for 3 hours.\u003Cbr\u003E\nServe with dumplings.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Suffolk Stew",
+  "usedSnapshot": "20211020225606"
+}

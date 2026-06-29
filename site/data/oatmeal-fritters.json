@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072345",
+  "finalPath": "oatmeal-fritters.html",
+  "heading": "Oatmeal Fritters",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "oatmeal",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oatmeal-fritters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E168. To make OATMEAL FRITTERS.\u003C/b\u003E\u003Cbr\u003E\nBoil a quart of new milk, steep a pint of fine flour or oatmeal in it ten or twelve hours, then beat four eggs in a little milk, so much as will make like thick blatter, drop them in by spoonfuls into fresh butter, a spoonful of butter in a cake, and grate sugar over them; have sack, butter and sugar for sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Oatmeal Fritters",
+  "usedSnapshot": "20220527061602"
+}

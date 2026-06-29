@@ -1,0 +1,90 @@
+﻿{
+  "earliestSnapshot": "20150922100750",
+  "finalPath": "pigeon-pie.html",
+  "heading": "Pigeon Pie",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "eggs",
+    "fat",
+    "gravy",
+    "hard boiled eggs",
+    "mushroom",
+    "nutmeg",
+    "partridges",
+    "pigeon",
+    "pigeons",
+    "rump steak",
+    "salt",
+    "steak",
+    "veal",
+    "bacon",
+    "beef",
+    "collops",
+    "flour",
+    "ham",
+    "pepper"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pigeon-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPIGEON PIE\u003C/b\u003E\u003Cbr\u003E\nBorder a large dish with fine puff paste and cover the bottom with a veal cutlet or tender rump steak free from fat and bone, and seasoned with salt, cayenne, and nutmeg, or pounded mace, prepare with great nicety as many freshly killed young pigeons as the dish will contain in one layer, put into each a slice or ball of butter, seasoned with a little cayenne and mace, lay them into the dish with the breasts downwards, and between and over them put the yolks of half a dozen or more of hard boiled eggs, stick plenty of butter on them, season the whole well with salt, and spice, pour in some cold water or veal broth for the gravy, roll out the cover three quarters of an inch thick, secure it well round the edge, ornament it highly and bake it for an hour or more in a well heated oven. It is a great improvement to fill the birds with small mushroom buttons prepared as for partridges, their livers also may be put into them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pigeon-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESavoury Pastries\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1900\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 100.\u2014 Pigeon Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022pigeonpie.jpg\u0022\u003E\u003Cimg src=\u0022pigeonpie.jpg\u0022 width=\u0022322\u0022 height=\u0022146\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\nThese pies are made somewhat different for shop sale, than those usually supplied from the well-appointed kitchens of the wealthy. As a rule, orders for pigeon pies usually come in when pigeons are very high in price, leaving the maker a very small margin of profit, and compelling him to fill the dish with other meat, and make the birds go as far as possible. Select the dish, and have a nice tender beef steak; cut it up into nice collops; season with salt, pepper, and dust a handful of flour over; mix well together; draw the birds; wash out and cut them in halves down the centre of the breast, and then each half into halves again, having a wing on one quarter and a leg on the other; cut off the feet and the tips of the wings; scald -the feet, and lay them on one side; put the cut-up beef into the bottom of the dish, arrange the pigeons on top ; then add a couple of hard-boiled eggs, cut into thin slices, and finish with a few thin rashers of very fine fat bacon or ready-cooked ham ; fill up with water or stock ; then cover with best puff paste No. 1; notch round the edge; decorate with leaves, as previously directed ; place a flower in the centre, made as directed in No. 15, chapter IV., page 47; stick the pigeon\u0027s feet and pinions round the rose, as shown in the engraving (Fig. 74), and bake in a moderate oven to a nice colour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEpsom Pigeon Pie\u003C/b\u003E",
+      "relatedPageUrl": "epsom-pigeon-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPigeon Pudding\u003C/b\u003E",
+      "relatedPageUrl": "pigeon-pudding.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Pigeon Pie",
+  "usedSnapshot": "20220819111536"
+}

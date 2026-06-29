@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212023126",
+  "finalPath": "likky-pie.html",
+  "heading": "Likky Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Leeky Pie",
+      "relatedPageUrl": "leeky-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Likky Pie",
+  "usedSnapshot": "20211019185019"
+}

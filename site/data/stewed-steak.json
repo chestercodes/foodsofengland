@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20130323203715",
+  "finalPath": "stewed-steak.html",
+  "heading": "Stewed Steak",
+  "ingredients": [
+    "beef",
+    "carrot",
+    "carrots",
+    "celery",
+    "fat",
+    "flour",
+    "gravy",
+    "mushroom",
+    "onion",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "steak",
+    "thyme",
+    "turnip",
+    "turnips",
+    "worcester sauce",
+    "cayenne",
+    "ham",
+    "ketchup",
+    "lemon",
+    "mushrooms",
+    "mustard",
+    "shalot",
+    "walnut"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "stewed-steak.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EStewed Steak.\u003C/b\u003E\u003Cbr\u003E\nIngredients--1 lb. of steak.\u003Cbr\u003E\n1 piece of carrot, turnip, onion, and celery.\u003Cbr\u003E\n1 pint of water.\u003Cbr\u003E\n1 oz. of dripping.\u003Cbr\u003E\n1 oz. of flour.\u003Cbr\u003E\nPepper and salt.\u003Cbr\u003E\nMethod.--Cut all the fat from the steak.\u003Cbr\u003E\nMake the dripping hot in a stewpan and fry the steak in it.\u003Cbr\u003E\nThen put in the vegetables, and pour in the water, adding pepper and salt.\u003Cbr\u003E\nSimmer the steak gently from three to four hours, until quite tender.\u003Cbr\u003E\nWhen quite cooked, remove it from the gravy.\u003Cbr\u003E\nPut it on a hot dish.\u003Cbr\u003E\nMake a thickening of the flour; stir it into the gravy; boil for two minutes, and strain over the steak.\u003Cbr\u003E\nA little mushroom catsup, Harvey, or Worcester sauce may be added if liked.\u003Cbr\u003E\nThe fat should previously have been cut into dice, placed on a baking tin, and cooked in the oven.\u003Cbr\u003E\nFor serving, put them in the middle of the steak.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EStewed Brisket of Beef.\u003C/b\u003E\u003Cbr\u003E\nIngredients--5 lb. of beef.\u003Cbr\u003E\n2 carrots.\u003Cbr\u003E\n2 onions.\u003Cbr\u003E\n2 turnips.\u003Cbr\u003E\n1 head of celery.\u003Cbr\u003E\n1 sprig of parsley.\u003Cbr\u003E\nMarjoram and thyme.\u003Cbr\u003E\n2 bay leaves.\u003Cbr\u003E\n6 cloves.\u003Cbr\u003E\n1 dozen peppercorns.\u003Cbr\u003E\n3 quarts of water.\u003Cbr\u003E\nMethod.--Put the meat into a saucepan with the vegetables and other ingredients, and simmer gently for three hours.\u003Cbr\u003E\nServe on a hot dish, with some of the liquor for gravy.\u003Cbr\u003E\nThe remainder can be made into soup.\u003Cbr\u003E\nIf to be eaten cold, remove the bones, and press the beef.\u003Cbr\u003E\nStrain the meat liquor, remove the fat, and boil it down to a glaze.\u003Cbr\u003E\nBrush the meat over with it, giving it as many coats of glaze as necessary.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "stewed-steak.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E7. STEWED RUMP OF BEEF (Eighteenth Century)\u003C/b\u003E\u003Cbr\u003E\nHalf roast your beef, then put it in a large saucepan or cauldron, with two quarts of water, and one of red wine, two or three blades of mace, a shalot, a spoonful of lemon pickle, two of walnut ketchup, the same of browning, cayenne pepper and salt to your taste; let it stew over a gentle fire, close covered for two hours; then take up your beef, and lay it on a deep dish, skim off the fat, and strain the gravy, and put in haM a pint of mushrooms; t\u0027Jcken your gravy, and pour it over your beef, lay round it forcemeat balls: garnish with horse radish, and serve it up.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E11. STEWED STEAK (Sussex)\u003C/b\u003E\u003Cbr\u003E\nFry first with one shalot, then put it into a pan, with a little good gravy, a teaspoonful of made mustard, a very Httle cayenne pepper, and a little salt. Cover closely and let it cook gently for two and a half hours. Then add a httle browning, a little mushroom ketchup - or any other sauce - ladle the gravy over it and turn it once.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Stewed Steak",
+  "usedSnapshot": "20211018064816"
+}

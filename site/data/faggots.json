@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20121024084209",
+  "finalPath": "faggots.html",
+  "heading": "Faggots",
+  "ingredients": [
+    "allspice",
+    "apple",
+    "cabbages",
+    "fat",
+    "liver",
+    "pepper",
+    "salt",
+    "shalots",
+    "sheep",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "faggots.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 By Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 73. BELGIAN FAGGOTS.\u003C/b\u003E\u003Cbr\u003E\nThese may be prepared with sheep\u0027s pluck, or even with bullock\u0027s liver, and other similar parts of meat; but a pig\u0027s pluck is preferable for the purpose. Chop up the heart, liver, lights, and the fat crow; season well with pepper, salt, allspice, thyme, sage, and shalots, and divide this sausage-meat into balls the size of an apple, which must be each secured in shape with a piece of pig\u0027s caul fastened with a wooden twig, or skewer, and placed in rows in a tin baking-dish, to be baked for about half an hour in a brisk oven. When the faggots are done, place them on some well-boiled cabbages, chopped up, in an earthen dish, and having poured the grease from the faggots over all, set them in the oven to stew gently for half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Berkshire Faggots",
+      "relatedPageUrl": "berkshire-faggots.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Shropshire Faggots",
+      "relatedPageUrl": "shropshire-faggots.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Grey Peas (and Bacon)",
+      "relatedPageUrl": "grey-peas-and-bacon.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lamb Faggots",
+      "relatedPageUrl": "lamb-faggots.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Savoury Ducks",
+      "relatedPageUrl": "savoury-ducks.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Faggots",
+  "usedSnapshot": "20220102192313"
+}

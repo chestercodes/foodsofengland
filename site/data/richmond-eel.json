@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140616081134",
+  "finalPath": "richmond-eel.html",
+  "heading": "Richmond Eel",
+  "ingredients": [
+    "butter",
+    "eels",
+    "egg",
+    "eggs",
+    "flour",
+    "lemon",
+    "mushrooms",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "salt",
+    "shallot",
+    "sherry",
+    "basil",
+    "carrot",
+    "cayenne",
+    "celery",
+    "collops",
+    "lemon juice",
+    "shalot",
+    "thyme",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "richmond-eel.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ECheltenham Chronicle\u003C/i\u003E\u0027 - Saturday 15 December 1894",
+      "receiptText": "\u003Cb\u003ERichmond Eel Pie.\u003C/b\u003E- Skin, draw, and cleanse two good sized eels, trim off the fins, and cut them pieces three inches long. Put them into a stewpan with two ounces of butter, some chopped mushrooms, parsley, and very little shallot, nutmeg, pepper, and salt, two glasses of sherry, one of \u003Ca href=\u0022harvey-sauce.html\u0022\u003E\u003Cb\u003EHarvey sauce\u003C/b\u003E\u003C/a\u003E, and barely enough water to cover the surface the Set them on the fire, and as soon as they \u0027come to the boil, remove them and place them in a pie dish. the sauce add two ounces of butter blended with the same quantity of flour, and stir it over the fire to thicken. Add the juice of lemon, and pour the over the eel in the pie dish. Place some hard-boiled eggs on the top, and cover all with a good puff paste, ornament the top, egg it over, and bake for about an hour. Serve either hot or cold.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "richmond-eel.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E338 EEL SOUP A LA RICHMOND\u003C/b\u003E\u003Cbr\u003E\nFillet three Thames eels and cut the fillets into small scollops place these in circular order in a large saucepan containing about four ounces of clarified butter season with cayenne pepper salt lemon juice and chopped parsley set the covered saucepan on the stove fire to simmer gently for about twenty minutes then add two glasses of Sherry, after which let it boil sharply for a few minutes longer. Put the collops of eels thus prepared into the soup tureen with three dozen tails of crayfish, and instantly pour over these a soup sauce previously prepared according to the following directions; Cut into shreds or dice carrot celery \u003Ca href=\u0022parsley-root.html\u0022\u003E\u003Cb\u003Eparsley roots\u003C/b\u003E\u003C/a\u003E one shalot and half a pottle of mushrooms, Put these into a stewpan with a sprig of thyme a small bayleaf a little sweet basil, a few peppercorns, and one blade of mace. Fry these ingredients with four ounces of butter until they begin to be of a light brown colour then throw in the bones and trimmings of the eels, three dozen bruised crayfish, and a pint of Chablis wine. Allow this to boil briskly on the fire for five minutes, then add three pints of blond of veal and after it has boiled gently by the side of the stove fire for three quarters of an hour, strain the stock through a tammy cloth with considerable pressure in order to extract all the goodness from the vegetables \u0026amp;c.\u003Cbr\u003E\nPut the broth thus prepared into a stewpan and having thickened it with some white \u003Ci\u003Eroux\u003C/i\u003E to the consistency of a thin sauce, work it according to the method observed for all sauces. Observe that as this sauce is for soup it should be lighter in substance. Finish with a leason of eight yolks of egg and season accordingly and mix in with it a spoonful of chopped and blanched parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Richmond Eel",
+  "usedSnapshot": "20211018073539"
+}

@@ -1,0 +1,86 @@
+﻿{
+  "earliestSnapshot": "20140306121947",
+  "finalPath": "frumenty-or-furmety.html",
+  "heading": "Frumenty or Furmety",
+  "ingredients": [
+    "almonds",
+    "eggs",
+    "fat",
+    "milk",
+    "mutton",
+    "beat",
+    "cream",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "frumenty-or-furmety.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFOR TO MAKE FURMENTY\u003C/b\u003E\u003Cbr\u003E\nTake clean wheat and crush it in a morter well that the hulls go all by them selves. Take fair fresh broth and milk of almonds or sweet milk of cows and temper it all. and take the yolks of eggs. Boil it a little and set it down and present it forth with fat venison and fresh mutton.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "frumenty-or-furmety.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Furmety.\u003C/b\u003E\u003Cbr\u003E\nTake wheat and wet it, then beat it in a sack with a wash beetle, being finely hulled and cleansed from the dust and hulls, boil it over night, and let it soak on a soft fire all night; then next morning take as much as will serve the turn, put it in a pipkin, pan, or skillet, and put it a boiling in cream or milk, with mace, salt, whole cinamon, and saffron, or yolks of eggs, boil it thick and serve it in a clean scowred dish, scrape on sugar, and trim the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cree\u0027d Wheat",
+      "relatedPageUrl": "cree-d-wheat.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Frumenty - Lincolnshire Version",
+      "relatedPageUrl": "frumenty-lincolnshire-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Frumenty - Suffolk Version",
+      "relatedPageUrl": "frumenty-suffolk-version.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Meat Rice",
+      "relatedPageUrl": "meat-rice.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Porpoise",
+      "relatedPageUrl": "porpoise.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Frumenty or Furmety",
+  "usedSnapshot": "20220706163059"
+}

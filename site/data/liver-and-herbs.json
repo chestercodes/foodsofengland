@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922071757",
+  "finalPath": "liver-and-herbs.html",
+  "heading": "Liver And Herbs",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "eggs",
+    "herbs",
+    "liver",
+    "onions",
+    "parsley",
+    "salt",
+    "spinach"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "liver-and-herbs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ELIVER AND HERBS.\u003C/b\u003E Clean and drain a good quantity of spinach, two large handfuls of parsley, and a handful of green onions. Chop the parsley and onions, and sprinkle them among the spinach. Stew them together with a little salt and butter, shake the pan when it begins to grow warm, and cover it close till done enough over a slow fire. Lay on slices of liver, fried of a nice brown and slices of bacon just warmed at the fire. On the outside part of the herbs lay some eggs nicely fried, and trimmed round. Or the eggs may be served on the herbs, and the liver garnished with the bacon separately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Liver and Bacon",
+      "relatedPageUrl": "liver-and-bacon.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Liver And Herbs",
+  "usedSnapshot": "20200107095702"
+}

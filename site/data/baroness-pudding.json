@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922091804",
+  "finalPath": "baroness-pudding.html",
+  "heading": "Baroness Pudding",
+  "ingredients": [
+    "flour",
+    "milk",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baroness-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBARONESS PUDDING.\u003C/b\u003E\u003Cbr\u003E\n(Author\u0027s Recipe.)\u003Cbr\u003E\n1244. INGREDIENTS: \u00BE lb. of suet, \u00BE lb. of raisins weighed after being stoned, \u00BE lb. of flour,\u00BD pint of milk, \u00BC saltspoonful of salt.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Prepare the suet, by carefully freeing it from skin, and chop it finely; stone the raisins, and cut them in halves, and mix both these ingredients with the salt and flour; moisten the whole with the above proportion of milk, stir the mixture well, and tie the pudding in a floured cloth, which has been previously wrung out in boiling water. Put the pudding into a saucepan of boiling water, and let it boil, without ceasing, 4-\u00BD hours. Serve merely with plain sifted sugar, a little of which may be sprinkled over the pudding.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 4-\u00BD hours. \u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 4d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 7 or 8 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in winter, when fresh fruit is not obtainable.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: This pudding the editress cannot too highly recommend. The recipe was kindly given to her family by a lady who bore the title here prefixed to it; and with all who have partaken of it, it is an especial favourite. Nothing is of greater consequence, in the above directions, than attention to the time of boiling, which should never be less than that mentioned.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Baroness Pudding",
+  "usedSnapshot": "20220808002835"
+}

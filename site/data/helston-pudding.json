@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922133005",
+  "finalPath": "helston-pudding.html",
+  "heading": "Helston Pudding",
+  "ingredients": [
+    "breadcrumbs",
+    "currants",
+    "flour",
+    "milk",
+    "pudding",
+    "raisins",
+    "rice",
+    "salt",
+    "suet",
+    "sugar",
+    "bread",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "helston-pudding.html-1",
+      "receiptSource": "Original Receipt from The Express and Telegraph (Adelaide, South Australia) Sat 16 Apr 1904",
+      "receiptText": "Helston Pudding. - This is a delicious pudding, and can be made the day before it is needed. Take two tablespoonfuls each of raisins, currants, sugar; breadcrumbs, ground rice, and flour; three tablespoonfuls of finely-chopped suet, half .a teaspoonful of mixed spice, one piece of candied-peel, and a pinch of salt; moisten with milk, in which half, a teaspoonful of carbonate of soda has been dissolved. Boil in a buttered mould or basin for two hours.\u003Cbr\u003E\n\u003Cbr\u003E\n[With thanks to Shannon Burton-Rushworth]\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "helston-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E474. HELSTON PUDDING (Yorkshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTwo tablespoonfuls each of flour, sugar, bread crumbs, ground rice, currants, and sultanas, three tablespoonfuls of chopped suet, one tablespoonful cut candied peel, pinch of salt. Mix up with milk in which one teaspoonful of carbonate of soda has been dissolved. Boil or steam in a greased basin for two or three hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Helston Pudding",
+  "usedSnapshot": "20211207114934"
+}

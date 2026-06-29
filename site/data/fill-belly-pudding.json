@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074608",
+  "finalPath": "fill-belly-pudding.html",
+  "heading": "Fill Belly Pudding",
+  "ingredients": [
+    "bread",
+    "brown sugar",
+    "butter",
+    "dried fruit",
+    "eggs",
+    "jam",
+    "margarine",
+    "pastry",
+    "pudding",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fill-belly-pudding.html-1",
+      "receiptSource": "Original Receipt in Marjorie Cashmore\u0027s \u0027\u003Ci\u003EA Feast of Memories: Black Country Food and Life at the Turn of the Nineteenth Century\u003C/i\u003E\u0027, published in 1986 by Westwood Press;",
+      "receiptText": "\u003Cb\u003EBread Pudding or Fill Belly\u003C/b\u003E\u003Cbr\u003E\n2 lbs stale bread\u003Cbr\u003E\n3 eggs\u003Cbr\u003E\n1/2 lbs shredded suet\u003Cbr\u003E\n2 oz butter or margarine\u003Cbr\u003E\n1 lb granulated or brown sugar\u003Cbr\u003E\n1 teaspoons mixed spice\u003Cbr\u003E\n1 lb mixed dried fruit\u003Cbr\u003E\n\u003Cbr\u003E\nSoak the bread in water, then drain and squeeze out the excess moisture. Flake with a fork and add the remaining ingredients. Mix well together and spread the mixture into a greased baking tin. Dot with butter and bake in a moderate oven for about two hours or until nicely browned. (A variation is to make a pastry base, spread it with jam and then cover with the bread pudding mixture. Bake.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fill Belly Pudding",
+  "usedSnapshot": "20200116031954"
+}

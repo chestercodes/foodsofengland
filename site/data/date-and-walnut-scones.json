@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922083506",
+  "finalPath": "date-and-walnut-scones.html",
+  "heading": "Date and Walnut Scones",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Scones",
+      "relatedPageUrl": "scones-2.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    }
+  ],
+  "title": "Date and Walnut Scones",
+  "usedSnapshot": "20211201041947"
+}

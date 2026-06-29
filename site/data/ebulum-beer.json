@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20191107064615",
+  "finalPath": "ebulum-beer.html",
+  "heading": "Ebulum Beer",
+  "ingredients": [
+    "ale",
+    "cinnamon",
+    "elderberries",
+    "ginger",
+    "hogshead",
+    "hops",
+    "juniper berries",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ebulum-beer.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Flowing Bowl\u003C/i\u003E\u0027, by Edward Spencer, 1903",
+      "receiptText": "\u201CLife without Ebulum,\u201D writes a friend, an instructor of youth in the ingenuous arts, in forwarding me the recipe, \u201Cis a void to most people who have not cultivated the \u003Ca href=\u0022eringo.html\u0022\u003E\u003Cb\u003Eeringo root\u003C/b\u003E\u003C/a\u003E in their back gardens.\u201D I have never tasted ebulum, preferring my ale neat and unadorned, but this is how to prepare\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EEbulum.\u003C/b\u003E\u003Cbr\u003E\nTo a hogshead of strong ale take a heap\u2019d bushel of elderberries, and half a pound of juniper berries beaten; put in all the berries when you put in the hops, and let them boil together till the berries break in pieces; then work it up as you do ale. When it has done working, add to it half a pound of ginger, half an ounce of cloves, as much mace, an ounce of nutmegs, and as much cinnamon grosly beaten, half a pound of citron, as much eringo root, and likewise of candied orange-peel. Let the sweetmeats be cut in pieces very thin, and put with the spice into a bag, and hang it in the vessel when you stop it up. So let it stand till \u2019tis fine, then bottle it up, and drink it with lumps of double-refin\u2019d sugar in the glass.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Ebulum Beer",
+  "usedSnapshot": "20210512113352"
+}

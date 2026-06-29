@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922071958",
+  "finalPath": "turnip-and-apple-soup.html",
+  "heading": "Turnip and Apple Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Turnip and Apple Soup",
+  "usedSnapshot": "20210518192820"
+}

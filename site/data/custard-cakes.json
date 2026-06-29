@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808222338",
+  "finalPath": "custard-cakes.html",
+  "heading": "Custard Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Custard Cakes",
+  "usedSnapshot": "20211019192230"
+}

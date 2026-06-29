@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20140616090648",
+  "finalPath": "snail-broth.html",
+  "heading": "Snail Broth",
+  "ingredients": [
+    "chicken",
+    "garden snails",
+    "salt",
+    "snails",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "snail-broth.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Guide, and Housekeepers and Butler\u0027s Assistant\u003C/i\u003E\u0027 (1867) by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1867\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Mucilaginous Broth, - Put a cut-up chicken, a pound of veal cutlet, and a calf\u0027s foot into a stewpan, with 3 pints of water, boil and skim; then add a dozen crayfish and a pint of garden snails, both bruised raw in a mortar; add also a handful of balm, borrage and chervil, 3 ounces of prepared Iceland moss, and a small quantity of salt. The broth must boil very gently by the side of the fire for about two hours without much reduction, and when done is to be strained into a basin for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Snail Broth",
+  "usedSnapshot": "20220527213939"
+}

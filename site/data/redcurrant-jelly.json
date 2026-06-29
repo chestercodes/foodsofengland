@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922071722",
+  "finalPath": "redcurrant-jelly.html",
+  "heading": "Redcurrant Jelly",
+  "ingredients": [
+    "currant",
+    "currants",
+    "jelly",
+    "raspberries",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "redcurrant-jelly.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECurrant Jelly.\u003C/b\u003E- Put in a pan half a sieve of fresh gathered currants, with the stalks; add to it a gill of water; put on the fire, and boil till every currant has opened; then pass the juice through a sieve or cullender, and to every quart put one pound of white sugar; boil fast and skim, and when the preserve Logins to stick to the spoon, and is quite clear, fill your preserve pots, and cover over when cold; but, to be sure, try some on a plate before potting. If it sots well it is done; a few raspberries added is an improvement.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Redcurrant Jelly",
+  "usedSnapshot": "20220517171853"
+}

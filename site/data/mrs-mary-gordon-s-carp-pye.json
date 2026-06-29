@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140616084631",
+  "finalPath": "mrs-mary-gordon-s-carp-pye.html",
+  "heading": "Mrs Mary Gordon\u0027s Carp Pye",
+  "ingredients": [
+    "anchovy",
+    "bacon",
+    "bread",
+    "butter",
+    "eggs",
+    "fat",
+    "flour",
+    "lemon",
+    "mushroom",
+    "nutmeg",
+    "oysters",
+    "pepper",
+    "pudding",
+    "salt",
+    "shrimps",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mrs-mary-gordon-s-carp-pye.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Carp Pye. From Mrs. Mary Gordon.\u003C/b\u003E\u003Cbr\u003E\nPut to a quartern of Flour a pound and a half of Butter, rubbing a third part in; and make it into a Paste with Water: then roll in the rest of the Butter, at two or three times, and lay your Paste in the Dish, putting some bits of Butter, on the bottom Paste, with some Salt and Pepper, at discretion.\u003Cbr\u003E\n\u003Cbr\u003E\nThen scale and gut your Carp, and wash it with Vinegar, and dry it well; and make the following Pudding for the Belly of the Carp: viz. Take the Flesh of an Eel, and mince it very small; add some grated Bread, some dry\u0027d sweet Marjoram powder\u0027d, two butter\u0027d Eggs, a small Anchovy minced, a little Nutmeg grated, and some Salt and Pepper; mix this well, and fill the Belly of the Carp with it; and for the remaining Part, make it into Balls. Then cut off the Tail and Fins of the Carp, and lay it in the Crust, with the Balls about it; some Mushroom Buttons, Oysters with their Fins taken off, and some Shrimps, a few Slices of Lemon, and some thin Slices of fat Bacon, a little Mace and some bits of Butter: then close it, and before you put it into the Oven, pour in half a Pint of Claret. Serve this Pye hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Mrs Mary Gordon\u0027s Carp Pye",
+  "usedSnapshot": "20220819112407"
+}

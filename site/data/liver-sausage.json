@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140125041302",
+  "finalPath": "liver-sausage.html",
+  "heading": "Liver Sausage",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ELiverings\u003C/b\u003E",
+      "relatedPageUrl": "liverings-or-leveredge.html",
+      "relationDescription": "For a historic version see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Liver Sausage",
+  "usedSnapshot": "20210518204657"
+}

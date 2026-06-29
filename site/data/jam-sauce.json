@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922071609",
+  "finalPath": "jam-sauce.html",
+  "heading": "Jam Sauce",
+  "ingredients": [
+    "jam",
+    "lemon",
+    "lemon juice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jam-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EJam Sauce.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients--3 tablespoonfuls of red jam.\u003Cbr\u003E\npint of water.\u003Cbr\u003E\n1 oz. of lump sugar.\u003Cbr\u003E\nJuice of half a lemon.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod.--Boil the jam, sugar, and water together for three minutes.\u003Cbr\u003E\nAdd the lemon juice, and strain.\u003Cbr\u003E\nThe lemon may be omitted if the flavour is not liked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Jam Sauce",
+  "usedSnapshot": "20220527223306"
+}

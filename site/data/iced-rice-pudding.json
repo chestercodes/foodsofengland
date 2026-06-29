@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922082446",
+  "finalPath": "iced-rice-pudding.html",
+  "heading": "Iced Rice Pudding",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "custard",
+    "eggs",
+    "milk",
+    "oranges",
+    "pudding",
+    "rice",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "iced-rice-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EICED RICE PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1354. INGREDIENTS: 6 oz. of rice, 1 quart of milk,\u00BD lb. of sugar, the yolks of 6 eggs, 1 small teaspoonful of essence of vanilla.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the rice into a stewpan, with the milk and sugar, and let these simmer over a gentle fire until the rice is sufficiently soft to break up into a smooth mass, and should the milk dry away too much, a little more may be added. Stir the rice occasionally, to prevent its burning, then beat it to a smooth mixture; add the yolks of the eggs, which should be well whisked, and the vanilla (should this flavouring not be liked, essence of bitter almonds may be substituted for it); put this rice custard into the freezing-pot, and proceed as directed in recipe No. 1290. When wanted for table, turn the pudding out of the mould, and pour over the top, and round it, a compote of oranges, or any other fruit that may be preferred, taking care that the flavouring in the pudding harmonizes well with the fruit that is served with it.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E:\u00BD hour to freeze the mixture.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 6d.; exclusive of the compote, 1s. 4d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: Served all the year round.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rice Pudding",
+      "relatedPageUrl": "rice-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Iced Rice Pudding",
+  "usedSnapshot": "20200116024939"
+}

@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20130808234539",
+  "finalPath": "buckinghamshire-baste.html",
+  "heading": "Buckinghamshire Baste",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Buckinghamshire Baste",
+  "usedSnapshot": "20211207112150"
+}

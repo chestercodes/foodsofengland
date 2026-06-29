@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922082613",
+  "finalPath": "vegetable-soup.html",
+  "heading": "Vegetable Soup",
+  "ingredients": [
+    "anchovy",
+    "bread",
+    "butter",
+    "carrot",
+    "carrots",
+    "celery",
+    "flour",
+    "herbs",
+    "ketchup",
+    "lettuces",
+    "mint",
+    "onions",
+    "parsley",
+    "peas",
+    "pepper",
+    "potatoes",
+    "salt",
+    "tea",
+    "toast",
+    "turnip",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "vegetable-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "VEGETABLE SOUP. Pare and slice five or six cucumbers, add the inside of as many cos-lettuces, a sprig or two of mint, two or three onions, some pepper and salt, a pint and a half of young peas, and a little parsley. Put these into a saucepan with half a pound of fresh butter, to stew in their own liquor half an hour, near a gentle fire. Pour on the vegetables two quarts of boiling water, and stew them two hours. Rub a little flour in a tea-cupful of water, boil it with the rest nearly twenty minutes, and serve it.\u003Cbr\u003E\n\u003Cbr\u003E\nAnother way. Peel and slice six large onions, six potatoes, six carrots, and four turnips; fry them in half a pound of butter, and pour on them four quarts of boiling water. Toast a crust of bread quite brown and hard, but do not burn it; add it to the above, with some celery, sweet herbs, white pepper, and salt. Stew it all together gently four hours, and strain it through a coarse cloth. Put in a sliced carrot, some celery, and a small turnip, and stew them in the soup. An anchovy, and a spoonful of ketchup, may be added if approved.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Vegetable Soup",
+  "usedSnapshot": "20210518204501"
+}

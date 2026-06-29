@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20130323195949",
+  "finalPath": "leach.html",
+  "heading": "Leach",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    }
+  ],
+  "title": "Leach",
+  "usedSnapshot": "20220527224811"
+}

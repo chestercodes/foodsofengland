@@ -1,0 +1,34 @@
+[
+  {
+    "name": "class",
+    "value": "biscuits"
+  },
+  {
+    "name": "class",
+    "value": "pies-and-pastries"
+  },
+  {
+    "name": "heading",
+    "value": "Horsham Gingerbread"
+  },
+  {
+    "name": "list-page-reference",
+    "value": "listbiscuits.htm"
+  },
+  {
+    "name": "list-page-reference",
+    "value": "listpies.htm"
+  },
+  {
+    "name": "number-of-receipts",
+    "value": "0"
+  },
+  {
+    "name": "keyword",
+    "value": "Halloween"
+  },
+  {
+    "name": "subclass",
+    "value": "historic"
+  }
+]

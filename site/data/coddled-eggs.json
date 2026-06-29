@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130323041901",
+  "finalPath": "coddled-eggs.html",
+  "heading": "Coddled Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Coddled Eggs",
+  "usedSnapshot": "20211027045735"
+}

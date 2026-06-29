@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20140212021426",
+  "finalPath": "woolton-pie.html",
+  "heading": "Woolton Pie",
+  "ingredients": [
+    "carrots",
+    "cauliflower",
+    "gravy",
+    "oatmeal",
+    "onions",
+    "parsley",
+    "pastry",
+    "potato",
+    "potatoes",
+    "spring onions"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "woolton-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EThe Times\u003C/i\u003E 26 April 1941;",
+      "receiptText": "\u003Ccenter\u003E\u003Cb\u003ELORD WOOLTON PIE\u003Cbr\u003E\nTHE OFFICIAL RECIPE\u003C/b\u003E\u003C/center\u003E\u003Cbr\u003E\nIn hotels and restaurants no less than in communal canteens, many people have tasted Lord Woolton pie and pronounced it good. Like many another economical dish, it can be described as wholesome fare. It also meets the dieticians requirements in certain vitamins. The ingredients can be varied according to the vegetables in season. Here is the official recipe.\u003Cbr\u003E\n\u003Cbr\u003E\nTake 1lb. each diced of potatoes, cauliflower, swedes and carrots, three or four spring onions - if possible, one teaspoonful of vegetable extract, and one tablespoonful of oatmeal. Cook all together for 10 minutes with just enough water to cover. Stir occasionally to prevent the mixture from sticking. Allow to cool; put into a piedish, sprinkle with chopped parsley, and cover with a crust of potato or wheatmeal pastry. Bake in a moderate oven until the pastry is nicely browned and serve hot with a brown gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Butter Pie",
+      "relatedPageUrl": "butter-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Friday Pie",
+      "relatedPageUrl": "friday-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gardener\u0027s Pie",
+      "relatedPageUrl": "gardener-s-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Vegetable Pie",
+      "relatedPageUrl": "vegetable-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Woolton Pie",
+      "relatedPageUrl": "woolton-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Woolton Pie",
+  "usedSnapshot": "20210510045925"
+}

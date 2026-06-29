@@ -1,0 +1,141 @@
+﻿{
+  "earliestSnapshot": "20150514220432",
+  "finalPath": "rich-fruit-cake.html",
+  "heading": "Rich Fruit Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Boiled Cake",
+      "relatedPageUrl": "boiled-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Bury Simnel Cake",
+      "relatedPageUrl": "bury-simnel-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Christmas Cake",
+      "relatedPageUrl": "christmas-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Dripping Cake",
+      "relatedPageUrl": "dripping-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Druid\u0027s Cake",
+      "relatedPageUrl": "druid-s-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Ilkley Cake",
+      "relatedPageUrl": "ilkley-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Marchpane",
+      "relatedPageUrl": "marchpane.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Marzipan",
+      "relatedPageUrl": "marzipan.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Melton Hunt Cake",
+      "relatedPageUrl": "melton-hunt-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Mrs Duke\u0027s Cake",
+      "relatedPageUrl": "mrs-duke-s-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Overnight Cake",
+      "relatedPageUrl": "overnight-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Ovington Fruit Cake",
+      "relatedPageUrl": "ovington-fruit-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Pepper Cake",
+      "relatedPageUrl": "pepper-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Porter Cake",
+      "relatedPageUrl": "porter-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Rich Plum Cake",
+      "relatedPageUrl": "rich-plum-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Saffron Cake",
+      "relatedPageUrl": "saffron-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Shrewsbury Simnel Cake",
+      "relatedPageUrl": "shrewsbury-simnel-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Stanhope Cake",
+      "relatedPageUrl": "stanhope-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Store Cake",
+      "relatedPageUrl": "store-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EUxbridge Cake\u003C/b\u003E",
+      "relatedPageUrl": "uxbridge-cakes.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Wedding Cake",
+      "relatedPageUrl": "wedding-cake.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    },
+    {
+      "relatedPageText": "Whitby Yule Cakes",
+      "relatedPageUrl": "whitby-yule-cakes.html",
+      "relationDescription": "For types of rich fruit cake, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Rich Fruit Cake",
+  "usedSnapshot": "20220113222204"
+}

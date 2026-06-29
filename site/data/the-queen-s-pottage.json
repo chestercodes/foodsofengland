@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922073200",
+  "finalPath": "the-queen-s-pottage.html",
+  "heading": "The Queen\u0027s Pottage",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "beat",
+    "bread",
+    "herbs",
+    "lemon",
+    "mushrooms",
+    "partridge"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "the-queen-s-pottage.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s and Confectioners Dictionary\u003C/i\u003E by John Nott (\u003Ca href=\u0022references.html#nott-1723\u0022\u003E\u003Cb\u003ENott 1723\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "216 \u003Cb\u003EThe Queen\u0027s Potage\u003C/b\u003E\u003Cbr\u003E\nBeat Almonds and boil them in good Broth a few Crums of Bread the inside of a Lemon and a Bunch of sweet Herbs, stir them often strain them then soak Bread in the best Broth which is to be thus made, bone a Capon or Partridge, pound the Bones in a Mortar then boil them in strong Broth with Mushrooms, then strain them thro a Linen-cloth, with this Broth soak your Bread, as it soaks sprinkle it with the Almond broth. Then put a little minced Meat to it either of Partridge or Capon, and still as it is soaking put in more Almond broth until it be full, then hold a red hot Iron over it, garnish the Dish with Pomegranates Pistaches and Cocks combs\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nott-1723"
+    }
+  ],
+  "title": "The Queen\u0027s Pottage",
+  "usedSnapshot": "20220527060519"
+}

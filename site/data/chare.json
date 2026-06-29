@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922071942",
+  "finalPath": "chare.html",
+  "heading": "Chare",
+  "ingredients": [
+    "eggs",
+    "ginger",
+    "rice",
+    "sugur",
+    "tyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chare.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EChare de Wardone.\u003C/b\u003E Take peer wardons, and seth them in wine or water; and then take them up, and grinde them in a morter, and drawe them through a streynoure with the licour; and put them in a pot with sugur, or elle with clarefiede hony and cane ynowe, and let them boil; and then take it from the fire, and let kele, and caste there-to rawe yolkes of eggs, til it be thik, and caste thereto powder of ginger ynowe; and serve it forth in maner of ryse. And if it be in lenton tyme, leve the yolkes of eggs, and let the remnaunt boil so longe, til it be so thikk as thoug it were y-tempered with yolkes of eggs, in maner as a man setheth charge de quyns; and then serve it forth in maner of rice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Chare",
+  "usedSnapshot": "20211201010421"
+}

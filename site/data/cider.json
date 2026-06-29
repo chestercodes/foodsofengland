@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922074544",
+  "finalPath": "cider.html",
+  "heading": "Cider",
+  "ingredients": [
+    "ale",
+    "apple",
+    "cider",
+    "fat",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cider.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO MAKE CIDER\u003C/b\u003E\u003Cbr\u003E\nTake a Peck of Apples, and slice them, and boil them in a barrel of water, till the third part be wasted; Then cool your water as you do for wort, and when it is cold, you must pour the water upon three measures of grown Apples. Then draw forth the water at a tap three or four times a day, for three days together. Then press out the Liquor, and Tun it up; when it hath done working, then stop it up close.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESIR PAUL NEALE\u0027S WAY OF MAKING CIDER\u003C/b\u003E\u003Cbr\u003E\nThe best Apples make the best Cider, as Pearmains, Pippins, Golden-pippins, and the like. Codlings make the finest Cider of all. They must be ripe, when you make Cider of them: and is in prime in the Summer season, when no other Cider is good. But lasteth not long, not beyond Autumn. The foundation of making perfect Cyder consisteth in not having it work much, scarce ever at all; but at least, no second time; which Ordinary Cider doth often, upon change of weather, and upon motion: and upon every working it grows harder. Do then thus:\u003Cbr\u003E\nChoose good Apples. Red streaks are the best for Cider to keep; Ginet-moils the next, then Pippins. Let them lie about three weeks, after they are gathered; Then stamp and strain them in the Ordinary way, into a woodden fat that hath a spigot three or four fingers breadth above the bottom. Cover the fat with some hair or sackcloth, to secure it from any thing to fall in, and to keep in some of the Spirits, so to preserve it from dying; but not so much as to make it ferment. When the juyce hath been there twelve hours, draw it by the spigot (the fat inclining that way, as if it were a little tilted) into a barrel; which must not be full by about two fingers. Leave the bung open for the Air to come in, upon a superficies, all along the barrel, to hinder it from fermenting; but not so large a superficies as to endanger dying, by the airs depredating too many spirits from it.\u003Cbr\u003E\nThe drift in both these settlings is, that the grosser parts consisting of the substance of the Apple, may settle to the bottom, and be severed from the Liquor; for it is that, which maketh it work again (upon motion or change of weather) and spoils it. After twenty four hours draw of it, to see if it be clear, by the settling of all dregs, above which your spigot must be. If it be not clear enough, draw it from the thick dregs into another vessel, and let it settle there twenty four hours. This vessel must be less then the first, because you draw not all out of the first. If then it should not be clear enough, draw it into a third, yet lesser than the second; but usually it is at the first. When it is clear enough draw it into bottles, filling them within two fingers, which stop close. After two or three days visit them; that if there be a danger of their working (which would break the bottles) you may take out the stopples, and let them stand open for half a quarter of an hour. Then stop them close, and they are secure for ever after. In cold freesing weather, set them upon Hay, and cover them over with Hay or Straw. In open weather in Winter transpose them to another part of the Cellar to stand upon the bare ground or pavement. In hot weather set them in sand. The Cider of the Apples of the last season, as Pippins, not Peermains, nor codlings, will last till the Summer grow hot. Though this never work, \u0027tis not of the Nature of Strummed Wine; because the naughty dregs are not left in it.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EDOCTOR HARVEY\u0027S PLEASANT WATER-CIDER, WHEREOF HE USED TO DRINK MUCH, MAKING IT HIS ORDINARY DRINK\u003C/b\u003E\u003Cbr\u003E\nTake one Bushel of Pippins, cut them into slices with the Parings and Cores; boil them in twelve Gallons of water, till the goodness of them be in the water; and that consumed about three Gallons. Then put it into an Hypocras-bag, made of Cotton; and when it is clear run out, and almost cold, sweeten it with five pound of Brown-sugar, and put a pint of Ale-yest to it, and set it a working two nights and days: Then skim off the yest clean, and put it into bottles, and let it stand two or three days, till the yest fall dead at the top: Then take it off clean with a knife, and fill it up a little within the neck (that is to say, that a little about a fingers breadth of the neck be empty, between the superficies of the Liquor, and the bottom of the stopple) and then stop them up and tye them, or else it will drive out the Corks. Within a fortnight you may drink of it. It will keep five or six weeks.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWassail\u003C/b\u003E",
+      "relatedPageUrl": "wassail-bowl.html",
+      "relationDescription": "For the tradition of seasonal cider revelry see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECyser\u003C/b\u003E",
+      "relatedPageUrl": "cyser.html",
+      "relationDescription": "For the tradition of seasonal cider revelry see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Cider",
+  "usedSnapshot": "20220527063421"
+}

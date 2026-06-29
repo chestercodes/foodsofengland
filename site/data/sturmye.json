@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20130323200102",
+  "finalPath": "sturmye.html",
+  "heading": "Sturmye",
+  "ingredients": [
+    "almonds",
+    "cinnamon",
+    "eggs",
+    "flour",
+    "ginger",
+    "milk",
+    "rice",
+    "salt",
+    "sugar",
+    "vynegre"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sturmye.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESturmye:\u003C/b\u003E Take good milk of almonds y-drawe with wine; take porke an hew it Smalle; do it on a Morter, and grind it ryth smalle; then caste it in the same milk, \u0026 caste it on a pot; take Sawnderys \u0026 flour of rice; melle them with the milk, draw them thorw a strainer, \u0026 caste it in a clean pot, loke that it be chargeaunt y-now; take sugar, an put ther-on, \u0026 Hony; do it over the fire, \u0026 let it seethe a gret whyle; sture yt well; take eggs hard y-sothe, take the whyte, \u0026 hew them as smalle as thow myth, caste them on the pot; take Safroune \u0026 caste thereto, with powder ginger, cinnamon, Galyngale, Clowys, \u0026 loke that thou haue powder y-now; caste it in the pot, temper it with Vynegre; take Salt \u0026 do thereto, menge them wylle to-gederys, Make a Siryppe; the .ij. dele schalle ben wine, \u0026 the .ij. dele sugar or hony; boil it \u0026 stere it, \u0026 Skeme it clean; ther-on wete thin dyssches, \u0026 serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Meat Rice",
+      "relatedPageUrl": "meat-rice.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Sturmye",
+  "usedSnapshot": "20191228163219"
+}

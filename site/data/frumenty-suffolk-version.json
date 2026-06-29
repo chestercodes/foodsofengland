@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140310142506",
+  "finalPath": "frumenty-suffolk-version.html",
+  "heading": "Frumenty - Suffolk Version",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Frumenty",
+      "relatedPageUrl": "frumenty-or-furmety.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Frumenty - Suffolk Version",
+  "usedSnapshot": "20220516220551"
+}

@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922072223",
+  "finalPath": "lincolnshire-carrot-pudding.html",
+  "heading": "Lincolnshire Carrot Pudding",
+  "ingredients": [
+    "brandy",
+    "breadcrumbs",
+    "carrot",
+    "cherries",
+    "cream",
+    "currants",
+    "custard",
+    "demerara sugar",
+    "egg",
+    "flour",
+    "glace cherries",
+    "milk",
+    "plain flour",
+    "potato",
+    "pudding",
+    "raisins",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lincolnshire-carrot-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EWinteringham Village Recipes\u003C/i\u003E at \u003Ca href=\u0022http://www.recipes.winteringham.info\u0022\u003E\u003Cb\u003Ewww.recipes.winteringham.info\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELINCOLNSHIRE CARROT PUDDING\u003C/b\u003E\u003Cbr\u003E\nby Christine Hammond\u003Cbr\u003E\nA good light Lincolnshire alternative to traditional Christmas Pudding.\u003Cbr\u003E\n\u003Cbr\u003E\n4 ozs of all the following ingredients:\u003Cbr\u003E\nPlain flour\u003Cbr\u003E\nSuet,\u003Cbr\u003E\nRaisins\u003Cbr\u003E\nCurrants\u003Cbr\u003E\nGrated potato\u003Cbr\u003E\nGrated carrot\u003Cbr\u003E\nDemerara Sugar\u003Cbr\u003E\nFine breadcrumbs\u003Cbr\u003E\nAlso\u003Cbr\u003E\n\u00BD teaspoon bicarbonate of soda\u003Cbr\u003E\n1 tsp mixed spice\u003Cbr\u003E\n1 oz g chopped glace cherries\u003Cbr\u003E\n1 large egg (beaten)\u003Cbr\u003E\n\u003Cbr\u003E\nMix together flour, soda and mixed spice. Add all other dry ingredients and mix well together.\u003Cbr\u003E\nAdd the egg and bind well together. (If necessary add a little milk)\u003Cbr\u003E\nPut into a large greased pudding basin, leaving room at the top for the mixture to expand.\u003Cbr\u003E\nCover with grease proof paper and tie with string.\u003Cbr\u003E\nSteam for 3 hours\u003Cbr\u003E\nLovely served with loads of custard or cream but especially good with brandy sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECarrot Dishes\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/carrot.html",
+      "relationDescription": "See more carrot pies, puddings and other "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Carrot"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lincolnshire Carrot Pudding",
+  "usedSnapshot": "20211201024412"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922085942",
+  "finalPath": "wesson.html",
+  "heading": "Wesson",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wesson",
+  "usedSnapshot": "20210518212105"
+}

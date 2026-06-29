@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922073047",
+  "finalPath": "apple-charlotte.html",
+  "heading": "Apple Charlotte",
+  "ingredients": [
+    "apricot",
+    "brandy",
+    "bread",
+    "butter",
+    "cherries",
+    "jam",
+    "quinces",
+    "sugar",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "apple-charlotte.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECHARLOTTE OF APPLES.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nStew some apples with a bit of fresh butter, a little syrup of quinces, half a pound of apricot jam, and half a gill of brandy; rub all through a hair-sieve, add a few dried cherries, and put into a mould lined with bread cut in diamonds of four inches square and half an inch thick, and previously dipped in oiled butter. Cover with slices of bread, likewise dipped in butter, bake of a light colour, and sift sugar over.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "apple-charlotte.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CHARLOTTE. Rub a baking-dish thick with butter, and line the bottom and sides with very thin slices of white bread. Put in layers of apples thinly sliced, strewing sugar between, and bits of butter, till the dish is full. In the mean time, soak in warm milk as many thin slices of bread as will cover the whole; over which lay a plate, and a weight to keep the bread close on the apples. To a middling sized dish use half a pound of butter in the whole, and bake slowly for three hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Apple Charlotte",
+  "usedSnapshot": "20211205175306"
+}

@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922090210",
+  "finalPath": "stewed-cucumber.html",
+  "heading": "Stewed Cucumber",
+  "ingredients": [
+    "butter",
+    "mutton",
+    "onion",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stewed-cucumber.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESTEWED CUCUMBERS.\u003C/b\u003E\u003Cbr\u003E\nTake fresh gathered cucumbers, pare them, cut them into shapes if seedy, or slices if young. Put them into a stewpan, and add a little salt, sugar, and an onion. Simmer them over a tire, till nearly done and the liquor reduced, or fry them with a bit of fresh butter, and add a good strong cullis. Let the cucumbers stew till done, and serve them up with the mutton, which may be roasted with larding.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFried Cucumber\u003C/b\u003E",
+      "relatedPageUrl": "fried-cucumbers.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDevil-Tavern Cucumbers\u003C/b\u003E",
+      "relatedPageUrl": "devil-tavern-cucumbers.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Stewed Cucumber",
+  "usedSnapshot": "20211021023449"
+}

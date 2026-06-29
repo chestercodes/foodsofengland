@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922081607",
+  "finalPath": "goosnargh-duck.html",
+  "heading": "Goosnargh Duck",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGoosnargh Cakes\u003C/b\u003E",
+      "relatedPageUrl": "goosnargh-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Goosnargh Duck",
+  "usedSnapshot": "20220819115809"
+}

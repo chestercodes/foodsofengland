@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922075039",
+  "finalPath": "cream-of-broad-bean-soup.html",
+  "heading": "Cream of Broad Bean Soup",
+  "ingredients": [
+    "bread",
+    "butter",
+    "carrot",
+    "celery",
+    "onion",
+    "pepper",
+    "salt",
+    "spinach",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cream-of-broad-bean-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ECassell\u0027s Vegetarian Cookery\u003C/i\u003E, 1891",
+      "receiptText": "\u003Cb\u003EBean Soup, Green\u003C/b\u003E. Boil a quart of ordinary broad-beans in some stock or water with an onion, carrot and celery. Remove the skins when the beans are tender and rub the beans through a wire sieve. Colour the soup with a little spinach extract-(vegetable colouring, sold in bottles)-add a little piece of butter, a little powdered sugar, pepper and salt. The amount of stock or water must depend upon whether it is wished to have the puree thick or thin. Some purees are made as thick as bread sauce, while some persons prefer them much thinner. This is purely a matter of taste.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cream of Broad Bean Soup",
+  "usedSnapshot": "20170314022852"
+}

@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922084725",
+  "finalPath": "suffolk-red-cabbage.html",
+  "heading": "Suffolk Red Cabbage",
+  "ingredients": [
+    "butter",
+    "cabbage",
+    "ham",
+    "pepper",
+    "pork",
+    "salt",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-red-cabbage.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Suffolk%20Red%20Cabbage\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESuffolk Red Cabbage\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nA dish with a delicious sharp-sweet flavour that goes extremely well with game, roast pork or sausages. This reheats well.\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n1 Medium Red cabbage\u003Cbr\u003E\n50 Gram Butter (2 oz)\u003Cbr\u003E\n110 Gram Ham, thickly sliced (4 oz)\u003Cbr\u003E\n2 Tablespoon Red wine vinegar\u003Cbr\u003E\n1 Tablespoon Sugar\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\nMethod\u003Cbr\u003E\nCut the cabbage into quarters. Remove the cores and then slice fairly thin. Melt the butter in an ovenproof casserole dish and add the ham cut into little sticks about 2.5 cm (1 inch) long.\u003Cbr\u003E\n\u003Cbr\u003E\nLet it simmer gently in the butter without browning for 5 minutes then stir in the cabbage and turn it over in the butter until it is all coated and glistening. Cover the dish and allow it to sweat for 10 minutes. Stir in the vinegar, sugar and seasoning and cover the dish. Cook very gently at 170\u00B0 C / 325 \u00B0F / Gas 3 for 2 hours, stirring occasionally.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Suffolk Red Cabbage",
+  "usedSnapshot": "20170314012206"
+}

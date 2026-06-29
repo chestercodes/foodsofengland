@@ -1,0 +1,90 @@
+﻿{
+  "earliestSnapshot": "20130916154048",
+  "finalPath": "dorset-apple-cake.html",
+  "heading": "Dorset Apple Cake",
+  "ingredients": [
+    "apple",
+    "butter",
+    "castor sugar",
+    "egg",
+    "flour",
+    "margarine",
+    "milk",
+    "self-raising flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dorset-apple-cake.html-1",
+      "receiptSource": "Original Receipt from the Derby Daily Telegraph - Monday 02 November 1925",
+      "receiptText": "\u003Cb\u003EDorset Apple Cake.\u003C/b\u003E\u003Cbr\u003E\nMiss Hetty King, the famous male impersonator, declares that she is deeply fond of cooking, and offers her own recipe for Dorset Apple Cake.\u003Cbr\u003E\n\u003Cbr\u003E\nThe ingredients required are: 8oz. self-raising flour. 1 egg. 4oz. margarine. gill milk. 4oz. castor sugar. \u00BE lb. apples.\u003Cbr\u003E\n\u003Cbr\u003E\n1. Rub margarine into flour, add sugar and apples cut into cubes. 2. Mix with beaten egg and milk. 3. Butter a shallow cake tin and spread mixture over it. 4. Bake a moderate oven for one hour. Cut squares.\u003Cbr\u003E\n\u003Cbr\u003E\nIn Dorset the cake is eaten hot, but it is equally pleasant when it is cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cheese",
+      "relatedPageUrl": "apple-cheese.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Breadcrumb Apple Cake",
+      "relatedPageUrl": "breadcrumb-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cheese and Apple Cake",
+      "relatedPageUrl": "cheese-and-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Dorset Apple Cake",
+      "relatedPageUrl": "dorset-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shropshire Apple Cake",
+      "relatedPageUrl": "shropshire-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Somerset Apple Cake",
+      "relatedPageUrl": "somerset-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Yorkshire Apple Cake",
+      "relatedPageUrl": "yorkshire-apple-cake.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Dorset Apple Cake",
+  "usedSnapshot": "20211021030342"
+}

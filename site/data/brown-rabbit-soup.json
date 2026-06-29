@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922071622",
+  "finalPath": "brown-rabbit-soup.html",
+  "heading": "Brown Rabbit Soup",
+  "ingredients": [
+    "bread",
+    "carrots",
+    "faggot",
+    "fat",
+    "flour",
+    "mushroom",
+    "onions",
+    "parsley",
+    "rabbit",
+    "rabbits",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brown-rabbit-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBROWN RABBIT SOUP.\u003C/b\u003E\u003Cbr\u003E\nCut down into joints, flour, and fry lightly, two full grown, or three young rabbits; add to them three onions of moderate size, also fried to a clear brown; on these pour gradually seven pints of boiling water, throw in a large teaspoonful of salt, clear off the scum with care as it rises, and then put to the soup a faggot of parsley, four not very large carrots, and a small teaspoonful of peppercorns;. boil the whole very softly from five hours to five and half; add more salt if needed, strain off the soup, let it cool sufficiently for the fat to be skimmed clean from it, heat it afresh, and send it to table with sippets of fried bread. Spice, with a thickening of rice-flour, or of wheaten flour browned in the oven, and mixed with a spoonful or two of very good mushroom catsup, or of Harvey\u0027s sauce, can be added at pleasure to the above, with a few drops of eschalot-wine, or vine-\u003Cbr\u003E\ngar; but the simple receipt will be found extremely good without them.\u003Cbr\u003E\n\u003Cbr\u003E\nRabbits; 2 full grown or 3 small; onions fried 3 middling sized; water 7 pints; salt 1 large teaspoonful or more; carrots 4; faggot of parsley, peppercorns 1 small teaspoonful; 5 to 5\u00BD hours\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Cimg src=\u0022thumb-cony.jpg\u0022 border=\u00220\u0022\u003E\u003Cbr\u003E\n\u003Csmall\u003ERabbit from \u0027Conny-catching\u0027 by Robert Greene, 1591\u003C/small\u003E\u003C/center\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Brown Rabbit Soup",
+  "usedSnapshot": "20170314022743"
+}

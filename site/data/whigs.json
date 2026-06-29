@@ -1,0 +1,107 @@
+﻿{
+  "earliestSnapshot": "20150922082343",
+  "finalPath": "whigs.html",
+  "heading": "Whigs",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "sugar",
+    "yeast",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "whigs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E241. To make WHIGGS.\u003C/b\u003E\u003Cbr\u003E\nTake two pounds of flour, a pound of butter, a pint of cream, four eggs, (leaving out two of the whites) and two spoonfuls of yeast, set them to rise a little; when they are mixed add half a pound of sugar, and half a pound of \u003Ca href=\u0022comfits.html\u0022\u003E\u003Cb\u003Ecaraway comfits\u003C/b\u003E\u003C/a\u003E, make them up with sugar and bake them in a dripping pan.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "whigs.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Light Wigs.\u003C/b\u003E\u003Cbr\u003E\nTo three quarters of a Pound of fine Flour, put half a Pint of Milk made warm, mix it in two or three Spoonfuls of light Barm, cover it up, set it half an Hour by the Fire to rise, work in [??] ounces of Sugar, and four Ounces of Butter, make it into Wigs with as little Flour as possible, and a few Seeds, set them in a quick Oven to bake\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHawkshead Whiggs\u003C/b\u003E",
+      "relatedPageUrl": "hawkshead-whigs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDorset Whigs\u003C/b\u003E",
+      "relatedPageUrl": "dorset-wiggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWig\u003C/b\u003E",
+      "relatedPageUrl": "wig.html",
+      "relationDescription": "For the similarly-named drink, see "
+    },
+    {
+      "relatedPageText": "Cheat",
+      "relatedPageUrl": "cheat.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Jannock Bread",
+      "relatedPageUrl": "jannock-bread.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Manchets",
+      "relatedPageUrl": "manchets.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Pandemain",
+      "relatedPageUrl": "pandemain.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Wastel Bread",
+      "relatedPageUrl": "wastel-bread.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Whigs",
+      "relatedPageUrl": "whigs.html",
+      "relationDescription": "For other traditional bread types, see:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EWhiggs, Wigs, Wigges\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Whigs",
+  "usedSnapshot": "20220705101438"
+}

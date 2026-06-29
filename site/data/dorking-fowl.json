@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922074612",
+  "finalPath": "dorking-fowl.html",
+  "heading": "Dorking Fowl",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dorking Fowl",
+  "usedSnapshot": "20220819111940"
+}

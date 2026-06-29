@@ -1,0 +1,82 @@
+﻿{
+  "earliestSnapshot": "20140212021836",
+  "finalPath": "bacon-pudding-hampshire.html",
+  "heading": "Bacon Pudding - Hampshire",
+  "ingredients": [
+    "bacon",
+    "baking powder",
+    "flour",
+    "onion",
+    "onions",
+    "pepper",
+    "plain flour",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-pudding-hampshire.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bacon%20Pudding%20-%20Hampshire\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz plain flour\u003Cbr\u003E\n1 tsp Baking powder\u003Cbr\u003E\n4 oz shredded suet\u003Cbr\u003E\nwater to mix\u003Cbr\u003E\n8 rashers bacon, chopped\u003Cbr\u003E\n1 onion, chopped\u003Cbr\u003E\n1 tsp chopped sage\u003Cbr\u003E\n\u003Cbr\u003E\nSift the flour, baking powder and salt into a bowl, add the suet and enough water to bind into a soft dough. Roll out the dough into an oblong. Cover with the onions and bacon, leaving a margin clear around the edge, sprinkle with the sage, salt and pepper. Dampen the edges and roll up. Tie in a cloth and boil for 2 hours, or steam wrapped in greaseproof paper for 3 hours.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Berkshire Bacon Pudding",
+      "relatedPageUrl": "bacon-rolly-polly-pudding.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Bacon Pudding - Berkshire",
+      "relatedPageUrl": "bacon-rolly-polly-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bacon Pudding - Hampshire",
+      "relatedPageUrl": "bacon-pudding-hampshire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bedfordshire Clangers",
+      "relatedPageUrl": "bedfordshire-clangers.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Clanger",
+      "relatedPageUrl": "clanger.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Crowfield Clanger",
+      "relatedPageUrl": "crowfield-clanger.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Buckingham Bacon Badger",
+      "relatedPageUrl": "buckingham-bacon-badger.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bacon Pudding - Hampshire",
+  "usedSnapshot": "20211129123304"
+}

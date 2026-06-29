@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922091919",
+  "finalPath": "mustard-rabbit.html",
+  "heading": "Mustard Rabbit",
+  "ingredients": [
+    "cognac"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mustard-rabbit.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.cuisineaz.com\u0022\u003E\u003Cb\u003Ehttp://www.cuisineaz.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingr\u00E9dients\u003Cbr\u003E\n\u003Cb\u003Epour Lapin \u00E0 la moutarde \u00E0 l\u0027ancienne\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1.2 kg de lapin\u003Cbr\u003E\n1.5 dl de vin blanc sec\u003Cbr\u003E\n2 c. \u00E0 soupe de moutarde \u00E0 l\u0027ancienne\u003Cbr\u003E\n200 g de cr\u00E8me fra\u00EEche \u00E9paisse\u003Cbr\u003E\n1 c. \u00E0 caf\u00E9 de jus de citron\u003Cbr\u003E\n1 c. \u00E0 caf\u00E9 de cognac\u003Cbr\u003E\n1 brin de thym\u003Cbr\u003E\n2 c. \u00E0 caf\u00E9 de huile\u003Cbr\u003E\nSel, poivre\u003Cbr\u003E\n\u003Cbr\u003E\nPr\u00E9paration pour Lapin \u00E0 la moutarde \u00E0 l\u0027ancienne\u003Cbr\u003E\n1 D\u00E9coupez le lapin en 8 morceaux.\u003Cbr\u003E\n2 Faites revenir dans l\u0027huile les morceaux de lapin, \u00E0 feu moyen pendant 10 min, en les retournant souvent. R\u00E9servez \u00E0 part.\u003Cbr\u003E\n3 Jetez l\u0027huile de cuisson et versez le vin dans la cocotte. Portez \u00E0 \u00E9bullition et faites flamber. Laissez r\u00E9duire 2 min \u00E0 feu vif, remettez les morceaux de lapin, ajoutez le thym, du sel et du poivre. Faites cuire \u00E0 feu doux 45 min, en rajoutant un peu d\u0027eau d\u00E8s que le vin s\u0027\u00E9vapore.\u003Cbr\u003E\n4 Dans un bol, m\u00E9langez la moutarde, la cr\u00E8me, le jus de citron et le cognac. Versez ce m\u00E9lange dans la cocotte et remuez 5 min pour bien enrober les morceaux de lapin.\u003Cbr\u003E\n5 Servez tr\u00E8s chaud, accompagn\u00E9 de p\u00E2tes fra\u00EEches ou de riz nature.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mustard"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Mustard Rabbit",
+  "usedSnapshot": "20220516215601"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20130323053643",
+  "finalPath": "friar-s-apple-omelette.html",
+  "heading": "Friar\u0027s Apple Omelette",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Friar\u0027s Omelette",
+      "relatedPageUrl": "friar-s-omelette.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Friar\u0027s Apple Omelette",
+  "usedSnapshot": "20220808014039"
+}

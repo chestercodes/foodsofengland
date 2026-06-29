@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922074730",
+  "finalPath": "blind-scouse.html",
+  "heading": "Blind Scouse",
+  "ingredients": [
+    "barley",
+    "beetroot",
+    "butter",
+    "butter beans",
+    "cabbage",
+    "carrots",
+    "dumplings",
+    "flour",
+    "herbs",
+    "leek",
+    "onion",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "suet",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blind-scouse.html-1",
+      "receiptSource": "Original Receipt from the Vegetarian Society (\u003Ca href=\u0022http://www.recipes.vegsoc.org\u0022\u003E\u003Cb\u003Ewww.recipes.vegsoc.org\u003C/b\u003E\u003C/a\u003E) and Liverpool Vegetarians and Vegans(\u003Ca href=\u0022http://www.scouseveg.co.uk\u0022\u003E\u003Cb\u003Ewww.scouseveg.co.uk\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBlind Scouse\u003C/b\u003E\u003Cbr\u003E\nServes 4, Preparation time: 15 minutes, Cooking time: 45 minutes\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;1 leek, washed well and cut into bite sized chunks\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 2 medium onions, peeled and cut into bite sized chunks\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 3 medium (500g) potatoes, peeled and cut into bite sized chunks\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 3- 4 (300g) carrots, peeled and cut into bite sized chunks\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1-2 handfuls pearl barley (soaked overnight in cold water or soaked in boiling water for an hour)\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1ltr vegetable stock\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1x 410g can butter beans, rinsed and drained\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; to taste salt and pepper\u003Cbr\u003E\nTo serve: Herb dumplings, Pickled red cabbage, or chopped pickled beetroot (optional)\u003Cbr\u003E\n\u003Cbr\u003E\n1. For the Scouse: Put all ingredients except the butter beans in a large saucepan and bring to the boil. Cover with a lid and simmer for 30 minutes.\u003Cbr\u003E\n2. Add the butter beans, return to the boil then add the dumplings (if using). Replace lid and simmer for a further 15 minutes. Serve in soup plates.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EDumplings\u003C/b\u003E (optional, Makes about 16)\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 125g self raising flour\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 50g vegetable suet\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1tbs onion, peeled and very finely chopped\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 2tsp dried mixed herbs\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; to taste salt and pepper\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 100ml very cold water\u003Cbr\u003E\nMix all dry ingredients. Just before adding to the Scouse, mix in enough cold water to make a rather sticky dough. Drop rounded teaspoonfuls into the boiling soup and continue as point 2.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Liverpool"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Blind Scouse",
+  "usedSnapshot": "20210510041918"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20160403141226",
+  "finalPath": "food-additives.html",
+  "heading": "Food Additives",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "keyword",
+      "tagValue": "Sal Volatile"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Salt of Hartshorn"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Gum Dragon"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Gum Tragacanth"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Gum Arabic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Saltpetre"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Sal Prunella"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Bole Armenia"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "salts of tartar"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Food Additives",
+  "usedSnapshot": "20220705091314"
+}

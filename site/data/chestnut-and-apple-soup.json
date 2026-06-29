@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808233251",
+  "finalPath": "chestnut-and-apple-soup.html",
+  "heading": "Chestnut and Apple Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chestnut and Apple Soup",
+  "usedSnapshot": "20220516225310"
+}

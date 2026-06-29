@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140125041403",
+  "finalPath": "wiltshire-porkies.html",
+  "heading": "Wiltshire Porkies",
+  "ingredients": [
+    "beat",
+    "egg",
+    "flour",
+    "salt",
+    "sausage meat"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wiltshire-porkies.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Wiltshire%20Porkies\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHow to Make Wiltshire Porkies\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u00BD lb flour\u003Cbr\u003E\n\u00BD teaspoon salt\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n1 tablespoonful oil\u003Cbr\u003E\nwater\u003Cbr\u003E\n1 lb sausage meat\u003Cbr\u003E\n\u003Cbr\u003E\nMix flour and salt in a basin, add the yolk of 1 egg and 1 tablespoon of oil. Mix in enough water to form a smooth batter that will just coat the back of a spoon. Beat well and let it stand for\u00BD hour.\u003Cbr\u003E\nDouse hands and board with flour to prevent sticking, form the sausage meat into small, neat sausage shaped rolls. Whisk the white of the egg stiffly and stir it into the batter. Coat each roll with batter and deep fry until golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Wiltshire Porkies",
+  "usedSnapshot": "20210518204844"
+}

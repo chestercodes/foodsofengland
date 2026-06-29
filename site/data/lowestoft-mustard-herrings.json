@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140616082256",
+  "finalPath": "lowestoft-mustard-herrings.html",
+  "heading": "Lowestoft Mustard Herrings",
+  "ingredients": [
+    "butter",
+    "fish stock",
+    "flour",
+    "herrings",
+    "lemon",
+    "lemon juice",
+    "mustard",
+    "potatoes",
+    "salt",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lowestoft-mustard-herrings.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lowestoft%20Mustard%20Herrings\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELOWESTOFT HERRINGS\u003C/b\u003E\u003Cbr\u003E\n8 Herrings, cleaned\u003Cbr\u003E\n3 pt Salt water: use fresh Water salted to a rate of 2 oz. salt to 1 pint of water\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMUSTARD SAUCE\u003C/b\u003E\u003Cbr\u003E\n1 oz Butter\u003Cbr\u003E\n1 tbsp flour\u003Cbr\u003E\n1 tsp dry mustard\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\nSqueeze of lemon juice\u003Cbr\u003E\n1/2 pt Fish stock\u003Cbr\u003E\n1 tbsp White wine vinegar\u003Cbr\u003E\n\u003Cbr\u003E\nPlace the herrings in the salted water, which has been brought to a rolling boil. Bring back to the boil and boil guickly for 8 to l0 minutes. Drain well, and serve with boiled potatoes and Mustard Sauce. Serves 4. Mustard Sauce: melt the butter ovel- a low heat and add the flour, stirring until the mixture is smooth. Remove from the heat and add the mustard, salt and lemon juice. Gradually stil-in the stock and the vinegar. Bring to the boil, stirring, and pour over the Lowestoft Herrings to serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lowestoft Mustard Herrings",
+  "usedSnapshot": "20211130234708"
+}

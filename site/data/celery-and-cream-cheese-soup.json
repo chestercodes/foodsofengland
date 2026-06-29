@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130809001442",
+  "finalPath": "celery-and-cream-cheese-soup.html",
+  "heading": "Celery and Cream Cheese Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Celery and Cream Cheese Soup",
+  "usedSnapshot": "20211020234649"
+}

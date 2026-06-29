@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074047",
+  "finalPath": "english-sack.html",
+  "heading": "English Sack",
+  "ingredients": [
+    "honey"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "english-sack.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E\u003Ci\u003EEnglish sack.\u003C/i\u003E\u003C/b\u003E\u003Cbr\u003E\nTo every gallon of water, put four sprigs of rue and a handful of fennel roots; boil these for half an hour-then strain it; and to every quart of liquor, put three quarters of a pound of honey: boil it two hours; skim it well; when boiled pour it off, and turn it into a clean cask; then bottle it off, and turn it into a clean cask. Keep it one year in the cask; then bottle it off, and it will be excellent.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Sack",
+      "relatedPageUrl": "sack.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "English Sack",
+  "usedSnapshot": "20211027033111"
+}

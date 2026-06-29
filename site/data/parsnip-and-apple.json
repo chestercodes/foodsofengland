@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922073212",
+  "finalPath": "parsnip-and-apple.html",
+  "heading": "Parsnip and Apple",
+  "ingredients": [
+    "apple",
+    "cream",
+    "herbs",
+    "milk",
+    "onion",
+    "parsnip",
+    "parsnips",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "parsnip-and-apple.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Parsnip%20and%20Apple%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2 tablespoons oil\u003Cbr\u003E\n1 onion peeled and chopped\u003Cbr\u003E\n2 large parsnips, peeled and chopped\u003Cbr\u003E\n1 large cooking apple, peeled and chopped\u003Cbr\u003E\n500ml vegetable stock\u003Cbr\u003E\n500ml milk\u003Cbr\u003E\n1 teaspoon mixed, dried herbs\u003Cbr\u003E\n4 tablespoons single cream (optional)\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the oil in a large saucepan\u003Cbr\u003E\nCook the onion for 5 minutes until soft\u003Cbr\u003E\nAdd the parsnip and apple\u003Cbr\u003E\nAdd the stock and herbs\u003Cbr\u003E\nBring to the boil and simmer for 30 minutes\u003Cbr\u003E\nAdd the milk\u003Cbr\u003E\nProcess in a liquidiser\u003Cbr\u003E\nReturn to the saucepan to reheat\u003Cbr\u003E\nServe into bowls and add a swirl of cream if desired\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Parsnip and Apple",
+  "usedSnapshot": "20210518195125"
+}

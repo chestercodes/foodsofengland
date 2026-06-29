@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20150306220810",
+  "finalPath": "tripe-and-onions.html",
+  "heading": "Tripe and Onions",
+  "ingredients": [
+    "butter",
+    "milk",
+    "mustard",
+    "onion",
+    "onions",
+    "rabbits",
+    "salt",
+    "tripe",
+    "vinegar",
+    "cheese",
+    "flour",
+    "nutmeg",
+    "pepper",
+    "toast"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tripe-and-onions.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBOILED TRIPE AND ONIONS.\u003C/b\u003E\u003Cbr\u003E\nCut a prepared double of tripe into slips, then peel and boil some Spanish or other onions in milk and water with a little salt, and when they are nearly done add the tripe and boil it gently twenty minutes. Serve it to table with the onions and a little of the liquor in a tureen. Serve up, likewise, in a sauceboat, some melted butter with a little mustard mixed with it, and (if approved) there may be added a table spoonful of vinegar.\u003Cbr\u003E\n\u003Cbr\u003E\nTRIPE AND ONIONS ANOTHER WAY.\u003Cbr\u003E\nPut the pieces of tripe into a pan and cover with milk; then bake it till tender, serve it up in a bowl, and some onion sauce made in the same manner as for rabbits, and onion to be put into butter boats. This mode will be found to be the best.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tripe-and-onions.html-2",
+      "receiptSource": "Original Receipt in Marjory Houlihan\u0027s \u0027\u003Ci\u003ETripe - A most Excellent Dish\u003C/i\u003E\u0027 (2011);",
+      "receiptText": "\u003Cb\u003ELANCASHIRE\u003C/b\u003E\u003Cbr\u003E\n2 Spanish Onions\u003Cbr\u003E\n\u00BD Pint milk\u003Cbr\u003E\n1\u00BD lb pre-cooked tripe\u003Cbr\u003E\nseasoning\u003Cbr\u003E\n1 oz flour\u003Cbr\u003E\npinch nutmeg\u003Cbr\u003E\n1 oz butter\u003Cbr\u003E\ntoast\u003Cbr\u003E\nPeel the onions and stew them with the tripe, just covered with water, until tender. Drain, reserving half the pourings. Cut the tripe into pieces; chop the onions.\u003Cbr\u003E\nMelt the butter in a heat-proof dish and mix in the flour, slowly add the tripe and onion pourings.\u003Cbr\u003E\nStir until boiling, add the milk, seasoning, tripe and onions, and simmer for 10 to 15 minutes.\u003Cbr\u003E\nServe with toast. For four people.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EYORKSHIRE\u003C/b\u003E\u003Cbr\u003E\n1 lg dressed tripe\u003Cbr\u003E\n1 oz butter\u003Cbr\u003E\n1 lb sliced onions\u003Cbr\u003E\n1 oz flour\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n2 tbsp grated cheese\u003Cbr\u003E\n\u00BD pint each milk and water\u003Cbr\u003E\nCut the tripe into bite-sized pieces and put into a saucepan with the onions, milk and water; season to taste.\u003Cbr\u003E\nBring to the boil, cover and simmer gently for an hour, or until the tripe is tender.\u003Cbr\u003E\nMix the butter and flour together, and when all the flour is absorbed break into small pieces and put into the tripe, stirring all the time until the liquid thickens.\u003Cbr\u003E\nTransfer to an ovenproof dish, sprinkle grated cheese over the top and brown, either in the oven or under a hot grill.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Tripe and Onions",
+  "usedSnapshot": "20220129223817"
+}

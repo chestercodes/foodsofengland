@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150310031318",
+  "finalPath": "roly-poly-pudding.html",
+  "heading": "Roly-Poly Pudding",
+  "ingredients": [
+    "butter",
+    "currants",
+    "pudding",
+    "puddings",
+    "suet",
+    "baking powder",
+    "flour",
+    "jam",
+    "treacle"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "roly-poly-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EROLLY-POLLY PUDDING.\u003C/b\u003E\u003Cbr\u003E\n865. This well-known pudding is made by rolling out a thin layer of suet or butter paste, as for puddings, upon which either a preserve or dried currants are spread evenly, leaving an inch bare at the edges all round, except on that next the cook, and then the whole is rolled up into a long pudding, closed at the ends by pinching the paste, and enveloped in the same way in a cloth, which is tied with a string at each end, and boiled about one hour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "roly-poly-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EJam Roly-poly Pudding\u003C/b\u003E.\u003Cbr\u003E\nIngredients--1 lb. of flour.\u003Cbr\u003E\n4, 6, or 8 oz. of suet, finely chopped.\u003Cbr\u003E\nSome red jam.\u003Cbr\u003E\n1 teaspoonful of baking powder.\u003Cbr\u003E\nMethod.--Put the flour into a basin, and add to it the suet and baking powder.\u003Cbr\u003E\nMix it with a little cold water and roll it out.\u003Cbr\u003E\nSpread it with the jam, and roll up in the form of a bolster.\u003Cbr\u003E\nScald and flour a cloth, and sew, or tie, the pudding firmly in it.\u003Cbr\u003E\nBoil for two hours.\u003Cbr\u003E\nTreacle Roly-poly Pudding.\u003Cbr\u003E\nMake like a jam roly-poly, using treacle instead of jam.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Rolies, Rolly-Polly, Rolley-Polley Pudding",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Roly-Poly Pudding",
+  "usedSnapshot": "20200222061653"
+}

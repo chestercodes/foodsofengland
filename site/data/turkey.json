@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20150922073550",
+  "finalPath": "turkey.html",
+  "heading": "Turkey",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Poverade or Poverroy",
+      "relatedPageUrl": "poverade-or-poverroy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Solomon Gundy",
+      "relatedPageUrl": "solomon-gundy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spatchcock",
+      "relatedPageUrl": "spatchcock.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Staffordshire Goose Pie",
+      "relatedPageUrl": "staffordshire-goose-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Turkey - Yorkshire Fashion",
+      "relatedPageUrl": "turkey-yorkshire-fashion.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Turkey Sauce",
+      "relatedPageUrl": "turkey-sauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Turkey Twizzlers",
+      "relatedPageUrl": "turkey-twizzlers.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Turkeys",
+      "relatedPageUrl": "turkey.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Pie",
+      "relatedPageUrl": "yorkshire-christmas-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Turkey",
+  "usedSnapshot": "20170314023758"
+}

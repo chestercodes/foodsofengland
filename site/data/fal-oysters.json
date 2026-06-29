@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20211020231953",
+  "finalPath": "fal-oysters.html",
+  "heading": "Fal Oysters",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fal Oysters",
+  "usedSnapshot": "20211020231953"
+}

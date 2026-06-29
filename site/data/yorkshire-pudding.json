@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20130323053754",
+  "finalPath": "yorkshire-pudding.html",
+  "heading": "Yorkshire Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "fat",
+    "flour",
+    "gravy",
+    "milk",
+    "pudding",
+    "salt",
+    "beat",
+    "beef",
+    "beef dripping"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA Yorkshire pudding.\u003C/b\u003E\u003Cbr\u003E\nTAKE a quart of milk, four eggs, and a little salt, make it up into a thick batter with flour, like a pancake batter. You must have a good piece of meat at the fire, take a stew-pan and put some dripping in, set it on the fire; when it boils, pour in your pudding; let it bake on the fire till you think it is night enough, then turn a plate upside down in the dripping pan, that the dripping may not be blacked; set your stew-pan on it under your meat, and let the dripping drop on the pudding, and the heat of the fire come to it, to make it of a fine brown. When your meat is done and sent to table, drain all the fat from your pudding, and set it on the fire again to dry a little; then slide it as dry as you can into a dish, melt some butter, and pour it into a cup, and set it in the middle of the pudding. It is an excellent good pudding; the gravy of the meat eats well with it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yorkshire-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EYORKSHIRE PUDDING, to serve with hot Roast Beef.\u003C/b\u003E\u003Cbr\u003E\n1384. INGREDIENTS: 1-\u00BD pint of milk, 6 large tablespoonfuls of flour, 3 eggs, 1 saltspoonful of salt.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the flour into a basin with the salt, and stir gradually to this enough milk to make it into a stiff batter. When this is perfectly smooth, and all the lumps are well rubbed down, add the remainder of the milk and the eggs, which should be well beaten. Beat the mixture for a few minutes, and pour it into a shallow tin, which has been previously well rubbed with beef dripping. Put the pudding into the oven, and bake it for an hour; then, for another\u00BD hour, place it under the meat, to catch a little of the gravy that flows from it. Cut the pudding into small square pieces, put them on a hot dish, and serve. If the meat is baked, the pudding may at once be placed under it, resting the former on a small three-cornered stand.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 7d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Roast Beef and Yorkshire Pudding",
+      "relatedPageUrl": "roast-beef-and-yorkshire-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Yorkshire Pudding",
+  "usedSnapshot": "20220808013534"
+}

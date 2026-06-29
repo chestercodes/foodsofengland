@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922100107",
+  "finalPath": "poularde-eduoard-vii.html",
+  "heading": "Poularde Eduoard VII",
+  "ingredients": [
+    "cream",
+    "curry",
+    "rice"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "poularde-eduoard-vii.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E1469 POULARDE EDOUARD VII\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nStuff the pullet with rice, and poach it without colouration. Dish it, and coat it with a curry sauce, combined with two oz. of red capsicums in dice, per pint of sauce.\u003Cbr\u003E\n\u003Cbr\u003E\nServe a garnish of cucumbers with cream, separately.\u003Cbr\u003E\n\u003Cbr\u003E\nN.B. This dish was originated at the Carlton Hotel on the occasion of His Majesty King Edward VII.\u0027s Coronation.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Poularde Eduoard VII",
+  "usedSnapshot": "20210512123018"
+}

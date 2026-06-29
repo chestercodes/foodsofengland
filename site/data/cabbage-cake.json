@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922085035",
+  "finalPath": "cabbage-cake.html",
+  "heading": "Cabbage Cake",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "breadcrumbs",
+    "butter",
+    "cabbage",
+    "gravy",
+    "mutton"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cabbage-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Cabbage Cake. - Boil a large cabbage till it is quite tender. Drain the water from it, and chop it small. Butter the inside of a piedish, and dust it with finely-grated breadcrumbs. Place on these a layer of chopped cabbage about an inch thick, then a layer of cold beef or mutton finely minced and flavoured; repeat until the pie-dish is nearly full, making the top laver of the cabbage. Lay three or four rashers of bacon over it and put the dish in a moderate oven. When it is heated thoroughly and the bacon cooked turn it out as from a mould and pour good brown gravy round it. Probable cost without the cold meat, 2d or 3d. Sufficient, a small pie-dish full, for three or four persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Cabbage Cake",
+  "usedSnapshot": "20220808005508"
+}

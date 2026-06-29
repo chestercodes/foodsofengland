@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20130324051332",
+  "finalPath": "minced-collops.html",
+  "heading": "Minced Collops",
+  "ingredients": [
+    "beef",
+    "butter",
+    "collops",
+    "flour",
+    "gravy",
+    "lemon",
+    "mushrooms",
+    "nutmeg",
+    "onion",
+    "pepper",
+    "salt",
+    "veal",
+    "walnut",
+    "beat",
+    "oatmeal",
+    "rice"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "minced-collops.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E454. To make MINC\u0027D COLLOPS.\u003C/b\u003E\u003Cbr\u003E\nTake two or three pounds of any tender parts of beef, (according as you would have the dish in bigness) cut it small as you would do minc\u0027d veal; take an onion, shred it small, and fry it a light brown, in butter seasoned with nutmeg, pepper and salt, and put it into your pan with your onion, and fry it a little whilst it be a light brown; then put to it a jill of good gravy, and a spoonful of walnut pickle, or a little catchup; put in a few shred capers or mushrooms, thicken it up with a little flour and butter; if you please you may put in a little juice of lemon; when you dish it up, garnish your dish with pickle; and a few forc\u0027d-meat-balls.\u003Cbr\u003E\nIt is proper for either side-dish or top-dish.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "minced-collops.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELancashire Evening Post\u003C/i\u003E\u0027 - Wednesday 23 October 1935",
+      "receiptText": "MINCED COLLOPS\u003Cbr\u003E\n\u003Cbr\u003E\nRequired; 1 lb minced fresh beef, one very small onion, salt and pepper, some white stock, a dessertspoonful of oatmeal.\u003Cbr\u003E\n\u003Cbr\u003E\nBring a little good dripping to boiling point, and put in the onion, finely minced. Cook for a minute or two, but do not let it get too brown. Put in the meat and beat until all the lumps Into which it may form are smooth; then add the stock, and the salt and pepper, cover and simmer very gently for about an hour, stirring it now and then. Then put in the oatmeal (to thicken it) and cook until you judge that this is done. Many people use water instead of stock, because the meat makes its own stock as it cooks. In Scotland this is always served with a border of boiled rice, and oatmeal Is not Inevitable. You can omit it if you like. The rice, when ready, should be rather grainy and dry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Minced Collops",
+  "usedSnapshot": "20220928164101"
+}

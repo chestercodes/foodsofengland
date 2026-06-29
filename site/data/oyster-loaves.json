@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616082311",
+  "finalPath": "oyster-loaves.html",
+  "heading": "Oyster Loaves",
+  "ingredients": [
+    "butter",
+    "mushroom",
+    "oysters"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oyster-loaves.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E173. To make OYSTER LOAVES.\u003C/b\u003E\u003Cbr\u003E\nTake half a dozen French loaves, rasp them and make a hole at the top, take out all the crumbs and fry them in butter till they be crisp; when your oysters are stewed, put them into your loaves, cover them up before the fire to keep hot whilst you want them; so serve them up.\u003Cbr\u003E\nThey are proper either for a side-dish or mid-dish.\u003Cbr\u003E\nYou may make cockle loaves or mushroom-loaves the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMushroom Loaves\u003C/b\u003E",
+      "relatedPageUrl": "mushroomloaves.htm",
+      "relationDescription": "See; "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Oyster Loaves",
+  "usedSnapshot": "20211207122809"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140212191853",
+  "finalPath": "durham-pot-pie.html",
+  "heading": "Durham Pot Pie",
+  "ingredients": [
+    "carrots",
+    "fat",
+    "flour",
+    "leeks",
+    "pastry",
+    "pepper",
+    "pudding",
+    "rabbit",
+    "salt",
+    "self-raising flour",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "durham-pot-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:info@foodsofengland.co.uk\u0022\u003E\u003Cb\u003Einfo@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDurham Rabbit Pot Pie\u003C/b\u003E\u003Cbr\u003E\nto make the pastry\u003Cbr\u003E\n2 cups (200 g) 7 oz self-raising flour\u003Cbr\u003E\n110 g (4 oz) shredded suet\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n8 tbsp water\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003Efor the filling\u003C/b\u003E\u003Cbr\u003E\nflour\u003Cbr\u003E\n1 large rabbit joint per person\u003Cbr\u003E\n2 oz (50 g) dripping (fat from roasted meat)\u003Cbr\u003E\n3 medium sized carrots\u003Cbr\u003E\n2 large leeks\u003Cbr\u003E\n\u003Cbr\u003E\nCook in 600 ml (1 pint) basin or an old-fashioned earthenware stew dish.\u003Cbr\u003E\n1. Make the suet crust pastry. mix the flour,salt and suet in a bowl, gently add water until the dough sticks together and not to the sides of the bowl.\u003Cbr\u003E\n2. Roll the rabbit pieces in seasoned flour and fry on all sides in the dripping.\u003Cbr\u003E\n3. Put the rabbit and sauce into a pudding basin.\u003Cbr\u003E\n4. Pour in 150 ml (1/4 pint) of water and mix with the scratchings in the bottom of the pan with a wooden spoon.\u003Cbr\u003E\n5. Peel and slice the carrots and prepare the leeks, cutting them in half lengthways and slicing them.\u003Cbr\u003E\n6. Roll out the pastry, attach a strip around the basin, then fit on the lid, sealing the edges well.\u003Cbr\u003E\n7. Cover with foil or greaseproof paper, leaving enough room for the pastry to rise.\u003Cbr\u003E\n8. Boil or steam for 3\u00BD hours.\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Durham Pot Pie",
+  "usedSnapshot": "20200808121234"
+}

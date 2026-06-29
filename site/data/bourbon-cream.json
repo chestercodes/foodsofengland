@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140428080624",
+  "finalPath": "bourbon-cream.html",
+  "heading": "Bourbon Cream",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bourbon Cream",
+  "usedSnapshot": "20211018073332"
+}

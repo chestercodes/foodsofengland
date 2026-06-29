@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922093525",
+  "finalPath": "pepper-cake.html",
+  "heading": "Pepper Cake",
+  "ingredients": [
+    "pepper",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pepper-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make pepper cakes.\u003C/b\u003E\u003Cbr\u003E\nTAKE half a gill of sack, half a quarter of an ounce of whole white pepper, put it in and boil it together a quarter of an hour, then take the pepper out, and put in as much double-refined sugar as will make it like a paste, then drop it in what shape your please on plates, and let it dry itself.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Pepper Cake",
+  "usedSnapshot": "20220819115719"
+}

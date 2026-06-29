@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140212015447",
+  "finalPath": "marlborough-pudding-pie.html",
+  "heading": "Marlborough Pudding-Pie",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "pudding",
+    "sugar",
+    "beat",
+    "cream",
+    "jam"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "marlborough-pudding-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EMarlborough Pudding\u003C/b\u003E\u003Cbr\u003E\n905. Put two ounces of candied-peel, shred fine, at the bottom of a dish, add six ounces of lump sugar pounded, six ounces of butter melted over the fire, with six yolks of eggs, taking care not to let the eggs boil, or they will curdle. Pour this hot over the peel. Line the dish with paste, and bake half an hour, or more, till it is solid. It requires a hot oven just at first, and then a rather slower heat.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "marlborough-pudding-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMARLBOROUGH PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1304. INGREDIENTS: \u00BC lb. of butter, \u00BC lb. of powdered lump sugar, 4 eggs, puff-paste, a layer of any kind of jam.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Beat the butter to a cream, stir in the powdered sugar, whisk the eggs, and add these to the other ingredients. When these are well mixed, line a dish with puff-paste, spread over a layer of any kind of jam that may be preferred, pour in the mixture, and bake the pudding for rather more than\u00BD hour.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: Rather more than\u00BD hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Marlborough Pudding-Pie",
+  "usedSnapshot": "20210510040207"
+}

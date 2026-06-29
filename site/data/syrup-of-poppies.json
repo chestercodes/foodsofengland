@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140521050326",
+  "finalPath": "syrup-of-poppies.html",
+  "heading": "Syrup of Poppies",
+  "ingredients": [
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "syrup-of-poppies.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E52. SYRRUP OF POPPIES.\u003C/b\u003E\u003Cbr\u003E\nTake two pounds of poppy flowers, two ounces of raisins, shred them, and to every pound of poppies put a quart of boiling water, half an ounce of sliced liquorice, and a quarter of an ounce of anniseeds; let these stand twelve hours to infuse, then strain off the liquor, and put it upon the same quantity of poppies, raisins, liquorice, and anniseeds as before, and let this stand twelve hours to infuse, which must be in a pitcher, set within a pot or pan of hot water; then strain it, and take the weight in sugar, and boil it to a syrrup: when it is cold, bottle it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Syrup of Poppies",
+  "usedSnapshot": "20211021020247"
+}

@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140212020930",
+  "finalPath": "cowslip-tart.html",
+  "heading": "Cowslip Tart",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "lady-1677"
+    }
+  ],
+  "title": "Cowslip Tart",
+  "usedSnapshot": "20220815161158"
+}

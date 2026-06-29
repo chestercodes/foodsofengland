@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922072637",
+  "finalPath": "bread-and-suet-dumplings.html",
+  "heading": "Bread and Suet Dumplings",
+  "ingredients": [
+    "bread",
+    "dumplings",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "salt",
+    "suet",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bread-and-suet-dumplings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EBread And Suet Dumplings.\u003C/b\u003E\u003Cbr\u003E\n957. Take half a pound of grated bread, half a pound of suet cut small, the juice and grated rind of a lemon, a quarter of a pound of moist sugar, and two eggs. Mix all together, and make it into five dumplings; boil them in cloths half an hour, and serve with sweet sauce in the dish.\u003Cbr\u003E\n\u003Cb\u003EAnother.-\u003C/b\u003E Take equal quantities of bread and suet, a little salt (some nutmeg or other spice), and a table-spoonful of white wine. Mix all well together, and roll them up; when the water boils throw them in, and let them boil for half an hour. Flour the hands well whilst rolling them. This quantity is for a penny loaf.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Bread and Suet Dumplings",
+  "usedSnapshot": "20220516210451"
+}

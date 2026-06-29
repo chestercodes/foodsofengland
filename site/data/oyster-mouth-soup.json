@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922081908",
+  "finalPath": "oyster-mouth-soup.html",
+  "heading": "Oyster Mouth Soup",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "flour",
+    "mutton",
+    "onions",
+    "oysters",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oyster-mouth-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "OYSTER MOUTH SOUP. Make a rich mutton broth, with two large onions, three blades of mace, and a little black pepper. When strained, pour it on a hundred and fifty oysters, without the beards, and a bit of butter rolled in flour. Simmer it gently a quarter of an hour, and serve up the soup.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Oyster Mouth Soup",
+  "usedSnapshot": "20220808004848"
+}

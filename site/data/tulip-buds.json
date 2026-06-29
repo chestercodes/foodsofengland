@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922084621",
+  "finalPath": "tulip-buds.html",
+  "heading": "Tulip Buds",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Tulip Buds",
+  "usedSnapshot": "20170314145956"
+}

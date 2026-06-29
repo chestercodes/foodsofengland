@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922091902",
+  "finalPath": "conference-pear.html",
+  "heading": "Conference Pear",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hertfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Conference Pear",
+  "usedSnapshot": "20220527225551"
+}

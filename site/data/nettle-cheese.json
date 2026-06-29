@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140616082610",
+  "finalPath": "nettle-cheese.html",
+  "heading": "Nettle Cheese",
+  "ingredients": [
+    "cheese",
+    "milk",
+    "nettles",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "nettle-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E32. To make a very good Cheese.\u003C/b\u003E Take a Pail full of Morning Milk and Stroakings, and set it together with two spoonfuls of Runnet, and cover it; when it is come, put it into the wheying-Cloth gently, and break it as little as you can; when the Whey is run clean from it, put it into the Vat, and turn it in the Evening, next morning take it out and salt it a little, and turn it twice a day upon a clean Board, and when it is a week old, lay it into some Nettles, and that will mellow it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003Enettles...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/nettles.html",
+      "relationDescription": "For other receipts, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "nettles..."
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Nettle Cheese",
+  "usedSnapshot": "20181218222328"
+}

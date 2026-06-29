@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922071810",
+  "finalPath": "piramidis-cream.html",
+  "heading": "Piramidis Cream",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "beef",
+    "cream",
+    "jelly",
+    "rose-water"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "piramidis-cream.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Piramidis Cream.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of water, and six ounces of harts horn, and put it into a Bottle with \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003EGum-dragon, and Gum-arabick,\u003C/b\u003E\u003C/a\u003E of each as much as a small Nut, put all this into the Bottle, which must be so big as will hold a pint more; for if it be full it will break; stop it very Close with a Cork, and tye a Cloth about it, put the Bottle into a pot of beef when it is boyling, and let it boyle three hours, then take as much Cream as there is Jelly, and halfe a pound of Almonds well beaten with Rose-water, so that you cannot discern what they be, mingle the Cream and the Almonds together, then strain it, and do so two or three times to get all you can out of the Almonds, then put jelly when it is cold into a silver Bason, and the Cream to it; sweeten it as you like, put in two or three grains of Musk and Amber-greece, set it over the fire, stirring it continually and skimming it, till it be seething hot, but let it not boyle, then put it into an old fashion drinking-Glasse, and let it stand till it is cold, and when you will use it, hold your Glass in a warm hand, and loosen it with a Knife, and whelm it into a Dish, and have in readinesse Pine Apple blown, and stick it all over, and serve it in with Cream or without as you please.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Piramidis Cream",
+  "usedSnapshot": "20211027041320"
+}

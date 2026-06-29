@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922084731",
+  "finalPath": "root-pudding.html",
+  "heading": "Root Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "dates",
+    "ginger",
+    "grapes",
+    "lamb",
+    "liver",
+    "mutton",
+    "pepper",
+    "pudding",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "root-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EHow to make a Pudding in a Turnep root.\u003C/b\u003E\u003Cbr\u003E\nTake your Turnep root, and wash it fair in warm water, and scrape it faire and make it hollow as you doo a Carret roote, and make your stuffe of grated bread, and Apples chopt fine, then take Corance, and hard Egs, and season it with Sugar Sinamon, and Ginger, and yolks of hard egs and so temper your stuffe, and put it into the Turnep, then take faire water, and set it on the fire, and let it boyle or ever you put in your Turneps, then put in a good peece of sweet Butter, and Claret Wine, and a little Vinagre, and Rosemarye, and whole Mace, Sugar, and Corance, and Dates quartered, and when they are boyled inough, then willl they be tender, then serve it in.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make a pudding in a Carret root.\u003C/b\u003E\u003Cbr\u003E\nTake your Carret root and scrape it fair, then take a fine knife and cut out all the meat that is within the roote, and make it hollow, then make your pudding stuffe of the liver of a gooce or of a Pig, with grated bread, Corance, Cloves and mace, Dates, Pepper, Salt and Sugar, chop your Liver very small, and perboile it ere you chop it, so doon, put it in your hollow root. As for the broth, take mutton broth with corance, carets sliste, salt, whole Mace, sweet Butter, Vergious and grated bread, and so serve it forth upon sippets.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EA Pudding in a Cowcumber.\u003C/b\u003E\u003Cbr\u003E\nTake your Cowcumber and cut out all the meat that is within it, then take a Liver of a Lamb or Pigge, and Grapes or Gooceberies, and grated bread, pepper, salt, Cloves and mace, and a little suet, and the yolkes of three Egs, and mingle altogither and put in the Cowcumber, and let your broth boile or ever you put it in: the broth must be made of Mutton broth, Vinagre, and Butter, strained bread, and Salt, and so serve it out.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Root Pudding",
+  "usedSnapshot": "20170313215832"
+}

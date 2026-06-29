@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922072452",
+  "finalPath": "bockings.html",
+  "heading": "Bockings",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "milk",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bockings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBockings.\u003C/b\u003E\u003Cbr\u003E\nMix six ounces of buck-wheat flour, with half a pint of warm milk and two spoonsfull of yeast, place it before the fire about an hour to let it rise; then mix eight eggs well beaten, and as much milk as will make the batter the usual thickness for pancakes; then fry them in the same manner.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Bockings",
+  "usedSnapshot": "20210510050803"
+}

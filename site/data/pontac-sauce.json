@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082712",
+  "finalPath": "pontac-sauce.html",
+  "heading": "Pontac Sauce",
+  "ingredients": [
+    "anchovies",
+    "bread",
+    "elderberries",
+    "ketchup",
+    "shalots",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pontac-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPONTAC KETCHUP FOR FISH.\u003C/b\u003E\u003Cbr\u003E\nPut ripe elderberries, picked from the stalk, into a stone jar, with as much strong vinegar as will cover them. Bake with the bread; and, while hot, strain. Boil the liquor with a sufficient quantity of cloves, mace, peppercorns and shalots, to give it a fine flavour. When that is obtained, put in half a pound of the finest anchovies to every quart of liquor: stir, and boil only until dissolved. When cold, put it into pint bottles, and tie double bladders over each cork. The same method should be observed for preserving all ketchups.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Pontac Sauce",
+  "usedSnapshot": "20170313203855"
+}

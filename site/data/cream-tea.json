@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20130322201442",
+  "finalPath": "cream-tea.html",
+  "heading": "Cream Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECream Splits\u003C/b\u003E",
+      "relatedPageUrl": "splits.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETiverton Chudleighs\u003C/b\u003E",
+      "relatedPageUrl": "tiverton-chudleighs.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Cream Tea",
+  "usedSnapshot": "20220706153801"
+}

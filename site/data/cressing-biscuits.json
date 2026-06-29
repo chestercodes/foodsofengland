@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20130808225714",
+  "finalPath": "cressing-biscuits.html",
+  "heading": "Cressing Biscuits",
+  "ingredients": [
+    "baking powder",
+    "biscuits",
+    "butter",
+    "cream",
+    "flour",
+    "golden syrup",
+    "icing sugar",
+    "lard",
+    "margarine",
+    "oats",
+    "sugar",
+    "vanilla",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cressing-biscuits.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.essextouristguide.com/Favourite_Essex_Recipes.asp\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECressing Biscuits -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 4 oz. flour, 3 oz. sugar, 2 oz. margarine, 2 oz. lard, 1 cup rolled oats,\u00BD teaspoon bicarbonate of soda, 1 teaspoon baking powder, 1 teaspoon hot water, 1 teaspoon golden syrup\u003Cbr\u003E\nButter Cream: 5 oz. icing sugar, 3 oz. margarine, vanilla essence\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00BAF or Mark 4. In a bowl cream together the margarine, lard and sugar. Sift the flour together with the bicarbonate of soda and the baking powder and mix into the creamed mixture, together with the oats, syrup and hot water. Form into 24 walnut size balls and cook, well spaced, on a greased baking sheet for 10-15 minutes. Transfer to a wire rack to cool. Make up the butter cream by beating together the icing sugar, margarine and a little vanilla essence and use to sandwich the biscuits when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Cressing Biscuits",
+  "usedSnapshot": "20210510055908"
+}

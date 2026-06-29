@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140306122000",
+  "finalPath": "mother-s-day-cake.html",
+  "heading": "Mother\u0027s Day Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u0026nbsp;\u0026nbsp;\u0026nbsp; Dates for the Diary",
+      "relatedPageUrl": "diary.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bury Simnel Cake",
+      "relatedPageUrl": "bury-simnel-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fig Pie",
+      "relatedPageUrl": "fig-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Frumenty or Furmety",
+      "relatedPageUrl": "frumenty-or-furmety.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Mothering Buns",
+      "relatedPageUrl": "mothering-buns.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Mothering Sunday Wafers",
+      "relatedPageUrl": "mothering-sunday-wafers.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Shrewsbury Simnel Cake",
+      "relatedPageUrl": "shrewsbury-simnel-cake.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": "\u0027Mothering Cake\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Mother\u0027s Day Cake",
+  "usedSnapshot": "20211205163542"
+}

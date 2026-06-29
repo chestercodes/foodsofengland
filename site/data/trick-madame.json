@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922072120",
+  "finalPath": "trick-madame.html",
+  "heading": "Trick-Madame",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "trick-madame.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E69. Trick-Madame, sedum minus, stone-Crop;\u003C/b\u003E is cooling and moist, grateful to the stomach. The Cimata and Tops, when young and tender, dress\u0027d as \u003Ca href=\u0022purslane.html\u0022\u003E\u003Cb\u003EPurselane,\u003C/b\u003E\u003C/a\u003E is a frequent Ingredient in our cold sallet.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Trick-Madame",
+  "usedSnapshot": "20211021012435"
+}

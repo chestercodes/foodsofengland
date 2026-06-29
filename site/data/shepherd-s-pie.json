@@ -1,0 +1,78 @@
+﻿{
+  "earliestSnapshot": "20130324051356",
+  "finalPath": "shepherd-s-pie.html",
+  "heading": "Shepherd\u0027s Pie",
+  "ingredients": [
+    "ketchup",
+    "mushroom",
+    "pepper",
+    "potatoes",
+    "salt",
+    "flour",
+    "gravy",
+    "parsley",
+    "onion"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "shepherd-s-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003E\u0027Practice of Cookery and Pastry\u003C/i\u003E\u0027 by Mrs I Williamson, 1854;",
+      "receiptText": "\u003Cb\u003EShepherd\u0027s Pie\u003C/b\u003E Take cold dressed meat of any kind roast or boiled. Slice it, break the bones, and put them on with a little boiling water and a little salt. Boil them until you have extracted all the strength from them and reduced it to very little and strain it. Season the sliced meat with pepper and salt lay it in a baking dish and pour in the sauce you strained. Add a little mushroom ketchup. Have some potatoes boiled and nicely mashed cover the dish with the potatoes smooth it on the top with a knife notch it round the edge and mark it on the top the same as paste. Bake it in an oven or before the fire until the potatoes are a nice brown\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "shepherd-s-pie.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ESheffield Independent\u003C/i\u003E\u0027 - Saturday 04 March 1882, p13",
+      "receiptText": "\u003Cb\u003EShepherd\u0027s Pie. -\u003C/b\u003E Chop fine about a pound of cold meat, add salt, pepper, parsley, and any other seasoning that may be liked; put it in a pie dish and pour over it some good gravy, sufficient to cover the meat; boil about two pounds of potatoes, mash them and put them over the meat nicely smoothed, a few bits of dripping stuck on top and a little flour; bake in the oven, or in front of the fire until nicely brown.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "shepherd-s-pie.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 03 January 1947, p5",
+      "receiptText": "SHEPHERD\u0027S PIE. Mince any meat you may have left over from yesterday\u0027s dinner; mash some potatoes, and cover the meat with these. Then add slices of onion and uncooked potatoes, season to taste with nepper and salt, and brown the oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECumberland Pie\u003C/b\u003E",
+      "relatedPageUrl": "cumberland-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESaunders\u003C/b\u003E",
+      "relatedPageUrl": "saunders-or-sanders.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETable Potato Pasty\u003C/b\u003E",
+      "relatedPageUrl": "potatopastyacton.htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECottage Pie\u003C/b\u003E",
+      "relatedPageUrl": "cottage-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGloucestershire Pie\u003C/b\u003E",
+      "relatedPageUrl": "gloucestershire-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Shepherd\u0027s Pie",
+  "usedSnapshot": "20211018070411"
+}

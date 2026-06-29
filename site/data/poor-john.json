@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082321",
+  "finalPath": "poor-john.html",
+  "heading": "Poor John",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Poor John",
+  "usedSnapshot": "20211201002237"
+}

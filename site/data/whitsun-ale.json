@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922084820",
+  "finalPath": "whitsun-ale.html",
+  "heading": "Whitsun Ale",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EChurch-Ale, Parish Ale\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whitsun Ale",
+  "usedSnapshot": "20220516221547"
+}

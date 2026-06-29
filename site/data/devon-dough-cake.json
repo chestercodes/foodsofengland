@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140623140038",
+  "finalPath": "devon-dough-cake.html",
+  "heading": "Devon Dough Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dorset Dough Cake",
+      "relatedPageUrl": "dorset-dough-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Devon Dough Cake",
+  "usedSnapshot": "20211018074513"
+}

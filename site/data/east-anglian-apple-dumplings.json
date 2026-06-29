@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922072211",
+  "finalPath": "east-anglian-apple-dumplings.html",
+  "heading": "East Anglian Apple Dumplings",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cobs",
+      "relatedPageUrl": "apple-cobs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "East Anglian Apple Dumplings",
+      "relatedPageUrl": "east-anglian-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Hereford Apple Dumplings",
+      "relatedPageUrl": "hereford-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stilton Pears",
+      "relatedPageUrl": "stilton-pears.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "East Anglia"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "East Anglian Apple Dumplings",
+  "usedSnapshot": "20211021011352"
+}

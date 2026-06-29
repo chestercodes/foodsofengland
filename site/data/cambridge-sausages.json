@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140125041211",
+  "finalPath": "cambridge-sausages.html",
+  "heading": "Cambridge Sausages",
+  "ingredients": [
+    "beat",
+    "beef",
+    "eggs",
+    "pepper",
+    "pudding",
+    "salt",
+    "sausage meat",
+    "suet",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cambridge-sausages.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Domestic Service Guide to Housekeeping\u003C/i\u003E\u0027 1865",
+      "receiptText": "OXFORD AND CAMBRIDGE SAUSAGES\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EOxford Sausage Meat\u003C/b\u003E\u003Cbr\u003E\nTake a pound and a half of pig meat cut from the griskins without any skin, half a pound of veal and a pound and a half of beef suet. Mince meats separately in, mix them then a very finely with a dessert spoonful of dried and sifted powdered sage, pepper and salt to taste, then a beat together the yolks and whites of five eggs and beat well together with it The meats as much depends upon the mixing. This is a college receipt. At Oxford sausage meat is not publicly sold in any The substantial quantity Oxford sausages are not so choice in appearance as those at Cambridge but to some tastes they are better in flavor. The plainer dress better for breakfast. They keep good two or three days in a cold plane in summer nearly a week in winter, with care Sausages Cambridge or at all events, those made in London under that name are liable to burst in cooking. Pudding Sausage is made of Cambridge sausage meat seasoned and put into a basin paste and boiled suet an hour and a half\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "law-s-manual"
+    }
+  ],
+  "title": "Cambridge Sausages",
+  "usedSnapshot": "20210512114722"
+}

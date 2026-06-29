@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140508110539",
+  "finalPath": "sunderland-gingerbread-nuts.html",
+  "heading": "Sunderland Gingerbread Nuts",
+  "ingredients": [
+    "allspice",
+    "butter",
+    "cayenne",
+    "coriander",
+    "coriander seeds",
+    "flour",
+    "ginger",
+    "lemon",
+    "nuts",
+    "pepper",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sunderland-gingerbread-nuts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESUNDERLAND GINGERBREAD NUTS.\u003C/b\u003E\u003Cbr\u003E\n(An Excellent Recipe.)\u003Cbr\u003E\n1761. INGREDIENTS: 1-3/4 lb. treacle, 1 lb. of moist sugar, 1 lb. of butter, 2-3/4 lbs. of flour, 1-\u00BD oz. of ground ginger, 1-\u00BD oz. of allspice, 1-\u00BD oz. of coriander seeds.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Let the allspice, coriander seeds, and ginger be freshly ground; put them into a basin, with the flour and sugar, and mix these ingredients well together; warm the treacle and butter together; then with a spoon work it into the flour, \u0026amp;c., until the whole forms a nice smooth paste. Drop the mixture from the spoon on to a piece of buttered paper, and bake in rather a slow oven from 20 minutes to\u00BD hour. A little candied lemon-peel mixed with the above is an improvement, and a great authority in culinary matters suggests the addition of a little cayenne pepper in gingerbread. Whether it be advisable to use this latter ingredient or not, we leave our readers to decide.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 20 minutes to\u00BD hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. to 1s. 4d. per lb.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Sunderland Gingerbread Nuts",
+  "usedSnapshot": "20210518205302"
+}

@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20150922082823",
+  "finalPath": "cony-with-a-pudding-in-his-belly.html",
+  "heading": "Cony with a Pudding in his Belly",
+  "ingredients": [
+    "bread",
+    "butter",
+    "dates",
+    "grapes",
+    "mutton",
+    "pudding",
+    "salt",
+    "spinage",
+    "suet",
+    "sugar",
+    "flour",
+    "gooseberries",
+    "lamb",
+    "lemon",
+    "pears",
+    "pepper",
+    "prunes",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cony-with-a-pudding-in-his-belly.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo boyle a Cony with a Pudding in his Belly.\u003C/b\u003E\u003Cbr\u003E\nTake your Cony and fley him, \u0026 leave on the eares and wash it faire, and take grated Bread, sweete Suet minced fiine, corance and some fine hearbs, Peneriall; winter savery; percely, Spinage or beets, sweet margeram, and chop your hearbs fine, and season it with Cloves, Mace and Sugar, a little creame and salt and yolks of Egs, and Dates minst fine. Then mingle all your stuf togither, and put it in your Rabets belly and sowe it up with a thred, for the broth take mutton broth when it is boyled a little, and put it in a pot wheras your Rabet may lye long waies in it, and let your broth boile or ever you put it in, then put in Gooceberies or els Grapes, corance and sweet Butter, Vergious, Salt, grated bread and Sugar a little, and when it is boyled, lay it in a dish with Sops. And so serve it in.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cony-with-a-pudding-in-his-belly.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E \u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo bake a Hare with a Pudding in his belly.\u003C/b\u003E\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022maypudbelly.jpg\u0022\u003E\u003Cimg src=\u0022500-maypudbelly.jpg\u0022 width=\u0022441\u0022 height=\u0022240\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\nFor to make this pie you must take as followeth, a gallon of flour, half an ounce of nutmegs, half an ounce of pepper, salt, capers, raisins, pears in quarters, prunes, with grapes, lemon, or gooseberries, and for the liquor a pound of sugar, a pint of claret or verjuyce, and some large mace.\u003Cbr\u003E\nThus also you may bake a fawn, kid, lamb, or rabit: Make your Hare-Pie according to the foregoing form.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EHare with a Pudding in his Belly\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Cony with a Pudding in his Belly",
+  "usedSnapshot": "20220819115311"
+}

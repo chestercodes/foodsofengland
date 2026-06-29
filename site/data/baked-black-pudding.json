@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140123190003",
+  "finalPath": "baked-black-pudding.html",
+  "heading": "Baked Black Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBlack Pudding Sausage\u003C/b\u003E",
+      "relatedPageUrl": "black-pudding-sausage.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EYorkshire Black Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Baked Black Pudding",
+  "usedSnapshot": "20210518193018"
+}

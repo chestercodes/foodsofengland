@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922083650",
+  "finalPath": "parsnip-and-carrot-soup.html",
+  "heading": "Parsnip and Carrot Soup",
+  "ingredients": [
+    "carrots",
+    "cumin",
+    "olive oil",
+    "onion",
+    "onions",
+    "parsnips",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "parsnip-and-carrot-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Parsnip%20and%20Carrot%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2 large parsnips, cubed\u003Cbr\u003E\n1 large onion, chopped\u003Cbr\u003E\n3 large carrots\u003Cbr\u003E\n1 tablespoon olive oil\u003Cbr\u003E\n2 pints vegetable stock\u003Cbr\u003E\n\u00BD teaspoon cumin\u003Cbr\u003E\n2 tablespoons natural yogurt\u003Cbr\u003E\nRecipe Instructions\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the olive oil in a large frying pan and sweat the onions for 10 minutes covered until they are soft. Add the carrots, the parsnips and the stock and simmer for 30 minutes covered.\u003Cbr\u003E\nRemove the soup from the stove and let it cool slightly. Place in a food processor and whizz up until smooth. Stir in the yoghurt and the cumin.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Parsnip and Carrot Soup",
+  "usedSnapshot": "20211027023640"
+}

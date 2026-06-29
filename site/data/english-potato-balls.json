@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922084056",
+  "finalPath": "english-potato-balls.html",
+  "heading": "English Potato Balls",
+  "ingredients": [
+    "bread",
+    "egg",
+    "flour",
+    "mashed potato",
+    "potato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "english-potato-balls.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPotato Balls.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMix mashed potato with the yolk of an egg, form them into balls, flour them, or egg and bread crumb them and fry them in clean dripping, or brown them in a Dutch oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Potato Croquettes",
+      "relatedPageUrl": "potato-rissoles.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "English Potato Balls",
+  "usedSnapshot": "20220819112907"
+}

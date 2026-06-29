@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212023857",
+  "finalPath": "lample-pie.html",
+  "heading": "Lample Pie",
+  "ingredients": [
+    "apple",
+    "egg",
+    "gravy",
+    "lamb",
+    "nutmeg",
+    "pastry",
+    "pepper",
+    "rosemary",
+    "salt",
+    "shortcrust pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lample-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lample%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E Reproduced from the Parish Magazine of St Oswald\u2019s, Worleston and St David\u2019s, Wettenhall, August 2013",
+      "receiptText": "\u003Cb\u003ERECIPE - LAMPLE PIE\u003C/b\u003E\u003Cbr\u003E\nA traditional lamb pie made often eaten on Lammas Day - the 1st August.\u003Cbr\u003E\n8 oz/225g shortcrust pastry\u003Cbr\u003E\n1 oz/25g dripping\u003Cbr\u003E\n1 lb/450g lean lamb, cut into small cubes\u0026nbsp;\u0026nbsp;\u0026nbsp;and dried on kitchen paper\u003Cbr\u003E\nhalf a nutmeg - grated\u003Cbr\u003E\n1 teaspoon rosemary\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n1/4 pint/150 ml brown stock\u003Cbr\u003E\n8 oz/225g cooking apples, peeled, cored and sliced\u003Cbr\u003E\nbeaten egg to glaze\u003Cbr\u003E\n\u003Cbr\u003E\nOven: 200C/400F/Gas 6\u003Cbr\u003E\n\u003Cbr\u003E\n* Roll out two thirds of the pastry and line a pie plate.\u003Cbr\u003E\n* Melt dripping in a frying pan and fry lamb until brown on all sides.\u003Cbr\u003E\n* Add nutmeg, rosemary and seasoning and stir in stock.\u003Cbr\u003E\n* Cook for 15-20 minutes. Leave to cool then drain.\u003Cbr\u003E\n* Put into the lined pie dish layers of the apple and the drained meat.\u003Cbr\u003E\n* Roll out remaining pastry to make lid to press on to the pie.\u003Cbr\u003E\n* Glaze with beaten egg.\u003Cbr\u003E\n* Bake for 25-30 minutes until golden brown.\u003Cbr\u003E\nUse any stock left over from cooking the meat to enrich the gravy\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lample Pie",
+  "usedSnapshot": "20211129115122"
+}

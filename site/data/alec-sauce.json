@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922071943",
+  "finalPath": "alec-sauce.html",
+  "heading": "Alec Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWorcester Sauce\u003C/b\u003E",
+      "relatedPageUrl": "worcester-or-worcestershire-sauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EAlecs\u003C/b\u003E",
+      "relatedPageUrl": "alecs.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Alec Sauce",
+  "usedSnapshot": "20211201011315"
+}

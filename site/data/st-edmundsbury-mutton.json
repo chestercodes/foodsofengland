@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20130323203710",
+  "finalPath": "st-edmundsbury-mutton.html",
+  "heading": "St Edmundsbury Mutton",
+  "ingredients": [
+    "basil",
+    "beat",
+    "bread",
+    "butter",
+    "eggs",
+    "lemon",
+    "mutton",
+    "nutmeg",
+    "orange",
+    "orange juice",
+    "oysters",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "st-edmundsbury-mutton.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Collar of Mutton roasted. From St. Edmund\u0027s-Bury in Suffolk.\u003C/b\u003E\u003Cbr\u003E\nTake a Coast of Mutton, which is the Neck and Breast together, skin it in the whole Piece; then parboil it, and prepare a Mixture of Crumbs of Bread; Lemon-Peel grated, a little Pepper, Salt, Nutmeg, or sweet Marjoram powder\u0027d, which answers the End of most Spices, or else a little dry\u0027d sweet Basil, which we call Bush-Basil, in the Gardens. To this, add the Yolks of six hard Eggs, beat in a Mortar, with six Ounces of Butter; mix this with the other Ingredients; then take the inside of the Mutton, and cover it with this Mixture, and roll it up as close as can be, and secure it in the Roll; so that it may be close for the Spit. It must be spitted through the Middle length-ways, and basted with Butter, salting it every now and then, and the Gratings of Crusts of Bred should be sprinkled upon it, with the seasoning above. Just before it is enough, when it is taken off the Spit, serve it with strong Gravey and Lemon or Orange Juice, and garnish with Lemon or Orange sliced; or when Oysters are in season, add fry\u0027d Oysters:.\u003Cbr\u003E\n\u003Cbr\u003E\n[For the receipt for the accompanying fried oysters, see \u003Ca href=\u0022fried-oysters.html\u0022\u003E\u003Cb\u003EFried Oysters\u003C/b\u003E\u003C/a\u003E]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "St Edmundsbury Mutton",
+  "usedSnapshot": "20220517180740"
+}

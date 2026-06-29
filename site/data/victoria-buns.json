@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922080701",
+  "finalPath": "victoria-buns.html",
+  "heading": "Victoria Buns",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "currants",
+    "egg",
+    "flour",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "victoria-buns.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EVICTORIA BUNS.\u003C/b\u003E\u003Cbr\u003E\n1732. INGREDIENTS: 2 oz. of pounded loaf sugar, 1 egg, 1-\u00BD oz. of ground rice, 2 oz. of butter, 1-\u00BD oz. of currants, a few thin slices of candied peel; flour.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Whisk the egg, stir in the sugar, and beat these ingredients well together; beat the butter to a cream, stir in the ground rice, currants, and candied peel, and as much flour as will make it of such a consistency that it may be rolled into 7 or 8 balls. Put these on to a buttered tin, and bake them from\u00BD to \u00BE hour. They should be put into the oven immediately, or they will become heavy; and the oven should be tolerably brisk.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E:\u00BD to \u00BE hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: to make 7 or 8 buns.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Victoria Buns",
+  "usedSnapshot": "20211207121510"
+}

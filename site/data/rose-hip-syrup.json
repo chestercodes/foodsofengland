@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922071759",
+  "finalPath": "rose-hip-syrup.html",
+  "heading": "Rose Hip Syrup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rose Hip Jelly",
+      "relatedPageUrl": "rose-hip-jelly.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rose Hip Syrup",
+      "relatedPageUrl": "rose-hip-syrup.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rosehip Tarte",
+      "relatedPageUrl": "rosehip-tarte.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rose Hip Syrup",
+  "usedSnapshot": "20220808015422"
+}

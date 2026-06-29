@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922093434",
+  "finalPath": "kidney-and-sausage-pot.html",
+  "heading": "Kidney and Sausage Pot",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Kidney and Sausage Pot",
+  "usedSnapshot": "20211205170243"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922084645",
+  "finalPath": "cheese-scones.html",
+  "heading": "Cheese Scones",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Scones",
+      "relatedPageUrl": "scones-2.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cheese Scones",
+  "usedSnapshot": "20220527224239"
+}

@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20130913113926",
+  "finalPath": "shropshire-apple-cake.html",
+  "heading": "Shropshire Apple Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cheese",
+      "relatedPageUrl": "apple-cheese.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Breadcrumb Apple Cake",
+      "relatedPageUrl": "breadcrumb-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cheese and Apple Cake",
+      "relatedPageUrl": "cheese-and-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Dorset Apple Cake",
+      "relatedPageUrl": "dorset-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shropshire Apple Cake",
+      "relatedPageUrl": "shropshire-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Somerset Apple Cake",
+      "relatedPageUrl": "somerset-apple-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Yorkshire Apple Cake",
+      "relatedPageUrl": "yorkshire-apple-cake.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shropshire Apple Cake",
+  "usedSnapshot": "20220819121016"
+}

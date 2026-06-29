@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140212023249",
+  "finalPath": "blackbird-pie.html",
+  "heading": "Blackbird Pie",
+  "ingredients": [
+    "butter",
+    "collops",
+    "eggs",
+    "gravy",
+    "milk",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "rump steak",
+    "salt",
+    "shalot",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blackbird-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDressed Game And Poultry \u00E0 La Mode\u003C/i\u003E\u0027 by Mrs De Salis, 1888",
+      "receiptText": "\u003Cb\u003EBlackbird Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nStuff the birds with the crumb of a French roll soaked in a little milk, which put in a stewpan with 1-1/2 ounces of butter, a chopped shalot, some parsley, pepper, salt, a grate of nutmeg, and the yolks of two small eggs. Stir over the fire till it becomes a thick paste, and fill the insides of the birds with it. Line the bottom of the pie-dish with fried collops of rump steak, and place the birds on them neatly. Add four hard-boiled yolks of eggs, and pour gravy all over, cover with puff paste, and bake for one hour and a quarter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECrow Pie\u003C/b\u003E",
+      "relatedPageUrl": "crows.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPalpatoon\u003C/b\u003E",
+      "relatedPageUrl": "palpatoon.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Blackbird Pie",
+  "usedSnapshot": "20210926073754"
+}

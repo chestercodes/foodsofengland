@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922081928",
+  "finalPath": "jannock-bread.html",
+  "heading": "Jannock Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheat",
+      "relatedPageUrl": "cheat.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Jannock Bread",
+      "relatedPageUrl": "jannock-bread.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Manchets",
+      "relatedPageUrl": "manchets.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Pandemain",
+      "relatedPageUrl": "pandemain.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Wastel Bread",
+      "relatedPageUrl": "wastel-bread.html",
+      "relationDescription": "For other traditional bread types, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northamptonshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Jannock Bread",
+  "usedSnapshot": "20200225060748"
+}

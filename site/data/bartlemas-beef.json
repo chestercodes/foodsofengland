@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20170314081358",
+  "finalPath": "bartlemas-beef.html",
+  "heading": "Bartlemas Beef",
+  "ingredients": [
+    "beef",
+    "bread",
+    "cinnamon",
+    "fat",
+    "ginger",
+    "mustard",
+    "nutmeg",
+    "salt",
+    "sugar",
+    "vinegar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bartlemas-beef.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cooks Guide, or, Rare Receipts for Cookery\u003C/i\u003E\u0027 (1664) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1664\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo Make Rare Bartlemas Beef\u003C/b\u003E\u003Cbr\u003E\nTake a fat Brisket piece of beef and bone it, put it into so much water as will cover it, shifting it three times a day for three dayes together, then put it into as much white wine and vinegar as will cover it, and when it hath lyen twenty-four hours take it out and drye it in a cloth, then take nutmeg, ginger, cinnamon, cloves and mace, of each a like quantity, beaten small and mingled with a good handful of salt, strew both sides of the Beef with this, and roul it up as you do Brawn, tye it as close as you can; then put it into an earthen pot, and cover it with some paste; set it in the Oven with household bread, and when it is cold, eat it with mustard and sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Bartlemas Beef",
+  "usedSnapshot": "20211201004200"
+}

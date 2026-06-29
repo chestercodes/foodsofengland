@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922090023",
+  "finalPath": "cockle-soup.html",
+  "heading": "Cockle Soup",
+  "ingredients": [
+    "anchovies",
+    "butter",
+    "fish stock",
+    "lemon",
+    "mushrooms",
+    "oysters",
+    "salt",
+    "soy"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cockle-soup.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EDomestic economy, and cookery, for rich and poor\u003C/i\u003E, by \u0027A Lady\u0027 (1827);",
+      "receiptText": "\u003Cb\u003EOyster, Cockle or Muscle Soup with Mushrooms\u003C/b\u003E\u003Cbr\u003E\nPrepare meat vegetable or fish stock and season it well without salt as the juice of the shell fish generally makes it salt enough. Boil the parings and stalks of the mushrooms in it where oysters cannot be afforded to be rubbed down for a thickening rub down the beards with some mushrooms and if necessary some white meat or fish and panada farce may also be made of the fish. If the oysters are very large they ought to be cut in two. Nothing is more vulgar than large mouthfuls and every thing in the soup should be nearly the same size. Rub the thickening through a tammy with a little of the soup. Every quart of soup will require half a pint of oysters more or less according to the size and the quantity of mushrooms used. Iif they are not ail buttons of the same size they ought to be cut and should be cooked white in butter or cooked slowly in the stock as they take a long time All fish soups may be heightened with ketchups anchovies lemon pickle soy \u0026amp;c\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Cockle Soup",
+  "usedSnapshot": "20220527212304"
+}

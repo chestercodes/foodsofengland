@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074448",
+  "finalPath": "suffolk-cakes.html",
+  "heading": "Suffolk Cakes",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "eggs",
+    "flour",
+    "lemon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-cakes.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESuffolk Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nVery light but rich-tasting little cakes, very quick and easy to make.\u003Cbr\u003E\n\u003Cbr\u003E\nThis recipe comes from a nineteenth century manuscript of recipes collected for her own use by a certain Mrs. Anstey, cook to several well-to-do families in Suffolk.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n110 Gram Butter (4 oz)\u003Cbr\u003E\n4 Eggs\u003Cbr\u003E\n225 Gram Caster sugar (8 oz)\u003Cbr\u003E\n1/2 Lemon, zest only\u003Cbr\u003E\n110 Gram Self raising flour (4 oz)\u003Cbr\u003E\nMethod\u003Cbr\u003E\nMakes about 14 cakes\u003Cbr\u003E\n\u003Cbr\u003E\nWarm the butter so that it is just liquid but not at all coloured. Separate the eggs and beat the whites until they just hold a peak.\u003Cbr\u003E\n\u003Cbr\u003E\nBeat the yolks, add the sugar and lemon zest and fold into the beaten whites. Beat in the butter and stir in the flour. Beat well and turn into greased bun tins or patty tins. Bake at 200 \u00B0C / 400 \u00B0F / Gas 6 for 10-15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Suffolk Cakes",
+  "usedSnapshot": "20211019175829"
+}

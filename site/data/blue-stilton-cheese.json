@@ -1,0 +1,106 @@
+﻿{
+  "earliestSnapshot": "20140616082658",
+  "finalPath": "blue-stilton-cheese.html",
+  "heading": "Blue Stilton Cheese",
+  "ingredients": [
+    "beat",
+    "cheese",
+    "cream",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blue-stilton-cheese.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003ERichard Bradley\u0027s\u003C/b\u003E\u003C/a\u003E \u0027\u003Ci\u003EA general treatise of husbandry \u0026 gardening\u003C/i\u003E\u0027 of 1726",
+      "receiptText": "Stilton is in \u003Ci\u003ELincolnshire\u003C/i\u003E in the Coach Road to \u003Ci\u003ELincoln\u003C/i\u003E from \u003Ci\u003ELondon\u003C/i\u003E where at the Sign of the Bell is much the best Cheese in Town the Man of that House keeping strictly to the old Receipt While others thereabouts seem to leave out a great part of the Cream which is the chief Ingredient but for all this the Name this sort of Cheese has got above others makes it sell for \u003Ci\u003E12d per Pound\u003C/i\u003E upon the Spot\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EReceipt to make Stilton Cheese\u003C/b\u003E\u003Cbr\u003E\nTAKE ten Gallons of Morning Milk and five Gallons of sweet Cream and beat them together then put in as much boiling Spring water as will make it warmer than Milk from the Cow when this is done put in Runnet made strong with large Mace and when it is come or the Milk is let in Curd break it as small as you would do for Cheese Cakes and after that salt it and put it into the vatt and press it for two Hours Then boil the Whey and when you have taken off the Curds put the Cheese into the Whey and let it stand half an Hour then put it in the Press and when you take it out bind it up for the first Fortnight in Linen Rollers and turn it upon Boards for the first Months twice a Day\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Belvoir Crumpets",
+      "relatedPageUrl": "belvoir-crumpets.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Creamed Broccoli Soup",
+      "relatedPageUrl": "creamed-broccoli-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Shropshire Blue",
+      "relatedPageUrl": "shropshire-blue-cheese.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stichelton Cheese",
+      "relatedPageUrl": "stichelton-cheese.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stilton and Celery Soup",
+      "relatedPageUrl": "stilton-and-celery-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stilton Mash",
+      "relatedPageUrl": "stilton-mash.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stilton Pears",
+      "relatedPageUrl": "stilton-pears.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stilton Soup",
+      "relatedPageUrl": "stilton-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stilton Steak",
+      "relatedPageUrl": "stilton-steak.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "White Stilton",
+      "relatedPageUrl": "white-stilton.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire-Stilton",
+      "relatedPageUrl": "yorkshire-stilton.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Huntingdonshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Blue Stilton Cheese",
+  "usedSnapshot": "20210310094817"
+}

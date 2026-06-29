@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084512",
+  "finalPath": "parsley-jelly.html",
+  "heading": "Parsley Jelly",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Parsley Jelly",
+  "usedSnapshot": "20211021020743"
+}

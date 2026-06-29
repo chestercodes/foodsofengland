@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922074639",
+  "finalPath": "sorrel-sauce.html",
+  "heading": "Sorrel Sauce",
+  "ingredients": [
+    "butter",
+    "cream",
+    "egg",
+    "flour",
+    "gravy",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sorrel-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECOMMON SORREL SAUCE.\u003C/b\u003E\u003Cbr\u003E\nStrip from the stalks and the large fibres, from one to a couple of quarts of freshly-gathered sorrel; wash it very clean, and put it into a well-tinned stewpan or saucepan (or into an enamelled one, which would be far better), without any water; add to it a small slice of good butter, some ppper and dt, and stew it gently, keeping it well stirred until it is exceedingly tender, that it may not bum; men. drain it on a sieve, or press the liquid well from it; chop it as fine aa possible, and boil it again for a few minutes with a spoonful or two of gravy, or the same quantity of cream or milk, mixed with a halfteaspoonful of flour, or with only a fresh slice of good butter. The beaten yolk of an egg or two stirred in iust as the sorrel is taken from the fire will soften the sauce greatly, and a saltspoonful of pounded sugar will also be an improvement\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWood Sorrel\u003C/b\u003E",
+      "relatedPageUrl": "wood-sorrel.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Sorrel Sauce",
+  "usedSnapshot": "20170313205653"
+}

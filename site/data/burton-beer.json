@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20130617185320",
+  "finalPath": "burton-beer.html",
+  "heading": "Burton Beer",
+  "ingredients": [
+    "ale",
+    "beer",
+    "hops",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "burton-beer.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Practical Brewer\u003C/i\u003E\u0027 by Marcus Lafayette Byrn, USA, 1852",
+      "receiptText": "\u003Cb\u003EBURTON ALE\u003C/b\u003E\u003Cbr\u003E\nFor this the richest malt is requisite such as will produce an extract of from eighty to eighty five pounds per quarter gravity Not more than one and a half or one and three quarter barrel of this luscious ale should be drawn from a quarter Heat of the first mash 180\u00B0 Second mash 190\u00B0 Third mash for return or table beer. Hops of very superior quality from six to eight pounds per quarter. Boil the first mash one hour and the second two hours pitch at 58\u00B0 with eighteen pounds of yeast to every ten barrels. Attenuation must be carried on till reduced to twenty pounds per barrel and the heat increased to 70\u00B0 and 75\u00B0. Then skim and cleanse\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Burton-on-Trent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Burton Beer",
+  "usedSnapshot": "20210510053339"
+}

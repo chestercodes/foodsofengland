@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20120426051434",
+  "finalPath": "shropshire-pudding.html",
+  "heading": "Shropshire Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Shropshire Pudding",
+  "usedSnapshot": "20211027025304"
+}

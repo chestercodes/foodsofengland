@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150601085827",
+  "finalPath": "sally-lunn-pudding.html",
+  "heading": "Sally Lunn Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "egg",
+    "milk",
+    "pudding",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sally-lunn-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EJennie June\u0027s American cookery book\u003C/i\u003E\u0027, New York, American News Co., 1866",
+      "receiptText": "\u003Cb\u003ESALLY LUNN PUDDING.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nScoop out a piece from the under side of a Sally Lunn cake without injuring the upper crust, and replace it. Put the cake into a basin that will just hold it, pour boiling milk over it, let it soak for three hours, and turn it out; mix one egg, well beaten, with a glass of white wine and a little spice and sugar, and having removed the piece previously cut out, stir in these ingredients, still taking care not to break the crust, and replace the piece. Butter the basin you boil it in, and if not full, fill it with bread and crumbs, and boil three quarters of an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sally Lunn Pudding",
+  "usedSnapshot": "20211021014104"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150513065906",
+  "finalPath": "rich-plum-cake.html",
+  "heading": "Rich Plum Cake",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "beat",
+    "brandy",
+    "butter",
+    "currants",
+    "eggs",
+    "lemon",
+    "orange",
+    "plum",
+    "raisins",
+    "sugar",
+    "allspice",
+    "castor sugar",
+    "cherries",
+    "cream",
+    "flour",
+    "salt",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rich-plum-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERich Plum Cake.\u003C/b\u003E\u003Cbr\u003E\nTake one pound of sifted sugar, one pound of fresh butter, and mix them with the hand in a earthen dish for a quarter of an hour. Then beat well ten yolks and five whites of eggs, put two thirds of them to the sugar and butter, and mix them together till it begins to be tough; after which add one pound and a half of currants washed and picked, a quarter of a pound of citron, a quarter of a pound of candied orange or lemon peel cut into slices, a quarter of a pound of jordan almonds blanched and bruised very fine. Then pound a quarter of a pound of muscadine raisins, put to them a gill of sweet wine and a spoonful of brandy, strain the liquor through a cloth to the mixture, add the rest of the eggs, and mix all together as light as possible.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rich-plum-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E820. RICH PLUM CAKE (Devonshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nEight ounces of fresh butter, eight ounces of castor sugar, eight ounces of mixed peel, eight ounces of dried cherries, three-quarters of a pound of flour, half a pound of sultanas, four ounces of almonds, a quarter of a pint of brandy, five eggs, half an ounce of allspice, half a teaspoonful of salt. Cream the butter and sugar. Sift in flour and salt; gradually add eggs one at a time and beat in well. Chop the cherries, the peel, and the almonds; add these with the sultanas and allspice; mix all well together. Add the brandy last, a little at a time. Be sure all is thoroughly mixed. Line a cake tin, putting three rounds of paper at the bottom. Bake three hours in a moderate oven. Don\u0027t let the heat rise after the cake has gone in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Rich Plum Cake",
+  "usedSnapshot": "20211021013606"
+}

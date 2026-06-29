@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140212020523",
+  "finalPath": "codlin-apple-tart.html",
+  "heading": "Codlin Apple Tart",
+  "ingredients": [
+    "custard",
+    "egg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "codlin-apple-tart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CODLIN TART. Scald the fruit, and take off the skin. Put a little of the liquor on the bottom of a dish, lay in the apples whole, and strew them over with Lisbon or fine sugar. When cold, put a paste round the edges, and over the fruit. Moisten the crust with the white of an egg, and strew some fine sugar over it; or cut the lid in quarters, without touching the paste on the edge of the dish. Remove the lid when cold, pour in a good custard, and sift it over with sugar. Another way is to line the bottom of a shallow dish with paste, lay in the scalded fruit, sweeten it, and lay little twists of paste over in bars.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Codlin Apple Tart",
+  "usedSnapshot": "20211019190958"
+}

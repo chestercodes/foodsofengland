@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150425023258",
+  "finalPath": "tipsy-kidneys.html",
+  "heading": "Tipsy Kidneys",
+  "ingredients": [
+    "beef",
+    "beer",
+    "fat",
+    "flour",
+    "kidneys",
+    "mushrooms",
+    "onions",
+    "sherry",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tipsy-kidneys.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Tipsy%20Kidneys\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ETipsy kidneys\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 lambs kidneys\u003Cbr\u003E\nquarter pint beer\u003Cbr\u003E\nquarter pint sherry\u003Cbr\u003E\n2 onions, sliced\u003Cbr\u003E\n1 oz fat for frying\u003Cbr\u003E\n2 tablespoons tomato puree\u003Cbr\u003E\n1/2 lb beef sausages\u003Cbr\u003E\n8 oz mushrooms\u003Cbr\u003E\nseasoning\u003Cbr\u003E\n1/2 oz flour\u003Cbr\u003E\nquarter pint stock\u003Cbr\u003E\n\u003Cbr\u003E\nClean and skin the kidneys, remove the core and slice the kidneys in half. Fry the onions in the fat until soft. Add the kidneys and sausages and fry for 3 minutes turning once. Remove and place in 3-pint casserole dish. Stir the flour into the hot fat and mix well with a wooden spoon. Add a little at a time the mixture of stock, beer, sherry and tomato puree. Season to taste and cook over a medium heat for a few minutes stirring constantly. Sprinkle the sliced mushrooms over the kidneys and pour on the sauce Cover and cook at gas mark 4, 350 F (180 C) for 1 \u00BD hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tipsy Kidneys",
+  "usedSnapshot": "20210518211714"
+}

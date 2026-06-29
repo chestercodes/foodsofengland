@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922092813",
+  "finalPath": "apple-and-rice-meringue.html",
+  "heading": "Apple and Rice Meringue",
+  "ingredients": [
+    "apple",
+    "caster sugar",
+    "egg",
+    "egg whites",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "pudding",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-and-rice-meringue.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Apple%20and%20Rice%20Meringue\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n50 Gram Pudding rice (2 oz)\u003Cbr\u003E\n150 Gram Caster sugar (5 oz)\u003Cbr\u003E\n600 ml Milk (1 pint)\u003Cbr\u003E\n450 Gram Cooking apples, peeled, cored \u0026 sliced (1 lb)\u003Cbr\u003E\n1 Tablespoon Lemon juice\u003Cbr\u003E\n2 Egg whites\u003Cbr\u003E\nAngelica, to decorate\u003Cbr\u003E\nMethod\u003Cbr\u003E\nPlace the rice, 25g (1 oz) sugar and the milk in a pan. Bring to the boil, cover and simmer gently for 30 minutes, or until thick and creamy, stirring occasionally.\u003Cbr\u003E\n\u003Cbr\u003E\nMeanwhile poach the apples with 2 tablespoons of water, lemon juice and 25g (1 oz) sugar, until just tender. Arrange the rice in an ovenproof dish, top with the drained apples.\u003Cbr\u003E\n\u003Cbr\u003E\nWhisk the egg whites until stiff then gradually whisk in the remaining sugar. Pipe or spoon the meringue over the apple. Decorate with angelica leaves and bake at 190 \u00B0C/ 375 \u00B0F/ Gas 5 for 10-15 minutes, until golden.\u003Cbr\u003E\n\u003Cbr\u003E\nYou could use tinned pie filling in place of the apples for a speedy dessert.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Apple and Rice Meringue",
+  "usedSnapshot": "20211027025405"
+}

@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922084708",
+  "finalPath": "chocolate-concrete.html",
+  "heading": "Chocolate Concrete",
+  "ingredients": [
+    "butter",
+    "chocolate",
+    "cocoa",
+    "custard",
+    "flour",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chocolate-concrete.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Chocolate%20Concrete\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECHOCOLATE CONCRETE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8oz Plain flour\u003Cbr\u003E\n2 oz cocoa (or drinking chocolate)\u003Cbr\u003E\n4 oz sugar\u003Cbr\u003E\n4 oz melted butter\u003Cbr\u003E\n\u003Cbr\u003E\nMix all dry ingredients together\u003Cbr\u003E\nAdd melted butter and mix together\u003Cbr\u003E\nPut into a 7\u0022 greased tin and cook - gas mark 3 for approx 45 mins.\u003Cbr\u003E\nTraditionaly served with Pink Custard\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EChocolate Crunch, Concrete Crunch\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chocolate Concrete",
+  "usedSnapshot": "20220815161453"
+}

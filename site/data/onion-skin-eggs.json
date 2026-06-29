@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20130323042750",
+  "finalPath": "onion-skin-eggs.html",
+  "heading": "Onion Skin Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEaster Eggs\u003C/b\u003E",
+      "relatedPageUrl": "easter-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EEaster\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/easter.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Easter"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Onion Skin Eggs",
+  "usedSnapshot": "20210512114322"
+}

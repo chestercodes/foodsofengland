@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150524221524",
+  "finalPath": "pea-soup.html",
+  "heading": "Pea Soup",
+  "ingredients": [
+    "peas",
+    "salt",
+    "sugur",
+    "asparagus",
+    "bacon",
+    "beat",
+    "beef",
+    "bread",
+    "butter",
+    "flour",
+    "gravy",
+    "mutton",
+    "onions",
+    "parsley",
+    "pepper",
+    "rice",
+    "spinage",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pea-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPERREY OF PESOUN\u003C/b\u003E [Perrey = Pulp, Pesoun = Peas]\u003Cbr\u003E\nTake pesoun and see\u00FE hem fast and covere hem til \u00FEei berst. \u00FEenne take up hem and cole hem thurgh a cloth. take oynouns and mynce hem and see\u00FE hem in the same sewe and oile \u00FEerwith, cast \u00FEerto sugur, salt and safroun, and see\u00FE hem wel \u00FEeratt \u00FEerafter and serue hem forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pea-soup.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E4. To make Green PEASE SOOP.\u003C/b\u003E\u003Cbr\u003E\nTake a neck of mutton, and a knuckle of veal, make of them a little good gravy; then take half a peck of the greenest young peas, boil and beat them to a pulp in a marble mortar; then put to them a little of the gravy; strain them through a hair sieve to take out all the pulp; put all together, with a little salt and whole pepper; then boil it a little, and if you think the soop not green enough, boil a handful of spinage very tender, rub it through a hair-sieve, and put into the soop with one spoonful of wheat-flour, to keep it from running: You must not let it boil after the spinage is put in, it will discolour it; then cut white bread in little diamonds, fry them in butter while crisp, and put it into a dish, with a few whole peas. Garnish your dish with creed rice, and red beet-root.\u003Cbr\u003E\nYou may make asparagus-soop the same way, only add tops of asparagus, instead of whole pease.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E6. Common PEASE SOOP in Winter.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of good boiling pease which put into a pot with a gallon of soft water whilst cold; add thereto a little beef or mutton, a little hung beef or bacon, and two or three large onions; boil all together while your soop is thick; salt it to your taste, and thicken it with a little wheat-flour; strain it thro\u0027 a cullender, boil a little sellery, cut it in small pieces, with a little crisp bread, and crisp a little spinage, as you would do parsley, then put it in a dish, and serve it up. Garnish your dish with raspings of bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pea and Ham Soup",
+      "relatedPageUrl": "pea-and-ham-soup.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Pea Soup",
+  "usedSnapshot": "20210518192719"
+}

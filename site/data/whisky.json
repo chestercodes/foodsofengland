@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130322034907",
+  "finalPath": "whisky.html",
+  "heading": "Whisky",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whisky",
+  "usedSnapshot": "20210512121204"
+}

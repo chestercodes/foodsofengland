@@ -1,0 +1,35 @@
+﻿{
+  "earliestSnapshot": "20140616090529",
+  "finalPath": "scalloped-crab.html",
+  "heading": "Scalloped Crab",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "crab",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "scalloped-crab.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Monday 18 May 1936",
+      "receiptText": "Scalloped crab makes an excellent supper dish. Take out the meat and put it into a saucepan with some melted butter, salt, pepper, vinegar, mace and a good tablespoon of breadcrumbs to each crab. Stew for about ten minutes, return to the shells and cover with breadcrumbs and small pieces of butter, Brown in a quick oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Scalloped Crab",
+  "usedSnapshot": "20211201010450"
+}

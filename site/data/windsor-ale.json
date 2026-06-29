@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922084451",
+  "finalPath": "windsor-ale.html",
+  "heading": "Windsor Ale",
+  "ingredients": [
+    "ale",
+    "hops",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "windsor-ale.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Practical Brewer\u003C/i\u003E\u0027 by Marcus Lafayette Byrn, USA, 1852",
+      "receiptText": "\u003Cb\u003EWINDSOR ALE\u003C/b\u003E\u003Cbr\u003E\nThis has been held in high estimation. The malt which is employed is ground twenty four or thirty six hours before it is used. The strength is about two and a half barrels per quarter. The mashes are heated on the following scale\u003Cbr\u003E\n\u003Ccenter\u003E1st 180deg; 2nd 190deg; 3rd 160deg\u003C/center\u003E\u003Cbr\u003E\nBoil the first wort briskly one hour and the second two hours. Pitch the tun at 55deg and skim when the head assumes a close yeasty appearance. Repeat the skimming until no yeast arises and the gravity will be reduced to about twelve or fourteen pounds per barrel. Then start it into a vat and add the hops; rouse them in until it is quite fine\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Windsor"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Windsor Ale",
+  "usedSnapshot": "20210510050048"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922082554",
+  "finalPath": "three-decker.html",
+  "heading": "Three Decker",
+  "ingredients": [
+    "butter",
+    "cream",
+    "custard",
+    "demerara sugar",
+    "flour",
+    "milk",
+    "pastry",
+    "plain flour",
+    "pudding",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "three-decker.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Three%20Decker\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWestmorland Three Decker Pudding\u003C/b\u003E\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n450g/1lb of peeled, cored and chopped apples\u003Cbr\u003E\n3tbs of sugar\u003Cbr\u003E\n1tbs of demerara sugar\u003Cbr\u003E\n150g/5oz plain flour\u003Cbr\u003E\n75kg/2oz butter\u003Cbr\u003E\n\u003Cbr\u003E\nMake up the shortcrust pastry, roll out and cut into four 15cm/6\u201D circles. Line a 15cm/6\u201D cake tin with foil and place one of the shortcrust circles at the bottom. Cover with a third of the apples and sugar. Repeat process twice more, then place the final circle of pastry over the top.\u003Cbr\u003E\n\u003Cbr\u003E\nBrush with milk and sprinkle with demerara sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nBake at Gas Mark 5 (190\u00BAC/275\u00BAF) for 50-60 minutes, turning down the heat if necessary.\u003Cbr\u003E\n\u003Cbr\u003E\nServe hot or cold with custard or cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EWestmorland Triple Decker\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westmorland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Three Decker",
+  "usedSnapshot": "20200116033940"
+}

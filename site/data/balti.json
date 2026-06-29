@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130322201406",
+  "finalPath": "balti.html",
+  "heading": "Balti",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Balti",
+  "usedSnapshot": "20210512115401"
+}

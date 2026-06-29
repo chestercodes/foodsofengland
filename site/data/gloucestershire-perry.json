@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922082421",
+  "finalPath": "gloucestershire-perry.html",
+  "heading": "Gloucestershire Perry",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gloucestershire Perry",
+  "usedSnapshot": "20211201034214"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922132719",
+  "finalPath": "chicken-galantine.html",
+  "heading": "Chicken Galantine",
+  "ingredients": [
+    "eggs",
+    "jelly",
+    "pepper",
+    "pork",
+    "salt",
+    "truffles",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chicken-galantine.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGalantine of Fowl.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients--1 fowl.\u003Cbr\u003E\n1 lb. of pork.\u003Cbr\u003E\n1 lb. of veal.\u003Cbr\u003E\nYolks of 3 hard-boiled eggs.\u003Cbr\u003E\n2 truffles.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod.--Bone the fowl, mince the pork and veal finely, and season with pepper and salt.\u003Cbr\u003E\nFill the fowl with the stuffing, placing in the yolks and truffles.\u003Cbr\u003E\nShape the fowl nicely, and fasten it securely in a cloth.\u003Cbr\u003E\nBoil it according to directions for boiling meat.\u003Cbr\u003E\nWhen cooked, remove the cloth and put in a clean one, fastening it as before.\u003Cbr\u003E\nPut it under pressure (not too much) until it is cold.\u003Cbr\u003E\nRemove the cloth, glaze it, and garnish with aspic jelly.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Chicken Galantine",
+  "usedSnapshot": "20211027041153"
+}

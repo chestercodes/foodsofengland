@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922132752",
+  "finalPath": "green-pea-and-cucumber-soup.html",
+  "heading": "Green Pea and Cucumber Soup",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "chicken stock",
+    "cream",
+    "cucumber",
+    "flour",
+    "lettuce",
+    "milk",
+    "mint",
+    "onions",
+    "parsley",
+    "peas",
+    "pepper",
+    "plain flour",
+    "salt",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-pea-and-cucumber-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Green%20Pea%20and%20Cucumber%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients\u003Cbr\u003E\n900 Gram Peas in their pods (2 lb)\u003Cbr\u003E\n1 Cucumber\u003Cbr\u003E\n1 Lettuce, Cos if possible\u003Cbr\u003E\n2 Onions\u003Cbr\u003E\n50 Gram Butter (2 oz)\u003Cbr\u003E\n2 Sprigs Mint\u003Cbr\u003E\n1.2 Litres Chicken stock, or vegetable stock (2 pints)\u003Cbr\u003E\nSalt and freshly ground pepper\u003Cbr\u003E\n25 Gram Plain flour (1 oz)\u003Cbr\u003E\n25 Gram Butter (1 oz)\u003Cbr\u003E\n150 ml Creamy milk ( \u00BC pint)\u003Cbr\u003E\n3 Tablespoon Cream\u003Cbr\u003E\nChopped parsley, to serve\u003Cbr\u003E\n\u003Cbr\u003E\nPreparation\u003Cbr\u003E\nShell the peas. Peel and slice the cucumber. Shred the lettuce - you can keep the inner heart for later sandwiches or salad. Chop the onions fairly finely.\u003Cbr\u003E\nMelt the butter in a large saucepan and soften the chopped onions for 5 minutes. Add the remaining vegetables and the mint and allow to wilt in the butter for about 5 minutes more before adding the stock. Season as necessary and simmer for 30 minutes.\u003Cbr\u003E\nRemove from the heat and sieve or liquidise when cool enough to do so and put aside in a bowl. You should now have a thinnish soup of a beautiful green. This can now wait while you cook the rest of the meal.\u003Cbr\u003E\nMelt the remaining butter, stir in the flour, then add the milk a little at a time to make a smooth sauce. Add all the soup, stir and heat through until it thickens very slightly. Serve hot or chilled with cream and chopped parsley floating on top.\u003Cbr\u003E\nIf fresh peas are hard to come by, frozen peas make a reasonable substitute (reduce the weight required).\u003Cbr\u003E\nFor a slightly grander soup, keep a few cooked peas and some thin slices of cucumber aside. Throw the peas into the soup at the end and fry the slices of cucumber, first dipped in flour, in a little butter, floating them on the soup like waterlily leaves at the last moment.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Green Pea and Cucumber Soup",
+  "usedSnapshot": "20210518200113"
+}

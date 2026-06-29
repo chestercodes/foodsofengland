@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922074818",
+  "finalPath": "barley-cream-soup.html",
+  "heading": "Barley Cream Soup",
+  "ingredients": [
+    "barley",
+    "butter",
+    "chicken",
+    "chicken stock",
+    "cream",
+    "double cream",
+    "milk",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barley-cream-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Barley%20Cream%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBarley Cream Soup\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 4 oz. pearl barley, 1\u00BE pints chicken stock, \u00BC pint milk, \u00BC pint double cream, salt and Pepper, 1 oz. butter, 2 teaspoons chopped parsley\u003Cbr\u003E\n\u003Cbr\u003E\nBlanch the barley by placing in a bowl and pouring on boiling water. Leave for 1 minute and then drain. Add the drained barley to the chicken stock in a saucepan and simmer for 2 hours. Liquidise the barley mixture and then add to it the milk, cream, salt and pepper, and the butter cut up into small pieces. Return to the saucepan, reheat and then serve sprinkled with the chopped parsley.\u003Cbr\u003E\nServes 6.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Almond Soup",
+      "relatedPageUrl": "almond-soup.html",
+      "relationDescription": "For other almond-based soups, see"
+    },
+    {
+      "relatedPageText": "Barley Cream Soup",
+      "relatedPageUrl": "barley-cream-soup.html",
+      "relationDescription": "For other almond-based soups, see"
+    },
+    {
+      "relatedPageText": "Soup Dorye",
+      "relatedPageUrl": "soup-dorye.html",
+      "relationDescription": "For other almond-based soups, see"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Barley Cream Soup",
+  "usedSnapshot": "20220808004638"
+}

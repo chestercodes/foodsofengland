@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922071548",
+  "finalPath": "bachelor-s-pudding.html",
+  "heading": "Bachelor\u0027s Pudding",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "currants",
+    "eggs",
+    "lemon",
+    "pudding",
+    "sugar",
+    "beat",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bachelor-s-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Country Gentleman\u003C/i\u003E magazine, 1854",
+      "receiptText": "\u003Cb\u003EA Bachelor\u0027s Pudding\u003C/b\u003E Four ounces of grated bread, the same of currants and apples, 2 ounces of sugar, three eggs, a little essence of lemon and ground cinnamon, boil it three hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bachelor-s-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA BACHELOR\u0027S PUDDING.\u003C/b\u003E\u003Cbr\u003E\nINGREDIENTS. - 4 oz. of grated bread, 4 oz. of currants, 4 oz. of apples, 2 oz. of sugar, 3 eggs, a few drops of essence of lemon, a little grated nutmeg.\u003Cbr\u003E\nMode. - Pare, core, and mince the apples very finely, sufficient, when minced, to make 4 oz.; add to these the currants, which should be well washed, the grated bread, and sugar; whisk the eggs, beat these up with the remaining ingredients, and, when all is thoroughly mixed, put the pudding into a buttered basin, tie it down with a cloth, and boil for 3 hours.\u003Cbr\u003E\nTime. 3 hours.\u003Cbr\u003E\nAverage cost, 9d.\u003Cbr\u003E\nSufficient for 4 or 5 persons.\u003Cbr\u003E\nSeasonable from August to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBatchelor\u0027s Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Bachelor\u0027s Pudding",
+  "usedSnapshot": "20211201034954"
+}

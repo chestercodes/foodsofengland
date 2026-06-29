@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212033526",
+  "finalPath": "lincolnshire-apple-pudding.html",
+  "heading": "Lincolnshire Apple Pudding",
+  "ingredients": [
+    "apple",
+    "butter",
+    "cinnamon",
+    "demerara sugar",
+    "egg",
+    "eggs",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "pastry",
+    "pudding",
+    "puff pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lincolnshire-apple-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ELincolnshire Life\u003C/i\u003E Spring, 1961",
+      "receiptText": "Traditional County Dishes\u003Cbr\u003E\n\u003Cb\u003ENo. 1 LINCOLNSHIRE APPLE PUDDING\u003C/b\u003E\u003Cbr\u003E\n9 apples\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\n\u00BD lemon\u003Cbr\u003E\nPuff pastry\u003Cbr\u003E\n2 ozs. demerara sugar\u003Cbr\u003E\n8 ozs. butter\u003Cbr\u003E\nPinch of cinnamon\u003Cbr\u003E\nCloves and nutmeg.\u003Cbr\u003E\n\u003Cbr\u003E\nPeel, core and slice the apples. Stew in a little water until soft, add cloves, cinnamon and nutmeg. Pass through a sieve and mix in butter, beaten yolks of eggs, the white of one egg and the sugar; add lemon juice and mix well together. Line a pie dish with the puff pastry, decorate the edges and pour in the mixture. Bake in a moderate oven for 20 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lincolnshire Apple Pudding",
+  "usedSnapshot": "20200224054246"
+}

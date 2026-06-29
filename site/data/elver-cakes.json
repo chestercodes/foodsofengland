@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140616082139",
+  "finalPath": "elver-cakes.html",
+  "heading": "Elver Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Keynsham Cakes",
+      "relatedPageUrl": "keynsham-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Elver Cakes",
+  "usedSnapshot": "20211130235306"
+}

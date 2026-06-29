@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808232401",
+  "finalPath": "marygold-tea.html",
+  "heading": "Marygold Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Marygold Tea",
+  "usedSnapshot": "20220527064024"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616085209",
+  "finalPath": "yorkshire-buck-or-rarebit.html",
+  "heading": "Yorkshire Buck or Rarebit",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rarebit",
+      "relatedPageUrl": "rarebit(orrabbit).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Yorkshire Buck or Rarebit",
+  "usedSnapshot": "20211130232737"
+}

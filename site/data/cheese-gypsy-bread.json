@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20130808222638",
+  "finalPath": "cheese-gypsy-bread.html",
+  "heading": "Cheese Gypsy Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cheese Gypsy Bread",
+  "usedSnapshot": "20211019184324"
+}

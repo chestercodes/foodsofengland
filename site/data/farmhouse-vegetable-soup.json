@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073502",
+  "finalPath": "farmhouse-vegetable-soup.html",
+  "heading": "Farmhouse Vegetable Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Farmhouse Vegetable Soup",
+  "usedSnapshot": "20220808003428"
+}

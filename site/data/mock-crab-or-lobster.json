@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20140616081020",
+  "finalPath": "mock-crab-or-lobster.html",
+  "heading": "Mock Crab or Lobster",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "crab",
+    "lamb",
+    "lemon",
+    "lemon juice",
+    "liver",
+    "lobster",
+    "lobsters",
+    "pepper",
+    "prawns",
+    "salt",
+    "sheep",
+    "shrimps",
+    "white wine",
+    "cheddar",
+    "cheese",
+    "curry",
+    "egg",
+    "eggs",
+    "ketchup",
+    "mushroom",
+    "mustard",
+    "tomatoes",
+    "toast",
+    "vinegar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "mock-crab-or-lobster.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make an artificial Crab or Lobster. From Mr. F. of Buckingham\u003C/b\u003E.\u003Cbr\u003E\nI Suppose you have by you the large Shells of Sea-Crabs clean\u0027d; then take part of a Calf\u0027s Liver, boil it and mince it very small, and a little Anchovy Liquor, and but very little, to give it the Fish-taste. Mix it well with a little Lemon Juice, some Pepper, and some Salt, with a little Oil, if you like it, and fill the Shells with it; and then the outside Parts of the Liver, being a little hard, will feel to the Mouth like the Claws of the Crab broken and pick\u0027d, and the inner Parts will be soft and tender, like the Body of a Crab. One may serve this cold, and it will deceive a good Judge, if you do not put too much of the Anchovy Liquor into it. It is very good cold; but if you would have it hot, take the following Receipt.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make artificial hot butter\u0027d Sea-Crabs.\u003C/b\u003E\u003Cbr\u003E\nHave the great Shells of Crabs clean, and prepare some Liver, as before; or it you cannot get Calf\u0027s Liver, get a Lamb\u0027s Liver, or a young Sheep\u0027s Liver will do tolerably well. Boil these, and shred them as directed before, and put a little Anchovy Liquor to them; then add a little White Wine, some Pepper and Salt at pleasure, and some other Spice at discretion, with Butter necessary to make it mellow, over a gentle Fire, or a little Sallet Oil, if you like Oil. Then add a little Lemon Juice in the Shells, stirring the Mixture together. Then serve them up hot with Lemon sliced.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make artificial Lobsters.\u003C/b\u003E\u003Cbr\u003E\nPractise the same Method with either of the former; and to imitate the Tail of the Lobster, put in the Tails of Shrimps, Buntings, Prawns or Cray-fish; the last cut in pieces, and serve them either upon Sippets in a Plate, or in the large Shell of the Lobster.\u003Cbr\u003E\n\u003Cbr\u003E\nN.B. This is a sort of \u003Ca href=\u0022solomon-gundy.html\u0022\u003E\u003Cb\u003ESalmy, or Salmy-Gundy\u003C/b\u003E\u003C/a\u003E, as they call it in England; but is very much like the Thing we want: and I think, if the Shrimps, or others, were put into the first, it would make it better than putting in the Anchovy Liquor; but if they are to imitate a Crab, they must, ( i.e. the Shrimps or Prawns) be chopt very small.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-crab-or-lobster.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EReform Cookery Book\u003C/i\u003E\u0027 (4th edition) by Mrs. Mill (\u003Ca href=\u0022references.html#mill-1909\u0022\u003E\u003Cb\u003EMill 1909\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMock Crab\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nRemove skin and seeds from \u00BD lb. firm, ripe tomatoes, and cut small; grate 4 ozs. rich, well-flavoured Cheddar cheese. Add to tomatoes in basin with teaspoonful made mustard, yolks of 3 hard-boiled eggs, large spoonful mushroom ketchup, a little extract, and a very little curry powder or paste. Pound all together with back of a wooden spoon till quite smooth. Serve in scallop shells, garnished with the white of egg.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-crab-or-lobster.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E350. MOCK CRAB TOAST (Derbyshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPound two ounces of cheese with a dessertspoonful of anchovy sauce, the same of made mustard, the same of vinegar, a pinch of Nepaul pepper, and a little salt, the yolk of an egg, and a tablespoonful of butter. Mix thoroughly in a basin and then spread on buttered toast; put it in the oven and bake for about ten minutes. Serve piping hot\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Mock Crab or Lobster",
+  "usedSnapshot": "20211019185341"
+}

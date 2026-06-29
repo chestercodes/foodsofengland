@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922082916",
+  "finalPath": "kipper-chowder.html",
+  "heading": "Kipper Chowder",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Kipper Chowder",
+  "usedSnapshot": "20220808021708"
+}

@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130323203725",
+  "finalPath": "tuskyn.html",
+  "heading": "Tuskyn",
+  "ingredients": [
+    "flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tuskyn.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFor Tuskyn.\u003C/b\u003E\u003Cbr\u003E\nTake raw porke and hew it smalle,\u003Cbr\u003E\nAnd grynde in a morter; temper it thou schalle\u003Cbr\u003E\nWith swongen egges, but not to thynne;\u003Cbr\u003E\nIn gryndynge, put powder of peper withinne,\u003Cbr\u003E\nthen this flessh take up in thy honde,\u003Cbr\u003E\nAnd rolle it on balles, I undurstonde,\u003Cbr\u003E\nIn gretnes of crabbes; I harde say\u003Cbr\u003E\nIn boylande water thou kast hom may.\u003Cbr\u003E\nTo harden then take hom oute to cole,\u003Cbr\u003E\nAnd play fresshe brothe fayre and well;\u003Cbr\u003E\nthere in cast persoley, ysope, saveray,\u003Cbr\u003E\nthat smalle is hakked by any way.\u003Cbr\u003E\nAlye it with flour or brede for thy,\u003Cbr\u003E\nColoure it with safroun for the maystre;\u003Cbr\u003E\nCast powder of peper and clawes there to,\u003Cbr\u003E\nAnd take thy balles or thou more do,\u003Cbr\u003E\nAnd put there in; boyle alle in fere\u003Cbr\u003E\nAnd serve it forthe for tuskyne dere.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Tuskyn",
+  "usedSnapshot": "20211018064106"
+}

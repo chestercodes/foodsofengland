@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073121",
+  "finalPath": "cider-baked-pears.html",
+  "heading": "Cider Baked Pears",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Cider Baked Pears",
+  "usedSnapshot": "20211027030037"
+}

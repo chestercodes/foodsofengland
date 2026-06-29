@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130809001702",
+  "finalPath": "elderberry-tart.html",
+  "heading": "Elderberry Tart",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Elderberry Tart",
+  "usedSnapshot": "20211019173919"
+}

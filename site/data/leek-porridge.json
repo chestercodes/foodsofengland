@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20231201031741",
+  "finalPath": "leek-porridge.html",
+  "heading": "Leek Porridge",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leek-porridge.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Lady\u2019s Own Cookery Book, and New Dinner-Table Directory\u003C/i\u003E\u0027 of 1844 \u003Cb\u003ELeek Porridge.\u003C/b\u003E Peel twelve leeks; boil them in water till tender; take them out and put them into a quart of new milk; boil them well; thicken up with oatmeal, and add salt according to the taste.",
+      "receiptText": ""
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ELeek Milk\u003C/b\u003E",
+      "relatedPageUrl": "leek-milk.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Leek Porridge",
+  "usedSnapshot": "20231201031741"
+}

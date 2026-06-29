@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212191827",
+  "finalPath": "ashover-tart.html",
+  "heading": "Ashover Tart",
+  "ingredients": [
+    "butter",
+    "currants",
+    "eggs",
+    "flan",
+    "pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ashover-tart.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EOld Derbyshire Desserts: The Traditional Cakes, Puddings and Biscuits from Rural Derbyshire\u003C/i\u003E\u0027 by John Dunstan",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n3 eggs\u003Cbr\u003E\n4oz candied peel\u003Cbr\u003E\n4oz butter\u003Cbr\u003E\n6oz sugar\u003Cbr\u003E\n4oz currants\u003Cbr\u003E\nshort crust pastry\u003Cbr\u003E\n\u003Cbr\u003E\nPre heat the oven to 350F\u003Cbr\u003E\nHard boil and mash the eggs, adding them and the other ingredients to warm butter. Mix well, line a flan tin with the pastry and fill with the mixture. bake until firm, about half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EAshover Moorland Tart\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Ashover Tart",
+  "usedSnapshot": "20211205173731"
+}

@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922072635",
+  "finalPath": "badminton-cup.html",
+  "heading": "Badminton Cup",
+  "ingredients": [
+    "cucumber",
+    "herbs",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "badminton-cup.html-1",
+      "receiptSource": "Original Receipt from \u0027The Cook\u0027s Guide, and Housekeeper\u0027s \u0026 Butler\u0027s Assistant: A Practical Treatise on English and Foreign Cookery (1867) \u003Ca href=\u0022references.html#francatelli-1867\u0022\u003E\u003Cb\u003EFrancatelli 1867\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBADMINTON CUP\u003C/b\u003E\u003Cbr\u003E\nIngredients: One bottle of red Burgundy, one quart of German Seltzer water, the rind of one orange, the juice of two, a wine glass of Curacao, a bunch of balm, ditto of borrage, a sprig of verbina, one ounce of bruised sugar-candy, a few slices of cucumber.\u003Cbr\u003E\nProcess: Place these ingredients in a covered jug imbedded in rough ice for about an hour previously to its being required for use, and afterwards decanter the cup free from the herbs \u0026amp;c\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1867"
+    }
+  ],
+  "title": "Badminton Cup",
+  "usedSnapshot": "20220808015646"
+}

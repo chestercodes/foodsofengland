@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OldSiteParser.Tests/OldSiteParser.Tests.fsproj" />
+  <Project Path="OldSiteParser/OldSiteParser.fsproj" />
+</Solution>

@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140508102656",
+  "finalPath": "buttermere-biscuits.html",
+  "heading": "Buttermere Biscuits",
+  "ingredients": [
+    "baking powder",
+    "biscuit",
+    "biscuits",
+    "breadcrumbs",
+    "butter",
+    "caster sugar",
+    "cinnamon",
+    "currants",
+    "egg",
+    "flour",
+    "lemon",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "buttermere-biscuits.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Buttermere%20Biscuits\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Buttermere Biscuits\u003Cbr\u003E\n\u003Cbr\u003E\nCinnamon flavoured shortcake biscuits laced with currants, from the Lake District.\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz. flour\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n4 oz. butter\u003Cbr\u003E\n4 oz. caster sugar\u003Cbr\u003E\n1 large egg, beaten\u003Cbr\u003E\n11/2 oz. currants\u003Cbr\u003E\nGrated rind of 1 lemon\u003Cbr\u003E\n1/2 level teaspoon baking powder\u003Cbr\u003E\nPinch of ground cinnamon\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00B0F or Mark 4. Grease baking sheets. Sieve the flour and salt into a mixing bowl. Rub the butter into the flour until it resembles fine breadcrumbs. Add the sugar, currants, lemon rind, baking powder and cinnamon. Bind with the beaten egg and knead the mixture lightly. Roll out to \u00BC inch thickness on a lightly floured surface and cut with a 2 inch fluted biscuit cutter. Place on the baking sheets and bake for 15-20 minutes until pale brown. Cool on a wire rack. Makes about 30 biscuits.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFruit Shortcake\u003C/b\u003E",
+      "relatedPageUrl": "fruit-shortcake-biscuit.html",
+      "relationDescription": "For similar biscuits, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Buttermere Biscuits",
+  "usedSnapshot": "20220706170230"
+}

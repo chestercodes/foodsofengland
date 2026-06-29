@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922082428",
+  "finalPath": "treacle-toffee.html",
+  "heading": "Treacle Toffee",
+  "ingredients": [
+    "brown sugar",
+    "butter",
+    "sugar",
+    "toffee",
+    "treacle",
+    "black treacle",
+    "golden syrup",
+    "unsalted butter",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "treacle-toffee.html-1",
+      "receiptSource": "Original Receipt from Burnley Express - Saturday 05 December 1936",
+      "receiptText": "\u003Cb\u003ERECIPE FOR TREACLE TOFFEE\u003C/b\u003E\u003Cbr\u003E\n1/4 lb, black treadle, 6 oz. brown sugar, 1/4 lb, butter, 1/4 teacupful of water.\u003Cbr\u003E\nMethod - Put all into a pan, allow the butter; to melt and the sugar to dissolve well, stirring occasionally, until when a little is dropped into cold water it sets. Pour into- tin. \u2014Celia Rawson\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "treacle-toffee.html-2",
+      "receiptSource": "Original Receipt from the \u003Ca href=\u0022http://www.bbc.co.uk\u0022\u003E\u003Cb\u003EBBC Food Programme\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ETreacle Toffee, also known as Bonfire Toffee\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1lb brown sugar\u003Cbr\u003E\n\u00BC pint water\u003Cbr\u003E\n4ozs black treacle\u003Cbr\u003E\n4ozs golden syrup\u003Cbr\u003E\n1 tsp white wine vinegar\u003Cbr\u003E\n3ozs unsalted butter\u003Cbr\u003E\n\u003Cbr\u003E\nMakes one 8 inch square tin.\u003Cbr\u003E\n\u003Cbr\u003E\nFirst, grease your tin with a little unsalted butter, making sure that the corners are well greased. Place all the ingredients into a large non-reactive saucepan - stainless steel for preference. Heat over a medium flame until the butter has melted, and bring to a rolling boil - as fast as you can. Boil, covered for two minutes. Fill a jug with cold water and have next to you as you finish the toffee. Stirring regularly, maintain a fast boil to reduce the toffee. As it gets thicker, regularly - at minute intervals say - test dribbles of the mixture in your cold water - when it is ready, a dribble will harden and solidify instantly into a hard piece of toffee - remove the pan instantly from the heat, and place the bottom in a large bowl of water to arrest the cooking. Pour the toffee into your prepared tin and cool. Break into pieces before serving - this will keep only in an airtight tin.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Treacle Toffee",
+  "usedSnapshot": "20220808010207"
+}

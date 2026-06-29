@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140212020705",
+  "finalPath": "game-pie-hot.html",
+  "heading": "Game Pie (Hot)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Game Pie (Cold)",
+      "relatedPageUrl": "gamepie(Cold).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Game Pie (Hot)",
+  "usedSnapshot": "20211129115304"
+}

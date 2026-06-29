@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922132657",
+  "finalPath": "cumberland-hot-sauce.html",
+  "heading": "Cumberland Hot Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECumberland Sauce\u003C/b\u003E",
+      "relatedPageUrl": "cumberland-sauce.html",
+      "relationDescription": "See \u0027"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cumberland Hot Sauce",
+  "usedSnapshot": "20211207113346"
+}

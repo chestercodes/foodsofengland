@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922073919",
+  "finalPath": "pigeon-pudding.html",
+  "heading": "Pigeon Pudding",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "eggs",
+    "flour",
+    "milk",
+    "pigeon",
+    "pigeons",
+    "pudding",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pigeon-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E253. Pigeon Pudding.-\u003C/b\u003E Pluck, draw, and stuff two pigeons with the stuffing No. 464; then cut some large thin slices of beef, and some of the bacon; season well; roll the pigeons in the meat and bacon, lay them in the pudding; boil four eggs hard, cut them into quarters, and fill the cavities with them; mix a tea- spoonful of flour with half a pint of milk, or water, close up, and boil for one hour and a half, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Pigeon Pudding",
+  "usedSnapshot": "20210518194931"
+}

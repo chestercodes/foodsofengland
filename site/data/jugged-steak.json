@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922074025",
+  "finalPath": "jugged-steak.html",
+  "heading": "Jugged Steak",
+  "ingredients": [
+    "beat",
+    "flour",
+    "gravy",
+    "onion",
+    "onions",
+    "pepper",
+    "salt",
+    "steak"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "jugged-steak.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EShields Daily Gazette\u003C/i\u003E\u0027 - Saturday 28 May 1892",
+      "receiptText": "Jugged Steak.-Beat two pounds of steak with a rolling-pin, place the meat a jar in the oven, with enough stock thickened with flour to cover it; add an onion with the peel on, a few cloves, pepper and salt to taste bake it for four or five hours. When you dish the steak, pour the gravy over it through a sieve. The skin of onions colours whatever meat it is placed with, the knowledge of which saves much trouble in all dishes where it is not necessary to slice onions.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jugged-steak.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EBlackburn Standard\u003C/i\u003E\u0027 - Saturday 15 July 1899",
+      "receiptText": "\u003Cb\u003EJugged Steak.\u003C/b\u003E - Cut a piece of beefsteak into slices, roll them, and arrange them in a stone jar. Add two onions stuck with cloves, a of wine, pepper and salt to taste, and cover closely. Place the jar in a pan of boiling water, and let it sim- mer till the meet is tender. The meat tastes like jugged hare. Do not add any water in cooking\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Jugged Steak",
+  "usedSnapshot": "20211019181416"
+}

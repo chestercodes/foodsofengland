@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922074702",
+  "finalPath": "strawberry-vinegar.html",
+  "heading": "Strawberry Vinegar",
+  "ingredients": [
+    "jelly",
+    "strawberries",
+    "strawberry",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "strawberry-vinegar.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESTRAWBERRY VINEGAR, OF DELICIOUS FLAVOUR.\u003C/b\u003E\u003Cbr\u003E\nTake the stalks from the fruit which should be of a highly flavoured sort, quite ripe, fresh from the beds, and gathered in dry weather; weigh and put it into large glass jars, or wide-necked bottles, and to each pound pour about a pint and a half of fine pale white wine vinegar, which will answer the purpose better than the entirely colourless kind sold under the name of distilled vinegar, but which is often, we believe, merely pyroligneous acid greatly diluted.* Tie a thick paper over them, and let the strawberries remain from three to four days; then pour off the vinegar and empty them into a jelly- bag, or suspend them in a cloth, that all the liquid may drop from them without pressure; replace them with an equal weight of fresh fruit, pour the vinegar upon it, and three days afterwards repeat the same process, diminishing a little the proportion of strawberries, of which the flavour ought ultimately to overpower that of the vinegar.\u003Cbr\u003E\n\u003Cbr\u003E\n* For these fine acidulated fruit-syrups vinegar of the purest quality, but only of medium strength, is required.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Strawberry Vinegar",
+  "usedSnapshot": "20220517175925"
+}

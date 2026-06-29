@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20121024084458",
+  "finalPath": "smoking-bishop.html",
+  "heading": "Smoking Bishop",
+  "ingredients": [
+    "lemon",
+    "oranges",
+    "port wine",
+    "sherry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "smoking-bishop.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E996. BISHOP (Middlesex)\u003C/b\u003E\u003Cbr\u003E\nRoast four good-sized bitter oranges till they are of a pale brown colour, lay them in a tureen, and put over them half a pound of pounded loaf sugar, and three glasses of claret; place the cover on the tureen and let it stand till the next day. When required for use, put the tureen into a pan of boiling water, press the oranges with a spoon, and run the juice through a sieve; then boil the remainder of the bottle of claret, taking care that it does not bum; add it to the strained juice, and serve it warm in glasses. Port wine will answer the purpose as well as claret.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E997. BISHOP (Surrey)\u003C/b\u003E\u003Cbr\u003E\nStick twelve cloves into a lemon (not right through the rind) and put it in the oven for half an hour. Put a good-sized pinch of mixed spice into half a pint of water, and boil it. Boil separately one and a half pints of sherry, add the lemon and the spiced water to this, stand it in a very warm place for a few minutes. Take another lemon, rub two ounces of lump sugar on the rind, and squeeze out half of the juice; add these to the rest, and serve up very hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Smoking Bishop",
+  "usedSnapshot": "20210512122358"
+}

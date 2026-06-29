@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140125041317",
+  "finalPath": "sausage-dumplings.html",
+  "heading": "Sausage Dumplings",
+  "ingredients": [
+    "beef",
+    "dumplings",
+    "flour",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sausage-dumplings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 84. Sausage Dumplings.\u003C/b\u003E\u003Cbr\u003E\nMake one pound of flour and two ounces of dripping, or chopped suet, into a firm paste, by adding just enough water to enable you to knead the whole together. Divide this paste into twelve equal parts, roll each of these out sufficiently large to be able to fold up one of the beef sausages in it, wet the edge of the paste to fasten the sausage securely in it, and, as you finish off each sausage dumpling, drop it gently into a large enough saucepan, containing plenty of boiling water, and when the whole are finished, allow them to boil gently by the side of the fire for one hour, and then take up the dumplings with a spoon free from water, on to a dish, and eat them while they are hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESausage Rolls\u003C/b\u003E",
+      "relatedPageUrl": "sausage-rolls.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Sausage Dumplings",
+  "usedSnapshot": "20211027043016"
+}

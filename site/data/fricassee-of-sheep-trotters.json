@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922093314",
+  "finalPath": "fricassee-of-sheep-trotters.html",
+  "heading": "Fricassee of Sheep Trotters",
+  "ingredients": [
+    "barberries",
+    "bread",
+    "butter",
+    "cream",
+    "flour",
+    "herbs",
+    "horse-radish",
+    "lard",
+    "lemon",
+    "lemons",
+    "mushrooms",
+    "pepper",
+    "salt",
+    "shallot",
+    "sheeps",
+    "vinegar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fricassee-of-sheep-trotters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Fricassee of Sheeps Trotters.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nClean them very well from the Hair; then wash them in Vinegar and Water; then take out the Bones, and boil them in Salt and Water with a little Lemon-Peel. When they are hot, give them either of the following Sauces. For a white Sauce, take the following: viz.\u003Cbr\u003E\n\u003Cbr\u003E\nTake some Water, with some Salt, a few sweet Herbs, some whole Pepper, some Lemon-Peel and a bit of Horse-Radish, a Shallot, and a little White Wine. When it is strong enough relish\u0027d, then strain it off, and take a little of it, and mix it with Butter to thicken it, or Cream would do better, about half a Pint: pour this over the Sheeps Trotters with a few Capers, and serve it up with Slices of Lemons.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EA brown Fricassee of Sheeps Trotters.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nDress them as before, and when they are fit for Sauce, then take some Hogs Lard, and make it very hot in a Pan, then put in your Trotters, when they are well covered with Flour, and when they are done enough, pour over them a Sauce made of Gravey, some Claret and some Mushrooms thickned with burnt Butter. This will make a good brown Fricassee; and serve it up with a garnish of Lemon sliced, Barberries pickled, some raspings of Bread lifted, and toasted before the Fire.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Fricassee of Sheep Trotters",
+  "usedSnapshot": "20211129112243"
+}

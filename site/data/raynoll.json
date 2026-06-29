@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20130323203640",
+  "finalPath": "raynoll.html",
+  "heading": "Raynoll",
+  "ingredients": [
+    "cinnamon",
+    "clowes",
+    "ginger",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "raynoll.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERaynolle.\u003C/b\u003E Nym sode Porke \u0026 chese, \u0026 seethe y-fere, \u0026 caste thereto good powder pepper, cinnamon, ginger, Clowes, Mace, an close thin comade in dow [dough], \u0026 fry it in freysshe grease ryt wel; an thanne serve it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Raynoll",
+  "usedSnapshot": "20211205180234"
+}

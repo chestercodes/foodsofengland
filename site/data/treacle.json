@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922081022",
+  "finalPath": "treacle.html",
+  "heading": "Treacle",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGolden Syrup\u003C/b\u003E",
+      "relatedPageUrl": "golden-syrup.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003Etriacle\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Treacle",
+  "usedSnapshot": "20211021000336"
+}

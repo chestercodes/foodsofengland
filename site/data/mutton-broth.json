@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922081715",
+  "finalPath": "mutton-broth.html",
+  "heading": "Mutton Broth",
+  "ingredients": [
+    "barley",
+    "fat",
+    "mutton",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mutton-broth.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E32. New Mutton Broth.-\u003C/b\u003E Cut two pounds of the scrag, or any other lean part of mutton, in ten or twelve pieces, put in a pan with two ounces of fat, two teaspoonfuls of salt, half of pepper, a gill of water, two middle-sized onions, a good teacupful of pearl barley. Set it on the fire, stir round until it is reduced, moisten with five pints of water, boil, and skim, simmer two hours; and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Mutton Broth",
+  "usedSnapshot": "20170314203726"
+}

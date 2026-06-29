@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508102742",
+  "finalPath": "mereworth-biscuits.html",
+  "heading": "Mereworth Biscuits",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "flour",
+    "milk",
+    "plain flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mereworth-biscuits.html-1",
+      "receiptSource": "Original Receipt from Lady Sarah Lindsay\u0027s \u0027\u003Ci\u003EChoice Recipes\u003C/i\u003E\u0027 (1883) and \u0027\u003Ci\u003EEnglish Food\u003C/i\u003E\u0027 by Jane Grigson (\u003Ca href=\u0022references.html#grigson-1974\u0022\u003E\u003Cb\u003EGrigson 1974\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "1/2 lb Plain flour\u003Cbr\u003E\n1 oz Butter\u003Cbr\u003E\n1 pn Salt\u003Cbr\u003E\nHot Milk\u003Cbr\u003E\n\u003Cbr\u003E\nRub the first three ingredients together. then mix to a dough with hot milk it should be firm but soft. Knead it well. Roll out small bits of the dough to paper thinness: it will look and feel like a piece of cloth. Cut into approximately 2\u0022 rounds with a plain scone cutter and bake at 425F mk 7, for about 5 minutes, until they are slightly browned and puffed up. Cool and store in an airtight box.\u003Cbr\u003E\n\u003Cbr\u003E\n\u0022This recipe makes a huge number of light bicuits, which taste delicious with butter alone, or with butter and a soft cheese. The thinner you roll them the better. Some will puff up like a ballon; others will have two or three bubbles.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Mereworth Biscuits",
+  "usedSnapshot": "20220705103503"
+}

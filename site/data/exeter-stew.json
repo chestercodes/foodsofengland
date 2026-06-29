@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922075027",
+  "finalPath": "exeter-stew.html",
+  "heading": "Exeter Stew",
+  "ingredients": [
+    "baking powder",
+    "beef",
+    "carrots",
+    "fat",
+    "flour",
+    "herbs",
+    "lard",
+    "onions",
+    "parsley",
+    "pepper",
+    "plain flour",
+    "salt",
+    "suet",
+    "thyme",
+    "turnip"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "exeter-stew.html-1",
+      "receiptSource": "Original Receipt",
+      "receiptText": "\u003Cb\u003EExeter Stew With Savoury Doughboys\u003C/b\u003E:\u003Cbr\u003E\nIngredients;\u003Cbr\u003E\n\u003Cb\u003EStew\u003C/b\u003E\u003Cbr\u003E\n2 lb stewing beef\u003Cbr\u003E\n2 medium onions, peeled and diced\u003Cbr\u003E\n2 medium carrots, peeled and sliced\u003Cbr\u003E\n1 small turnip, peeled and diced\u003Cbr\u003E\n\u00BD swede, peeled and diced\u003Cbr\u003E\n2 pt beef stock\u003Cbr\u003E\n2 oz plain flour\u003Cbr\u003E\n2 oz lard for frying\u003Cbr\u003E\n\u003Cb\u003EDoughboys\u003C/b\u003E\u003Cbr\u003E\n5 oz plain flour\u003Cbr\u003E\n4 oz suet\u003Cbr\u003E\n\u00BD tsp baking powder\u003Cbr\u003E\nFreshly chopped herbs (thyme and parsley)\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\nCold water to mix\u003Cbr\u003E\n\u003Cbr\u003E\nPrepare the meat by removing any fat and cutting into cubes. Melt the fat and fry the meat until brown. Add the vegetables and fry for a further few minutes. Stir in the flour and then add the stock, season and simmer in a covered pan for 1 to 1.5 hours.\u003Cbr\u003E\nPrepare the doughboys by mixing together the flour, suet, baking powder and seasoning. Stir in the herbs and add sufficient water to make a soft dough. Shape into 8 small balls and add to the stew, they will swell whilst cooking. Continue cooking for a further 25 minutes or until the meat is tender.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Exeter Stew",
+  "usedSnapshot": "20220527070053"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922080649",
+  "finalPath": "damask-cream.html",
+  "heading": "Damask Cream",
+  "ingredients": [
+    "cheese",
+    "cream",
+    "fat",
+    "rose-water",
+    "sugar",
+    "brandy",
+    "double cream",
+    "nutmeg",
+    "rose water",
+    "rosewater"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "damask-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Ci\u003ETo make Fresh Cheese.\u003C/i\u003E\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake three pints of raw Cream and sweeten it well with Sugar, and set it over the fire, let it boyle a while, then put in some Damask-Rose-Water, keep it still stirring least it burn too, and when you see it thickned and turned, take it from the fire, and wash the strainer and Cheesefat with Rose-water, then rowl it too and fro in the Strainer to draine the Whey from the Curd, then take up the Curd with a spoon and put them into the Fat, let it stand till it be cold, then put it into the Cheese Dish with some of the Whey, and so serve it up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "damask-cream.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Damask%20Cream\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 pint single cream\u003Cbr\u003E\n3 tbsp sugar\u003Cbr\u003E\n2 tsp rennet essence\u003Cbr\u003E\npinch nutmeg\u003Cbr\u003E\n1 tbsp brandy\u003Cbr\u003E\n4 tbsp double cream\u003Cbr\u003E\n1 tsp rosewater\u003Cbr\u003E\n\u003Cbr\u003E\nPut the single cream and 2 tablespoons of the sugar in a saucepan. Heat gently until tepid, stirring so that the sugar dissolves. Stir in the rennet, nutmeg and brandy, then pour into a serving dish.\u003Cbr\u003E\nLeave for 2-3 hours, until set. Do not disturb the junket during this time or it will not set.\u003Cbr\u003E\nWhen set, mix the remaining sugar, clotted or double cream and rose water together and spoon carefully over the top. Decorate with rose petals if liked. Decorate with rose petals, if liked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Damask Cream",
+  "usedSnapshot": "20211018072613"
+}

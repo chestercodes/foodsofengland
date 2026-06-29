@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140212031108",
+  "finalPath": "turnip-pie.html",
+  "heading": "Turnip Pie",
+  "ingredients": [
+    "milk",
+    "mutton",
+    "onion",
+    "pepper",
+    "salt",
+    "steaks",
+    "turnip",
+    "turnips",
+    "apple",
+    "sugar",
+    "cheese",
+    "flour",
+    "margarine"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "turnip-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "TURNIP PIE. Season some mutton chops with salt and pepper, reserving the ends of the neck bones to lay over the turnips, which must be cut into small dice, and put on the steaks. Add two or three spoonfuls of milk, also a sliced onion if approved, and cover with a crust.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "turnip-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHereford Times\u003C/i\u003E\u0027 - Saturday 21 December 1861",
+      "receiptText": "\u003Cb\u003ETurnip Pie\u003C/b\u003E.-Take a turnip and pare and boil it; add a teaspoonful of tartaric acid and a cup of sugar; season and boil it as an apple pie.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "turnip-pie.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Wednesday 27 March 1935",
+      "receiptText": "\u003Cb\u003ETurnip Pie\u003C/b\u003E. Wash and peel two pounds of turnips. Boil till very tender, strain and mash with fork. Melt half an ounce of margarine, stir in half an ounce of flour, and when blended add gill of the water in which the turnips were cooked. Stir till boiling, then add the turnips and two ounces of cheese. Season to taste. Put two ounces of cheese (chopped) on top and brown off in hot oven for about ten minutes\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Turnip Pie",
+  "usedSnapshot": "20211019181253"
+}

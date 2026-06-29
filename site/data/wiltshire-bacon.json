@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130323200128",
+  "finalPath": "wiltshire-bacon.html",
+  "heading": "Wiltshire Bacon",
+  "ingredients": [
+    "bacon",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wiltshire-bacon.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "WILTSHIRE BACON. The way to cure Wiltshire bacon is to sprinkle the flitch with salt, and let the blood drain off for twenty-four hours. Then mix a pound and a half of coarse sugar, the same quantity of bay salt, not quite so much as half a pound of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esaltpetre,\u003C/b\u003E\u003C/a\u003E and a pound of common salt. Rub this mixture well on the bacon, turning it every day for a month: then hang it to dry, and afterwards smoke it ten days. The quantity of salts above mentioned is sufficient for the whole hog.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Wiltshire Bacon",
+  "usedSnapshot": "20220705092826"
+}

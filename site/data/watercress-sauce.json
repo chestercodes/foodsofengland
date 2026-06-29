@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922090858",
+  "finalPath": "watercress-sauce.html",
+  "heading": "Watercress Sauce",
+  "ingredients": [
+    "bay leaf",
+    "butter",
+    "celery",
+    "cream",
+    "shallots",
+    "vegetable stock",
+    "watercress",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "watercress-sauce.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://watercress.co.uk\u0022\u003E\u003Cb\u003Ehttp://watercress.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EClassic Watercress Sauce\u003C/b\u003E\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n\u003Cbr\u003E\n25g/1oz butter\u003Cbr\u003E\n2 small shallots, very finely chopped\u003Cbr\u003E\n1 stick celery, very finely chopped\u003Cbr\u003E\n1/2 glass dry white wine\u003Cbr\u003E\n750ml / 1.25 pint vegetable stock\u003Cbr\u003E\n1 bay leaf\u003Cbr\u003E\n150ml/1/4 pint carton single cream\u003Cbr\u003E\n2 x 85g/3oz packs watercress, chopped\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the butter in a saucepan and gently fry the finely chopped shallots and celery for 2-3 minutes until tender. Add the wine, stock and bay leaf and simmer for 2-3 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nRemove the bay leaf, pour in the cream and chopped watercress, heat through, season to taste and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Watercress",
+      "relatedPageUrl": "watercress.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Watercress Sauce",
+  "usedSnapshot": "20220819114818"
+}

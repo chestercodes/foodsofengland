@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922074552",
+  "finalPath": "scalding-pudding.html",
+  "heading": "Scalding Pudding",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "scalding-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SCALDING PUDDING. From a pint of new milk take out enough to mix three large spoonfuls of flour into a smooth batter. Set the remainder of the milk on the fire, and when it is scalding hot, pour in the batter, and keep it on the fire till it thickens. Stir it all the time to prevent its burning, but do not let it boil. When of a proper thickness, pour it into a basin, and let it stand to cool. Then put in, six eggs, a little sugar, and some nutmeg. Boil it an hour in a basin well buttered.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Scalding Pudding",
+  "usedSnapshot": "20200116025946"
+}

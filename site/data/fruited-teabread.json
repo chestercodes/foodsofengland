@@ -1,0 +1,92 @@
+﻿{
+  "earliestSnapshot": "20150922082449",
+  "finalPath": "fruited-teabread.html",
+  "heading": "Fruited Teabread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Breads",
+      "relatedPageUrl": "breads.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cakes",
+      "relatedPageUrl": "cakes-and-scones.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Apple, Raisin and Cider Teabread",
+      "relatedPageUrl": "apple-raisin-and-cider-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Apricot and Prune Teabread",
+      "relatedPageUrl": "apricot-and-prune-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Apricot and Walnut Teabread",
+      "relatedPageUrl": "apricot-and-walnut-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Banana and Date Tea Loaf",
+      "relatedPageUrl": "banana-and-date-tea-loaf.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Borrowdale Tea Cake or Teabread",
+      "relatedPageUrl": "borrowdale-tea-cake-or-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Dorset Tea Bread",
+      "relatedPageUrl": "dorset-tea-bread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fruited Teabread",
+      "relatedPageUrl": "fruited-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Marble Cake or Marble Teabread",
+      "relatedPageUrl": "marble-cake-or-marble-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Marmalade Teabread",
+      "relatedPageUrl": "marmalade-teabread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Orange and Walnut Teabread",
+      "relatedPageUrl": "orangeandwalnutteabread.htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yeast Cake",
+      "relatedPageUrl": "yeast-cake.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fruited Teabread",
+  "usedSnapshot": "20220527065001"
+}

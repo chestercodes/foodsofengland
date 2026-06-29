@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140212023829",
+  "finalPath": "gloucester-royal-pie.html",
+  "heading": "Gloucester Royal Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gloucester Royal Pie",
+  "usedSnapshot": "20211201041436"
+}

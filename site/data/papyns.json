@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130323054526",
+  "finalPath": "papyns.html",
+  "heading": "Papyns",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "papyns.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPapyns.\u003C/b\u003E Take fair milk an flour, an drawe it thorw a strainer, an set it over the fire, an let it boil a-whyle; than take it out an let it kele; than take yolks of eggs y-draw thorwe a straynour, an caste thereto; than take sugar a good quantyte, and caste thereto, an a little salt, an set it on the fire tyl it be sum-what thikke, but let it nowt boil fullyche, an stere it well, an put it on a dish alle a-brode, and serve forth rennyng.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Papyns",
+  "usedSnapshot": "20211021015325"
+}

@@ -1,0 +1,109 @@
+﻿{
+  "earliestSnapshot": "20140616082858",
+  "finalPath": "fish-pie.html",
+  "heading": "Fish Pie",
+  "ingredients": [
+    "egg",
+    "flour",
+    "ketchup",
+    "mashed potatoes",
+    "mushroom",
+    "onion",
+    "parsley",
+    "pepper",
+    "potatoes",
+    "salt",
+    "thyme",
+    "anchovy",
+    "butter",
+    "lemon",
+    "mashed potato",
+    "milk",
+    "nutmeg",
+    "potato",
+    "shrimps"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fish-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 63. A Fish Pie\u003C/b\u003E.\u003Cbr\u003E\nCut up any kind of fish into pieces the size of an egg; season these with chopped parsley, thyme, a little onion, pepper and salt, and put them into a pie-dish, with a pint of water, well mixed with three ounces of flour and a little mushroom ketchup; cover the pie with a flour crust, or else with stiff mashed potatoes, and bake it for an hour and a quarter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fish-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E185. FISH PIE (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPut three-quarters of a pint of milk into a saucepan, with half a small onion, two cloves, a few thin strips of lemon peel, two or three pieces of parsley, and some salt and pepper, and let the milk simmer gently for twenty minutes. Make a paste in a saucepan with an ounce and a quarter of butter, and an ounce and a quarter of flour. Strain the milk and mix it gradually with the paste, thus making a thick sauce; ascertain whether more pepper and salt is required, and add a teaspoonful of anchovy essence. Butter a pie dish, and place a layer of cooked fish which has been divided into flakes, in it, and cover it with some of the prepared sauce, a few shrimps, and a little chopped parsley; then put more fish and the remainder of the sauce and some shrimps and parsley as before. Have in readiness some smoothly mashed potato, which has been well seasoned with salt, pepper, and nutmeg, and mix with some milk, butter, and the yolk\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Fish Pie",
+  "usedSnapshot": "20220524173422"
+}

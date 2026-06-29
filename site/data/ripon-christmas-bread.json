@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922093944",
+  "finalPath": "ripon-christmas-bread.html",
+  "heading": "Ripon Christmas Bread",
+  "ingredients": [
+    "allspice",
+    "bread",
+    "butter",
+    "caster sugar",
+    "cream",
+    "currants",
+    "flour",
+    "lard",
+    "milk",
+    "plain flour",
+    "raisins",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ripon-christmas-bread.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EGood Old-fashioned Teatime Treats\u003C/i\u003E by Jane Pettigrew (National Trust)",
+      "receiptText": "\u003Cb\u003ERipon Christmas Loaf\u003C/b\u003E\u003Cbr\u003E\nPreparation: 30 minutes plus rising\u003Cbr\u003E\nCooking: 2 hours\u003Cbr\u003E\nMakes two loaves\u003Cbr\u003E\n\u003Cb\u003EFor the basic bread dough:\u003C/b\u003E\u003Cbr\u003E\n900g plain flour, sifted\u003Cbr\u003E\n2 teaspoons salt\u003Cbr\u003E\n25g fresh yeast or 10.5g dried yeast\u003Cbr\u003E\n1 teaspoon caster sugar\u003Cbr\u003E\n100g butter, softened, plus extra for greasing\u003Cbr\u003E\n600ml milk, warmed\u003Cbr\u003E\n\u003Cb\u003EFor the additional flavouring:\u003C/b\u003E\u003Cbr\u003E\n175g lard, softened and cut into small pieces\u003Cbr\u003E\n100g raisins\u003Cbr\u003E\n50g mixed candied peel\u003Cbr\u003E\n100g granulated or caster sugar\u003Cbr\u003E\n225g currants\u003Cbr\u003E\n\u00BD teaspoon ground allspice\u003Cbr\u003E\n\u003Cbr\u003E\n1 First make the basic bread dough. Mix together the flour and salt. Cream the fresh yeast with the sugar; if using dried yeast dissolve in a little of the milk.\u003Cbr\u003E\n2 Rub the butter into the flour, add the yeast and warm milk and mix to a light dough. Knead well with floured hands until smooth. Place the dough in a bowl and stand in a warm place for 1\u00BD-2 hours until doubled in size.\u003Cbr\u003E\n3 Grease two 900g loaf tins. Mix together all of the remaining ingredients and work into the dough until all are evenly distributed. Divide the mixture between the tins and leave in a warm place until the dough almost reaches the top of the tins.\u003Cbr\u003E\n4 Heat the oven to 160\u00BAC (140\u00BAC fan oven, gas mark 3). When the loaves are well risen, bake for approximately two hours until golden and firm. Remove from the oven and turn out onto a wire rack to cool. Serve either warm or cold and spread with butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Ripon Christmas Bread",
+  "usedSnapshot": "20220527054706"
+}

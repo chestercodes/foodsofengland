@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922072512",
+  "finalPath": "cough-candy.html",
+  "heading": "Cough Candy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cough Candy",
+  "usedSnapshot": "20220819111329"
+}

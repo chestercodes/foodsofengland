@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20121024084411",
+  "finalPath": "bastard-gravy.html",
+  "heading": "Bastard Gravy",
+  "ingredients": [
+    "ale",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bastard-gravy.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003Elxxxviij. Mammenye bastarde -\u003C/b\u003E Take a potelle of Clarifiyd Hony, \u0026 a pounde of Pynys, \u0026 a pounde of Roysouns Coraunce, \u0026 a pound of Saunderys, \u0026 pouder canelle, \u0026 .ij. galouns of Wyne or Ale, \u0026 a pound of Pepir, \u0026 caste alle on a potte, \u0026 skym yt; \u00FEan take .iij. pounde of Amyndons, \u0026 a galon of Wyne, \u0026 a gode galon of Venegre, \u0026 let stepe vp to-gederys, \u0026 draw \u00FEorw a straynoure; [leaf 18.] an whan \u00FEe potte boylith, caste \u00FEe lycoure \u00FEer-to, an lat it be alle stondyng; \u00FEan take pouder Gyngere, Salt \u0026 Safron, an sesyn it vppe, an serue alle flat on a dysshe, all hote, an caste pouder Gyngere \u00FEer-on, an serue forth.\u003Cbr\u003E\n\u003Cbr\u003E\n[Elsewhere in the same m.s ...]\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EClj. Creme Bastarde\u003C/b\u003E - Take \u00FEe whyte of Eyroun a grete hepe, \u0026 putte it on a panne ful of Mylke, \u0026 let yt boyle; \u00FEen sesyn it so with Salt an hony a lytel, \u00FEen lat hit kele, \u0026 draw it \u00FEorw a straynoure, an take fayre Cowe mylke an draw yt with-all, \u0026 seson it with Sugre, \u0026 loke \u00FEat it be poynant \u0026 doucet: \u0026 serue it forth for a potage, or for a gode Bakyn mete, wheder \u00FEat \u00FEou wolt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOysters in Bastard Gravy\u003C/b\u003E",
+      "relatedPageUrl": "oysters-in-bastard-gravy.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Bastard Gravy",
+  "usedSnapshot": "20220527071315"
+}

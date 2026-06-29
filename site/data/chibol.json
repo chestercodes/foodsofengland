@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922081029",
+  "finalPath": "chibol.html",
+  "heading": "Chibol",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "Cibol, Chibolles, chibols, chybolys",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chibol",
+  "usedSnapshot": "20220527055952"
+}

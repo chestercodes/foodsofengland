@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922091352",
+  "finalPath": "duckling-with-green-peas.html",
+  "heading": "Duckling with Green Peas",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Duck with Peas",
+      "relatedPageUrl": "duck-and-peas.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Duckling with Green Peas",
+  "usedSnapshot": "20211027023831"
+}

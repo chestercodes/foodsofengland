@@ -1,0 +1,92 @@
+﻿{
+  "earliestSnapshot": "20150922085928",
+  "finalPath": "christmas-cake.html",
+  "heading": "Christmas Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "ginger",
+    "raisins",
+    "sugar",
+    "treacle",
+    "vinegar",
+    "almonds",
+    "almonds blanched",
+    "brandy",
+    "currants"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "christmas-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECHRISTMAS CAKE.\u003C/b\u003E\u003Cbr\u003E\n1754. INGREDIENTS. - 5 teacupfuls of flour, 1 teacupful of melted butter, 1 teacupful of cream, 1 teacupful of treacle, 1 teacupful of moist sugar, 2 eggs,\u00BD oz. of powdered ginger,\u00BD lb. of raisins, 1 teaspoonful of carbonate of soda, 1 tablespoonful of vinegar.\u003Cbr\u003E\n\u003Cbr\u003E\nMode. - Make the butter sufficiently warm to melt it, but do not allow it to oil; put the flour into a basin; add to it the sugar, ginger, and raisins, which should be stoned and cut into small pieces. When these dry ingredients are thoroughly mixed, stir in the butter, cream, treacle, and well-whisked eggs, and beat the mixture for a few minutes. Dissolve the soda in the vinegar, add it to the dough, and be particular that these latter ingredients are well incorporated with the others; put the cake into a buttered mould or tin, place it in a moderate oven immediately, and bake it from 1-3/4 to 2-1/4 hours.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - 1-3/4 to 2-1/4 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost,\u003C/i\u003E 1s. 6d.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "christmas-cake.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027The Young Englishwoman\u0027\u003C/i\u003E of 1867",
+      "receiptText": "\u003Cb\u003EChristmas Cake\u003C/b\u003E Wash one pound and a quarter of butter in water, beat it to a cream, beat ten eggs yolks and whites separately half an hour each have ready a pound and a quarter of flour well dried and kept hot also three quarters of a pound of sugar, half an ounce of pounded mixed spice, a pound and a half of currants washed picked and dried, a quarter of a pound of almonds blanched and sliced, and four ounces of candied peel, also sliced. Mix all these and keep them by the fire. Strain the eggs and mix them with the butter, add to them a teacupful of sweet wine and a wineglassful of brandy. Then add the dry ingredients by degrees and a quarter of a pound of chopped raisins. Beat all together for a full hour. Butter a piece of white paper and line the moulds with it and fill them about three parts full. Bake in a quick oven two hours\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERipon Christmas Bread\u003C/b\u003E",
+      "relatedPageUrl": "ripon-christmas-bread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EYule Cake\u003C/b\u003E",
+      "relatedPageUrl": "yule-bread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETwelfth Cake\u003C/b\u003E",
+      "relatedPageUrl": "twelfth-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMrs Duke\u0027s Cake\u003C/b\u003E",
+      "relatedPageUrl": "mrs-duke-s-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003Eplum pudding\u003C/b\u003E",
+      "relatedPageUrl": "christmas-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003Epottages\u003C/b\u003E",
+      "relatedPageUrl": "christmas-pottage.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EYule Cake\u003C/b\u003E",
+      "relatedPageUrl": "yule-bread.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Christmas Cake",
+  "usedSnapshot": "20191230193241"
+}

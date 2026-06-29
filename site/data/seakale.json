@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922093327",
+  "finalPath": "seakale.html",
+  "heading": "Seakale",
+  "ingredients": [
+    "asparagus",
+    "butter",
+    "gravy",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "seakale.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESea Kale\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThe best sea kale is that which grows wild in the costal sand on the sea coast; and which in some parts of the country, the labouring poor assist to [?] by hoeing up the sand round the plants, and cutting them, when thus improved, for sale. The sea kale is tied up in bundles like asparagus, and commonly dressed in the same manner; being served up placed on a toast at the bottom of the dish, with a little melted butter or hot gravy poured over. Sea kale being a fashionable vegetable, has become an object of inland horticulture, though it seems to require both sea air and sea soil.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESeakale Soup\u003C/b\u003E",
+      "relatedPageUrl": "seakale-soup.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Seakale",
+  "usedSnapshot": "20211021025213"
+}

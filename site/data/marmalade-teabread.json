@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922092636",
+  "finalPath": "marmalade-teabread.html",
+  "heading": "Marmalade Teabread",
+  "ingredients": [
+    "baking powder",
+    "breadcrumbs",
+    "brown sugar",
+    "butter",
+    "egg",
+    "flour",
+    "ginger",
+    "marmalade",
+    "milk",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marmalade-teabread.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Marmalade%20Teabread\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMarmalade teabread\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n7oz plain flour\u003Cbr\u003E\n1 teaspoon ground ginger\u003Cbr\u003E\n1 teaspoon baking powder\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\n2oz light brown sugar\u003Cbr\u003E\n4 tablespoons marmalade\u003Cbr\u003E\n1 egg beaten\u003Cbr\u003E\n3 tablespoons milk\u003Cbr\u003E\n1oz candied peel\u003Cbr\u003E\n\u003Cbr\u003E\ngrease a loaf tin 2lb in size and line with greasproof paper. Put flour, baking powder and powdered ginger in a bowl. Add butter and rub in to resemble breadcrumbs, stir in sugar. Mix together, marmalade, egg, and most of milk and mix dry ingredients to a soft dought. Turn into prepared tin and press candied peel onto top of mix. Bake 170c 325F gas 3 for 1 \u00BC hours\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Marmalade Teabread",
+  "usedSnapshot": "20210510040508"
+}

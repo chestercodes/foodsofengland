@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150129031150",
+  "finalPath": "butter-sauce.html",
+  "heading": "Butter Sauce",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cream",
+    "flour",
+    "milk",
+    "mushroom",
+    "potato",
+    "tea",
+    "eggs",
+    "lemon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "butter-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EMelted Butter.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nKeep a pint stew-pan for this purpose only.\u003Cbr\u003E\nCut two ounces of butter into little bits, that it may melt more easily, and mix more readily; put it into the stew-pan with a large tea-spoonful (ie. about three drachms) of flour, (some prefer arrow-root, or potato starch, and two table-spoonfuls of milk.\u003Cbr\u003E\nWhen thoroughly mixed, add six table-spoonfuls of water; hold it over the fire, and shake it round every minute (all the while the same way), till it just begins to simmer; then let it stand quietly and boil up. It should be of the thickness of good cream.\u003Cbr\u003E\nN.B. Two table-spoonfuls of No. 439 [Mushroom Catchup], instead of the milk, will make as good mushroom sauce as need be, and is a superlative accompaniment to either fish, flesh, or fowl.\u003Cbr\u003E\n\u003Ci\u003EObs.\u003C/i\u003E This is the best way of preparing melted butter; milk mixes with the butter much more easily and more intimately than water alone can be made to do. This is of proper thickness to be mixed at table with flavouring essences, anchovy, mushroom, or cavice, \u0026amp;c. If made merely to pour over vegetables, add a little more milk to it.\u003Cbr\u003E\nN.B. If the butter oils, put a spoonful of cold water to it, and stir it with a spoon; if it is very much oiled, it must be poured backwards and forwards from the stew-pan to the sauce-boat till it is right again.\u003Cbr\u003E\n\u003Ci\u003EMem.\u003C/i\u003E Melted butter made to be mixed with flavouring essences, catchups, \u0026amp;c. should be of the thickness of light batter, that it may adhere to the fish, \u0026amp;c.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "butter-sauce.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "66- BUTTER SAUCE\u003Cbr\u003E\n\u003Cbr\u003E\nMix two oz. of sifted flour with two oz. of melted butter. Dilute with one quart of boiling water, salted to the extent of one-quarter oz. per quart. Stir briskly to ensure a perfect leason, and do not allow to boil. Add immediately the yolks of six eggs mixed with one-quarter pint of cream and the juice of half a lemon. Rub through a tammy, and finish the sauce with five oz. of best fresh butter.\u003Cbr\u003E\n\u003Cbr\u003E\nBe careful that the sauce does not boil after it has been thickened.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EMelted Butter Sauce\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Butter Sauce",
+  "usedSnapshot": "20211207111212"
+}

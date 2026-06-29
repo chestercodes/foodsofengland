@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922133138",
+  "finalPath": "lemon-dumplings.html",
+  "heading": "Lemon Dumplings",
+  "ingredients": [
+    "beef",
+    "bread",
+    "dumplings",
+    "egg",
+    "lemon",
+    "suet",
+    "sugar",
+    "eggs"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lemon-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ELEMON DUMPLINGS. - E. R.\u003C/b\u003E\u003Cbr\u003E\nA quarter of a pound of bread grated, the same quantity of sifted sugar, and of finely-chopped beef-suet, one lemon, the juice to be mixed with the sugar, and the rind cut small or grated, and one egg; mix all together, make them into dumplings, boil them twenty minutes, and serve with \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003Ewine sauce\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemon-dumplings.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWells Journal\u003C/i\u003E\u0027 - Thursday 16 October 1890",
+      "receiptText": "\u003Cb\u003ENICE DISHES.\u003C/b\u003E\u003Cbr\u003E\nLEMON DUMPLINGS.- Take half-a-pound of grated bread, half-a-pound of suet, six ounces of sugar, two eggs, and the peel large lemon chopped fine. Add the juice, and if not moist enough, a little water. Make it up into six or eight dumplings, and boil them three-quarters-of-an-hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Lemon Dumplings",
+  "usedSnapshot": "20211205172952"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130323200107",
+  "finalPath": "suffolk-bacon.html",
+  "heading": "Suffolk Bacon",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Suffolk Bacon",
+  "usedSnapshot": "20211021030838"
+}

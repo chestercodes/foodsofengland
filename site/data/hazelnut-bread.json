@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922100639",
+  "finalPath": "hazelnut-bread.html",
+  "heading": "Hazelnut Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECobnuts or Filbert\u003C/b\u003Es",
+      "relatedPageUrl": "cobnuts-or-filberts.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hazelnut Bread",
+  "usedSnapshot": "20170314010445"
+}

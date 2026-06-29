@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212023754",
+  "finalPath": "bishop-auckland-cheese-cakes.html",
+  "heading": "Bishop Auckland Cheese Cakes",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "currants",
+    "egg",
+    "lemon",
+    "mashed potatoes",
+    "pastry",
+    "potatoes",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bishop-auckland-cheese-cakes.html-1",
+      "receiptSource": "Original Receipt from Peggy Hutchinson\u0027s \u0027\u003Ci\u003EOld English Cookery Book\u003C/i\u003E\u0027 (Foulsham \u0026 Co.) of 1935;",
+      "receiptText": "\u003Cb\u003EBISHOP AUCKLAND CHEESE-CAKES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThese were a bite that melted in the mouth and the recipe was rarely given away.\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n6 ozs. thoroughly mashed potatoes\u003Cbr\u003E\n2 ozs. melted butter\u003Cbr\u003E\n4 ozs. fine sugar\u003Cbr\u003E\n4 ozs. currants\u003Cbr\u003E\n1 oz. finely grated lemon peel\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n1/4 teaspoonful lemon essence\u003Cbr\u003E\nPastry for tartlet linings\u003Cbr\u003E\nA little rum\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:\u003Cbr\u003E\nStir all the ingredients together one way until thoroughly mixed.\u003Cbr\u003E\nLine patty tins or small tins with pastry, then fill with the mixture and bake.\u003Cbr\u003E\nWhen cooked, put a few drops of rum into each tartlet.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bishop Auckland Cheese Cakes",
+  "usedSnapshot": "20220819103417"
+}

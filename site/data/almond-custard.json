@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20130323042646",
+  "finalPath": "almond-custard.html",
+  "heading": "Almond Custard",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "beat",
+    "cream",
+    "custard",
+    "eggs",
+    "rosewater",
+    "sugar",
+    "brandy",
+    "cinnamon",
+    "powder sugar",
+    "rice",
+    "rose-water"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "almond-custard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make an Almond Custard.\u003C/b\u003E\u003Cbr\u003E\nTake two pound of almonds, blanch and beat them very fine with rosewater, then strain them with some two quarts of cream, twenty whites of eggs, and a pound of double refined sugar; make the paste as beforesaid, and bake it in a mild oven fine and white, garnish it as before and scrape fine sugar over all.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "almond-custard.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E260. To make ALMOND CUSTARDS.\u003C/b\u003E\u003Cbr\u003E\nBoil two quarts of sweet cream with a stick of cinnamon; take eight eggs, leaving out all the whites but two, beat them very well; take six ounces of Jordan almonds, blanch and beat them with a little rose-water, so give them a boil in your cream; put in half a pound of powder sugar, and a little of your cream amongst your eggs, mix altogether, and set them over a slow fire, stir it all the time whilst it be as thick as cream, but don\u0027t let it boil; when you take it off put in a little brandy to your taste, so put it into your cups for use.\u003Cbr\u003E\nYou may make rice-custard the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Almond Custard",
+  "usedSnapshot": "20211020220619"
+}

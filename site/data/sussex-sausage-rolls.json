@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922091849",
+  "finalPath": "sussex-sausage-rolls.html",
+  "heading": "Sussex Sausage Rolls",
+  "ingredients": [
+    "bread",
+    "flour",
+    "sausage meat",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sussex-sausage-rolls.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Sussex%20Sausage%20Rolls\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESussex Sausage Rolls\u003C/b\u003E\u003Cbr\u003E\n1 \u00BC lb bread dough\u003Cbr\u003E\n1lb sausages or sausage meat\u003Cbr\u003E\n\u003Cbr\u003E\nFirst make the bread dough with strong white flour and yeast by the normal method. Cut off pieces of dough and wrap them around each skinned sausage or the equivalent of sausage meat rolled into a sausage shape. The dough would be \u00BC to\u00BD inch think. Cover a leave in a greased tin for 20 minutes or until well risen. Bake at 425 Deg F for 15 minutes, then reduce the temperature to 350 Deg F for another 20 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sussex Sausage Rolls",
+  "usedSnapshot": "20211201003956"
+}

@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922082955",
+  "finalPath": "carrot-soup.html",
+  "heading": "Carrot Soup",
+  "ingredients": [
+    "bread",
+    "butter",
+    "carrot",
+    "carrots",
+    "celery",
+    "cream",
+    "gravy",
+    "lemon",
+    "lemon juice",
+    "onions",
+    "rice",
+    "tomato",
+    "tomatos",
+    "beef",
+    "cayenne",
+    "fat",
+    "salt",
+    "turnip"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "carrot-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECARROT SOUP.-E. R.\u003C/b\u003E\u003Cbr\u003E\nTake twelve carrots scraped clean, then rasp them to the core, which must not be used; four heads of celery cut small, two large onions shred, a few tomatos, and some peppercorns, stew them in half a pound of butter very slowly over a stove, and keep stirring until the vegetables are soft; then place the crumb of a penny roll in the stewpan, and pour the stock or gravy over the whole; boil till the bread has become very soft, and then pulp the whole through a sieve. Boil the soup slowly for a short time, skimming if necessary: it should be as thick as cream, and of a fine red colour. Tomato soup may be made the same way, leaving out the carrots, and putting in a greater number of tomatos:, when the latter are not to be had, a small quantity of lemon juice should be added to carrot soup to give the requisite acid. A simpler method of making carrot soup is to boil the carrots till they are tender, and pulp them through a sieve, together with a small quantity of rice or French roll, also boiled tender, and then add them to the stock, or broth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "carrot-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECOMMON CARROT SOUP.\u003C/b\u003E\u003Cbr\u003E\nThe most easy method of making this favourite English soup is to boil some highly coloured carrots quite tender in water sightly salted, then to pound or mash them to a smooth paste, and to mix with them boiling gravy soup or strong beef broth in the proportion of two quarts to a pound and a half of the prepared carrots; then to pass the whole through a strainer, to season it with salt and cayenne, to heat it in a clean stewpan, and to serve it immediately.\u003Cbr\u003E\nIf only the red outsides of the carrots be used, the colour of the soup will be very bright, they should be weighed after they are mashed. Turnip soup may be prepared in the same manner.\u003Cbr\u003E\n\u003Cbr\u003E\nObs. The experienced and observant cook will know the proportion of vegetables required to thicken this soup appropriately, without having recourse to weights and measures; but the learner had always better proceed by rule.\u003Cbr\u003E\nSoup, 2 quarts; pounded carrot, 11/2 lb.; salt, cayenne: 5 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EA FINER CARROT SOUP.\u003C/b\u003E\u003Cbr\u003E\nScrape very clean, and cut away all blemishes from some highly- flavoured red carrots; wash, and wipe them dry, and cut them into quarter-inch slices. Fat into a large stewpan three ounces of the best butter, and when it is melted, add two pounds of the sliced carrots, and let them stew gently for an hour without browning; pour to them then four pints and a half of brown gravy soup, and when they have simmered from fifty minutes to an hour, they ought to be sufficiently tender. Press them through a sieve or strainer with the soup; add salt, and cayenne if required; boil the whole gently for five minutes, take off all the scum, and serve the soup as hot as possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Carrot Soup",
+  "usedSnapshot": "20220819102640"
+}

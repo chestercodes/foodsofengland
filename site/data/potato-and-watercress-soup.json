@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922082328",
+  "finalPath": "potato-and-watercress-soup.html",
+  "heading": "Potato and Watercress Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWatercress Soup\u003C/b\u003E",
+      "relatedPageUrl": "watercress-soup.html",
+      "relationDescription": "See "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Potato and Watercress Soup",
+  "usedSnapshot": "20210518210708"
+}

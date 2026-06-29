@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140508102808",
+  "finalPath": "shortcake-biscuit.html",
+  "heading": "Shortcake Biscuit",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shortcake Biscuit",
+  "usedSnapshot": "20210518205620"
+}

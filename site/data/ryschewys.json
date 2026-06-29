@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20220110144010",
+  "finalPath": "ryschewys.html",
+  "heading": "Ryschewys",
+  "ingredients": [
+    "ale",
+    "clowes",
+    "dates",
+    "saffron",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ryschewys.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERisschewes de frute\u003C/b\u003E Take ffigges, and grinde hem in a morter al smal with a litell oyle, and grynde wit hem, clowes, and maces; and then take hem vppe in-to a diss, and caste thereto pynes, saundres, reisons of coraunce, myced dates, pouder of Peper, Canell, Saffron, and salt; And then make fyne paast of floure, water, sugur, saffron, and salt, And make there-of faire kakes; and then rolle the stuff in thi honde, and couche hit in the kakes; kutte hem, and so folde hem togedrys as risshewes, And fry hem in goode Oyle, And serue hem forthe hote.\u003Cbr\u003E\n\u003Cbr\u003E\nlij. \u003Cb\u003ERyschewys of Marow\u003C/b\u003E - Take fayre Flowre \u0026 raw yolkys of Eyroun, \u0026 Sugre, \u0026 Salt, \u0026 pouder of Gyngere, \u0026 Safroun, \u0026 make fayre cakes; \u0026 \u00FEan take marow, Sugre, \u0026 pouder of Gyngere, \u0026 ley it on \u00FEin cake, \u0026 fold hem to-gederys, \u0026 kytte hem in \u00FEe maner of Rysschewes, \u0026 frye hem in freyssche grece, \u0026 \u00FEanne serue forth.\u003Cbr\u003E\n\u003Cbr\u003E\nxlviij. \u003Cb\u003ERyschewys in lente\u003C/b\u003E - Take Fygys \u0026 sethe hem uppe in Ale; \u00FEan take whan \u00FEey ben tendyr, \u0026 bray hem smal on a Mortere; [leaf 34] \u00FEan take Almaundys, \u0026 schrede hem \u00FEer-to smal; take Perys, \u0026 schrede hem \u00FEer-to; take datys, \u0026 schrede hem \u00FEer-to; \u0026 nym Milwel or lenge, \u00FEat is wel y-wateryd, \u0026 tese \u00FEer-to; \u00FEan make \u00FEin farsure, \u0026 rolle a-long in \u00FEin hond, \u0026 ley hem in flowre; \u00FEan make \u00FEin bature with ale \u0026 Floure, \u0026 frye hem vppe brown in Oyle; ryyt so, make round-lyke Fretourys in \u00FEe maner be-for-sayd, \u0026 frye hem vppe, \u0026 \u00FEat ben y-clepid Ragons, \u0026 \u00FEanne serue hem forth.\u003Cbr\u003E\n\u003Cbr\u003E\nlviij. \u003Cb\u003ERyschewys close \u0026 Fryez\u003C/b\u003E - Take Fygys, \u0026 grynd hem smal in a mortere with a lytil Oyle, \u0026 grynd with hym clowys \u0026 Maces; \u0026 \u00FEan take it vppe in-to a vesselle, \u0026 cast \u00FEer-to Pynez, Saundrys, \u0026 Roysonys of Coraunce, \u0026 mencyd Datys, Pouder Pepir, Canel, Salt, Safroun; [leaf 35 bk.] \u00FEan take fyne past of flowre an water, Sugre, Safroun, \u0026 Salt, \u0026 make fayre cakys \u00FEer-of; \u00FEan rolle \u00FEin stuf in \u00FEin hond, \u0026 couche it in \u00FEe cakys, \u0026 kyt it, \u0026 folde hym as Ruschewys, \u0026 frye hem vppe in Oyle; and serue forth hote.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chewitts",
+      "relatedPageUrl": "chewitts.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Frians",
+      "relatedPageUrl": "frians.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oyster Chewitts",
+      "relatedPageUrl": "oyster-chewitts.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Peasecods",
+      "relatedPageUrl": "peasecods.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ryschewys",
+      "relatedPageUrl": "ryschewys.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Whet",
+      "relatedPageUrl": "whet.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "Ryschewys, Risschewes, Rysschews",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Ryschewys",
+  "usedSnapshot": "20220110144010"
+}

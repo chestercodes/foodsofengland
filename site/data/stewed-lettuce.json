@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922082101",
+  "finalPath": "stewed-lettuce.html",
+  "heading": "Stewed Lettuce",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "lettuces",
+    "nutmeg",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stewed-lettuce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "242. BOILED LETTUCES (Middlesex) Wash and put them into boiling water, with a little salt, let them boil until tender; strain them in a colander, and chop them up; then put them into a saucepan with some fresh butter, a spoonful of flour, a little nutmeg, salt, and the juice of a lemon; let the whole boil for a quarter of an hour. This may be varied by omitting the lemon juice, adding some good cream, and thickening with the yolks of two eggs. (This is an excellent plan where lettuces are \u0022bolted\u0022 and unsuitable for serving cold. Ed.)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Stewed Lettuce",
+  "usedSnapshot": "20170314143951"
+}

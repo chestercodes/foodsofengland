@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922085902",
+  "finalPath": "goosberry-wine.html",
+  "heading": "Goosberry Wine",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Gooseberry Wine",
+      "relatedPageUrl": "gooseberry-wine.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Goosberry Wine",
+  "usedSnapshot": "20211027034815"
+}

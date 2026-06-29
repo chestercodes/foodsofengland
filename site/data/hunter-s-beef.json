@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130324050858",
+  "finalPath": "hunter-s-beef.html",
+  "heading": "Hunter\u0027s Beef",
+  "ingredients": [
+    "allspice",
+    "beef",
+    "flour",
+    "gravy",
+    "jelly",
+    "nutmeg",
+    "pork",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hunter-s-beef.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHUNTER\u0027S BEEF.\u003C/b\u003E\u003Cbr\u003E\n631. INGREDIENTS: For a round of beef weighing 25 lbs. allow 3 oz. of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esaltpetre,\u003C/b\u003E\u003C/a\u003E 3 oz. of coarse sugar, 1 oz. of cloves, 1 grated nutmeg, \u00BD oz. of allspice, 1 lb. of salt, \u00BD lb. bay-salt.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Let the beef hang for 2 or 3 days, and remove the bone. Pound spices, salt, \u0026amp;c. in the above proportion, and let them be reduced to the finest powder. Put the beef into a pan, rub all the ingredients well into it, and turn and rub it every day for rather more than a fortnight. When it has been sufficiently long in pickle, wash the meat, bind it up securely with tape, and put it into a pan with\u00BD pint of water at the bottom; mince some suet, cover the top of the meat with it, and over the pan put a common crust of flour and water; bake for 6 hours, and, when cold, remove the paste. Save the gravy that flows from it, as it adds greatly to the flavour of hashes, stews, \u0026amp;c. The beef may be glazed and garnished with meat jelly.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 6 hours.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: all the year.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: In salting or pickling beef or pork for family consumption, it not being generally required to be kept for a great length of time, a less quantity of salt and a larger quantity of other matters more adapted to retain mellowness in meat, may be employed, which could not be adopted by the curer of the immense quantities of meat required to be preserved for victualling the shipping of this maritime country. Sugar, which is well known to possess the preserving principle in a very great degree, without the pungency and astringency of salt, may be, and is, very generally used in the preserving of meat for family consumption. Although it acts without corrugating or contracting the fibres of meat, as is the case in the action of salt, and, therefore, does not impair its mellowness, yet its use in sufficient quantities for preservative effect, without the addition of other antiseptics, would impart a flavour not agreeable to the taste of many persons. It may be used, however, together with salt, with the greatest advantage in imparting mildness and mellowness to cured meat, in a proportion of about one part by weight to four of the mixture; and, perhaps, now that sugar is so much lower in price than it was in former years, one of the obstructions to its more frequent use is removed.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Hunter\u0027s Beef",
+  "usedSnapshot": "20211020223304"
+}

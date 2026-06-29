@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140212021030",
+  "finalPath": "pastry-sandwiches.html",
+  "heading": "Pastry Sandwiches",
+  "ingredients": [
+    "currant",
+    "jelly",
+    "pastry",
+    "raspberry",
+    "strawberry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pastry-sandwiches.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPASTRY SANDWICHES.\u003C/b\u003E\u003Cbr\u003E\nDivide equally in two, and roll off square and as thin as possible, some rich puff paste; lay one half on a buttered tin, or copper oven-leaf, and spread it lightly with fine currant, strawberry or raspberry jelly; lay the remaining half closely over, pressing it a little with the rolling pin after the edges are well cemented together; then mark it into divisions, and bake it from fifteen to twenty minutes in a moderate oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Pastry Sandwiches",
+  "usedSnapshot": "20211021025016"
+}

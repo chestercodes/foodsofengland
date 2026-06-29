@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922080828",
+  "finalPath": "norfolk-pudding-puffs.html",
+  "heading": "Norfolk Pudding Puffs",
+  "ingredients": [
+    "cream",
+    "custard",
+    "eggs",
+    "flour",
+    "orange",
+    "pudding",
+    "rose water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-pudding-puffs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EKent\u0027s Household Encyclopedia\u003C/i\u003E\u0027 of 1869",
+      "receiptText": "\u003Cb\u003ENORFOLK PUDDING PUFFS\u003C/b\u003E Mix three eggs three table spoonsful of flour, half a pint of cream and two table spoonsful of orange flower or rose water. Sweeten the whole with sugar put the batter into deep custard cups about half full, set them in the oven and when the puffs rise to the top they are done.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ENorfolk Small Puddings\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norfolk Pudding Puffs",
+  "usedSnapshot": "20220516221135"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073947",
+  "finalPath": "bath-asparagus.html",
+  "heading": "Bath Asparagus",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bath Asparagus",
+  "usedSnapshot": "20170314030309"
+}

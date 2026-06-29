@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212025157",
+  "finalPath": "cream-nuts.html",
+  "heading": "Cream Nuts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cream Nuts",
+  "usedSnapshot": "20220808004407"
+}

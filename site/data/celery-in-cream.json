@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082347",
+  "finalPath": "celery-in-cream.html",
+  "heading": "Celery in Cream",
+  "ingredients": [
+    "beat",
+    "celery",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "celery-in-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECelery with Cream.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWASH and clean six or eight heads of celery cut them about three inches long, boil them tender, pour away all the water, and take the yolks of four eggs beat fine, half a pint of cream, a little salt and nutmeg, pour it over, keeping the pan shaking all the while. When it begins to be thick, dish it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridgeshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Celery in Cream",
+  "usedSnapshot": "20220527063250"
+}

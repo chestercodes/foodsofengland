@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20140212015748",
+  "finalPath": "jumbles.html",
+  "heading": "Jumbles",
+  "ingredients": [
+    "almonds",
+    "carroway seeds",
+    "eggs",
+    "rose-water",
+    "sugar",
+    "beat",
+    "milk",
+    "baking powder",
+    "butter",
+    "cream",
+    "egg",
+    "flour"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "jumbles.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Arte of Preserving Conserving, Candying \u0026amp;c\u003C/i\u003E\u0027 by Hugh Plat, 1609 (\u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E16. To make Jumbolls\u003C/b\u003E\u003Cbr\u003E\nTake half a pound of Almonds being beaten to a paste with a short cake being grated, and 2 eggs, 2 ounces of carroway seeds, being beaten, and the juice of a Lemmon: and being brought into paste, roule it into round strings: then cast it into knots, and so bake it in an oven and when they are baked, ice them with Rose-water and Sugar, and the white of an egge being beaten together, then take a feather and gild them, and put them again into the oven, and let them stand in a little while, and they will be iced cleane over with a white ice: and so boxe them up, and you may keep them all the yeare\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jumbles.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make the best Jumbals\u003C/b\u003E, take the whites of three Eggs, and beat them well, and take off the froth; then take a little milk and a pound of fine wheat flowre and Sugar together finely sifted, and a few Anniseeds well rub\u0027d and dryed, and then work all together as stiff as you can work it, and so make them in what forms you please, \u0026 bake them in a soft oven upon white papers.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jumbles.html-3",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EReform Cookery Book\u003C/i\u003E\u0027 (4th edition) by Mrs. Mill (\u003Ca href=\u0022references.html#mill-1909\u0022\u003E\u003Cb\u003EMill 1909\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EJumbles.\u003C/b\u003E\u003Cbr\u003E\n\u00BD-lb. flour, \u00BC lb. butter, 2 ozs. sifted sugar, 1 egg. Pinch baking powder. Beat butter and sugar to a cream, add egg, well beaten, then flour, \u0026amp;c. Knead into a stiff paste, divide into 12 or more pieces, and roll out pipe-wise with the hands, about a foot long. Curl round, or form into letters, \u0026amp;c. Lay on floured oven plate. Brush with egg. Sprinkle with sugar, and bake 15 minutes in hot oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EJumbels\u003C/b\u003E or \u003Cb\u003EJumbols\u003C/b\u003E \u003Cb\u003EJambals\u003C/b\u003E, or \u003Cb\u003E\u0027Knot Biscuits\u0027\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    }
+  ],
+  "title": "Jumbles",
+  "usedSnapshot": "20220516224938"
+}

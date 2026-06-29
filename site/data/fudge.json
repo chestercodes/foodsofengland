@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922100009",
+  "finalPath": "fudge.html",
+  "heading": "Fudge",
+  "ingredients": [
+    "chocolate",
+    "jelly",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fudge.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EChelmsford Chronicle\u003C/i\u003E\u0027 - Friday 24 December 1926",
+      "receiptText": "\u003Cb\u003EFudge.\u003C/b\u003E\u003Cbr\u003E\nA delicious American sweet is Fudge It is made (but not often to perfection) in this country. Here is recipe which is rather difficult to execute, but makes the best possible fudge. Take\u003Cbr\u003E\n\u003Cbr\u003E\n3 cups of sugar.\u003Cbr\u003E\n\u00BE cup rich milk.\u003Cbr\u003E\n2 \u00BD squares unsweetened chocolate.\u003Cbr\u003E\n\u003Cbr\u003E\nPut the sugar, the chocolate into small pieces, and the milk a saucepan, and stir steadily until the chocolate melts. Then boil until mixture forms a jelly-like mass when tried in cold water. Pour on marble slab and work with a spatula until of consistency to knead, l then knead with the hands until creamy Put in a slightly buttered pan and press evenly with the back of the hand, cool slightly and cut in squares.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fudge",
+  "usedSnapshot": "20180925094339"
+}

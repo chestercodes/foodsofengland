@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20130323203525",
+  "finalPath": "dorset-lamb-crumble.html",
+  "heading": "Dorset Lamb Crumble",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crumble Topping",
+      "relatedPageUrl": "crumble.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dorset Lamb Crumble",
+  "usedSnapshot": "20211201002451"
+}

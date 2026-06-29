@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130627105348",
+  "finalPath": "oysters-in-bastard-gravy.html",
+  "heading": "Oysters in Bastard Gravy",
+  "ingredients": [
+    "ale",
+    "bread",
+    "ginger",
+    "pepper",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oysters-in-bastard-gravy.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EOystrys in grauy bastard.\u003C/b\u003E Take grete Oystrys, an schale them; an take the water of the Oystrys, \u0026 ale, an bread y-straynid, an the water also, an put it on a pot, an ginger, sugar, Saffron, powder pepper, and Salt, an let it boil well; then put yn the Oystrys thereto, and dresse it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bastard Gravy",
+      "relatedPageUrl": "bastard-gravy.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Oysters in Bastard Gravy",
+  "usedSnapshot": "20180323054730"
+}

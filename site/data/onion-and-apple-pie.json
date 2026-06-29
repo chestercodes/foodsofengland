@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20140212015457",
+  "finalPath": "onion-and-apple-pie.html",
+  "heading": "Onion and Apple Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "nutmeg",
+    "onion",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "onion-and-apple-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 By Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make an Onion Pie\u003C/b\u003E\u003Cbr\u003E\nWASH and pare some potatoes and cut them in slices, peel some onions cut them in slices, pare some apples and slice them, make a good crust, cover your dish, lay a quarter of a pound of butter all over, take a quarter of an ounce of mace beat fine, a nutmeg grated, a tea spoonful of beaten pepper three tea spoonfuls of salt, mix all together, strew some over the butter, lay a layer of potatoes, a layer of onion, a layer of apples and a layer of eggs, and so on till you have filled your pie, strewing a little of the seasoning between each layer and a quarter of a pound of butter in bits, and six spoonfuls of water. Close your pie and bake it an hour and a half. A pound of potatoes, a pound of onions, a pound of apples, and twelve eggs will do.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECheshire Onion Pie\u003C/b\u003E",
+      "relatedPageUrl": "cheshire-onion-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EHartley 1954\u003C/b\u003E",
+      "relatedPageUrl": "references.html#hartley-1954",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EJ.Salmon\u003C/b\u003E",
+      "relatedPageUrl": "references.html#j-salmon",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Onion and Apple Pie",
+  "usedSnapshot": "20211129110644"
+}

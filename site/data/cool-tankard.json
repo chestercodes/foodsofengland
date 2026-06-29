@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922133031",
+  "finalPath": "cool-tankard.html",
+  "heading": "Cool Tankard",
+  "ingredients": [
+    "ale",
+    "brandy",
+    "bread",
+    "lemon",
+    "nutmeg",
+    "toasted bread",
+    "white wine",
+    "beer"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cool-tankard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECOOL TANKARD\u003C/b\u003E\u003Cbr\u003E\nA quart of mild ale, a glass of white wine, one of brandy, one of capillaire, the juice of a lemon, and a little piece of the rind. Add a sprig of borage or balm, a bit of toasted bread, and nutmeg grated on the top.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cool-tankard.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ECool Tankard, or Beer Cup - (No. 464.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nA quart of mild ale, a glass of white wine, one of brandy, one of capillaire, the juice of a lemon, a roll of the peel pared thin, nutmeg grated at the top, a sprig of borrage or balm, and a bit of toasted bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Cool Tankard",
+  "usedSnapshot": "20211021024456"
+}

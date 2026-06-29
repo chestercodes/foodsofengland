@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922072808",
+  "finalPath": "may-liqueur.html",
+  "heading": "May Liqueur",
+  "ingredients": [
+    "brandy",
+    "liqueur",
+    "sugar",
+    "puddings"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "may-liqueur.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Thursday 07 May 1936",
+      "receiptText": "Like To Know.\u2014 May Liqueur: Gather hawthorn blossoms on a fine day, strip off leaves and stems, put flowers in wide-mouthed glass bottles; fill up bottles with good brandy and 2oz crushed sugar candy per pint. Cork tightly, leave three months; then filter and rebottle\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "may-liqueur.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "1031. HAWTHORN BRANDY (Middlesex, 1822)\u003Cbr\u003E\nPut as much full blossom of the white thorn (hawthorn), picked dry and clean from leaves and stalks, as a great bottle will hold lightly, without pressing down. Fill it up with French brandy, let it stand two or three weeks, then decant it off clear, and add as much sugar as may make it of a proper sweetness.\u003Cbr\u003E\n\u003Cbr\u003E\n1032. HAWTHORN BRANDY (Surrey)\u003Cbr\u003E\nTake a large bottle, fill it three-parts full with hawthorn petals, picked when the day is dry and sunny (putting the flowers only, not the stalks), and fill up with brandy. Let them infuse for about five or six weeks, then strain off the hquid into a clean bottle, and cork up well. This imparts a delicious flavouring to puddings, etc.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", \u003Cb\u003EHawthorn Brandy\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "May Liqueur",
+  "usedSnapshot": "20220808011023"
+}

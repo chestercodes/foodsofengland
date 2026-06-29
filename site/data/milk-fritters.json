@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150524215709",
+  "finalPath": "milk-fritters.html",
+  "heading": "Milk Fritters",
+  "ingredients": [
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "milk-fritters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFRYTOUR OF MYLKE. XX.VII. X.\u003C/b\u003E\u003Cbr\u003E\nTake of cruddes [1] and presse out \u00FEe wheyze [2]. do \u00FEerto sum whyte of ayrenn. fry hem. do \u00FEerto. \u0026 lay on sugur and messe forth.\u003Cbr\u003E\n[1] Cruddes. Curds, per metathesin. [2] wheyze. whey.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Milk Fritters",
+  "usedSnapshot": "20220819114452"
+}

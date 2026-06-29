@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074609",
+  "finalPath": "brancaster-salad.html",
+  "heading": "Brancaster Salad",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brancaster Salad",
+  "usedSnapshot": "20170313200412"
+}

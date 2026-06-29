@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140212015032",
+  "finalPath": "norfolk-treacle-tart.html",
+  "heading": "Norfolk Treacle Tart",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "double cream",
+    "egg",
+    "golden syrup",
+    "lemon",
+    "pastry",
+    "shortcrust pastry",
+    "unsalted butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-treacle-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Norfolk%20Treacle%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8oz shortcrust pastry\u003Cbr\u003E\n4oz golden syrup\u003Cbr\u003E\n1oz unsalted butter\u003Cbr\u003E\ngrated rind of 1 lemon\u003Cbr\u003E\n3 tablespoons of double cream\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out the pastry and use it to line a 7 in round tin. Prick the base lightly and bake at 200C/Gas 6 for 15 minutes. Then reduce the oven temperature to 180C/Gas 4. Warm the syrup in a saucepan until runny. Take off the heat and stir in the butter and lemon rind. Beat the cream and egg together lightly and mix into the syrup. Pour into the pastry case and bake for 30 to 40 minutes until set. Serve warm with cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Norfolk Treacle Tart",
+      "relatedPageUrl": "norfolk-treacle-tart.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Treacle Tart",
+      "relatedPageUrl": "treacle-tart.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Yorkshire Treacle Tart",
+      "relatedPageUrl": "yorkshire-treacle-tart.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EWalpole House Tart\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norfolk Treacle Tart",
+  "usedSnapshot": "20211019175440"
+}

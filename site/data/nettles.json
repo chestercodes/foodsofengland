@@ -1,0 +1,87 @@
+﻿{
+  "earliestSnapshot": "20150922084425",
+  "finalPath": "nettles.html",
+  "heading": "Nettles",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dock Pudding",
+      "relatedPageUrl": "dock-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter-Ledge Pudding",
+      "relatedPageUrl": "easter-ledge-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Haggis",
+      "relatedPageUrl": "haggis.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Herb Pudding",
+      "relatedPageUrl": "herb-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Hopscotch",
+      "relatedPageUrl": "hopscotch.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Nettle Beer",
+      "relatedPageUrl": "nettle-beer.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Nettle Cheese",
+      "relatedPageUrl": "nettle-cheese.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Nettle Haggis",
+      "relatedPageUrl": "nettle-haggis.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Nettle Soup",
+      "relatedPageUrl": "nettle-soup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Nettles",
+      "relatedPageUrl": "nettles.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Nettles and Egg",
+      "relatedPageUrl": "nettles-and-egg.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yarg",
+      "relatedPageUrl": "yarg.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Nettles",
+  "usedSnapshot": "20220607010930"
+}

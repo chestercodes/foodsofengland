@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922074412",
+  "finalPath": "rhubarb-chutney.html",
+  "heading": "Rhubarb Chutney",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "blanched almonds",
+    "chutney",
+    "pepper",
+    "raisins",
+    "rhubarb",
+    "vinegar",
+    "lemon",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-chutney.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Khaki Kook Book - A Collection of a Hundred Cheap and Practical Recipes Mostly from Hindustan\u003C/i\u003E\u0027 by Mary Kennedy Core, Bareilly, India,1917",
+      "receiptText": "\u003Cb\u003E77. Rhubarb Chutney.\u003C/b\u003E\u003Cbr\u003E\nMake just like \u003Ca href=\u0022apple-chutney.html\u0022\u003E\u003Cb\u003Eapple chutney\u003C/b\u003E\u003C/a\u003E, only use less vinegar. In addition to the raisins and other ingredients, add a teacupful of finely-minced and blanched almonds. This is worth trying. Less red pepper might be used.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rhubarb-chutney.html-2",
+      "receiptSource": "Original Receipt from Lichfield Mercury - Friday 13 March 1914",
+      "receiptText": "RHUBARB CHUTNEY. Now that, rhubarb .is coming you really ought to try this delicious chutney. Cut into pieces enough rhubarb to fill cup. Add half cupful water, one and a half cupful of sugar, the pulp and sliced rind of a lemon and orange, a quarter pound each seeded and Cook all over slow fire. Tie down glass jars when thick.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Rhubarb Chutney",
+  "usedSnapshot": "20211021022317"
+}

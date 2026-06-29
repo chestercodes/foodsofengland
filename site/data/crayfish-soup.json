@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922073531",
+  "finalPath": "crayfish-soup.html",
+  "heading": "Crayfish Soup",
+  "ingredients": [
+    "beat",
+    "bread",
+    "gravy",
+    "lobster",
+    "mutton",
+    "onion",
+    "pepper",
+    "salt",
+    "veal",
+    "anchovies",
+    "butter",
+    "fish stock"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "crayfish-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E8. CRAW-FISH SOOP.\u003C/b\u003E\u003Cbr\u003E\nTake a knuckle of veal, and part of a neck of mutton to make white gravy, putting in an onion, a little whole pepper and salt to your taste; then take twenty crawfish, boil and beat them in a marble mortar, adding thereto a little of the gravy; strain them and put them into the gravy; also two or three pieces of white bread to thicken the soop; boil twelve or fourteen of the smallest craw-fish, and put them whole into the dish, with a few toasts, or French roll, which you please; so serve it up.\u003Cbr\u003E\nYou may make lobster soop the same way, only add into the soop the seeds of the lobster.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "crayfish-soup.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECRAYFISH SOUP.\u003C/b\u003E\u003Cbr\u003E\n193. INGREDIENTS: 50 crayfish, \u00BC lb. of butter, 6 anchovies, the crumb of 1 French roll, a little lobster-spawn, seasoning to taste, 2 quarts of medium stock, No. 105, or fish stock, No. 192.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Shell the crayfish, and put the fish between two plates until they are wanted; pound the shells in a mortar, with the butter and anchovies; when well beaten, add a pint of stock, and simmer for \u00BE of an hour. Strain it through a hair sieve, put the remainder of the stock to it, with the crumb of the rolls; give it one boil, and rub it through a tammy, with the lobster-spawn. Put in the fish, but do not let the soup boil, after it has been rubbed through the tammy. If necessary, add seasoning.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour. \u003Ci\u003EAverage cost\u003C/i\u003E: 2s. 3d. or 1s. 9d. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from January to July.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 8 persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Crayfish Soup",
+  "usedSnapshot": "20220516211919"
+}

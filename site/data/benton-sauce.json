@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074251",
+  "finalPath": "benton-sauce.html",
+  "heading": "Benton Sauce",
+  "ingredients": [
+    "beef",
+    "horse-radish",
+    "mustard",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "benton-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BENTON SAUCE. Grate some horse-radish, or scrape it very fine. Add to it a little made mustard, some pounded white sugar, and four large spoonfuls of vinegar. Serve it up in a saucer: this is good with hot or cold roast beef.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Horseradish",
+      "relatedPageUrl": "horseradish-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Benton Sauce",
+  "usedSnapshot": "20220527220720"
+}

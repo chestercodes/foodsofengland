@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140212015017",
+  "finalPath": "lent-tart-or-kentish-pudding-pie.html",
+  "heading": "Lent Tart or Kentish Pudding Pie",
+  "ingredients": [
+    "beat",
+    "breadcrumbs",
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "flan",
+    "flour",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pastry",
+    "plain flour",
+    "pudding",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lent-tart-or-kentish-pudding-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EThe British Food Trust\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EKent Lent Tart\u003C/b\u003E\u003Cbr\u003E\nIn the days when Lent was strictly observed, many cooks became very ingenious at thinking up new dishes to break the monotony of their abstemious diet. This recipe, sometimes called Kentish Pudding Pie, is rather like a baked cheesecake and was particularly popular in the area around Folkestone.\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4-6\u003Cbr\u003E\n175 Gram Plain flour (6 oz)\u003Cbr\u003E\n150 Gram Butter (5 oz)\u003Cbr\u003E\n300 ml Milk (\u00BD pint)\u003Cbr\u003E\n25 Gram Ground rice (1 oz)\u003Cbr\u003E\n50 Gram Sugar (2 oz)\u003Cbr\u003E\n2 Eggs\u003Cbr\u003E\n1 Lemon, zest only\u003Cbr\u003E\n1/4 Teaspoon Grated nutmeg\u003Cbr\u003E\n25 Gram Currants (1 oz)\u003Cbr\u003E\nMethod\u003Cbr\u003E\nPre-heat oven to 200 \u00B0C / 400 \u00B0F / Gas 6.\u003Cbr\u003E\nPut the flour in a bowl and rub in 75g (3 oz) of the butter until the mixture resembles fine breadcrumbs. Stir in 3-4 tablespoons water to bind the mixture together into a dough. Roll out the pastry on a floured surface and use to line a greased 20 cm (8 inch) fluted flan dish or tin. Bake blind for 10-15 minutes, until set. Reduce oven temperature to 190 \u00B0C / 375 \u00B0F / Gas 5.\u003Cbr\u003E\nMeanwhile, put the milk and rice in a pan and bring to the boil, stirring continuously, until the mixture thickens. Remove the pan from the heat and leave to cool. When the mixture is cold, cream the remaining butter and sugar together until pale and fluffy. Beat in the eggs, one at a time, then add the lemon zest, nutmeg and the rice mixture. Mix thoroughly and pour into the flan case. Sprinkle the currants on top. Bake for 40-45 minutes until firm to the touch and golden brown. Serve the pie warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EKent Pudding-Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Lent Tart or Kentish Pudding Pie",
+  "usedSnapshot": "20201130171614"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922092412",
+  "finalPath": "corned-beef-hash.html",
+  "heading": "Corned Beef Hash",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Corned Beef Hash",
+  "usedSnapshot": "20211205170121"
+}

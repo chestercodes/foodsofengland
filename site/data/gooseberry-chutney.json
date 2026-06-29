@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922074931",
+  "finalPath": "gooseberry-chutney.html",
+  "heading": "Gooseberry Chutney",
+  "ingredients": [
+    "gooseberries",
+    "marmalade",
+    "raisins",
+    "sugar",
+    "cayenne",
+    "chutney",
+    "garlic",
+    "ginger",
+    "mustard",
+    "mustard seed",
+    "onions",
+    "salt",
+    "tumeric",
+    "vinegar",
+    "pepper"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-chutney.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 12 August 1939",
+      "receiptText": "\u003Cb\u003EGooseberry Relish.\u003C/b\u003E -A gooseberry relish that is delicious with cold meat is made this way. Take 4 quarts of gooseberries, 2lb. of seeded raisins, 1 pint of water, and 4lb. of sugar. Top and tail the gooseberries and boil in water for 15 minutes. Add the raisins and sugar, and cook to marmalade. Pour into glass jars and seal.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-chutney.html-2",
+      "receiptSource": "Original Receipt from the Tamworth Herald - Saturday 27 August 1881",
+      "receiptText": "\u003Cb\u003EGreen Gooseberry Chutney.\u003C/b\u003E - Two pints of unripe gooseberries green apples, 3oz. mustard seed, 3oz. powdered ginger, 5oz. coarse sugar, l0oz. raisins, 3oz. salt, two pints vinegar, 3oz. garlic. Chop the gooseberries and the raisins (after being stoned) quite fine, also tho onions and garlic almost to a paste; add 1oz. cayenne, and a proper quantity of tumeric to make a nice colour When well mixed, boil ten minutes or a quarter of an hour, and rub through sieve.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-chutney.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Civic League Cook Book\u003C/i\u003E\u0027 by the Domestic Science Department of the Civic League, Williston, North Dakota, USA, 1913",
+      "receiptText": "GREEN GOOSEBERRY CHUTNEY.-This relish has not yet become common in America, though it is found on all well supplied English tables. Four pounds green gooseberries (not too ripe), one half ounce cayenne pepper, two ounces garlic, two ounces dried ginger, three pounds loaf sugar, two ounces mustard seed, two scant quarts best vinegar. Put the berries, when picked over, into a preserving kettle with one quart of vinegar and sugar and let simmer for an hour; pound the seeds, garlic, etc., and add, stirring with wooden spoon; when well mixed add more vinegar until the mass is of the proper consistency for chutney. Cool and bottle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EGooseberry Relish, Goosegog or Goosegob Relish\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Gooseberry Chutney",
+  "usedSnapshot": "20211021024018"
+}

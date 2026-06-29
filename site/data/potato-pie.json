@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20140212031022",
+  "finalPath": "potato-pie.html",
+  "heading": "Potato Pie",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "butter",
+    "dates",
+    "eggs",
+    "nuts",
+    "orange",
+    "potato",
+    "potatoes",
+    "sugar",
+    "onion",
+    "oysters",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "potato-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 By Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E249. To make a Potato Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nHaving your Pie ready, lay in Butter, and then your Potatoes boiled very tender, then some whole Spice and Marrow, Dates and the yolks of hard Eggs blanched Almonds, and Pistacho Nuts, the Candied Pills of Citron, Orange and Limon, put in more Butter close it and bake it, then cut it open, and put in Wine, Sugar, the yolks of Eggs and Butter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "potato-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "64. POTATO PIE (Derbyshire) Put layers of meat, either cooked or uncooked, with alternate layers of potato and onion uncooked, in a deep bowl; season with plenty of pepper and salt; and fill up with water. Cover the whole with a good short crust, and bake in a slow oven. This is a very nice winter dish, and is much improved by adding oysters between the meat and vegetables.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Pasty\u003C/b\u003E",
+      "relatedPageUrl": "potato-table-pasty.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWooley 1672\u003C/b\u003E",
+      "relatedPageUrl": "references.html#wooley-1672",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Potato Pie",
+  "usedSnapshot": "20210518194256"
+}

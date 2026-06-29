@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922084812",
+  "finalPath": "hare-soup.html",
+  "heading": "Hare Soup",
+  "ingredients": [
+    "bread",
+    "gravy",
+    "herbs",
+    "salt",
+    "spinage",
+    "turnips",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hare-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E3. To make HARE SOOP.\u003C/b\u003E\u003Cbr\u003E\nCut the hare into small pieces, wash it and put it into a stew-pan, with a knuckle of veal; put in it a gallon of water, a little salt, and a handful of sweet herbs; let it stew \u0027till the gravy be good; fry a little of the hare to brown the soop; you may put in it some crusts of write bread among the meat to thicken the soop; put it into a dish, with a little stew\u0027d spinage, crisp\u0027d bread, and a few forc\u0027d-meat balls. Garnish your dish with boil\u0027d spinage and turnips, cut it in thin square slices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Hare Soup",
+  "usedSnapshot": "20170314024359"
+}

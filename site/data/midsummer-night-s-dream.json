@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922073217",
+  "finalPath": "midsummer-night-s-dream.html",
+  "heading": "Midsummer Night\u0027s Dream",
+  "ingredients": [
+    "apple",
+    "cointreau",
+    "melon",
+    "orange",
+    "strawberries",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "midsummer-night-s-dream.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Midsummer%20Night\u0027s%20Dream\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMidsummer Night\u0027s Dream\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 bottle Riesling\u003Cbr\u003E\n1 bottle Beaujolais\u003Cbr\u003E\n750 g ml (25 fl oz) fizzy lemonade\u003Cbr\u003E\n50 g ml (2 fl oz) Cointreau\u003Cbr\u003E\n1 dessert apple, cored and sliced\u003Cbr\u003E\npieces of melon\u003Cbr\u003E\nslices of orange, quartered\u003Cbr\u003E\na few strawberries\u003Cbr\u003E\ncrushed ice\u003Cbr\u003E\nsugar syrup to taste\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Midsummer Night\u0027s Dream",
+  "usedSnapshot": "20220516212408"
+}

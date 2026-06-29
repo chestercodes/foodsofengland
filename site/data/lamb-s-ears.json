@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922082521",
+  "finalPath": "lamb-s-ears.html",
+  "heading": "Lamb\u0027s Ears",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "lamb",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-s-ears.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook\u0027s Dictionary and House-keeper\u0027s Directory\u003C/i\u003E\u0027 by Richard Dolby, 1830",
+      "receiptText": "\u003Cb\u003ELamb\u0027s Ears Stuffed\u003C/b\u003E\u003Cbr\u003E\nTake a dozen lamb\u0027s ears soak and scald them when cold dry singe and cook them in a ilanc lor an hour and a half drain and fill them with a farce cuite put the ears into melted butter then roll them in bread crumbs break four eggs into the butter with salt and pepper heat all up together dip the ears into this then roll them again in bread crumbs and fry them of a nice colour take care your pan is not too hot Drain the ears well and serve them on fried parsley\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ELamb\u0027s Ears with Sorrel\u003C/b\u003E\u003Cbr\u003E\nTake about a dozen of lamb\u0027s ears this quantity will make a small dish and braise them till tender Take a large handful of sorrel chop it a little and stew it in a spoonful of stock with a small bit of butter Pour in a small ladle of cullis some nutmeg grated and a little pepper and salt stew it a minute twist up the ears nicely and serve\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lamb\u0027s Tail Pie",
+      "relatedPageUrl": "lamb-s-tail-pie.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Wood Sorrel",
+      "relatedPageUrl": "wood-sorrel.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lamb\u0027s Ears",
+  "usedSnapshot": "20211201035213"
+}

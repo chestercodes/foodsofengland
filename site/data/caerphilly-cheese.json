@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616081348",
+  "finalPath": "caerphilly-cheese.html",
+  "heading": "Caerphilly Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Caerphilly Cheese",
+  "usedSnapshot": "20211019171752"
+}

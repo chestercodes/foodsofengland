@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20130322195327",
+  "finalPath": "baked-beans-in-tomato-sauce.html",
+  "heading": "Baked Beans in Tomato Sauce",
+  "ingredients": [
+    "baked beans",
+    "molasses",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-beans-in-tomato-sauce.html-1",
+      "receiptSource": "Original American Receipt in \u003Ci\u003EHall\u0027s Journal of Health\u003C/i\u003E, 1862",
+      "receiptText": "\u003Cb\u003EBAKED BEANS\u003C/b\u003E Few people know the luxury of baked beans simply because few cooks properly prepare them. Beans generally are not cooked half long enough. This is our method. Two quarts of middling sized white beans two pounds salt pork and one spoonful of molasses. Pick the beans over carefully wash and add a gallon of boiling hot soft water let them soak in it over night In the morning put them in fresh water and boil them gently till the skin is very tender and about to break. Take them up dry and put them in your dish stir in your molasses gash the pork and put it down in the dish so as to have the beans cover all but the upper surface turn in boiling water till the top is just covered bake with a steady fire four or five hours. Watch them and add more water from time to time as it dries away. The molasses may be omitted\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Baked Beans - Old Style",
+      "relatedPageUrl": "baked-beans-old-style.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Baked Beans in Tomato Sauce",
+  "usedSnapshot": "20210512113434"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922093146",
+  "finalPath": "nut-brittle.html",
+  "heading": "Nut Brittle",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Nut Brittle",
+  "usedSnapshot": "20180924034440"
+}

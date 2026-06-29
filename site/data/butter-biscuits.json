@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140508110325",
+  "finalPath": "butter-biscuits.html",
+  "heading": "Butter Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Butter Biscuits",
+  "usedSnapshot": "20210510044433"
+}

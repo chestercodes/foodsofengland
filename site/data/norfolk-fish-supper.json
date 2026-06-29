@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616081037",
+  "finalPath": "norfolk-fish-supper.html",
+  "heading": "Norfolk Fish Supper",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Norfolk Fish Supper",
+  "usedSnapshot": "20220516220828"
+}

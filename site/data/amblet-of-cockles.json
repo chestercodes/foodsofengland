@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140616081321",
+  "finalPath": "amblet-of-cockles.html",
+  "heading": "Amblet of Cockles",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "flour",
+    "nutmeg",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "amblet-of-cockles.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E153. To make an AMBLET of COCKLES.\u003C/b\u003E\u003Cbr\u003E\nTake four whites and two yolks of eggs, a pint of cream, a little flour, a nutmeg grated, a little salt, and a jill of cockles, mix all together, and fry it brown.\u003Cbr\u003E\nThis is proper for a side-dish either for noon or night.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Amblet of Cockles",
+  "usedSnapshot": "20220819103752"
+}

@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922074801",
+  "finalPath": "tharf-cake.html",
+  "heading": "Tharf Cake",
+  "ingredients": [
+    "baking powder",
+    "biscuit",
+    "black treacle",
+    "butter",
+    "coriander",
+    "coriander seeds",
+    "flour",
+    "ginger",
+    "oatmeal",
+    "salt",
+    "self-raising flour",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tharf-cake.html-1",
+      "receiptSource": "Original receipt adapted from \u003Ca href=\u0022http://www.peaklandheritage.org.uk/index.asp?peakkey=10600321\u0022\u003E\u003Cb\u003EPeakland Heritage\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "A number of villages had \u0027Tharf Cake Joinings\u0027 on Bonfire Night, 5 November. Some recipes were baked in cake tins about 2 in (5cm) deep, but this version makes a kind of biscuit:\u003Cbr\u003E\n\u003Cbr\u003E\nHalf a pound (230g) each of oatmeal, self-raising flour and sugar\u003Cbr\u003E\n6 oz (170g) black treacle\u003Cbr\u003E\n6 oz (170g) butter\u003Cbr\u003E\n1 oz (30g) candied peel\u003Cbr\u003E\n1 teasp baking powder\u003Cbr\u003E\nPinches of ground ginger, salt and coriander seeds\u003Cbr\u003E\n\u003Cbr\u003E\nWell grease a baking tray. Rub the butter into the dry ingredients and add the warmed treacle. Knead lightly before rolling out and cutting into thin rounds. Bake for about 10 minutes at 375F, 190C gas mark 5.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHalloween\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/halloween.html",
+      "relationDescription": "For other seasonal traditions, see: "
+    }
+  ],
+  "synonym": "Thorcake or Thor or Tharf or Tharve Cake, also recorded as Tharf-kyek, Thaaf-keahyk, Thaf-kyek, Tharth-kyek, Thaugh-cyek, Thor Cake and Tharfy Cake",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Halloween"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tharf Cake",
+  "usedSnapshot": "20210512112541"
+}

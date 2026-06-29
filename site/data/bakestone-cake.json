@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922091305",
+  "finalPath": "bakestone-cake.html",
+  "heading": "Bakestone Cake",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "lard",
+    "salt",
+    "fat",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bakestone-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EYorkshire Evening Post\u003C/i\u003E\u0027 - Monday 15 April 1935",
+      "receiptText": "\u003Cb\u003EYorkshire \u0022Bakestones.\u0022\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThe other day I gave a recipe for Welsh bakestone cakes which has prompted a reader to send me the following note. -\u003Cbr\u003E\n\u003Cbr\u003E\nSurely Yorkshire (she writes) should have pride of place over Welsh bakestones in their own county. They are true Yorkshire as their name shows. Bakestone Is sandstone found In Nidderdale. Bakestone Gill, near Lofthouse is called after it, and It gives its name to other large gills. It will stand fire well as well as fire-brick. Originally. the cakes were baked on the stone, and later the name was given to the iron plate with strong handle which it can be easily lifted off and on the fire. But bakestone cake can be baked in the frying-pan equally well as a bakestone In the kitchen. The recipe I have from an old manuscript book of my grandmother.\u003Cbr\u003E\n\u003Cbr\u003E\nTake 1 lb. of flour add a little salt and rub in 4 oz.of lard Mix Into a paste with cold water. Roll out very thin. Cut Into small rounds and bake in a fryingpan or bakestone. Split and butter and serve hot. The mixture can kept for day er two, but the cakes must eaten soon as cooked. They were really Lenten delicacy when eggs were not to used\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bakestone-cake.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ESouthern Reporter\u003C/i\u003E\u0027 - Thursday 19 September 1918",
+      "receiptText": "BAKESTONE CAKE.-I find this an excellent summer tart; it takes less fat, and there is heating of the oven. Stew one pound of any fruit you can get with a little water, and when done sweeten with syrup or sugar. Mix one teaapoonful of bi-carbonate of soda with one pound and half of flour. Rub in four ounces of dripping, and make into a paste with sour milk and water. Cut into rounds the of a dinner-plate, and bake a nice brown on both sides on a bakestone. When done, cut through, put some of the stewed-fruit on one piece and cover with the other. Can be eaten either hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Bakestone Cake",
+  "usedSnapshot": "20211201001118"
+}

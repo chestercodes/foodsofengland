@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20130323195818",
+  "finalPath": "bath-chaps.html",
+  "heading": "Bath Chaps",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "ham",
+    "turkey"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bath-chaps.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECooks Guide and Housekeeper\u0027s and Butler\u0027s Assistant\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli, 1857",
+      "receiptText": "\u003Cb\u003ENo 447 BATH CHAPS\u003C/b\u003E\u003Cbr\u003E\nBath chaps or pig\u0027s faces cured as bacon are much esteemed by some epicures and are very good substitutes for ham with roast turkey \u0026amp;c especially in an economical point of view When about to dress a bath chap it should be first soaked in cold water for three or four hours previously to its being boiled for about an hour and a half in water when done pull off the rind stake some brown raspings of bread all over the cheek dish it up with some kind of green vegetable round it and serve\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bath Chaps",
+  "usedSnapshot": "20220517165621"
+}

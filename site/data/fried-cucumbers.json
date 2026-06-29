@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922093603",
+  "finalPath": "fried-cucumbers.html",
+  "heading": "Fried Cucumbers",
+  "ingredients": [
+    "butter",
+    "flour",
+    "gravy",
+    "mutton",
+    "onion",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-cucumbers.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E147. To fry CUCUMBERS for Mutton Sauce.\u003C/b\u003E\u003Cbr\u003E\nYou must brown some butter in a pan, and cut six middling cucumbers, pare and slice them, but not over thin, drain them from the water, then put them into the pan, when they are fried brown put to them a little pepper and salt, a lump of butter, a spoonful of vinegar, a little shred onion, and a little gravy, not to make it too thin, so shake them well together with a little flour.\u003Cbr\u003E\nYou may lay them round your mutton, or they are proper for a side-dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Devil Tavern Cucumbers",
+      "relatedPageUrl": "devil-tavern-cucumbers.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Fried Cucumbers",
+  "usedSnapshot": "20220819112434"
+}

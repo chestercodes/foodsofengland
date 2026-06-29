@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20121024084831",
+  "finalPath": "marmite.html",
+  "heading": "Marmite",
+  "ingredients": [
+    "bread",
+    "gravy",
+    "marmite",
+    "potatoes",
+    "sugar",
+    "tea",
+    "toast",
+    "toasted bread",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marmite.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESainsbury\u2019s Magazine\u003C/i\u003E\u0027",
+      "receiptText": "\u003Cb\u003EMake-your-own \u2018Marmite\u2019\u003Cbr\u003E\nRecipe by Alex Bond\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022marmite-11527-marmite.jpg\u0022\u003E\u003Cimg src=\u0022marmite-11527-marmite.jpg\u0022 width=\u0022400\u0022 height=\u0022auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis version of Marmite is so versatile; you can slather it on toast, use it to flavour broths and gravy, and even toss your roast potatoes in it\u003Cbr\u003E\nMakes: 1 x 200ml jar\u003Cbr\u003E\nPrep time: 30 mins\u003Cbr\u003E\nTotal time: 3 hrs 30 mins\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1kg sourdough bread, thickly sliced\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 7g fresh yeast, or brewer\u2019s yeast powder\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 10g sugar (any type)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EStep by step\u003C/b\u003E\u003Cbr\u003E\nKeeps for up to 1 month in a sterilised jar in the fridge.\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat the oven to 220\u00B0C, fan 200\u00B0C, gas 7. Put the sliced bread on a large baking tray and toast in the oven for 25-30 minutes, turning halfway, until very well browned. Chop into large cubes.\u003Cbr\u003E\nCombine the yeast and sugar with a little water in a very large bowl, then pour in a further 4 litres of room-temperature water. Stir in the toasted bread and leave to soak, covered with a clean tea towel or muslin, for 12 hours.\u003Cbr\u003E\nAfter 12 hours, use a slotted spoon to scoop out a bit of the bread at a time. Holding it over the bowl, squeeze the liquid that it has soaked up back into the bowl, then discard the squeezed-out bread. Repeat with all the bread until you\u2019re left with just a cloudy liquid. Loosely cover with a clean tea towel or muslin and leave the liquid to ferment at room temperature for the next 2 days.\u003Cbr\u003E\nPour the liquid into a large wide pan on thehob and reduce to a syrupy consistency (it will thicken further as it cools). As the 4 litres of liquid will reduce to about 200ml of \u2018Marmite\u2019, it may take a couple of hours to reduce to the right consistency - you\u2019ll need to keep an eye on it towards the end of the reduction time to make sure it doesn\u2019t catch, and you may want to transfer it to a smaller pan towards the end.\u003Cbr\u003E\n\u003Cbr\u003E\nChef quote\u003Cbr\u003E\nThis recipe is super-rich, with a really strong umami flavour. It\u2019s a bit less salty and more acidic than shop-bought Marmite, which is made from leftover brewer\u2019s yeast. I think that\u2019s what gives ours a deeper, richer, more \u2018bready\u2019 flavour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Marmite",
+  "usedSnapshot": "20220705084959"
+}

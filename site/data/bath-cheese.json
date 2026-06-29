@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082653",
+  "finalPath": "bath-cheese.html",
+  "heading": "Bath Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bath Cheese",
+  "usedSnapshot": "20211201003051"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20130323203550",
+  "finalPath": "lamb-and-barley-stew.html",
+  "heading": "Lamb and Barley Stew",
+  "ingredients": [
+    "bacon",
+    "barley",
+    "basil",
+    "beef",
+    "butter",
+    "carrots",
+    "celery",
+    "flour",
+    "herbs",
+    "lamb",
+    "onions",
+    "parsley",
+    "plain flour",
+    "thyme",
+    "turnip",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-and-barley-stew.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lamb%20and%20Barley%20Stew\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients\u003Cbr\u003E\nServes: 4-6\u003Cbr\u003E\n\u003Cbr\u003E\n3 lb Leg or shoulder of lamb (3 lb), boned, trimmed \u0026 cubed\u003Cbr\u003E\n2 Tablespoon Plain flour\u003Cbr\u003E\n3 Rashers Streaky bacon, chopped\u003Cbr\u003E\n1 oz Butter\u003Cbr\u003E\n2 Medium Onions, chopped\u003Cbr\u003E\n2 Medium Carrots, sliced\u003Cbr\u003E\n4 oz Turnips or swede diced\u003Cbr\u003E\n2 Sticks of Celery, sliced\u003Cbr\u003E\n2 Tablespoon Pearl barley\u003Cbr\u003E\n2 Teaspoon Fresh mixed herbs (thyme, basil etc) chopped\u003Cbr\u003E\n1/2 pint Lamb or beef stock\u003Cbr\u003E\nFresh parsley - chopped for garnish\u003Cbr\u003E\n\u003Cbr\u003E\nToss the lamb in the flour.\u003Cbr\u003E\nDry fry the bacon in a large flameproof casserole. Add the butter and the lamb and fry until browned all over, stirring. Remove the lamb and bacon with a slotted spoon and set aside.\u003Cbr\u003E\nAdd the onions, carrots, turnip or swede and celery to the casserole and fry for 5-10 minutes until they are beginning to brown.\u003Cbr\u003E\nReturn the lamb to the casserole, add the pearl barley and herbs and pour in the stock.\u003Cbr\u003E\nBring to the boil, then cover and simmer for 2 hours, stirring occasionally to prevent it sticking, until the lamb is tender.\u003Cbr\u003E\nServe hot, sprinkled with chopped parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Lamb and Barley Stew",
+  "usedSnapshot": "20211201042606"
+}

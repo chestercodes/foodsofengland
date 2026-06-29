@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808235931",
+  "finalPath": "cauliflower-and-potato.html",
+  "heading": "Cauliflower and Potato",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cauliflower and Potato",
+  "usedSnapshot": "20220808015528"
+}

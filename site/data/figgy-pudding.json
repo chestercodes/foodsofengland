@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922082143",
+  "finalPath": "figgy-pudding.html",
+  "heading": "Figgy Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Christmas Pudding",
+      "relatedPageUrl": "christmas-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgie Hobbin or Figgyhobbin",
+      "relatedPageUrl": "figgie-hobbin-or-figgyhobbin.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgie-dowdie",
+      "relatedPageUrl": "figgie-dowdie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgy Apples",
+      "relatedPageUrl": "figgy-apples.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Figgy Pudding",
+      "relatedPageUrl": "figgy-pudding.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Figgy Pudding",
+  "usedSnapshot": "20211201034250"
+}

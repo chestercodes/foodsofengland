@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140212023846",
+  "finalPath": "ipswich-lemon-pie.html",
+  "heading": "Ipswich Lemon Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "cream",
+    "eggs",
+    "flan",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "pastry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ipswich-lemon-pie.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003EIpswich Lemon Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n8 oz Shortcrust pastry\u003Cbr\u003E\nGrated rind and juice of a lemon\u003Cbr\u003E\n2 oz Butter\u003Cbr\u003E\n2 oz Caster Sugar\u003Cbr\u003E\n4 Eggs\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\nPre-heat the oven to 200\u00B0C: 400\u00B0F: Gas 6\u003Cbr\u003E\nLine a 7 inch flan dish with the shortcrust pastry.\u003Cbr\u003E\nInto a saucepan, add the lemon rind, lemon juice, butter and sugar.\u003Cbr\u003E\nHeat over a low heat, stirring occasionally, until the sugar has dissolved.\u003Cbr\u003E\nPour into a large bowl and set the mixture aside to cool completely.\u003Cbr\u003E\nBeat the eggs well together and strain into the cooled mixture.\u003Cbr\u003E\nStir the mixture gently until the eggs are combined.\u003Cbr\u003E\nPour into the pastry case and glaze the edges of the pie with a little milk.\u003Cbr\u003E\nPut the pie in the oven for 10 minutes, then reduce the temperature to 180\u00B0C: 350\u00B0F: Gas 4 for approx 15-20 minutes until the filling is set and the pastry is light golden in colour.\u003Cbr\u003E\nServe warm or cold with fresh cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Ipswich Lemon Pie",
+  "usedSnapshot": "20211129105944"
+}

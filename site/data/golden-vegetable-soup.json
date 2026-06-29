@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922071923",
+  "finalPath": "golden-vegetable-soup.html",
+  "heading": "Golden Vegetable Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESoup Dorye\u003C/b\u003E",
+      "relatedPageUrl": "soup-dorye.html",
+      "relationDescription": "See the ancient: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Golden Vegetable Soup",
+  "usedSnapshot": "20220516212806"
+}

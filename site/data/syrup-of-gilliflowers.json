@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073007",
+  "finalPath": "syrup-of-gilliflowers.html",
+  "heading": "Syrup of Gilliflowers",
+  "ingredients": [
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "syrup-of-gilliflowers.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E384. To make SYRRUP of GILLIFLOWERS.\u003C/b\u003E\u003Cbr\u003E\nTake five pints of clipt gilliflowers, two pints of boiling water and put to them, then put them in an earthen pot to infuse a night and a day, take a strainer and strain them out; to a quart of your liquor put a pound and half of loaf sugar, boil it over a slow fire, and skim it whilst any skim rises; so when it is cold bottle it for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Syrup of Gilliflowers",
+  "usedSnapshot": "20211201005418"
+}

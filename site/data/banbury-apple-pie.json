@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20140212025127",
+  "finalPath": "banbury-apple-pie.html",
+  "heading": "Banbury Apple Pie",
+  "ingredients": [
+    "apple",
+    "butter",
+    "cinnamon",
+    "currants",
+    "ginger",
+    "milk",
+    "sugar",
+    "breadcrumbs",
+    "brown sugar",
+    "caster sugar",
+    "egg",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "orange",
+    "orange juice",
+    "pastry",
+    "plain flour",
+    "salt",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "banbury-apple-pie.html-1",
+      "receiptSource": "Original Receipt from Shipley Times and Express - Saturday 03 November 1928",
+      "receiptText": "\u003Cb\u003EA SEASONABLE DISH.\u003C/b\u003E\u003Cbr\u003E\nBanbury Apple Pie. -Butter a piedish, peel and core some juicy apples, put layer of apples in the dish with thick layer of chopped mixed candied peel, nicely cleaned currants, a little ground cinnamon and ground ginger. Pour over this little warm butter, then fill up the piedish with further layers of apples, candied peel, currants and flavouring. Add teacupful of boiling water and teacupful of sugar. Cover the pie with a nice short paste, bake in a hot oven for three-quarters of an hour. Brush the paste with milk, sprinkle freely with sugar and set the pie in the oven for a few minutes to glaze.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "banbury-apple-pie.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Banbury%20Apple%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "12 oz plain flour\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n6 oz butter\u003Cbr\u003E\n1 tbsp caster sugar\u003Cbr\u003E\n1 egg, lightly beaten\u003Cbr\u003E\n1 \u00BD lb cooking apples\u003Cbr\u003E\njuice of \u00BD lemon\u003Cbr\u003E\n4 oz sultanas\u003Cbr\u003E\n3 oz soft light brown sugar\u003Cbr\u003E\npinch of ground cinnamon\u003Cbr\u003E\npinch of freshly grated nutmeg\u003Cbr\u003E\ngrated rind and juice of 1 orange\u003Cbr\u003E\nfresh milk, to glaze\u003Cbr\u003E\ncaster sugar for sprinkling\u003Cbr\u003E\n\u003Cbr\u003E\nPut flour \u0026 salt in a bowl. Rub in the butter until the mixture resembles fine breadcrumbs.\u003Cbr\u003E\nStir in the caster sugar, then stir in the egg \u0026 enough water to bind the mixture together.\u003Cbr\u003E\nKnead lightly on a lightly floured surface.\u003Cbr\u003E\nRoll out 2/3of the pastry \u0026 line a shallow pie dish.\u003Cbr\u003E\nPut apples slices in a bowl \u0026 sprinkle with lemon juice.\u003Cbr\u003E\nLayer apples, sultanas, brown sugar, spices \u0026 orange rind in pie dish, sprinkle with orange juice.\u003Cbr\u003E\nRoll the rest of pastry to form a lid, place on top .\u003Cbr\u003E\nPress edges together and trim, make a slit in the centre of the pie \u0026 brush pie top with milk to glaze\u003Cbr\u003E\nBake in a preheated oven 400oF/200oC/gas mark 6 for 30 minutes, until golden brown.\u003Cbr\u003E\nSprinkle top with caster sugar, serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Banbury Apple Pie",
+  "usedSnapshot": "20211129111348"
+}

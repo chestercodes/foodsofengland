@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922072402",
+  "finalPath": "baked-potato.html",
+  "heading": "Baked Potato",
+  "ingredients": [
+    "butter",
+    "cherry",
+    "pepper",
+    "potato",
+    "salt",
+    "sugar",
+    "potatoes",
+    "shalot"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "baked-potato.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn (\u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E20. Potato.\u003C/b\u003E The small green Fruit (when about the size of the Wild Cherry) being pickled, is an agreeable Sallet. But the Root being roasted under the Embers, or otherwise, open\u0027d with a Knife, the Pulp is butter\u0027d in the Skin, of which it will take up a good Quantity, and is seasoned with a little Salt and Pepper. Some eat them with Sugar together in the Skin, which has a pleasant Crimpness. They are also stew\u0027d and bak\u0027d in Pyes, \u0026amp;c.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "baked-potato.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 137. BAKED OR ROASTED POTATOES.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nYou do not require that I should tell you that when you have no oven you can easily roast your potatoes by placing them on the hobs, bars, and under the fire-grate; and if you are attentive to their being well roasted, by turning them about now and then, so that they may be done all over alike, you need not be deprived of a baked potato for the want of an oven. When the potatoes are roasted, slightly squeeze each separately in a cloth, to make them mealy, then split them open; season them with a bit of butter, or dripping, a little bit of chopped shalot, pepper, and salt, and this will afford you a nice relish for supper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Baked Potato",
+  "usedSnapshot": "20211201024740"
+}

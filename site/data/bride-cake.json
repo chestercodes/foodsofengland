@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140508102646",
+  "finalPath": "bride-cake.html",
+  "heading": "Bride Cake",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "brandy",
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "sugar",
+    "rose water",
+    "yeast"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bride-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Bride Cakes.\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE two pounds of loaf sugar, four pounds of fresh butter, and the same quantity of fine well dried flour; pound and sift fine a quarter of an ounce of mace, the same of nutmegs, and to every pound of flour put eight eggs; wash four pounds of currants, and pick them well, and dry them before the fire; blanch a pound of sweet almonds, and cut them lengthways very thin; a pound of citron, a pound of candied orange, the same of candied lemon, and half a pint of brandy. First work the butter to a cream with the hand, then beat in the sugar a quarter of an hour, and beat the whites of the eggs to a very strong froth. Mix them with the sugar and butter, beat the yolks half an hour at least, and mix them with the cake. Then put in the flour, mace, and nutmeg, and keep beating it well till the oven is ready. Put in the brandy, and beat the currants and almonds lightly in. Tie three sheets of paper round the bottom of the hoop, to keep it from running out, and rub it well with butter. Then put in the cake, and lay the sweetmeats in three layers, witli some cake between every layer. As soon as it is risen and coloured, cover it with paper before the oven is covered up. It must be baked three hours. If approved, put an icing on it. See Icing.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bride-cake.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BRIDE CAKE. Mix together a pound of dried flour, two drams of powdered mace, and a quarter of a pound of powdered loaf sugar. Add a quarter of a pint of cream, and half a pound of melted butter; a quarter of a pint of yeast, five eggs, with half of the whites beaten up with the yolks, and a gill of rose water. Having warmed the butter and cream, mix them together, and set the whole to rise before the fire. Pick and clean half a pound of currants, put them in warm and well dried.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Ebridecake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Bride Cake",
+  "usedSnapshot": "20200105155647"
+}

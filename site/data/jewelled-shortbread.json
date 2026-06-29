@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140508113240",
+  "finalPath": "jewelled-shortbread.html",
+  "heading": "Jewelled Shortbread",
+  "ingredients": [
+    "almonds",
+    "butter",
+    "cherries",
+    "cream",
+    "flour",
+    "glace cherries",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jewelled-shortbread.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Jewelled%20Shortbread\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EJewelled Shortbread\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4 oz butter\u003Cbr\u003E\n2 oz sugar\u003Cbr\u003E\n6 oz flour\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n2 oz multi-colored glace cherries, washed and chopped\u003Cbr\u003E\n2 oz flaked almonds, chopped\u003Cbr\u003E\n1 oz angelica, chopped\u003Cbr\u003E\n\u003Cbr\u003E\nCream together the butter and sugar, then work in the flour and salt, followed by half the cherries, almonds and angelica. Knead lightly and chill for 15 minutes. Roll out on a floured surface into a rectangle, about 4 inches wide and 1/4 inch thick. Cut into 1 inch fingers. Place fingers onto a greased baking sheet and decorate with the rest of the cherries, almonds, and angelica. Prick lightly with a fork and bake at 325F for 20 minutes. The shortbread should be light gold but not brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Jewelled Shortbread",
+  "usedSnapshot": "20220815153710"
+}

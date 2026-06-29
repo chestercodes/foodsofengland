@@ -1,0 +1,84 @@
+﻿{
+  "earliestSnapshot": "20150130040917",
+  "finalPath": "grey-peas-and-bacon.html",
+  "heading": "Grey Peas (and Bacon)",
+  "ingredients": [
+    "ale",
+    "bacon",
+    "barley",
+    "onion",
+    "peas",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "grey-peas-and-bacon.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFor gray pese.\u003C/b\u003E\u003Cbr\u003E\nFyrst stepe thy pese over the nyet,\u003Cbr\u003E\nAnd trendel hom clene, and fayre hom dyet.\u003Cbr\u003E\nSethe hom in water; and brothe thou take\u003Cbr\u003E\nOf bacun, and fresshe bre thou nowt forsake;\u003Cbr\u003E\nSumme men hom lofe alyed wyle\u003Cbr\u003E\nWith floure and summe with never a dele;\u003Cbr\u003E\nthese pese with bacun eten may be\u003Cbr\u003E\nAs tho whyet pese were, so mot I the.\u003Cbr\u003E\nBut tho white with powder of peper tho\u003Cbr\u003E\nMoun be forsyd with ale there to.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "grey-peas-and-bacon.html-2",
+      "receiptSource": "Original Receipt in Marjorie Cashmore\u0027s \u0027\u003Ci\u003EA Feast of Memories: Black Country Food and Life at the Turn of the Nineteenth Century\u003C/i\u003E\u0027, published in 1986 by Westwood Press;",
+      "receiptText": "\u003Cb\u003EGrey Peas and Bacon\u003C/b\u003E\u003Cbr\u003E\n1 lb dried grey peas\u003Cbr\u003E\n1 large sliced onion\u003Cbr\u003E\n3 oz Pearl Barley\u003Cbr\u003E\nSalt and Pepper\u003Cbr\u003E\n1 lb bacon\u003Cbr\u003E\n\u003Cbr\u003E\nSoak the peas and pearl barley overnight and then place in a saucepan with the onion, previously browned bacon and salt and pepper. Cook slowly for three hours. (In our experience the bacon is chopped into small pieces before browning).\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFaggots\u003C/b\u003E",
+      "relatedPageUrl": "faggots.html",
+      "relationDescription": "For information on the accompaniment, see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EParched Peas\u003C/b\u003E",
+      "relatedPageUrl": "parched-peas.html",
+      "relationDescription": "For another pea tradition, see:"
+    },
+    {
+      "relatedPageText": "Doughnuts - Ring form",
+      "relatedPageUrl": "doughnuts-ring-form.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Grey Peas (and Bacon)",
+      "relatedPageUrl": "grey-peas-and-bacon.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Pancakes for Shrove Tuesday",
+      "relatedPageUrl": "pancakes-for-shrove-tuesday.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Monday Collop",
+      "relatedPageUrl": "monday-collop.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Grey Peas (and Bacon)",
+  "usedSnapshot": "20220706155531"
+}

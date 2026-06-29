@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20191116121131",
+  "finalPath": "taffety-tart.html",
+  "heading": "Taffety-Tart",
+  "ingredients": [
+    "butter",
+    "lemon",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "taffety-tart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E \u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Taffety-Tart.\u003C/b\u003E\u003Cbr\u003E\nFirst wet the paste with butter and cold water, roul it very thin, then lay apples in the lays, and between every lay of apples, strew some fine sugar, and some lemon-peel cut very small, you may also put some fennil-seed to them; let them bake an hour or more, then ice them with rose-water, sugar, and butter beaten together, and wash them over with the same, strew more fine sugar on them, and put them into the oven again, being enough serve them hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETuff-Taffity Cream\u003C/b\u003E",
+      "relatedPageUrl": "tuff-taffity-cream.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Taffety-Tart",
+  "usedSnapshot": "20210510035226"
+}

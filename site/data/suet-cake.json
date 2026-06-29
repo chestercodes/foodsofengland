@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150922091102",
+  "finalPath": "suet-cake.html",
+  "heading": "Suet Cake",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "egg",
+    "flour",
+    "golden syrup",
+    "lard",
+    "milk",
+    "plain flour",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suet-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Suet%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ERecipe for suet cakes (6-10 depending on size)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nINGREDIENTS\u003Cbr\u003E\n6oz plain flour\u003Cbr\u003E\n3oz shredded suet\u003Cbr\u003E\n1 egg\u003Cbr\u003E\na pinch of salt\u003Cbr\u003E\n1 level teaspoon of baking powder\u003Cbr\u003E\nMilk\u003Cbr\u003E\nLard\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD\u003Cbr\u003E\n1 - Make the dough by mixing together the flour, baking powder and salt and rubbing in the suet.\u003Cbr\u003E\n2 - Beat the egg and add the egg and enough milk to make a stiff suet dough.\u003Cbr\u003E\n3 - Roll out the dough on a floured surface to a depth of about quarter of an inch and then cut into rounds using a plain, round cutter. (a cup can also be used), or simply make balls and roll them out.\u003Cbr\u003E\n4 - Melt a little lard in a frying pan and fry the pancakes until golden brown on both sides.\u003Cbr\u003E\n\u003Cbr\u003E\nWipe the pan clean between pancakes to get rid of burnt flour.\u003Cbr\u003E\nExcellent served with golden syrup.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Suet Cake",
+  "usedSnapshot": "20211021020455"
+}

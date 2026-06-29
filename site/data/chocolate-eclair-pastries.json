@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212030758",
+  "finalPath": "chocolate-eclair-pastries.html",
+  "heading": "Chocolate Eclair Pastries",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chocolate Eclair Sweets",
+      "relatedPageUrl": "chocolate-eclair-sweets.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Chocolate Eclair Pastries",
+  "usedSnapshot": "20211019192005"
+}

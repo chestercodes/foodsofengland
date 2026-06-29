@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20161017122235",
+  "finalPath": "bookshop.html",
+  "heading": "Bookshop",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bookshop",
+  "usedSnapshot": "20220527072432"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140212191949",
+  "finalPath": "stump-pie.html",
+  "heading": "Stump Pie",
+  "ingredients": [
+    "dates",
+    "eggs",
+    "mutton",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar",
+    "tyme",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stump-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a stump Pye.\u003C/b\u003E\u003Cbr\u003E\nTake a Leg of mutton, one pound and a half of the best Suet, mince both small together, then season it with a quarter of a pound of Sugar, and a small quantity of salt, and a little cloves \u0026 mace, then take a good handful of Parsly half as much Tyme, and mince them very small, and mingle them with the rest; then take six new laid Eggs and break them into the meat and worke it well together, and put it into the past; then upon the Top put Raisins, Currans and Dates a good quantity, cover and bake it, when it is baked, and when it is very hot, put into it a quarter of a Pint of White wine Vinegar, and strow Sugar upon it, and so serve it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Stump Pie",
+  "usedSnapshot": "20220815152516"
+}

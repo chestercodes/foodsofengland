@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130323195832",
+  "finalPath": "berkshire-hog.html",
+  "heading": "Berkshire Hog",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "cream",
+    "flour",
+    "mushrooms",
+    "onions",
+    "parsley",
+    "pepper",
+    "pork",
+    "salt",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "berkshire-hog.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Berkshire%20Hog\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBerkshire Hog\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4 Pork Chops, wiped and trimmed\u003Cbr\u003E\n285ml (\u00BD pint) White Wine or Stock\u003Cbr\u003E\n150ml (\u00BC pint) Single Cream\u003Cbr\u003E\n110g (4oz) Mushrooms, wiped and sliced\u003Cbr\u003E\n25g (1oz) Butter\u003Cbr\u003E\n8 Button Onions, peeled\u003Cbr\u003E\nBouquet Garni\u003Cbr\u003E\n1 tbsp Oil\u003Cbr\u003E\n1 tbsp Flour\u003Cbr\u003E\nParsley\u003Cbr\u003E\nSalt and Black Pepper\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the butter and oil in a frying pan. Add the pork chops and lightly brown on each side. Remove the pork, add the sliced onions and gently cook until golden. Add the wine (or stock) and bouquet garni. Return the pork to the frying pan. Bring to the boil. Cover and simmer gently for 45-60 minutes. Add the sliced mushrooms and cook for 10 minutes. Mix the flour with a little of the cream. Remove from the heat and stir in the mixture. Return to the boil and boil for 1 minute. Add the remaining of the cream, stirring well, but do not allow to boil Remove bouquet garni and adjust the seasoning. Garnish with of sprigs parsley.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Berkshire Hog",
+  "usedSnapshot": "20211207122453"
+}

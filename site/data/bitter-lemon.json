@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922093717",
+  "finalPath": "bitter-lemon.html",
+  "heading": "Bitter Lemon",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Bitter Lemon",
+  "usedSnapshot": "20220810040456"
+}

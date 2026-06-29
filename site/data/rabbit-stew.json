@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20150922073714",
+  "finalPath": "rabbit-stew.html",
+  "heading": "Rabbit Stew",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "flour",
+    "ginger",
+    "gravy",
+    "rabbits",
+    "sugar",
+    "sugur",
+    "butter",
+    "ketchup",
+    "lemon",
+    "liver",
+    "mushroom",
+    "onions",
+    "rabbit",
+    "cream",
+    "milk",
+    "onion",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "rabbit-stew.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "CONNYNGES IN GRAUEY. XXVI.\u003Cbr\u003E\nTake Connynges smyte hem to pecys. parboile hem and drawe hem with a gode broth with almandes blanched and brayed. do \u00FEerinne sugur and powdour gynger and boyle it and the flessh \u00FEerwith. flour it with sugur and with powdour gynger an serue forth.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003E26: RABBITS IN GRAVY\u003Cbr\u003E\nTake Rabbits, cut them into pieces, parboil them and put them in good broth with blanched almonds, crushed. Add sugar and ginger and boil it with the meat. Dust with sugar and ginger powder and serve forth.\u003C/i\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rabbit-stew.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESTEWED RABBIT.\u003C/b\u003E\u003Cbr\u003E\n984. INGREDIENTS. - 1 rabbit, 2 large onions, 6 cloves, 1 small teaspoonful of chopped lemon-peel, a few forcemeat balls, thickening of butter and flour, 1\u0026nbsp;\u0026nbsp;\u0026nbsp;large tablespoonful of mushroom ketchup.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Cut the rabbit into small joints; put them into a stewpan, add the onions sliced, the cloves, and minced lemon-peel. Pour in sufficient water\u0026nbsp;\u0026nbsp;\u0026nbsp;to cover the meat, and, when the rabbit is nearly done, drop in a few forcemeat balls, to which has been added the liver, finely chopped. Thicken the gravy\u0026nbsp;\u0026nbsp;\u0026nbsp;with flour and butter, put in the ketchup, give one boil, and serve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - Rather more than\u00BD hour. \u003Ci\u003EAverage cost\u003C/i\u003E, 1s. to 1s. 6d each.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E for 4 or 5 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E from September to February.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rabbit-stew.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EMid Sussex Times\u003C/i\u003E\u0027 - Tuesday 4 December 1906",
+      "receiptText": "Rabbit Stew.-Cut the rabbit pieces, soak half an hour in salt water, put into stewpan with slices of salt pork, and stew until tender; then drain off the water and pour teacupful of rich milk or cream over the rabbit, add half small finely-chopped onion and two ounces of butter rolled flour. Season with salt and pepper. Boil up once, and serve with the gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Rabbit"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Rabbit Stew",
+  "usedSnapshot": "20210518203120"
+}

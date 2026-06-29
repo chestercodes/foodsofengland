@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20130323200056",
+  "finalPath": "stuffed-chine.html",
+  "heading": "Stuffed Chine",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Stuffed Chine",
+  "usedSnapshot": "20220629022832"
+}

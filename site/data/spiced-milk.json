@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922082039",
+  "finalPath": "spiced-milk.html",
+  "heading": "Spiced Milk",
+  "ingredients": [
+    "milk",
+    "peppermint",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spiced-milk.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELloyd\u0027s Weekly Newspaper\u003C/i\u003E\u0027 - Sunday 2 December 1900",
+      "receiptText": "\u003Cb\u003EHOME-MADE WINTER DRINKS.\u003C/b\u003E\u003Cbr\u003E\nA pennyworth of oil of peppermint in a quart of luke-warm or- boiling water, sweetened to taste, is a simple drink of which children are particularly fond. Spiced milk is good for cold nichts. Rub together an ounce of lump sugar and twelve drops of essence of vanilla, and add gradually a pint of hot milk\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Spiced Milk",
+  "usedSnapshot": "20220808012202"
+}

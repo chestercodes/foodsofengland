@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922094442",
+  "finalPath": "ribston-pippin.html",
+  "heading": "Ribston Pippin",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Ribston Pippin",
+  "usedSnapshot": "20220516222410"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074837",
+  "finalPath": "oil-soppes.html",
+  "heading": "Oil Soppes",
+  "ingredients": [
+    "ale",
+    "bread",
+    "onions",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oil-soppes.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EOyle soppes.\u003C/b\u003E Take a good quantite of onions, and myce them, not to smale, \u0026 seth them in faire water, And take them up; and then take a good quantite of stale ale, as iii galons, And there-to take a pynte of goode oyle that is fraied, and cast the onions there-to, And let al boil together a grete while, and caste there-to Saffron and salt, And then put bread, in maner of \u003Ca href=\u0022brewis-or-bruette-sauce.html\u0022\u003E\u003Cb\u003Ebrewes\u003C/b\u003E\u003C/a\u003E, and cast the licour there-on, and serve it fort hote.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrewis\u003C/b\u003E",
+      "relatedPageUrl": "brewis-soup.html",
+      "relationDescription": "For similar dishes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Oil Soppes",
+  "usedSnapshot": "20220516224425"
+}

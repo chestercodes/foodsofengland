@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082553",
+  "finalPath": "winchester-cheese.html",
+  "heading": "Winchester Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Winchester Cheese",
+  "usedSnapshot": "20170314022745"
+}

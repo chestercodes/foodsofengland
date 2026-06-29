@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922074113",
+  "finalPath": "celery-seed-vinegar.html",
+  "heading": "Celery Seed Vinegar",
+  "ingredients": [
+    "celery",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "celery-seed-vinegar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECELERY VINEGAR.\u003C/b\u003E\u003Cbr\u003E\n389. INGREDIENTS: \u00BC oz. of celery-seed, 1 pint of vinegar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Crush the seed by pounding it in a mortar; boil the vinegar, and when cold, pour it to the seed; let it infuse for a fortnight, when strain and bottle off for use. This is frequently used in salads.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Celery Seed Vinegar",
+  "usedSnapshot": "20211201002312"
+}

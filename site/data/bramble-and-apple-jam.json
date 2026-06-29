@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922093753",
+  "finalPath": "bramble-and-apple-jam.html",
+  "heading": "Bramble and Apple Jam",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bramble and Apple Jam",
+  "usedSnapshot": "20211201033352"
+}

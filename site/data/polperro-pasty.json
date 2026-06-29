@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20190416151326",
+  "finalPath": "polperro-pasty.html",
+  "heading": "Polperro Pasty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECornish Pasty\u003C/b\u003E",
+      "relatedPageUrl": "cornish-pasty.html",
+      "relationDescription": "For other types see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Polperro Pasty",
+  "usedSnapshot": "20220516225202"
+}

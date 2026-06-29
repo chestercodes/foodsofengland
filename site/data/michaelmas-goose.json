@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922084553",
+  "finalPath": "michaelmas-goose.html",
+  "heading": "Michaelmas Goose",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGreen Goose\u003C/b\u003E",
+      "relatedPageUrl": "green-goose.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGreen Goose Sauce\u003C/b\u003E",
+      "relatedPageUrl": "green-goose-sauce.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Michaelmas Goose",
+  "usedSnapshot": "20220808020313"
+}

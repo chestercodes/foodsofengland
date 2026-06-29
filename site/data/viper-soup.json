@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922094355",
+  "finalPath": "viper-soup.html",
+  "heading": "Viper Soup",
+  "ingredients": [
+    "bread",
+    "cabbage",
+    "herbs",
+    "lemon",
+    "lettuce",
+    "pepper",
+    "salt",
+    "shallot",
+    "spinach",
+    "white wine",
+    "cinnamon",
+    "fat",
+    "liver",
+    "parsley"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "viper-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EViper-Soup. From Mr. Ganeau.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake Vipers, alive, and skin them, and cut off their Heads; then cut them in pieces, about two Inches in length, and boil them, with their Hearts, in about a Gallon of Water to eight Vipers, if they are pretty large. Put into the Liquor a little Pepper and Salt, and a Quart of White Wine to a Gallon of Liquor; then put in some Spice, to your mind, and chop the following Herbs, and put into it: Take some Chervill, some white Beet-Cards or Leaves, some Hearts of Cabbage-Lettuce, a Shallot, some Spinach-Leaves, and some Succory. Boil these, and let them be tender; then serve it up hot, with a French Roll in the middle, and garnish with the raspings of Bread sifted, and slices of Lemon.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "viper-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe lady\u0027s assistant for regulating and supplying her table\u003C/i\u003E\u0027 by Charlotte Mason (\u003Ca href=\u0022references.html#mason-1777\u0022\u003E\u003Cb\u003EMason 1777\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EViper Broth.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a large fowl, draw it, take out all the fat and the breast-bone, fill the body with parsley, a handful of pimpernel, and a head of endive; put these into three pints of Water, with a little salt and pepper; stew it on a slow fire, and let it instill till there is only a quart left; then kill a viper, skin it and take out the entrails, cut the flesh into small pieces, put it with the broth, with the heart and liver cut across, two blades of mace, and a bit of cinnamon; cover it up and let it boil till it is reduced to a pint; by this time the flesh of the viper will be consumed then, strain it off and press it very hard. It will serve twice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EAdder, Snakes\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-1777"
+    }
+  ],
+  "title": "Viper Soup",
+  "usedSnapshot": "20220527223916"
+}

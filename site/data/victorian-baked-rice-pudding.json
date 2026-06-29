@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20140212021131",
+  "finalPath": "victorian-baked-rice-pudding.html",
+  "heading": "Victorian Baked Rice Pudding",
+  "ingredients": [
+    "beat",
+    "beef",
+    "beef marrow",
+    "brandy",
+    "butter",
+    "currants",
+    "eggs",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "raisins",
+    "rice",
+    "salt",
+    "suet",
+    "sugar",
+    "sultana"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "victorian-baked-rice-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBAKED RICE PUDDING.\u003Cbr\u003E\nI.\u003C/b\u003E\u003Cbr\u003E\n1342. INGREDIENTS: 1 small teacupful of rice, 4 eggs, 1 pint of milk, 2 oz. of fresh butter, 2 oz. of beef marrow, \u00BC lb. of currants, 2 tablespoonfuls of brandy, nutmeg, \u00BC lb. of sugar, the rind of\u00BD lemon.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the lemon-rind and milk into a stewpan, and let it infuse till the milk is well flavoured with the lemon; in the mean time, boil the rice until tender in water, with a very small quantity of salt, and, when done, let it be thoroughly drained. Beat the eggs, stir to them the milk, which should be strained, the butter, marrow, currants, and remaining ingredients; add the rice, and mix all well together. Line the edges of the dish with puff-paste, put in the pudding, and bake for about \u00BE hour in a slow oven. Slices of candied-peel may be added at pleasure, or Sultana raisins may be substituted for the currants.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: \u00BE hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 3d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: Suitable for a winter pudding, when fresh fruits are not obtainable.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EII.\u003C/b\u003E\u003Cbr\u003E\n(Plain and Economical; a nice Pudding for Children.)\u003Cbr\u003E\n1343. INGREDIENTS: 1 teacupful of rice, 2 tablespoonfuls of moist sugar, 1 quart of milk,\u00BD oz. of butter or 2 small tablespoonfuls of chopped suet,\u00BD teaspoonful of grated nutmeg.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Wash the rice, put it into a pie-dish with the sugar, pour in the milk, and stir these ingredients well together; then add the butter cut up into very small pieces, or, instead of this, the above proportion of finely-minced suet; grate a little nutmeg over the top, and bake the pudding, in a moderate oven, from 1-\u00BD to 2 hours. As the rice is not previously cooked, care must be taken that the pudding be very slowly baked, to give plenty of time for the rice to swell, and for it to be very thoroughly done.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD to 2 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 7d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 children.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rice Pudding",
+      "relatedPageUrl": "rice-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Victorian Baked Rice Pudding",
+  "usedSnapshot": "20211021025250"
+}

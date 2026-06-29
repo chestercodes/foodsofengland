@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922094431",
+  "finalPath": "gooseberry-hops.html",
+  "heading": "Gooseberry Hops",
+  "ingredients": [
+    "goosberry",
+    "gooseberries",
+    "hops",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-hops.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 203. Gooseberries in the form of hops, wet\u003C/b\u003E\u003Cbr\u003E\nGET the finest green gooseberries you can, cut them into quarters, and take the seeds out of them; take a needle and white thread, make a knot at the end, take hold of one of the gooseberries that you have cut, and push the needle through the end of the goosberry that is split, take another and do the same, and make it go part of it into the other goosberry, and do so till you have got eight on; then you will find they will be in the form of a green hop; when you have finished your hop, fasten the ends of the thread; put them into a pan of water, scald them, and put them into a tub with their own liquor, that you have scalded them in; let them lie in the tub, three or four days, till they begin to grow sour and ferment; then put them into fresh water over the fire till they become hot, but not to boil, observe to put a little sugar into the water, and they will green; drain all that away from the hops and lay the hops regularly in an earthen pan; boil some syrup and put over them; give them a boil once a day, tilt you think they are done, and keep them in an earthen pan till you want to dry them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Gooseberry Hops",
+  "usedSnapshot": "20220527222815"
+}

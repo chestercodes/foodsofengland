@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922081203",
+  "finalPath": "brain-cake.html",
+  "heading": "Brain Cake",
+  "ingredients": [
+    "beat",
+    "egg",
+    "pepper",
+    "salt",
+    "bread",
+    "butter",
+    "cayenne",
+    "eggs",
+    "flour",
+    "gravy",
+    "herbs",
+    "lemon",
+    "parsley",
+    "tea",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "brain-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBRAIN CAKES - ER\u003C/b\u003E\u003Cbr\u003E\nClean wash blanch and soak the brains, then beat them up with a little white pepper and salt, a sage leaf or two, scalded and finely chopped, and the yolk of an egg; make them into small cakes or fritters and fry them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "brain-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ENO. 13. BRAIN CAKES.\u003C/b\u003E\u003Cbr\u003E\nWash and soak the brains well in cold water, and afterwards in hot; free them from the skin and large fibres, and boil them in water, slightly salted, from two to three minutes; beat them up with a tea-spoonful of sage very finely chopped, or with equal parts of sage and parsley, half a teaspoonful or rather more of salt, half as much mace, a little white pepper or cayenne, and one egg; drop them in small cakes into the pan, and fry them in butter a fine light brown: two yolks of eggs will make the cakes more delicate than the white and yolk of one. A teaspoonful of flour and a little lemon-grate are sometimes added.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ENO. 14. ANOTHER RECEIPT FOR BRAIN CAKES.\u003C/b\u003E\u003Cbr\u003E\nBoil the brains in a little good veal-gravy very gently for ten minutes; drain them on a sieve, and when cold cut them into thick dice; dip them into beaten yolk of egg, and then into very fine bread-crumbs, mixed with salt, pounded spices, and fine herbs minced extremely small; fry them of a light brown, drain and dry them well, and drop them into the soup or hash after it is dished. When broth or gravy is not at hand, the brains may be boiled in water.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Brain Cake",
+  "usedSnapshot": "20211129120512"
+}

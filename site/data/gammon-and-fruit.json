@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130324050848",
+  "finalPath": "gammon-and-fruit.html",
+  "heading": "Gammon and Fruit",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gammon and Fruit",
+  "usedSnapshot": "20211201002005"
+}

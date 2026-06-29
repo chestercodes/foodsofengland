@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150524220415",
+  "finalPath": "nesebek.html",
+  "heading": "Nesebek",
+  "ingredients": [
+    "flour",
+    "salt",
+    "suger",
+    "cinnamon",
+    "ginger",
+    "saffron"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "nesebek.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENYSEBEK\u003C/b\u003E\u003Cbr\u003E\nTake there third part of sowre Dokkes and flour thereto \u0026 bete it together tyl it be as towh as eny lyme. Cast thereto salt. \u0026 do it in a disshe holke [holed?] in the bothom, and let it out with thy finger queynchche [covering?] in a chowfer [chafing dish] with oile \u0026 fry it well and when it is ynowhz take it out and cast thereto suger \u0026amp;c.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "nesebek.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENese Bekys.\u003C/b\u003E\u003Cbr\u003E\nTake Fygys \u0026 grind them wel; than take Freyssche Samoun \u0026 goode Freyssche Elys well y-sothe, \u0026 pick out the bonys, \u0026 grind the Fyssche with the Fygis, \u0026 do thereto powder ginger, cinnamon; \u0026 take fair paste of flour, \u0026 make fair cakys ryth thinne, \u0026 take of the fars, \u0026 lay on the cake, \u0026 close with a-nother; then take a Sawcere, \u0026 skoure the sydis, \u0026 close the cake, \u0026 fry them well in Oyle; \u0026 if thou wolt haue him partye, coloure him with saffron, Percely, \u0026 Sawnderys; \u0026 serve forth for a good fryid mete.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Nesebek",
+  "usedSnapshot": "20220810051006"
+}

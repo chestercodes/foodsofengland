@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140508115715",
+  "finalPath": "fruit-shortcake-biscuit.html",
+  "heading": "Fruit Shortcake Biscuit",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Buttermere Biscuits",
+      "relatedPageUrl": "buttermere-biscuits.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Derby Cakes",
+      "relatedPageUrl": "derby-cakes.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Essex Shortcake",
+      "relatedPageUrl": "essex-shortcake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Richmond Short Cake",
+      "relatedPageUrl": "richmond-short-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shrewsbury Biscuits",
+      "relatedPageUrl": "shrewsbury-biscuits.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Winster Wakes Cake",
+      "relatedPageUrl": "winster-wakes-cake.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fruit Shortcake Biscuit",
+  "usedSnapshot": "20220527214619"
+}

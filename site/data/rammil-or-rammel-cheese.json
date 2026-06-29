@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140616081108",
+  "finalPath": "rammil-or-rammel-cheese.html",
+  "heading": "Rammil or Rammel Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rammil or Rammel Cheese",
+  "usedSnapshot": "20220527224526"
+}

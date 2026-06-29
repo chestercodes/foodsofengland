@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212023902",
+  "finalPath": "lardy-johns.html",
+  "heading": "Lardy Johns",
+  "ingredients": [
+    "baking powder",
+    "currants",
+    "flour",
+    "lard",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lardy-johns.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESussex Agricultural Express\u003C/i\u003E\u0027 - Friday 27 December 1929",
+      "receiptText": "TWO SUSSEX DISHES.\u003Cbr\u003E\nRecipes for five dishes peculiar Sussex are given a novel collection, \u0022County Recipes of Old England\u0022 (Country Life. Ltd., 3s. 6d.). which has just been published\u003Cbr\u003E\n\u003Cbr\u003E\nTwo of those chosen dishes are the following:\u003Cbr\u003E\n\u003Cbr\u003E\nLARDY JOHNS.\u003Cbr\u003E\n1/2 lb. of flour.\u003Cbr\u003E\n1oz. of sugar.\u003Cbr\u003E\n1/4 lb. of lard.\u003Cbr\u003E\n1/2 oz. of currants.\u003Cbr\u003E\n1 \u00BD teaspoonfnls of baking powder,\u003Cbr\u003E\n1/4 pint water\u003Cbr\u003E\n\u003Cbr\u003E\nRub the lard into flour, then add the baking powder mixed with the sugar; last of all put in the currants after have been thoroughly picked over and cleaned. Mix into a stiff paste with the water; roll out. cut into 2 ins. squares, and bake for about ten to fifteen minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lardy Johns",
+  "usedSnapshot": "20211019182544"
+}

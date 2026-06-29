@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212030803",
+  "finalPath": "coventry-godcakes.html",
+  "heading": "Coventry Godcakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Warwickshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Coventry Godcakes",
+  "usedSnapshot": "20211205162105"
+}

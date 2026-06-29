@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150426212448",
+  "finalPath": "davenport-fowls.html",
+  "heading": "Davenport Fowls",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "eggs",
+    "ketchup",
+    "liver",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "davenport-fowls.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EDAVENPORT FOWLS.\u003C/b\u003E Hang up young fowls for a night. Take the liver, hearts, and tenderest parts of the gizzards, and shred them small, with half a handful of young clary, an anchovy to each fowl, an onion, and the yolks of four eggs boiled hard, seasoning the whole with pepper, salt, and mace. Stuff the fowls with this mixture, and sew up the vents and necks quite close, that the water may not get in. Boil them in salt and water till almost done; then drain them, and put them into a stewpan with butter enough to brown them. Serve them with fine melted butter, and a spoonful of ketchup of either sort, in the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Davenport Fowls",
+  "usedSnapshot": "20210510055946"
+}

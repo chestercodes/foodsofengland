@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616084724",
+  "finalPath": "salt-pilchards.html",
+  "heading": "Salt Pilchards",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Marinated Pilchards",
+      "relatedPageUrl": "marinated-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pilchard Pie",
+      "relatedPageUrl": "pilchard-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stargazy Pie",
+      "relatedPageUrl": "stargazy-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Salt Pilchards",
+  "usedSnapshot": "20211027035202"
+}

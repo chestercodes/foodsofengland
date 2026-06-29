@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140125041151",
+  "finalPath": "bath-polonies.html",
+  "heading": "Bath Polonies",
+  "ingredients": [
+    "allspice",
+    "coriander",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bath-polonies.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGood Plain Cookery\u003C/i\u003E\u0027 of 1882 by Mary Hooper.",
+      "receiptText": "\u003Cb\u003EBATH POLONIES.\u003C/b\u003E\u003Cbr\u003E\nMince pork as for sausages, season it with coriander, allspice, long pepper, pepper and salt Bullocks\u0027 skins must be used, and must not be filled too tightly. Put the polonies into warm water, with a little red \u003Ca href=\u0022sanders-powder.html\u0022\u003E\u003Cb\u003Esaunders\u003C/b\u003E\u003C/a\u003E to colour the skins, let them get hot very gradually, and as soon as the water is approaching boiling point reduce the heat, because if the polonies boil, the skin will burst. About half an hour will cook them in the hot water, and when done, they will look firm and plump.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Polony",
+      "relatedPageUrl": "polony.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bath Polonies",
+  "usedSnapshot": "20210518212900"
+}

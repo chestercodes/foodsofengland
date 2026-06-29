@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140212023136",
+  "finalPath": "mince-pies-royal.html",
+  "heading": "Mince Pies Royal",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "lemon",
+    "mincemeat",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mince-pies-royal.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EMINCE PIES ROYAL (ENTREMETS)\u003C/b\u003E\u003Cbr\u003E\nAdd to half a pound of good mincemeat an ounce and a half of pounded sugar, the grated rind and the strained juice of a large lemon, one ounce of clarified butter, and the yolks of four eggs; beat these well together, and half fill, or rather more, with the mixture, some pattypans lined with fine paste; put them into a moderate oven, and when the insides are just set, ice them thickly with the whites of the eggs beaten to snow, and mixed quickly at the moment with four heaped tablespoonsful of pounded sugar; set them immediately into the oven again, and bake them slowly of a fine light brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Sweet Mincemeat",
+      "relatedPageUrl": "mincemeat(sweet).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Mince Pies Royal",
+  "usedSnapshot": "20211201010902"
+}

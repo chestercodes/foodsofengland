@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922083058",
+  "finalPath": "green-mint-vinegar.html",
+  "heading": "Green Mint Vinegar",
+  "ingredients": [
+    "green mint",
+    "mint",
+    "tarragon",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-mint-vinegar.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EGREEN MINT VINEGAR.\u003C/b\u003E\u003Cbr\u003E\nSlightly chop, or bruise, freshly-gathered mint, and put it into bottles; till them nearly to the necks, and add vinegar as for tarragon: in forty days, strain it off, and bottle it for use.\u003Cbr\u003E\nThe mint itself, ready minced for sauce, will keep well in vinegar, though the colour will not be very good. The young leaves stripped from the stems, should be used for this preparation.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Green Mint Vinegar",
+  "usedSnapshot": "20211130234103"
+}

@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20220420083534",
+  "finalPath": "lord-nelson-turkey.html",
+  "heading": "Lord Nelson Turkey",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "chili",
+    "chili vinegar",
+    "currant",
+    "egg",
+    "eggs",
+    "fat",
+    "flour",
+    "jelly",
+    "lard",
+    "mashed potatoes",
+    "mushrooms",
+    "parsley",
+    "pepper",
+    "potatoes",
+    "salt",
+    "sugar",
+    "truffles",
+    "turkey",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lord-nelson-turkey.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Gastranomic Regenerator\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "No. 510. Turkey a la Nelson,\u003Cbr\u003E\n\u003Cbr\u003E\nMake a croustade resembling the head of a ship, as represented in the design; procure a very white nice young turkey, truss it as for boiling, leaving as much of the skin of the neck attached to the breast as possible, have ready the following stuffing: scrape an ounce of fat bacon (with a knife), put it into a stewpan, with a teaspoonful of chopped eschalots, pass five minutes over a moderate fire, then add twenty tablespoonfuls of white sauce (No. 7), let it reduce till thick, add twenty small heads of mushrooms, six French truffles cut in slices, and twelve cockscombs; mix all well together over the fire, season with a teaspoonful of powdered sugar, half ditto of salt, and a little white pepper; finish with the yolks of two eggs, stir over the fire a minute to set the eggs, and lay it out on a dish to get cold, then detach the skin on the breast from the flesh without breaking, and force some of the stuffing under the skin; put the remainder in the interior of the breast, roast it in vegetables as described for fillet of beef (No. 417), but just before it is done take away the paper and vege- tables, and let it remain before the fire till of a fine gold colour.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022lord-nelson-turkey-nelsondind2.jpg\u0022\u003E\u003Cimg src=\u0022lord-nelson-turkey-nelsondind2.jpg\u0022 width=\u0022500\u0022 height=\u0022auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Csmall\u003EDetail of the croustade.\u003C/small\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFix the croustade at the head of the dish with a paste made of white of egg and flour, make a border of mashed potatoes round the dish, place the turkey in the centre, and have ready the following garniture: fillet three fowls, lard and braise the fillets as No. 792, form the legs into little ducklings as described (No. 1024), prepare six slices of tongue of the size and shape of the fillets, and dress them round the turkey upon the mashed potatoes to form a ship. For the sauce put two glasses of Madeira wine in a stewpan, with a tablespoonful of Chili vinegar, two minced apples, a small bunch of parsley, a spoonful of chopped mushrooms, and half an ounce of glaze; let it boil a few minutes, add ten tablespoonfuls of tomata sauce (No. 87), a quart of brown sauce (No. 1), and a pint of consomme, let it boil quickly until it adheres to the spoon, stirring it the whole time, finish with a tablespoonful of red currant jelly, pass it through a tammie into another stewpan, season with a little salt and pepper, boil it another minute, glaze the turkey, pour the sauce in the dish, glaze the pieces of tongue and serve.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lord-nelson-turkey.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": ""
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENelson Balls\u003C/b\u003E",
+      "relatedPageUrl": "nelson-balls.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Lord Nelson Turkey",
+  "usedSnapshot": "20220420083534"
+}

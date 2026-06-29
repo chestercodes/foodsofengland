@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140616081257",
+  "finalPath": "whitby-crab-cakes.html",
+  "heading": "Whitby Crab Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crab Cakes",
+      "relatedPageUrl": "crab-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Whitby Crab Cakes",
+  "usedSnapshot": "20220819115428"
+}

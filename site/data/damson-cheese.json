@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922085251",
+  "finalPath": "damson-cheese.html",
+  "heading": "Damson Cheese",
+  "ingredients": [
+    "brandy",
+    "cheese",
+    "jam",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "damson-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EDAMSON CHEESE\u003C/b\u003E. Pick the damsons clean, bake them slowly, till they may be rubbed through a cullender, leaving nothing but the skins and stones. Boil the pulp and[105] juice three hours over a slow fire, with some moist sugar, and keep it stirring to prevent burning. Blanch the kernels, and mix them with the jam a few minutes before it be taken off the fire. Put it into cups, tie it down with writing paper dipped in brandy, and the cheese will keep several years, if kept in a dry place.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Damson Cheese",
+  "usedSnapshot": "20220808002409"
+}

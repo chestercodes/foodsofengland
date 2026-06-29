@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073335",
+  "finalPath": "mead.html",
+  "heading": "Mead",
+  "ingredients": [
+    "eggs",
+    "honey",
+    "brandy",
+    "hops"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "mead.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "STRONG MEAD\u003Cbr\u003E\n\u003Cbr\u003E\nTake one Measure of honey, and dissolve it in four of water, beating it long up and down with clean Woodden ladels. The next day boil it gently, scumming it all the while till no more scum riseth; and if you will clarifie the Liquor with a few beaten whites of Eggs, it will be the clearer. The rule of it\u0027s being boiled enough is, when it yieldeth no more scum, and beareth an Egge, so that the breadth of a groat is out of the water. Then pour it out of the Kettle into woodden vessels, and let it remain there till it be almost cold. Then Tun it into a vessel, where Sack hath been.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mead.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EMead.\u003C/b\u003E\u003Cbr\u003E\nTake twenty-four pounds of honey and six gallons of water, boil it one hour, skim it well, then add an ounce of hops to every gallon, and boil it thirty minutes longer, and let it stand till next day; put it into your cask, and to every twelve gallons, add one quart of brandy, stop it lightly till the fermentation is over, then stop it very close. Keep it one year before you tap.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Mead",
+  "usedSnapshot": "20220810054647"
+}

@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922074435",
+  "finalPath": "roast-potatoes.html",
+  "heading": "Roast Potatoes",
+  "ingredients": [
+    "cheese",
+    "potatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "roast-potatoes.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EPotatoes roasted.- (No. 109.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nWash and dry your potatoes (all of a size), and put them in a tin Dutch oven, or cheese-toaster: take care not to put them too near the fire, or they will get burned on the outside before they are warmed through.\u003Cbr\u003E\nLarge potatoes will require two hours to roast them.\u003Cbr\u003E\nN.B. To save time and trouble, some cooks half boil them first.\u003Cbr\u003E\nThis is one of the best opportunities the BAKER has to rival the cook.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003E\u003Cb\u003EPotatoes roasted under Meat.- (No. 110.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nHalf boil large potatoes, drain the water from them, and put them into an earthen dish, or small tin pan, under meat that is roasting, and baste them with some of the dripping: when they are browned on one side, turn them and brown the other; send them up round the meat, or in a small dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Roast Potatoes",
+  "usedSnapshot": "20210518205146"
+}

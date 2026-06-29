@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130808231736",
+  "finalPath": "eden-pudding.html",
+  "heading": "Eden Pudding",
+  "ingredients": [
+    "butter",
+    "castor sugar",
+    "eggs",
+    "milk",
+    "pudding",
+    "puddings",
+    "sugar",
+    "breadcrumbs",
+    "currants",
+    "egg",
+    "lemon",
+    "suet"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "eden-pudding.html-1",
+      "receiptSource": "Original Receipt from The \u0027\u003Ci\u003EWest Gippsland Gazette\u003C/i\u003E\u0027 (Australia) Tuesday 14 May 1901 (found by Linda Johnson)",
+      "receiptText": "\u003Cb\u003EFAVORITE PUDDINGS.\u003Cbr\u003E\nEDEN PUDDING.\u003C/b\u003E\u003Cbr\u003E\nStew some apples with a little water, sugar to taste, and whatever flavoring is liked. In the meantime mix three dessertspoonfuls of arrowroot with some water, and boil it in a pint of milk, sweetened to taste. When sufficiently cool, add to it three eggs well beaten. Put a thick layer of the apples in a well-buttered pie-dish, and pour on to them the arrowroot. Put a little butter on the top, and add a good sprinkling of castor sugar. Bake in a very brisk oven for 20 minutes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "eden-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENewcastle Journal\u003C/i\u003E\u0027 - Tuesday 16 November 1915",
+      "receiptText": "\u003Cb\u003EGARDEN OF EDEN PUDDING.\u003C/b\u003E\u003Cbr\u003E\nRequired: Half pound of breadcrumbs, four ounces of suet chopped fine, one pound apples, four currants, rind only of one lemon, caster (three ounces), egg-powder (a teaspoonful), milk (half a gill). Mix all the ingredients well together, and put into buttered pudding basin. Tie down with floured cloth, and boil for five hours. If eggs are used instead of the powder use two eggs and leave out the milk. Serve with the following sauce:- Juice only one lemon, butter one ounce, sugar one ounce, water half a teacupful. Mix well. Boil quickly for six minutes, and pour over the pudding.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EGarden of Eden Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Eden Pudding",
+  "usedSnapshot": "20211201032358"
+}

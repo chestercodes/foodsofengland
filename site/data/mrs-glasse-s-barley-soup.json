@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922100649",
+  "finalPath": "mrs-glasse-s-barley-soup.html",
+  "heading": "Mrs. Glasse\u0027s Barley Soup",
+  "ingredients": [
+    "barley",
+    "bread",
+    "lemon",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mrs-glasse-s-barley-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a barley soup.\u003C/b\u003E\u003Cbr\u003E\nTAKE a gallon of water, half a pound of barley, a blade or two of mace, a large crust of bread, a little lemon-peel. Let it boil till it comes to two quarts, then add half a pint of white wine, and sweeten to your palate.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Mrs. Glasse\u0027s Barley Soup",
+  "usedSnapshot": "20220808002103"
+}

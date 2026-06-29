@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922074204",
+  "finalPath": "brown-george-pudding.html",
+  "heading": "Brown George Pudding",
+  "ingredients": [
+    "breadcrumbs",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "milk",
+    "pudding",
+    "suet",
+    "lemon",
+    "lemon juice",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "brown-george-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHull Daily Mail\u003C/i\u003E\u0027 - Wednesday 24 May 1922",
+      "receiptText": "\u003Cb\u003EBrown George Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFour ounces flour, 4ozs. breadcrumbs, 4ozs. chopped suet, 4ozs golden syrup. 1 tsp ginger (ground), 1 teaspoonful carb. soda, \u00BC pint milk.\u003Cbr\u003E\n\u003Cbr\u003E\nMix well and steam 2 1/2, hours. Serve with white sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "brown-george-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDerby Daily Telegraph\u003C/i\u003E\u0027 - Monday 11 February 1929",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\n\u0022BROWN GEORGE\u0022 PUDDING\u003C/b\u003E\u003Cbr\u003E\nThis is a nice nursery pudding called by the comfortable name of \u0022 Brown George.\u0022 Grease a pudding basin and a paper square for covering it. Put on the steamer. Sift a quarter of a pound of flour and a pinch if salt into a bowl. Skin, shred, and chop a quarter of pound of suet with little of the flour. Add to the bowl, together with a quarter of a pound of breadcrumbs, one teaspoonful of ground ginger, a quarter of a teaspoonful of carbonate of soda, quarter of a pound golden syrup, and about a gill of milk. Mix well, and turn into the pudding basin; cover with greased paper, and team for two and half hours. Turn out and serve with golden syrup sauce poured around, and sugar sprinkled over if desired. In case you don\u0027t know how make golden syrup sauce, these are the proportionate quantities: quarter of pound of syrup to half gill of water and the juice of half lemon. Heat the syrup and water in a saucepan, add the lemon juice, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Brown George Pudding",
+  "usedSnapshot": "20200113103258"
+}

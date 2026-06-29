@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922082740",
+  "finalPath": "dredgerman-s-breakfast.html",
+  "heading": "Dredgerman\u0027s Breakfast",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Whitstable"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dredgerman\u0027s Breakfast",
+  "usedSnapshot": "20220527062621"
+}

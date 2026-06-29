@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130324050653",
+  "finalPath": "yorkshire-collop.html",
+  "heading": "Yorkshire Collop",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Yorkshire Collop",
+  "usedSnapshot": "20211018081841"
+}

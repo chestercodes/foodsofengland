@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150514220435",
+  "finalPath": "southend-fruit-shells.html",
+  "heading": "Southend Fruit Shells",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "caster sugar",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "raspberries",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "southend-fruit-shells.html-1",
+      "receiptSource": "Receipt from \u003Ca href=\u0022http://www.essextouristguide.com\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESouthend Fruit Shells\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 4 oz. butter, 4 oz. caster sugar, 2 eggs, 6 oz. flour, 1 teaspoon baking powder, few drops vanilla essence, 1 fl. oz. milk, 3 oz. raspberries, 3 oz. blackcurrants, juice of 1 lemon, 1 tablespoon sugar, fruit leaves, scallop shells or Pyrex shell-shaped dishes\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00BAF or Mark 4. In a bowl, cream together the butter and sugar. Beat the eggs well and gradually add to the creamed mixture. Sift the flour and baking powder together and fold into the mixture. Add the vanilla essence and enough milk to form a soft, dropping consistency. Grease the shells and divide the sponge mixture between them. Cook for 15 minutes or until well risen and golden brown. Meanwhile stew the fruit with the sugar and lemon juice. Allow to cool. When the sponge shells have cooled, slice into the sponge lengthways, but not all the way through, part the edges and fill with the stewed fruit. Decorate with fruit leaves.\u003Cbr\u003E\nMakes about 6-8 shells.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Southend Fruit Shells",
+  "usedSnapshot": "20211021014630"
+}

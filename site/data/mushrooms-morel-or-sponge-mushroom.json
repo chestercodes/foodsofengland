@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922094830",
+  "finalPath": "mushrooms-morel-or-sponge-mushroom.html",
+  "heading": "Mushrooms: Morel or Sponge Mushroom",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Mushrooms: Morel or Sponge Mushroom",
+  "usedSnapshot": "20220527072956"
+}

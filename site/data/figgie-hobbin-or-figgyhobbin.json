@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20121024084127",
+  "finalPath": "figgie-hobbin-or-figgyhobbin.html",
+  "heading": "Figgie Hobbin or Figgyhobbin",
+  "ingredients": [
+    "baking powder",
+    "flour",
+    "jam",
+    "lard",
+    "milk",
+    "plain flour",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "figgie-hobbin-or-figgyhobbin.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Figgie%20Hobbin%20or%20Figgyhobbin\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz plain flour\u003Cbr\u003E\n3/4 teaspoon baking powder\u003Cbr\u003E\n2 oz chopped suet\u003Cbr\u003E\n2 oz lard\u003Cbr\u003E\n8 oz raisins\u003Cbr\u003E\n1-3 oz milk\u003Cbr\u003E\n\u003Cbr\u003E\nMix together the suet, flour, salt and baking powder. Add milk gradually, to form a dry elastic dough. Knead lightly, then roll out to about\u00BD\u0022 thick. Sprinkle on two handfuls of raisins, roll them in lightly with a rolling pin. Fold up, like a jam suet pudding, sealing the ends. Criss-cross the top with a knife, brush with milk and sprinkle with sugar. Bake at 350F for about 30 minutes. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Figgie Hobbin or Figgyhobbin",
+  "usedSnapshot": "20220109154043"
+}

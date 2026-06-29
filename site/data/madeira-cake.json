@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922073556",
+  "finalPath": "madeira-cake.html",
+  "heading": "Madeira Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "flour",
+    "lemon",
+    "sugar",
+    "cream",
+    "tartar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "madeira-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA GOOD MADEIRA CAKE.\u003C/b\u003E\u003Cbr\u003E\nWhisk four fresh eggs until they are as light as possible, then, continuing still to whisk them, throw in by slow degrees the following ingredients in the order in which they are written: six ounces of dry, pounded, and sifted sugar; six of flour, also dried and sifted; four ounces of butter just dissolved, but not heated; the rind of a fresh lemon; and the instant before the cake is moulded, beat well in the third of a teaspoonful of carbonate of soda: bake it an hour in a moderate oven. In this, as in all compositions of the same nature, observe particularly that each portion of butter must be beaten into the mixture until no appearance of it remains before the next is added; and if this be done, and the preparation be kept light by constant and light whisking, the cake will be as good, if not better, than if the butter were creamed. Candied citron can be added to the paste, but it is not needed.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "madeira-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "152. - Madeira Cakes.\u003Cbr\u003E\n\u003Cbr\u003E\n1 \u00BE lb. of butter, 2 lbs. of sugar, 2 lbs. of flour, 1 lb. of patent flour, 24 eggs. Proceed as before directed. This mixing makes eight cakes, selling at a shilling each. Put two thin slices of citron on each. Bake in a cool oven. Note. - Patent flour is made with 8 lbs. of flour, 4 ozs. cream of tartar, 2 ozs. carbonate of soda, and sifted three times.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Madeira Cake",
+  "usedSnapshot": "20211207122047"
+}

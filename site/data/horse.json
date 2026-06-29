@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20130323140502",
+  "finalPath": "horse.html",
+  "heading": "Horse",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Badger",
+      "relatedPageUrl": "badger.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Horse",
+  "usedSnapshot": "20220728230726"
+}

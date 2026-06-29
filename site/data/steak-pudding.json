@@ -1,0 +1,84 @@
+﻿{
+  "earliestSnapshot": "20180825150818",
+  "finalPath": "steak-pudding.html",
+  "heading": "Steak Pudding",
+  "ingredients": [
+    "apple",
+    "beef",
+    "flour",
+    "mutton",
+    "pepper",
+    "pigeons",
+    "pudding",
+    "salt",
+    "steak",
+    "steaks",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "steak-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA steak pudding.\u003C/b\u003E\u003Cbr\u003E\nMAKE a good crust, with suet shred fine with flour, and mix it up with cold water. Season it with a little salt, and make a pretty stiff crust, about two pounds of suet to a quarter of a peck of flour. Let your steaks be either beef or mutton, well seasoned with pepper and salt, make it up as you do an apple-pudding, tie it in a cloth, and put it into the water boiling. If it be a large pudding, it will take five hours; a small one, three hours. This is the best crust for an apple-pudding. Pigeons eat well this way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Steak and Kidmey Pudding",
+      "relatedPageUrl": "steak-and-kidney-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rag Pudding",
+      "relatedPageUrl": "rag-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "John Bull\u0027s Pudding",
+      "relatedPageUrl": "john-bull-s-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Kidney Pudding",
+      "relatedPageUrl": "kidney-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ruth Pinch\u0027s Beef-Steak Pudding",
+      "relatedPageUrl": "ruth-pinch-s-beef-steak-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pudding",
+      "relatedPageUrl": "steak-and-kidney-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Steak Pudding",
+      "relatedPageUrl": "steak-pudding.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Steak Pudding",
+  "usedSnapshot": "20191228071020"
+}

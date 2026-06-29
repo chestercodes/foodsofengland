@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922072406",
+  "finalPath": "mrs-eaton-s-pie-sauce.html",
+  "heading": "Mrs Eaton\u0027s Pie Sauce",
+  "ingredients": [
+    "anchovy",
+    "beef",
+    "butter",
+    "flour",
+    "gravy",
+    "herbs",
+    "lamb",
+    "mushroom",
+    "mutton",
+    "onion",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mrs-eaton-s-pie-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PIE SAUCE. Mix some gravy with an anchovy, a sprig of sweet herbs, an onion, and a little mushroom liquor. Boil and thicken it with butter rolled in flour, add a little red wine, and pour the sauce into the pie. This serves for mutton, lamb, veal, or beef pies, when such an addition is required.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECaudle Pie\u003C/b\u003E",
+      "relatedPageUrl": "caudle-chicken-pie.html",
+      "relationDescription": "See the earlier: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Mrs Eaton\u0027s Pie Sauce",
+  "usedSnapshot": "20220819101650"
+}

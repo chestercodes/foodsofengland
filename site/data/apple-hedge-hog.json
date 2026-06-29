@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922082307",
+  "finalPath": "apple-hedge-hog.html",
+  "heading": "Apple Hedge-Hog",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "apricot",
+    "blanched almonds",
+    "eggs",
+    "lemon",
+    "marmalade",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-hedge-hog.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EAN APPLE HEDGE HOG OR SUEDOISE\u003C/b\u003E\u003Cbr\u003E\nThis dish is formed of apples pared cored without being divided, and stewed tolerably tender in a light syrup. These are placed in a dish after being well drained and filled with apricot or any other rich marmalade, and arranged in two or more layers so as to give when the whole is complete the form shown in the engraving. The number required must depend on the size of the dish. From three to five pounds more must be stewed down into a smooth and dry marmalade and with this all the spaces between them are to be filled up and the whole are to be covered with it, an icing of two eggs beaten to a very solid froth and mixed with two heaped tablespoonsful of sugar must then be spread evenly over the suedois, fine sugar sifted on this, and spikes of blanched almonds cut lengthwise stuck over the entire surface, the dish is then to be placed in a moderate oven until the almonds are browned but not too deeply, and the apples are hot through. It is not easy to give the required form with less than fifteen apples eight of these may first be simmered in a syrup made with half a pint of water and six ounces of sugar, and the remainder may be thrown in after these are lifted out. Care must be taken to keep them firm. The marmalade should be sweet and pleasantly flavoured with lemon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Apple Hedge-Hog",
+  "usedSnapshot": "20220517183457"
+}

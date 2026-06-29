@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922094701",
+  "finalPath": "baked-suet-pudding.html",
+  "heading": "Baked Suet Pudding",
+  "ingredients": [
+    "flour",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-suet-pudding.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 58. Baked Suet Pudding.\u003C/b\u003E\u003Cbr\u003E\nTo one pound of flour add six ounces of chopped suet, three pints of skim milk, nutmeg and salt; mix thoroughly and smoothly, and bake the pudding in the dish under the meat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Baked Suet Pudding",
+  "usedSnapshot": "20220118042044"
+}

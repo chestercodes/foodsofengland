@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616080913",
+  "finalPath": "minnow-tansy.html",
+  "heading": "Minnow Tansy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Izaak Walton\u0027s Eel",
+      "relatedPageUrl": "izaak-walton-s-eel.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Minnow Tansy",
+      "relatedPageUrl": "minnow-tansy.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Venator\u0027s Draught",
+      "relatedPageUrl": "venator-s-draught.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Minnow Tansy",
+  "usedSnapshot": "20220815164717"
+}

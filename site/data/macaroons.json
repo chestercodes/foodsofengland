@@ -1,0 +1,85 @@
+﻿{
+  "earliestSnapshot": "20140508113245",
+  "finalPath": "macaroons.html",
+  "heading": "Macaroons",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "blanched almonds",
+    "butter",
+    "coriander",
+    "coriander seeds",
+    "cream",
+    "egg",
+    "rose water",
+    "sugar",
+    "rose-water",
+    "eggs",
+    "milk",
+    "caster sugar",
+    "icing sugar"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "macaroons.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make finer Jumbals\u003C/b\u003E\u003Cbr\u003E\nTo make Jumbals more fine and curious than the former, and \u003Cspan style=\u0022Background-Color: #FFFF84\u0022\u003Enearer to the taste of the Macaroon\u003C/span\u003E, take a pound of Sugar, beat it fine, then take as much fine wheat flower, and mix them together, then take two whites and one yolk of an Egg, half a quarter of a pound of blanched Almonds: then beat them very fine altogether, with half a dish of sweet Butter, and a good spoonful of Rose water, and so work it with a little Cream till it come to a very stiff paste, then roul them forth as you please: and hereto you shall also if you please, add a few dryed Anniseeds finely rubbed, and strewed into the paste, and also Coriander seeds.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "macaroons.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Mackeroons.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of the finest sugar, and a pound of the best Jordan-almonds, steep them in cold water, blanch them and pick out the spots: then beat them to a perfect paste in a stone mortar, in the beating of them put rose-water to them to keep them from oyling, being finely beat, put them in a dish with the sugar, and set them over a chafing-dish of coals, stir it till it will come clean from the bottom of the dish, then put in two grains of musk, and three of ambergriese.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "macaroons.html-3",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EMacaroons.\u003C/b\u003E\u003Cbr\u003E\nTake half a pound of almonds, blanch them and throw them into cold water, dry them in a cloth, pound them in a mortar, and moisten them with the white of an egg, then take eight ounces of powdered sugar, the whites of two eggs, and a little milk, beat the whole well together, shape them round upon thin paper with a spoon, and bake them on tin plates.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "macaroons.html-4",
+      "receiptSource": "Original Receipt from Daily Herald - Tuesday 01 November 1921",
+      "receiptText": "\u003Cb\u003ECOCONUT MACAROONS\u003C/b\u003E Ingredients.-Quarter pound dessicated coconut, one quarter pond icing sugar, white of one egg, two ounces of caster sugar, a spoonful of water. Method-Sift the sugar and mix it with the caster sugar. Whisk the white of the egg to a firm froth and add the coconut and the sugar in alternate spoonfuls until all is used; keep rather firm or the cakes will not retain their shape in the oven. but you will need a little water to make the mixture bind together. Mould the cakes with your hands into little cones about an inch and a half high and a little more than an inch across the base; half may be coloured very pale pink if liked, and bake them in a moderate oven until very lightly coloured and almost firm. Let them cool a little and when set take them off their backing tin and serve them when quite cold. These are delicious and easily made.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Suffolk Trifle",
+      "relatedPageUrl": "suffolk-trifle.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003Emacaroon macron makeroon makcaron\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Macaroons",
+  "usedSnapshot": "20220527053408"
+}

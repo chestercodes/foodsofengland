@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922080908",
+  "finalPath": "punch-royal.html",
+  "heading": "Punch Royal",
+  "ingredients": [
+    "brandy",
+    "eggs",
+    "lemon",
+    "lemon juice",
+    "lemons",
+    "orange",
+    "orange juice",
+    "oranges",
+    "seville orange",
+    "seville oranges",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "punch-royal.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PUNCH ROYAL. Take thirty Seville oranges and thirty lemons quite sound, pare them very thin, and put the parings into an earthen pan, with as much rum or brandy as will cover them. Take ten gallons of water, and twelve pounds of lump sugar, and boil them. When nearly cold, put in the whites of thirty eggs well beaten, stir it and boil it a quarter of an hour, then strain it through a hair sieve into an earthen pan, and let it stand till the next day. Then put it into a cask, strain the spirit from the parings, and add as much more as will make it up five gallons. Put it into the cask with five quarts of Seville orange juice, and three quarts of lemon juice. Stir it all together with a cleft stick, and repeat the same once a day for three successive days; then stop it down close, and in six weeks it will be fit to drink.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Punch Royal",
+  "usedSnapshot": "20211021030419"
+}

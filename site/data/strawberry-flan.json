@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212023354",
+  "finalPath": "strawberry-flan.html",
+  "heading": "Strawberry Flan",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Strawberry Flan",
+  "usedSnapshot": "20200126150543"
+}

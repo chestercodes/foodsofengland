@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20131221215314",
+  "finalPath": "cinder-toffee.html",
+  "heading": "Cinder Toffee",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Honecomb Toffee",
+      "relatedPageUrl": "honeycomb-toffee.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cinder Toffee",
+  "usedSnapshot": "20180924034550"
+}

@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922082346",
+  "finalPath": "osborne-pudding.html",
+  "heading": "Osborne Pudding",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "cherries",
+    "cream",
+    "egg",
+    "egg yolks",
+    "eggs",
+    "glace cherries",
+    "marmalade",
+    "milk",
+    "orange",
+    "sherry",
+    "sugar",
+    "whipping cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "osborne-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Osborne%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 thin slices of brown bread\u003Cbr\u003E\nButter\u003Cbr\u003E\nOrange Marmalade\u003Cbr\u003E\n10 oz Milk\u003Cbr\u003E\n3 oz Milk\u003Cbr\u003E\n4 Egg Yolks\u003Cbr\u003E\n2 oz Sugar\u003Cbr\u003E\n1 tbsp Sherry\u003Cbr\u003E\n8 oz Whipping Cream\u003Cbr\u003E\nGlace Cherries and Angelica to decorate\u003Cbr\u003E\n\u003Cbr\u003E\nPre-heat oven to 180C / 350F / Gas 4.\u003Cbr\u003E\nSpread the bread with butter and marmalade, then cut into triangles. Arrange, buttered side up, in a buttered oven-proof dish. Heat the milk, but do not boil. Beat the eggs with the sherry. Gradually pour the warmed milk onto the egg mixture, stirring continuously. Pour over the bread and leave to stand for at least 15 minutes to allow the bread to absorb the milk.\u003Cbr\u003E\nSprinkle on the sugar and bake for 30-40 minutes until set and lightly browned.\u003Cbr\u003E\nDecorate with cherries and angelica and serve with cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EIsle of Wight Pudding\u003C/b\u003E",
+      "relatedPageUrl": "isle-of-wight-pudding.html",
+      "relationDescription": "For other puddings associated with the Isle of Wight, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Osborne Pudding",
+  "usedSnapshot": "20211021024142"
+}

@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922075612",
+  "finalPath": "fruit-and-honey-cake.html",
+  "heading": "Fruit and Honey Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "greek style yogurt",
+    "honey",
+    "whipping cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fruit-and-honey-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EFruit and Honey Cake\u003C/b\u003E\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 6-8\u003Cbr\u003E\n100 Gram Butter, softened (3\u00BD oz)\u003Cbr\u003E\n100 Gram Clear honey (3\u00BD oz)\u003Cbr\u003E\n2 Eggs\u003Cbr\u003E\n50 Gram Wholemeal self raising flour (2 oz)\u003Cbr\u003E\n50 Gram Self raising flour (2 oz)\u003Cbr\u003E\n150 ml Whipping cream, whipped (5 fl oz)\u003Cbr\u003E\n225 Gram Greek style yogurt (8 oz)\u003Cbr\u003E\nFresh fruit, to decorate\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nCream butter and honey together until pale and creamy. Beat in the eggs separately with a spoonful of flour and then fold in remaining flour.\u003Cbr\u003E\nDivide between two 18 cm (7 inch) greased sandwich tins and bake at 180 \u00B0C / 350 \u00B0F / Gas 4 for 25 minutes. Cool in tins for 5 minutes, then cool on a wire rack.\u003Cbr\u003E\nFold the cream into the yogurt and sandwich the cake together with half the mixture and fruit. Decorate with remaining mixture and fruit.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Fruit and Honey Cake",
+  "usedSnapshot": "20211207123317"
+}

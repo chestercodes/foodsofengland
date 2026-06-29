@@ -1,0 +1,79 @@
+﻿{
+  "earliestSnapshot": "20140212030623",
+  "finalPath": "sausage-rolls.html",
+  "heading": "Sausage Rolls",
+  "ingredients": [
+    "beef",
+    "pork",
+    "butter",
+    "suet",
+    "chicken",
+    "egg",
+    "ham",
+    "veal"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "sausage-rolls.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA treatise on the art of baking\u003C/i\u003E\u0027, by John White, 1828 (p289)",
+      "receiptText": "\u003Cb\u003ESausage Rolls:\u003C/b\u003E Take about two ounces of paste, roll it out square, then take a piece of .sausage, either beef or pork, or mixed, about two inches long; put the sausage on the paste, roll it up, put them on tins, with the closed side undermost.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sausage-rolls.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 85. Sausage Rolls.\u003C/b\u003E\u003Cbr\u003E\nProcure a quartern of dough from the baker\u0027s, knead this with four ounces of butter, dripping, or chopped suet; divide it into twelve equal parts, and use each piece of paste to enfold a beef sausage in it; place these rolls on a baking-tin, and bake them in the oven for about twenty minutes or half an hour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sausage-rolls.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMEAT OR SAUSAGE ROLLS.\u003C/b\u003E\u003Cbr\u003E\n1373. INGREDIENTS: 1 lb. of puff-paste No. 1206, sausage-meat No. 837, the yolk of 1 egg.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Make 1 lb. of puff-paste by recipe No. 1206; roll it out to the thickness of about\u00BD inch, or rather less, and divide it into 8, 10, or 12 squares, according to the size the rolls are intended to be. Place some sausage-meat on one-half of each square, wet the edges of the paste, and fold it over the meat; slightly press the edges together, and trim them neatly with a knife. Brush the rolls over with the yolk of an egg, and bake them in a well-heated oven for about\u00BD hour, or longer should they be very large. The remains of cold chicken and ham, minced and seasoned, as also cold veal or beef, make very good rolls.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E:\u00BD hour, or longer if the rolls are large.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: 1 lb. of paste for 10 or 12 rolls.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: with sausage-meat, from September to March or April.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pigs-in-a-Blanket",
+      "relatedPageUrl": "pigs-in-a-blanket.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sussex Sausage Rolls",
+      "relatedPageUrl": "sussex-sausage-rolls.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESausage Dumplings\u003C/b\u003E",
+      "relatedPageUrl": "sausage-dumplings.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Sausage Rolls",
+  "usedSnapshot": "20220516221625"
+}

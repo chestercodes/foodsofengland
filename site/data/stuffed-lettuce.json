@@ -1,0 +1,33 @@
+﻿{
+  "earliestSnapshot": "20150922085627",
+  "finalPath": "stuffed-lettuce.html",
+  "heading": "Stuffed Lettuce",
+  "ingredients": [
+    "chicken",
+    "gravy",
+    "lettuce",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stuffed-lettuce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EVaughan\u0027s Vegetable Cook Book\u003C/i\u003E\u0027 (4th edition), 1919",
+      "receiptText": "\u003Cb\u003ESTUFFED LETTUCE.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nUse five clean heads of lettuce, wash thoroughly, open up the leaves and fill between with any highly seasoned meat-sweetbreads, chicken or veal preferred-or make a forcemeat stuffing. Tie up the heads, put into a saucepan with any good gravy, stock or sauce and cook until thoroughly heated through; serve in the gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stuffed Lettuce",
+  "usedSnapshot": "20170313202934"
+}

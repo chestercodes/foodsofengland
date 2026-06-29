@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130809001510",
+  "finalPath": "broccoli-and-apple-soup.html",
+  "heading": "Broccoli and Apple Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Broccoli and Apple Soup",
+  "usedSnapshot": "20220808010814"
+}

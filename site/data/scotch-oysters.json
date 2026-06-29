@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922085707",
+  "finalPath": "scotch-oysters.html",
+  "heading": "Scotch Oysters",
+  "ingredients": [
+    "beat",
+    "beef",
+    "bread",
+    "butter",
+    "eggs",
+    "gravy",
+    "mushrooms",
+    "nutmeg",
+    "oysters",
+    "pepper",
+    "pickles",
+    "pigeon",
+    "salt",
+    "suet",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "scotch-oysters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E283. To make SCOTCH OYSTERS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake two pounds of the thick part of a leg of veal, cut it in little bits clear from the skins, and put it in a marble mortar, then shred a pound of beef suet and put to it, and beat them well together till they be as fine as paste; put to it a handful of bread-crumbs and two or three eggs, season it with mace, nutmeg, pepper, and salt, and work it well together; take one part of your forc\u0027d-meat and wrap it in the kell, about the bigness of a pigeon, the rest make into little flat cakes and fry them; the rolls you may either broil in a dripping-pan, or set them in an oven; three is enough in a dish, set them in the middle of the dish and lay the cakes round; then take some strong gravy, shred in a few capers, and two or three mushrooms or oysters if you have any, so thicken it up with a lump of butter, and serve it up hot. Garnish your dish with pickles.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Scotch Oysters",
+  "usedSnapshot": "20210510044949"
+}

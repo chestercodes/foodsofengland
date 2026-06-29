@@ -1,0 +1,95 @@
+﻿{
+  "earliestSnapshot": "20150922073228",
+  "finalPath": "nelson-balls.html",
+  "heading": "Nelson Balls",
+  "ingredients": [
+    "biscuit",
+    "butter",
+    "flour",
+    "lemon",
+    "milk",
+    "sugar",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "nelson-balls.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EThe complete bread, cake and cracker baker\u003C/i\u003E\u0027 (1881) by Gill, J. Thompson",
+      "receiptText": "\u003Cb\u003ENELSON BALLS\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 lbs flour\u003Cbr\u003E\n1/2 lb butter\u003Cbr\u003E\n1/2 lb sifted sugar\u003Cbr\u003E\nEssence of lemon to flavor.\u003Cbr\u003E\n\u003Cbr\u003E\nMix up very stiff with milk; place in a cloth for a half hour; break smooth with a biscuit break; mould into small balls about the size of a walnut; bake in a rather quick oven, and put in a warm place to dry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Grog",
+      "relatedPageUrl": "grog.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson Sole",
+      "relatedPageUrl": "lord-nelson-sole.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson Veal",
+      "relatedPageUrl": "lord-nelson-veal.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson\u0027s Cutlets",
+      "relatedPageUrl": "lord-nelson-s-cutlets.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Ball Pudding",
+      "relatedPageUrl": "nelson-ball-pudding.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Balls",
+      "relatedPageUrl": "nelson-balls.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Slices",
+      "relatedPageUrl": "nelson-slices.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson Squares",
+      "relatedPageUrl": "nelson-squares.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Nelson\u0027s Blood",
+      "relatedPageUrl": "nelson-s-blood.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    },
+    {
+      "relatedPageText": "Lord Nelson Turkey",
+      "relatedPageUrl": "lord-nelson-turkey.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Nelson Balls",
+  "usedSnapshot": "20220808013105"
+}

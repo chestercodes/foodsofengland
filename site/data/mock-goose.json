@@ -1,0 +1,98 @@
+﻿{
+  "earliestSnapshot": "20150922085241",
+  "finalPath": "mock-goose.html",
+  "heading": "Mock Goose",
+  "ingredients": [
+    "apple",
+    "goose",
+    "mashed potatoes",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "sausage meat",
+    "flour",
+    "liver",
+    "cheese",
+    "breadcrumbs",
+    "lemon",
+    "lemon juice",
+    "lentils",
+    "onion",
+    "vegetable stock"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "mock-goose.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHull Daily Mail\u003C/i\u003E\u0027 - Thursday 29 July 1897",
+      "receiptText": "\u003Cb\u003EMock goose\u003C/b\u003E is a tasty and inexpensive dish. One pound of sausage meat with the skins removed, mashed potatoes. Place a layer of the meat a pie-dish, sprinkle over it a seasoning of finely chopped onions, sage, pepper and salt. Cover this with mashed potatoes (cold), then another layer meat and seasoning, and finish with potatoes on the top. Bake brown, and serve with apple sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-goose.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "85. SAVOURY GOOSE (Sussex) Take half a pound of pig\u0027s liver, two onions, one pound of potatoes. Take a spoonful of flour mixed in water with salt, pepper, and a teaspoonful of minced sage. Cut the liver in thin shces and lay in a pie dish. Then put the potatoes partly cooked on top. Bake.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-goose.html-3",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027Christmas in War-Bound Britain\u0027\u003C/i\u003E in the Regina (Canada) Leader-Post, December 24th 1942",
+      "receiptText": "\u003Cb\u003ERecipe for Mock Goose\u003C/b\u003E\u003Cbr\u003E\nScrub and slice 1\u00BD pounds of potatoes thinly, slice two apples, grate four ounces of cheese. Place a layer of potatoes in a greased pie-dish, cover with apples and a little sage, season, sprinkle on grated cheese. Repeat the layers, leaving the potatoes and cheese to cover. Pour in half-a-pint of stock, cook in a moderate oven for three-quarters of an hour. Blend one tablespoonful of flour with one quarter-pint of stock, pour it into the dish and cook for another fifteen minutes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-goose.html-4",
+      "receiptSource": "Original Receipt",
+      "receiptText": "\u003Cb\u003EMock Goose\u003C/b\u003E\u003Cbr\u003E\n6oz split red lentils\u003Cbr\u003E\n\u00BD pint water\u003Cbr\u003E\n1 tablespoon lemon juice\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cb\u003EFor the stuffing:\u003C/b\u003E\u003Cbr\u003E\n1 large onion, chopped\u003Cbr\u003E\n2oz wholemeal fresh breadcrumbs\u003Cbr\u003E\n1 tablespoon fresh sage, chopped\u003Cbr\u003E\n\u003Cbr\u003E\nCook the lentils in the water until all the water has been absorbed. Add lemon juice and season. Then make the \u0027stuffing\u0027. Saute the onion in a little water or vegetable stock for 10 minutes. Drain, and then add to the breadcrumbs. Mix in the chopped sage and mix well. Put half the lentil mixture into an oven-proof dish, spread the stuffing on top, and then top off with the remaining lentils. Put in a moderate oven until the top is crisp and golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPoor Man\u0027s Goose\u003C/b\u003E",
+      "relatedPageUrl": "poor-man-s-goose.html",
+      "relationDescription": "(See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWhitley Goose\u003C/b\u003E",
+      "relatedPageUrl": "whitley-goose.html",
+      "relationDescription": "(See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EHampshire Goose\u003C/b\u003E",
+      "relatedPageUrl": "hampshire-goose.html",
+      "relationDescription": "(See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMock Goose of Pork\u003C/b\u003E",
+      "relatedPageUrl": "mock-goose-of-pork.html",
+      "relationDescription": "(See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ESavoury Goose\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Mock Goose",
+  "usedSnapshot": "20220706170546"
+}

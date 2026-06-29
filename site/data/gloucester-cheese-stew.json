@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616083018",
+  "finalPath": "gloucester-cheese-stew.html",
+  "heading": "Gloucester Cheese Stew",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "cabbage",
+    "cheese",
+    "garlic",
+    "milk",
+    "nutmeg",
+    "onion",
+    "onions",
+    "parsley",
+    "pepper",
+    "potato",
+    "potatoes",
+    "poultry",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-cheese-stew.html-1",
+      "receiptSource": "Original Receipt from Stroud Community Agriculture \u003Ca href=\u0022http://www.stroudcommunityagriculture.org/\u0022\u003E\u003Cb\u003Ewww.stroudcommunityagriculture.org\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EGloucester Cheese Stew\u003C/b\u003E\u003Cbr\u003E\n900g (21b) potatoes 600m1 (1 pint 21/2 cups) creamy milk - I used goats milk\u003Cbr\u003E\nSalt and freshly milled black pepper\u003Cbr\u003E\nFreshly grated nutmeg\u003Cbr\u003E\n3 medium onions or 2 large cloves of garlic\u003Cbr\u003E\n350g (12 oz/3 cups) grated Double Gloucester cheese (I used a hard local goats cheese)\u003Cbr\u003E\nChopped fresh parsley\u003Cbr\u003E\n\u003Cbr\u003E\nPre-heat the oven to 180 C (350 f, gas mark 4). Peel the potatoes and slice thinly. Put them in a saucepan with the milk. Season well with salt, pepper and nutmeg, then simmer gently for 15 minutes until almost tender, but not broken up. Using a slotted spoon, remove the potatoes from the milk, reserving the milk on one side. Chop the onions or garlic finely. Butter an ovenproof casserole dish and arrange layers of potato, onion or garlic and cheese in it, seasoning well between each layer and ending with a layer of cheese. Pour over the reserved milk and bake uncovered in a moderate oven for about 1 hour, or until most of the liquid has been absorbed and the top is golden brown. Sprinkle with parsley and serve with a green salad for supper or lunch, or in smaller portions to accompany meat, fish or poultry. (Serves 6)\u003Cbr\u003E\nI serve this dish with cooked red cabbage \u0026 swede.\u003Cbr\u003E\nSue\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Gloucester Cheese Stew",
+  "usedSnapshot": "20211207111454"
+}

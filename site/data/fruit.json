@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20121024085228",
+  "finalPath": "fruit.html",
+  "heading": "Fruit",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fruit",
+  "usedSnapshot": "20220103232243"
+}

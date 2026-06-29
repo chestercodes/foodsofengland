@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073739",
+  "finalPath": "butterscotch-sauce.html",
+  "heading": "Butterscotch Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Butterscotch Sauce",
+  "usedSnapshot": "20211207115504"
+}

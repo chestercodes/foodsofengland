@@ -1,0 +1,12 @@
+version: "2.4"
+services:
+  site:
+    ports:
+      - 8080:8080
+    build:
+      context: ..
+      dockerfile: docker/site.Dockerfile
+  # end2end:
+  #   build:
+  #     context: ..
+  #     dockerfile: docker/end2end.Dockerfile

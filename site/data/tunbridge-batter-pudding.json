@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20130322000331",
+  "finalPath": "tunbridge-batter-pudding.html",
+  "heading": "Tunbridge Batter Pudding",
+  "ingredients": [
+    "almond",
+    "beat",
+    "eggs",
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "puddings",
+    "sugar",
+    "jam",
+    "pudding",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tunbridge-batter-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Tunbridge Puddings.- Boil a pint of new milk, and as it rises in the pan stir into it gradually as much flour as will make a thick batter. Beat it until quite smooth, pour it out, and when cold add three well-beaten eggs, a table-spoonful of sugar, and two or three drops of almond ratafia or any other flavouring. Throw the batter in spoonfuls on a large floured plate, dredge the surface well with flour, and drop the puddings into hot lard or clarified fat. Fry them till they are lightly and equally browned, and serve on a hot dish with white sugar sifted thickly over them. Time to fry, until brown. Probable cost, 9d. Sufficient for five or six persous.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tunbridge-batter-pudding.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 01 November 1929",
+      "receiptText": "TUNBRIDGE PUDDING.\u003Cbr\u003E\n12 ounces flour. 2 eggs, 1 pint of milk, salt.\u003Cbr\u003E\nSift a pinch, of salt with the flour, and gradually stir in the well-bcaten yolks of eggs and the milk. Whip the whites of the eggs stiffly, and lightly stir into the batter. Pour this into buttered pie-dish, and bake from 20 to 30 minutes in a quick oven. Serve with jam.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ETonbridge\u003C/b\u003E or \u003Cb\u003ETunbridge Fried Cherry Batter\u003C/b\u003E, or \u003Cb\u003ETunbridge Fruit Batter\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Tunbridge Batter Pudding",
+  "usedSnapshot": "20220516222739"
+}

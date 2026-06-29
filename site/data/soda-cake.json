@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922072811",
+  "finalPath": "soda-cake.html",
+  "heading": "Soda Cake",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "milk",
+    "nutmeg",
+    "sugar",
+    "brown sugar",
+    "caraway seeds",
+    "egg",
+    "eggs",
+    "ginger",
+    "lemon",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "soda-cake.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EHereford Journal\u003C/i\u003E\u0027 - Wednesday 26 July 1843",
+      "receiptText": "\u003Cb\u003EReceipt for Making Soda Cake.\u003C/b\u003E 1lb. flour, 3/4lb. butter, 1/2lb. sugar, 1/2lb. currants, 1 nutmeg grated, drachm of Carbonate of Soda, mixed with half-a-pint of milk. First rub the butter into the flour, then add tbe sugar and spice; next mix it with tbe soda and milk; then add the currants.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "soda-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E863. SODA CAKE (Kent)\u003C/b\u003E\u003Cbr\u003E\nTake five ounces of flour, six ounces of raisins, three ounces of brown sugar, two ounces of butter, one egg, a little essence of lemon, and a small teaspoonful of carbonate of soda dissolved in a teacupful of cold milk. Rub the butter into the flour, then add the raisins and sugar, then all the rest by degrees, the soda and milk last, and bake directly.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E864. ANOTHER WAY\u003C/b\u003E\u003Cbr\u003E\nTake two pounds of flour, half a pound of butter, half a pound of currants, one ounce of caraway seeds, two drachms of carbonate of soda, two drachms of ginger, half a pound of sugar, and four eggs. Mix with one pint of new milk. To be baked in a moderate oven for two hours.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E865. SODA CAKE (Yorkshire)\u003C/b\u003E\u003Cbr\u003E\nOne pound of flour, half a pound of lump sugar, half a pound of currants, one gill of milk, four ounces of butter, one teaspoonful of carbonate of soda, one egg. Rub the butter in the flour, and put the milk, sugar, and egg together. Put the currants into the flour, and mix them together before you add the milk, sugar, and egg. Dissolve the carbonate of soda in the milk. Directly you have mixed all together, put in the oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Soda Cake",
+  "usedSnapshot": "20211019174516"
+}

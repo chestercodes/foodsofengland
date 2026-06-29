@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922084453",
+  "finalPath": "floating-islands.html",
+  "heading": "Floating Islands",
+  "ingredients": [
+    "cream",
+    "currant",
+    "jelly",
+    "lemon",
+    "sugar",
+    "white wine",
+    "beat",
+    "egg",
+    "jam"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "floating-islands.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EA floating Island.\u003C/b\u003E\u003Cbr\u003E\nTake a pint of thick cream, sweeten with fine sugar, grate in the peel of one lemon, and add a gill of sweet white wine, whisk it well till you have raised a good froth; then pour a pint of thick cream into a China dish; take one French roll, slice it thin, and lay it over the cream as lightly as possible; then a layer of clear calves-feet jelly, or currant jelly; then whip up your cream, and lay on the froth as high as you can, and what remains pour into the bottom of the dish. Garnish the rim with sweetmeats.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "floating-islands.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EFloating Islands.\u003C/b\u003E\u003Cbr\u003E\n1042. Whip up two spoonfuls of jelly or jam with one of white of egg; beat well; then drop it with a spoon on a dish of cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Floating Islands",
+  "usedSnapshot": "20211027042156"
+}

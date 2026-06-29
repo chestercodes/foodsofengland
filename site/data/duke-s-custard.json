@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150310115221",
+  "finalPath": "duke-s-custard.html",
+  "heading": "Duke\u0027s Custard",
+  "ingredients": [
+    "biscuits",
+    "brandy",
+    "cherries",
+    "cream",
+    "custard",
+    "lemon",
+    "sugar",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "duke-s-custard.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETHE DUKE\u0027S CUSTARD.\u003C/b\u003E\u003Cbr\u003E\nDrain well from their juice, and then roll in dry sifted sugar, as many fine brandied Morella cherries as will cover thickly the bottom of the dish in which this is to be sent to table; arrange them in it, and pour over them from a pint to a pint and a half of rich cold boiled custard; garnish the edge with macaroons or Naples biscuits, or pile upon the custard some solid rose-coloured whipped cream, flavoured with brandy.\u003Cbr\u003E\n\u003Cbr\u003E\nBrandied Morella cherries,\u00BD to whole pint; boiled custard, from 1 to 1\u00BD pint; thick cream, 1 pint or more; brandy, 1 to 2 glasses full; sugar, 2 to 3 oz.; juice of llarge lemon; prepared cochineal, or carmine, 20 to 40 drops.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Duke\u0027s Custard",
+  "usedSnapshot": "20220516220630"
+}

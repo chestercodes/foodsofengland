@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922081101",
+  "finalPath": "stalmine-club-cakes.html",
+  "heading": "Stalmine Club Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWinster Wakes Cakes\u003C/b\u003E",
+      "relatedPageUrl": "winster-wakes-cake.html",
+      "relationDescription": "For a list of northern Wakes Day traditions, see the end of the "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Stalmine Club Cakes",
+  "usedSnapshot": "20190423175610"
+}

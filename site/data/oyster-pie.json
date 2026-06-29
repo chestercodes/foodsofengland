@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140616084638",
+  "finalPath": "oyster-pie.html",
+  "heading": "Oyster Pie",
+  "ingredients": [
+    "butter",
+    "oysters",
+    "pepper",
+    "salt",
+    "beat",
+    "faggot",
+    "ginger",
+    "herbs",
+    "lemon",
+    "onion",
+    "white wine"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "oyster-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo bake Oysters shels and all.\u003C/b\u003E\u003Cbr\u003E\nTAKE the best Oysters faire shaled, and the fairest \u0026 smoothest shels, wash a good manie, and to make them smooth, rub one shel against another, and when they are very clean make your pie: and then let your grauie run through a strayner of your Oysters and wash your oysters very clean, and season them with Pepper and salt. Then take out of the deepest shelles, and put into them three Oysters and three cloues, and a litle peece of butter, and lay a flat shell vpon that, and thus set your pie with the shels and the Oysters in them till they be full, and in voyde places put in a peece of Butter: then close your pie, and set it into the Ouen and when it hath stood there half an hour draw your pie, and then put in a sawcer full of your grauie. Then put the pie into the Ouen againe, and so let it stand one other halfe hower, and then serue it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oyster-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make an Oyster Pye otherways.\u003C/b\u003E\u003Cbr\u003E\nTake a pottle of oysters, being parboil\u0027d in their own liquor, beard and dry them, then season them with large mace, whole pepper, a little beaten ginger, salt, butter, and marrow, then close it up and bake it, and being baked, make a lear with white wine the oyster liquor, and one onion, or rub the ladle with garlick you beat it up with all; it being boil\u0027d, put in a pound of butter, with a minced lemon, a faggot of sweet herbs, and being boil\u0027d put in the liquor.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Oyster Pie",
+  "usedSnapshot": "20220819110443"
+}

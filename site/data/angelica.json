@@ -1,0 +1,92 @@
+﻿{
+  "earliestSnapshot": "20150922092822",
+  "finalPath": "angelica.html",
+  "heading": "Angelica",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Angelica Tarts",
+      "relatedPageUrl": "angelica-tarts.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Apple and Rice Meringue",
+      "relatedPageUrl": "apple-and-rice-meringue.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Belvoir House Pudding",
+      "relatedPageUrl": "belvoir-house-pudding.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Chesterfield Ice-Cream Pudding",
+      "relatedPageUrl": "chesterfield-ice-cream-pudding.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Dean\u0027s Cream",
+      "relatedPageUrl": "dean-s-cream.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Fairy Cakes",
+      "relatedPageUrl": "fairy-cakes.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Gin",
+      "relatedPageUrl": "gin.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Jewelled Shortbread",
+      "relatedPageUrl": "jewelled-shortbread.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Osborne Pudding",
+      "relatedPageUrl": "osborne-pudding.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Plague Water",
+      "relatedPageUrl": "plague-water.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Snail Water",
+      "relatedPageUrl": "snail-water.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Wassail Custard",
+      "relatedPageUrl": "wassail-custard.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    },
+    {
+      "relatedPageText": "Whim-Wham",
+      "relatedPageUrl": "whim-wham.html",
+      "relationDescription": "For dishes containing Angelica, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Angelica",
+  "usedSnapshot": "20220527211143"
+}

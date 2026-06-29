@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140212020710",
+  "finalPath": "liver-and-kidney-pudding.html",
+  "heading": "Liver and Kidney Pudding",
+  "ingredients": [
+    "bacon",
+    "flour",
+    "herbs",
+    "kidney",
+    "liver",
+    "pudding"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "liver-and-kidney-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E246. Liver and Kidney Pudding,-\u003C/b\u003E Put in a frying-pan two ounces of dripping, two ounces of bacon, in dice; put it on the fire; when the liver and kidney are seasoned, place it in the pan, and stir round until it is set; each piece should be firm; then add a tablespoonful of flour, mixed with a gill and a half of coloured water, No. 462A. When nearly boiling, place it in the pudding, tie up, and boil three quarters of an hour. A few herbs is a variation.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Liver and Bacon",
+      "relatedPageUrl": "liver-and-bacon.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pudding",
+      "relatedPageUrl": "steak-and-kidney-pudding.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pie",
+      "relatedPageUrl": "steak-and-kidney-pie.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Umble Pie",
+      "relatedPageUrl": "umble-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Liver and Kidney Pudding",
+  "usedSnapshot": "20211027025049"
+}

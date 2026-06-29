@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922072626",
+  "finalPath": "scurvy-grass.html",
+  "heading": "Scurvy-grass",
+  "ingredients": [
+    "eggs",
+    "lemon",
+    "orange",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "scurvy-grass.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESallet of Scurvy grass.\u003C/b\u003E\u003Cbr\u003E\nBeing finely pick\u0027t short, well soak\u0027t in clean water, and swung dry, dish it round in a fine clean dish, with capers and currans about it, carved lemon and orange round that, and eggs upon the centre not boil\u0027d too hard, and parted in halves, then oyl and vinegar; over all scraping sugar, and trim the brim of the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Scurvy-grass",
+  "usedSnapshot": "20211021013332"
+}

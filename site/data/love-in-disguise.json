@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150514221557",
+  "finalPath": "love-in-disguise.html",
+  "heading": "Love In Disguise",
+  "ingredients": [
+    "gravy"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "love-in-disguise.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Economical Cook, and Frugal Housewife\u003C/i\u003E\u0027, by Mary Holland - 1837",
+      "receiptText": "\u003Cb\u003ELove in Disguise\u003C/b\u003E\u003Cbr\u003E\nAfter well cleaning stuff a calf\u0027s heart cover it an inch thick with good forcemeat then roll it in vermicelli put it into a dish with a little water and send it to the oven When done serve it with its own gravy in the dish This forms a pretty side dish\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Love in Disguise Cake",
+      "relatedPageUrl": "love-in-disguise-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Love In Disguise",
+  "usedSnapshot": "20220705094939"
+}

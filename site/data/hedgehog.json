@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20130322000123",
+  "finalPath": "hedgehog.html",
+  "heading": "Hedgehog",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBadger\u003C/b\u003E",
+      "relatedPageUrl": "badger.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hedgehog",
+  "usedSnapshot": "20211201041507"
+}

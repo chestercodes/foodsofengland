@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20130323063516",
+  "finalPath": "buttered-eggs.html",
+  "heading": "Buttered Eggs",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "egg",
+    "eggs",
+    "herrings",
+    "salt",
+    "toasted bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "buttered-eggs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BUTTERED EGGS. Beat four or five eggs, yolk and white together; put a quarter of a pound of butter in a bason, and then put that into boiling water. Stir it till melted, then put that butter and the eggs into a saucepan; keep a bason in your hand, just hold the saucepan in the other over a slow part of the fire, shaking it one way, as it begins to warm. Pour it into the bason and back again, then hold it over the fire, stirring it constantly in the saucepan, and pouring it into the bason, more perfectly to mix the egg and butter, until they shall be hot without boiling. Serve on toasted bread, or in a bason, to eat with salt fish or red herrings.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Buttered Eggs",
+  "usedSnapshot": "20220509063643"
+}

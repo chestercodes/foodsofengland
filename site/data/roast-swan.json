@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922073334",
+  "finalPath": "roast-swan.html",
+  "heading": "Roast Swan",
+  "ingredients": [
+    "salt",
+    "swanne"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "roast-swan.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESwan rosted.\u003C/b\u003E Cut a Swan in the rove [roof] of the mouthe toward the brayne enlonge, and let him blede, and kepe the blode for chawdewyn; or elles knytte a knot on his nek, And so late his nekke breke; then skald him. Drawe him and roast him even as thou doest goce in a poyntes, and serve him fort wit \u003Ca href=\u0022chawdron.html\u0022\u003E\u003Cb\u003Echawd-wine\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "roast-swan.html-2",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESawce for swannus.\u003C/b\u003E\u003Cbr\u003E\nTake tho offal and tho lyver of tho swan,\u003Cbr\u003E\nIn gode brothe thou sethe hom than;\u003Cbr\u003E\nWhen hit is sothyne, take oute the bonus,\u003Cbr\u003E\nSmalle hew tho flesshe, Syr, for the nonus;\u003Cbr\u003E\nMake alyoure of crust of brede,\u003Cbr\u003E\nOf blode of swanne, that sothun is lede,\u003Cbr\u003E\nCaste powdur of gynger and clawes ther to,\u003Cbr\u003E\nOf peper and wyn thou take also,\u003Cbr\u003E\nAnd salt hit then and sethe hit wele;\u003Cbr\u003E\nCast in thy flesshe, hewen yche a dele,\u003Cbr\u003E\nAnd messe hit forthe, as I the kenne,\u003Cbr\u003E\nSet hit in sale before goode menne\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Budby Pie",
+      "relatedPageUrl": "budby-pie.html",
+      "relationDescription": "For other swan dishes see:"
+    },
+    {
+      "relatedPageText": "Chawdron",
+      "relatedPageUrl": "chawdron.html",
+      "relationDescription": "For other swan dishes see:"
+    },
+    {
+      "relatedPageText": "Roast Cygnet",
+      "relatedPageUrl": "roast-cygnet.html",
+      "relationDescription": "For other swan dishes see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Roast Swan",
+  "usedSnapshot": "20220808003210"
+}

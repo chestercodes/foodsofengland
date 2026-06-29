@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922072735",
+  "finalPath": "carrot-bake.html",
+  "heading": "Carrot Bake",
+  "ingredients": [
+    "butter",
+    "carrots",
+    "milk",
+    "breadcrumbs",
+    "cheese",
+    "flour",
+    "salt",
+    "carrot",
+    "margarine",
+    "nutmeg",
+    "pepper",
+    "plain flour"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "carrot-bake.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ESunderland Daily Echo and Shipping Gazette\u003C/i\u003E\u0027 - Saturday 12 April 1902",
+      "receiptText": "Baked Carrots. Scrape young carrots and boil till half done. Drain, cut into dice, put a baking dish, with seasoning to taste and bits butter, and cover with sweet milk. Set the dish into a pan containing hot water, and bake till tender. Serve very hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "carrot-bake.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EFramlingham Weekly News\u003C/i\u003E\u0027 - Saturday 18 July 1931",
+      "receiptText": "\u003Cb\u003EBaked Carrots and Cheese.\u003C/b\u003E Fresh young carrots are best for this dish. For six medium-sized carrots you will require 2 tablespoonfuls butter, 2 tablespoonfuls flour, i cup grated cheese, teaspoonful of salt. Scrape the carrots, and if they are small leave them whole. If not, cut them into dice, cover with boiling water, and cook till tender. Drain and save the liquid. Make a sauce of the liquid, flour and butter, cooking it for about three minutes after the boiling point is reached. Now add cheese and salt, mix well, turn into a buttered fireproof dish, sprinkle with breadcrumbs, and brown in a moderate oven.\u003Cbr\u003E\n\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "carrot-bake.html-3",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EDaily Mirror\u003C/i\u003E\u0027 - Wednesday 23 June 1943",
+      "receiptText": "CARROT BAKE (this she makes carrots go further). TOP and tail the carrots and rub them in cold water against each other. No further scrubbing is necessary. Cut them into small pieces. To every cupful of carrot pieces. heat one cupful of milk with a knob of margarine in a saucepan. Add the required amount of salt. When it boils add the carrots. Stir, cover with a lid and simmer on a very low flame until the carrots are done. Thicken the milky juice which develops by cooking the carrots this way. Use plain flour previously stirred with a little cold milk. Taste for salt and pepper. A little grated nutmeg added improves the flavour. Pour boiling hot into a greased dish. If possible. sprinkle with a few cheese gratings. Push under the grill for a few minutes until it has a slightly brown surface. Alternatively. do not grill but place a slice of cold left-over meat on the hot carrots in the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECarrot Dishes\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/carrot.html",
+      "relationDescription": "See more carrot pies, puddings and other "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Carrot"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Carrot Bake",
+  "usedSnapshot": "20191104051627"
+}

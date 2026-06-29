@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922080653",
+  "finalPath": "curry-powder.html",
+  "heading": "Curry Powder",
+  "ingredients": [
+    "black pepper",
+    "cayenne",
+    "coriander",
+    "coriander seed",
+    "pepper",
+    "turmeric",
+    "chillies",
+    "curry",
+    "mustard",
+    "mustard seed"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "curry-powder.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBENGAL CURRIE POWDER. No. 1.\u003C/b\u003E\u003Cbr\u003E\nMix thoroughly the following ingredients after they have been separately reduced to the finest powder and passed through a fine hair or lawn sieve:-\u003Cbr\u003E\n6 oz. coriander seed.\u003Cbr\u003E\n3 oz. black pepper.\u003Cbr\u003E\n1 oz. cummin-seed.\u003Cbr\u003E\n1 oz. fenugreek-seed.\u003Cbr\u003E\n1 oz. cayenne pepper.\u003Cbr\u003E\n3 oz. best pale turmeric.\u003Cbr\u003E\nSet the powder before the fire to dry, and turn it often; then withdraw it, let it become cold, and bottle it immediately. Keep it closely corked\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "curry-powder.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAn Englishwoman in India\u003C/i\u003E\u0027 (1864);",
+      "receiptText": "\u003Cb\u003EMadras Curry Powder\u003C/b\u003E\u003Cbr\u003E\n1 lb. coriander seed.\u003Cbr\u003E\n1 lb. cummin seed\u003Cbr\u003E\n6 ounces turmeric\u003Cbr\u003E\n10 ounces chillies\u003Cbr\u003E\n2 ounces black pepper\u003Cbr\u003E\n5 ounces vendee\u003Cbr\u003E\n4 ounces mustard seed\u003Cbr\u003E\n1 handful currypullee leaves.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Curry Powder",
+  "usedSnapshot": "20220527060558"
+}

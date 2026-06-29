@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922074521",
+  "finalPath": "hydromel.html",
+  "heading": "Hydromel",
+  "ingredients": [
+    "ale",
+    "ginger",
+    "honey",
+    "rosemary"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hydromel.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHYDROMEL AS I MADE IT WEAK FOR THE QUEEN MOTHER\u003C/b\u003E\u003Cbr\u003E\nTake 18 quarts of spring-water, and one quart of honey; when the water is warm, put the honey into it. When it boileth up, skim it very well, and continue skimming it, as long as any scum will rise. Then put in one Race of Ginger (sliced in thin slices,) four Cloves, and a little sprig of green Rosemary. Let these boil in the Liquor so long, till in all it have boiled one hour. Then set it to cool, till it be blood-warm; and then put to it a spoonful of Ale-yest. When it is worked up, put it into a vessel of a fit size; and after two or three days, bottle it up. You may drink it after six weeks, or two moneths. Thus was the Hydromel made that I gave the Queen, which was exceedingly liked by everybody.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Hydromel",
+  "usedSnapshot": "20211201024600"
+}

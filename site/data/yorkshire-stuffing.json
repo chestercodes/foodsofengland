@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072659",
+  "finalPath": "yorkshire-stuffing.html",
+  "heading": "Yorkshire Stuffing",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Yorkshire Stuffing",
+  "usedSnapshot": "20210510054752"
+}

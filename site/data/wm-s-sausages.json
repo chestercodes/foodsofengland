@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140125041408",
+  "finalPath": "wm-s-sausages.html",
+  "heading": "WM\u0027s Sausages",
+  "ingredients": [
+    "beef",
+    "eggs",
+    "nutmeg",
+    "onion",
+    "pepper",
+    "pork",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wm-s-sausages.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make the best Sausages that ever was eat.\u003C/b\u003E\u003Cbr\u003E\nTake a leg of young Pork, and cut of all the lean, and shred it very small, but leave none of the strings or skins amongst it, then take two pound of Beef Suet, and shred it small, then take two handfuls of red Sage, a little Pepper and Salt, and Nutmeg, and a small piece of an Onion, chop them altogether with the flesh and Suet; if it is small enough, put the yolk of two or three Eggs and mix altogether, and make it up in a Past if you will use it, roul out as many pieces as you please in the form of an ordinary Sausage, and so fry them, this Past will keep a fortnight upon occasion.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "WM\u0027s Sausages",
+  "usedSnapshot": "20220819105016"
+}

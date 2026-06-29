@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616084821",
+  "finalPath": "spiced-fish.html",
+  "heading": "Spiced Fish",
+  "ingredients": [
+    "herbs",
+    "salmon",
+    "salt",
+    "vinegar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spiced-fish.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EAn excellent way of dressing Fish.\u003C/b\u003E\u003Cbr\u003E\nTake a piece of fresh Salmon, and wash it clean in a little Vinegar and Water, and let it lye a while in it, in a great Pipkin with a cover, and put to it six spoonfuls of Water and four of Vinegar, as much of white wine, a good deale of Salt, a bundle of sweet Herbs, a little whole Spice, a few Cloves, a little stick of Cinamon, a little Mace, take up all these in a Pipkin close, and set in a Kettle of seething Water and there let it stew three hours, You may doe Carps, Eeles, Trouts, \u0026amp;c. this way, alter the tast to your mind.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Spiced Fish",
+  "usedSnapshot": "20211130235033"
+}

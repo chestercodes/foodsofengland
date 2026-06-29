@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140508120917",
+  "finalPath": "lancashire-nuts.html",
+  "heading": "Lancashire Nuts",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "castor sugar",
+    "cornflour",
+    "cream",
+    "egg",
+    "flour",
+    "lemon",
+    "nuts",
+    "sugar",
+    "custard",
+    "margarine",
+    "self-raising flour",
+    "semolina"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lancashire-nuts.html-1",
+      "receiptSource": "Original Receipt from Taunton Courier, and Western Advertiser - Wednesday 24 January 1934",
+      "receiptText": "LANCASHIRE NUTS. A quarter-pound of flour, the same quantity of butter and sugar, and cornflour, half-a teaspoonful of baking powder, one egg and some lemon curd. Beat the butter and sugar to a cream, add the beaten egg, and the flour sifted with baking powder, alternately. Shape into small round balls of equal size, flatten a little, and bake in a hot oven. When cold, put two together with lemon curd between them, and dust with castor sugar.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lancashire-nuts.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EAberdeen Journal\u003C/i\u003E\u0027- Wednesday 20 October 1948",
+      "receiptText": "To-day\u0027s Recipes By ELSPETH STUART\u003Cbr\u003E\n\u003Cb\u003ENew and Novel Lancashire Nuts, adapted to present-day conditions.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCream together 3 oz. margarine and 2 oz sugar. Work in the following. 2 oz. self-raising flour 2 oz. semolina, 2 oz. custard powder. Flavour as desired. Shape into balls as for perkins, place on a greased baking tray and bake 15-20 mins., till pale straw colour, in moderately hot oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Lancashire Nuts",
+  "usedSnapshot": "20220819110728"
+}

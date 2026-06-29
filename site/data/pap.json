@@ -1,0 +1,78 @@
+﻿{
+  "earliestSnapshot": "20150922132926",
+  "finalPath": "pap.html",
+  "heading": "Pap",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pap.html-1",
+      "receiptSource": "Original Receipt from The Compleat Cook By \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003ETo make Pap.\u003C/i\u003E\u003Cbr\u003E\nTake three quarts of new milk, set it on the fire in a dry silver Dish, or Bason, when it begins to boyle skim it, then put thereto a handfull of flour \u0026 yolks of three Eggs, which you must have well mingled together with a Ladle-full of cold Milk, before you put it to the Milk that boyles, and as it boyles, stir it all the while till it be enough, and in the boyling, season it with a little Salt, and a little fine beaten Sugar and so keeping it stirred till it be boyled as thick as you desire, then put it forth into another Dish and serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Almond Caudle",
+      "relatedPageUrl": "almond-caudle.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Caudle Chicken Pie",
+      "relatedPageUrl": "caudle-chicken-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Flummery",
+      "relatedPageUrl": "flummery.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Flummery Caudle",
+      "relatedPageUrl": "flummery-caudle.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pap",
+      "relatedPageUrl": "pap.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Pap",
+  "usedSnapshot": "20180729181935"
+}

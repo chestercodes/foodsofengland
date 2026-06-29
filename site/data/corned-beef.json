@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130323195858",
+  "finalPath": "corned-beef.html",
+  "heading": "Corned Beef",
+  "ingredients": [
+    "beef"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "corned-beef.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBeef, Corned.\u003C/b\u003E\u003Cbr\u003E\nLay a large round of beef into a good pickle. Let it remain for ten days or more, turning it every day. Put it into a stewpan with sufficient water to cover it, and let it boil very gently until it is thoroughly done. Corned beef is often smoked before it is boiled. Allow half an hour to the pound after it has come to a boil.\u003Cbr\u003E\nProbable cost, 1s. per pound.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Corned Beef",
+  "usedSnapshot": "20211201041717"
+}

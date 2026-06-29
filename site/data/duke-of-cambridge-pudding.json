@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922075902",
+  "finalPath": "duke-of-cambridge-pudding.html",
+  "heading": "Duke of Cambridge Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "lemon",
+    "orange",
+    "orange peel",
+    "pudding",
+    "sugar",
+    "beat",
+    "bread",
+    "custard",
+    "milk",
+    "puddings"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "duke-of-cambridge-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe young woman\u0027s book: a useful manual for everyday life\u003C/i\u003E\u0027 - Page 303, by Laura Valentine - 1877",
+      "receiptText": "\u003Cb\u003EDuke of Cambridge Pudding\u003C/b\u003E\u003Cbr\u003E\nTime to bake three quarters of an hour\u003Cbr\u003E\n\u003Cbr\u003E\nOne ounce of lemon peel, one ounce of orange peel, one ounce of citron, six ounces of butter, six ounces of pounded sugar, yolks of four eggs, puff paste.\u003Cbr\u003E\nLine a pie dish with a rich puff paste and lay over the bottom the candied orange lemon and citron cut into thin slices. Warm the butter and the sugar, add the yolks of the eggs well beaten and stir it over the fire until it boils, then pour it into the dish over the sweetmeats and bake it in a slow oven\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "duke-of-cambridge-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDr. Chase\u0027s Third, last, and complete receipt book and household physician, or, Practical knowledge for the people\u003C/i\u003E\u0027",
+      "receiptText": "by Chase, A. W. (Alvin Wood), c1870\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ENaples, or Duke of Cambridge Pudding, with Candied Peel.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCandied lemon, orange and citron, eacli, 1 oz,; butter and pulverized sugar, each, 6 ozs.; yolks of 4 eggs; rich pufl-paste, or well-buttered bread, to line the dish.\u003Cbr\u003E\n\u003Cbr\u003E\nDirections - Chop the candied peel finely, put the rich crust or paste into the dish, else line it with bread well buttered on both sides; then put in the chopped mixture; warm the butter and sugar together, adding the well-beaten yolks, stiiTing over the fire until it boils; then pour this over the other and bake in a slow oven 1 hour; or, in place of the butter, beat the whites of the eggs also with the yolk, and make a custard with milk, 1 q.t.; sugar the same, and pour over, and bake ?? hour. This makes you two puddings for variety\u0027s sake-- make one way at one time, and the other way next time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EDuke of Cambridge Tart\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Duke of Cambridge Pudding",
+  "usedSnapshot": "20210510040409"
+}

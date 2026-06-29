@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20160521093901",
+  "finalPath": "brighton-cakes.html",
+  "heading": "Brighton Cakes",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "flour",
+    "lemon",
+    "milk",
+    "sugar",
+    "almonds",
+    "rose water"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "brighton-cakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 51.- Brighton Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 lbs. flour, 11/4 lbs. sugar.\u003Cbr\u003E\n18ozs. butter. 1oz. \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile.\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n12 eggs. Milk.\u003Cbr\u003E\nEssence of lemon.\u003Cbr\u003E\n\u003Cbr\u003E\nMode, - Break the volatile down in a mortar with a little milk; cream up the butter and sugar, adding the gs in the usual manner; add a few drops of essence of lemon; beat in the volatile, and mix in the flour with milk. Lay out in 1d. round-papered tins, dredge some sugar over, and sprinkle a few currants on top, and bake in a warm oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "brighton-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe practice of cookery\u003C/i\u003E\u0027 By Mrs. Dalgairns (\u003Ca href=\u0022references.html#dalgairns-1830\u0022\u003E\u003Cb\u003EDalgairns 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBRIGHTON CAKES\u003C/b\u003E\u003Cbr\u003E\nWith one pound of dried and sifted flour mix half a pound of srfted loaf sugar three ounces of sweet and one ounce of bitter almonds pounded with a little rose water, and,. If approved four ounces of cleaned currants, stir into this half a pound of fresh butter beaten to a cream, mix it well together. The cakes may be baked in very small tins or dropped in rough knobs upon floured tins\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "dalgairns-1830"
+    }
+  ],
+  "title": "Brighton Cakes",
+  "usedSnapshot": "20211019191845"
+}

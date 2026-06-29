@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922073430",
+  "finalPath": "snow.html",
+  "heading": "Snow",
+  "ingredients": [
+    "bread",
+    "rosemary",
+    "rosewater",
+    "sugar",
+    "cream",
+    "eggs"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "snow.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Snowe\u003C/b\u003E\u003Cbr\u003E\nTAKE a quart of thicke creame, and five or sixe whites of Egs, a sawcerfull of Sugar, and a sawcerfull of Rosewater, beate all together, and euer as it riseth take it out with a spoone: then take a loafe of bread, cut away the crust, and set it vpright in a platter. Then set a faire great Rosemarie bush in the middest of your bread: then lay your snow with a spoon vpon your Rosemary, \u0026 vpon your bread, \u0026 gilt it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "snow.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESnow cream.\u003C/b\u003E\u003Cbr\u003E\nTo a quart of cream add the whites of three eggs well beaten, a little sweet wine, and sugar to taste, whip it to a froth, and serve in a dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Snow",
+  "usedSnapshot": "20210518192917"
+}

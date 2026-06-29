@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140408131648",
+  "finalPath": "black-worcester-pear.html",
+  "heading": "Black Worcester Pear",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Black Worcester Pear",
+  "usedSnapshot": "20220706155734"
+}

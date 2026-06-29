@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212015918",
+  "finalPath": "meat-and-potato-pie.html",
+  "heading": "Meat and Potato Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Meat and Potato Pie",
+  "usedSnapshot": "20220809203733"
+}

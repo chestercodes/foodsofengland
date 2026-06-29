@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922074500",
+  "finalPath": "hannah-glasse-s-potato.html",
+  "heading": "Hannah Glasse\u0027s Potato",
+  "ingredients": [
+    "butter",
+    "potatoes",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hannah-glasse-s-potato.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo fry potatoes\u003C/b\u003E\u003Cbr\u003E\nCUT them into thin slices, as big as a crown piece, fry them brown, lay them in the plate or dish, pour \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EMelted Butter\u003C/b\u003E\u003C/a\u003E, and sack and sugar over them. These are a pretty corner-plate.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Chips\u003C/b\u003E",
+      "relatedPageUrl": "potato-chips.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EHannah Glasse\u0027s Potato\u003C/b\u003E",
+      "relatedPageUrl": "hannah-glasse-s-potato.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Ribbons\u003C/b\u003E",
+      "relatedPageUrl": "potato-ribbons.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Hannah Glasse\u0027s Potato",
+  "usedSnapshot": "20211021025638"
+}

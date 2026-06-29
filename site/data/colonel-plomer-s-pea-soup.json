@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808231359",
+  "finalPath": "colonel-plomer-s-pea-soup.html",
+  "heading": "Colonel Plomer\u0027s Pea Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Colonel Plomer\u0027s Pea Soup",
+  "usedSnapshot": "20170313212754"
+}

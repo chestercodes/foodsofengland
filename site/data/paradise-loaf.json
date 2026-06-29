@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922085027",
+  "finalPath": "paradise-loaf.html",
+  "heading": "Paradise Loaf",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Paradise Loaf",
+      "relatedPageUrl": "paradise-loaf.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Paradise Pudding",
+      "relatedPageUrl": "paradise-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Paradise Slice",
+      "relatedPageUrl": "paradise-slice.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Paradise Loaf",
+  "usedSnapshot": "20220527225300"
+}

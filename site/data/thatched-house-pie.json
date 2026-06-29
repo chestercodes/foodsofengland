@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922073949",
+  "finalPath": "thatched-house-pie.html",
+  "heading": "Thatched House Pie",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "pigeons",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "thatched-house-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E114. THATCHED-HOUSE PIE (Eighteenth Century)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake an earthenware dish that is pretty deep, rub the inside with two ounces of butter, then spread over it two ounces of vermicelli. Make a good puff paste, roll it pretty thick, and lay it on the dish; take three or four pigeons, season them very well with pepper and salt, put a good lump of butter in them and lay them in the dish with the breasts down, put a thick lid over them, and bake it in a moderate oven. When done enough, take the dish you intend for it and turn the pie into it, upside down, and the vermicelli will appear like thatch, which gives it the name of a thatched-house pie. It is a pretty side or corner dish, for a large dinner, or bottom dish for supper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EStokenchurch Pie\u003C/b\u003E",
+      "relatedPageUrl": "stokenchurch-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECumberland Pie\u003C/b\u003E",
+      "relatedPageUrl": "cumberland-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESaunders\u003C/b\u003E",
+      "relatedPageUrl": "saunders-or-sanders.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETable Potato Pasty\u003C/b\u003E",
+      "relatedPageUrl": "potatopastyacton.htm",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Thatched House Pie",
+  "usedSnapshot": "20210510055846"
+}

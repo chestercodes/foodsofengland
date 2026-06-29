@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140212030558",
+  "finalPath": "paradise-slice.html",
+  "heading": "Paradise Slice",
+  "ingredients": [
+    "almonds",
+    "butter",
+    "cherries",
+    "desiccated coconut",
+    "eggs",
+    "flour",
+    "glace cherries",
+    "jam",
+    "pastry",
+    "raspberry",
+    "rice",
+    "shortcrust pastry",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "paradise-slice.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Paradise%20Slice\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EParadise Slices\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb sweetened shortcrust pastry\u003Cbr\u003E\n8 oz sugar\u003Cbr\u003E\n3 oz ground almonds\u003Cbr\u003E\n3 oz desiccated coconut\u003Cbr\u003E\n\u00BD lb butter, softened\u003Cbr\u003E\n2 large eggs\u003Cbr\u003E\n6 oz rice flour\u003Cbr\u003E\n6 oz sultanas\u003Cbr\u003E\nglace cherries\u003Cbr\u003E\nraspberry jam\u003Cbr\u003E\n\u003Cbr\u003E\nBlind bake the pastry in a dish about 1ins deep, allow to cool and spread with the jam. Blend the other ingredients, spoon onto the jam-covered base about 3/4ins thick. Smooth the surface. Bake at 350F for 40 minutes or until set and browned. Strew with sugar and cut into slices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Paradise Loaf",
+      "relatedPageUrl": "paradise-loaf.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Paradise Pudding",
+      "relatedPageUrl": "paradise-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Paradise Slice",
+      "relatedPageUrl": "paradise-slice.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Paradise Slice",
+  "usedSnapshot": "20211129115852"
+}

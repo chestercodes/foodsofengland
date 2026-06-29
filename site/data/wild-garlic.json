@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074054",
+  "finalPath": "wild-garlic.html",
+  "heading": "Wild Garlic",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wild Garlic",
+  "usedSnapshot": "20220610152445"
+}

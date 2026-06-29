@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922075132",
+  "finalPath": "sugar-butty.html",
+  "heading": "Sugar Butty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChip Butty\u003C/b\u003E",
+      "relatedPageUrl": "chip-butty.html",
+      "relationDescription": "For more about \u0027butties\u0027 in general, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sugar Butty",
+  "usedSnapshot": "20201201232457"
+}

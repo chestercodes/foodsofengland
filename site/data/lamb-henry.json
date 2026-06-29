@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20130323203555",
+  "finalPath": "lamb-henry.html",
+  "heading": "Lamb Henry",
+  "ingredients": [
+    "coriander",
+    "cumin",
+    "garlic",
+    "greek yogurt",
+    "lamb",
+    "lemons",
+    "mint",
+    "onion",
+    "orange",
+    "saffron",
+    "salt",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-henry.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ECaterer and Hotelkeeper\u003C/i\u003E\u0027 Monday 11 September 2006;",
+      "receiptText": "Slow roasted shoulder of lamb - by Henry Harris\u003Cbr\u003E\n\u003Cb\u003EINGREDIENTS\u003C/b\u003E\u003Cbr\u003E\n(serves six)\u003Cbr\u003E\n1 large onion, peeled and coarsely chopped\u003Cbr\u003E\n200ml Greek yogurt\u003Cbr\u003E\n2 cloves garlic, crushed\u003Cbr\u003E\n1tsp harissa paste\u003Cbr\u003E\n1tsp sea salt\u003Cbr\u003E\n2tbs chopped mint\u003Cbr\u003E\n2tbs chopped coriander\u003Cbr\u003E\nZest of one orange\u003Cbr\u003E\nZest and juice of two lemons\u003Cbr\u003E\nGenerous pinch of saffron, soaked for 10 minutes in hot water\u003Cbr\u003E\n\u00BDtsp ground cumin, from toasted, whole seeds\u003Cbr\u003E\n\u00BDtsp ground coriander, from toasted, whole seeds\u003Cbr\u003E\n1 shoulder of lamb (boned, rolled and tied)\u003Cbr\u003E\n\u003Cb\u003ESuggested garnishes\u003C/b\u003E\u003Cbr\u003E\nCouscous\u003Cbr\u003E\nGrilled tomato salad\u003Cbr\u003E\nYogurt seasoned with mint, garlic, salt\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD\u003Cbr\u003E\nPlace all ingredients except shoulder of lamb in a food processor and blitz until smooth. Place the lamb in a dish and pour over the yogurt marinade. Work the marinade into the meat, paying particular attention to the cracks. Cover and store in the fridge for at least 36 hours.\u003Cbr\u003E\nPre-heat the oven to 160\u00BAC. Put the lamb with marinade into a roasting pan, cover with foil and bake for two-and-a-half hours. If the marinade evaporates too much then top it up with a little water. Remove the foil and bake for a further 45 minutes or until the lamb is well crusted.\u003Cbr\u003E\nTo serve, slice the meat and arrange it on a platter along with some couscous, grilled tomato salad and a little more yogurt seasoned with mint, garlic and salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lamb Henry",
+  "usedSnapshot": "20220110085323"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922074759",
+  "finalPath": "rose-jelly.html",
+  "heading": "Rose Jelly",
+  "ingredients": [
+    "apple",
+    "jelly",
+    "rose water",
+    "gelatine",
+    "lemon",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rose-jelly.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EThe Cook\u0027s Dictionary and House-keeper\u0027s Directory\u003C/i\u003E\u0027 (4th edition) by Richard Dolby, 1830",
+      "receiptText": "\u003Cb\u003ERose Jelly\u003C/b\u003E\u003Cbr\u003E\nMake a clear apple jelly colour it with cochineal infused in double distilled rose water and just before the last boiling put in half a glass of the best double distilled rose water\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rose-jelly.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EDesserts And Salads\u003C/i\u003E\u0027 by Gesine Lemcke, 1892 (1920 edition)",
+      "receiptText": "\u003Cb\u003E162. Rose Jelly.\u003C/b\u003E- Put 1 quart of freshly gathered rose leaves in a glass jar, squeeze the juice of 1 lemon over them, pour over the whole 1 cup boiling water, close the jar tightly and set aside till next day; then press out the juice (by putting the rose leaves in a coarse bag), let the liquid run through filtering paper (see Clarifying Fruit Juice), add 1 pint cold clarified sugar syrup, \u00BD pint white wine and 2 ounces clarified gelatine; next pour the jelly into a mould and set aside to cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Damask Cream",
+      "relatedPageUrl": "damask-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rosee or Roseye",
+      "relatedPageUrl": "rosee-or-roseye.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Rose Jelly",
+  "usedSnapshot": "20211021020331"
+}

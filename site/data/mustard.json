@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150524214833",
+  "finalPath": "mustard.html",
+  "heading": "Mustard",
+  "ingredients": [
+    "honey",
+    "mustard",
+    "mustard seed",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mustard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "LUMBARD MUSTARD\u003Cbr\u003E\nTake Mustard seed and wash it \u0026 drye it in an oven, grind it drye. Farse it though a farse. Clarify honey with wine \u0026 vinegar \u0026 stere it well together and make it blanched ynowz. \u0026 when thou wilt spend thereof make it thin with wine.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lady Holmeby\u0027s Mustard",
+      "relatedPageUrl": "lady-holmeby-s-mustard.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETewkesbury Mustard\u003C/b\u003E",
+      "relatedPageUrl": "tewkesbury(horseradish)mustard.htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDurham Mustard\u003C/b\u003E",
+      "relatedPageUrl": "durham-mustard.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Mustard",
+  "usedSnapshot": "20220527213040"
+}

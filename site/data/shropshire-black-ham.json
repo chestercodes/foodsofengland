@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20130323195838",
+  "finalPath": "shropshire-black-ham.html",
+  "heading": "Shropshire Black Ham",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBradenham Ham\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Buckinghamshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shropshire Black Ham",
+  "usedSnapshot": "20210510035545"
+}

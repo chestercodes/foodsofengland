@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140212023224",
+  "finalPath": "almond-cheesecakes.html",
+  "heading": "Almond Cheesecakes",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "beat",
+    "butter",
+    "cheesecakes",
+    "eggs",
+    "lemon",
+    "lemons",
+    "milk",
+    "powder sugar",
+    "pudding",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "almond-cheesecakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E458. To make Almond Cheesecakes another Way.\u003C/b\u003E\u003Cbr\u003E\nTake the peel of two or three lemons pared thick, boil them pretty soft, and change the water two or three times in the boiling; when they are boiled beat them very fine with a little loaf sugar, then take eight eggs, (leaving out six of the whites) half a pound of loaf or powder sugar, beat the eggs and sugar for half an hour, or better; take a quarter of a pound of the best almonds, blanch and beat them with three or four spoonfuls of rose-water, but not over small; take ten ounces of fresh butter, melt it without water, and clear off from it the butter-milk, then mix them altogether very well, and bake them in a slow oven in a puff-paste; before you put them into the tins, put in the juice of half a lemon.\u003Cbr\u003E\nWhen you put them in the oven grate over them a little loaf sugar. You may make them without almonds, if you please. You may make a pudding of the same, only leave out the almonds.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "almond-cheesecakes.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "ALMOND CHEESECAKES.\u003Cbr\u003E\n1219. INGREDIENTS. - \u00BC lb. of sweet almonds, 4 bitter ones, 3 eggs, 2 oz. of butter, the rind of \u00BC lemon, 1 tablespoonful of lemon-juice, 3 oz. of sugar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Blanch and pound the almonds smoothly in a mortar, with a little rose- or spring-water; stir in the eggs, which should be well beaten, and the butter, which should be warmed; add the grated lemon-peel and -juice, sweeten, and stir well until the whole is thoroughly mixed. Line some pattypans with puff-paste, put in the mixture, and bake for 20 minutes, or rather less in a quick oven.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - 20 minutes, or rather less.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 10d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E for about 12 cheesecakes.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Almond Cheesecakes",
+  "usedSnapshot": "20211020221757"
+}

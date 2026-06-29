@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082155",
+  "finalPath": "chelmsford-pudding.html",
+  "heading": "Chelmsford Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "custard",
+    "egg",
+    "flour",
+    "milk",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chelmsford-pudding.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.essextouristguide.com/Favourite_Essex_Recipes.asp\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EChelmsford Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 2 oz. butter, 2 oz. sugar, 1 egg, \u00BC pint milk, 4 oz. self raising flour, pinch of salt, 6 oz. stewed fruit (as available in season), sugar for sprinkling\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00BAF or Mark 4. In a bowl, beat the butter and sugar to a cream. In another bowl, beat the egg and add the milk to it. Add the flour and milk/egg mixture alternately to the butter/sugar mixture. Beat well. Add salt. Arrange the stewed fruit in a greased 2-pint pie dish and pour the sponge mixture over. Bake for 30-40 minutes. Remove from the oven and sprinkle the top with sugar. Serve hot with custard.\u003Cbr\u003E\nServes 4.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chelmsford Pudding",
+  "usedSnapshot": "20220516221211"
+}

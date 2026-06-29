@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150822224049",
+  "finalPath": "guildford-manchets.html",
+  "heading": "Guildford Manchets",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "egg",
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "pastry",
+    "plain flour",
+    "puff pastry",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "guildford-manchets.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Guildford%20Manchets\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 lb Strong plain flour\u003Cbr\u003E\n1 Teaspoon Salt\u003Cbr\u003E\n4 oz Butter\u003Cbr\u003E\nYeast\u003Cbr\u003E\n1 Teaspoon sugar\u003Cbr\u003E\n\u00BD pint milk and water, warm\u003Cbr\u003E\n1 oz Lard\u003Cbr\u003E\nSalt\u003Cbr\u003E\n\u003Cbr\u003E\nMake the bread dough in the usual way using 1 oz of the butter. After the first rise, knock back and knead until the dough is firm about 2 minutes. Roll out about 6 x 14 inches. Cream the remaining butter with the lard, add a little salt and form into a rectangle. Place this in the centre of the dough and fold over to enclose the fat. Seal the edges and roll into a strip. Proceed as for making puff pastry, folding and rolling 4 times in all. Finally, roll out into a rectangle, cut into 16 pieces, and form each into a round. Place on greased baking trays, cover and leave to rise in a warm place for about 20 minutes. Brush the rolls with milk or beaten egg and bake at 200 \u00B0C / 400 \u00B0F / Gas 6 for about 30 minutes. Eat these warm with butter, pulled apart, not cut.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EGuildford Rolls\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Guildford Manchets",
+  "usedSnapshot": "20220127192602"
+}

@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20140616082348",
+  "finalPath": "snail-water.html",
+  "heading": "Snail Water",
+  "ingredients": [
+    "beer",
+    "milk",
+    "rosemary",
+    "snail",
+    "snails",
+    "sugar",
+    "ale",
+    "barberries",
+    "bark",
+    "beat",
+    "herbs",
+    "liver",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "snail-water.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Snail Water for weak Children, and old People.\u003C/b\u003E\u003Cbr\u003E\nTake a pottle of Snails, and wash them well in two or three waters, and then in small Beer, bruise them shells and all, then put them into a gallon of red Cows Milk, red Rose leaves dried, the whites cut off, Rosemary, sweet Marjoram, of each one handful, and so distil them in a cold still, and let it drop upon powder of white Sugar candy in the receiver; drink of it first and last, and at four a clock in the afternoon, a wine-glass full at a time.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "snail-water.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Queens Delight in The Art of Preserving, Conserving and Candying\u003C/i\u003E\u0027 by WM, 1671 (\u003Ca href=\u0022references.html#wm-1671\u0022\u003E\u003Cb\u003EWM 1671\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EThe admirable and most famous Snail Water.\u003C/b\u003E\u003Cbr\u003E\nTake a peck of garden shell snails, wash them well in small beer, and put them in a hot Oven till they have done making a noise, then take them out, and wipe them well from the green froth that is upon them, and bruise them shells and all in a stone Mortar, then take a quart of earth worms, scower them with salt, slit them \u0026 wash them well with water from their filth, and in a stone Mortar beat them to pieces, then lay in the bottom of your distilled pot Angelica two handfuls, and two handfuls of Celandine upon them, to which put two quarts of Rosemary flowers, Bears foot, Agrimony, red Dock Roots, Bark of Barberries, Betony, Wood sorrel, of each two handfuls, Rue one handful; then lay the Snails and worms on the top of the Herbs and Flowers, then pour on three Gallons of the strongest Ale, and let it stand all night, in the morning put in three ounces of Cloves beaten, six penniworth of beaten Saffron and on the top of them six ounces of shaved Harts-horn, then set on the Limbeck, and close it with paste, and so receive the water by pints, which will be nine in all, the first is the strongest, whereof take in the morning two spoonfuls in four spoonfuls of small Beer, and the like in the afternoon; you must keep a good Diet and use moderate exercise to warm the blood.\u003Cbr\u003E\n\u003Cbr\u003E\nThis Water is good against all Obstructions whatsoever. It cureth a Consumption and Dropsie, the stopping of the Stomach and Liver. It may be distilled with milk for weak people and children, with Harts-tongue and Elecampance.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Snails",
+      "relatedPageUrl": "snails.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1671"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Snail Water",
+  "usedSnapshot": "20220906172442"
+}

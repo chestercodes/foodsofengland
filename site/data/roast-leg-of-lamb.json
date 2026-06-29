@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130323200035",
+  "finalPath": "roast-leg-of-lamb.html",
+  "heading": "Roast Leg of Lamb",
+  "ingredients": [
+    "bacon",
+    "cayenne",
+    "fat",
+    "lamb",
+    "lemon",
+    "lemon juice",
+    "mushrooms",
+    "onions",
+    "oysters",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "roast-leg-of-lamb.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELEG OF LAMB WITH OYSTERS.\u003C/b\u003E\u003Cbr\u003E\nBone the leg, fill the cavity with light forcemeat, and some blanched and bearded oysters pounded with it. Sew it up, put over it slices of lemon, salt, bards of fat bacon, and paper. Roast it gently, and when it is to be served up, glaize it, and put a sauce round it made with oysters blanched and bearded, stewed mushrooms, boiled button onions, some cullis, and the oyster liquor they were blanched in. Season to the palate with cayenne and lemon juice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Roast Leg of Lamb",
+  "usedSnapshot": "20220116101857"
+}

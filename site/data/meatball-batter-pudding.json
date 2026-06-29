@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20130323203610",
+  "finalPath": "meatball-batter-pudding.html",
+  "heading": "Meatball Batter Pudding",
+  "ingredients": [
+    "beat",
+    "beef",
+    "butter",
+    "egg",
+    "flour",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "meatball-batter-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Meatball%20Batter%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 oz Butter\u003Cbr\u003E\n4 oz Flour\u003Cbr\u003E\n1 Egg\u003Cbr\u003E\n1/2 Pint Milk\u003Cbr\u003E\n1 lb Lean minced beef, shaped into 12 balls\u003Cbr\u003E\n\u003Cbr\u003E\nPlace the butter in a roasting tin. Heat for 10 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nSift the flour into a bowl. Break in the egg. Gradually add half the milk, beating to form a smooth batter. Pour in the remaining milk and beat until quite smooth. Alternatively, add the flour, milk and egg to the liquidiser and blend until smooth.\u003Cbr\u003E\nPour the batter into the roasting tin. Add the meatballs. Bake for 40-45 minutes at 220C / 425F, until the batter is well risen and golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Meatball Batter Pudding",
+  "usedSnapshot": "20211201024840"
+}

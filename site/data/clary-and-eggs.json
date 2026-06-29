@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20130323041856",
+  "finalPath": "clary-and-eggs.html",
+  "heading": "Clary and Eggs",
+  "ingredients": [
+    "beat",
+    "eggs",
+    "lard",
+    "lemon",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "clary-and-eggs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EClary and Eggs,\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake eight or ten Eggs; beat them well in a Porringer; then take some Clary Leaves, and chop them small; add a little Pepper and Salt, and some Onion chopt small. This Mixture must be fry\u0027d in hot Lard or Hog-Seam, and serve it with Slices of Lemon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Clary and Eggs",
+  "usedSnapshot": "20211020235627"
+}

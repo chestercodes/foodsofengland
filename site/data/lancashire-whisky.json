@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084309",
+  "finalPath": "lancashire-whisky.html",
+  "heading": "Lancashire Whisky",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lancashire Whisky",
+  "usedSnapshot": "20210510051827"
+}

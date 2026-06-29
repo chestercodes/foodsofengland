@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922093354",
+  "finalPath": "sloe-jelly.html",
+  "heading": "Sloe Jelly",
+  "ingredients": [
+    "jelly"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sloe-jelly.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 1 September 1939",
+      "receiptText": "Sloe Jelly.- Place the sloes a preserving pan cover with cold water, and boil until they are tender; in five or ten minutes they will be ready to strain. After straining add one pound and two ounces loaf to each pint of juice. Now boil for about an hour and a quarter, when it will begin to \u0022jell.\u0022 The pots should be heated before the jelly is poured into them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sloe Jelly",
+  "usedSnapshot": "20211021014414"
+}

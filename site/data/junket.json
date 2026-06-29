@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922085155",
+  "finalPath": "junket.html",
+  "heading": "Junket",
+  "ingredients": [
+    "biscuits",
+    "brandy",
+    "bread",
+    "castor sugar",
+    "clotted cream",
+    "cream",
+    "milk",
+    "nutmeg",
+    "sherry",
+    "sugar",
+    "walnuts"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "junket.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EJUNKETS 612. JUNKET (Somerset)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake one quart of new milk. Warm some of it with five knobs of loaf sugar, then pour the hot and cold milk together into a deep bowl. Add one good tablespoonful of brandy and one of rennet. Stir it well round together. Let it stand in a warm place to set, say on a dish on a cool part of the stove. Then remove it, and cover the top with Devonshire clotted cream. Throw over it a tablespoonful of brandy, then grate a little nutmeg on it and scatter sifted sugar. Walnuts are a welcome addition. Send to table with plain biscuits or bread.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E613. JUNKET (Surrey)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nOne quart of milk, lukewarm (not scalded or even hot); two tablespoonfuls of soft white sugar; two tablespoonfuls of rum; one dessertspoonful of essence of rennet. Put the milk to stand on the stove for five or ten minutes to get sightly warm, then stir in the sugar and rum and mix them well, then add the rennet; stir it well, and then stir again in a few minutes. Leave the junket in a corner of the stove, not too hot, until it is solid, then grate a little nutmeg over it and put it to cool.\u003Cbr\u003E\n\u003Cbr\u003E\n(N.B. Sherry may be advantageously substituted for the rum.)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E614. COFFEE JUNKET (Surrey)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTo one pint of new milk add half a teacupful of strong coffee, and one dessertspoonful of castor sugar. Make this as you would ordinary junket, using one teaspoonful of essence of rennet or one rennet tablet. Pour into the bowl it will be served in, and let it stand in a moderately cool place till set. Whip two-pennyworth of cream, add a little sugar, and arrange little dobs of cream on the top of the junket, just before it is sent to table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", with an \u0027I\u0027 before \u0027J\u0027 came into common use; \u003Cb\u003EIouncat\u003C/b\u003E, \u003Cb\u003EIoncate, Iunket\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Junket",
+  "usedSnapshot": "20211027042403"
+}

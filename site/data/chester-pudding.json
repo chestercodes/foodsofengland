@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140212015405",
+  "finalPath": "chester-pudding.html",
+  "heading": "Chester Pudding",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "eggs",
+    "lemon",
+    "pastry",
+    "pudding",
+    "sugar",
+    "almonds blanched",
+    "egg",
+    "egg whites"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chester-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 Edited by JH Walsh, 1859 (\u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EChester Pudding\u003C/b\u003E Take a stewpan and oil two ounces of butter, blanch twelve bitter and twelve sweet almonds, pound them in a mortar. Take four ounces of powdered loaf sugar, the yolks of four eggs well beaten, the rind of a large lemon grated and the juice. Put all these ingredients Into the butter In the stewpan and stir constantly till quite hot. Then put it into a dish lined with pastry and bake it half an hour. Beat the whites of the eggs till perfectly stiff, put them upon the top of the pudding and put it in the oven till it Is set and is of a light brown colour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chester-pudding.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ENewcastle Journal\u003C/i\u003E\u0027 - Thursday 01 January 1914",
+      "receiptText": "CHESTER PUDDING.\u003Cbr\u003E\nAn ounce of sweet almonds blanched and crushed, a quarter of a pound of castor, sugar, three two ounces of butter, and a little short pastry. Line a small pie-dish with pastry rolled very thin, decorate the edge, and brush it over with beaten egg. Melt the butter and sugar in pan with the almonds.- Stir in the yolks of three eggs and the of one; stir the mixture over gentle fire till it thickens, taking care it does not burs; then pour it into the prepared dish. Bake for .half hour, or until set. Whip the remaining egg whites a stiff froth with tablespoon full of sugar. Pile it the top of the pudding and return it to the oven for a few minutes. This pudding is good either hot cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Chester Pudding",
+  "usedSnapshot": "20220817205101"
+}

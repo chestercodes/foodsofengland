@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140508110407",
+  "finalPath": "goofer-wafers.html",
+  "heading": "Goofer Wafers",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "milk",
+    "nutmeg",
+    "powder sugar",
+    "salt",
+    "sugar",
+    "white wine",
+    "currants"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "goofer-wafers.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E190. To make GOOFER WAFERS.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of fine flour and six eggs, beat them very well, put to them about a jill of milk, mix it well with the flour, put in half a pound of clarified butter, half a pound of powder sugar, half of a nutmeg, and a little salt; you may add to it two or three spoonfuls of cream; then take your goofer-irons and put them into the fire to heat, when they are hot rub them over the first time with a little butter in a cloth, put your batter into one side of your goofer-irons, put them into the fire, and keep turning the irons every now and then; (if your irons be too hot they burn soon) make them a day or two before you use them, only set them down before the fire on a pewter dish before you serve them up; have a little white wine and butter for your sauce, grating some sugar over them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "goofer-wafers.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Gofers.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBeat three Eggs Well, with three Spoonful of Flour, and a little Salt, then mix them with a Pint of Milk, and an Ounce of Sugar, half a Nutmeg grated, beat them well together, then make your Gofer Tongs hot, hib them with fresh Butter, fill the Bottom part of your Tongs and clap the Top upon, then turn them, and when a fine brown on both Sides, put them in a dish and pour white Wine Sauce over them,\u003Cbr\u003E\nfive is enough for a dish, don\u0027t lay them one upon another, it will make them soft - You may put in Currants if you please.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EGofer, Goffer, Gauffer\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Goofer Wafers",
+  "usedSnapshot": "20200112193322"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922092120",
+  "finalPath": "sweetheart-cake.html",
+  "heading": "Sweetheart Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sweetheart Cake",
+  "usedSnapshot": "20211207122735"
+}

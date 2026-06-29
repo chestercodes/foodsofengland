@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922094728",
+  "finalPath": "gipsy-bread.html",
+  "heading": "Gipsy Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gipsy Bread",
+  "usedSnapshot": "20170314021418"
+}

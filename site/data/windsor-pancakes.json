@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922085956",
+  "finalPath": "windsor-pancakes.html",
+  "heading": "Windsor Pancakes",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "lard",
+    "milk",
+    "nutmeg",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "windsor-pancakes.html-1",
+      "receiptSource": "Original Receipt from Cassell\u0027s Dictionary of Cookery (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Pancakes, Windsor. - Mix four tablespoonfuls of flour very smoothly with a little cold milk. Add a pinch of salt, half a small nutmeg, grated, six well-beaten eggs, six ounces of clarified butter, and a pint of new milk, or cream, if the latter can be had. Beat the mixture thoroughly, and set it in a cool place until wanted for use. No butter or lard will be required in frying these pancakes. Time to fry, five minutes. Probable cost, when made with milk, Is. 3d. Sufficient for five or six persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Windsor Pancakes",
+  "usedSnapshot": "20210510052123"
+}

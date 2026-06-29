@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922081143",
+  "finalPath": "trayne-roste.html",
+  "heading": "Trayne Roste",
+  "ingredients": [
+    "ale",
+    "bread",
+    "clowes",
+    "dates",
+    "ginger",
+    "saffron",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "trayne-roste.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETrayne roste.\u003C/b\u003E Take Dates and figges, and cut them in a peny bread; And then take grete reysons and blanched almondes, and prik them through with a nedel into a threde of a mannys lengt, and one of one frute and a-nother of a-nother frute; and then bynde the threde with the frute A-bought a rownde spit, endelonge the spit, in maner of an hasselet; And then take a quarte of wine or Ale, and fine floure, And make batur thereof, and cast thereto powder ginger, sugur, \u0026 saffron, powder of Clowes, salt; And make the batur not fully rennyng, and nother stonding, but in the mene, that it may cleue, and than roast the treyne abougt the fire in the spit; And then cast the batur on the treyne as he turnet abought the fire, so longe til the frute be hidde in the batur; as thou castest the batur there-on, hold a vesse vndere-nethe, for spilling of the batur. And whan it is y-rosted well, it wol seme a hasselet; And then take it up from the spit al hole, And cut it in faire peces of a Span lengt, And serve of it a pece or two in a diss al hote.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Trayne Roste",
+  "usedSnapshot": "20220527064221"
+}

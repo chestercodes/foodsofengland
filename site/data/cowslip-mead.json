@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922071823",
+  "finalPath": "cowslip-mead.html",
+  "heading": "Cowslip Mead",
+  "ingredients": [
+    "cowslip",
+    "honey",
+    "lemons",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cowslip-mead.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "COWSLIP MEAD. Put thirty pounds of honey into fifteen gallons of water, and boil till one gallon is wasted; skim it, and take it off the fire. Have a dozen and a half of lemons ready quartered, pour a gallon of the liquor boiling hot upon them, and the remainder into a tub, with seven pecks of cowslip pips. Let them remain there all night; then put the liquor and the lemons to eight spoonfuls of new yeast, and a handful of sweet-briar. Stir all well together, and let it work for three or four days; then strain and tun it into a cask. Let it stand six months, and bottle it for keeping.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Cowslip Mead",
+  "usedSnapshot": "20211021023046"
+}

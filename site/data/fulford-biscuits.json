@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20140508110356",
+  "finalPath": "fulford-biscuits.html",
+  "heading": "Fulford Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "York"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Fulford Biscuits",
+  "usedSnapshot": "20211018084023"
+}

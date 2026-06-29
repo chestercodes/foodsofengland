@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212023430",
+  "finalPath": "apple-and-sage-turnovers.html",
+  "heading": "Apple and Sage Turnovers",
+  "ingredients": [
+    "apple",
+    "cheese",
+    "egg",
+    "lancashire cheese",
+    "pastry",
+    "puff pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-and-sage-turnovers.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Apple%20and%20Sage%20Turnovers\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Lancashire, Apple and Sage Turnovers\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n300 Gram Puff pastry (11 oz)\u003Cbr\u003E\n100 Gram Lancashire cheese, crumbled (3 \u00BD oz)\u003Cbr\u003E\n100 Gram Green dessert apples, chopped (3 \u00BD oz)\u003Cbr\u003E\n1 Tablespoon Fresh sage, chopped\u003Cbr\u003E\n1 Egg, beaten\u003Cbr\u003E\nMethod\u003Cbr\u003E\nPreheat the oven to 200 \u00B0C / 400 \u00B0F / Gas 6. Roll out the pastry and cut out four 18 cm (7 inch) circles.\u003Cbr\u003E\n\u003Cbr\u003E\nMix together the Lancashire cheese, apple and sage. Place a quarter of the mix in the centre of each pastry circle. Brush water around the edge of each circle, fold in half and seal.Prick the pastry, brush with the beaten egg. Bake for 20-25 minutes until golden brown and crisp.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Apple and Sage Turnovers",
+  "usedSnapshot": "20220527215244"
+}

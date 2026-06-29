@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20131217113524",
+  "finalPath": "tatie-pot.html",
+  "heading": "Tatie Pot",
+  "ingredients": [
+    "cabbage",
+    "fat",
+    "lamb",
+    "onions",
+    "potato",
+    "potatoes",
+    "puddings"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tatie-pot.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELakeland Recipes Old and New\u003C/i\u003E\u0027 by Joan Poulson 1978. (Countryside Publications, ISBN 0 86157 008 1). Found by Linda Johnson",
+      "receiptText": "Page 21 No.22\u003Cbr\u003E\n\u003Cb\u003EWestmorland Tatie Pot\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 lb best neck of lamb\u003Cbr\u003E\n\u00BE pints of stock\u003Cbr\u003E\n2 large onions\u003Cbr\u003E\none or two black puddings (preferably ones without fat)\u003Cbr\u003E\n1 \u00BD lb potatoes\u003Cbr\u003E\nSeasoning\u003Cbr\u003E\n\u003Cbr\u003E\nRemove any excess fat from the meat. Peel and slice potatoes and onions. Slice the black puddings. Layer all the ingredients in a casserole dish, adding seasoning to taste. Top with potato. Heat the stock and pour in. Cover and bake in a moderate oven, 400F, 200C or gas mark 6 for 1 \u00BC hours. Take off the lid and cook for a further 20 to 30 minutes to brown the potatoes. Serve with red cabbage, if possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ECumberland\u003C/b\u003E or \u003Cb\u003EWestmorland Hotpot\u003C/b\u003E or \u003Cb\u003EHot-Pot\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westmorland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tatie Pot",
+  "usedSnapshot": "20210721010238"
+}

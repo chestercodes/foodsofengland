@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922105051",
+  "finalPath": "blanket-sweet-pudding.html",
+  "heading": "Blanket Sweet Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Yorkshire Blanket Pudding",
+      "relatedPageUrl": "blanket-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Blanket Sweet Pudding",
+  "usedSnapshot": "20211027031309"
+}

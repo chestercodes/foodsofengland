@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130808222439",
+  "finalPath": "chichester-pudding.html",
+  "heading": "Chichester Pudding",
+  "ingredients": [
+    "beat",
+    "breadcrumbs",
+    "cinnamon",
+    "custard",
+    "egg",
+    "egg whites",
+    "egg yolks",
+    "milk",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chichester-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EOld Sussex Recipes\u003C/i\u003E\u0027 by Rottingdean Lions (fundraising book of recipes) c1980 (with thanks to Linda Johnson)",
+      "receiptText": "Recipe Anon c1890\u003Cbr\u003E\n\u003Cb\u003EThe Chichester Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 pint milk\u003Cbr\u003E\n3oz sugar\u003Cbr\u003E\n6 egg yolks\u003Cbr\u003E\n6 egg whites\u003Cbr\u003E\n6oz freshwhite breadcrumbs\u003Cbr\u003E\nCinnamon or Ratafia flavouring\u003Cbr\u003E\n\u003Cbr\u003E\nWarm the milk to blood heat and pour over the egg yolks beaten with the sugar. Mix and strain. Beat the whites until stiff. Blend the breadcrumbs and flavouring into the custard and fold the egg whites in roughly so that the mixture has a marbled effect. Pour into a 2 pint buttered pie dish and bake in a pan of hot water until set (350 F, Gas Mark 4), 30-40 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Chichester Pudding",
+  "usedSnapshot": "20211205171622"
+}

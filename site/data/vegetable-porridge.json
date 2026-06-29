@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922091833",
+  "finalPath": "vegetable-porridge.html",
+  "heading": "Vegetable Porridge",
+  "ingredients": [
+    "bread",
+    "broccoli",
+    "butter",
+    "cabbages",
+    "carrots",
+    "lettuce",
+    "mint",
+    "parsley",
+    "parsnips",
+    "peas",
+    "pepper",
+    "potatoes",
+    "salt",
+    "thyme",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "vegetable-porridge.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 90. Economical Vegetable Pottage.\u003C/b\u003E\u003Cbr\u003E\nThe most common as well as the easiest method for making a good mess of cheap and nutritious soup is the following:-If you are five or six in family, put a three-gallon pot on the fire rather more than half full of water, add four ounces of butter, pepper and salt, and small sprigs of winter savory, thyme, and parsley; and when this has boiled, throw in any portion or quantity, as may best suit your convenience, of such of the following vegetables as your garden can afford:- Any kind of cabbages cleaned and split, carrots, turnips, parsnips, broad beans, French beans, peas, broccoli, red cabbages, vegetable marrow, young potatoes, a few lettuce, some chervil, and a few sprigs of mint. Allow all this to simmer by the side of the hob for about two hours, and then, after taking up the more considerable portion of the whole vegetables on to a dish, eat one half, or as much as you may require, of the soup with bread in it, and make up your dinner with the whole vegetables and more bread. The remainder will serve for the next day. Let me persuade you, my friends, to try and persevere in adopting this very desirable kind of food, when in your power, for your ordinary fare. I, of course, intend this remark more particularly for the consideration of such of my readers as are or may be located in the country, and who may have a little garden of their own.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Vegetable Porridge",
+  "usedSnapshot": "20210518195028"
+}

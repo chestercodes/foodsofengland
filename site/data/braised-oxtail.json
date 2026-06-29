@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150913034128",
+  "finalPath": "braised-oxtail.html",
+  "heading": "Braised Oxtail",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "carrots",
+    "gherkin",
+    "gravy",
+    "onion",
+    "turnip"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "braised-oxtail.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ECanterbury Journal, Kentish Times and Farmers\u0027 Gazette\u003C/i\u003E\u0027 - Saturday 01 February 1896",
+      "receiptText": "\u003Cb\u003EBraised Ox-Tail.\u003C/b\u003E \u2014Thoroughly wash the tail and divide it into four-inch lengths. Melt a piece butter in a stewpan and fry the tail in till well browned. Peel and divide two carrots, turnip, and a small onion, and place in the bottom of the stewpan; then add slice of thin bacon, and lastly the meat; pour over all teacupful of and braise slowly till the meat is which will take about two and a the pieces of tail on hot dish, the gravy, and pour over, garnish with a little chopped gherkin, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Braised Oxtail",
+  "usedSnapshot": "20220808004139"
+}

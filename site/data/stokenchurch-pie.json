@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140212031047",
+  "finalPath": "stokenchurch-pie.html",
+  "heading": "Stokenchurch Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Roman Pie",
+      "relatedPageUrl": "roman-pie.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Thatched House Pie",
+      "relatedPageUrl": "thatched-house-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Buckinghamshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Stokenchurch Pie",
+  "usedSnapshot": "20220809193715"
+}

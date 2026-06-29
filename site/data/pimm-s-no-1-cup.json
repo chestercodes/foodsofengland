@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922084026",
+  "finalPath": "pimm-s-no-1-cup.html",
+  "heading": "Pimm\u0027s No 1 Cup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Badminton Cup",
+      "relatedPageUrl": "badminton-cup.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Wimbledon Cup",
+      "relatedPageUrl": "wimbledon-cup.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pimm\u0027s No 1 Cup",
+  "usedSnapshot": "20211027025947"
+}

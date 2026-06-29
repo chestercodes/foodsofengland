@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130808222042",
+  "finalPath": "stargazy-pie.html",
+  "heading": "Stargazy Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Salt Pilchards",
+      "relatedPageUrl": "salt-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Marinated Pilchards",
+      "relatedPageUrl": "marinated-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pilchard Pie",
+      "relatedPageUrl": "pilchard-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stargazy Pie",
+      "relatedPageUrl": "stargazy-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Stargazy Pie",
+  "usedSnapshot": "20210121025408"
+}

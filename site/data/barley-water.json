@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20130322201411",
+  "finalPath": "barley-water.html",
+  "heading": "Barley Water",
+  "ingredients": [
+    "barley",
+    "lemon",
+    "lemon juice",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "barley-water.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Barley-Water\u003C/b\u003E\u003Cbr\u003E\nPUT a quarter of a pound of pearl-barley into two quarts of water, let it boil, skim it very clean, boil half away, and strain it off. Sweeten to your palate, but not too sweet, and put in two spoonfuls of white-wine. Drink it luke-warm.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "barley-water.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BARLEY WATER. Wash a handful of common barley, then simmer it gently in three pints of water, with a bit of lemon peel. Or boil an ounce of pearl barley a few minutes to cleanse it, and then put on it a quart of water. Simmer it an hour: when half done, put into it a piece of fresh lemon peel, and one bit of sugar. If likely to be thick, add a quarter of a pint of water, and a little lemon juice, if approved. This makes a very pleasant drink for a sick person; but the former is less apt to nauseate.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETyssan\u003C/b\u003E",
+      "relatedPageUrl": "tyssan.html",
+      "relationDescription": "For an ancient version, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EQueens Barley Cream\u003C/b\u003E",
+      "relatedPageUrl": "queens-barley-cream-soup.html",
+      "relationDescription": "For an ancient version, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Barley Water",
+  "usedSnapshot": "20220706160635"
+}

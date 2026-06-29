@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922080646",
+  "finalPath": "cabshelter-sauce.html",
+  "heading": "Cabshelter Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Cabshelter Sauce",
+  "usedSnapshot": "20220527210143"
+}

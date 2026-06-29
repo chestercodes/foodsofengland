@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922132955",
+  "finalPath": "kipper-paste.html",
+  "heading": "Kipper Paste",
+  "ingredients": [
+    "butter",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kipper-paste.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPortsmouth Evening News\u003C/i\u003E\u0027 - Tuesday 26 March 1935",
+      "receiptText": "A good kipper paste can i\u00BBe simply made removing the flesh from a steamed kipper while still warm, freeing it from all bones and pounding it with an ounce of butter. For nursery and schoolroom use no addition of pepper or of savoury sauces necessary. Variations can made with similar recipes bloater or herring being substituted for the kipper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Craster Kipper Paste",
+      "relatedPageUrl": "craster-kipper-paste.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Kippers"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Kipper Paste",
+  "usedSnapshot": "20220604154501"
+}

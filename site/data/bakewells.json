@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140212015355",
+  "finalPath": "bakewells.html",
+  "heading": "Bakewells",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Alderman\u0027s Pudding",
+      "relatedPageUrl": "alderman-s-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bakewell Pudding",
+      "relatedPageUrl": "bakewell-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bakewell Tart",
+      "relatedPageUrl": "bakewell-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bakewells",
+      "relatedPageUrl": "bakewells.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bakewells",
+  "usedSnapshot": "20211129110220"
+}

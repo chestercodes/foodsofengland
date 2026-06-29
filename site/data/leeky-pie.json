@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212015753",
+  "finalPath": "leeky-pie.html",
+  "heading": "Leeky Pie",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "leeks",
+    "milk",
+    "pastry",
+    "pepper",
+    "pork",
+    "puff pastry",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leeky-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Leeky%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz leeks, trimmed, sliced and washed\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n1 lb lean boneless pork, cubed\u003Cbr\u003E\n1/4 pint milk\u003Cbr\u003E\n3 fl oz single cream\u003Cbr\u003E\n2 eggs, beaten\u003Cbr\u003E\n8 oz puff pastry\u003Cbr\u003E\n\u003Cbr\u003E\n1. Parboil the leeks in salted water for about 5 minutes. Drain well. Fill a 2 pint pie dish with the leeks and pork. Season to taste and pour in the milk.\u003Cbr\u003E\n2. Cover with foil and bake at 200\u00B0C (400\u00B0F) mark 6 for about 1 hour. (Don\u0027t worry if it looks curdled.)\u003Cbr\u003E\n3. Stir the cream into the eggs, then pour into the dish. Allow the pie to cool.\u003Cbr\u003E\n4. Roll out the pastry on a lightly floured surface to 2 inches wider than the dish. Cut a 1 inch strip from the outer edge and use to line the dampened rim of the pie dish. Dampen the pastry rim with water, cover with the pastry lid and seal the edges well, then knock up and flute. Make a hole in the centre of the pie and use pastry trimmings to decorate.\u003Cbr\u003E\n5. Bake at 220\u00B0C (425\u00B0F) mark 7 for about 25-30 minutes, until risen and golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ELikky Pie, Likky Pasty\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Leeky Pie",
+  "usedSnapshot": "20211019173329"
+}

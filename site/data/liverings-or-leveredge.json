@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140125041257",
+  "finalPath": "liverings-or-leveredge.html",
+  "heading": "Liverings or Leveredge",
+  "ingredients": [
+    "liver",
+    "pepper",
+    "salt",
+    "suet",
+    "anniseed",
+    "barberries",
+    "bread",
+    "cream",
+    "dates",
+    "eggs",
+    "herbs",
+    "milk",
+    "nutmeg",
+    "puddings",
+    "rosewater"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "liverings-or-leveredge.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Liverings of a Swine.\u003C/b\u003E\u003Cbr\u003E\nFirst perboile the Liver, then stamp it in a Morter, and when it is small inough, put it in a vessell, and put to it suet, yolkes of Egges, pepper, cloves, Mace and Salt. Then take your Guts cleane washed, and stuffe them with the foresaide stuffe, then boyle them, that doon serve them forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "liverings-or-leveredge.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Leveridge Puddings.\u003C/b\u003E\u003Cbr\u003E\nBoil a hogs liver, and let it be thorowly cold, then grate and sift it through a cullender, put new milk to it and the fleck of a hog minced small put into the liver, and some grated bread, divide the meat in two parts, then take store of herbs, mince them fine, and put the herbs into one part with nutmeg, mace, pepper, anniseed, rosewater, cream, and eggs, fill them up and boil them. To the other part or sort put barberries, slic\u0027t dates, currans, cream, and eggs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Liverings or Leveredge",
+  "usedSnapshot": "20210518193620"
+}

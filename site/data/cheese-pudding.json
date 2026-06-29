@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140616085321",
+  "finalPath": "cheese-pudding.html",
+  "heading": "Cheese Pudding",
+  "ingredients": [
+    "bread",
+    "breadcrumbs",
+    "butter",
+    "cayenne",
+    "cheese",
+    "cream",
+    "egg",
+    "eggs",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "mustard",
+    "pepper",
+    "pudding",
+    "puddings",
+    "salt",
+    "beat"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cheese-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E293. CHEESE PUDDING (Isle of Wight)\u003C/b\u003E\u003Cbr\u003E\nTwo ounces of grated cheese, two ounces of breadcrumbs, one ounce of butter, one teaspoonful made mustard, half a gill of milk, one egg, cayenne pepper, salt. Put butter and milk into saucepan, make quite hot, pour over crumbs and cheese, then add yolk of egg and mustard mixed. Whip white of egg and add lastly, or it may be pulled on the top (when pudding is cooked) with a little grated cheese, and just set. Bake pudding twenty minutes.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E294. CHEESE PUDDING (Kent)\u003C/b\u003E\u003Cbr\u003E\nTwo eggs, half a teacupful of cream or good milk, and a little salt and pepper. Two large tablespoonfuls of grated cheese. Mix all together, and bake for twenty minutes in quick oven.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E295. CHEESE PUDDINGS (Surrey)\u003C/b\u003E\u003Cbr\u003E\n(1) Grate three ounces of cheese, mix with two ounces of bread crumbs, two well-beaten eggs, one and a half pints of milk, pepper and salt to taste, and a squeeze of lemon juice. Bake in a well buttered dish from a half to three-quarters of an hour.\u003Cbr\u003E\n(2) Three ounces of grated cheese, three ounces of bread crumbs, a little made mustard, salt to taste. Pour over as much boiling milk as it will absorb, and two well-beaten eggs. Bake in a buttered pie dish about twenty minutes, and serve immediately and very hot.\u003Cbr\u003E\n(3) One teacupful of milk, one teaspoonful of flour, one well-beaten egg, one ounce creamed butter, four ounces of grated cheese. Mix well, and bake ten to fifteen minutes. To be served and eaten at once.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cheese-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECheese Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n3 oz. of bread-crumbs.\u003Cbr\u003E\n1 pint of milk.\u003Cbr\u003E\nlb. of grated cheese.\u003Cbr\u003E\n3 eggs.\u003Cbr\u003E\n1 oz. of butter.\u003Cbr\u003E\nPepper and salt.\u003Cbr\u003E\nA little cayenne.\u003Cbr\u003E\nMethod.\u003Cbr\u003E\nPut the crumbs into a basin.\u003Cbr\u003E\nBoil the milk; pour it over them, and let them soak.\u003Cbr\u003E\nThen add the yolks of the three eggs, the grated cheese, and seasoning.\u003Cbr\u003E\nBeat the whites of the eggs to a stiff froth and stir them in lightly.\u003Cbr\u003E\nPour the mixture into a greased pie-dish, and bake in a quick oven until well thrown up and brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EIsle of Wight Pudding\u003C/b\u003E",
+      "relatedPageUrl": "isle-of-wight-pudding.html",
+      "relationDescription": "For other puddings associated with the Isle of Wight, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Cheese Pudding",
+  "usedSnapshot": "20211201004939"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922093244",
+  "finalPath": "brompton-water-cakes.html",
+  "heading": "Brompton Water Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brompton Water Cakes",
+  "usedSnapshot": "20220527070346"
+}

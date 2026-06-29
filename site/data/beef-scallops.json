@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130324050541",
+  "finalPath": "beef-scallops.html",
+  "heading": "Beef Scallops",
+  "ingredients": [
+    "beef",
+    "butter",
+    "cream",
+    "gravy",
+    "onion",
+    "pepper",
+    "potatoes",
+    "salt",
+    "scallops"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-scallops.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BEEF SCALLOPS. Mince some beef fine, with onion, pepper and salt, and add a little gravy. Put the mince into scallop shells or saucers three parts full, and fill them up with potatoes, mashed with a little cream. Lay a bit of butter on the tops, and brown them in an oven, or before the fire.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Beef Scallops",
+  "usedSnapshot": "20211205170043"
+}

@@ -1,0 +1,92 @@
+﻿{
+  "earliestSnapshot": "20150922073850",
+  "finalPath": "french-toast.html",
+  "heading": "French Toast",
+  "ingredients": [
+    "bread",
+    "orange",
+    "sugar",
+    "toast",
+    "beat",
+    "cinnamon",
+    "egg",
+    "eggs",
+    "lard",
+    "milk",
+    "tea",
+    "beef",
+    "butter",
+    "gravy",
+    "tomatoes"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "french-toast.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFrench Toasts.\u003C/b\u003E Cut French bread, and toast it in pretty thick toasts on a clean gridiron, and serve them steeped in claret, sack, or any wine, with sugar and juyce of orange.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "french-toast.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EGodey\u0027s Magazine\u003C/i\u003E\u0027, Philadelphia, Volumes 72-73 (1866), edited by Louis Antoine Godey",
+      "receiptText": "\u003Cb\u003EFrench Toast\u003C/b\u003E\u003Cbr\u003E\nBeat four eggs very light and stir with them a pint of milk, slice some baker\u0027s bread, dip the pieces into the egg, then lay them in a pan of hot lard and fry brown, sprinkle a little powdered sugar and cinnamon on each piece and serve hot. If nicely prepared this is an excellent dish for breakfast or tea quite equal to waffles.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "french-toast.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E361. FRENCH TOAST (Lancashire)\u003C/b\u003E One pound of beef, half a pint white bread-crumbs, half a pound of tomatoes. Mince the beef, mix with the bread crumbs and tomatoes chopped up (previously scalded to remove skins); bind with one beaten egg. Press into pillow form, place in a baking tin, cover, and bake one hour. Remove cover, put a little butter on the top, and let it bake until brown. Make a nice gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEggy Bread\u003C/b\u003E",
+      "relatedPageUrl": "eggy-bread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPoor Knights\u003C/b\u003E",
+      "relatedPageUrl": "poor-knights-of-windsor.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFrench Toast\u003C/b\u003E",
+      "relatedPageUrl": "frenchtoast(1).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMeselade\u003C/b\u003E",
+      "relatedPageUrl": "meselade.html",
+      "relationDescription": "For an ancient version, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPamperdy\u003C/b\u003E",
+      "relatedPageUrl": "pamperdy.html",
+      "relationDescription": "For an ancient version, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "French Toast",
+  "usedSnapshot": "20210620012721"
+}

@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922084231",
+  "finalPath": "buttered-parsnips.html",
+  "heading": "Buttered Parsnips",
+  "ingredients": [
+    "butter",
+    "parsley",
+    "parsnips",
+    "pepper",
+    "salt",
+    "beat",
+    "cream",
+    "custard",
+    "pudding"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "buttered-parsnips.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 144. Buttered Parsnips.\u003C/b\u003E\u003Cbr\u003E\nScrape or peel the parsnips, and boil them in hot water till they are done quite tender, then drain off all the water, add a bit of butter, some chopped parsley, pepper and salt; shake them together on the fire until all is well mixed.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "buttered-parsnips.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E255. TO BOIL PARSNIPS (Eighteenth Century)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWash your parsnips well, boil them till they are soft, then take off the skin, beat them in a bowl with a a httle salt, put to them a httle cream and a lump of butter; put them in a tossiag-pan, and let them boil till they are like a custard pudding; put them on a plate, and serve them up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Epasternaks\u003C/b\u003E in som older texts",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Buttered Parsnips",
+  "usedSnapshot": "20220527224352"
+}

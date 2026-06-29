@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212030650",
+  "finalPath": "wilfra-tarts.html",
+  "heading": "Wilfra Tarts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Wilfra Cakes",
+      "relatedPageUrl": "wilfra-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wilfra Tarts",
+  "usedSnapshot": "20210926060153"
+}

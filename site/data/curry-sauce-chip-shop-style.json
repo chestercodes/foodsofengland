@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130322201451",
+  "finalPath": "curry-sauce-chip-shop-style.html",
+  "heading": "Curry Sauce - Chip Shop Style",
+  "ingredients": [
+    "butter",
+    "celery",
+    "cocoa",
+    "curry",
+    "egg",
+    "flour",
+    "milk",
+    "onions",
+    "parsley",
+    "pepper",
+    "poultry",
+    "shell-fish",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "curry-sauce-chip-shop-style.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E81 CURRY SAUCE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSlightly brown the following vegetables in butter: Twelve oz. of minced onions, one oz. of parsley roots, four oz. of minced celery, a small sprig of thyme, a bit of bay, and a little mace. Sprinkle with two oz. of flour and a teaspoonful of curry pepper.\u003Cbr\u003E\n\u003Cbr\u003E\nCook the flour for some minutes without letting it acquire any colour, and dilute with one and one-half pints of white stock. Boil, cook gently for three-quarters of an hour, and rub through a tammy. Now heat the sauce, remove its grease, and keep it in the bain-viarie. Serve this sauce with fish, shell-fish, poultry, and various egg-preparations.\u003Cbr\u003E\n\u003Cbr\u003E\nN.B. This sauce is sometimes flavoured with cocoa-nut milk in the proportion of one-quarter of the diluent.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Curry Sauce - Chip Shop Style",
+  "usedSnapshot": "20220629144805"
+}

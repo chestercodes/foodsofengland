@@ -1,0 +1,86 @@
+﻿{
+  "earliestSnapshot": "20140212015410",
+  "finalPath": "chewitts.html",
+  "heading": "Chewitts",
+  "ingredients": [
+    "dates",
+    "eggs",
+    "ginger",
+    "nuts",
+    "pork",
+    "raisins",
+    "salt",
+    "sugar",
+    "beef",
+    "clowes",
+    "grapes",
+    "saffron",
+    "apple",
+    "nutmeg",
+    "pepper",
+    "rosewater",
+    "veal"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "chewitts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECHEWETES ON FLESHE DAY\u003C/b\u003E\u003Cbr\u003E\nTake there meat of Pork and carve it all to pieces. and hens therewith and do it in a pan and fry it \u0026 make a coffin [casing] as to a pie small \u0026 do therein. \u0026 do thereupon yolks of eggs, hard, powder of ginger and salt, cover it \u0026 fry it in grease. Otherwise bake it well and serve it forth.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECHEWETES ON FYSSH DAY\u003C/b\u003E\u003Cbr\u003E\nTake turbot, haddock, codling and hake and seethe it. Grind it small and do thereto dates, ground, raisins, pine-nuts, good powder and salt. Make a coffin as before said, close this therein, and fry it in oil. Otherwise stew it in ginger with sugar, or in wine, or bake it, \u0026 serve forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chewitts.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Noble boke off cookry ffor a prynce houssolde or eny other estately houssolde\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#noble-boke-1480\u0022\u003E\u003Cb\u003ENoble Boke 1480\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "To mak chewettes of beef tak beef and cutt it smalle and do ther to pouder of guinger clowes and other good poudurs grapes vergius saffron and salt and toile them welle to gedure put chekins chopped in coffins and yolks of eggs brok smale and bak them and serue them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chewitts.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New Booke of Cookerie\u003C/i\u003E\u0027 by John Murrell (\u003Ca href=\u0022references.html#murrell-1617\u0022\u003E\u003Cb\u003EMurrell 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA delicate Chewit\u003C/b\u003E\u003Cbr\u003E\nParboyle a piece of a Legge of veal, and being cold, mince it with Beefe Suit, and Marrow, and an Apple or a couple of Wardens: when you haue minst it fine, put to a few parboyld Currins, sixe Dates minst, a piece of a preserued Orenge-pill minst, Marrow cut in little square pieces. Season all this with Pepper, Salt, Nutmeg, and a little Sugar: then put it into your Coffins, and so bake it. Before you close your Pye, sprinckle on a little Rosewater, and when they are baked shave on a little Sugar, and so serve it to the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETrunk Pie\u003C/b\u003E",
+      "relatedPageUrl": "trunk-pie.html",
+      "relationDescription": "For a very large pie, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    }
+  ],
+  "title": "Chewitts",
+  "usedSnapshot": "20211205180516"
+}

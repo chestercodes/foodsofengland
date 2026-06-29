@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922132815",
+  "finalPath": "duff.html",
+  "heading": "Duff",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Plum Duff",
+      "relatedPageUrl": "plum-duff.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Potato Duff",
+      "relatedPageUrl": "potato-duff.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Duff",
+  "usedSnapshot": "20220517183100"
+}

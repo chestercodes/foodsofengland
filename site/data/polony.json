@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20140125041518",
+  "finalPath": "polony.html",
+  "heading": "Polony",
+  "ingredients": [
+    "beef",
+    "butter",
+    "egg",
+    "fat",
+    "pepper",
+    "pork",
+    "salt",
+    "suet",
+    "veal",
+    "allspice",
+    "black pepper",
+    "garlic",
+    "shalot"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "polony.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E). Similar in \u003Ca href=\u0022references.html#family-guide-1747\u0022\u003E\u003Cb\u003EFamily Guide 1747\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003E152. To make PULLONY SAUSAGES.\u003C/b\u003E\u003Cbr\u003E\nTake part of a leg of pork or veal, pick it clean from the skin or fat, put to every pound of lean meat a pound of beef-suet, pick\u0027d from the skins, shred the meat and suet separate and very fine, mix them well together, add a large handful of green sage shred very small; season it with pepper and salt, mix it well, press it down hard in an earthen pot, and keep it for use.-When you use them roll them up with as much egg as will make them roll smooth; in rolling them up make them about the length of your fingers, and as thick as two fingers; fry them in butter, which must be boiled before you can put them in, and keep them rolling about in the pan; when they are fried through they are enough.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "polony.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ELarge Smoked Sausages Or Polonies.\u003C/b\u003E\u003Cbr\u003E\n347. Season fat and lean pork with some salt, saltpetre, black pepper, and allspice, all in fine powder, and rub into the meat; the sixth day cut it small, and mix with it some shred shalot or garlic, as fine as possible; have ready an ox-gut that has been scoured, salted, and soaked well, and fill it with the above stuffing; tie up the ends, and hang it to smoke as you would hams, but first wrap it in a fold or two of old muslin; it must be high-dried. Some eat it without boiling, but others like it boiled first. The skin should he tied in different places, so as to make each link about eight or nine inches long.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Epolony, pelonie, pullony\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rabisha-1661"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Polony",
+  "usedSnapshot": "20220517165211"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922082412",
+  "finalPath": "creamed-broccoli-soup.html",
+  "heading": "Creamed Broccoli Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Creamed Broccoli Soup",
+  "usedSnapshot": "20211020231833"
+}

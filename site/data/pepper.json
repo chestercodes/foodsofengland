@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922100923",
+  "finalPath": "pepper.html",
+  "heading": "Pepper",
+  "ingredients": [
+    "black pepper",
+    "bread",
+    "cayenne",
+    "flour",
+    "lime",
+    "pepper",
+    "rice",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pepper.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWHITE PEPPER.\u003C/b\u003E\u003Cbr\u003E\nThis is the produce of the same plant as that which produces the black pepper, from which it is manufactured by steeping this in lime and\u0026nbsp;\u0026nbsp;\u0026nbsp;water, and rubbing it between the hands till the coats come off. The best berries only will bear this operation; hence the superior qualities of white pepper [which] fetch a higher price than those of the other. It is less acrid than the black, and is much prized among the Chinese. It is sometimes adulterated with rice- flour, as the black is with burnt bread. The berries of the pepper-plant grow in spikes of from twenty to thirty, and are, when ripe, of a bright-red colour.\u0026nbsp;\u0026nbsp;\u0026nbsp;After being gathered, which is done when they are green, they are spread out in the sun, where they dry and become black and shrivelled, when they are ready\u0026nbsp;\u0026nbsp;\u0026nbsp;for being prepared for the market.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EBLACK PEPPER.\u003C/b\u003E\u003Cbr\u003E\nThis well-known aromatic spice is the fruit of a species of climbing vine, and is a native of the East Indies, and is extensively cultivated\u0026nbsp;\u0026nbsp;\u0026nbsp;in Malabar and the eastern islands of Borneo, Sumatra, and Java, and others in the same latitude. It was formerly confined to these countries, but it has now\u0026nbsp;\u0026nbsp;\u0026nbsp;been introduced to Cayenne. It is generally employed as a condiment; but it should never be forgotten, that, even in small quantities, it produces\u0026nbsp;\u0026nbsp;\u0026nbsp;detrimental effects on inflammatory constitutions.\u003Cbr\u003E\n\u003Cbr\u003E\nDr. Paris, in his work on Diet, says, \u0022Foreign spices were not intended by Nature for the inhabitants of\u0026nbsp;\u0026nbsp;\u0026nbsp;temperate climes; they are heating, and highly stimulant. I am, however, not anxious to give more weight to this objection than it deserves. Man is no longer\u0026nbsp;\u0026nbsp;\u0026nbsp;the child of Nature, nor the passive inhabitant of any particular region. He ranges over every part of the globe, and elicits nourishment from the\u0026nbsp;\u0026nbsp;\u0026nbsp;productions of every climate. Nature is very kind in favouring the growth of those productions which are most likely to answer our local wants. Those\u0026nbsp;\u0026nbsp;\u0026nbsp;climates, for instance, which engender endemic diseases, are, in general, congenial to the growth of plants that operate as antidotes to them. But if we go\u0026nbsp;\u0026nbsp;\u0026nbsp;to the East for tea, there is no reason why we should not go to the West for sugar. The dyspeptic invalid, however, should be cautious in their use; they may\u0026nbsp;\u0026nbsp;\u0026nbsp;afford temporary benefit, at the expense of permanent mischief. It has been well said, that the best quality of spices is to stimulate the appetite, and\u0026nbsp;\u0026nbsp;\u0026nbsp;their worst to destroy, by insensible degrees, the tone of the stomach. The intrinsic goodness of meats should always be suspected when they require spicy\u0026nbsp;\u0026nbsp;\u0026nbsp;seasonings to compensate for their natural want of sapidity.\u0022\u003Cbr\u003E\n\u003Cbr\u003E\nThe quality of pepper is known by rubbing it between the hands: that which withstands this\u0026nbsp;\u0026nbsp;\u0026nbsp;operation is good, that which is reduced to powder by it is bad. The quantity of pepper imported into Europe is very great.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Pepper",
+  "usedSnapshot": "20211129124228"
+}

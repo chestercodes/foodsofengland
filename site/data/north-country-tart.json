@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212033542",
+  "finalPath": "north-country-tart.html",
+  "heading": "North Country Tart",
+  "ingredients": [
+    "butter",
+    "caster sugar",
+    "desiccated coconut",
+    "egg",
+    "golden syrup",
+    "jam",
+    "pastry",
+    "raspberry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "north-country-tart.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "An open tart layered with raspberry jam and an egg, coconut and golden syrup mixture.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4-6\u003Cbr\u003E\n\u003Cbr\u003E\n225 Gram Shortcrust pastry (8 oz)\u003Cbr\u003E\n2 Tablespoon Raspberry jam\u003Cbr\u003E\n50 Gram Butter (2 oz)\u003Cbr\u003E\n25 Gram Caster sugar (1 oz)\u003Cbr\u003E\n25 Gram Golden syrup (1 oz)\u003Cbr\u003E\n110 Gram Desiccated coconut (4 oz)\u003Cbr\u003E\n1 Small Egg, beaten\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat oven to 190 \u00B0C / 375 \u00B0F / Gas 5. Roll out the pastry on a lightly floured surface and use to line a 20 cm (8 inch) pie plate, trimming the edge neatly. Spread on the raspberry jam.\u003Cbr\u003E\nMelt the butter, sugar and golden syrup together in a saucepan over a low heat, then stir in the coconut and beaten egg. Combine well together and spread on top of the jam. Bake for 25-30 minutes or until the filling is set and the pastry golden. Serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "North Country Tart",
+  "usedSnapshot": "20220516224131"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140616091459",
+  "finalPath": "whitstable-oysters.html",
+  "heading": "Whitstable Oysters",
+  "ingredients": [
+    "lemon",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "whitstable-oysters.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "364- NATIVES WITH CAVIARE\u003Cbr\u003E\n\u003Cbr\u003E\nThis is a typically luxurious hors-d\u0027oeuvre. Cook some little tartlet crusts for hors-d\u0027oeuvre (No. 314). When about to dish up, garnish these with a tablespoonful of fine, fresh caviare; make a hollow in the latter and place therein a fine Whitstable oyster (cleared of its beard), seasoned with a little powdered pepper and a drop of lemon-juice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Whitstable Oysters",
+  "usedSnapshot": "20211201042219"
+}

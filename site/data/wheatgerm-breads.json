@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922073717",
+  "finalPath": "wheatgerm-breads.html",
+  "heading": "Wheatgerm Breads",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Stone"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wheatgerm Breads",
+  "usedSnapshot": "20211205165714"
+}

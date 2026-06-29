@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922081950",
+  "finalPath": "peas-pottage.html",
+  "heading": "Peas Pottage",
+  "ingredients": [
+    "butter",
+    "herbs",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "peas-pottage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPease Pottage.\u003C/b\u003E\u003Cbr\u003E\nTake green pease being shelled and cleansed, put them in a pipkin of fair boiling water; when they be boil\u0027d and tender, take and strain some of them, and thicken the rest, put to them a bundle of sweet herbs, or sweet herbs chopped, salt, and butter; being through boil\u0027d dish them, and serve them in a deep clean dish with salt and sippets about them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Peas Pottage",
+  "usedSnapshot": "20170313205903"
+}

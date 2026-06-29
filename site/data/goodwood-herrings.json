@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140616080808",
+  "finalPath": "goodwood-herrings.html",
+  "heading": "Goodwood Herrings",
+  "ingredients": [
+    "bread",
+    "breadcrumbs",
+    "butter",
+    "herbs",
+    "herrings",
+    "lemon",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "shallot",
+    "thyme",
+    "tomato",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "goodwood-herrings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Herring Book\u003C/i\u003E\u0027 issued by The Herring Industry Board, London about 1950",
+      "receiptText": "INGREDIENTS: 6 fresh herrings, 6 large tomatoes, 4 tablespoonfuls breadcrumbs, a tablespoonful butter or dripping, a little lemon rind grated, a small minced onion or shallot, a tablespoonful of chopped parsley, a pinch of dried thyme.\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD: Clean, scale and behead the herrings, but leave in the roe, then twist them head to tail and fasten with a tiny wooden skewer or cocktail stick. Slice the top off each tomato, using a very sharp knife, and keep the slice. Scoop out the inside of each tomato, discard the hard core, keep the pulp. Put the bread-crumbs, herbs, chopped onion or shallot, lemon rind, pepper and salt into a basin to this add enough of the tomato pulp to make it moist. Fill each tomato shell with this, and put a bit of butter on top, then lay the slice of tomato to cover. Set a tomato in the centre of each curled herring. Put in a greased fireproof dish, add A few tablespoonfuls of water and cook for 20 minutes in a fairly hot oven. Serve an the dish in which they are cooked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Goodwood Herrings",
+  "usedSnapshot": "20211207122845"
+}

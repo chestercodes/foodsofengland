@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140212024043",
+  "finalPath": "chester-tart.html",
+  "heading": "Chester Tart",
+  "ingredients": [
+    "almonds",
+    "biscuit",
+    "butter",
+    "caster sugar",
+    "egg",
+    "egg whites",
+    "egg yolk",
+    "egg yolks",
+    "eggs",
+    "flan",
+    "flour",
+    "granulated sugar",
+    "lemon",
+    "pastry",
+    "plain flour",
+    "sugar",
+    "unsalted butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chester-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Chester%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EChester Tart\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz plain flour\u003Cbr\u003E\n7 oz unsalted butter, diced\u003Cbr\u003E\n5 oz caster sugar\u003Cbr\u003E\n1 egg yolk\u003Cbr\u003E\nCold water, to mix\u003Cbr\u003E\nFinely grated rind and juice of 1 lemon\u003Cbr\u003E\n4 oz granulated sugar\u003Cbr\u003E\n4 eggs, separated\u003Cbr\u003E\n4 tbsp ground almonds\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:\u003Cbr\u003E\nSift the flour into a bowl. Add 5 oz of the butter and rub in with the fingertips. Stir in 15 ml/1 tbsp of the caster sugar.\u003Cbr\u003E\nMix with the egg yolk and enough cold water to form a firm dough. Knead gently on a lightly floured surface. Wrap with Clingfilm (plastic wrap) and chill for 30minutes.\u003Cbr\u003E\nRoll out and use to line a 9 in loose-bottomed Flan tin (pie pan). Fill with crumpled foil and bake in a preheated oven at 220C/425F/gas mark 7 for 10 minutes. Remove the foil and bake for a further 5 minutes.\u003Cbr\u003E\nMeanwhile, melt the remaining butter in a small saucepan. Remove from the heat and whisk in the lemon rind and juice, the granulated sugar and the four egg yolks.\u003Cbr\u003E\nBlend in the ground almonds. Return to the heat and cook, stirring, until the mixture thickens but do not allow to boil. Pour into the prepared pastry case.\u003Cbr\u003E\nWhisk the egg whites until stiff. Whisk in half the remaining sugar and whisk again until glossy and stiff. Fold in the remaining sugar. Pile on top of the tart.\u003Cbr\u003E\nReturn to the oven for 5 minutes until the meringue is turning color. Reduce the heat to 160\u00B0C/325\u00B0F/gas mark 3 and bake for 20-30 minutes until crisp on the outside and a pale biscuit color. Serve warm or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chester Tart",
+  "usedSnapshot": "20211205175804"
+}

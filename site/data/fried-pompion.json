@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922084220",
+  "finalPath": "fried-pompion.html",
+  "heading": "Fried Pompion",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-pompion.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E93. To fry Pompion.\u003C/b\u003E Cut it in thin slices when it is pared, and steep it in Sack a while, then dip it in Eggs, and fry it in Butter, and put some Sack and Butter for Sauce, so serve it in with salt about the Dish brims.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Fried Pompion",
+  "usedSnapshot": "20220527221716"
+}

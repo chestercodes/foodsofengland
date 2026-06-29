@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20121024084953",
+  "finalPath": "omnibus-pudding.html",
+  "heading": "Omnibus Pudding",
+  "ingredients": [
+    "beef",
+    "carrots",
+    "currants",
+    "flour",
+    "potatoes",
+    "pudding",
+    "raisins",
+    "suet",
+    "sugar",
+    "brandy",
+    "milk",
+    "molasses"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "omnibus-pudding.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EGodey\u0027s Lady\u0027s Book of Receipts and Household Hints\u003C/i\u003E by Sarah Frost (1870);",
+      "receiptText": "\u003Cb\u003EOMNIBUS PUDDING\u003C/b\u003E\u003Cbr\u003E\nHalf a pound of flour, half a pound of beef suet, half a pound of currants, half a pound of raisins stoned, half a pound of sugar, half a pound of scraped raw potatoes, and quarter of a pound of scraped carrots, mixed together, and spice to taste. Boil four hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "omnibus-pudding.html-2",
+      "receiptSource": "Original Receipt in \u003Ci\u003EThe Enquirer\u0027s Oracle\u003C/i\u003E by Ward, Lock \u0026 Co (1884);",
+      "receiptText": "\u003Cb\u003E556 Omnibus Pudding\u003C/b\u003E\u003Cbr\u003E\nTake six ounces of fine flour, six ounces of suet shred fine, six ounces of raisins stoned, four ounces of molasses, four ounces of milk. Mix well, put into a basin, tie a cloth over, and boil for three or four hours. Serve with brandy sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Omnibus Pudding",
+  "usedSnapshot": "20220527054509"
+}

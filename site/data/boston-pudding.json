@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922105028",
+  "finalPath": "boston-pudding.html",
+  "heading": "Boston Pudding",
+  "ingredients": [
+    "apple",
+    "beat",
+    "butter",
+    "cinnamon",
+    "eggs",
+    "lemon",
+    "nutmeg",
+    "pudding",
+    "puddings",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "boston-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "The following receipts are from Mr. Henry Osborne, cook to Sir Joseph Banks, the late president of the Royal Society:\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003E\u003Cb\u003ESoho Square, April 20, 1820.\u003C/b\u003E\u003Cbr\u003E\nSir, I send you herewith the last part of the Cook\u0027s Oracle. I have attentively looked over each receipt, and hope they are now correct, and easy to be understood. If you think any need further explanation, Sir Joseph has desired me to wait on you again. I also send the receipts for my ten puddings, and my method of using spring fruit and gourds. I am, Sir,\u003Cbr\u003E\nYour humble servant,\u003Cbr\u003E\n\u003Cb\u003EHENRY OSBORNE.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EBoston Apple Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPeel one dozen and a half of good apples; take out the cores, cut them small, put into a stew-pan that will just hold them, with a little water, a little cinnamon, two cloves, and the peel of a lemon; stew over a slow fire till quite soft, then sweeten with moist sugar, and pass it through a hair sieve; add to it the yolks of four eggs and one white, a quarter of a pound of good butter, half a nutmeg, the peel of a lemon grated, and the juice of one lemon: beat all well together; line the inside of a pie-dish with good puff paste; put in the pudding, and bake half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Boston Pudding",
+  "usedSnapshot": "20211130234914"
+}

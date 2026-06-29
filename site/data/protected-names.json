@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20231209092758",
+  "finalPath": "protected-names.html",
+  "heading": "Protected Names",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "https://en.wikipedia.org..protected_status",
+      "relatedPageUrl": "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Protected Names",
+  "usedSnapshot": "20231209092758"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922071913",
+  "finalPath": "miner-s-soup.html",
+  "heading": "Miner\u0027s Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Miner\u0027s Soup",
+  "usedSnapshot": "20220516222446"
+}

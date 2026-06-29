@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130808225005",
+  "finalPath": "badger.html",
+  "heading": "Badger",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "egg",
+    "flour",
+    "ham",
+    "lemon",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "badger.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Gammon of a Badger roasted.\u003Cbr\u003E\nFrom Mr. R. T. of Leicestershire.\u003C/b\u003E\u003Cbr\u003E\nThe Badger is one of the cleanest Creatures, in its Food, of any in the World, and one may suppose that the Flesh of this Creature is not unwholesome. It eats like the finest Pork, and is much sweeter than Pork. Then, just when a Badger is killed, cut off the Gammons, and strip them; then lay them in a Brine of Salt and Water, that will bear an Egg, for a Week or ten Days; then boil it for four or five Hours, and then roast it, strewing it with Flour and rasped Bread sifted. Then put it upon a Spit, as you did before with the Westphalia Ham. Serve it hot with a Garnish of Bacon fry\u0027d in Cutlets, and some Lemon in slices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBuckingham Badger\u003C/b\u003E",
+      "relatedPageUrl": "buckingham-bacon-badger.html",
+      "relationDescription": "(For the meat-roll pudding, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Badger",
+  "usedSnapshot": "20220527065701"
+}

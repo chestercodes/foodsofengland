@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082440",
+  "finalPath": "fried-beetroot.html",
+  "heading": "Fried Beetroot",
+  "ingredients": [
+    "barberries",
+    "bread",
+    "cream",
+    "eggs",
+    "horse-radish",
+    "lard",
+    "parsley",
+    "pepper",
+    "salt",
+    "sole"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-beetroot.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo fry the Roots of Red Beets.\u003C/b\u003E\u003Cbr\u003E\nWash your Beet-Roots, and lay them in an earthen glazed Pan, bake them in an Oven, and then peel the Skin off them: after this is done, slit them from the Top to the Tail, and cut them in the shape of the Fish call\u0027d a Sole, about the thickness of the third part of an Inch; dip these in a thick Batter, made of White-Wine, fine Flower, sweet Cream, the Whites and Yolks of Eggs, rather more Yolks than Whites, some Pepper, Salt, and Cloves beaten fine, all well mix\u0027d. As you dip every piece of Beet-Root in this Batter, strew them over thick with fine Flower mix\u0027d with grated Bread, and Parsley shred small, and then fry them in Lard: when they are enough, let them dry, and serve them with a Garnish of Lemmon. These likewise may be put about stew\u0027d Carps, Tench, or roasted Jacks, by way of Garnish, with scraped Horse-Radish, and pickled Barberries.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Fried Beetroot",
+  "usedSnapshot": "20211021020701"
+}

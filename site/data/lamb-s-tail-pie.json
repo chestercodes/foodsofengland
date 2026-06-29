@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140829085000",
+  "finalPath": "lamb-s-tail-pie.html",
+  "heading": "Lamb\u0027s Tail Pie",
+  "ingredients": [
+    "gelatine",
+    "flour",
+    "green peas",
+    "lamb",
+    "mashed potatoes",
+    "onion",
+    "peas",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lamb-s-tail-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E38. LAMBS\u0027 TAIL PIE\u003C/b\u003E (Kent) This is a very old Kentish pie. In spring, when the lambs\u0027 tails are cut, these are collected. About half the tail, the thicker end, is used. It is flayed and jointed: generally about two dozen tails are used in making an ordinary-sized pie. Of course the crust is made in the usual way.\u003Cbr\u003E\n\u003Cbr\u003E\n(I have been told that the soft bones in the tails when cooked are like gelatine.)\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lamb-s-tail-pie.html-2",
+      "receiptSource": "Original Receipt from The \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 27 May 1938",
+      "receiptText": "\u003Cb\u003ELAMB-TAIL PIE.\u003C/b\u003E\u003Cbr\u003E\nStrip sufficient lambs\u0027-tails to fill a large pie-dish. Cover with cold water, add one teaspoonful of salt, one blade of mace, three peppercorns, one tablespoonful of sago, one very small onion, and simmer gently in a saucepan for one hour, or until the tails show signs of jellying. Take out the tails and put into a pie-dish. Thicken the liquid with one tablespoonful of white flour, mixed to a smooth paste with cold water, and pour sufficient over the tails in the pie-dish to reach to within half-an - inch of the brim of the dish. Cover with dripping short-crust, bake in a hot oven, and serve piping hot with mashed potatoes and green peas cooked in reserved liquid. Very good cold, served with salad.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lamb\u0027s Ears",
+      "relatedPageUrl": "lamb-s-ears.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Lamb\u0027s Tail Pie",
+  "usedSnapshot": "20220110203507"
+}

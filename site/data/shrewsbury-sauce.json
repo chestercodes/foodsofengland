@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922073220",
+  "finalPath": "shrewsbury-sauce.html",
+  "heading": "Shrewsbury Sauce",
+  "ingredients": [
+    "black pepper",
+    "fat",
+    "flour",
+    "jelly",
+    "lemon",
+    "lemon juice",
+    "mustard",
+    "mustard powder",
+    "pepper",
+    "plain flour",
+    "redcurrant jelly",
+    "salt",
+    "worcestershire sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shrewsbury-sauce.html-1",
+      "receiptSource": "Original Receipt adapted from from D.Smith at \u003Ca href=\u0022http://www.deliaonline.com/recipes/main-ingredient/lamb/roast-leg-of-lamb-with-shrewsbury-sauce.html\u0022\u003E\u003Cb\u003Ewww.deliaonline.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EShrewsbury Sauce\u003C/b\u003E\u003Cbr\u003E\n[meat fat and juices]\u003Cbr\u003E\n2 level tablespoons plain flour\u003Cbr\u003E\n1 heaped teaspoon mustard powder\u003Cbr\u003E\n1 pint (570 ml) Beaujolais or other light red wine\u003Cbr\u003E\n5 rounded tablespoons good-quality redcurrant jelly\u003Cbr\u003E\n3 tablespoons Worcestershire sauce\u003Cbr\u003E\njuice 1 lemon\u003Cbr\u003E\nsalt and freshly milled black pepper\u003Cbr\u003E\n\u003Cbr\u003E\nTo make the sauce, spoon off any surplus fat from the roasting tin, tipping it to one side and allowing the fat to separate from the juices; you need to leave about 2 tablespoons of fat behind.\u003Cbr\u003E\nNow place the tin over a direct heat turned to low and stir in the flour and mustard powder until you have a smooth paste that has soaked up all the fat and juices. Next, add the wine, a little at a time, mixing with a wooden spoon after each addition. Halfway through, switch from the spoon to a whisk and continue to whisk until all the wine has been incorporated.\u003Cbr\u003E\nNow simply add the redcurrant jelly, Worcestershire sauce, lemon juice and seasoning, then whisk again until the jelly has dissolved. Now turn the heat to its lowest setting and let the sauce gently bubble and reduce for about 15 minutes, then pour it into a warm serving jug.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Shrewsbury Sauce",
+  "usedSnapshot": "20211021014013"
+}

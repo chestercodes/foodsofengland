@@ -1,0 +1,117 @@
+﻿{
+  "earliestSnapshot": "20150922075939",
+  "finalPath": "damson.html",
+  "heading": "Damson",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Autumn Pudding",
+      "relatedPageUrl": "autumn-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Chesterfield Ice-Cream Pudding",
+      "relatedPageUrl": "chesterfield-ice-cream-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson and Apple Tansy",
+      "relatedPageUrl": "damson-and-apple-tansy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Cheese",
+      "relatedPageUrl": "damson-cheese.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Cream",
+      "relatedPageUrl": "damson-cream.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Fool",
+      "relatedPageUrl": "damson-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Gin",
+      "relatedPageUrl": "damson-gin.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Jam",
+      "relatedPageUrl": "damson-jam.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Jelly",
+      "relatedPageUrl": "damson-jelly.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Snow",
+      "relatedPageUrl": "damson-snow.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Tart",
+      "relatedPageUrl": "damson-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Wine",
+      "relatedPageUrl": "damson-wine.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fruit Compote",
+      "relatedPageUrl": "fruit-compote.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fruit Fool",
+      "relatedPageUrl": "fruit-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Hedgerow Jelly or Jam",
+      "relatedPageUrl": "hedgerow-jelly-or-jam.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Made-Wine",
+      "relatedPageUrl": "made-wine.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Westmorland Damson",
+      "relatedPageUrl": "westmorland-damson.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Witherslacks",
+      "relatedPageUrl": "witherslacks.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Damson",
+  "usedSnapshot": "20211020223520"
+}

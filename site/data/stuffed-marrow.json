@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073229",
+  "finalPath": "stuffed-marrow.html",
+  "heading": "Stuffed Marrow",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "cheese",
+    "egg",
+    "gravy",
+    "ham",
+    "lemon",
+    "onions",
+    "pepper",
+    "salt",
+    "veal",
+    "herbs",
+    "suet"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "stuffed-marrow.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitstable Times and Herne Bay Herald\u003C/i\u003E\u0027 - Saturday 19 September 1891",
+      "receiptText": "VEGETABLE MARROW. By now, probably, most of my readers are sated with this vegetable, and would be glad to find a fresh way cooking it. So I hope, says \u0022lsabel,\u0027\u0027 in Pearson\u0027s Weekly, they will appreciate these recipes.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EStewed Stuffed Marrow.\u003C/b\u003E-Take good-sized marrow and boil toll tender, peel and cut off about two inches one end, to give room to remove the seeds and fibre. Make a stuffing of minced meat, chopped onions, one ounce of butter, pepper and salt, and with it fill up the cavity made by the seeds; brush over the end with white of egg, and put on the piece that was cut off. Run a nice long skewer through it all. Stew in thick brown gravy for half hour, and serve with gravy poured over.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EVegetable Marrow Scallop.\u003C/b\u003E-Boil a vegetable marrow till tender, peel, cut half lengthwise, and remove the seeds and fibre. Lay the pieces of marrow carefully on a baking-tin. Take some minced fowl, or veal, ham, breadcrumbs, chopped lemon; a little mace, pepper and salt, all worked together with a little butter, and, if you have it, the yolk of an egg. Fill each case even with the top. Cover with breadcrumbs, a little butter, and grated cheese, and bake for half an hour in a sharp oven, basting well. Serve very hot with a little gravy.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "stuffed-marrow.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELichfield Mercury\u003C/i\u003E\u0027 - Friday 16 October 1896",
+      "receiptText": "Stuffed Marrow. - Take a young marrow and boil it till tender, then off a slice one end and remove all the a scoop. Prepare some savoury stuffing with breadcrumb sweet herbs, and a seasoning of pepper and salt; to this add a little suet, and, if you like it, an equal weight chopped cooked meat Fill the cavity of the marrow with the stuffing and fix on the end with beaten egg Place the marrow on a baking-tin with some gravy, and cook for twenty minutes, basting constantly. The marrow may peeled after it has boiled if preferred, and then served with brown crumbs dusted over it\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Stuffed Marrow",
+  "usedSnapshot": "20211205172803"
+}

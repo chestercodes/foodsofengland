@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130324051428",
+  "finalPath": "veal-and-oysters.html",
+  "heading": "Veal and Oysters",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "mushrooms",
+    "oysters",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "veal-and-oysters.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EMINCED VEAL AND OYSTERS.\u003C/b\u003E\u003Cbr\u003E\nThe most elegant mode of preparing this dish is to mince about a pound of the whitest part of the inside of a cold roast fillet or loin of veal, to heat it without allowing it to boil, in a pint of rich white sauce, or bechamel, and to mix with it at the moment of serving, three dozens of small oysters ready bearded, and plumped in their own strained liquor, which is also to be added to the mince; the requisite quantity of salt, cayenne, and mace should be sprinkled over the veal before it is put into the sauce. Garnish the dish with pale fried sippets of bread, or with \u003Ci\u003Efleurons\u003C/i\u003E* of brioche, or of puff- paste. Nearly half a pint of mushrooms minced, and stewed white in a little butter, may be mixed with the veal instead of the oysters; or should they be very small they may be added to it whole: from ten to twelve minutes will be sufficient to make them tender. Balls of delicately fried oyster-forcemeat laid round the dish will give another good variety of it.\u003Cbr\u003E\n\u003Cbr\u003E\nVeal minced, 1 Ib.; white sauce, 1 pint; oysters, 3 dozen, with their liquor; or mushrooms, 1 pint, stewed in butter 10 to 12 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003Efleurons\u003C/i\u003E are flowers, or flower-like figures, cut out with tin shapes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Veal and Oysters",
+  "usedSnapshot": "20211205173910"
+}

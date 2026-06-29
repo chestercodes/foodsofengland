@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922085750",
+  "finalPath": "chicken-cushions.html",
+  "heading": "Chicken Cushions",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chicken Cushions",
+  "usedSnapshot": "20211027045504"
+}

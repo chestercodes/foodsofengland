@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212023334",
+  "finalPath": "orangeado-tart.html",
+  "heading": "Orangeado Tart",
+  "ingredients": [
+    "lemon",
+    "lemons",
+    "orange",
+    "oranges",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "orangeado-tart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make an orangeado pye.\u003C/b\u003E\u003Cbr\u003E\nMAKE a good crust, lay it over your dish, take two oranges, boil them with two lemons till tender, in four or five quarts of water. In the last water, which there must be about a pint of, add a pound of loaf sugar, boil it, take them out and slice them into your pye; then pare twelve pippins, core them and give them one boil in the syrup; lay them all over the orange and lemon, pour in the syrup, and pour on them some orangeado syrup. Cover your pye, and bake it in a slow oven half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nott-1723"
+    }
+  ],
+  "title": "Orangeado Tart",
+  "usedSnapshot": "20220516221435"
+}

@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323053636",
+  "finalPath": "drop-scones.html",
+  "heading": "Drop Scones",
+  "ingredients": [
+    "butter",
+    "cream",
+    "egg",
+    "flour",
+    "milk",
+    "salt",
+    "scones",
+    "suet",
+    "sugar",
+    "tartar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "drop-scones.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECookery Up-to-date\u003C/i\u003E\u0027 by May Little, about 1920",
+      "receiptText": "\u003Cb\u003E426 DROP SCONES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1/2 lb. flour.\u003Cbr\u003E\npinch salt\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n1/2 pint of milk\u003Cbr\u003E\n1/2 oz sugar\u003Cbr\u003E\n1/2 teaspoonful cream of tartar.\u003Cbr\u003E\n1/2 teaspoonful carbonate of soda.\u003Cbr\u003E\n\u003Cbr\u003E\nSift the flour into a basin, add the salt, make a well in the centre, put in the well-beaten egg and mix to a smooth batter with the milk, add the sugar. Dissolve the cream of tartar and carbonate of soda in separate cups with a little milk, add them to the batter and mix well. Get the girdle hot, rub it with a piece of suet, put a spoonful of batter on the girdle. When it is set on one side turn and brown on the other.\u003Cbr\u003E\nButter and serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crumpets",
+      "relatedPageUrl": "crumpets.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Drop Scones",
+  "usedSnapshot": "20220516222812"
+}

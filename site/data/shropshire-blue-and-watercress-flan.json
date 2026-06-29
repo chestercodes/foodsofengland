@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212024846",
+  "finalPath": "shropshire-blue-and-watercress-flan.html",
+  "heading": "Shropshire Blue and Watercress Flan",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "cheese",
+    "eggs",
+    "flan",
+    "flour",
+    "milk",
+    "onion",
+    "plain flour",
+    "watercress"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shropshire-blue-and-watercress-flan.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Shropshire%20Blue%20and%20Watercress%20Flan\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4oz Plain flour\u003Cbr\u003E\n2oz Butter, diced\u003Cbr\u003E\n5oz cheese, sliced\u003Cbr\u003E\n2 Medium Eggs\u003Cbr\u003E\n1/4 pint Milk\u003Cbr\u003E\n1 Small Onion, chopped\u003Cbr\u003E\n2oz Watercress, chopped\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPre-heat oven to 200 \u00B0C / 400 \u00B0F / Gas 6. Put the flour in a bowl and rub in the butter until the mixture resembles fine breadcrumbs. Add 2-3 tablespoons of cold water and mix to form a dough. Roll out on a lightly floured surface and use to line an 18 cm (7 inch) flan dish. Bake blind for 10-15 minutes, until set but not too brown.\u003Cbr\u003E\nPut the cheese on the base of the flan case. Mix together the eggs and milk, add the onion and watercress and pour in. Bake at 190\u00B0C / 375\u00B0F / Gas 5 for 40-45 minutes. Serve warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Shropshire Blue and Watercress Flan",
+  "usedSnapshot": "20210518203001"
+}

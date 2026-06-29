@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074657",
+  "finalPath": "plum-and-apple-dumpling.html",
+  "heading": "Plum and Apple Dumpling",
+  "ingredients": [
+    "apple",
+    "baking powder",
+    "bread",
+    "butter",
+    "cream",
+    "custard",
+    "flour",
+    "lemon",
+    "plum",
+    "plums",
+    "pudding",
+    "salt",
+    "suet",
+    "sugar",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "plum-and-apple-dumpling.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPlum and Apple \u0027Dumpling\u0027\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003ENot really a dumpling at all, but a steamed plum and apple pudding\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz flour\u003Cbr\u003E\n6 oz sugar\u003Cbr\u003E\n1 tsp baking powder\u003Cbr\u003E\n1 tbs stale sponge cake crumbs or bread crumbs\u003Cbr\u003E\npinch salt\u003Cbr\u003E\n4oz shredded suet\u003Cbr\u003E\n1/4 pt water\u003Cbr\u003E\n1 tbs water \u002B 1tsp lemon\u003Cbr\u003E\n1lb plums, washed and stoned\u003Cbr\u003E\n8oz cooking apples, peeled/cored/sliced\u003Cbr\u003E\na walnut of butter\u003Cbr\u003E\n\u003Cbr\u003E\nMix flour, baking powder and salt in bowl. Stir in suet. Add water to mix to a soft dough. Turn onto lightly floured surface, sneak lightly, roll out and use to line a buttered 2 pint pudding basin, reserving a portion for lid.\u003Cbr\u003E\nFill basin with altenrate layers plum, apples and sugar, sprinkling crumbs in between. Add the water and butter. Top with reserved dough, damp edges to seal well. Cover with buttered greaseproof paper and seal with foil.\u003Cbr\u003E\nSteam for 2\u00BD - 3 hours, topping up as necessary. Serve with custard or cream. Serves 4-6.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Plum and Apple Dumpling",
+  "usedSnapshot": "20211027041404"
+}

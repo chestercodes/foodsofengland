@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922075043",
+  "finalPath": "norfolk-brandy-punch.html",
+  "heading": "Norfolk Brandy Punch",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Norfolk Punch",
+      "relatedPageUrl": "norfolk-punch.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Norfolk Brandy Punch",
+  "usedSnapshot": "20211027041111"
+}

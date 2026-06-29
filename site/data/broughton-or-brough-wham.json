@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082708",
+  "finalPath": "broughton-or-brough-wham.html",
+  "heading": "Broughton or Brough-Wham",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Broughton or Brough-Wham",
+  "usedSnapshot": "20211201011048"
+}

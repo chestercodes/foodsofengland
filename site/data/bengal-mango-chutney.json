@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922073543",
+  "finalPath": "bengal-mango-chutney.html",
+  "heading": "Bengal Mango Chutney",
+  "ingredients": [
+    "bladder",
+    "garlic",
+    "ginger",
+    "mustard",
+    "onions",
+    "raisins",
+    "salt",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bengal-mango-chutney.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBENGAL RECIPE FOR MAKING MANGO CHETNEY.\u003C/b\u003E\u003Cbr\u003E\n392. INGREDIENTS: 1-1/2 lbs. of moist sugar, 3/4 lb. of salt, 1/4 lb. of garlic, 1/4 lb. of onions, 3/4 lb. of powdered ginger, 1/4 lb. of dried chilies, 3/4 lb. of mustard-seed, 3/4 lb. of stoned raisins, 2 bottles of best vinegar, 30 large unripe sour apples.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: The sugar must be made into syrup; the garlic, onions, and ginger be finely pounded in a mortar; the mustard-seed be washed in cold vinegar, and dried in the sun; the apples be peeled, cored, and sliced, and boiled in a bottle and a half of the vinegar. When all this is done, and the apples are quite cold, put them into a large pan, and gradually mix the whole of the rest of the ingredients, including the remaining half-bottle of vinegar. It must be well stirred until the whole is thoroughly blended, and then put into bottles for use. Tie a piece of wet bladder over the mouths of the bottles, after they are well corked. This chetney is very superior to any which can be bought, and one trial will prove it to be delicious.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: This recipe was given by a native to an English lady, who had long been a resident in India, and who, since her return to her native country, has become quite celebrated amongst her friends for the excellence of this Eastern relish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Bengal Mango Chutney",
+  "usedSnapshot": "20220819114007"
+}

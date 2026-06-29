@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922084809",
+  "finalPath": "hare-roasted-with-beer.html",
+  "heading": "Hare Roasted with Beer",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Hare Roasted with Beer",
+  "usedSnapshot": "20220819105211"
+}

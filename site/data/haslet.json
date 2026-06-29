@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150803012459",
+  "finalPath": "haslet.html",
+  "heading": "Haslet",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lincolnshire Haslet",
+      "relatedPageUrl": "lincolnshire-haslet.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Haslet",
+  "usedSnapshot": "20220907202322"
+}

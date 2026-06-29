@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922132746",
+  "finalPath": "rabbit-pudding.html",
+  "heading": "Rabbit Pudding",
+  "ingredients": [
+    "bacon",
+    "onions",
+    "potatoes",
+    "pudding",
+    "rabbit",
+    "rice"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rabbit-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E251. Rabbit Pudding.-\u003C/b\u003E A rabbit cut into about sixteen or eighteen pieces, and a quarter of a pound of bacon, sliced; season in proportion to size, as before, and if for a numerous family, add ten potatoes and four onions, sliced, and half a pint of water; boil for two hours, or according to size. Boiled rice may be added instead of potatoes. Well intermix the meat with the vegetables or rice.\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Rabbit Pudding",
+  "usedSnapshot": "20210518212333"
+}

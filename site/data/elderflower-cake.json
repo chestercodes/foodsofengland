@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084554",
+  "finalPath": "elderflower-cake.html",
+  "heading": "Elderflower Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Elderflower Cake",
+  "usedSnapshot": "20211020231136"
+}

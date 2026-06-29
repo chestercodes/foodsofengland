@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212025019",
+  "finalPath": "rag-pudding.html",
+  "heading": "Rag Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Oldham Brewis",
+      "relatedPageUrl": "oldham-brewis.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rag Pudding",
+  "usedSnapshot": "20200222005211"
+}

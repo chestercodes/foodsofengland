@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20150524233112",
+  "finalPath": "rice-pottage.html",
+  "heading": "Rice Pottage",
+  "ingredients": [
+    "milk",
+    "rice",
+    "saffron",
+    "almonds",
+    "bark",
+    "almond",
+    "almond milk",
+    "cream",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "rice-pottage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFOR TO MAKE A POTAGE OF RICE\u003C/b\u003E\u003Cbr\u003E\nTake rice and les them and wasch them clean and seth them tyl they breste and than lat them kele and seth cast ther\u0027to Almand milk and colour it wyth saffron and boyle it and present it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rice-pottage.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make fine Rice pottage.\u003C/b\u003E\u003Cbr\u003E\nTAKE halfe a pound of Jorden Almonds, and half a pound of Rice, and a gallon of running water, and a handful of Oke barke [oak bark], and let the bark be boyled in the running water, and the Almonds beaten with the hulles and all on, and so strained to make the Rice pottage withal.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rice-pottage.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E \u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Rice Pottage.\u003C/b\u003E\u003Cbr\u003E\nPick the rice and dust it clean, then wash it, and boil it in water or milk; being boil\u0027d down, put to it some cream, large mace, whole cinamon, salt, and sugar; boil it on a soft stewing fire, and serve it in a fair deep dish, or a standing silver piece.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EOtherways.\u003C/b\u003E\u003Cbr\u003E\nBoil\u0027d rice strained with almond milk, and seasoned as the former.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMeat Rice\u003C/b\u003E",
+      "relatedPageUrl": "meat-rice.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Rice Pottage",
+  "usedSnapshot": "20200225165033"
+}

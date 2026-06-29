@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20170313205814",
+  "finalPath": "christmas-cheese.html",
+  "heading": "Christmas Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Christmas Cheese",
+  "usedSnapshot": "20201212183614"
+}

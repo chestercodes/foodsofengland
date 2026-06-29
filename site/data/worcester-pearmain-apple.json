@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072227",
+  "finalPath": "worcester-pearmain-apple.html",
+  "heading": "Worcester Pearmain Apple",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Worcester Pearmain Apple",
+  "usedSnapshot": "20220819102009"
+}

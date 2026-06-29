@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20121129103236",
+  "finalPath": "harvey-sauce.html",
+  "heading": "Harvey Sauce",
+  "ingredients": [
+    "anchovies",
+    "cayenne",
+    "garlic",
+    "mushroom",
+    "soy",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "harvey-sauce.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027Miss Leslie\u0027s Directions for Cookery\u0027\u003C/i\u003E (Philadelphia, 1851)",
+      "receiptText": "\u003Cb\u003EHARVEY\u0027S SAUCE\u003C/b\u003E\u003Cbr\u003E\nDissolve six anchovies in a pint of strong vinegar, and then add to them three table-spoonfuls of India soy, and three table-spoonfuls of mushroom catchup, two heads of garlic bruised small, and a quarter of an ounce of cayenne. Add sufficient cochineal powder to colour the mixture red. Let all these ingredients infuse in the vinegar for a fortnight, shaking it every day, and then strain and bottle it for use. Let the bottles be small, and cover the corks with leather.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ELazenby\u0027s Sauce\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Harvey Sauce",
+  "usedSnapshot": "20220706163512"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20121024085306",
+  "finalPath": "tuff-taffity-cream.html",
+  "heading": "Tuff-Taffity Cream",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "jelly",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tuff-taffity-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E208. To make Tuff-Taffity Cream.\u003C/b\u003E Take a quart of thick Cream, the whites of eight Eggs beaten to a Froth with Rosewater, then take off the Froth and put in into the Cream, and boil it, and always stir it, then put in the Yolks of eight Eggs well beaten, and stir them in off the Fire, and then on the fire a little while, then season it with Sugar, and pour it out, and when it is cold, lay on it Jelly of Currans or Rasberries, or what you please.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETaffety-Tart\u003C/b\u003E",
+      "relatedPageUrl": "taffaty-tarts.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Tuff-Taffity Cream",
+  "usedSnapshot": "20201230182428"
+}

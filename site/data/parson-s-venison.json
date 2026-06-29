@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130323200020",
+  "finalPath": "parson-s-venison.html",
+  "heading": "Parson\u0027s Venison",
+  "ingredients": [
+    "garlic",
+    "ham",
+    "herbs",
+    "kidney",
+    "mushrooms",
+    "mutton",
+    "oysters",
+    "veal",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "parson-s-venison.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe cook and housewife\u0027s Manual\u003C/i\u003E\u0027 By Christian Isobel Johnstone (\u003Ca href=\u0022references.html#johnstone-1828\u0022\u003E\u003Cb\u003EJohnstone 1828\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E479. Parsons or Friar\u0027s Venison\u003C/b\u003E, - When kept till very tender, bone a shoulder of mutton, and lay it to steep in wine, vinegar, herbs, and spices. Make a forcemeat of the trimmings and the kidney, or of ham, or tongue, with oysters or mushrooms. Stuff the shoulder,- cover it with veal-caul or paper; roast or braise it, and serve with venison-sauce. Garlic gives the flavour of foreign cookery, if this flavour is wished.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "johnstone-1828"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "encyclopedia-1859"
+    }
+  ],
+  "title": "Parson\u0027s Venison",
+  "usedSnapshot": "20211018081642"
+}

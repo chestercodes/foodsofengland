@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922083029",
+  "finalPath": "curd-loaf.html",
+  "heading": "Curd Loaf",
+  "ingredients": [
+    "beat",
+    "beer",
+    "bread",
+    "butter",
+    "cheese",
+    "cream",
+    "egg",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "curd-loaf.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Cheese-loaves.\u003C/b\u003E\u003Cbr\u003E\nGrate a Wheat-Loafe, and take as much Curd as bread, to that put eight yolks of Eggs and four whites, and beat them very well, then take a little Cream but let it be very thick, put altogether, and make them up with two handfuls of flower, the Curds must be made of new milk and whayed very dry, you must make them like little Loaves and bake them in an Oven; and being baked cut them up, and have in readinesse some sweet Butter, Sugar, Nutmeg sliced and mingled together, put it into the Loaves, and with it stir the Cream well together, then cover them again with the tops, and serve them with a little Sugar scraped on.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make buttered Loaves of Cheese-curds.\u003C/b\u003E\u003Cbr\u003E\nTake three quarts of new Milk, and put in as much Rennet as will turn, take your Whay clean away, then breake your Curds very small with your hands, and put in six yolks of Eggs, but one white; an handfull of grated bread, an handfull of Flower, a little Salt mingled altogether; work it with your hand, roul it into little Loaves, then set them in a Pan buttered, then beat the yolk of an Egg with a little Beer, and wipe them over with a feather, then set them in the Oven as for Manchet, and stop that close three quarters of an hour, then take halfe a pound of butter three spoonfuls of water, a Nutmeg sliced thin, a little Sugar, set it on the fire, stir it till it be thick; when your Loaves are baked, cut off the tops and butter them with this Butter, some under, some over, and strow some Sugar on them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Curd Loaf",
+  "usedSnapshot": "20211027041906"
+}

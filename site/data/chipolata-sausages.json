@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140125041423",
+  "finalPath": "chipolata-sausages.html",
+  "heading": "Chipolata Sausages",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chipolata Sausages",
+  "usedSnapshot": "20210518201453"
+}

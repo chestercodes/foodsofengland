@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20150601085922",
+  "finalPath": "bath-cakes.html",
+  "heading": "Bath Cakes",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "egg",
+    "eggs",
+    "flour",
+    "orange",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bath-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E38. BATH CAKES.\u003C/b\u003E\u003Cbr\u003E\nTake two pounds of flour, a pound of sugar, and a pound of butter; wash the butter in orange-flower water, and dry the flour; rub the butter into the flour as for puff-paste, beat three eggs fine in three spoonfuls of cream, and a little mace and salt, mix these well together with your hand, and make them into little cakes; rub them over with white of egg, and grate sugar upon them; a quarter of an hour will bake them in a slow oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bath-cakes.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo Make Bath Cakes.\u003C/b\u003E\u003Cbr\u003E\nRUB half a pound of butter into a pound of flour, and one spoonful of good barm, warm some cream, and make it into a light paste, see it to the fire to rise, when you make them up, take four ounces of \u003Ca href=\u0022comfits.html\u0022\u003E\u003Cb\u003Ecarraway comfits\u003C/b\u003E\u003C/a\u003E, work part of them in, and strew the rest on the top, make them into a round cake, the size of a French roll, bake them on sheet tins, and send them in hot for breakfast.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBath Cakes (Dr. Oliver\u0027s Version)\u003C/b\u003E",
+      "relatedPageUrl": "bathcakes(1).htm",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Bath Cakes",
+  "usedSnapshot": "20220808014748"
+}

@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922084122",
+  "finalPath": "queen-cakes.html",
+  "heading": "Queen Cakes",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "rose water",
+    "sugar",
+    "currants",
+    "lemon",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "queen-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E243. To make QUEEN CAKES.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of London flour dry\u0027d well before the fire, nine eggs, a pound of loaf sugar beaten and sifted, put one half to your eggs and the other to your butter; take a pound of butter and melt it without water put it into a stone bowl, when it is almost cold put in your sugar and a spoonful or two of rose water, beat it very quick, for half an hour, till it be as white as cream; beat the eggs and sugar as long and very quick, whilst they be white; when they are well beat mix them all together; then take half a pound of currans cleaned well, and a little shred of mace, so you may fill one part of your tins before you put in your currans; you may put a quarter of a pound of almonds shred (if you please) into them that is without currans; you may ice them if you please, but do not let the iceing be thicker than you may lie on with a little brush.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "queen-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 45.- Queen Cakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nI lb. butter. 1 lb. sugar.\u003Cbr\u003E\n1 lb. eggs (weighed in their 2i lbs flour, shells). 1 oz. \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile.\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\nMilk. Essence of lemon.\u003Cbr\u003E\n\u003Cbr\u003E\nMode,- Break the volatile down in a mortar with a little milk; sieve the flour upon the board; cream up the butter and sugar, adding the gs in the usual manner; beat in the volatile and a few drops essence of lemon; mix in the flour with milk, and fill into 1d. or 1/2d. Queen Cake pans (see illustration, Fig. 26); sprinkle a few currants on top, and bake in a warm oven. Sell at 1d. each, or use the smallest size pans for 1/2d. cakes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Queen Cakes",
+  "usedSnapshot": "20211207123348"
+}

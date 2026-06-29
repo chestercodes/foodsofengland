@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616085224",
+  "finalPath": "baked-trout-with-cucumber-sauce.html",
+  "heading": "Baked Trout with Cucumber Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cucumber Sauce",
+      "relatedPageUrl": "cucumber-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Baked Trout with Cucumber Sauce",
+  "usedSnapshot": "20211207123952"
+}

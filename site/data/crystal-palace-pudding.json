@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20150922074444",
+  "finalPath": "crystal-palace-pudding.html",
+  "heading": "Crystal Palace Pudding",
+  "ingredients": [
+    "cherries",
+    "cornflour",
+    "cream",
+    "eggs",
+    "gelatine",
+    "glace cherries",
+    "milk",
+    "pudding",
+    "sugar",
+    "vanilla",
+    "beat",
+    "beef",
+    "breadcrumbs",
+    "butter",
+    "castor sugar",
+    "lemons",
+    "raisins",
+    "suet",
+    "egg",
+    "egg yolks"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "crystal-palace-pudding.html-1",
+      "receiptSource": "Original Receipt from from \u0027\u003Ci\u003EMrs. Beeton\u0027s - All About Cookery\u003C/i\u003E\u0027 published in 1909 by Ward, Lock, some 45 years after the death of Mrs Beeton.",
+      "receiptText": "\u003Cb\u003ECRYSTAL PALACE PUDDING\u003C/b\u003E\u003Cbr\u003E\nINGREDIENTS: 1 heaped up dessert-spoon full of cornflour,\u00BD oz. of gelatine or isinglass,\u00BD pint of cream, 1/8th pint of milk, sugar, and vanilla to taste, 2 yolks of eggs, glace cherries.\u003Cbr\u003E\nMETHOD: Soak the gelatine or isinglass in a little water, heat up the cream, and strain in the dissolved gelatine. Blend the cornflour smoothly with the milk, mix it with the cream and sweeten to taste. Stir and boil gently for 10 minutes, let the preparation cool slightly, then add the yolks of eggs and a few drops of vanilla essence. Stir until on the point of setting, then turn into small moulds previously decorated with glace cherries. When firm, turn out, dish up and serve.\u003Cbr\u003E\n\u003Cbr\u003E\nTIME: 1\u00BD hours.\u003Cbr\u003E\nAVERAGE COST, 1s 6d to 1s 8d.\u003Cbr\u003E\nSUFFICIENT for 4 or 5 persons.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "crystal-palace-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENorthampton Mercury\u003C/i\u003E\u0027 - Saturday 9 June 1883",
+      "receiptText": "Crystal Palace Pudding.-Well butter a mould and stick it over with raisins stoned and opened, then chop quarter of a pound of beef suet finely; add to it two ounces of citron chopped: rub through a wire sieve six ounces of breadcrumbs; put them in the basin, and add the grated rind of the two lemons; mix all these well together; then take up yolks of four eggs, beat them up thoroughly well, add half a gill of cream and quarter pound of castor sugar; mix all these together, pour into the mould carefully, cover with kitchen paper and steam two hours. Serve with a rich melted butter when turned out.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "crystal-palace-pudding.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESunderland Daily Echo\u003C/i\u003E\u0027 and Shipping Gazette - Wednesday 16 May 1951",
+      "receiptText": "IN an old recipe book we find a summer sweet which is appropriately named for Exhibition year Crystal Palace pudding. The ingredients are \u00BD oz. gelatine. \u00BE pint milk, 2 teaspoonsful cornflour, 2oz. sugar. 3 egg yolks. \u00BD teaspoonful vanilla essence, and some crystallized cherries. Mix the cornflour with a little of the milk and then put in a saucepan with the remainder of the milk, sugar and gelatine. Boil for five minutes, stirring all the time. Add vanilla essence and egg yolks, mix thoroughly and pour into mould. When set. turn out and decorate with cherries.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EAlex Bray...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/alex-bray.html",
+      "relationDescription": "For more by the same cook, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Crystal Palace Pudding",
+  "usedSnapshot": "20211205180608"
+}

@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922082340",
+  "finalPath": "shrub.html",
+  "heading": "Shrub",
+  "ingredients": [
+    "lime",
+    "sugar",
+    "currant",
+    "currants",
+    "jelly"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "shrub.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EShrub.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nTake a gallon of rum, six pounds of lump sugar dissolved in a quart of lime juice, and mix the whole well together; then put it in a cask, and when fine, bottle it off for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "shrub.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CURRANT SHRUB. Strip some white currants, and prepare them in a jar as for jelly. Strain the juice, of which put two quarts to one gallon of rum, and two pounds of lump sugar. Strain the whole through a jelly bag.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBumpo\u003C/b\u003E",
+      "relatedPageUrl": "bumpo.html",
+      "relationDescription": "See also the similar: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGrog\u003C/b\u003E",
+      "relatedPageUrl": "grog.html",
+      "relationDescription": "See also the similar: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EShrubb\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Shrub",
+  "usedSnapshot": "20211018083532"
+}

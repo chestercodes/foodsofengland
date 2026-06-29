@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922085730",
+  "finalPath": "revel-buns.html",
+  "heading": "Revel Buns",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETea-Treat Buns\u003C/b\u003E",
+      "relatedPageUrl": "tea-treat-buns.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Revel Buns",
+  "usedSnapshot": "20211205162348"
+}

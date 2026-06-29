@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922074251",
+  "finalPath": "brains.html",
+  "heading": "Brains",
+  "ingredients": [
+    "beat",
+    "butter",
+    "egg",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brains.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECALVES BRAINS - ER\u003C/b\u003E\u003Cbr\u003E\nBlanch the brains and beat them up with an egg, pepper and salt, a small quantity of chopped parsley and a piece of butter. Put them into a small frying pan and fry them stirring all the time\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Brain Cake",
+      "relatedPageUrl": "brain-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Brains",
+  "usedSnapshot": "20220527220432"
+}

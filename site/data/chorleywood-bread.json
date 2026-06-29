@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922084525",
+  "finalPath": "chorleywood-bread.html",
+  "heading": "Chorleywood Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Aerated Bread",
+      "relatedPageUrl": "aerated-bread.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chorleywood Bread",
+  "usedSnapshot": "20211205163504"
+}

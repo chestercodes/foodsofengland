@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922073241",
+  "finalPath": "aunt-nelly-s-pudding.html",
+  "heading": "Aunt Nelly\u0027s Pudding",
+  "ingredients": [
+    "beat",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "pudding",
+    "suet",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "aunt-nelly-s-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAUNT NELLY\u0027S PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1224. INGREDIENTS:\u00BD lb. of flour,\u00BD lb. of treacle,\u00BD lb. of suet, the rind and juice of 1 lemon, a few strips of candied lemon-peel, 3 tablespoonfuls of cream, 2 eggs.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Chop the suet finely; mix with it the flour, treacle, lemon-peel minced, and candied lemon-peel; add the cream, lemon-juice, and 2 well-beaten eggs; beat the pudding well, put it into a buttered basin, tie it down with a cloth, and boil from 3-\u00BD to 4 hours.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 3-\u00BD to 4 hours. \u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 2d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time, but more suitable for a winter pudding.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Aunt Nelly\u0027s Pudding",
+  "usedSnapshot": "20220516205932"
+}

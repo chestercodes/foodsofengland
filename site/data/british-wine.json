@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922082416",
+  "finalPath": "british-wine.html",
+  "heading": "British Wine",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Alcoholic Liquor Duties Act 1979",
+      "relatedPageUrl": "https://www.legislation.gov.uk/en/ukpga/1979/4/enacted/data.xht?wrap=true",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "The Wine and Made-wine Regulations 1989",
+      "relatedPageUrl": "https://www.legislation.gov.uk/uksi/1989/1356/made/data.xht?view=snippet\u0026amp;wrap=true",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "British Wine",
+  "usedSnapshot": "20211020221522"
+}

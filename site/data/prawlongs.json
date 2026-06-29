@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922085010",
+  "finalPath": "prawlongs.html",
+  "heading": "Prawlongs",
+  "ingredients": [
+    "almonds",
+    "lemon",
+    "lemons",
+    "nuts",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prawlongs.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 59. Lemon Prawlongs\u003C/b\u003E\u003Cbr\u003E\nTAKE some lemons, and peel the rind off in four quarters; take all the white off from the inside of the rind; cut the yellow rind in pieces, about one inch long and about the tenth part of an inch wide; have a pan of boiling syrup on the fire, and let it boil till it comes almost to carimel, then put the prawlongs in, and stir them very much with a large wooden spoon till they are cold; put them in a large sieve, and shake them just to let the sugar that does not stick to them go through the sieve; lastly put them in your box, and keep them in\u003Cbr\u003E\na dry place.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ENo. 61. Pistachio Prawlongs, Red.\u003C/b\u003E\u003Cbr\u003E\nTAKE some pistachio kernals and have a preserving pan on the fire with syrup; boil it till it comes almost to carimel, put some cochineal in and the nuts; and stir them; when they come off the fire break them apart, let them have two coats of sugar, and see that they are of a fine colour, and do every thing according to the receipt of the bunt almonds.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Prawlongs",
+  "usedSnapshot": "20210510050526"
+}

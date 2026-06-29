@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140616082647",
+  "finalPath": "banbury-cheese.html",
+  "heading": "Banbury Cheese",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "banbury-cheese.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a tarte of Cheese\u003C/b\u003E\u003Cbr\u003E\nMAKE your tart, and then take Banberie Cheese, and pare away the outside of it, and cut the cleane cheese in small peeces and put them into the Tart, and when your Tart is full of Cheese: then put two handfuls of sugar into your Tart vpon your cheese, and cast in it fiue or sixe spoonfuls of Rosewater, and close it vp with a couer, and with a feather lay sweet molten Butter vpon it, and fine sugar, and bake it in a soft Ouen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Banbury Cheese",
+  "usedSnapshot": "20191219003955"
+}

@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20150922092548",
+  "finalPath": "cauliflower-cheese.html",
+  "heading": "Cauliflower Cheese",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "cauliflower",
+    "cauliflowers",
+    "cheese",
+    "parmesan",
+    "parmesan cheese",
+    "artichokes",
+    "bread",
+    "broccoli",
+    "cayenne",
+    "egg",
+    "jerusalem artichokes",
+    "pepper",
+    "sprouts",
+    "milk",
+    "mustard",
+    "salt"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "cauliflower-cheese.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECAULIFLOWERS WITH PARMESAN CHEESE.\u003C/b\u003E\u003Cbr\u003E\nTake all the green leaves from two or three fine white cauliflowers, and cut the stalks off very closely, so that they will stand upright in the dish in which they are served; boil them tolerably tender, but not sufiiciently so as to hazard their breaking; drain them well, and dish them, so as to give the whole the appearance of one cauliflower; pour a little good wnite sauce equally over the tops, and on this strew grated Parmesan cheese, drop over it a little clarified butter, ada another layer of cheese, and cover the whole with the finest breadcrumbs; moisten these with more clarified butter, and brown them\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cauliflower-cheese.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E293. Cauliflower and Broccoli, with Cheese Sauce.-\u003C/b\u003E Boil two or three middle-sized cauliflowers, make half a pint of thick melted butter, adding a little cayenne pepper, if handy, grate four ounces of good cheese, Cheshire preferable; mix this well with the sauce, and when boiling pour over the cauliflower or broccoli; set either in an oven or before the fire for fifteen minutes, until it gets brown; the yolk of an egg may be added; bread-crumb over, and serve. If no grater, cut your cheese fine, it will melt in boiling.\u003Cbr\u003E\n\u003Cbr\u003E\nJerusalem artichokes, Scotch kail, and Brussels sprouts, are also very nice done this way.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cauliflower-cheese.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESevenoaks Chronicle and Kentish Advertiser\u003C/i\u003E\u0027 - Friday 15 May 1908",
+      "receiptText": "\u003Cb\u003ECauliflower Cheese.\u003C/b\u003E - Break cauliflower into branches, and boil; take a breakfastcupful of breadcrumbs, the same of grated cheese, add a small piece of butter, teaspoonful of mustard, little pepper and salt, nearly pint of milk; bring it to the boil, or until the cheese has all dissolved. When the cauliflower is quite done, drain all the water from it as dry possible; place it in dish, and pour the sauce over it; bake it nice brown, and serve it very hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Cauliflower Cheese",
+  "usedSnapshot": "20220527231224"
+}

@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922072906",
+  "finalPath": "duck-with-onion-sauce.html",
+  "heading": "Duck with Onion Sauce",
+  "ingredients": [
+    "butter",
+    "fat",
+    "milk",
+    "onion",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "duck-with-onion-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E56. To boil DUCKS with ONION SAUCE.\u003C/b\u003E\u003Cbr\u003E\nTake two fat ducks, and season them with a little pepper and salt, and skewer them up at both ends, and boil them whilst they are tender; take four or five large onions and boil them in milk and water, change the water two or three times in the boiling, when they are enough chop them very small, and rub them through a hair-sieve with the back of a spoon, \u0027till you have rubb\u0027d them quite through, then melt a little butter, put in your onions and a little salt, and pour it upon your ducks. Garnish your dish with onions and sippets.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Duck with Onion Sauce",
+  "usedSnapshot": "20170313202122"
+}

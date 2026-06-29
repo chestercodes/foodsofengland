@@ -1,0 +1,83 @@
+﻿{
+  "earliestSnapshot": "20140616082843",
+  "finalPath": "exeter-scalloped-oysters.html",
+  "heading": "Exeter Scalloped Oysters",
+  "ingredients": [
+    "bread",
+    "butter",
+    "egg",
+    "oysters",
+    "pepper",
+    "beat"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "exeter-scalloped-oysters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERoasted Oysters in Scallop Shells. From Exeter.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nProvide some large scallop Shells, such as are the deepest and hollowest you can get, which Shells are sold at the Fishmongers at London; then open such a Number of Oysters as will near fill the Shells you design, and save the Liquor to settle; then pour a moderate quantity of the Liquor into each Shell, and put a Blade of Mace, and some whole Pepper with it; after which, put into your Shells a small piece of Butter, and cover the whole with grated Bread: then let these on a Grid-Iron over the Fire, and when they are enough, give the grated Bread at the tops of the Shells a browning with a red-hot Iron, and serve them.\u003Cbr\u003E\n\u003Cbr\u003E\nThe same Person who sent the foregoing Receipts, concerning Oysters, advises another way of roasting Oysters, which I think is a very good one, and not much known. It is, to take large Oysters, open them, and hang them by the finny part on a small Spit, after having first dipt them in the Yolk of an Egg, and roll\u0027d them in Crumbs of Bread; turn them three or four times before the Fire, and baste them gently with Butter, till the Crumbs of Bread are crisp upon them, and serve them hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "exeter-scalloped-oysters.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E214. OYSTERS in SCALLOP SHELLS.\u003C/b\u003E\u003Cbr\u003E\nTake half a dozen small scallop shells, lay in the bottom of every shell a lump of butter, a few bread crumbs, and then your oysters; laying over them again a few more bread crumbs, a little butter, and a little beat pepper, so set them to crisp, either in the oven or before the fire, and serve them up.\u003Cbr\u003E\nThey are proper for either a side-dish or middle-dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Beef Scallops",
+      "relatedPageUrl": "beef-scallops.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Chip-Shop Scallops",
+      "relatedPageUrl": "chip-shop-scallops.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Devonshire Scallops",
+      "relatedPageUrl": "devonshire-scallops.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Exeter Scalloped Oysters",
+      "relatedPageUrl": "exeter-scalloped-oysters.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Fish Scallop",
+      "relatedPageUrl": "fish-scallop.html",
+      "relationDescription": "For other versions, see:"
+    },
+    {
+      "relatedPageText": "Scallops",
+      "relatedPageUrl": "scallops.html",
+      "relationDescription": "For other versions, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Exeter Scalloped Oysters",
+  "usedSnapshot": "20210120135639"
+}

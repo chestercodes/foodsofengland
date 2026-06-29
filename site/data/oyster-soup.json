@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922085725",
+  "finalPath": "oyster-soup.html",
+  "heading": "Oyster Soup",
+  "ingredients": [
+    "cayenne",
+    "cream",
+    "eggs",
+    "oysters",
+    "pepper",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oyster-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EOYSTER SOUP.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of large oysters, blanch them with a pint of water: let half of them be bearded and preserved, to be served up in the soup; the others to be boiled till the goodness is extracted which strain through a sieve, and to the liquor add five pints of boiling veal broth, a small quantity of pounded mace, the crumb of two penny french rolls; then rub though a tamis cloth, make it boil, and skim it, add the bearded oysters; let them simmer ten minutes; then whisk with the soup the yolks of four eggs and a pint of cream, a little salt and cayenne pepper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cockle Soup",
+      "relatedPageUrl": "cockle-soup.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Oyster Soup",
+  "usedSnapshot": "20170314145111"
+}

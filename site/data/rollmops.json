@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616084718",
+  "finalPath": "rollmops.html",
+  "heading": "Rollmops",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rollmops",
+  "usedSnapshot": "20211207114012"
+}

@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140212024018",
+  "finalPath": "border-tart.html",
+  "heading": "Border Tart",
+  "ingredients": [
+    "beat",
+    "egg",
+    "fat",
+    "flour",
+    "margarine",
+    "orange",
+    "pastry",
+    "salt",
+    "sugar",
+    "sultanas",
+    "cherries",
+    "cream",
+    "currants",
+    "dried fruit",
+    "flan",
+    "nuts",
+    "raisins",
+    "vanilla"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "border-tart.html-1",
+      "receiptSource": "Original Receipt from Aberdeen Press and Journal - Monday 18 April 1949",
+      "receiptText": "To-day\u0027s Recipes\u003Cbr\u003E\nELSPETH STUART\u003Cbr\u003E\nFrae a\u0027 the Airts\u003Cbr\u003E\n\u003Cb\u003EBorder Tart.\u003C/b\u003E\u003Cbr\u003E\nPastry: 3oz. Flour, pinch salt. 1 \u00BD oz. margarine, cold water. Filling: 2oz. Sugar, 2oz. margarine, 1 egg, 4oz. sultanas, orange rind.\u003Cbr\u003E\nMake a short-crust pastry and with it line a 7in sandwich tin. Prepare the filling by creaming thoroughly the fat and sugar till light and fluffy. Beat in the egg and work in the sultanas and fresh orange rind. Place in the pastry case. If any scraps of pastry are over, roll into strips, twist and place on top to decorate. Bake in a moderate,oven (340 degs. F.) for 30 minutes till golden brown and well risen.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "border-tart.html-2",
+      "receiptSource": "Original Receipt from Peterborough Advertiser - Tuesday 08 November 1955",
+      "receiptText": "[Measure of dried fruit is presumably an error- ed]\u003Cbr\u003E\n\u003Cbr\u003E\nBORDER TART\u003Cbr\u003E\n4 oz. short crust pastry.\u003Cbr\u003E\n1 teaspoonful mixed dried fruit (raisins, currants, cherries, etc.).\u003Cbr\u003E\n2 oz. margarine.\u003Cbr\u003E\nChopped nuts.\u003Cbr\u003E\nFew drops vanilla essence.\u003Cbr\u003E\n2 oz. sugar.\u003Cbr\u003E\n1 egg.\u003Cbr\u003E\nLine 7in. flan tin or flan ring with pastry. Cream fat and sugar well. Add beaten egg and essence. Add chopped nuts to mixed fruit and add to creamed mixture. Put this into pastry case, pressing down well. Bake in a moderate oven 30-40 minutes. Scraps of pastry left over can be cut into strips and placed on top if liked. Thermostat No. 5.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Borders"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Border Tart",
+  "usedSnapshot": "20220705093440"
+}

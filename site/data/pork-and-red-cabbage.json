@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922071946",
+  "finalPath": "pork-and-red-cabbage.html",
+  "heading": "Pork and Red Cabbage",
+  "ingredients": [
+    "apple",
+    "cabbage",
+    "demerara sugar",
+    "fat",
+    "flour",
+    "mashed potatoes",
+    "parsley",
+    "pepper",
+    "plain flour",
+    "pork",
+    "potatoes",
+    "salt",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pork-and-red-cabbage.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Pork%20and%20Red%20Cabbage\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPot Roast of Pork and Red Cabbage\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nserves 4\u003Cbr\u003E\n45 ml (3 tbsp) red wine vinegar\u003Cbr\u003E\n450 g (1 lb) red cabbage, shredded\u003Cbr\u003E\n225 g (8 oz) cooking apple, peeled, cored and sliced\u003Cbr\u003E\n15 ml (1 tbsp) demerara sugar\u003Cbr\u003E\n15 ml (1 tbsp) plain flour\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n700 g (1 \u00BD lb) boneless pork shoulder, rinded\u003Cbr\u003E\nchopped fresh parsley, to garnish\u003Cbr\u003E\n\u003Cbr\u003E\n1. Bring a large saucepan of water with 15 ml (1 tbsp) of the vinegar to the boil. When boiling, add the cabbage and bring back to the boil, then drain well.\u003Cbr\u003E\n2. Place the apple slices and the cabbage in an ovenproof casserole just wide enough to hold the pork joint.\u003Cbr\u003E\n3. Add the sugar, the remaining vinegar and the flour. Season to taste and stir together well.\u003Cbr\u003E\n4. Slash the fat side of the joint several times and sprinkle with salt and pepper. Place on top of the cabbage and cover the casserole. 5. Bake at 190\u00B0C (375\u00B0F) mark 5 for about VA hours or until the pork is tender. Serve the pork sliced on a warmed serving platter, surrounded by cabbage. Garnish with chopped parsley and serve the remaining cabbage in a serving dish. Accompany with mashed potatoes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pork and Red Cabbage",
+  "usedSnapshot": "20211205163923"
+}

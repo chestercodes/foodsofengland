@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073110",
+  "finalPath": "haworth-cream.html",
+  "heading": "Haworth Cream",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Haworth Cream",
+  "usedSnapshot": "20211129120403"
+}

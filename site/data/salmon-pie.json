@@ -1,0 +1,91 @@
+﻿{
+  "earliestSnapshot": "20140616090415",
+  "finalPath": "salmon-pie.html",
+  "heading": "Salmon Pie",
+  "ingredients": [
+    "butter",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "rose-water",
+    "salmon",
+    "salt",
+    "strawberry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "salmon-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Ci\u003ETo make minced Pies of Salmon.\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMince a rand of fresh salmon very small, with a good fresh water eel being flayed and boned; then mince, some violet leaves, sorrel, strawberry-leaves, parsley, sage, savory, marjoram, and time, mingle all together with the meat currans, cinamon, nutmeg, pepper, salt, sugar, caraways; rose-water, white-wine, and some minced orangado, put some butter in the bottom of the pies, fill them, and being baked ice them, and scrape on sugar; Make them according to these forms.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022mays%20salmon%20pies.jpg\u0022\u003E\u003Cimg src=\u0022mays%20salmon%20pies.jpg\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Csmall\u003ESalmon Pie Forms, from Rober May, 1660\u003C/small\u003E\u003C/center\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESalmon...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/salmon.html",
+      "relationDescription": "For other dishes see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Salmon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Salmon Pie",
+  "usedSnapshot": "20211201004029"
+}

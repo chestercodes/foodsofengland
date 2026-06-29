@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922132932",
+  "finalPath": "pickled-walnuts.html",
+  "heading": "Pickled Walnuts",
+  "ingredients": [
+    "ginger",
+    "horse-radish",
+    "mustard",
+    "onion",
+    "pepper",
+    "salt",
+    "shalots",
+    "vinegar",
+    "walnuts",
+    "cabbage",
+    "garlic"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-walnuts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "[June] The beginning of this Month is the time to pickle Walnuts, for then the Walnuts have not began to shell, and moreover are not so bitter nor hollow as they will be afterwards; they will now be full flesh\u0027d, and you will have no Loss. The following Method I learnt from Mr. \u003Ci\u003EFoord\u003C/i\u003E, a curious Gentleman of \u003Ci\u003EBuckingham\u003C/i\u003E, and has been experienced to be the best way. There is one thing indeed which must be regarded in this Pickle, which is, that every one does not love the Taste of Onion or Garlick; but that may be omitted as we please, only supplying the place with Ginger.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo pickle Walnuts.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThe Walnuts being fit for pickling, wash them, and put them into a Kettle to scald; then with a piece of Flannel rub off the outer Skin, and let them lie till they are quite cold, after which put them into a Vessel of Salt and Water, and let them stand 24 Hours; then take them out, and put them again into fresh Salt and Water for 24 Hours more; then shift them as before, and continue this Practice for fourteen Days, at the end of which time wipe them dry, and lay them in a glazed earthen Pot, \u003Ci\u003EStratum super Stratum\u003C/i\u003E, with Spice, whole Mustard-Seed, Horse-Radish slic\u0027d, and Garlick, or Eschalots: that is to say, make a Layer of Walnuts, and strew over it whole Pepper, Ginger slic\u0027d, Horse-Radish slic\u0027d, some whole Mustard-Seed, and three or four Cloves of Garlick; or if Garlick be too strong, as many Cloves of Shalots. Then lay upon these another Layer of Walnuts, and upon them the Roots and Spices as before, and so continue till your Pot is full; then pour over the whole, as much boiling Vinegar as will cover them, and immediately cover the Pot close, and let it stand till the next Day, when we may again pour off the Vinegar from them, without disturbing them; and making it again boiling hot, pour it upon them, and stop them close, as before, to be set by for use. But these will not be fit for eating under three Weeks or a Month, and will be much better by keeping a few Months.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-walnuts.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "423. PICKLED GREEN WALNUTS (Surrey)\u003Cbr\u003E\n\u003Cbr\u003E\nGather green walnuts before the inner shell is formed, which may be known by pricking them with a pin; if it goes through easily, they are young enough to pickle. Prick them in several places with a needle or pin, to allow them to imbibe the salt, and put them in strong brine for a fortnight, making fresh salt and water every three days: drain them, and put them in a jar, sprinkle them with salt, and pour over (hot) vinegar boiled as for cabbage; some shalots, garlic, or onion may be boiled in the vinegar, if the flavour is not disliked. Some persons dry the walnuts in the sun for three or four days, after having left the brine, and before the vinegar is added.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Pickled Walnuts",
+  "usedSnapshot": "20211201003746"
+}

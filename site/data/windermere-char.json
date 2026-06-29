@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082558",
+  "finalPath": "windermere-char.html",
+  "heading": "Windermere Char",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Windermere Char",
+  "usedSnapshot": "20210620004135"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20130323203655",
+  "finalPath": "salt-beef.html",
+  "heading": "Salt Beef",
+  "ingredients": [
+    "beef",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "salt-beef.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ETo salt beef\u003C/b\u003E.\u003C/i\u003E\u003Cbr\u003E\nThe kernels of all meat should be carefully extracted. Particular attention is requisite in salting meat. It should be well sprinkled, and six hours afterwards hung up to drain; after which, rub it well with salt, and lay it in a salting tub with a cover td fit close; remember to turn it every day. The brine will serve very well again by being boiled and scummed, as long as any scum will arise.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Salt Beef",
+  "usedSnapshot": "20211018073742"
+}

@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20150922074225",
+  "finalPath": "mincemeat-sweet.html",
+  "heading": "Mincemeat (Sweet)",
+  "ingredients": [
+    "lemon",
+    "orange",
+    "salt",
+    "suet",
+    "sugar",
+    "brandy",
+    "nutmeg",
+    "allspice",
+    "bladder",
+    "currants",
+    "lemons",
+    "mince-meat",
+    "raisins",
+    "tripe",
+    "beef",
+    "cinnamon",
+    "ginger"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "mincemeat-sweet.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make minced Pies.\u003C/b\u003E\u003Cbr\u003E\nTake a large \u003Ca href=\u0022neat-s-tongues.html\u0022\u003E\u003Cb\u003ENeats tongue\u003C/b\u003E\u003C/a\u003E, shread it very well, three pound and a halfe of Suet very well shread, Currans three pound, halfe an ounce of beaten Cloves and Mace, season it with Salt when you think\u0027t fit, halfe a preserved Orange, or instead of it Orange Pils, a quarter of a pound of Sugar, and a little Lemon Pill sliced very thin, put all these together very well, put to it two Spoonfull of Verjuyce, and a quarter of a Pint of Sack, \u0026amp;c.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mincemeat-sweet.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E119. MINC\u0027D PIES another way.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of the finest seam tripes you can get, a pound and a half of currans well cleaned, two, three or four apples pared and shred very fine, a little green lemon-peel and mace shred, a large nutmeg, a glass of sack or brandy, (which you please) half a pound of sugar, and a little salt, so mix them well together, and fill your patty-pans, then stick five or six bits of candid lemon or orange in every petty-pan, cover them, and when baked they are fit for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mincemeat-sweet.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 100. A Cheap Kind of Mince-meat.\u003C/b\u003E\u003Cbr\u003E\nIngredients, eight ounces of stoned raisins, eight ounces of washed and dried currants, one pound of tripe, one pound of apples, one pound of chopped suet, four ounces of shred candied peel, one pound of moist sugar, one ounce of allspice, the juice and the chopped rind of three lemons, half a gill of rum. First chop the raisins, currants, apples, and the tripe all together, or separately, until well mixed; then place these in a pan, add the remainder of the ingredients, mix them thoroughly until well incorporated with each other; put the mince-meat into a clean dry stone jar, tie some thick paper, or a piece of bladder over the top, and keep it in a cool place till wanted for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mincemeat-sweet.html-4",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERoyal Christmas Fare.\u003C/b\u003E - The mince-meat as made at Windsor Castle every year, the ingredients being mixed one month before wanted, is as follows: 240 lbs. of raisins, 400 lbs. of currants, 200 lbs. of lump sugar, 3 lbs. of cinnamon, 3 lbs. of nutmeg, 3 lbs. of cloves, 3 lbs. of ground allspice, 2 lbs. of ginger, 300 lbs. of beef, 350 lbs. of suet, 24 bushels of apples, 240 lemons, 30 lbs. of cedret, 72 bottles of brandy, 3 lbs. of mace, 60 lbs. of lemon-peel, and 60 lbs. of orangepeel.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Mincemeat (Sweet)",
+  "usedSnapshot": "20211201032436"
+}

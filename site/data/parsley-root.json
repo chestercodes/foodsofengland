@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150913033858",
+  "finalPath": "parsley-root.html",
+  "heading": "Parsley Root",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Greenwich Souchy",
+      "relatedPageUrl": "greenwich-souchy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lady Monmouth\u0027s Capon",
+      "relatedPageUrl": "lady-monmouth-s-capon.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Water-Souchy",
+      "relatedPageUrl": "water-souchy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Curry Sauce - Chip Shop Style",
+      "relatedPageUrl": "curry-sauce-chip-shop-style.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Richmond Eel",
+      "relatedPageUrl": "richmond-eel.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Parsley Root",
+  "usedSnapshot": "20211129121126"
+}

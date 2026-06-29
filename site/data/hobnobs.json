@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140508120553",
+  "finalPath": "hobnobs.html",
+  "heading": "Hobnobs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hobnobs",
+  "usedSnapshot": "20200112191802"
+}

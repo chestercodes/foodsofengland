@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130323195908",
+  "finalPath": "durham-cutlets.html",
+  "heading": "Durham Cutlets",
+  "ingredients": [
+    "bread",
+    "butter",
+    "egg",
+    "fat",
+    "flour",
+    "gravy",
+    "macaroni",
+    "mashed potatoes",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "durham-cutlets.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ETried Favourites\u003C/i\u003E, 1948.",
+      "receiptText": "\u003Cb\u003EDURHAM CUTLETS\u003C/b\u003E\u003Cbr\u003E\nMRS E W KIRK,\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients:\u003C/b\u003E\u003Cbr\u003E\n1 and \u00BD oz Butter,\u003Cbr\u003E\n1 and \u00BD oz Flour,\u003Cbr\u003E\n1/4 pint stock or Gravy,\u003Cbr\u003E\n6 oz cold Minced Meat,\u003Cbr\u003E\nabout 3 oz Bread Crumbs, or preferably mashed potatoes,\u003Cbr\u003E\n1 Egg,\u003Cbr\u003E\nabout 3 oz Bread Crumbs for outside of cutlets.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod:\u003C/b\u003E\u003Cbr\u003E\nMelt butter and add flour, then stock. Stir till you have a smooth, thick sauce, allowing this to cook 2 or 3 minutes. Add seasoning, salt and pepper to taste. Add meat and potatoes or bread, which is all the beter for having been soaked in gravy. Mix all together. Turn mixture out on a dinner-plate, spreading about\u00BD inch thick. Set it aside to cool. When it is cool divide it into 8 or 12 parts. Take each piece on point of a knife, and, by pulling round one end, shape it like a cutlet (do this on a floured board). Brush cutlets with the egg, well beaten, and roll them in bread crumbs. Stick a piece of macaroni in one end to represent bone. Fry in fat to brown and heat (they do not need cooking)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Durham Cutlets",
+  "usedSnapshot": "20200808121612"
+}

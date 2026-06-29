@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922071912",
+  "finalPath": "marry-me-quick-or-shotgun-sweets.html",
+  "heading": "Marry Me Quick or Shotgun Sweets",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Marry Me Quick or Shotgun Sweets",
+  "usedSnapshot": "20220819102407"
+}

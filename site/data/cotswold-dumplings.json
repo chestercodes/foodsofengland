@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616082759",
+  "finalPath": "cotswold-dumplings.html",
+  "heading": "Cotswold Dumplings",
+  "ingredients": [
+    "breadcrumbs",
+    "cheese",
+    "dumplings",
+    "eggs",
+    "fat",
+    "pepper",
+    "salt",
+    "tomatoes",
+    "butter",
+    "cheddar",
+    "cream",
+    "tomato"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cotswold-dumplings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENorwood News\u003C/i\u003E\u0027 - Friday 22 October 1954",
+      "receiptText": "I find it makes a very pleasant light supper dish for these bleak evenings. You take four ounces of grated cheese. two eggs, two ounces of vegetable-fat shortening, eight heaped tablespoonfuls of fresh breadcrumbs and browned breadcrumbs for coating. salt and pepper cheese and fat into a paste. Add beaten eggs. seasoning and breadcrumbs to make a stiff mixture. Form into balls. roll in browned breadcrumbs and fry in deep hot tat till golden brown (three to four minutes). You can serve your Cotswold dumplings with any sort of vegetable, of course. but I found tomatoes particularly good with them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cotswold-dumplings.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cotswold%20Dumplings\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECOTSWOLD DUMPLINGS\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCream together 4 oz grated Cheddar cheese, 2 oz butter, and 2 beaten eggs. Add pepper and salt to taste and sufficient white breadcrumbs to make a stiff mixture. Form into dumplings. Roll in brown breadcrumbs and fry in hot fat until brown. Serve with tomato sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Cotswold Dumplings",
+  "usedSnapshot": "20210510045804"
+}

@@ -1,0 +1,9 @@
+services:
+  old-site-parser:
+    build:
+      context: .
+      dockerfile: parser.Dockerfile
+    volumes:
+      - ./old-site-downloader/out:/foodsofengland/old-site-downloader/out
+      - ./old-site-parser/work:/foodsofengland/old-site-parser/work
+      - ./old-site-parser/out:/foodsofengland/old-site-parser/out

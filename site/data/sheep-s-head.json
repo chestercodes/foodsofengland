@@ -1,0 +1,83 @@
+﻿{
+  "earliestSnapshot": "20150922091906",
+  "finalPath": "sheep-s-head.html",
+  "heading": "Sheep\u0027s Head",
+  "ingredients": [
+    "bread",
+    "egg",
+    "gravy",
+    "herbs",
+    "jelly",
+    "pickles",
+    "sheep",
+    "veal",
+    "allspice",
+    "cider",
+    "pepper",
+    "salt",
+    "shalots",
+    "thyme",
+    "carrot",
+    "celery",
+    "liver",
+    "onions"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "sheep-s-head.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESHEEP\u0027S HEAD - ER\u003C/b\u003E\u003Cbr\u003E\nA great variety of excellent dishes may be made from a sheep\u0027s head, which in India where veal is not so easily procurable answers all the purposes for mock turtle, rolled head, or rich hash or ragout, the bones make excellent jelly, either savory or sweet. Parboil the head, cut the meat from the bone, stew the former, in a little of the liquor until quite tender, send it to table with a glass of wine in the sauce, forcemeat balls and brain cakes for gamish, or roll up the pieces, seasoned in the inside with a thick covering of chopped herbs, well seasoned, brush the outside with yolk of egg, dredge it with bread crumbs, fry it and send to table with a rich gravy made of the bones, and pickles warmed up in it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sheep-s-head.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 71. BAKED SHEEP\u0027S HEADS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBuy a couple of sheep\u0027s heads, get the butcher to split them for you, place them in an earthen baking-dish, with two ounces of dripping, some chopped shalots, thyme, bay-leaf, winter savory, pepper and salt, and a good pinch of allspice; moisten with a quart of cider, or water, strew a coating of bread-raspings all over the surface of the heads, and bake them for two hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sheep-s-head.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "51. SHEEP\u0027S HEAD (Cheshire)\u003Cbr\u003E\n\u003Cbr\u003E\nSteep two or three hours. Split the head; take out the brains and tongue to boil separately. Boil the head gently for three hours with a carrot, onions, celery, sweet herbs, a few cloves, and pepper and salt; egg and crumb and brown before the fire. Mince the lights, and serve the liver in sHces, well fried. Boil the brains in muslin, and arrange all together on one dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESheep\u0027s Head Broth\u003C/b\u003E",
+      "relatedPageUrl": "sheep-s-head-broth.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Sheep\u0027s Head",
+  "usedSnapshot": "20210510054550"
+}

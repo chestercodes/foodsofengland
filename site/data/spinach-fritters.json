@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922100628",
+  "finalPath": "spinach-fritters.html",
+  "heading": "Spinach Fritters",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "spinage",
+    "spinnage",
+    "sugar",
+    "beat",
+    "chutney",
+    "egg",
+    "eggs",
+    "fat",
+    "flour",
+    "lemon",
+    "milk",
+    "pepper",
+    "salt",
+    "spinach"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "spinach-fritters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Frittors of Spinage.\u003C/b\u003E\u003Cbr\u003E\nTAKE a good deale of Spinnage, and wash it cleane, and boyle it in faire water, and when it is boyled, put it in a Collender, and let it coole. Then wring all the water out of it as neere as \u00FEe can, lay it vpon a board, and chop it with the back of a chopping knife verie smal, and put it in a platter, and put to it four whites of Egs, and two yolks, and the crums of halfe a manchet grated, and a litle Synamon \u0026 Ginger, and styrre them well together with a spoon and take a frying pan and a dish of sweete Butter in it, when it is molten put handsomly in your pan halfe a spoonefull of your stuffe, and so bestowe the rest after, fry them on a soft fyre, and turn them when time is, lay them in a platter and cast sugar on them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "spinach-fritters.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EManchester Courier and Lancashire General Advertiser\u003C/i\u003E\u0027 - Thursday 11 May 1911",
+      "receiptText": "Spinach Fritters.-Cook half a peck of spinach till soft. Then strain the water, squeezing it well, and chop with a sharp knife. Melt ounce butter, stir in the spinach, nth a gill milk, a little salt and pepper, the juice of half a small lemon, and a teaspoonful finely chopped Indian chutney. Simmer the spinach very gently, and after a quarter of hour spread it on plate and set aside to cool. Beat up two eggs to a froth, and work them into heaped-up tablespoonful of flour. Stir this into the spinach, and roll into balls. Toss in egg, and then put in bead-crumbs, and fry a nice brown in deep fat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Spinach Fritters",
+  "usedSnapshot": "20211021023126"
+}

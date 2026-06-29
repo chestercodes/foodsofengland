@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140212191913",
+  "finalPath": "marrow-pasties.html",
+  "heading": "Marrow Pasties",
+  "ingredients": [
+    "butter",
+    "currants",
+    "spinage",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marrow-pasties.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EEXCELLENT MARROW-SPINAGE-PASTIES\u003C/b\u003E\u003Cbr\u003E\nTake Spinage, and chop it a little; then boil it, till it be tender. In the mean time make the best rich light Crust you can, and roul it out, and put a little of your Spinage into it, and Currants and Sugar, and store of lumps of Marrow; Clap the Past over this to make little Pasties deep within, and fry them with clarified Butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBone Marrow\u003C/b\u003E",
+      "relatedPageUrl": "marrow-bones.html",
+      "relationDescription": "For other marrow dishes, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Marrow Pasties",
+  "usedSnapshot": "20211019190644"
+}

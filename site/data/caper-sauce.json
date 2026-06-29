@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922080916",
+  "finalPath": "caper-sauce.html",
+  "heading": "Caper Sauce",
+  "ingredients": [
+    "butter",
+    "flour",
+    "gherkins",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "caper-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EMelted Butter, No. 2.-\u003C/b\u003E The following is also very good as the foundation of sauces-it is not so rich, and will keep longer: One ounce of butler, one and a half of flour, a little more salt, pepper, and a gill more water; simmer, and serve.\u003Cbr\u003E\n...\u003Cbr\u003E\n\u003Cb\u003ECaper Sauce.-\u003C/b\u003E Two tablespoonsful of chopped capers added: if no capers, use pickled gherkins.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Caper Sauce",
+  "usedSnapshot": "20220819104346"
+}

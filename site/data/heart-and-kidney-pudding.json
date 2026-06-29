@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212024745",
+  "finalPath": "heart-and-kidney-pudding.html",
+  "heading": "Heart and Kidney Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Liver and Bacon",
+      "relatedPageUrl": "liver-and-bacon.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pudding",
+      "relatedPageUrl": "steak-and-kidney-pudding.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Steak and Kidney Pie",
+      "relatedPageUrl": "steak-and-kidney-pie.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Umble Pie",
+      "relatedPageUrl": "umble-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Heart and Kidney Pudding",
+  "usedSnapshot": "20211129115925"
+}

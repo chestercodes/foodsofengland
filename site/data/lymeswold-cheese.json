@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130113045933",
+  "finalPath": "lymeswold-cheese.html",
+  "heading": "Lymeswold Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lymeswold Cheese",
+  "usedSnapshot": "20220122213709"
+}

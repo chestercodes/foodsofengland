@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922100609",
+  "finalPath": "candied-carrots.html",
+  "heading": "Candied Carrots",
+  "ingredients": [
+    "carrot",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "candied-carrots.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E153. To Candy Carrot Roots.\u003C/b\u003E Take of the best and Boil them tender then pare them, and cut them in such pieces as you like; then take fine Sugar boiled to a Candy height with a little Water, then put in your Roots, and boil them till you see they will Candy; but you must first boil them with their weight in Sugar and some Water, or else they will not be sweet enough; when they are enough, lay them into a Box, and keep them dry: thus you may do green Peascods when they are very young, if you put them into boiling water, and let them boil close covered till they are green, and then boiled in a Syrup, and then the Candy, they will look very finely, and are good to set forth Banquets, but have no pleasant taste.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Candied Carrots",
+  "usedSnapshot": "20180924034350"
+}

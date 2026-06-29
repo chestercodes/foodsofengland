@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922085844",
+  "finalPath": "roast-hare.html",
+  "heading": "Roast Hare",
+  "ingredients": [
+    "anchovy",
+    "bread",
+    "butter",
+    "egg",
+    "lemon",
+    "liver",
+    "milk",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "pudding",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "roast-hare.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo roast a hare.\u003C/b\u003E\u003Cbr\u003E\nTAKE your hare when it is cased, and make a pudding; take a quarter of a pound of sewet, and as much crumbs of bread, a little parsley shred fine, and about as much thyme as will lie on a sixpence, when shred; an anchovy shred small, a very little pepper and salt, some nutmeg, two egg, and a little lemon-peel. Mix all these together and put it into the hare. Sew up the belly, spit it, and lay it to the fire, which must be a good one. Your dripping-pan must be very clean and nice. Put in two quarts of milk and half a pound of butter into the pan: keep basting it all the while it is roasting, with the butter and milk, till the whole is used, and your hare will be enough. You may mix the liver in the pudding, if you like it. You must first parboil it, and then chop in fine.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Roast Hare",
+  "usedSnapshot": "20211205175704"
+}

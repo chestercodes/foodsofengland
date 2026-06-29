@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922090043",
+  "finalPath": "bonfire-lollipops.html",
+  "heading": "Bonfire Lollipops",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bonfire Lollipops",
+  "usedSnapshot": "20220527223147"
+}

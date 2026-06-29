@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808231511",
+  "finalPath": "brixham-soup.html",
+  "heading": "Brixham Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brixham Soup",
+  "usedSnapshot": "20210518203515"
+}

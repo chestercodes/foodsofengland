@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20170314081438",
+  "finalPath": "derby-pie.html",
+  "heading": "Derby Pie",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "derby-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESavoury Pastry:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1900\u003C/b\u003E\u003C/a\u003E) \u003Cb\u003ENo. 86.\u2014 Derby Raised Pie.\u003C/b\u003E Take a large round cake hoop, 3 ins. high and 18 ins. in diameter; rub it clean, grease slightly, and set it on to a clean, greased flat tin. Take one of the boiled crusts given in Chapter II. and proceed to work up a case in the cake hoop, keeping thecrust about 1/4 in. thick all round, and work it up about an inch higher than the hoop and trim off even. For the filling take 2 lbs. of veal cutlet, 1/2 lb. fine flavoured dressed ham, 8 hardboiled eggs, 6 ozs. of dressed tongue, and any remains of cold roast or boiled chicken to 1 lb. in weight. Cut the eggs in halves, and then each half into quarters, giving eight equal size pieces from each egg. Lay pieces of egg all round the inside bottom of the pie case; then some of the tongue cut very thin; then into the centre some of the chicken in neat pieces; season with salt, pepper, and a wee sprinkle of the aromatic mixture No. II (see page 31). Set a stewpan over the fire; put in about 6 ozs. of sweet butter, and having cut up the veal into neat scallops about i in. square; proceed to fry them to a nice rich colour. When done, lay in the centre of the pie with the ham cut into thin neat pieces and some portion of the cut-up eggs. Finish the pie with the remainder of the chicken, tongue. and eggs. Now take the stewpan in which you fried the veal; add in about 2 pints of rich brown, thick stock, and let it simmer for about twenty minutes at the side of the stove. Take off the fat and stand aside; cover the pie with crust; place on some leaves and flowers cut out from some of the paste and decorate the top with it; put in some of the gravy through a hole in the centre, and cook for two hours in a moderate oven. When done, add in the remainder of the gravy and stand aside to get cold; when cold, wrap up in wax paper ready for packing. Price 12s. 6d. This pie is, as its name implies, suitable for Derby luncheons, or pic-nic parties, where substantial fare would be appreciated.",
+      "receiptText": ""
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Derby Pie",
+  "usedSnapshot": "20220819103546"
+}

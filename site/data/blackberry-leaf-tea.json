@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922090531",
+  "finalPath": "blackberry-leaf-tea.html",
+  "heading": "Blackberry Leaf Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Blackberry Leaf Tea",
+  "usedSnapshot": "20220516222706"
+}

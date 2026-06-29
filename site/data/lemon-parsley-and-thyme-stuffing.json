@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082600",
+  "finalPath": "lemon-parsley-and-thyme-stuffing.html",
+  "heading": "Lemon, Parsley and Thyme Stuffing",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "lemon",
+    "milk",
+    "parsley",
+    "pepper",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lemon-parsley-and-thyme-stuffing.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u0027\u003Ci\u003ELemon, Parsley and Thyme Stuffing\u003C/i\u003E \u0027\u003Cbr\u003E\n3 1/2 oz Fresh breadcrumbs\u003Cbr\u003E\n1 Tablespoon Parsley, chopped\u003Cbr\u003E\n1/2 Teaspoon Lemon zest, grated\u003Cbr\u003E\n1/2 Teaspoon Dried thyme\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n1 oz Butter, melted\u003Cbr\u003E\nMilk\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Lemon, Parsley and Thyme Stuffing",
+  "usedSnapshot": "20220808012651"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616084633",
+  "finalPath": "oxford-blue-cheese.html",
+  "heading": "Oxford Blue Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oxford Blue Cheese",
+  "usedSnapshot": "20211201042117"
+}

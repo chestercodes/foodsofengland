@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922082402",
+  "finalPath": "canterbury-pudding.html",
+  "heading": "Canterbury Pudding",
+  "ingredients": [
+    "brandy",
+    "breadcrumbs",
+    "caster sugar",
+    "egg",
+    "flour",
+    "lemon",
+    "milk",
+    "pudding",
+    "self-raising flour",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "canterbury-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Canterbury%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "3 oz Self-raising flour\u003Cbr\u003E\n3 oz Fresh breadcrumbs\u003Cbr\u003E\n3 oz Shredded suet\u003Cbr\u003E\n2 oz Caster sugar\u003Cbr\u003E\n1 Lemon, zest and juice\u003Cbr\u003E\n1 Egg\u003Cbr\u003E\n3 Tablespoon Brandy\u003Cbr\u003E\n3 Tablespoon Milk\u003Cbr\u003E\n\u003Cbr\u003E\nGrease a 2 pint pudding basin. Mix the ingredients with sufficient of the liquids to make a soft dropping consistency. Pour into the prepared basin, and steam for 1 \u00BD - 2 hours. Serve with a wine sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Canterbury Pudding",
+  "usedSnapshot": "20220527070503"
+}

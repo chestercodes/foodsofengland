@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922082457",
+  "finalPath": "sagoo-gruel.html",
+  "heading": "Sagoo Gruel",
+  "ingredients": [
+    "cinnamon",
+    "lemon",
+    "orange"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sagoo-gruel.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E295. To make SAGOO GRUEL.\u003C/b\u003E\u003Cbr\u003E\nTake four ounces of sagoo and wash it, set it over a slow fire to cree, in two quarts of spring water, let it boil whilst it be thickish and soft, put in a blade or two of mace, and a stick of cinnamon, let it boil in a while, and then put in a little more water; take it off, put to it a pint of claret wine, and a little candid orange; shift them, then put in the juice of a lemon, and sweeten it to your taste; so serve them up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Sagoo Gruel",
+  "usedSnapshot": "20200116035349"
+}

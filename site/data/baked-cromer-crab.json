@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616082631",
+  "finalPath": "baked-cromer-crab.html",
+  "heading": "Baked Cromer Crab",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cromer Crab",
+      "relatedPageUrl": "cromer-crab.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Baked Cromer Crab",
+  "usedSnapshot": "20211130233022"
+}

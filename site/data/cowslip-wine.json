@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922074600",
+  "finalPath": "cowslip-wine.html",
+  "heading": "Cowslip Wine",
+  "ingredients": [
+    "beat",
+    "cowslip",
+    "sugar",
+    "toast",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cowslip-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn (\u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECowslip-Wine.\u003C/b\u003E To every Gallon of Water put two Pounds of sugar; boil it an Hour, and set it to cool: Then spread a good brown Toast on both sides with Yeast: But before you make use of it, beat some syrup of Citron with it, an Ounce and half of syrup to each Gallon of Liquor: Then put in the Toast whilst hot, to assist its Fermentation, which will cease in two Days; during which time cast in the Cowslip-Flowers (a little bruised, but not much stamp\u0027d) to the Quantity of half a Bushel to ten Gallons (or rather three Pecks) four Limons slic\u0027d, with the Rinds and all. Lastly, one Pottle of White or Rhenish Wine; and then after two Days, tun it up in a sweet Cask. some leave out all the syrup.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Cowslip Wine",
+  "usedSnapshot": "20220706161309"
+}

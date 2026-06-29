@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922073141",
+  "finalPath": "marrow-tarts.html",
+  "heading": "Marrow Tarts",
+  "ingredients": [
+    "cinnamon",
+    "cream",
+    "eggs",
+    "lemon",
+    "orange",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marrow-tarts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E171. To make MARROW TARTS.\u003C/b\u003E\u003Cbr\u003E\nTo a quart of cream put the yolks of twelve eggs, half a pound of sugar, some beaten mace and cinnamon, a little salt and some sack, set it on the fire with half a pound of biskets, as much marrow, a little orange-peel and lemon-peel; stir it on the fire till it becomes thick, and when it is cold put it into a dish with puff-paste, then bake it gently in a slow oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBone Marrow\u003C/b\u003E",
+      "relatedPageUrl": "marrow-bones.html",
+      "relationDescription": "For other marrow dishes, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Marrow Tarts",
+  "usedSnapshot": "20211021013836"
+}

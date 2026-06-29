@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20130809001625",
+  "finalPath": "champ.html",
+  "heading": "Champ",
+  "ingredients": [
+    "onions",
+    "potatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "champ.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPotatoes mashed with Onions.\u003C/b\u003E\u003Cbr\u003E\nPrepare some boiled onions, by putting them through a sieve, and mix them with potatoes. In proportioning the onions to the potatoes, you will be guided by your wish to have more or less of their flavour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Champ",
+  "usedSnapshot": "20220918074701"
+}

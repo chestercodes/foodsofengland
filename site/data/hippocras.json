@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922100847",
+  "finalPath": "hippocras.html",
+  "heading": "Hippocras",
+  "ingredients": [
+    "ginger",
+    "pepper",
+    "sugar",
+    "cinnamon",
+    "rosemary"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "hippocras.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookr\u00FEe. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Ipocras.\u003C/b\u003E\u003Cbr\u003E\nTake a gallon of Wine, and an ounce of Sinamon, two ounces of Ginger, and a pound of Sugar, twenty cloves brused, and twenty corns of pepper groce beaten, and let all those soke one night, and let it run through a bag.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hippocras.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Ipocras.\u003C/b\u003E\u003Cbr\u003E\nTAKE of chosen Sinamon two ounces, of fine Ginger one ounce, of Graines halfe an ounce of Nutmegs halfe an ounce, bruise them al, and stampe them in three or foure pintes of good odifferous wine, with a pound of Sugar, by the space of four and twentie houres: then put them into an Jpocras bag of woolen, and so recieve the liquor. The readiest and best way is to put the spices with the pound of Sugar, \u0026 the wine into a bottell, or a stone pot stopped close, and after xxiiii houres it wil be ready, then cast a thin linnen cloth, and letting so much run through as \u00FEe will occupie at once, and keep the vessell close, for it will so well keep both the spirite, odour, and vertue of the wine and also spices.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hippocras.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Queens Delight in The Art of Preserving, Conserving and Candying\u003C/i\u003E\u0027, by WM, 1671 (\u003Ca href=\u0022references.html#wm-1671\u0022\u003E\u003Cb\u003EWM 1671\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHypocras taught by Dr. Twine for Wind in the Stomach.\u003C/b\u003E Take Pepper, Grains, Ginger, of each half an ounce, Cinnamon, Cloves, Nutmegs, Mace, of each one ounce grosly beaten, Rosemary, Agrimony, both shred of each a few crops, red Rose leaves a pretty quantity, as an indifferent gripe, a pound of Sugar beaten; lay these to steep in a gallon of good Rhenish or white-Wine in a close vessel, stirring it two or three times a day the space of three or four da\u00FEes together, then strain it through an Hypocras strainer, and drink a draught of it before meat half an hour, and sometimes after to help digestion.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Made-Wine",
+      "relatedPageUrl": "made-wine.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EYpocras, Ipocras\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1671"
+    }
+  ],
+  "title": "Hippocras",
+  "usedSnapshot": "20220810045341"
+}

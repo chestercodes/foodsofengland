@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20191109101511",
+  "finalPath": "saffron-dinger.html",
+  "heading": "Saffron Dinger",
+  "ingredients": [
+    "caraway seeds",
+    "castor sugar",
+    "egg",
+    "milk",
+    "saffron",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "saffron-dinger.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E24. - Saffron Buns.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the same mixture as for teacakes, add 1 oz. of caraway seeds, and colour it with saffron. Mould them round, and put them on the tins so as not to touch. When they are near proof, wash the tops with egg and milk, and dust them with castor sugar. Put them in the oven to finish proving, and bake them in a moderately hot oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "saffron"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Saffron Dinger",
+  "usedSnapshot": "20200112050916"
+}

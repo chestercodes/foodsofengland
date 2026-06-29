@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073453",
+  "finalPath": "celery-and-stilton-soup.html",
+  "heading": "Celery and Stilton Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Celery and Stilton Soup",
+  "usedSnapshot": "20211020234844"
+}

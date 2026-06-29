@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140508115725",
+  "finalPath": "german-biscuits.html",
+  "heading": "German Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EEmpire Biscuits\u003C/b\u003E",
+      "relatedPageUrl": "empire-biscuits.html",
+      "relationDescription": "See; "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "German Biscuits",
+  "usedSnapshot": "20220527215403"
+}

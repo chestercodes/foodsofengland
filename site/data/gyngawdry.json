@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140616082209",
+  "finalPath": "gyngawdry.html",
+  "heading": "Gyngawdry",
+  "ingredients": [
+    "bladder",
+    "bread",
+    "haddok",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gyngawdry.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGYNGAWDRY\u003C/b\u003E\u003Cbr\u003E\nTake the powche [swim bladder?] and the lyver of haddok, codlyng and hake and of oother fisshe, parboil them, take them and dice them small, take of the self broth and wine, a layour of bread of \u003Ca href=\u0022galantine.html\u0022\u003E\u003Cb\u003Egalyntyne\u003C/b\u003E\u003C/a\u003E with good powders and salt, cast that fysshe therein and boile it. \u0026 do thereto amydoun \u0026 colour it grene.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Gyngawdry",
+  "usedSnapshot": "20211018081114"
+}

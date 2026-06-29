@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922074912",
+  "finalPath": "parsnip-cakes.html",
+  "heading": "Parsnip Cakes",
+  "ingredients": [
+    "beat",
+    "cream",
+    "flour",
+    "parsnip",
+    "sugar",
+    "baking powder",
+    "egg",
+    "fat",
+    "milk",
+    "parsley",
+    "parsnips",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "parsnip-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Scrape some Parsnip-Roots, and slice them thin, dry them in an Oven and beat them to Powder; mix them then with an equal quantity of Flour, and make them up with Cream and Spices powder\u0027d; then mould them into Cakes, and bake them in a gentle Oven. NB: The sweetness of the Parsnip Powder answers the want of Sugar.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "parsnip-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 29 March 1941",
+      "receiptText": "\u003Cb\u003EPARSNIP CAKES.\u003C/b\u003E Scrape the outer skins of two or three large parmps, cut them into strips, and cook until tender in slightly salted water. Drain, mash, then make smooth batter with a cupful flour, a teaspoonful baking powder, a beaten egg. and threequarters cupful milk. Stir the parsnips, and add pepper and salt. Drop the batter a tablespoonful at time into hot fat in a frying pan. Fry until goldenbrown. and serve sprinkled with parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Parsnip Cakes",
+  "usedSnapshot": "20211129113951"
+}

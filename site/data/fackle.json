@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20121024084711",
+  "finalPath": "fackle.html",
+  "heading": "Fackle",
+  "ingredients": [
+    "cabbage",
+    "flour",
+    "mutton",
+    "pepper",
+    "plain flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fackle.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Fackle\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EFackle\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n2lbs scragg end of mutton\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n4lbs firm white cabbage\u003Cbr\u003E\n4 tablespoons plain flour\u003Cbr\u003E\n1 pint water\u003Cbr\u003E\n\u003Cbr\u003E\nCut the meat into through the bone into thin chops, each with the bone in place. Cut the cabbage into big pieces, removing the stalks. Layer the meat and cabbage in a pan, sprinkling flour and seasoning between each layer. Add water and boil for at least 1 hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Fackle",
+  "usedSnapshot": "20210512123434"
+}

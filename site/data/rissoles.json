@@ -1,0 +1,85 @@
+﻿{
+  "earliestSnapshot": "20130323200030",
+  "finalPath": "rissoles.html",
+  "heading": "Rissoles",
+  "ingredients": [
+    "anchovies",
+    "breadcrumbs",
+    "cayenne",
+    "egg",
+    "ham",
+    "lard",
+    "parsley",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rissoles.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "RISSOLES.\u003Cbr\u003E\nCut into small slips breast of fowl, lean ham/ pickle cucumbers, and anchovies; add to them consume [sic], cayenne pepper, breadcrumbs, and raw yolks of egg. Simmer them over a fire for five minutes, and be careful not to let the mixture burn. Then put the mixture on a plate, and when cold, cut into pieces, and dip them in yolk of raw egg, afterwards in fine breadcrumbs, and mould them with the hands into what form you please. Have ready boiling lard, fry them of a nice colour, drain them dry, and serve them up with \u003Ca href=\u0022fried-parsley.html\u0022\u003E\u003Cb\u003Efried parsley\u003C/b\u003E\u003C/a\u003E under.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Beef Rissoles",
+      "relatedPageUrl": "beef-rissoles.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Boiled Fish Cakes",
+      "relatedPageUrl": "boiled-fish-cakes.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Consomm\u00E9 Princess Alice",
+      "relatedPageUrl": "consomm%C3%A9princessalice.htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "English Potato Balls",
+      "relatedPageUrl": "english-potato-balls.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Macaroni Rissoles",
+      "relatedPageUrl": "macaroni-rissoles.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Potato Rissoles",
+      "relatedPageUrl": "potato-rissoles.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rissoles",
+      "relatedPageUrl": "rissoles.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Rissoles",
+  "usedSnapshot": "20220715112601"
+}

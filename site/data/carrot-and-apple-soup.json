@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808221350",
+  "finalPath": "carrot-and-apple-soup.html",
+  "heading": "Carrot and Apple Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Carrot and Apple Soup",
+  "usedSnapshot": "20220808005330"
+}

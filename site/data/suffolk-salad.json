@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922092648",
+  "finalPath": "suffolk-salad.html",
+  "heading": "Suffolk Salad",
+  "ingredients": [
+    "chicken",
+    "eggs",
+    "ham",
+    "lettuces",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-salad.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESUFFOLK SALAD.\u003C/b\u003E\u003Cbr\u003E\nFill a salad-bowl from half to three parts full with very tender lettuces shred small, minced lean of ham, and hard-boiled eggs, or their yolks only also minced, placed in alternate layers; dress the mixture with \u003Ca href=\u0022salad-cream.html\u0022\u003E\u003Cb\u003EEnglish salad sauce\u003C/b\u003E\u003C/a\u003E, but do not pour it into the bowl until the instant of serving. A portion of cold chicken (or veal), cut in thin slices about the size of a shilling, may be added when convenient; the ham and eggs also may be sliced instead of being minced, and the whole neatly arranged in a chain or otherwise round the inside of the bowl.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Suffolk Salad",
+  "usedSnapshot": "20211021022922"
+}

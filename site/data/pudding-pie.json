@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20140212025324",
+  "finalPath": "pudding-pie.html",
+  "heading": "Pudding Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "currants",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "pastry",
+    "pudding",
+    "rice",
+    "salt",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pudding-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Pudding%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPudding Pies\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 1\u00BD oz. ground rice, \u00BE pint milk, 1\u00BD oz. butter, 2 oz. sugar, 3 eggs, pinch of salt, grated nutmeg, 3 oz. currants, 8 oz. shortcrust pastry\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 400\u00BAF or Mark 6. In a saucepan, boil the ground rice in the milk for 15 minutes. Remove from the heat and stir in the butter and the sugar. Beat the eggs well and add them to the rice mixture together with the salt and nutmeg. Beat well and leave to cool, but not set. Roll out the pastry on a lightly floured surface and use it to line 8 small, greased 6 oz. pudding basins. Fill each basin \u00BE-full with the rice mixture and sprinkle with currants on top. Bake for 15 minutes.\u003Cbr\u003E\nServes about 6.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheese Cake or Curd Tart",
+      "relatedPageUrl": "cheese-cake-or-curd-tart.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "East Riding Pudding",
+      "relatedPageUrl": "east-riding-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Folkestone Pudding Pie",
+      "relatedPageUrl": "folkestone-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ground Rice Pudding Pie",
+      "relatedPageUrl": "ground-rice-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Lent Tart or Kentish Pudding Pie",
+      "relatedPageUrl": "lent-tart-or-kentish-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECarrot Pudding Pie\u003C/b\u003E",
+      "relatedPageUrl": "carrot-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDeddington Pudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "deddington-pudden-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EPudding-Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pudding Pie",
+  "usedSnapshot": "20210518210959"
+}

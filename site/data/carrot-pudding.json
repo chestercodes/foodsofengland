@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150922082755",
+  "finalPath": "carrot-pudding.html",
+  "heading": "Carrot Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "carrot",
+    "cream",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "carrot-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn (\u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E26. Pudding of Carrot.\u003C/b\u003E Pare off some of the Crust of Manchet-Bread, and grate of half as much of the rest as there is of the Root, which must also be grated: Then take half a Pint of fresh Cream or New Milk, half a Pound of fresh Butter, six new laid Eggs (taking out three of the Whites) mash and mingle them well with the Cream and Butter: Then put in the grated Bread and Carrot, with near half a Pound of sugar; and a little salt; some grated Nutmeg and beaten spice; and pour all into a convenient Dish or Pan, butter\u0027d, to keep the Ingredients from sticking and burning; set it in a quick Oven for about an Hour, and so have you a Composition for any Root-Pudding.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESweet Carrot Pudding\u003C/b\u003E",
+      "relatedPageUrl": "sweet-carrot-pudding.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECarrot Pudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "carrot-pudding-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Carrot"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Carrot Pudding",
+  "usedSnapshot": "20220516213158"
+}

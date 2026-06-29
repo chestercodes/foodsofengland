@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922090913",
+  "finalPath": "walnut-cakes.html",
+  "heading": "Walnut Cakes",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "nuts",
+    "sugar",
+    "tartar",
+    "walnut",
+    "walnuts",
+    "baking powder",
+    "beat",
+    "cream",
+    "vanilla"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "walnut-cakes.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ENorthampton Mercury\u003C/i\u003E\u0027 - Saturday 14 January 1888",
+      "receiptText": "Walnut Cake.-One cup of sugar, nearly one half cup of butter, one and half cups of flour, one-half cup of cold water, two eggs, one teaspoon of tartar, one-half teaspoon of soda, add one-half pound walnuts. Cut the nuts in fine pieces, frost the cake and put whole nuts on top\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "walnut-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E882. WALNUT CAKE (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSix whites, six yolks of eggs, six ounces of flour, half a pound of sugar, half a pound of butter, half a teaspoonful of baking powder, one pound of walnuts, three drops of vanilla. Chop walnuts very finely (there should be six ounces when shelled), beat butter and sugar to a cream, add yolks one by one, whisk whites very firmly, add walnuts to the whites, add flour and whites alternately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Walnut Cakes",
+  "usedSnapshot": "20211019182626"
+}

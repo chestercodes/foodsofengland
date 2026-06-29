@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130323203600",
+  "finalPath": "london-veal-goose.html",
+  "heading": "London Veal Goose",
+  "ingredients": [
+    "apple",
+    "goose",
+    "gravy",
+    "onions",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "london-veal-goose.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EVeal Goose. (City of London receipt)\u003C/b\u003E\u003Cbr\u003E\n\u0022This is made with the upper part of the flank of a loin of veal (or sometimes that of the fillet) covered with a stuffing of sage and onions, then rolled, and roasted or broiled. It is served with brown gravy and apple sauce, is extremely savoury, and has many admirers.\u0022 We transcribe the exact receipt for this dish, which was procured for us from a house in the city, which is famed for it. We had it tested with the skin of the best end of a fine neck of veal, from which it was pared with something more than an inch depth of the flesh adhering to it. It was roasted one hour, and a answered extremely well. It is a convenient mode of dressing the flank of the veal for eaters who do not object to the somewhat coarse savour of the preparation. When the \u003Ci\u003Etendrons\u003C/i\u003E or gristles of a breast, or part of a breast of veal, are required for a separate dish, the remaining portion of the joint may be dressed in this way after the bones have been taken out; or, without removing them, the stuffing may be inserted under the skin.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "London Veal Goose",
+  "usedSnapshot": "20211020221947"
+}

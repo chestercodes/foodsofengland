@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616091413",
+  "finalPath": "wensleydale-cheese.html",
+  "heading": "Wensleydale Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wensleydale Cheese",
+  "usedSnapshot": "20220815161617"
+}

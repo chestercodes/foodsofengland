@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140508120939",
+  "finalPath": "melting-moments.html",
+  "heading": "Melting Moments",
+  "ingredients": [
+    "beat",
+    "biscuit",
+    "biscuits",
+    "caster sugar",
+    "cherries",
+    "cherry",
+    "cream",
+    "desiccated coconut",
+    "egg",
+    "flour",
+    "lard",
+    "margarine",
+    "oats",
+    "sugar",
+    "vanilla",
+    "walnut",
+    "butter",
+    "castor sugar",
+    "self-raising flour",
+    "tea"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "melting-moments.html-1",
+      "receiptSource": "Original Receipt from \u0027Be-Ro\u0027 flour advertisements, beginning c1930, this one from Be-Ro in 2013",
+      "receiptText": "\u003Cb\u003EMelting Moments\u003C/b\u003E\u003Cbr\u003E\nMakes 30\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\n\u003Cbr\u003E\n65 g (2\u00BD oz) margarine\u003Cbr\u003E\n40 g (1\u00BD oz) lard\u003Cbr\u003E\n75 g (3 oz) caster sugar\u003Cbr\u003E\n\u00BD medium egg\u003Cbr\u003E\n1 x 5 ml spoon (1 tsp) vanilla essence\u003Cbr\u003E\n150 g (5 oz) Be-Ro Self Raising Flour\u003Cbr\u003E\noats or desiccated coconut\u003Cbr\u003E\nglac\u00E9 cherries\u003Cbr\u003E\n\u003Cbr\u003E\n1 Heat oven to 180\u00BAC, 350\u00BAF, Gas Mark 4. Grease two baking trays.\u003Cbr\u003E\n2 Cream the margarine, lard and the sugar until very light and fluffy. Beat in the egg and vanilla essence.\u003Cbr\u003E\n3 Stir in the flour and mix well.\u003Cbr\u003E\n4 Roll walnut sized pieces of the mixture into balls and toss in rolled oats or desiccated coconut.\u003Cbr\u003E\n5 Place on baking trays, flatten slightly and place a small piece of cherry on each biscuit. Bake for 10-15 minutes.\u003Cbr\u003E\nN.B. To help shape \u0022ball\u0022 type biscuits, slightly dampen the hands.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "melting-moments.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 11 February 1961",
+      "receiptText": "\u003Cb\u003ESOMETHING NICE FOR TEA\u003C/b\u003E\u003Cbr\u003E\nMiss Bond very kindly sends three scrumptious tea-time recipes. This reader also sends two useful savouries.\u003Cbr\u003E\n\u003Cb\u003EMELTING MOMENTS\u003C/b\u003E Two and a half ounces of lard, one and a half ounces of butter, three ounces of castor sugar, six ounces of self-raising flour, half beaten egg one ounce of rolled oats, vanilla essence. Cream the lard and butter together until fluffy, then beat in the sugar, and a few drops of vanilla essence. Work in beaten egg, and fold in sieved flour. Shape the mixture into balls, and roll in oats. Put on a greased baking tin. and flatten each a little. Bake in a fairly hot oven for 15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Rahul Khubchandani"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Melting Moments",
+  "usedSnapshot": "20210510055540"
+}

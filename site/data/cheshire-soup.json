@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922082340",
+  "finalPath": "cheshire-soup.html",
+  "heading": "Cheshire Soup",
+  "ingredients": [
+    "carrots",
+    "cheese",
+    "chicken",
+    "chicken stock",
+    "leeks",
+    "oatmeal",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheshire-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cheshire%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECheshire Cheese Soup\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 pint vegetable or chicken stock\u003Cbr\u003E\n10oz potatoes, washed, peeled and diced\u003Cbr\u003E\n2 leeks, wash and sliced, use the white and green parts\u003Cbr\u003E\n2 carrots, peeled and grated\u003Cbr\u003E\n2 tbsp fine oatmeal\u003Cbr\u003E\n2 oz Cheshire cheese, grated\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the stock, vegetables, salt and pepper and bring to the boil. Simmer for 15 minutes. Add the oatmeal and simmer for a further 10 minutes. Just before serving stir in half the cheese. Ladle into four bowls and sprinkle the remaining cheese on top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cheshire Soup",
+  "usedSnapshot": "20200808120308"
+}

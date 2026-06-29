@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922074229",
+  "finalPath": "stilton-soup.html",
+  "heading": "Stilton Soup",
+  "ingredients": [
+    "broccoli",
+    "butter",
+    "cauliflower",
+    "cheese",
+    "cream",
+    "onion"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stilton-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Stilton%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 oz butter\u003Cbr\u003E\n1 onion, chopped\u003Cbr\u003E\n1 lb broccoli or cauliflower\u003Cbr\u003E\n1 pint stock\u003Cbr\u003E\n8 oz \u003Ca href=\u0022blue-stilton-cheese.html\u0022\u003E\u003Cb\u003Eblue Stilton\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the butter in a large pan and soften the onion for 3 or 4 minutes, add the vegetables and stock and cook until very tender. Crumble in the cheese and stir until melted. Blend to a smooth cream and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stilton Soup",
+  "usedSnapshot": "20211020230029"
+}

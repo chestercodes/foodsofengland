@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922072031",
+  "finalPath": "apple-fritters-2.html",
+  "heading": "Apple Fritters (2)",
+  "ingredients": [
+    "apple",
+    "beat",
+    "bladder",
+    "butter",
+    "eggs",
+    "flour",
+    "lard",
+    "milk",
+    "nutmeg",
+    "salt",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-fritters-2.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E162. To make APPLE FRITTERS.\u003C/b\u003E\u003Cbr\u003E\nTake four eggs and beat them very well, put to them four spoonfuls of fine flour, a little milk, about a quarter of a pound of sugar, a little nutmeg and salt, so beat them very well together; you must not make it very thin, if you do it will not stick to the apple; take a middling apple and pare it, cut out the core, and cut the rest in round slices about the thickness of a shilling; (you may take out the core after you have cut it with your thimble) have ready a little lard in a stew-pan, or any other deep pan; then take your apple every slice single, and dip it into your bladder, let your lard be very hot, so drop them in; you must keep them turning whilst enough, and mind that they be not over brown; as you take them out lay them on a pewter dish before the fire whilst you have done; have a little white wine, butter and sugar for the sauce; grate over them a little loaf sugar, and serve them up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Apple Fritters (2)",
+  "usedSnapshot": "20211019184857"
+}

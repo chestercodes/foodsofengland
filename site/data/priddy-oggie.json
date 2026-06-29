@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20120719202029",
+  "finalPath": "priddy-oggie.html",
+  "heading": "Priddy Oggie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Priddy Oggie",
+  "usedSnapshot": "20200222005419"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922073714",
+  "finalPath": "elderflower-champagne.html",
+  "heading": "Elderflower Champagne",
+  "ingredients": [
+    "champagne",
+    "elderflowers",
+    "lemon",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "elderflower-champagne.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EDerby Daily Telegraph\u003C/i\u003E\u0027 - Saturday 23 June 1934",
+      "receiptText": "\u003Cb\u003EWine Recipes\u003C/b\u003E\u003Cbr\u003E\nSeveral more readers have responded the \u0022SOS\u0022 for a recipe for elderflower wine (the request was almost as urgent as to be called an S O S, I think, for the elder is in full bloom and there is no time to be lost). Mrs. F. M. Holdridge, of Golemanstreet, Harvey-road, Derby, sends a recipe for \u0022Elderflower Champagne,\u0022 which is different and (she claims) easier to make than the one I published from another reader. is: Ingredients: 2 large heads elderflowers in full bloom, gallon of cold water, 1 large lemon, 1 \u00BD lb. of loaf sugar, 2 tablespoons white vinegar. Method: Squeeze tlie juice out of the lemon, cut rind in four, put this with the elderflowers, sugar and vinegar in large jug or basin, pour on the cold water and leave to steep for 24 hours. Strain off and bottle (in screw-top bottles if possible), and keep at least three or four weeks before using. Mrs. L. Jephson, of The Firs, Allestree, and Mrs. Maddocks, of St. Giles\u0027s-road, Derby, have forwarded similar recipes, but each says keep for two weeks (or least two weeks) instead of stipulating three.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Champagne",
+      "relatedPageUrl": "champagne.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Elderflower Champagne",
+  "usedSnapshot": "20220516221922"
+}

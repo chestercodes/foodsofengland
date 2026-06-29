@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922073819",
+  "finalPath": "pickled-eggs.html",
+  "heading": "Pickled Eggs",
+  "ingredients": [
+    "allspice",
+    "eggs",
+    "garlic",
+    "ginger",
+    "pepper",
+    "pickles",
+    "vinegar",
+    "black pepper",
+    "bladder",
+    "jamaica pepper"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-eggs.html-1",
+      "receiptSource": "Original Receipt from the Bucks Herald - Saturday 8 October 1842",
+      "receiptText": "Pickled Eggs -An industrious farmer\u0027s wife, residing at Shipton, near Andover, among a variety of other pickles which she annually introduces into her storeroom, preserves pickled eggs. The process she uses in curing them is very simple. When she has a large stock of eggs on hand she boils some six or seven dozen till they become hard. She then divests them of the shell, and puts them into large jars, pouring upon them scalding vinegar saturated with ginger, garlic, whole pepper and allspice. This pickle is an admirable aid to cold meat, and is in the winter months, regarded as a perfect farm house luxury.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-eggs.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "TO PICKLE EGGS.\u003Cbr\u003E\n407. INGREDIENTS. - 16 eggs, 1 quart of vinegar,\u00BD oz. of Black pepper,\u00BD oz. of Jamaica pepper,\u00BD oz. of ginger.\u003Cbr\u003E\nMode. - Boil the eggs for 12 minutes, then dip them into cold water, and take off the shells. Put the vinegar, with the pepper and ginger, into a stewpan, and let it simmer for 10 minutes. Now place the eggs in a jar, pour over them the vinegar, \u0026amp;c., boiling hot, and, when cold, tie them down with bladder to exclude the air. This pickle will be ready for use in a month.\u003Cbr\u003E\nAverage cost, for this quantity, 1s. 9d.\u003Cbr\u003E\nSeasonable. - This should be made about Easter, as at this time eggs are plentiful and cheap. A store of pickled eggs will be found very useful and ornamental in serving with many first and second course dishes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Pickled Eggs",
+  "usedSnapshot": "20211021023001"
+}

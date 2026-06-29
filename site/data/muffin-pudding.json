@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922100919",
+  "finalPath": "muffin-pudding.html",
+  "heading": "Muffin Pudding",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "cherries",
+    "coriander",
+    "coriander seeds",
+    "eggs",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "muffin-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMUFFIN PUDDING WITH DRIED CHERRIES.\u003C/b\u003E\u003Cbr\u003E\nTo a pint and a half of milk add a few coriander seeds, a bit of lemon peel, sugar to the palate, and boil them together ten minutes. Then put four muffins into a pan, strain the milk over them, and when they are cold, mash them with a wooden spoon; add half a gill of branch, half a pound of dried cherries, a little crated nutmeg, two ounces of Jordan almonds blanched and pounded very fine, and six eggs well beaten. Mix all together and boil in a bason, or bake it in a dish with paste round it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Muffin Pudding",
+  "usedSnapshot": "20211129110435"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082131",
+  "finalPath": "stilton-and-celery-soup.html",
+  "heading": "Stilton and Celery Soup",
+  "ingredients": [
+    "butter",
+    "celery",
+    "cheese",
+    "cream",
+    "onion",
+    "pepper",
+    "potato",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stilton-and-celery-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Stilton%20and%20Celery%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2oz butter\u003Cbr\u003E\n1 large onion, finely chopped\u003Cbr\u003E\n1 medium potato, cubed\u003Cbr\u003E\n1 head of celery, thinly sliced\u003Cbr\u003E\n1 \u00BD pints stock\u003Cbr\u003E\n4oz \u003Ca href=\u0022blue-stilton-cheese.html\u0022\u003E\u003Cb\u003EStilton cheese\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n1/4 pint of single cream\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the butter and gently soften the onion, add potato and celery and cook 5 mins. Add the stock, simmer until the vegetables are tender. Liquidize the soup, season to taste, stir in the cream and half the crumbled cheese. Serve with crumbled cheese sprinkled on top\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Stilton",
+      "relatedPageUrl": "blue-stilton-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stilton and Celery Soup",
+  "usedSnapshot": "20211020230716"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140616082316",
+  "finalPath": "pickled-herrings.html",
+  "heading": "Pickled Herrings",
+  "ingredients": [
+    "herrings",
+    "jamaica pepper",
+    "pepper",
+    "salt",
+    "butter",
+    "nutmeg",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-herrings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "211. \u003Ci\u003ETo pickle\u003C/i\u003E HERRINGS.\u003Cbr\u003E\n\u003Cbr\u003E\nScale and clean your herrings, take out the milts and roans, and skewer them round, season them with a little pepper and salt, put them in a deep pot, cover them with alegar, put to them a little whole Jamaica pepper, and two or three bay leaves; bake them and keep them for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-herrings.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "117. To make a Herring Pie.\u003Cbr\u003E\n\u003Cbr\u003E\nTake four of the best pickled Herrings, and skin them, then split them and bone them, then having your Pie in readiness with Butter in the bottom, then lay your Herrings in halves into your Pie one lay of them, then put in Raisins, Currans and Nutmeg, and a little Sugar, then lay in more Butter, then more Herrings, Fruit and Spice, and more Butter, and so close it, and bake it; your Herrings must be well watered.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Pickled Herrings",
+  "usedSnapshot": "20211130232834"
+}

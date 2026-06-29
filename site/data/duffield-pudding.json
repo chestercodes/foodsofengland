@@ -1,0 +1,84 @@
+﻿{
+  "earliestSnapshot": "20150809132055",
+  "finalPath": "duffield-pudding.html",
+  "heading": "Duffield Pudding",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "milk",
+    "plain flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "duffield-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England%20Website\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Fresh or cooked fruit\u003Cbr\u003E\n4 ox plain flour\u003Cbr\u003E\n1 pint milk\u003Cbr\u003E\n1 oz melted butter\u003Cbr\u003E\n3 eggs, beaten\u003Cbr\u003E\n\u003Cbr\u003E\nSpread fruit in a buttered dish, make a batter of the other ingredients and pour over. Bake at 350F for about 50 minutes. Serve hot with cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Batter and Fruit Pudding",
+      "relatedPageUrl": "batter-and-fruit-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Cherry Batter Pudding",
+      "relatedPageUrl": "cherry-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Derby Batter Pudding",
+      "relatedPageUrl": "derby-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Duffield Pudding",
+      "relatedPageUrl": "duffield-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Kentish Fruit Batter",
+      "relatedPageUrl": "kentish-fruit-batter.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tasty Batter Pudding",
+      "relatedPageUrl": "tasty-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tewkesbury Saucer Batters",
+      "relatedPageUrl": "tewkesbury-saucer-batters.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Duffield Pudding",
+  "usedSnapshot": "20220705122905"
+}

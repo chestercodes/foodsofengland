@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922082101",
+  "finalPath": "shropshire-soup.html",
+  "heading": "Shropshire Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EShropshire Pea Soup\u003C/b\u003E",
+      "relatedPageUrl": "shropshire-pea-soup.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shropshire Soup",
+  "usedSnapshot": "20210518212744"
+}

@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922090003",
+  "finalPath": "anchovy-powder.html",
+  "heading": "Anchovy Powder",
+  "ingredients": [
+    "anchovy",
+    "bread",
+    "butter",
+    "cayenne",
+    "flour",
+    "lemon"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "anchovy-powder.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ANCHOVY POWDER. Pound the fish in a mortar, rub them through a sieve, make them into a paste with dried flour, roll it into thin cakes, and dry them in a Dutch oven before a slow fire. To this may be added a small portion of cayenne, grated lemon peel, and citric acid. Pounded to a fine powder, and put into a well-stopped bottle, it will keep for years. It is a very savoury relish, sprinkled on bread and butter for a sandwich.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Anchovy Butter",
+      "relatedPageUrl": "anchovy-butter.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Anchovy Powder",
+      "relatedPageUrl": "anchovy-powder.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gentleman\u0027s Relish",
+      "relatedPageUrl": "gentleman-s-relish.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Anchovy Powder",
+  "usedSnapshot": "20220716144753"
+}

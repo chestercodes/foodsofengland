@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922082329",
+  "finalPath": "ladies-delight-pickle.html",
+  "heading": "Ladies Delight Pickle",
+  "ingredients": [
+    "chillies",
+    "onions",
+    "salt",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ladies-delight-pickle.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1867\u0022\u003E\u003Cb\u003EFrancatelli 1867\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ELADIES DELIGHT\u003C/b\u003E\u003Cbr\u003E\nPut eight ounces of chopped apples eight ounces of chopped onions and two ounces of chopped chillies into a jar; boil one pint of white wine vinegar with a dessert spoonful of salt, pour it to these ingredients, mix and, when cold, use the pickle to be eaten with cold meats \u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1867"
+    }
+  ],
+  "title": "Ladies Delight Pickle",
+  "usedSnapshot": "20170314022526"
+}

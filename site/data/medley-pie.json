@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140212024805",
+  "finalPath": "medley-pie.html",
+  "heading": "Medley Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Derbyshire Medley Pie",
+      "relatedPageUrl": "medleypie(derbyshireversion).htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Leicestershire Medley Pie",
+      "relatedPageUrl": "medleypie(leicestershireversion).htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Medley Pie (Suffolk Version)",
+      "relatedPageUrl": "Medley_Pie_(Suffolk_Version).htm",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Medley Pie",
+  "usedSnapshot": "20211027030848"
+}

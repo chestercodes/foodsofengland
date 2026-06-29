@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922094414",
+  "finalPath": "chester-steamed-pudding.html",
+  "heading": "Chester Steamed Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "cream",
+    "egg",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "margarine",
+    "milk",
+    "pudding",
+    "sugar",
+    "biscuit",
+    "lemon",
+    "salt",
+    "treacle"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chester-steamed-pudding.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ENewcastle Journal\u003C/i\u003E\u0027 - Monday 11 October 1915",
+      "receiptText": "CHESTER PUDDING.\u003Cbr\u003E\nIngredients: Three-quarters of a pound of butter or any substitute, such as margarine, one egg, three ounces of caster sugar, half pound of flour, three-quarters of a teacupful of golden syrup, a teaspoon of new ground ginger, a spoonful of baking-powder, and a little milk.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod: Beat the butter and sugar to a cream, then beat in the egg, add the syrup, then flour, ginger, and baking-powder, with enough milk to form a soft consistency. After buttering pudding-basin pour the mixture into it, leaving room for the puling to rise. Twist a piece off greased paper over the top, and steam for two hours and a half. Turn out, dust with sugar and serve.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chester-steamed-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitby Gazette\u003C/i\u003E\u0027 - Friday 08 November 1918",
+      "receiptText": "Chester Pudding.\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients.- 1 gill milk, 1 gill water, 2 oz. sago, 1 oz. margarine, 1 oz. sugar, strip of lemon rind, 1 oz. stale cake or biscuit crumbs, 1 dried egg. pinch of salt.\u003Cbr\u003E\nMethod. -Bring the milk and water to the boil, and when boiling stir the sago. which should be soaked overnight. Cook until the sago is clear, then stir in the crumbs. lemon rind, margarine and salt. Beat up the egg. which should have been prepared as directed, and stir into the other ingredients, which should be cool, or the egg will curdle, pour into a greased mould and steam for two hours. Serve hot with fruit syrup or treacle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Chester Steamed Pudding",
+  "usedSnapshot": "20211027031200"
+}

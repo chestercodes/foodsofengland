@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130323200133",
+  "finalPath": "york-ham.html",
+  "heading": "York Ham",
+  "ingredients": [
+    "beat",
+    "egg",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "york-ham.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EHams the Yorkshire way.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nFirst beat them well, and then mix half a peck of salt, three ounces of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esaltpetre\u003C/b\u003E\u003C/a\u003E, half an ounce of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esal-prunella\u003C/b\u003E\u003C/a\u003E, and five pounds of coarse salt. Rub the hams well with this, and lay the remainder on the top. Let them lie three days, and then hang them up. Put as much water to the pickle as will cover the hams, adding salt till it will bear an egg, and then boil and strain it. Next morning put in the hams, and press them down so that they may be covered. Let them lie a fortnight, rub them well with bran, and dry them. The above ingredients are sufficient for three middling sized hams.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "York Ham",
+  "usedSnapshot": "20211205164849"
+}

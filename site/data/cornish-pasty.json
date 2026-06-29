@@ -1,0 +1,162 @@
+﻿{
+  "earliestSnapshot": "20140212020529",
+  "finalPath": "cornish-pasty.html",
+  "heading": "Cornish Pasty",
+  "ingredients": [
+    "allspice",
+    "mutton",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cornish-pasty.html-1",
+      "receiptSource": "Original Receipt from a letter from Jane Barriball, Launceston, to John Tremayne, Heligan, St Ewe, dated 9th April 1746 (Item T1363-17 part 1, Cornwall Record Office, reproduced from \u003Ca href=\u0022http://www.cornishpasties.org.uk\u0022\u003E\u003Cb\u003Ewww.cornishpasties.org.uk\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Honed Sr [Honoured Sir]\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;I have sent the receipt according to my promise wch [which] is under written from Launn 9th April 1746. Sr Yor most hble Servt, Jane Barriball\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;[Launceston ......... Sir Your most humble Servant]\u003Cbr\u003E\n\u003Cbr\u003E\nA Leg or Jigget of Mutton (the Bones being taken out) is to be rubbed over with ........ Cochineal, then spiced with Mace, Cloves \u0026 Allspice, of each an equal quantity, with Salt \u0026 a little Pepper. To which put in a pint of Clarret or Port in baking. The Crust as usual\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Beef Joint Pasty",
+      "relatedPageUrl": "beef-joint-pasty.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Beef Wellington",
+      "relatedPageUrl": "beef-wellington.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Cheese and Onion Pasties",
+      "relatedPageUrl": "cheese-and-onion-pasties.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Churdle",
+      "relatedPageUrl": "churdle.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Durryde",
+      "relatedPageUrl": "durryde.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Foots",
+      "relatedPageUrl": "foots.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Fruit Turnover",
+      "relatedPageUrl": "fruit-turnover.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Ling Pie",
+      "relatedPageUrl": "ling-pie.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Nesebek",
+      "relatedPageUrl": "nesebek.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Oggy, Oggies",
+      "relatedPageUrl": "oggy,oggies.htm",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Peasecods",
+      "relatedPageUrl": "peasecods.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Potato Table Pasty",
+      "relatedPageUrl": "potato-table-pasty.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Priddy Oggie",
+      "relatedPageUrl": "priddy-oggie.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Rag Pudding",
+      "relatedPageUrl": "rag-pudding.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Shepherd\u0027s Pie",
+      "relatedPageUrl": "shepherd-s-pie.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Shropshire Mint Cake",
+      "relatedPageUrl": "shropshire-mint-cake.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Stuckling",
+      "relatedPageUrl": "stuckling.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Thatched House Pie",
+      "relatedPageUrl": "thatched-house-pie.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Venison Pasty",
+      "relatedPageUrl": "venison-pasty.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Wessex Pasties",
+      "relatedPageUrl": "wessex-pasties.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Westhoughton Pasties",
+      "relatedPageUrl": "westhoughton-pasties.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Westmorland Currant Pasty",
+      "relatedPageUrl": "westmorland-currant-pasty.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Yorkshire Mint Pasty",
+      "relatedPageUrl": "yorkshire-mint-pasty.html",
+      "relationDescription": "For other types of pasty, see:"
+    },
+    {
+      "relatedPageText": "Polperro Pasty",
+      "relatedPageUrl": "polperro-pasty.html",
+      "relationDescription": "For other types of pasty, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cornish Pasty",
+  "usedSnapshot": "20211027025418"
+}

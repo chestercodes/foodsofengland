@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616080832",
+  "finalPath": "ilchester-applewood.html",
+  "heading": "Ilchester Applewood",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Ilchester Applewood",
+  "usedSnapshot": "20211129114602"
+}

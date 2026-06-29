@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074704",
+  "finalPath": "birch-wine.html",
+  "heading": "Birch Wine",
+  "ingredients": [
+    "brandy",
+    "eggs",
+    "raisins",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "birch-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E305. To make BIRCH WINE.\u003C/b\u003E\u003Cbr\u003E\nTake your birch water and boil it, clear it with whites of eggs; to every gallon of water take two pounds and a half of fine sugar, boil it three quarters of an hour, and when it is almost cold, put in a little yeast, work it two or three days, then put it into the barrel, and to every five gallons put in a quart of brandy, and half a pound of ston\u0027d raisins; before you put up your wine burn a brimstone match in the barrel.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Made-Wine",
+      "relatedPageUrl": "made-wine.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Birch Wine",
+  "usedSnapshot": "20211027031412"
+}

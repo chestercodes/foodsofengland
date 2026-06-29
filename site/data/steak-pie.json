@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212024901",
+  "finalPath": "steak-pie.html",
+  "heading": "Steak Pie",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "herbs",
+    "nutmeg",
+    "onion",
+    "pepper",
+    "salt",
+    "steak",
+    "steaks"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "steak-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Steak Pye the best way.\u003C/b\u003E\u003Cbr\u003E\nCut a neck, loyn, or breast into steaks, and season them with pepper, nutmeg, and salt; then have some few sweet herbs minced small with an onion, and the yolks of three or four hard eggs minced also; the pye being made, put in the meat and a few capers, and strow these ingredients on it, then put in butter, close it up and bake it three hours moderately, \u0026amp;c. Make the pye round and pretty deep.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Steak Pie",
+  "usedSnapshot": "20220527052442"
+}

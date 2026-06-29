@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922092721",
+  "finalPath": "gooseberry-champagne.html",
+  "heading": "Gooseberry Champagne",
+  "ingredients": [
+    "champagne",
+    "gooseberries",
+    "sugar",
+    "brandy"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-champagne.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EGooseberry Wine\u003C/b\u003E\u003Cbr\u003E\nTake thirty two quarts of unripe gooseberries of the green kind, bruise them well add thirty two quarts of cold water, let them stand for four and twenty hours. Drain the gooseberries well from the liquor through a sieve. Put three pounds and a half of lump sugar to every gallon of liquor, put it into a cask with a bottle of the best gin. Let it stand six months and then bottle it.\u003Cbr\u003E\n\u003Ci\u003EObs\u003C/i\u003E This is a receipt from a nobleman\u0027s butler who used to boast that he never opened more than one bottle of Champagne at his master\u0027s table, all that followed being of his own manufacture. The directions are not quite so precise as those in the foregoing but the cheapness of gin will admit of a bottle being allowed to each ten gallons.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-champagne.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ENGLISH CHAMPAIGNE. Take gooseberries before they are ripe, crush them with a mallet in a wooden bowl; and to every gallon of fruit, put a gallon of water. Let it stand two days, stirring it well. Squeeze the mixture with the hands through a hop sieve, then measure the liquor, and to every gallon put three pounds and a half of loaf sugar. Mix it well in the tub, and let it stand one day. Put a bottle of the best brandy into the cask, which leave open five or six weeks, taking off the scum as it rises. Then stop it up, and let it stand one year in the barrel before it is bottled.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChampagne\u003C/b\u003E",
+      "relatedPageUrl": "champagne.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EElderflower Champagne\u003C/b\u003E",
+      "relatedPageUrl": "elderflower-champagne.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Gooseberry Champagne",
+  "usedSnapshot": "20211027025824"
+}

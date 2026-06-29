@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922073157",
+  "finalPath": "flower-salads.html",
+  "heading": "Flower Salads",
+  "ingredients": [
+    "cowslip",
+    "mint",
+    "orange",
+    "rosemary",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "flower-salads.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003E(Evelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "27. Flowers, Flores; chiefly of the Aromatick Esculents and Plants are preferrable, as generally endow\u0027d with the Vertues of their Simples, in a more intense degree; and may therefore be eaten alone in their proper Vehicles, or Composition with other Salleting, sprinkl\u0027d among them; But give a more palatable Relish, being Infus\u0027d in Vinegar; Especially those of the Clove-Gillyflower, Elder, Orange, Cowslip, Rosemary, Arch-Angel, Sage, Nasturtium Indicum, \u0026amp;c. Some of them are Pickl\u0027d, and divers of them make also very pleasant and wholsome Theas, as do likewise the Wild Time, Bugloss, Mint, \u0026amp;c.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Flower Salads",
+  "usedSnapshot": "20220216185018"
+}

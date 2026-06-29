@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922133109",
+  "finalPath": "fidgety-pie-derbyshire-version.html",
+  "heading": "Fidgety Pie - Derbyshire Version",
+  "ingredients": [
+    "apple",
+    "bacon",
+    "fat",
+    "onions",
+    "pastry",
+    "pepper",
+    "potatoes",
+    "salt",
+    "shortcrust pastry",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fidgety-pie-derbyshire-version.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.peakdistrictonline.co.uk\u0022\u003E\u003Cb\u003EPeak District Online\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EFidgety Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis pie is said to originate from the south of Derbyshire and is best made in September or October when the apples and onions are fresh\u003Cbr\u003E\n\u003Cbr\u003E\n500g (1lb) chopped fat bacon which has been gently fried until just brown\u003Cbr\u003E\n1 apple \u2013 a Bramley if possible\u003Cbr\u003E\n2 onions\u003Cbr\u003E\n3 medium potatoes\u003Cbr\u003E\n25g (1oz) sultanas\u003Cbr\u003E\nsage, salt and pepper\u003Cbr\u003E\nshortcrust pastry\u003Cbr\u003E\nstock\u003Cbr\u003E\n\u003Cbr\u003E\nPeel and slice the onions, apples and potatoes. Line a pie dish with the pastry and put half of the sliced potatoes in the bottom, cover with a layer of onions and a layer of apples. Shake in a teaspoonful of sage, a pinch of salt and a little pepper. Half fill the dish with stock, place the fat bacon on the top with the sultanas and cover with a layer of potatoes. Put a pie crust on the top and bake in a moderate oven for about 1\u00BD hours until the pastry is golden brown and the potatoes are soft.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fidget Pie - Cheshire version",
+      "relatedPageUrl": "fidget-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fidget Pie - Huntingdon version",
+      "relatedPageUrl": "fidget-pie-huntingdon-version.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fidget Pie - Shropshire version",
+      "relatedPageUrl": "fidget-pie-shropshire-version.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fidgety Pie - Derbyshire Version",
+      "relatedPageUrl": "fidgety-pie-derbyshire-version.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fidgety Pie - Derbyshire Version",
+  "usedSnapshot": "20220808020749"
+}

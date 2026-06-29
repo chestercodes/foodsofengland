@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922072837",
+  "finalPath": "thyme-jelly.html",
+  "heading": "Thyme Jelly",
+  "ingredients": [
+    "apple",
+    "jelly",
+    "malt vinegar",
+    "parsley",
+    "sugar",
+    "thyme",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "thyme-jelly.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Thyme%20Jelly\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients\u003Cbr\u003E\n5lbs Cooking apples\u003Cbr\u003E\n2 pints Water\u003Cbr\u003E\n3 Large sprigs Fresh thyme\u003Cbr\u003E\n6-8 Tablespoon Chopped fresh thyme\u003Cbr\u003E\n2 pints Distilled malt vinegar\u003Cbr\u003E\nSugar\u003Cbr\u003E\nFew drops Green food colouring\u003Cbr\u003E\n\u003Cbr\u003E\nRemove any bruised or damaged portions from the apples and roughly chop them into thick chunks without peeling or coring. Put them in a preserving pan with the water and the parsley sprigs. Bring to the boil, then simmer gently for 45 minutes, until the fruit is soft and pulpy. Stir from the time to time to prevent sticking. Add the vinegar and boil for a further 5 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nSpoon the apple pulp into a jelly bag or cloth attached to the legs of an upturned stool, and leave to strain into a large bowl for at least 12 hours. Do not squeeze.\u003Cbr\u003E\n\u003Cbr\u003E\nDiscard the pulp remaining in the jelly bag. Measure the extract and return it to the pan with 450g (1 lb) sugar for each 600 ml (1 pint) extract.\u003Cbr\u003E\n\u003Cbr\u003E\nHeat gently, stirring, until the sugar has dissolved, then boil rapidly for about 10 minutes. Test for a set and, when the setting point is reached, remove the pan from the heat. Skim the surface with a slotted spoon\u003Cbr\u003E\n\u003Cbr\u003E\nStir in the chopped thyme and add a few drops of green food colouring. Allow to cool slightly, then stir well to distribute the thyme. Pot and cover the jelly.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Thyme Jelly",
+  "usedSnapshot": "20211021013144"
+}

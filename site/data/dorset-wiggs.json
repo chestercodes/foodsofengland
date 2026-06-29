@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922083741",
+  "finalPath": "dorset-wiggs.html",
+  "heading": "Dorset Wiggs",
+  "ingredients": [
+    "bread",
+    "butter",
+    "caraway seeds",
+    "caster sugar",
+    "egg",
+    "flour",
+    "milk",
+    "nutmeg",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dorset-wiggs.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Dorset%20Wiggs\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDorset Wiggs Recipe\u003C/b\u003E\u003Cbr\u003E\n1 lb strong white bread flour\u003Cbr\u003E\nyeast\u003Cbr\u003E\n\u00BD pint warm milk\u003Cbr\u003E\n2 oz sugar\u003Cbr\u003E\npinch each of ground cloves, mace, nutmeg\u003Cbr\u003E\n1 teaspoon caraway seeds\u003Cbr\u003E\n2 oz butter, softened\u003Cbr\u003E\n2 oz caster sugar\u003Cbr\u003E\n1 medium egg\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nMake ingredients into a bread dough, shaped into 6 large, flat buns. Bake for about 25 minutes until golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dorset Wiggs",
+  "usedSnapshot": "20220705101941"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140212033617",
+  "finalPath": "spiced-curd-tarts.html",
+  "heading": "Spiced Curd Tarts",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "cheese",
+    "cinnamon",
+    "egg",
+    "flour",
+    "lemon",
+    "milk",
+    "pastry",
+    "raisins",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spiced-curd-tarts.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Spiced%20Curd%20Tarts\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESpiced Curd Tarts\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n12 oz shortcrust pastry\u003Cbr\u003E\n\u003Cbr\u003E\nFILLING\u003Cbr\u003E\n2 oz butter\u003Cbr\u003E\n2oz caster sugar\u003Cbr\u003E\n1 medium egg\u003Cbr\u003E\n1 oz self raising flour\u003Cbr\u003E\n\u00BD tsp ground cinnamon\u003Cbr\u003E\n\u00BD tsp ground mixed spice\u003Cbr\u003E\nGrated rind half a lemon\u003Cbr\u003E\n8 oz curd cheese\u003Cbr\u003E\n3 oz seedless raisins\u003Cbr\u003E\n3 tablespoons milk\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350F or Mark 4. Roll out pastry to approx 1/8 inch thick on a floured surface, cut into rounds with a large cutter and use to line 16 to 18 holes in bun trays. In a large bowl beat together the butter and sugar until pale and fluffy. Gradually mix in the egg and flour and then all the other ingredients. Divide mixture evenly between the pastry cases and bake for approx 30 minutes until filling is golden in colour and set. Cool on a wire rack.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheese Cake or Curd Tart",
+      "relatedPageUrl": "cheese-cake-or-curd-tart.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Spiced Curd Tarts",
+  "usedSnapshot": "20200127034908"
+}

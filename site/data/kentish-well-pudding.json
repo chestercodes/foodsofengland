@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140312055100",
+  "finalPath": "kentish-well-pudding.html",
+  "heading": "Kentish Well Pudding",
+  "ingredients": [
+    "apple",
+    "beef",
+    "butter",
+    "currants",
+    "flour",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kentish-well-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA KENTISH WELL PUDDING.\u003C/b\u003E\u003Cbr\u003E\nMake into a firm smooth paste, with cold water, one pound of flour, six ounces of finely-minced beef-suet, three quarters of a pound of currants, and a small pinch of salt, thoroughly mixed together. Form into a ball six ounces of good butter, and enclose it securely in about a third of the paste (rolled to a half inch of thickness), in the same way that an apple-dumpling is made; roll out the remainder of the paste, and place the portion containing the butter in the centre of it, with the part where the edge was drawn together turned downwards: gather the outer crust round it, and after having moistened the edge, close it with great care. Tie the pudding tightly in a well-floured cloth, and boil it for two hours and a half ft must be dished with caution that it may not break, and a small bit must be cut directly from the top, as in a meat pudding.\u003Cbr\u003E\n\u003Cbr\u003E\nThis is a very favourite pudding in some parts of England; the only difficulty in making or in serving it, is to prevent the escape of the butter, which, if properly secured, will be found in a liquid state in the inside, on opening it. Some timid cooks fold it in three coverings of paste, the better to guard against its bursting through; but there is no danger of this if the edges of the crust be well closed. When suet is objected to, seven ounces of butter may be substituted for it. The currants are occasionally omitted.\u003Cbr\u003E\n\u003Cbr\u003E\nFlour, 1 Ib.; suet, 6 oz.; currants, 1 Ib.; salt, small pinch; ball of about 6 oz.: 2\u00BD hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Kentish Well Pudding",
+  "usedSnapshot": "20220516213750"
+}

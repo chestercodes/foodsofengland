@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130322203817",
+  "finalPath": "toast-soldiers.html",
+  "heading": "Toast Soldiers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Toast Soldiers",
+  "usedSnapshot": "20211207110453"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922091621",
+  "finalPath": "hard-dumplings.html",
+  "heading": "Hard Dumplings",
+  "ingredients": [
+    "beef",
+    "butter",
+    "currants",
+    "dumplings",
+    "egg",
+    "flour",
+    "salt",
+    "turkey"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hard-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make hard dumplings.\u003C/b\u003E\u003Cbr\u003E\nMIX flour and water, with a little salt, like a paste, roll them in balls, as big as a turkey\u0027s egg, then roll them in a little flour, have the water boiling, throw them in the water, and half an hour will boil them. They are best boiled with a good piece of beef. You may add, for change, a few currants. Have \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EMelted Butter\u003C/b\u003E\u003C/a\u003E in a cup.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EAnother way to make hard dumplings.\u003C/b\u003E\u003Cbr\u003E\nRUB into your first a good piece of butter, then make it like a crust for a pye; make them up, and boil them as above.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Hard Dumplings",
+  "usedSnapshot": "20220810052705"
+}

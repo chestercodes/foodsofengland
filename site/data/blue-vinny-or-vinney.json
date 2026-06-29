@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616080605",
+  "finalPath": "blue-vinny-or-vinney.html",
+  "heading": "Blue Vinny or Vinney",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Blue Vinny or Vinney",
+  "usedSnapshot": "20211019180135"
+}

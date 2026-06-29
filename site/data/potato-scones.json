@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212031027",
+  "finalPath": "potato-scones.html",
+  "heading": "Potato Scones",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Potato Scones",
+  "usedSnapshot": "20220527071108"
+}

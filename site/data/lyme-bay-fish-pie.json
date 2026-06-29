@@ -1,0 +1,94 @@
+﻿{
+  "earliestSnapshot": "20140616083043",
+  "finalPath": "lyme-bay-fish-pie.html",
+  "heading": "Lyme Bay Fish Pie",
+  "ingredients": [
+    "butter",
+    "fish stock",
+    "flour",
+    "mashed potato",
+    "mushrooms",
+    "onions",
+    "parsley",
+    "pastry",
+    "pepper",
+    "potato",
+    "prawns",
+    "salt",
+    "scallops",
+    "shortcrust pastry",
+    "spring onions",
+    "tomatoes",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lyme-bay-fish-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lyme%20Bay%20Fish%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 oz of white fish fillets skinned and cut into small chunks\u003Cbr\u003E\n8oz of scallops\u003Cbr\u003E\n8oz of cooked and peeled prawns\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\n6 trimmed and sliced spring onions\u003Cbr\u003E\n4oz sliced mushrooms\u003Cbr\u003E\n1oz flour\u003Cbr\u003E\nHalf pint of fish stock\u003Cbr\u003E\nQuarter pint of dry white wine\u003Cbr\u003E\n4 tomatoes skinned and cut into strips\u003Cbr\u003E\n1 tablespoon of chopped parsley\u003Cbr\u003E\n8oz shortcrust pastry\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nPre-heat oven to 375f gas mark 5. Melt 1oz of butter in a pan and gently cook the onions and mushrooms for 3 to 4 minutes. Stir in the flour and cook for a further 2 or 3 minutes. Remove from heat and add the stock slowly stirring as you do so, then add the wine again stirring it in. Return to the heat and bring the mixture to the boil and simmer for 4 minutes. Remove from the heat and add the fish chunks, scallops, prawns, tomatoes and chopped parsley. Put the mixture into a shallow ovenproof dish. Melt the remaining butter. Cover with pastry and brush on the melted butter. Place this in the pre-heated oven and cook for 30 minutes or until top is golden. Serve hot with seasonal vegetables and boiled or mashed potato\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Lyme Bay Fish Pie",
+  "usedSnapshot": "20211207124721"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922085343",
+  "finalPath": "coronation-chicken.html",
+  "heading": "Coronation Chicken",
+  "ingredients": [
+    "apricot",
+    "bay leaf",
+    "beat",
+    "chicken",
+    "cream",
+    "curry",
+    "curry paste",
+    "lemon",
+    "lemon juice",
+    "mayonnaise",
+    "onion",
+    "pepper",
+    "salt",
+    "tomato",
+    "vegetable oil",
+    "watercress",
+    "whipping cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "coronation-chicken.html-1",
+      "receiptSource": "Original Receipt from the \u003Ci\u003EConstance Spry Cookery Book\u003C/i\u003E",
+      "receiptText": "CORONATION CHICKEN\u003Cbr\u003E\n\u003Cb\u003EIngredients (Serves 8):\u003C/b\u003E\u003Cbr\u003E\n2.3kg (5lb) chicken\u003Cbr\u003E\n1 tbsp vegetable oil\u003Cbr\u003E\n1 small, finely chopped onion\u003Cbr\u003E\n1 tbsp curry paste\u003Cbr\u003E\n1 tbsp tomato puree\u003Cbr\u003E\n100ml red wine\u003Cbr\u003E\n1 bay leaf\u003Cbr\u003E\n\u00BD lemon juice\u003Cbr\u003E\n4 finely chopped apricot halves\u003Cbr\u003E\n300ml (\u00BD pint) Mayonnaise\u003Cbr\u003E\n100ml (4 fl oz) whipping cream\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\nWatercress to garnish\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EInstructions:\u003C/b\u003E\u003Cbr\u003E\n1) Skin the chicken and cut into small pieces and grill it until cooked.\u003Cbr\u003E\n2) In a small saucepan, heat the oil, add the onion and cook for about three minutes, until softened.\u003Cbr\u003E\n3) Add the curry paste, tomato puree, wine, bay leaf and lemon juice.\u003Cbr\u003E\n4) Simmer, uncovered, for about 10 minutes until well reduced.\u003Cbr\u003E\n5) Strain and leave to cool.\u003Cbr\u003E\n6) Puree the chopped apricot halves in a blender or food processor or through a sieve.\u003Cbr\u003E\n7) Beat the cooled sauce into the mayonnaise with the apricot puree.\u003Cbr\u003E\n8 ) Whip the cream to stiff peaks and fold into the mixture.\u003Cbr\u003E\n9) Season, adding a little extra lemon juice if necessary.\u003Cbr\u003E\n10) Fold in the chicken pieces, garnish with watercress and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EJubilee Chicken\u003C/b\u003E",
+      "relatedPageUrl": "jubilee-chicken.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Coronation Chicken",
+  "usedSnapshot": "20211027035446"
+}

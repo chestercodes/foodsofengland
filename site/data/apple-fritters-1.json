@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922071622",
+  "finalPath": "apple-fritters-1.html",
+  "heading": "Apple Fritters (1)",
+  "ingredients": [
+    "ale",
+    "beat",
+    "beef",
+    "egg",
+    "eggs",
+    "ginger",
+    "salt",
+    "suet",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-fritters-1.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Fritters.\u003C/b\u003E\u003Cbr\u003E\nTake halfe a pint of Sack, a pint of Ale, some Ale-yeast, nine Eggs, yolks and whites, beat them very well, the Egg first, then altogether, put in some Ginger, and Salt, and fine flower, then let it stand an houre or two; then shred in the Apples; when you are ready to fry them, your suet must be all Beef-suet, or halfe Beef, and halfe Hoggs-suet tryed out of the leafe.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Apple Fritters (1)",
+  "usedSnapshot": "20211019190121"
+}

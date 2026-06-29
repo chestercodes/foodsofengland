@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808234511",
+  "finalPath": "cod-in-butter-sauce.html",
+  "heading": "Cod in Butter Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cod in Butter Sauce",
+  "usedSnapshot": "20211207123921"
+}

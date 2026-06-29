@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508120934",
+  "finalPath": "maidstone-biscuits.html",
+  "heading": "Maidstone Biscuits",
+  "ingredients": [
+    "almonds",
+    "biscuits",
+    "blanched almonds",
+    "butter",
+    "caster sugar",
+    "cream",
+    "flour",
+    "plain flour",
+    "rose water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "maidstone-biscuits.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Maidstone%20Biscuits\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMaidstone Biscuits\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4 oz butter\u003Cbr\u003E\n4 oz caster sugar\u003Cbr\u003E\n5 oz plain flour\u003Cbr\u003E\n1 tsp rose water\u003Cbr\u003E\n2 oz blanched almonds, chopped\u003Cbr\u003E\n\u003Cbr\u003E\nCream the butter and sugar together until pale and fluffy. Fold in the flour, rose water and almonds, and mix to make a stiff dough. Place in small heaps on a floured baking sheet. Bake at 180\u00B0C (350\u00B0F mark 4 for 12 - 15 minutes, until golden brown. Cool on a wire rack.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Maidstone Biscuits",
+  "usedSnapshot": "20210510052846"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20131108114219",
+  "finalPath": "suffolk-cheese.html",
+  "heading": "Suffolk Cheese",
+  "ingredients": [
+    "cheese"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SUFFOLK CHEESE. The curd is broken up in the whey, which is poured off as soon as the former has subsided. The remainder, with the curd, is put into a coarse strainer, left to cool, and is then pressed as tightly as possible. After this it is put into the vat, and set in a press to discharge the remaining whey. The curd is then taken out, broken again as finely as possible, salted, and returned to the press.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Skim Dick",
+      "relatedPageUrl": "skim-dick.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moor-1823"
+    }
+  ],
+  "title": "Suffolk Cheese",
+  "usedSnapshot": "20220706154550"
+}

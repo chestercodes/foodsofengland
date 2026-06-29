@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922101639",
+  "finalPath": "batter-pudding.html",
+  "heading": "Batter Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "ginger",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "batter-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Ci\u003EBatter pudding.\u003C/i\u003E\u003C/b\u003E\u003Cbr\u003E\nTake four spoonsful of flour, one pint of new milk, four eggs well beaten, a little grated nutmeg, ginger, and salt, mix the whole together, tie it in a cloth, and boil one hour: serve with \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Emelted butter\u003C/b\u003E\u003C/a\u003E, wine, and sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Batter Pudding",
+  "usedSnapshot": "20210512123204"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072903",
+  "finalPath": "egg-and-apple-or-marigold-eggs.html",
+  "heading": "Egg and Apple or Marigold Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Egg and Apple or Marigold Eggs",
+  "usedSnapshot": "20211205180329"
+}

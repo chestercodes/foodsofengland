@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922084201",
+  "finalPath": "milk-butter.html",
+  "heading": "Milk Butter",
+  "ingredients": [
+    "butter",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "milk-butter.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "MILK BUTTER. This article is principally made in Cheshire, where the whole of the milk is churned without being skimmed. In the summer time, immediately after milking, the meal is put to cool in earthen jars till it become sufficiently coagulated, and has acquired a slight degree of acidity, enough to undergo the operation of churning. During the summer, this is usually performed in the course of one or two days. In order to forward the coagulation in the winter, the milk is placed near the fire; but in summer, if it has not been sufficiently cooled before it is added to the former meal, or if it has been kept too close, and be not churned shortly after it has acquired the necessary degree of consistence, a fermentation will ensue; in which case the butter becomes rancid, and the milk does not yield that quantity which it would, if churned in proper time. This also is the case in winter, when the jars have been placed too near the fire, and the milk runs entirely to whey. Milk butter is in other respects made like the common butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Milk Butter",
+  "usedSnapshot": "20201102112919"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922091755",
+  "finalPath": "uxbridge-cakes.html",
+  "heading": "Uxbridge Cakes",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "nutmeg",
+    "veal",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "uxbridge-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EHow to make Uxbridge cakes\u003C/b\u003E\u003Cbr\u003E\nTAKE a pound of wheat flour seven pounds of currants half a nutmeg four pounds of butter rub your butter cold very well amongst the veal [?]; dress your currants very well in the flour, butter and seasoning and knead it with so much good new yeast as will make it into a pretty high paste, usually two pennyworth of yeast to that quantity, after it is kneaded well together, let it stand an hour to rise; you may put half a pound of paste in a cake.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Middlesex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Uxbridge Cakes",
+  "usedSnapshot": "20211205164221"
+}

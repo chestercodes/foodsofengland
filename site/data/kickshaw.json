@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082620",
+  "finalPath": "kickshaw.html",
+  "heading": "Kickshaw",
+  "ingredients": [
+    "eggs",
+    "kidney",
+    "sugar",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kickshaw.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E184. To make Kickshaws, to bake or fry in what shape you please.\u003C/b\u003E Take some Puff-paste and roul it thin, if you have Moulds work it upon them with preserved Pippins, and so close them, and fry or bake them, but when you have closed them you must dip them in the yolks of Eggs, and that will keep all in; fill some with Goosberries, Rasberries, Curd, Marrow, Sweet-breads, Lambs Stones, Kidney of Veal, or any other thing what you like best, either of them being seasoned before you put them in according to your mind, and when they are baked or fryed, strew Sugar on them, and serve them in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Kickshaw",
+  "usedSnapshot": "20211206160821"
+}

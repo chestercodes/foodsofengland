@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130323042657",
+  "finalPath": "columbus-eggs.html",
+  "heading": "Columbus Eggs",
+  "ingredients": [
+    "cream",
+    "eggs",
+    "ham",
+    "hard boiled eggs",
+    "nutmeg"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "columbus-eggs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EColumbus Eggs.\u003C/b\u003E\u003Cbr\u003E\n618. Cut in half, twelve hard boiled eggs, and cut off a little at each end to make them stand like cups; chop the yolks, and mix with ham, cream, and nutmeg; fill with it the cups, press it smooth, arrange on the dish the two halves together like whole eggs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Columbus Eggs",
+  "usedSnapshot": "20211020224849"
+}

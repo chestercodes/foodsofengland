@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616085520",
+  "finalPath": "lime-crusted-haddock.html",
+  "heading": "Lime Crusted Haddock",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "lime",
+    "limes",
+    "olive oil",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lime-crusted-haddock.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELime Crusted Haddock\u003C/b\u003E\u003Cbr\u003E\nThis is a lovely supper dish that takes less than 30 minutes to make.\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n2 Limes\u003Cbr\u003E\n200 Gram Fresh white breadcrumbs (7 oz)\u003Cbr\u003E\n50 Gram Butter, melted (2 oz)\u003Cbr\u003E\n4 x 175 Gram Haddock fillets, skinned (6 oz)\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n1 Tablespoon Olive oil\u003Cbr\u003E\nLime wedges, to garnish\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 200 \u00B0C / 400 \u00B0F /. Gas 6. Grate the zest from the limes. In a bowl, mix the breadcrumbs with the butter and lime zest.\u003Cbr\u003E\nCook over a medium heat in a frying pan for 2-3 minutes, stirring until the crumbs are pale golden.\u003Cbr\u003E\nPut the fish in a shallow dish. Season with salt and pepper and squeeze over a little lime juice. Drizzle with the oil. Pat the crumb mixture on top and bake for 10-12 minutes until cooked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Lime Crusted Haddock",
+  "usedSnapshot": "20211201011022"
+}

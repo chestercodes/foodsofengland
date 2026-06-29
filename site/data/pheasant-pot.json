@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922073002",
+  "finalPath": "pheasant-pot.html",
+  "heading": "Pheasant Pot",
+  "ingredients": [
+    "butter",
+    "chestnuts",
+    "flour",
+    "gravy",
+    "lemon",
+    "lemon juice",
+    "pepper",
+    "salt",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pheasant-pot.html-1",
+      "receiptSource": "Original Receipt from\u0027 \u003Ci\u003EA new and easy method of cookery\u003C/i\u003E\u0027 by Elizabeth Cleland (\u003Ca href=\u0022references.html#cleland-1755\u0022\u003E\u003Cb\u003ECleland 1755\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Pheasant \u003Cb\u003ESTEW\u003C/b\u003E it in white Gravy and when it is almost enough, put in it Salt, Pepper and Mace, then take boiled Artichoke Bottoms Chestnuts roasted and skinned, and put them in with a good Piece of Butter rolled in flour a Glass of white Wine, and Lemon Juice. Let them stew a while, then dish your Pheasant and Sauce put Forced meat Balls or Sausages a bout it. A good Fowl will do as well but truss it with the Head on like a Pheasant\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cleland-1755"
+    }
+  ],
+  "title": "Pheasant Pot",
+  "usedSnapshot": "20210518201848"
+}

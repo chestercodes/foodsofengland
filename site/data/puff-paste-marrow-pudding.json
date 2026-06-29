@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212191940",
+  "finalPath": "puff-paste-marrow-pudding.html",
+  "heading": "Puff-Paste Marrow Pudding",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "puff-paste-marrow-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO MAKE PUFF-PAST\u003C/b\u003E\u003Cbr\u003E\nTake a Gill of cold-water; two whites of Eggs, and one yolk; to a quart of Flower one pound of Butter; so rowl it up, but keep out of the Flower so much as will rowl it up.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETO MAKE A PUDDING WITH PUFF-PAST\u003C/b\u003E\u003Cbr\u003E\nTake a new French peny-loaf, and slice it very thin, and lay it in a dish; and take three pints of Cream, and boil it with a little Mace and Nutmeg grated; sweeten it with a little Sugar, and add to it a little Salt. Then let it stand till it be cold. Then take ten yolks of Eggs; and beat them very well with two or three spoonfuls of the Cream; then put it into the Cream, and stir them well together: Take the Marrow of three bones; lay half the Marrow upon the bread in good big lumps, and some Citron, and Candid Limon, and what other sweet meats you like. Then pour it all upon the bread; then put the rest of your Marrow on the top with Citron and Candid Limon. I forgat to tell you, that you must lay a Puff-paste at the bottom of the dish, before you put in the bread, and cover it with the same.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Puff-Paste Marrow Pudding",
+  "usedSnapshot": "20200126151739"
+}

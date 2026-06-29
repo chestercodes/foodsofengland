@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616085628",
+  "finalPath": "prawns.html",
+  "heading": "Prawns",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "cream",
+    "flour",
+    "gravy",
+    "nutmeg",
+    "parsley",
+    "prawns",
+    "salt",
+    "shell-fish",
+    "shrimps"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prawns.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO BOIL PRAWNS OR SHRIMPS.\u003C/b\u003E\u003Cbr\u003E\n299. INGREDIENTS. - \u00BC lb. salt to each gallon of water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Prawns should be very red, and have no spawn under the tail; much depends on their freshness and the way in which they are cooked. Throw them\u0026nbsp;\u0026nbsp;\u0026nbsp;into boiling water, salted as above, and keep them boiling for about 7 or 8 minutes. Shrimps should be done in the same way; but less time must be allowed.\u0026nbsp;\u0026nbsp;\u0026nbsp;It may easily be known when they are done by their changing colour. Care should be taken that they are not over-boiled, as they then become tasteless and\u0026nbsp;\u0026nbsp;\u0026nbsp;indigestible.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - Prawns, about 8 minutes; shrimps, about 5 minutes.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, prawns, 2s. per lb.; shrimps, 6d. per pint.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E all the year.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETO DRESS PRAWNS.\u003C/b\u003E\u003Cbr\u003E\n300. Cover a dish with a large cup reversed, and over that lay a small white napkin. Arrange the prawns on it in the form of a pyramid, and garnish with\u0026nbsp;\u0026nbsp;\u0026nbsp;plenty of parsley.\u003Cbr\u003E\n\u003Cbr\u003E\n...\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EBUTTERED PRAWNS OR SHRIMPS.\u003C/b\u003E\u003Cbr\u003E\n313. INGREDIENTS. - 1 pint of picked prawns or shrimps, \u00BE pint of stock No. 104, thickening of butter and flour; salt, cayenne, and nutmeg to taste.\u003Cbr\u003E\nMode. - Pick the prawns or shrimps, and put them in a stewpan with the stock; add a thickening of butter and flour; season, and simmer gently for 3 minutes. Serve on a dish garnished with fried bread or toasted sippets. Cream sauce may be substituted for the gravy.\u003Cbr\u003E\n\u003Ci\u003ETime.\u003C/i\u003E - 3 minutes.\u003Cbr\u003E\n\u003Ci\u003EAverage cost for this quantity\u003C/i\u003E, 1s. 4d.\u003Cbr\u003E\n\u003Cbr\u003E\n[Illustration: THE SHRIMP.]\u003Cbr\u003E\n\u003Cbr\u003E\nTHE SHRIMP. - This shell-fish is smaller than the prawn, and is greatly relished in London as a delicacy. It inhabits most of the sandy shores of Europe, and the Isle of Wight is especially famous for them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Prawns",
+  "usedSnapshot": "20211130235822"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922074357",
+  "finalPath": "giblet-soup.html",
+  "heading": "Giblet Soup",
+  "ingredients": [
+    "beef",
+    "butter",
+    "cream",
+    "flour",
+    "giblets",
+    "goose",
+    "gravy",
+    "herbs",
+    "mushroom",
+    "mutton",
+    "onions"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "giblet-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EGIBLET SOUP. - E. R.\u003C/b\u003E\u003Cbr\u003E\nScald and clean a set, or more, of giblets. Duck giblets make very good soup, but being much smaller than those of a goose, a larger quantity will be necessary: stew them by themselves in a pint of water for each set, till they are quite tender; or with a scrag of mutton, a couple of pounds of gravy beef, or any thing of which soup may be made, three onions, and a bunch of sweet herbs, and five pints of water. Stew until the gizzards are quite tender; then take out the giblets and strain the soup, adding it, if other stock be ready, to the broth so prepared: then add a glass of wine, a glass of \u003Ca href=\u0022harvey-sauce.html\u0022\u003E\u003Cb\u003EHarvey\u003C/b\u003E\u003C/a\u003E, or \u003Ca href=\u0022reading-sauce.html\u0022\u003E\u003Cb\u003EReading sauce\u003C/b\u003E\u003C/a\u003E, and a piece of butter rolled in flour. If the soup is required to be very rich, cream may be added, some sliced onions fried in butter, and a little mushroom powder.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Giblet Soup",
+  "usedSnapshot": "20220819110407"
+}

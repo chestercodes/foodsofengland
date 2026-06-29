@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150531020300",
+  "finalPath": "harslet.html",
+  "heading": "Harslet",
+  "ingredients": [
+    "fat",
+    "liver",
+    "mustard",
+    "onion",
+    "parsley",
+    "pepper",
+    "pork",
+    "port wine",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "harslet.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PIG\u0027S HARSLET. Wash and dry some liver, sweetbreads, and fat and lean bits of pork, beating the latter with a rolling-pin to make it tender. Season with pepper, salt, sage, and a little onion shred fine. When mixed, put all into a cawl, and fasten it up tight with a needle and thread. Roast it on a hanging jack, or by a string. Serve with a sauce of port wine and water, and mustard, just boiled up, and put into the dish. Or serve it in slices with parsley for a fry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Harslet",
+  "usedSnapshot": "20211129114037"
+}

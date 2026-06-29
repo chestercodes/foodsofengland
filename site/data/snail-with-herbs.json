@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140616081159",
+  "finalPath": "snail-with-herbs.html",
+  "heading": "Snail with Herbs",
+  "ingredients": [
+    "beat",
+    "bread",
+    "herbs",
+    "lemon",
+    "saffron",
+    "salt",
+    "tyme",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "snail-with-herbs.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo dresse Snayles.\u003C/b\u003E\u003Cbr\u003E\nTake your Snayles (they are no way so as in Pottage) and wash them well in many waters, and when you have done put them in a white Earthen Pan, or a very wide Dish, and put as much water to them as will cover them, and then set your Dish or Pan on some coales, that it may heat by little and little, and then the Snayles will come out of the shells and so dye, and being dead, take them out, and wash them very well in Water and salt twice or thrice over; then put them in a Pipkin with Water and Salt, and let them boyle a little while in that, so take away the rude slime they have, then take them out againe and put them in a Cullender; then take excellent sallet Oyle and beat it a great while upon the fire in a frying Pan, and when it boyls very fast, slice two or three Onyons in it, and let them fry well, then put the Snayles in the Oyle and Onyons, and let them stew together a little, then put the Oyle, Onyons, and Snayles altogether in an earthen Pipkin of a fit size for your Snayles, and put as much warm water to them as will serve to boyle them, and make the Pottage and season them with Salt, and so let them boyle three or foure hours; then mingle Parsly, Pennyroyall, Fennell, Tyme, and such Herbs, and when they are minced put them in a Morter, and beat them as you doe for Green-sauce, and put in some crums of bread soaked in the Pottage of the Snayles, and then dissolve it all in the Morter with a little Saffron and Cloves well beaten, and put in as much Pottage into the Morter as will make the Spice and bread and Herbs like thickning for a pot, so put them all into the Snayles and let them stew in it, and when you serve them up, you may squeeze into the pottage a Lemon, and put in a little Vinegar, or if you put in a Clove of Garlick among the Herbs, and beat it with them in the Morter; it will not tast the worse; serve them up in a Dish with sippets of Bread in the bottom. The Pottage is very nourishing, and they use them that are apt to a Consumption.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Snails",
+      "relatedPageUrl": "snails.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Snail with Herbs",
+  "usedSnapshot": "20211207124412"
+}

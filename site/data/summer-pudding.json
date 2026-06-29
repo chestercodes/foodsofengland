@@ -1,0 +1,87 @@
+﻿{
+  "earliestSnapshot": "20150922082321",
+  "finalPath": "summer-pudding.html",
+  "heading": "Summer Pudding",
+  "ingredients": [
+    "bread",
+    "castor sugar",
+    "currants",
+    "eggs",
+    "lemon",
+    "pudding",
+    "raspberries",
+    "red currants",
+    "sugar",
+    "butter",
+    "cream",
+    "milk",
+    "whipped cream"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "summer-pudding.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EBurnley Express\u003C/i\u003E\u0027 - Saturday 10 June 1893",
+      "receiptText": "Here is good recipe for summer pudding : - Line a basin with bread cut into neat pieces, taking care they fit closely. Fill with raspberries aud red currants; sweeten, cover the top carefully with thin slices of bread, tie a floured cloth over and steam (not boil) for one and a quarter hour. Whip the whites of three eggs to stiff froth; mix with tablespoonfuls of castor sugar and little lemon-juice, and pour over the pudding when dished.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "summer-pudding.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EBlackburn Standard\u003C/i\u003E\u0027 - Saturday 01 July 1893",
+      "receiptText": "An easy, economical and altogether delightful way of making a good summer pudding is to line a basin or an earthenware mould with moderately thick slices of bread and butter, fitting them in as neatly as possible. Then fill up the mould rather tightly with alternate layers of thin slices of bread and butter and any stewed fruit yon may chance to have at hand. Cover with a slice of bread and butter and put aside till next day. Turn on to a glass dish and serve cold with whipped cream or milk. The bread should be thoroughly saturated with the fruit juice, and be of a pretty red colour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Autumn Pudding",
+      "relatedPageUrl": "autumn-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Elegant Economist\u0027s Pudding",
+      "relatedPageUrl": "elegant-economist-s-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Midsummer Pudding",
+      "relatedPageUrl": "midsummer-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Summer Pudding",
+      "relatedPageUrl": "summer-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Tomato Charlotte",
+      "relatedPageUrl": "tomato-charlotte.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Winter Pudding",
+      "relatedPageUrl": "winter-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Apple Charlotte",
+      "relatedPageUrl": "apple-charlotte.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Summer Pudding",
+  "usedSnapshot": "20220809200229"
+}

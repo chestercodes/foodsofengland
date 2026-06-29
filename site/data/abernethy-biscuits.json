@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130322195307",
+  "finalPath": "abernethy-biscuits.html",
+  "heading": "Abernethy Biscuits",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "caraway seeds",
+    "eggs",
+    "flour",
+    "lard",
+    "milk",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "abernethy-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E61. Abernethy Biscuits. (Dr. Abernethy\u0027s Original Recipe.)\u003C/b\u003E\u003Cbr\u003E\n1 quart of milk, 6 eggs, 8 ozs. of sugar, \u00BD oz. of caraway seeds, with flour sufficient to make the whole of the required consistency. They are generally weighed off at 2 ozs. each, moulded up, pinned and docked, and baked in a moderate oven.\u003Cbr\u003E\nNote. The heat of an oven is not required so strong for biscuits containing sugar, as it causes them to take more colour in less time.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E62. Abernethys as made in London.\u003C/b\u003E\u003Cbr\u003E\n7 lbs. of flour, 8 ozs. of sugar, 8 ozs. of butter, 4 eggs, 1 \u00BD pint of milk, 2 tablespoonfuls of orange-flower water, \u00BD oz. of caraway seeds.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E63. Usual Way of making Abernethy Biscuits.\u003C/b\u003E\u003Cbr\u003E\nTake 8 lbs. of flour, 1 \u00BD lb. of butter and lard, 12 ozs. of sugar, \u00BD oz. of caraway seeds; some use about \u00BD oz. of powdered \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile salts\u003C/b\u003E\u003C/a\u003E. Proceed to make into dough as before. Well break the dough and finish with either hand or machine.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Abernethy Biscuits",
+  "usedSnapshot": "20220527055921"
+}

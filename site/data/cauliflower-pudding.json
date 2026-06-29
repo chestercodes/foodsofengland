@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922082635",
+  "finalPath": "cauliflower-pudding.html",
+  "heading": "Cauliflower Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cinnamon",
+    "cream",
+    "custard",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cauliflower-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E391. To make a COLLIFLOWER PUDDING.\u003C/b\u003E\u003Cbr\u003E\nBoil the flowers in milk, take the tops and lay then in a dish, then take three jills of cream, the yolks of eight eggs, and the whites of two, season it with nutmeg, cinnamon, mace, sugar, sack or orange-flower water, beat all well together, then pour it over the colliflower, put it into the oven, bake it as you would a custard, and grate sugar over it when it comes from the oven.\u003Cbr\u003E\nTake sugar, sack and butter for sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Cauliflower Pudding",
+  "usedSnapshot": "20220819112955"
+}

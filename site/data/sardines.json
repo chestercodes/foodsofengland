@@ -1,0 +1,80 @@
+﻿{
+  "earliestSnapshot": "20140616090524",
+  "finalPath": "sardines.html",
+  "heading": "Sardines",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "curry",
+    "egg",
+    "eggs",
+    "lemon",
+    "parsley",
+    "pepper",
+    "salt",
+    "sardines",
+    "tea",
+    "toast",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sardines.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E225. SARDINE SANDWICHES (Isle of Wight)\u003C/b\u003E\u003Cbr\u003E\nTake a dozen good-sized sardines, carefully remove the skin and backbone, and mash them up very fine with a fork. Add salt, pepper, and vinegar to taste, and mix it well in. Have thin white bread-and-butter cut, spread the mixture thinly over a slice, and cover it with another slice. When sufficient has been prepared, cut off the crust, cut the sandwiches diagonally into little threecornered pieces not more than two and a half inches long by one and a half wide, and arrange them prettily upon a folded napkin with sprigs of parsley between. This is an enormous improvement upon the ordinary sardine sandwich, and excellent for afternoon tea, etc. Its only fault is that the sandwiches, which take a good while to prepare, are eaten up so rapidly I\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E226. CURRIED SARDINES (Kent)\u003C/b\u003E\u003Cbr\u003E\nOne box of sardines; strain off the oil into a small frying-pan; add to this a dessertspoonful of curry powder previously mixed with cold water. Thicken the oil with a little arrowroot, previously mixed with water. As soon as the curry and oil are about as thick as good melted butter, the sauce is ready. Pour this over the sardines, and place them in the oven long enough to get heated through. When quite hot, serve with pieces of toast.\u003Cbr\u003E\n\u003Cb\u003E\u003Cbr\u003E\n227. SARDINES ON TOAST (Cheshire)\u003C/b\u003E\u003Cbr\u003E\nDivide the sardines lengthwise; remove the bones, tail, and skin; put them in the oven between two hot plates, with a Httle of the oil - let them be quite hot. Cut some thin strips of bread the length of the sardines, fry them in butter, and serve with half a sardine on each. Add a little cayenne and salt and a squeeze of lemon. Serve hot.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E228. SARDINE TOAST (Essex)\u003C/b\u003E\u003Cbr\u003E\nSix sardines, two eggs, cayeime, buttered toast. Scale and bone the sardines, boil the eggs hard and chop them. Lay first the chopped egg on some hot buttered toast, then the sardines seasoned with cayenne, and put in the oven to get hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Salt Pilchards",
+      "relatedPageUrl": "salt-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Marinated Pilchards",
+      "relatedPageUrl": "marinated-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pilchard Pie",
+      "relatedPageUrl": "pilchard-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stargazy Pie",
+      "relatedPageUrl": "stargazy-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Sardines",
+  "usedSnapshot": "20220706152753"
+}

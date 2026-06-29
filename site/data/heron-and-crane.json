@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922103355",
+  "finalPath": "heron-and-crane.html",
+  "heading": "Heron and Crane",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "heron-and-crane.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ERoast a Crane.\u003C/b\u003E\u003Cbr\u003E\nWith his legs turned up behind him, his wings cut of at the ioynt next the bodye, and then winde the neck about the broche, and put the bill into his brest.\u003Cbr\u003E\nHeron, Curlew and Bitter, as a Crane: but the Bittures head must be of.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHeron Pudding\u003C/b\u003E",
+      "relatedPageUrl": "heron-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Heron and Crane",
+  "usedSnapshot": "20220527225002"
+}

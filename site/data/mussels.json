@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140616082306",
+  "finalPath": "mussels.html",
+  "heading": "Mussels",
+  "ingredients": [
+    "butter",
+    "flour",
+    "muscles",
+    "mussels",
+    "parsley",
+    "pepper",
+    "salt",
+    "vinegar",
+    "bread",
+    "crab",
+    "toasted bread"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "mussels.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 55. STEWED MUSCLES, OR MUSSELS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThoroughly wash the muscles, and pull off any weeds there may be hanging to them; next put them in a clean saucepan with a little water, and salt enough to season, and set them on the fire to boil, tossing them occasionally, until you find that their shells begin to open; they must then be taken off the fire, and their liquor poured off into a basin. Next, after removing one of the shells from each muscle, put them back into the saucepan; add the liquor, a bit of butter, a spoonful of flour, some pepper, chopped parsley, and a little drop of vinegar, toss the whole over the fire until the muscles have boiled five minutes, and then you will enjoy a treat for supper. Cockles and whelks are cooked in the same way.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mussels.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMuscles.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nHAVING washed your muscles very clean from the sand in two or three waters, put them into a stewpan, and cover them close. Let them stew till the shells are opened, and then take them out one by one, and pick them out of the shells. Be sure to look under the tongue to see if there be a crab, and if you find one, throw away that muscle. Having picked them all clean, put them into a saucepan, and to a quart of muscles put half a pint of the liquor strained through a sieve; add a few blades of mace, a small piece of butter rolled in flour, and let them stew. Lay some toasted bread round the dish, and pour in the muscles.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    }
+  ],
+  "title": "Mussels",
+  "usedSnapshot": "20211201000100"
+}

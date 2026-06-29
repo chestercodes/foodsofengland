@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140212024831",
+  "finalPath": "rhubarb-tart.html",
+  "heading": "Rhubarb Tart",
+  "ingredients": [
+    "apple",
+    "cream",
+    "gooseberries",
+    "lemon",
+    "rhubarb",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-tart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERHUBARB TART.\u003C/b\u003E\u003Cbr\u003E\nTake slips of green rhubarb, wash it, and cut it into small pieces the bigness of young gooseberries; put them into a dish, sweeten with sifted sugar, add the juice of a lemon, cover it with puff paste, and bake it. Serve it up either plain or with cream, the same as for an apple pie.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Rhubarb Tart",
+  "usedSnapshot": "20200126203038"
+}

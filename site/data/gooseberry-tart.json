@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212025222",
+  "finalPath": "gooseberry-tart.html",
+  "heading": "Gooseberry Tart",
+  "ingredients": [
+    "ginger",
+    "gooseberries",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-tart.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New Booke of Cookerie\u003C/i\u003E\u0027 by John Murrell (\u003Ca href=\u0022references.html#murrell-1617\u0022\u003E\u003Cb\u003EMurrell 1617\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Gooseberry Tart.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPicke the stalkes of your Gooseberries, and the pips in the toppes: put them in good Paste, with a little greene Ginger, sliced in slices: cast on good store of Sugar, and Rosewater, and so close them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    }
+  ],
+  "title": "Gooseberry Tart",
+  "usedSnapshot": "20211129114400"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20130323195827",
+  "finalPath": "berkshire-faggots.html",
+  "heading": "Berkshire Faggots",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Faggots",
+      "relatedPageUrl": "faggots.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Berkshire Faggots",
+  "usedSnapshot": "20211207122853"
+}

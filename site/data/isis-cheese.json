@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082219",
+  "finalPath": "isis-cheese.html",
+  "heading": "Isis Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxford..."
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Isis Cheese",
+  "usedSnapshot": "20211019185218"
+}

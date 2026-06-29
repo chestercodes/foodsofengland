@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140212033505",
+  "finalPath": "gala-pie.html",
+  "heading": "Gala Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EAscot Pie\u003C/b\u003E",
+      "relatedPageUrl": "ascot-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gala Pie",
+  "usedSnapshot": "20211027025611"
+}

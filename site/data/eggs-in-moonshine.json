@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20130323042458",
+  "finalPath": "eggs-in-moonshine.html",
+  "heading": "Eggs in Moonshine",
+  "ingredients": [
+    "rosewater",
+    "sugar",
+    "suger",
+    "butter",
+    "eggs",
+    "lemons",
+    "nutmeg",
+    "onion",
+    "onions",
+    "orange",
+    "oranges",
+    "rose-water",
+    "rosemary",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "eggs-in-moonshine.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Proper newe Booke of Cokerye\u003C/i\u003E\u0027, Anonymous, around 1550 (\u003Ca href=\u0022references.html#proper-booke-1550\u0022\u003E\u003Cb\u003EProper Booke 1550\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make egges in moneshyne.\u003C/b\u003E Take a dyche of rosewater and a dyshe full of suger, and set them upon a chaffyngdysh, and let them boyle, than take the yolkes of viii or ix egges newe layde and putte them therto everyone from other, and so lette them harden a lyttle, and so after this maner serve them forthe and cast a lyttle synamon and sugar upon them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "eggs-in-moonshine.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EEggs in Moon shine.\u003C/b\u003E\u003Cbr\u003E\nBreak them in a dish upon some butter and oyl melted or cold, strow on them a little salt, and set them on a chafing dish of coals make not the yolks too hard, and in the doing cover them, and make a sauce for them of an onion cut into round slices, and fried in sweet oyl or butter, then put to them verjuyce, grated nutmeg, a little salt, and so serve them.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EEggs in Moon shine otherways.\u003C/b\u003E\u003Cbr\u003E\nTake the best oyl you can get, and set it over the fire on a silver dish, being very hot, break in the eggs, and before the yolks of the eggs do become very hard, take them up and dish them in a clean dish; then make the sauce of fryed onions in round slices, fryed in oyl or sweet butter, salt, and some grated nutmeg.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EOtherways.\u003C/b\u003E\u003Cbr\u003E\nMake a sirrup of rose-water, sugar, sack, or white-wine, make it in a dish and break the yolks of the eggs as whole as you can, put them in the boiling sirrup with some ambergriece, turn them and keep them one from the other, make them hard, and serve them in a little dish with sugar and cinamon.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EOtherways.\u003C/b\u003E\u003Cbr\u003E\nTake a quarter of a pound of good fresh butter, balm it on the bottom of a fine clean dish, then break some eight or ten eggs upon it, sprinkle them with a little salt, and set them on a soft fire till the whites and yolks be pretty clear and stiff, but not too hard, serve them hot, and put on them the juyce of oranges and lemons.\u003Cbr\u003E\n\u003Cbr\u003E\nOr before you break them put to the butter sprigs of rosemary, juyce of orange, and sugar; being baked on the embers, serve them with sugar and beaten cinamon, and in place of orange, verjuyce.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMoonshine Pudding\u003C/b\u003E",
+      "relatedPageUrl": "moonshine-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "proper-booke-1550"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Eggs in Moonshine",
+  "usedSnapshot": "20220808021003"
+}

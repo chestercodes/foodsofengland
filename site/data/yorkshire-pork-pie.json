@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140212020848",
+  "finalPath": "yorkshire-pork-pie.html",
+  "heading": "Yorkshire Pork Pie",
+  "ingredients": [
+    "butter",
+    "flour",
+    "pepper",
+    "pork",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-pork-pie.html-1",
+      "receiptSource": "Original Receipt from\u0027 \u003Ci\u003EWarnes every-day cookery: containing one thousand eight hundred and fifty-eight distinct receipts\u003C/i\u003E\u0027 (1872)",
+      "receiptText": "\u003Cb\u003ESmall Raised Yorkshire Pork Pies.\u003C/b\u003E\u003Cbr\u003E\nTime, one hour and a half.\u003Cbr\u003E\n733. Two pounds of neck of pork; a quarter of a pound of butter; a quarter of a pound of suet; one pound of flour; a teaspoonful of sage; pepper and salt. Chop a quarter of a pound of suet very fine, mix it with a quarter of a pound of butter, and a pound of fine dry flour, and put it into a stewpan over a slow fire to become hot, and the suet and butter melted. Then knead it into a very stiff paste, and set it before the fire covered over with a cloth until required. Cut the pork into the smallest pieces and season them highly with pepper, salt, and a teaspoonful of powdered sage. Divide the paste into as many pieces as you think fit, reserving some for the tops; raise them into round forms, fill them with the small pieces of seasoned pork, cover the tops over, pinch them round with your thumb and finger, and bake them in a very hot brick oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Yorkshire (Christmas) Pie",
+      "relatedPageUrl": "yorkshire-christmas-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Yorkshire Pork Pie",
+  "usedSnapshot": "20211129121834"
+}

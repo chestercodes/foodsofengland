@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922083732",
+  "finalPath": "parsley-hot-sauce.html",
+  "heading": "Parsley Hot Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPie Liquor\u003C/b\u003E",
+      "relatedPageUrl": "pie-and-mash.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EParsley Cold Sauce\u003C/b\u003E",
+      "relatedPageUrl": "parsley-cold-sauce.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EParsley Butter\u003C/b\u003E",
+      "relatedPageUrl": "parsley-butter.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Parsley Hot Sauce",
+  "usedSnapshot": "20220815162732"
+}

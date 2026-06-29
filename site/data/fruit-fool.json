@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20150922074912",
+  "finalPath": "fruit-fool.html",
+  "heading": "Fruit Fool",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Fool",
+      "relatedPageUrl": "apple-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Boodle\u0027s Fool",
+      "relatedPageUrl": "boodle-s-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson Fool",
+      "relatedPageUrl": "damson-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Norfolk Fool",
+      "relatedPageUrl": "norfolk-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Red Berry Fool",
+      "relatedPageUrl": "red-berry-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Strawberry Fool",
+      "relatedPageUrl": "strawberry-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Trifle - Old Type",
+      "relatedPageUrl": "trifle-old-type.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Westminster Fool",
+      "relatedPageUrl": "westminster-fool.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Whim-Wham",
+      "relatedPageUrl": "whim-wham.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fruit Fool",
+  "usedSnapshot": "20211018074433"
+}

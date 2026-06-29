@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922105042",
+  "finalPath": "roast-chestnut-soup.html",
+  "heading": "Roast Chestnut Soup",
+  "ingredients": [
+    "cayenne",
+    "chestnuts",
+    "cream",
+    "salt",
+    "butter",
+    "flour",
+    "milk",
+    "onion",
+    "pepper",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "roast-chestnut-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECHESTNUT SOUP.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nStrip the outer rind from some fine, sound Spanish chestnuts, throw them into a large pan of warm water, and as soon as it becomes too hot for the fingers to remain in it, take it from the fire, lift out the chestnuts, peel them quickly, and throw them into cold water as they are done; wipe, and weigh them; take three quarters of a pound for each quart of soup, cover them with good stock, and stew them gently for upwards of three quarters of an hour, or until they break when touched with a fork; drain, and pound them smoothly,. or braise them to a mash with a strong spoon, and rub them through a fine sieve reversed; mix with them by slow drees the proper quantity of stock; add sufficient mace, cayenne, and salt to season the soup, and stir it often until it boils. Three quarters of a pint of rich cream, or even less, will greatly improve it The stock in which the chestnuts are boiled can be used for the soup when its sweetness is not objected to; or it may in part be added to it.\u003Cbr\u003E\n\u003Cbr\u003E\nChestnuts, 1 lb.: stewed from to 1 hour.\u003Cbr\u003E\nSoup, 2 quarts; seasoning of salt, mace, and cayenne:\u003Cbr\u003E\n1 to 3 minutes.\u003Cbr\u003E\nCream, 1 pint (when used).\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "roast-chestnut-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E142. CHESTNUT SOUP (Sussex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBoil the chestnuts tll they burst open. Throw them into cold water, peel them, crush them into a paste (moistening with a little milk when desirable). Put them through a fine sieve. Set them in an earthenware pan with an onion already cooking in a little butter. Add a teaspoonful of sugar, a saltspoonful of salt, a little pepper, a light hint of spice, and as much milk as will make up the required amount. Stir continually, and when it boils, add a spoonful of rice-flour, made smooth in cold milk, and a little cream if possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Roast Chestnut Soup",
+  "usedSnapshot": "20220527220648"
+}

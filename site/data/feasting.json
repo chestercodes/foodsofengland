@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20220516222144",
+  "finalPath": "feasting.html",
+  "heading": "Feasting",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Feasting",
+  "usedSnapshot": "20220527070626"
+}

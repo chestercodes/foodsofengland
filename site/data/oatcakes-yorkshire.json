@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140508113301",
+  "finalPath": "oatcakes-yorkshire.html",
+  "heading": "Oatcakes - Yorkshire",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOat Cakes\u003C/b\u003E",
+      "relatedPageUrl": "oat-cakes.html",
+      "relationDescription": "For other types of oat bread and biscuit, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Oatcakes - Yorkshire",
+  "usedSnapshot": "20200112191921"
+}

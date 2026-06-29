@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20141209165123",
+  "finalPath": "gloucester-rabbit.html",
+  "heading": "Gloucester Rabbit",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cheese",
+    "cream",
+    "milk",
+    "pepper",
+    "rabbit",
+    "salt",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-rabbit.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E296. GLOUCESTER RABBIT\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMake some buttered toast, cut it into rounds or squares, put it to keep hot in the oven. Put half an ounce of butter in a small saucepan to melt, stir in two tablespoonfuls of grated cheese, half a small teacupful of milk and two tablespoonfuls of fresh bread crumbs - enough to make it as thick as cream. Add salt and pepper, pour the mixture on to the toast, and serve it immediately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGloucester Cheese and Ale\u003C/b\u003E",
+      "relatedPageUrl": "gloucester-cheese-and-ale.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Gloucester Rabbit",
+  "usedSnapshot": "20211201001731"
+}

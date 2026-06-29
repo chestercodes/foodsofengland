@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20150922084823",
+  "finalPath": "ham-toasts.html",
+  "heading": "Ham Toasts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Ham Toasts",
+  "usedSnapshot": "20220516223312"
+}

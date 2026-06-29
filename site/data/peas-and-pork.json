@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922091024",
+  "finalPath": "peas-and-pork.html",
+  "heading": "Peas and Pork",
+  "ingredients": [
+    "peas",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "peas-and-pork.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPEAS AND PORK.\u003C/b\u003E Two pounds of the belly part of pickled pork will make very good broth for peas soup, if the pork be not too salt. If it has been in salt several days, it must be laid in water the night before it is used. Put on three quarts of soft water, or liquor in which meat has been boiled, with a quart of peas, and let it boil gently for two hours. Then put in the pork, and let it simmer for an hour or more, till it is quite tender. When done, wash the pork clean in hot water, send it up in a dish, or cut into small pieces and put with the soup into the tureen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Peas and Pork",
+  "usedSnapshot": "20220527051506"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212021334",
+  "finalPath": "haworth-pie.html",
+  "heading": "Haworth Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Haworth Pie",
+  "usedSnapshot": "20211027025928"
+}

@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140508113205",
+  "finalPath": "brandy-snaps-of-hereford.html",
+  "heading": "Brandy Snaps of Hereford",
+  "ingredients": [
+    "brandy",
+    "butter",
+    "demerara sugar",
+    "flour",
+    "ginger",
+    "lemon",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brandy-snaps-of-hereford.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E746. SMALL BRANDY SNAPS (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nA quarter of a pound of butter, half a pound of treacle, a quarter of a pound of Demerara sugar: bring to the boil, add the juice of one lemon and rind, one ounce of ginger, a quarter of a pound of flour. Let the whole be well mixed and kept warm. Drop in teaspoonfuls on a baking sheet, bake in a quick oven, hang on a spoon until crisp.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Brandy Snaps",
+      "relatedPageUrl": "brandy-snaps.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hereford"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Brandy Snaps of Hereford",
+  "usedSnapshot": "20210510051154"
+}

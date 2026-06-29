@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140508120949",
+  "finalPath": "root-biskets.html",
+  "heading": "Root Biskets",
+  "ingredients": [
+    "beat",
+    "potato",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "root-biskets.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E243. To make Bisket of Potato-Roots or Parsneps.\u003C/b\u003E Take their Roots boil\u0027d very tender, and beat them in a Mortar with their weight of searced Sugar, then put in a little \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003EGum dragon\u003C/b\u003E\u003C/a\u003E as before, beat them to a Paste, and mould them up with Sugar searced, and make them up in what shape you please, and dry them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Root Biskets",
+  "usedSnapshot": "20211018071447"
+}

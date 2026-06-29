@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922074341",
+  "finalPath": "wilfra-cakes.html",
+  "heading": "Wilfra Cakes",
+  "ingredients": [
+    "apple",
+    "cheese",
+    "demerara sugar",
+    "pastry",
+    "shortcrust pastry",
+    "sugar",
+    "caster sugar",
+    "cream",
+    "custard",
+    "granulated sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "wilfra-cakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Wilfra%20Cakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWilfra Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n12oz shortcrust pastry\u003Cbr\u003E\n1lb peeled and thinly sliced cooking apples\u003Cbr\u003E\n3oz demerara sugar\u003Cbr\u003E\n3oz grated Wensleydale Cheese\u003Cbr\u003E\n\u003Cbr\u003E\nLine a well greased swiss roll tin with 2/3 of the pastry, fill with the sliced apple and sprinkle with the sugar and the cheese. Cover with the rest of the pastry and seal the edges. Bake at 180c for about 40 minutes. When cold cut into squares and serve.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "wilfra-cakes.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Wilfra%20Cakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWilfra Apple Cake\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 cooking apples, peeled, cored and sliced\u003Cbr\u003E\n2 tbsp water\u003Cbr\u003E\n4oz/110g granulated sugar\u003Cbr\u003E\n1 lb/450g rich shortcrust pastry\u003Cbr\u003E\n4oz/110g Wensleydale cheese, sliced\u003Cbr\u003E\n2 tsp caster sugar\u003Cbr\u003E\n\u003Cbr\u003E\nHeat oven to 375F/190C/gas mark 5. Grease a 12in x 8in (30cm x 20cm) Swiss roll tin. Cook the apples with water and sugar until soft. Strain and cool.\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out half the pastry to make a rectangle and line the tin. Layer with apples and cheese. Roll out the remaining pastry and place on top to cover the pie. Seal the edges, leaving two steam holes in the centre. Bake for 35 minutes until golden. Remove from the oven and sprinkle with caster sugar. Serve warm with cream or custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Wilfra Tarts",
+      "relatedPageUrl": "wilfra-tarts.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EWilfra Cake, Wilfrs Apple Cake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Wilfra Cakes",
+  "usedSnapshot": "20211201005011"
+}

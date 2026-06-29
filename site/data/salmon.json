@@ -1,0 +1,124 @@
+﻿{
+  "earliestSnapshot": "20140616090405",
+  "finalPath": "salmon.html",
+  "heading": "Salmon",
+  "ingredients": [
+    "flour",
+    "salmon",
+    "salt",
+    "sugur",
+    "vinegar",
+    "anchovies",
+    "bread",
+    "butter",
+    "cucumber",
+    "ginger",
+    "gravy",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "oysters",
+    "parsley",
+    "pepper",
+    "steak",
+    "sugar",
+    "tarragon",
+    "tea",
+    "white wine"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "salmon.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ccenter\u003E\u003Ca href=\u0022salmon-viandsalmon.jpg\u0022\u003E\u003Cimg src=\u0022salmon-viandsalmon.jpg\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Csmall\u003EVyande Cypre of Samoun in the \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027\u003Cbr\u003E\nJohn Rylands Library, Manchester\u003C/small\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EVYANDE CYPRE OF SAMOUN [1]\u003C/b\u003E\u003Cbr\u003E\nTake Almandes and bray hem unblaunched. take calwar [2] Samoun and see\u00FE it in lewe water [3] drawe up \u00FEyn Almandes with the broth. pyke out the bones out of the fyssh clene \u0026 grynde it small \u0026 cast \u00FEy mylk \u0026 \u00FEat togyder \u0026 alye it with flour of Rys, do \u00FEerto powdour fort, sugur \u0026 salt \u0026 colour it with alkenet \u0026 loke \u00FEat hit be not stondyng and messe it forth.\u003Cbr\u003E\n[1] Samoun. Salmon.\u003Cbr\u003E\n[2] calwar. Salwar, No. 167. R. Holme says, \u0022Calver is a term used\u0026nbsp;to a Flounder when to be boiled in oil, vinegar, and spices and to be\u0026nbsp;kept in it.\u0022 But in Lancashire Salmon newly taken and immediately\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;dressed is called Calver Salmon: and in Littleton Salar is a\u0026nbsp;young salmon.\u003Cbr\u003E\n[3] lewe water. warm.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "salmon.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-Luck; or, The British Home Cookery Book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESALMON IN BROTH\u003C/b\u003E (Seventeenth Century) Boil it in wine, water, and vinegar till it be tender, then put it into a piece of butter, which will soak into the fish. Take it out and lay it on a napkin, and eat it with vinegar: you may also make an excellent sauce to it with butter and anchovies.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EPICKLED SALMON\u003C/b\u003E (Essex) Boil the salmon in salted water, with two lumps of sugar and one gill of vinegar in it. Let it simmer until done. Then take it out and put into vinegar that has been well spiced with mixed pickling spice and a small piece of ginger. The vinegar must cover the fish. You can keep it thus until required.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EROLLED SALMON\u003C/b\u003E (Eighteenth Century) Take a side of salmon; when it is split, the bone taken out, and scalded, strew over the inside some pepper, salt, nutmeg, mace, a few chopped oysters, minced parsley, and bread crumbs. Roll it up tight, put it into a deep jar, and bake it in a quick oven. Pour a good Italian sauce over it before serving.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESALMON STEAK WITH CUCUMBER\u003C/b\u003E (Yorkshire) Scale the fish and cut some slices about one and a half inches thick, and wipe them perfectly dry. Allow two ounces of good butter, the strained juice of a lemon, and a teaspoonful of white wine, to each pound of fish. Rub the bottom of a stewpan well with butter and lay in the fish, straining the lemon juice over it; add a little salt. Lay over the fish a buttered paper, then put on the lid and allow twenty minutes for each pound of fish. When the fish is cooked, dish on a hot, dry dish. Garnish with little heaps of cucumber; round it strain the gravy from the stewpan, through a tammy; mix with it a tea-spoonful of finely chopped tarragon and chervil, and pour over fish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Calvered Fish",
+      "relatedPageUrl": "calvered-fish.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Curried Fish",
+      "relatedPageUrl": "curried-fish.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Grayling",
+      "relatedPageUrl": "grayling.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Jubilee Chicken",
+      "relatedPageUrl": "jubilee-chicken.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Kippers",
+      "relatedPageUrl": "kippers.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Newcastle Potted Salmon",
+      "relatedPageUrl": "newcastle-potted-salmon.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pickled Salmon",
+      "relatedPageUrl": "pickled-salmon.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Potato Table Pasty",
+      "relatedPageUrl": "potato-table-pasty.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Red Herring",
+      "relatedPageUrl": "red-herring.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shrimp and Anchovy",
+      "relatedPageUrl": "shrimp-and-anchovy.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Salmon",
+  "usedSnapshot": "20211201033727"
+}

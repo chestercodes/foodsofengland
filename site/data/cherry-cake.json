@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150513065217",
+  "finalPath": "cherry-cake.html",
+  "heading": "Cherry Cake",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "castor sugar",
+    "cherries",
+    "cherry",
+    "cream",
+    "eggs",
+    "flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cherry-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E749. CHERRY CAKE (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBeat a quarter of a pound of butter to a cream with a quarter of a pound of castor sugar; when perfectly smooth and white, add, one by one, four eggs, beating the mixture well before adding each one; sprinkle in lastly a quarter of a pound of flour with a teaspoonful of baking powder, and a quarter of a pound of cherries cut in halves. Bake for about one and a quarter hours, and let the oven be rather hot at first.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Cherry Cake",
+  "usedSnapshot": "20211201043126"
+}

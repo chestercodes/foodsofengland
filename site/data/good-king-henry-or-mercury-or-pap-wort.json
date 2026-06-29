@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150226173209",
+  "finalPath": "good-king-henry-or-mercury-or-pap-wort.html",
+  "heading": "Good King Henry, or Mercury, or Pap-Wort",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Good King Henry, or Mercury, or Pap-Wort",
+  "usedSnapshot": "20211018075202"
+}

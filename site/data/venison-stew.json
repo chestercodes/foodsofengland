@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922084750",
+  "finalPath": "venison-stew.html",
+  "heading": "Venison Stew",
+  "ingredients": [
+    "allspice",
+    "black pepper",
+    "currant",
+    "fat",
+    "gravy",
+    "jelly",
+    "mutton",
+    "pepper",
+    "port wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "venison-stew.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESTEWED VENISON.\u003C/b\u003E\u003Cbr\u003E\n1051. INGREDIENTS: A shoulder of venison, a few slices of mutton fat, 2 glasses of port wine, pepper and allspice to taste, 1-\u00BD pint of weak stock or gravy,\u00BD teaspoonful of whole pepper,\u00BD teaspoonful of whole allspice.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Hang the venison till tender; take out the bone, flatten the meat with a rolling-pin, and place over it a few slices of mutton fat, which have been previously soaked for 2 or 3 hours in port wine; sprinkle these with a little fine allspice and pepper, roll the meat up, and bind and tie it securely. Put it into a stewpan with the bone and the above proportion of weak stock or gravy, whole allspice, black pepper, and port wine; cover the lid down closely, and simmer, very gently, from 3-\u00BD to 4 hours. When quite tender, take off the tape, and dish the meat; strain the gravy over it, and send it to table with red-currant jelly. Unless the joint is very fat, the above is the best mode of cooking it.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 3-\u00BD to 4 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 4d. to 1s. 6d. per lb.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 10 or 12 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: Buck venison, from June to Michaelmas; doe venison, from November to the end of January.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Venison Stew",
+  "usedSnapshot": "20211205162441"
+}

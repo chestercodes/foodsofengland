@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922073314",
+  "finalPath": "capon-with-orange-or-oysters.html",
+  "heading": "Capon with Orange or Oysters",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "beer",
+    "bread",
+    "butter",
+    "fat",
+    "mutton",
+    "onion",
+    "orange",
+    "oysters",
+    "pepper",
+    "salt",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "capon-with-orange-or-oysters.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo dress a Capon, or other Fowl.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWhen your Fowl is truss\u0027d for Roasting, cover the Breast with a thin slice of fat Bacon, and put an Onion stuck with Cloves into the Belly, with some Salt and Pepper; when it is roasted enough, take off the Bacon, and strew it with grated Bread, till it is brown. This is eaten, either with Orange-Juice and Salt, or if Oysters are at hand, as they are about many Farms in England, they may be stew\u0027d gently with a little White Wine, Spice, and a little Butter, which will make an agreeable Sauce for it. Or else it may be eaten with a very good Sauce, which I have often met with, and have lik\u0027d as well; which is made with small Beer and Water, equal quantities, an Onion slic\u0027d, some Pepper and Salt, and about an Ounce of Flesh, either of Mutton or Beef, to boil till it comes to about half, supposing at first \u0027tis not above half a Pint; and at some places, instead of Mutton, \u0026amp;c. this Sauce has been only made of the Neck of a Fowl. This Sauce, in my Opinion, has a very rich Taste, and has been well approv\u0027d of by some curious Travellers: Where we could have this, we rather chose it than Wine-Sauce. Capons, Pullets, or others of this sort of Fowl, may be also larded with Bacon, if they are roasted; but the Gentleman aforesaid, who gave me this Receipt, told me that no Water-Fowl must be larded with Bacon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Poultry with Citrus Sauce",
+      "relatedPageUrl": "poultry-with-citrus-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Capon with Orange or Oysters",
+  "usedSnapshot": "20220527224312"
+}

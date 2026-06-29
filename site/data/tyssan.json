@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20121024085250",
+  "finalPath": "tyssan.html",
+  "heading": "Tyssan",
+  "ingredients": [
+    "anniseed",
+    "barley"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tyssan.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Tyssan.\u003C/b\u003E\u003Cbr\u003E\nTAKE a pint of Barley beeing picked, sprinkled with faire water, so put it in a faire stone morter, and with your pestell rub the barley, and that will make it tuske, then picke out the barley from the huskes, and set your barley on the fyre in a gallon of faire water, so let it seeth til it come to a pottle. Then put into your water, Succory, Endiue, Cinkefoyle, Violet leaues, of each one handfull, one ounce of Anniseed, one ounce of Liquoris bruised, and thirtie great raisons, so let all this geare seeth till it come to a quart: then take it off, let it stand and settle, and so take of the clearest of it, and let it be strained, and when you haue strained the clearest of it, then let it stand a good pretie while. Then put in foure whites of Egs al to beaten, shels and all, then stir it well together, so set it on the fyre againe, let it seeth, and euer as the scum doth rise take it off, and so let it seeth a while: then let it run through a strainer or an \u003Ca href=\u0022hippocras.html\u0022\u003E\u003Cb\u003EJpocras\u003C/b\u003E\u003C/a\u003E bagge, and drinke of it in the morning warme.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Tyssan",
+  "usedSnapshot": "20220819112620"
+}

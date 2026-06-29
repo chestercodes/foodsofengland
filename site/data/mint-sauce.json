@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922083637",
+  "finalPath": "mint-sauce.html",
+  "heading": "Mint Sauce",
+  "ingredients": [
+    "brown sugar",
+    "green mint",
+    "lamb",
+    "mint",
+    "pepper",
+    "poultry",
+    "salt",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "mint-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E415. Mint Sauce.-\u003C/b\u003E Chop three tablespoonfuls of green mint, put it into a basin with three of brown sugar, half a teaspoonful of salt, a quarter of pepper, and half a pint of vinegar. Use it with roast lamb; also good with cold meat and poultry.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mint-sauce.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMINT SAUCE, to serve with Roast Lamb.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n469. INGREDIENTS. - 4 dessertspoonfuls of chopped mint, 2 dessertspoonfuls of pounded white sugar, 1/4 pint of vinegar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Wash the mint, which should be young and fresh-gathered, free from grit; pick the leaves from the stalks, mince them very fine, and put them into a tureen; add the sugar and vinegar, and stir till the former is dissolved. This sauce is better by being made 2 or 3 hours before wanted for table, as the vinegar then becomes impregnated with the flavour of the mint. By many persons, the above proportion of sugar would not be considered sufficient; but as tastes vary, we have given the quantity which we have found to suit the general palate.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 3d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E to serve with a middling-sized joint of lamb.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E. - Where green mint is scarce and not obtainable, mint vinegar may be substituted for it, and will be found very acceptable in early spring.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMint Jelly\u003C/b\u003E",
+      "relatedPageUrl": "mint-jelly.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Mint Sauce",
+  "usedSnapshot": "20220819113837"
+}

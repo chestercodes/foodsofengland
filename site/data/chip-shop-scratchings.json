@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073940",
+  "finalPath": "chip-shop-scratchings.html",
+  "heading": "Chip-Shop Scratchings",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chip-Shop Scratchings",
+  "usedSnapshot": "20201126115433"
+}

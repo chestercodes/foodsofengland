@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922100754",
+  "finalPath": "radish-pods.html",
+  "heading": "Radish Pods",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pickled Radish Pods",
+      "relatedPageUrl": "pickled-radish-pods.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Radish Pods",
+  "usedSnapshot": "20170314011733"
+}

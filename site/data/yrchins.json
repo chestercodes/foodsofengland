@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20121024085046",
+  "finalPath": "yrchins.html",
+  "heading": "Yrchins",
+  "ingredients": [
+    "salt",
+    "almonds",
+    "currants",
+    "egg",
+    "flour",
+    "ginger",
+    "pepper",
+    "pork"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "yrchins.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "HERT ROWEE [1]. XX.VIII. XVI.\u003Cbr\u003E\nTake \u00FEer mawe of \u00FEe grete Swyne. and fyfe o\u00FEer sex of pigges mawe. fyll hem full of \u00FEe self fars. \u0026 sowe hem fast, perboile hem. take hem up \u0026 make smale prews [2] of gode past and frye hem. take \u00FEese prews yfryed \u0026 see\u00FE [3] hem \u00FEicke in \u00FEe mawes on \u00FEe fars made after [4] an urchoun withoute legges. put hem on a spyt \u0026 roost hem \u0026 colour hem with safroun \u0026 messe hem forth.\u003Cbr\u003E\n[1] Hert rowee. Contents, Hart rows; perhaps from heart. [2] prews. Qu. V. in Gloss. [3] see\u00FE. There is a fault here; it means stick. [4] after, i. e. like.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yrchins.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003Exx. Yrchouns\u003C/b\u003E - Take Piggis mawys, \u0026 skalde hem wel; take groundyn Porke, \u0026 knede it with Spicerye, with pouder Gyngere, \u0026 Salt \u0026 Sugre; do it on \u00FEe mawe, but fille it nowt to fulle; \u00FEen sewe hem with a fayre \u00FErede, \u0026 putte hem in a Spete as men don piggys; take blaunchid Almaundys, \u0026 kerf hem long, smal, \u0026 scharpe, \u0026 frye hem in grece \u0026 sugre; take a litel prycke, \u0026 prykke \u00FEe yrchons, An putte in \u00FEe holes \u00FEe Almaundys, every hole half, \u0026 eche fro o\u00FEer; ley hem \u00FEen to \u00FEe fyre; when \u00FEey ben rostid, dore hem sum wyth Whete Flowre, \u0026 mylke of Almaundys, sum grene, sum blake with Blode, \u0026 lat hem nowt browne to moche, \u0026 serue forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yrchins.html-3",
+      "receiptSource": "Receipt from unknown source supplied by St Albans Museum \u003Ca href=\u0022http://www.stalbansmuseums.org.uk\u0022\u003E\u003Cb\u003Ehttp://www.stalbansmuseums.org.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EUrchins (Urchin is the medieval name for hedgehogs)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1kg minced pork\u003Cbr\u003E\n2 teaspoons ground ginger\u003Cbr\u003E\n1 teaspoon each salt and pepper\u003Cbr\u003E\n55 grams blanched slivered almonds\u003Cbr\u003E\na few currants\u003Cbr\u003E\nthin flour and water paste coloured with food colouring\u003Cbr\u003E\n\u003Cbr\u003E\nMix the pork with the spices. Knead well and shape into balls about the size and shape of a large hen\u0027s egg.\u003Cbr\u003E\nSpike each ball with enough slivered almonds to make them look like a hedgehog and press 2 currants into each ball for eyes.\u003Cbr\u003E\nBake them in a medium oven for about 25-30 minutes until they are a nice shade of brown.\u003Cbr\u003E\nTake them out of the oven and paint them with the food colouring.\u003Cbr\u003E\nPut them back in the oven for about 5 minutes to finish off.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EUrchins, Yrchouns\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Yrchins",
+  "usedSnapshot": "20210512113028"
+}

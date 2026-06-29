@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212030548",
+  "finalPath": "meat-and-oyster-pie.html",
+  "heading": "Meat and Oyster Pie",
+  "ingredients": [
+    "kidney",
+    "oysters",
+    "pepper",
+    "salt",
+    "veal",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "meat-and-oyster-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E127. To make an OYSTER PIE.\u003C/b\u003E\u003Cbr\u003E\nTake a pint of the largest oysters you can get, clean them very well in their own liquor, if you have not liquor enough, add to them three or four spoonfuls of water; take the kidney of a loin of veal, cut it in thin slices, and season it with a little pepper and salt, lay the slices in the bottom of the dish, (but there must be no paste in the bottom of the dish) cover them with the oysters, strow over a little of the seasoning as you did for the veal; take the marrow of one or two bones, lay it over your oysters and cover them with puff-paste; when it is baked take off the lid, put into it a spoonful or two of white wine, shake it up altogether, and serve it up.\u003Cbr\u003E\nIt is proper for a side dish, either for noon or night.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Meat and Oyster Pie",
+  "usedSnapshot": "20220527220125"
+}

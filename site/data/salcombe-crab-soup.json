@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922072932",
+  "finalPath": "salcombe-crab-soup.html",
+  "heading": "Salcombe Crab Soup",
+  "ingredients": [
+    "anchovy",
+    "bay leaf",
+    "brandy",
+    "bread",
+    "butter",
+    "celery",
+    "crab",
+    "cream",
+    "fish stock",
+    "garlic",
+    "onion",
+    "pepper",
+    "salt",
+    "sherry",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "salcombe-crab-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Salcombe%20Crab%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESalcombe Crab Soup\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n1oz butter\u003Cbr\u003E\n2 sticks diced celery\u003Cbr\u003E\n1 mediun diced onion\u003Cbr\u003E\n1 crushed garlic clove\u003Cbr\u003E\n\u00BC pint white wine\u003Cbr\u003E\n1 pint good quality fish stock\u003Cbr\u003E\n1 bayleaf\u003Cbr\u003E\n1 teaspoon anchovy essence\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n1lb mixed brown and white meat (from 2 crabs)\u003Cbr\u003E\n\u00BC pint single cream\u003Cbr\u003E\n1 tablespoon brandy / 2 tablespoons sherry\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:\u003Cbr\u003E\nMelt the butter in a large saucepan and cook the onion, garlic and celery until the onion is soft and transparent. Add the wine, stock, bayleaf, anchovy essence, salt and pepper. Boil rapidly for 5 minutes. Add the crab meat and simmer for a further 10 minutes. Remove the bay leaf and liquidise the mixture. Return to the pan and add the cream and brandy or sherry. Warm through and serve with fresh crusty bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Salcombe Crab Soup",
+  "usedSnapshot": "20220527213124"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20160608013334",
+  "finalPath": "builder-s-tea.html",
+  "heading": "Builder\u0027s Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Builder\u0027s Tea",
+  "usedSnapshot": "20220527065923"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130323200014",
+  "finalPath": "padiham-pie.html",
+  "heading": "Padiham Pie",
+  "ingredients": [
+    "baked beans",
+    "beef",
+    "cheese",
+    "flour",
+    "gravy",
+    "lancashire cheese",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "padiham-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England%20Website\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "PADIHAM PIE (Never on Tuesday)\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n1lb cold roast beef\u003Cbr\u003E\n1/4 lb onions\u003Cbr\u003E\n1 small tin of tomatoes\u003Cbr\u003E\n1 small tin of baked beans\u003Cbr\u003E\n1 good teaspoon of flour\u003Cbr\u003E\n1 good teaspoon of gravy powder\u003Cbr\u003E\npepper and salt\u003Cbr\u003E\n1 \u00BC lb potatoes\u003Cbr\u003E\n1/4 lb \u003Ca href=\u0022lancashire-cheese.html\u0022\u003E\u003Cb\u003ELancashire cheese\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:\u003Cbr\u003E\nMince the beef and the onions and mix in the tomatoes, beans, flour, gravy powder and condiments. Turn into a suitable dish and cover with slices of peeled potatoes. Bake at about 375\u00BAF\u003Cbr\u003E\n(180\u00BAC, Fan 160\u00BA C, Gas Mark 5) for three quarters of an hour, capping with shredded cheese about fifteen minutes before baking finishes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Padiham Pie",
+  "usedSnapshot": "20211020221852"
+}

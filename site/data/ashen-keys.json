@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922082541",
+  "finalPath": "ashen-keys.html",
+  "heading": "Ashen-keys",
+  "ingredients": [
+    "sugar",
+    "vinegar",
+    "white-wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ashen-keys.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EAshen-keys.\u003C/b\u003E Gather them young, and boil them in three or four Waters to extract the Bitterness; and when they feel tender, prepare a syrup [131] of sharp White-Wine Vinegar, sugar, and a little Water. Then boil them on a very quick Fire, and they will become of a green Colour, fit to be potted so soon as cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    }
+  ],
+  "title": "Ashen-keys",
+  "usedSnapshot": "20211021030028"
+}

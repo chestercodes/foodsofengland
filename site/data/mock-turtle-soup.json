@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20150131160524",
+  "finalPath": "mock-turtle-soup.html",
+  "heading": "Mock Turtle Soup",
+  "ingredients": [
+    "egg",
+    "eggs",
+    "gravy",
+    "ham",
+    "veal",
+    "white wine",
+    "cayenne",
+    "flour",
+    "lemon",
+    "milk",
+    "pepper",
+    "thyme",
+    "chillies",
+    "gherkins",
+    "spinach",
+    "tapioca"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "mock-turtle-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E9. The MOCK TURTLE.\u003C/b\u003E\u003Cbr\u003E\nTake a fine large calf\u0027s head, cleans\u0027d well and stew\u0027d very tender, a leg of veal twelve pounds weight, leave out three pounds of the finest part of it; then take three fine large fowls, (bone them, but leave the meat as whole as possible,) and four pounds of the finest ham sliced; then boil the veal, fowls bones, and the ham in six quarts of water, till it is reduced to two quarts, put in the fowl and the three pounds of veal, and let them boil half an hour; take it off the fire and strain the gravy from it; add to the gravy three pints of the best white wine, boil it up and thicken it; then put in the calf\u0027s-head; have in readiness twelve large forc\u0027d-meat-balls, as large as an egg, and twelve yolks of eggs boil\u0027d hard. Dish it up hot in a terreen.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-turtle-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E14. Good White Mock Turtle Soup\u003C/b\u003E may be easily and cheaply made thus: - Purchase a calf\u0027s head; if large, use one half for a day\u0027s dinner; cook as receipt No. 87; take the remains of that, if any, with the other half, and remove the bone; cut the meat into square pieces; add it in proportion of one pound of meat to every four quarts of broth of No. 1; mix some flour and milk, as above, and add it to it, and half a teaspoonful ei cayenne pepper, and four cloves; let it simmer on the fire for one hour, tie up six sprigs of savory, same of thyme, which put into the soup, and remove when serving. The juice of half a lemon is an improvement, just before serving, as well as a drop of wine, if handy. If required brown, add three tablespoonfuls ol colouring; and use water or broth for thickening, instead of milk. The water in which the calf\u0027s head is boiled may be kept, and added to the stock. This soup will keep for a long time if boiled occasionally, and a little water added; it should never be covered, or fermentation will commence; it should be occasionally stirred until cold. Strong stocks are more likely to turn sour than thin ones, more particularly if they have vegetables and flour in them; to prevent which, when this soup is kept in a basin, leave the mouth exposed to the air.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mock-turtle-soup.html-3",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EReform Cookery Book\u003C/i\u003E\u0027 (4th edition) by Mrs. Mill (\u003Ca href=\u0022references.html#mill-1909\u0022\u003E\u003Cb\u003EMill 1909\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMock Turtle Soup.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPrepare a quantity of strong, clear, highly-flavoured stock of a greenish-brown colour. The colour can be obtained by boiling some winter greens or spinach along with the other things. A few chopped gherkins, capers, or chillies will give the required piquancy. Have 4 ozs. tapioca soaked overnight, add to the boiling stock and cook gently till perfectly clear. Some small quenelles may be poached separately and put in tureen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mill-1909"
+    }
+  ],
+  "title": "Mock Turtle Soup",
+  "usedSnapshot": "20210410110210"
+}

@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140623135027",
+  "finalPath": "dorset-dough-cake.html",
+  "heading": "Dorset Dough Cake",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "caster sugar",
+    "dried fruit",
+    "flour",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dorset-dough-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://yarnmagazine.co.uk\u0022\u003E\u003Cb\u003Ehttp://yarnmagazine.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "by Sara Hudston February 20, 2015\u003Cbr\u003E\n\u003Cbr\u003E\nDo you remember Dorset Dough Cake? It used to be made by Smith\u2019s bakery in Gillingham and sold in shops around the county, including Balson\u2019s butchers in Bridport.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen Peter Smith fell ill in 2006, Smith\u2019s closed and dough cake production ceased. Moores Biscuits in Bridport stepped into the breach and made dough cake for a few months, but there was low demand and they found it was too timeconsuming to continue. For the last five years or so, no one has made dough cake for sale in Dorset on a regular basis.\u003Cbr\u003E\n\u003Cbr\u003E\nBut now, Yarn Magazine has uncovered a traditional recipe for the cake and Sheila Gilbey, from the Abbots House in Charmouth, shows us how to prepare one.\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 225g (8oz) strong white flour\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD teaspoon salt\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 55g (2oz) butter\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; One sachet yeast\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 150ml (5fl oz) water\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 115g (4oz) mixed dried fruit\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 55g (2oz) caster sugar\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; teaspoon mixed spice\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:\u003Cbr\u003E\n\u003Cbr\u003E\nUse the ingredients to make a very soft dough, rise, knock back and place in a 6-inch cake tin to rise and then bake at 190\u00B0C for 30 to 45 minutes. Cover with paper if necessary to prevent burning on top. When cool, brush with sugar syrup to glaze.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESurrey Dough Cake\u003C/b\u003E",
+      "relatedPageUrl": "surreylardiecakes(ordoughcakes).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPortland Pudding\u003C/b\u003E",
+      "relatedPageUrl": "portland-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDevon Dough Cake\u003C/b\u003E",
+      "relatedPageUrl": "devon-dough-cake.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": ", \u003Cb\u003EPortland Dough Cake\u003C/b\u003E.",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dorset Dough Cake",
+  "usedSnapshot": "20220527070236"
+}

@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140212024856",
+  "finalPath": "spare-rib-pie.html",
+  "heading": "Spare Rib Pie",
+  "ingredients": [
+    "beetroot",
+    "egg",
+    "parsley",
+    "pastry",
+    "pepper",
+    "pork",
+    "salt",
+    "shortcrust pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spare-rib-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELakeland Recipes Old and New\u003C/i\u003E\u0027 by Joan Poulson 1978. (Countryside Publications, ISBN 0 86157 008 1). Found by Linda Johnson",
+      "receiptText": "Page 20 No. 20\u003Cbr\u003E\n\u003Cb\u003ESparerib Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis pie is traditionally served cold with pickled beetroot.\u003Cbr\u003E\n\u003Cbr\u003E\n2 lb pork spareribs\u003Cbr\u003E\none egg\u003Cbr\u003E\nhalf pound shortcrust pastry\u003Cbr\u003E\none teaspoon chopped parsley\u003Cbr\u003E\nthree quarter pint brown stock\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nStrip the meat form the bones and cut into one inch pieces. Put into a two pint dish and season with salt and pepper. Sprinkle in the parsley, pour in the stock and roll out the pastry to make a lid. Decorate with pastry leaves and brush with beaten egg. Bake at 350F, 180C or gas mark 4 for 90 minutes to two hours until golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Spare Rib Pie",
+  "usedSnapshot": "20211129114855"
+}

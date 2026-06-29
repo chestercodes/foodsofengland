@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140212030748",
+  "finalPath": "cheese-and-onion-pie.html",
+  "heading": "Cheese and Onion Pie",
+  "ingredients": [
+    "cheese",
+    "flour",
+    "lard",
+    "onion",
+    "onions",
+    "pastry",
+    "breadcrumbs",
+    "butter",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cheese-and-onion-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESevenoaks Chronicle and Kentish Advertiser\u003C/i\u003E\u0027 - Friday 04 July 1913",
+      "receiptText": "\u003Cb\u003ECheese and Onion Pie\u003C/b\u003E.\u2014 One pound flour, 1/2 lb. lard or dripping, 1lb onions a grated cheese. Boil onions until soft. Make pastry, and line a large dinner plate. Chop onions, and lay on paste. Grate a little cheese (American preferred) over the onions, add seasoning, and cover with pastry. Time for cooking as for ordinary paste.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cheese-and-onion-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDaily Herald\u003C/i\u003E\u0027 - Tuesday 04 November 1930",
+      "receiptText": "\u003Cb\u003ECheese and Onion Pie\u003C/b\u003E 1 lb., onions, 1lb cheese. cup milk. 1 oz. butter. 1 dessertspoonful flour. Parboil the onions, slice them fairly thickly and arrange in a greased pie-dish alternate rows of onion and sliced cheese. Pour over a white sauce made with the flour, milk and butter (blend the flour with a little of the milk before cooking). Sprinkle with seasoned breadcrumbs, dot with butter and bake half hour in hot oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECheese and Onion Tart\u003C/b\u003E",
+      "relatedPageUrl": "cheese-and-onion-tart.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECheshire Onion Pie\u003C/b\u003E",
+      "relatedPageUrl": "cheshire-onion-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Cheese and Onion Pie",
+  "usedSnapshot": "20220815154341"
+}

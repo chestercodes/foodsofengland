@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150823040139",
+  "finalPath": "cumberland-egg-and-bacon-pie.html",
+  "heading": "Cumberland Egg and Bacon Pie",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "butter",
+    "cream",
+    "cucumber",
+    "eggs",
+    "flour",
+    "lettuce",
+    "mashed potatoes",
+    "plain flour",
+    "potatoes",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cumberland-egg-and-bacon-pie.html-1",
+      "receiptSource": "Original Receipt in the Sussex Agricultural Express - Friday 22 July 1938",
+      "receiptText": "\u003Cb\u003ECumberland Pie\u003C/b\u003E A good dish for hot days and one which nearly everyone will like. Ingredients: 6 ozs. butter, 6 ozs. plain flour, 9 ozs. mashed potatoes (cold), 8 ozs. bacon, four eggs, Cream the butter, add the flour and potatoes. Knead well and divide Into two. Roll out and line pie dish with half the paste. Trim the rashers bacon, rail them separately, and lay them In the bottom of the pie. Beat the eggs and season them, pour them over the bacon, and cover with the other half the paste. Cut two small slits in the top, and bake in moderate oven for minutes. This dish can served cold with mixed salad lettuce, tomatoes, cucumber, etc., hot with stuffed tomatoes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cumberland Egg and Bacon Pie",
+  "usedSnapshot": "20220516212327"
+}

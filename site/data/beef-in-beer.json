@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20130323195822",
+  "finalPath": "beef-in-beer.html",
+  "heading": "Beef in Beer",
+  "ingredients": [
+    "bacon",
+    "bay leaf",
+    "beef",
+    "beer",
+    "butter",
+    "fat",
+    "flour",
+    "herbs",
+    "onions",
+    "pepper",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-in-beer.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Beef%20in%20Beer\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2 lbs beef, cubed\u003Cbr\u003E\n4 oz streaky bacon, chopped\u003Cbr\u003E\n4oz butter or dripping\u003Cbr\u003E\n5 medium onions, peeled and thinly sliced\u003Cbr\u003E\n1 \u00BD tbsp flour\u003Cbr\u003E\n1 pint dark beer\u003Cbr\u003E\n2 to 3 sprigs fresh thyme\u003Cbr\u003E\n1 bay leaf\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the fat in a cooking pot over a medium heat, add the seasoned beef and bacon and stir until brown. Add onions, reduce the heat, cook \u0027till soft. Add the flour and stir in until the flour begins to brown. Add the beer and stir until it begins to thicken. Add the herbs, cover and cook over a low heat, or in the oven, for about 2 hours or until the beef is soft.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Beef in Beer",
+  "usedSnapshot": "20211201031118"
+}

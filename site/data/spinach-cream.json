@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140508110534",
+  "finalPath": "spinach-cream.html",
+  "heading": "Spinach Cream",
+  "ingredients": [
+    "beat",
+    "biscuits",
+    "cinnamon",
+    "cream",
+    "custard",
+    "eggs",
+    "milk",
+    "orange",
+    "pudding",
+    "spinach"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spinach-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SPINACH CREAM. Beat the yolks of eight eggs with a whisk or a wooden spoon, sweeten it well, and add a stick of cinnamon, a pint of rich cream, and three quarters of a pint of new milk. Stir it well, and then add a quarter of a pint of spinach juice. Set it over a gentle[386] stove, and stir it constantly one way, till it is as thick as a hasty pudding. Put into a custard dish some Naples biscuits, or preserved orange, in long slices, and pour the mixture over them. It is to be eaten cold, and is a dish either for supper, or for a second course.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Spinach Cream",
+  "usedSnapshot": "20211205170647"
+}

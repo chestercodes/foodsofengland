@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212015507",
+  "finalPath": "rhubarb-turnover.html",
+  "heading": "Rhubarb Turnover",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rhubarb Turnover",
+  "usedSnapshot": "20211129123702"
+}

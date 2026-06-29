@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084630",
+  "finalPath": "shellfish-soup.html",
+  "heading": "Shellfish Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shellfish Soup",
+  "usedSnapshot": "20210518194448"
+}

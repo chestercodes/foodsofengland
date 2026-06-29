@@ -1,0 +1,100 @@
+﻿{
+  "earliestSnapshot": "20140212020935",
+  "finalPath": "deddington-pudden-pie.html",
+  "heading": "Deddington Pudden Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "cinnamon",
+    "desiccated coconut",
+    "eggs",
+    "flan",
+    "flour",
+    "jam",
+    "lard",
+    "milk",
+    "pastry",
+    "rice",
+    "salt",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "deddington-pudden-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003ETraditional English Cooking\u003C/i\u003E published by Angus and Robertson Ltd. recorded by Ella Marshall in the \u0027Deddington News\u0027, November 1976",
+      "receiptText": "Short crust pastry:\u003Cbr\u003E\n4oz. mixed lard and butter\u003Cbr\u003E\n4 tablespoons cold water\u003Cbr\u003E\n1/2 lb flour\u003Cbr\u003E\n\u003Cbr\u003E\nTo make filling, heat 1 \u00BD cups milk (3/4 pint), add 2 rounded tablespoons caster sugar. Mix 3 level tablespoons ground rice and 1 teaspoon salt with 3 tablespoons water. Stir this into the warm milk. Cook and keep stirring until it thickens. Continue cooking \u0022pudden\u0022 mixture for further 5 minutes. Remove from heat. Beat two eggs in a bowl and stir into rice mixture. Flavour with \u00BD teaspoon vanilla essence. Roll out pastry and line greased saucers with the pastry. Cover pastry with jam or desiccated coconut, then pour gently a little of \u0022pudden\u0022 mixture over. Bake 20 mins. in medium oven (325F) until pastry is cooked underneath. Remove from oven and if liked dust very lightly with ground cinnamon. Nowadays these could be made in an 8\u0022 flan about 2\u0022 deep. Serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carrot Pudding-Pie",
+      "relatedPageUrl": "carrot-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Deddington Pudden Pie",
+      "relatedPageUrl": "deddington-pudden-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Folkestone Pudding Pie",
+      "relatedPageUrl": "folkestone-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ground Rice Pudding Pie",
+      "relatedPageUrl": "ground-rice-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Lent Tart or Kentish Pudding Pie",
+      "relatedPageUrl": "lent-tart-or-kentish-pudding-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/pudding-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EDeddington Pudding Pie, Pudding-Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Deddington Pudden Pie",
+  "usedSnapshot": "20211201040108"
+}

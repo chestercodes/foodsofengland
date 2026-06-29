@@ -1,0 +1,91 @@
+﻿{
+  "earliestSnapshot": "20150922072125",
+  "finalPath": "sandwich.html",
+  "heading": "Sandwich",
+  "ingredients": [
+    "beef",
+    "bread",
+    "butter",
+    "chicken",
+    "cucumber",
+    "egg",
+    "foie-gras",
+    "ham",
+    "mustard",
+    "tomato",
+    "veal",
+    "watercress"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sandwich.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier 1903\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "2336 - SANDWICHES\u003Cbr\u003E\n\u003Cbr\u003E\nSandwiches are prepared in two ways, according to their purposes.\u003Cbr\u003E\n\u003Cbr\u003E\nThey generally consist of two slices of buttered bread, with mustard spread upon them, covering a slice of ham or tongue, \u0026amp;c. Sandwiches are usually rectangular, and they should measure about three inches by one and one-half inches. The kind served at ball buffets are much smaller, and therefore it is best to cut the sandwiched product (whatever this be) into dice, and to mix it with an equal weight of butter containing mustard.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen sandwiches have to be kept, they should be placed under a slight weight to prevent the bread from drying. Sandwiches may also be made from thick, toasted slices of bread, cut laterally into two, and then garnished according to fancy.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003ENames of common Sandwiches.\u003C/i\u003E\u003Cbr\u003E\nHam Sandwich.\u003Cbr\u003E\nFoie-Gras Sandwich.\u003Cbr\u003E\nTongue Sandwich.\u003Cbr\u003E\nHard-boiled Egg Sandwich.\u003Cbr\u003E\nBeef Sandwich.\u003Cbr\u003E\nCaviare Sandwich.\u003Cbr\u003E\nPressed-beef Sandwich.\u003Cbr\u003E\nTomato Sandwich.\u003Cbr\u003E\nVeal Sandwich.\u003Cbr\u003E\nCucumber Sandwich.\u003Cbr\u003E\nChicken Sandwich.\u003Cbr\u003E\nWatercress Sandwich.\u003Cbr\u003E\nMustard-and-cress Sandwich.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bacon Butty",
+      "relatedPageUrl": "bacon-butty.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Beef Paste",
+      "relatedPageUrl": "beef-paste.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Bermuda Witches",
+      "relatedPageUrl": "bermuda-witches.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Bookmaker Sandwiches",
+      "relatedPageUrl": "bookmaker-sandwiches.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Marmalade",
+      "relatedPageUrl": "marmalade.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Prawns",
+      "relatedPageUrl": "prawns.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Sausage Sandwich",
+      "relatedPageUrl": "sausage-sandwich.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toast Sandwiches",
+      "relatedPageUrl": "toast-sandwiches.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toasted Cheese Sandwiches",
+      "relatedPageUrl": "toasted-cheese-sandwiches.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Sandwich",
+  "usedSnapshot": "20220706160513"
+}

@@ -1,0 +1,96 @@
+﻿{
+  "earliestSnapshot": "20140616081353",
+  "finalPath": "chip-shop-fried-fish.html",
+  "heading": "Chip-Shop Fried Fish",
+  "ingredients": [
+    "eels",
+    "egg",
+    "fat",
+    "flour",
+    "halibut",
+    "lard",
+    "lemon",
+    "salt",
+    "vinegar",
+    "ale",
+    "beat",
+    "cod",
+    "eggs",
+    "salmon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chip-shop-fried-fish.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer\u0027s A Shilling Cookery for The People, 1845\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E75. Fried Fish, Jewish Fashion.\u003C/b\u003E\u003Cbr\u003E\nThis is another excellent way of frying fish, which is constantly in use by the children of Israel, and I cannot recommend it too highly; so much so, that various kinds of fish which many people despise, are excellent cooked by this process; in eating them many persons are deceived, and would suppose them to be the most expensive of fish. The process is at once simple, effective, and economical; not that I would recommend it for invalids, as the process imbibes some of the fat, which, however palatable, would not do for the dyspeptic or invalid.\u003Cbr\u003E\n\u003Cbr\u003E\n76. Proceed thus:- Cut one or two pounds of halibut in one piece, lay it in a dish, cover the top with a little salt, put some water in the dish, but not to cover the fish; let it remain thus for one hour. The water being below, causes the salt to penetrate into the fish. Take it out and dry it; cut out the bone, and the fins off; it is then in two pieces. Lay the pieces on the side, and divide them into slices half an inch thick; put into a frying pan, with a quarter of a pound of fat, lard, or dripping (the Jews use oil); then put two ounces of flour into a soup-plate, or basin, which mix with water, to form a smooth batter, not too thick. Dip the fish in it, that the pieces are well covered; then have the fat, not too hot, put the pieces in it, and fry till a nice colour, turning them over. When done, take it out with a slice, let it drain, dish up, and serve. Any kind of sauce that is liked may be used with it; but plain, with a little salt and lemon, is excellent. This fish is often only threepence to fourpence per pound; it containing but little bone renders it very economical. It is excellent cold, and can be eaten with oil, vinegar, and cucumbers, in summer time, and is exceedingly cooling. An egg is an improvement in the batter.\u003Cbr\u003E\n\u003Cbr\u003E\nThe same fish as before mentioned as fit for frying, may be fried in this manner. Eels are excellent done so; the batter absorbs the oil which is in them.\u003Cbr\u003E\n\u003Cbr\u003E\nFlounders may also be done in this way. A little salt should be sprinkled over before serving.\u003Cbr\u003E\n\u003Cbr\u003E\n77. In some Jewish families all this kind of fish is fried in oil, and dipped in batter, as described above. In some families they dip the fish first in flour, and then in egg, and fry in oil. This plan is superior to that fried in fat or dripping, but more expensive.\u003Cbr\u003E\n\u003Cbr\u003E\nMany of the above-mentioned families have stated days on which they fry, or stew their fish, which will keep good several days in summer, and I may almost say, weeks in winter; and being generally eaten cold, it saves them a deal of cooking. Still, I must say that there is nothing like a hot dinner.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chip-shop-fried-fish.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Some love fish in batter; then you must beat an egg fine, and dip your fish in just as you are going to put it in the pan; or as good a batter as any, is a little ale and flour beat up, just as you are ready for it, and dip the fish, to fry it.\u003Cbr\u003E\n\u003Cbr\u003E\n[and in the same book]\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EThe Jews Way of preserving Salmon and all Sorts of Fish\u003C/b\u003E\u003Cbr\u003E\nTAKE either salmon, cod, or any large fish, cut off the head, wash it clean, and cut it in slices as crimped cod is, dry It very well in a cloth; then flour it, and dip it in yolks of eggs, and fry it in a great deal of oil, till it is of a fine brown, and well done; take it out, and lay it to drain, till it is very dry and cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fish",
+      "relatedPageUrl": "fish.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Beer Battered Fish",
+      "relatedPageUrl": "beer-battered-fish.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Chip-Shop Fried Fish",
+      "relatedPageUrl": "chip-shop-fried-fish.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cod\u0027s Head (and shoulders)",
+      "relatedPageUrl": "cod-s-head-and-shoulders.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Deep Fried Fish",
+      "relatedPageUrl": "deep-fried-fish.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fish and Chips",
+      "relatedPageUrl": "fish-and-chips.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fried Fish in Crumb",
+      "relatedPageUrl": "fried-fish-in-crumb.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Chip-Shop Fried Fish",
+  "usedSnapshot": "20220516221847"
+}

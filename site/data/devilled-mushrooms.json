@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922074536",
+  "finalPath": "devilled-mushrooms.html",
+  "heading": "Devilled Mushrooms",
+  "ingredients": [
+    "butter",
+    "flour",
+    "milk",
+    "mushrooms",
+    "mustard",
+    "parsley",
+    "plain flour",
+    "toast",
+    "worcester sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devilled-mushrooms.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Devilled%20Mushrooms\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 oz Butter\u003Cbr\u003E\n6 oz Mushrooms, sliced\u003Cbr\u003E\n1 Tablespoon Plain flour\u003Cbr\u003E\n1/4 pint Milk\u003Cbr\u003E\n2 Teaspoons Worcester sauce\u003Cbr\u003E\n1 Teaspoon mustard\u003Cbr\u003E\n4 Slices Hot buttered toast\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\nMelt the butter in a saucepan, saute the mushrooms for 2 minutes. Add the flour, cook for a minute and slowly add the remaining ingredients, stirring continuously until the mixture boils. Simmer for 2 minutes. Pile on top of hot toast, serve immediately garnished with parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Devilled Mushrooms",
+  "usedSnapshot": "20220527053323"
+}

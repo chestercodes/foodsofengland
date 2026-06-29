@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20121024084306",
+  "finalPath": "loseyns.html",
+  "heading": "Loseyns",
+  "ingredients": [
+    "cheese",
+    "flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "loseyns.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ccenter\u003E\u003Ca href=\u0022loseyns-loseyns.jpg\u0022\u003E\u003Cimg src=\u0022loseyns-loseyns.jpg\u0022 width=\u0022324\u0022 height=\u0022381\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Csmall\u003EJohn Rylands Library\u003C/small\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ELoseyns\u003C/b\u003E:\u003Cbr\u003E\nTake gode broth and do in an erthen pot, take flour of payndemayn and make \u00FEerof past with water. and make \u00FEerof thynne foyles as paper with a roller, drye it harde and see\u00FE it in broth take Chese ruayn grated and lay it in disshes with powdour douce. and lay \u00FEeron loseyns isode as hoole as \u00FEou mizt and above powdour and chese, and so twyse or thryse, \u0026 serue it forth.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003ETake good broth and put in an earthenware pot, take fine white flour and make with it a paste with water, and make from that foils as thin as paper with a roller, dry them hard and seethe them in the broth. Take grated \u003Ca href=\u0022ruayn-cheese.html\u0022\u003E\u003Cb\u003Esoft cheese\u003C/b\u003E\u003C/a\u003E and lay it in dishes with \u003Ca href=\u0022spice-powders.html\u0022\u003E\u003Cb\u003Espice powder\u003C/b\u003E\u003C/a\u003E, and lay over it the pasta layers as many and as thick as you wish, and above powder and cheese, and so two or three times, \u0026 serve it forth.\u003C/i\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Essex Meat Layer Pudding",
+      "relatedPageUrl": "essex-meat-layer-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    }
+  ],
+  "title": "Loseyns",
+  "usedSnapshot": "20211224051700"
+}

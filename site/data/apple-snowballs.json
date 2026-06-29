@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922072136",
+  "finalPath": "apple-snowballs.html",
+  "heading": "Apple Snowballs",
+  "ingredients": [
+    "apple",
+    "milk",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-snowballs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAPPLE SNOWBALLS.\u003C/b\u003E\u003Cbr\u003E\n1235. INGREDIENTS. - 2 teacupfuls of rice, apples, moist sugar, cloves.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Boil the rice in milk until three-parts done; then strain it off, and pare and core the apples without dividing them. Put a small quantity of sugar and a clove into each apple, put the rice round them, and tie each ball separately in a cloth. Boil until the apples are tender; then take them up, remove the cloths, and serve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. -\u00BD hour to boil the rice separately;\u00BD to 1 hour with the apple.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E from August to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "webster-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Apple Snowballs",
+  "usedSnapshot": "20211205165758"
+}

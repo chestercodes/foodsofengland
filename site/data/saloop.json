@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922072306",
+  "finalPath": "saloop.html",
+  "heading": "Saloop",
+  "ingredients": [
+    "lemon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "saloop.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SALOOP. Boil together a little water, wine, lemon peel, and sugar. Mix in a small quantity of saloop powder, previously rubbed smooth with a little cold water. Stir it all together, and boil it a few minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "www.gutenberg.org",
+      "relatedPageUrl": "http://www.gutenberg.org/files/37817/37817-h/37817-h.htm#Page_85",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ESalep, Saleb\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Saloop",
+  "usedSnapshot": "20210731145022"
+}

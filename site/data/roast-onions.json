@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922083511",
+  "finalPath": "roast-onions.html",
+  "heading": "Roast Onions",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Roast Onions",
+  "usedSnapshot": "20220527062654"
+}

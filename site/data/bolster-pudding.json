@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922082312",
+  "finalPath": "bolster-pudding.html",
+  "heading": "Bolster Pudding",
+  "ingredients": [
+    "flour",
+    "jam",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bolster-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "No. 97. JAM PUDDING.\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients, one pound of flour, six ounces of suet, half a pint of water, a pinch of salt, one pound of any kind of common jam. Mix the flour, suet, water, and salt into a firm, compact kind of paste; roll this out with a rolling-pin, sprinkling some flour on the table to prevent the paste from sticking to either; fold up the paste, and roll it out again; repeat the rolling-out and folding three times; this operation will make the paste lighter. Next, roll out the paste one foot long by eighteen inches wide, spread the jam all over this, roll up the pudding in the form of a bolster, roll it up in a well-greased and floured cloth, tie it up tightly at both ends; put the pudding into a pot of boiling water, and boil it for nearly two hours; when done, turn out carefully on to its dish, without breaking the crust\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Bolster Pudding",
+  "usedSnapshot": "20211207112427"
+}

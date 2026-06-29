@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140616083023",
+  "finalPath": "herring-pye.html",
+  "heading": "Herring Pye",
+  "ingredients": [
+    "butter",
+    "herrings",
+    "nutmeg",
+    "raisins",
+    "sugar",
+    "black pepper",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "herring-pye.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E117. To make a Herring Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake four of the best pickled Herrings, and skin them, then split them and bone them, then having your Pie in readiness with Butter in the bottom, then lay your Herrings in halves into your Pie one lay of them, then put in Raisins, Currans and Nutmeg, and a little Sugar, then lay in more Butter, then more Herrings, Fruit and Spice, and more Butter, and so close it, and bake it; your Herrings must be well watered.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "herring-pye.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "124. To make a HERRING-PIE of WHITE SALT HERRINGS.\u003Cbr\u003E\n\u003Cbr\u003E\nTake five or six salt herrings, wash them very well, lay them in a pretty quantity of water all night to take out the saltness, season them with a little black pepper, three or four middling onions pill\u0027d and shred very fine lay one part of them at the bottom of the pie, and the other at the top; to five or six herrings put in half a pound of butter, then lay in your herrings whole, only take off the heads; make them into a standing pie with a thin crust.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Herring Pye",
+  "usedSnapshot": "20220527214701"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922093228",
+  "finalPath": "bacon-cakes.html",
+  "heading": "Bacon Cakes",
+  "ingredients": [
+    "bacon",
+    "baking powder",
+    "butter",
+    "cheese",
+    "flour",
+    "milk",
+    "plain flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-cakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bacon%20Cakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBrummy Bacon Cakes\u003C/b\u003E (8 cakes)\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n3oz streaky bacon, diced\u003Cbr\u003E\n3 oz grated hard cheese\u003Cbr\u003E\n8 oz plain flour\u003Cbr\u003E\n2 tsp baking powder\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n\u00BC pint milk\u003Cbr\u003E\n2 oz butter\u003Cbr\u003E\n\u003Cbr\u003E\nLightly fry the bacon bits. Rub the flour into the butter and half of the cheese, the salt and baking powder, add the bacon. Add enough milk to make a soft dough. Form into 8 \u00BD thick patties, sprinkle with the remaining cheese and bake in a hot oven until risen and browned, about 15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBacon Fraise or Froise\u003C/b\u003E",
+      "relatedPageUrl": "baconfraise(1).htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBacon Floddies\u003C/b\u003E",
+      "relatedPageUrl": "bacon-floddies.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EBrummie Bacon Cakes\u003C/b\u003E, or \u003Cb\u003EBrummie Breakfast Cakes\u003C/b\u003E, or \u003Cb\u003EBacon Breakfast Cakes\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bacon Cakes",
+  "usedSnapshot": "20211201032939"
+}

@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922074936",
+  "finalPath": "pickled-red-cabbage.html",
+  "heading": "Pickled Red Cabbage",
+  "ingredients": [
+    "cabbage",
+    "ginger",
+    "jamaica pepper",
+    "pepper",
+    "salt",
+    "allspice",
+    "black pepper",
+    "mustard",
+    "mustard seed",
+    "nutmeg",
+    "onions",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-red-cabbage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E415. To pickle Red Cabbage.\u003C/b\u003E\u003Cbr\u003E\nTake a red cabbage, chuse it a purple red, for the light red never proves a good colour; so take your cabbage and shred it in very thin slices, season it with pepper and salt very well, let it lie all night upon a broad tin, or a dripping-pan; take a little alegar, put to it a little Jamaica pepper, and two or three rases of ginger, boil them together, and when it is cold pour it upon your cabbage, and in two or three days time it will be fit for use.\u003Cbr\u003E\nYou may throw a little colliflower among it, and it will turn red.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-red-cabbage.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO PICKLE RED CABBAGE.\u003C/b\u003E\u003Cbr\u003E\nCut a fresh light red cabbage into slips, wash it clean, and put it into a pan with plenty of salt for two days. Then boil together for half an hour a sufficient quantity of vinegar to cover the cabbage, together with bruised black pepper, mace, allspice, cloves, ginger, nutmeg, and mustard seed, a middling quantity of each. Strain the vinegar and ingredients, and let them stand till cold; then add a little bruised cochineal, drain the cabbage on a large sieve till dry, put it into the jars down close; or the liquor may be poured over the cabbage boiling hot; and when cold, before the jars are tied down, add a little bruised cochineal. This method will make the cabbage sooner fit for use.\u003Cbr\u003E\n\u003Cbr\u003E\nN. B. Onions may be peeled and done whole in the same manner, and mixed with red cabbage.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Pickled Red Cabbage",
+  "usedSnapshot": "20211207112952"
+}

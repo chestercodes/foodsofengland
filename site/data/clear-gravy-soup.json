@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922084908",
+  "finalPath": "clear-gravy-soup.html",
+  "heading": "Clear Gravy Soup",
+  "ingredients": [
+    "beef",
+    "bouillon",
+    "carrots",
+    "celery",
+    "faggot",
+    "fat",
+    "flan",
+    "gravy",
+    "ham",
+    "herbs",
+    "horse-radish",
+    "mushroom",
+    "onion",
+    "salt",
+    "soy",
+    "sugar",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "clear-gravy-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECHEAP, CLEAR GRAVY SOUP.\u003C/b\u003E\u003Cbr\u003E\nThe shin or leg of beef, if not large or coarse, will answer extremely well for this soup, and afford at the same time a highly economical dish of boiled meat, which will be found very tender, and very palatable also, if it be served with a sauce of some piquancy. From about ten pounds of the meat let the butcher cut evenly off five or six from the thick fleshy part, and again divide the knuckle, that the whole may lie compactly in the vessel in which it is to be stewed. Pour in three quarts of cold water, and when it has been brought slowly to boil, and been well skimmed, as directed for bouillon, throw in an ounce and a half of salt, half a large teaspoonful of peppercorns, eight cloves, two blades of mace, a faggot of savoury herbs, a couple of small carrots, and the heart of a root of celery; to these add a mild onion or not, at choice. When the whole has stewed very softly for four hours, probe the larger bit of beef, and if quite tender, lift it out for table; let the soup be simmered from two to three hours longer, and then strain it through a fine sieve, into a clean pan. When it is perfectly cold, clear off every particle of fat; heat a couple of quarts, stir in, when it boils, half an ounce of sugar, a small table-spoonful of good soy, and twice as much of \u003Ca href=\u0022harvey-sauce.html\u0022\u003E\u003Cb\u003EHarvey\u0027s sauce\u003C/b\u003E\u003C/a\u003E, or instead of this, of clear and fine \u003Ca href=\u0022mushroom-ketchup.html\u0022\u003E\u003Cb\u003Emushroom catsup\u003C/b\u003E\u003C/a\u003E. If carefully made, the juices of meat, drawn out with a small portion of liquid, as directed here, may easily be reduced to the consisteney in which they form what is called flan.\u003Cbr\u003E\n\u003Cbr\u003E\nThe best method, though perhaps not the easiest, of making the clear, amber-coloured stock, is to pour a ladleful or two of pale but strong beef-broth to the veal, and to boil it briskly until well reduced, thrusting a knife when this is done into the meat, to let the juices escape; then to proceed more slowly and cautiously as the liquid approaches the state in which it would burn. It must be allowed to take a dark amber-colour only, and the meat must be turned, and often moved in it. When the desired point is reached, pour in more boiling broth, and let the pan remain off the fire for a few minutes, to detach and melt the glaze; then shake it well rolling before the boiling is continued. A certain quantity of deeply coloured glaze, made apart, and stirred into strong, clear, pale stock, would produce the desired effect of this, with much leas trouble.\u003Cbr\u003E\n\u003Cbr\u003E\nThe soup will be perfectly transparent and of good colour and flavour. A thick slice of lean ham will improve it, and a pound or so of the neck of beef with an additional pint of water, will likewise eurich its quality. A small quantity of good broth may be made of the fragments of the whole boiled down with a few fresh vegetables.\u003Cbr\u003E\n\u003Cbr\u003E\nBrown caper, or hot horse-radish sauce, or sauce Robert, or sauce pit/uante, made with the liquor in which it is boiled, may be served with the portion of the meat which is sent to table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Clear Gravy Soup",
+  "usedSnapshot": "20220808012930"
+}

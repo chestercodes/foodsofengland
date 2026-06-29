@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922084534",
+  "finalPath": "prince-albert-s-pudding.html",
+  "heading": "Prince Albert\u0027s Pudding",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "pudding",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prince-albert-s-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPrince Albert\u0027s Pudding.\u003C/b\u003E\u003Cbr\u003E\nBeat to a cream half a pound of fresh butter and mix with it by degrees an equal weight of pounded loaf-sugar, dried and sifted; add to these, after they nave been well beaten together, first the yolks, and then the whites of five fresh eggs, which have been thoroughly whisked apart; now strew lightly in, half a pound of the finest flour, dried and sifted, and last of all, half a pound of jar raisins, weighed after they are stoned. Put these ingredients, perfectly mixed, into a well-buttered mould, or floured cloth, and boil the pudding for three hours. Serve it with punch sauce. We recommend a little pounded mace, or the grated rind of a small lemon, to vary the flavour of this excellent pudding; and that when a mould is used, slices of candied peel should be laid rather thickly over it after it is buttered.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fillet of Beef Prince Albert",
+      "relatedPageUrl": "fillet-of-beef-prince-albert.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Prince Albert\u0027s Pudding",
+  "usedSnapshot": "20210510052012"
+}

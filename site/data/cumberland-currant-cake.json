@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20140212030813",
+  "finalPath": "cumberland-currant-cake.html",
+  "heading": "Cumberland Currant Cake",
+  "ingredients": [
+    "currant",
+    "currants",
+    "pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cumberland-currant-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECookery Illustrated \u0026 Household Management\u003C/i\u003E\u0027 by Elizabeth Craig (Odhams 1936)",
+      "receiptText": "\u003Cb\u003ECumberland Currant Cake.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nShort Pastry\u003Cbr\u003E\nMixed Peel\u003Cbr\u003E\nMinced Washed Currants\u003Cbr\u003E\nMixed Spice\u003Cbr\u003E\nSugar\u003Cbr\u003E\n\u003Cbr\u003E\nRoll Short Pastry into an oblong strip 10 by 20 inches. Cut the strips into two 10 inch squares. Spread one square with washed Currants, and sprinkle with Mixed Peel and Mixed Spice, then with Sugar. Brush the edges with water and cover with the second piece of pastry. Lightly press with a rolling pin, prick with a fork, and bake on a buttered tin in oven 190C Cut into four when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cumberland Currant Cake",
+  "usedSnapshot": "20211019183336"
+}

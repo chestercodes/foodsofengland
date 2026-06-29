@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20150524221316",
+  "finalPath": "moy-or-moill.html",
+  "heading": "Moy or Moill",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "flour",
+    "honey",
+    "milk",
+    "rice",
+    "saffron",
+    "salt",
+    "apple",
+    "fat",
+    "sugur",
+    "butter",
+    "ginger",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "moy-or-moill.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAPPULMOY.\u003C/b\u003E\u003Cbr\u003E\nTake apples and seethe them in water, draw them though a strainer. Take Almond milk \u0026 honey and flour of rice, saffron and powder fort and salt. and seethe it to standing.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "moy-or-moill.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPomesmoille.\u003C/b\u003E Nym rice \u0026 bray them in a morter, tempre them up with almande milke, boille them: nym appelis \u0026 kerue them as small as douste, cast them yn after ye boillyng, \u0026 sugur: colour it with safron, cast therto goud poudre, \u0026 if it forth.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ERice moilles.\u003C/b\u003E Nym rice, bray them, tempre up with almand milk: boi them, cast therto sugur \u0026 salt it, \u0026 dresse it forth.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EApple moys.\u003C/b\u003E Nym appeles, seth them, let them kele, frete them thorwe an her syue: cast it on a pot \u0026 on a fless day cast therto goud fat broth of bef \u0026 white grese, sugur \u0026 safron, \u0026 on fissh days almand milk, \u0026 oille de olive, \u0026 sugur, \u0026 safron: boille it, messe it, cast aboue good poudre, \u0026 it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "moy-or-moill.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make an Apple Moise.\u003C/b\u003E\u003Cbr\u003E\nRoste your Appples very fair, and when you have so doon, peele them and strain them with the yolk of an Egge or twaine, and Rosewater, and boile it on a Chafingdish of Coles with a peece of sweet Butter, put in sugar and ginger, and when you lay it in your dish, cast sinamon \u0026 Sugar on it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Moy or Moill",
+  "usedSnapshot": "20211205181128"
+}

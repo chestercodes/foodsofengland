@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212015012",
+  "finalPath": "kidney-pudding.html",
+  "heading": "Kidney Pudding",
+  "ingredients": [
+    "flour",
+    "kidney",
+    "milk",
+    "pudding",
+    "steak",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kidney-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "KIDNEY PUDDING. Split and soak the kidney, and season it. Make a paste of suet, flour, and milk; roll it, and line a bason with some of it. Put in the kidney, cover the paste over, and pinch it round the edge. Tie up the bason in a cloth, and boil it a considerable time. A steak pudding is made in the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Kidney Pudding",
+  "usedSnapshot": "20211201003851"
+}

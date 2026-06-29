@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140212030523",
+  "finalPath": "egg-and-cheese-pie.html",
+  "heading": "Egg and Cheese Pie",
+  "ingredients": [
+    "butter",
+    "cheese"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-and-cheese-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Tarte of Cheese.\u003C/b\u003E\u003Cbr\u003E\nTake good fine paste and drive it as thin as you can. Then take cheese, pare it, mince it, and braye it in a morter with the yolks of Egs til it be like paste, then put it in a faire dish with clarified butter, and then put it abroade into your paste and cover it with a faire cut cover, and so bake it: that doon, serve it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Egg and Cheese Pie",
+  "usedSnapshot": "20220527223232"
+}

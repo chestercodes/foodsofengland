@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323203534",
+  "finalPath": "forced-leg.html",
+  "heading": "Forced Leg",
+  "ingredients": [
+    "beef",
+    "dates",
+    "eggs",
+    "lamb",
+    "mutton",
+    "nutmeg",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "forced-leg.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Take a Leg of Mutton, or Lamb, cut out the flesh, and take heed you break not the skin of it, then perboyle it, and mince it with a little Beef suet, put into it a little sweet Hearbs shred, three of four dates sliced, a little beaten Nutmeg, Cloves, and Mace, a few Currans, a little Sugar, a little Verjuyce, three or four Eggs, mix them together, and put them in the skin, and set it in a dish and bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    }
+  ],
+  "title": "Forced Leg",
+  "usedSnapshot": "20211020221026"
+}

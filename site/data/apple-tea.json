@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922093817",
+  "finalPath": "apple-tea.html",
+  "heading": "Apple Tea",
+  "ingredients": [
+    "apple",
+    "lemon",
+    "sugar",
+    "tea",
+    "bread",
+    "butter"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "apple-tea.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EWhitstable Times and Herne Bay Herald\u003C/i\u003E\u0027 - Saturday 20 February 1892",
+      "receiptText": "\u003Cb\u003EHINTS FOR THE HOME.\u003Cbr\u003E\nAPPLE TEA.\u003C/b\u003E Take four large cooking apples, cut there quarters with the peel on. Cut a lemon into thin slices with the rind on, sprinkle over the whole six ounces of crushed loaf sugar. Put all into a jug, and over it pour two quarts of boiling water; cover until cold, strain and it will be fit to drink. Should the lemon be disapproved of it easy omit it. or to replace by three cloves as a pleasant flavouring.- Pearson\u0027s Weekly.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "apple-tea.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EFood Remedies - Facts About Foods and their Medicinal Uses\u003C/i\u003E\u0027 By Florence Daniel, 1908",
+      "receiptText": "A diet consisting chiefly of apples has been found an excellent cure for inebriety. Health and strength may be fully maintained upon fine wholemeal unleavened bread, pure dairy or nut butter, and apples.\u003Cbr\u003E\nApple water or apple tea is an excellent drink for fever patients.\u003Cbr\u003E\nApples possess tonic properties and provoke appetite for food. Hence the old-fashioned custom of eating an apple before dinner.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EApple Tea.\u003C/b\u003E\u003Cbr\u003E\nThe following are two good recipes for apple tea:-(1) Take 2 sound apples, wash, but do not peel, and cut into thin slices. Add some strips of lemon rind. Pour on 1 pint of boiling water (distilled). Strain when cold. (2) Bake 2 apples. Pour over them 1 pint boiling water. Strain when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Apple Tea",
+  "usedSnapshot": "20220516215714"
+}

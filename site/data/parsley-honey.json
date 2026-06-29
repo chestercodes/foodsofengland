@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922073145",
+  "finalPath": "parsley-honey.html",
+  "heading": "Parsley Honey",
+  "ingredients": [
+    "bread",
+    "butter",
+    "honey",
+    "jelly",
+    "lemon",
+    "parsley",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "parsley-honey.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 23 May 1947",
+      "receiptText": "\u003Cb\u003EPARSLEY HONEY\u003C/b\u003E. This is delicious eaten with bread and butter, or as accompaniment to cold meat. It is also good for invalids suffering from nervous complaints Use fresh young parsley, and wash it well. Fill a Jelly pan with the leaves, and add sufficient water just to cover them. Bring to the boil, and simmer gently for half an hour. Add the juice of one lemon to each pint of liquid the pan, and put in the lemon rinds. Strain through jelly-bag, measure, and to each pint of juice allow one pound of preserving sugar. Return to the pan, boil until it sets when tested, and about half an hour pour into small Jars\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Parsley Honey",
+  "usedSnapshot": "20220705095731"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616085541",
+  "finalPath": "mock-crab.html",
+  "heading": "Mock Crab",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Mock Crab or Lobster",
+      "relatedPageUrl": "mock-crab-or-lobster.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Mock Crab",
+  "usedSnapshot": "20220527213821"
+}

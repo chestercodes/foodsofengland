@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140616090534",
+  "finalPath": "sedgemoor-eel-stew.html",
+  "heading": "Sedgemoor Eel Stew",
+  "ingredients": [
+    "bread",
+    "cider",
+    "cream",
+    "double cream",
+    "eels",
+    "parsley",
+    "pepper",
+    "salt",
+    "toast",
+    "toasted bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sedgemoor-eel-stew.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Sedgemoor%20Eel%20Stew\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESedgemoor Eel Stew\u003C/b\u003E\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n\u003Cbr\u003E\n3 to 4 lb freshwater eel\u003Cbr\u003E\ndry cider\u003Cbr\u003E\n\u00BC pint double cream\u003Cbr\u003E\n4 tbs chopped parsley\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\ntriangles of fried or toasted bread\u003Cbr\u003E\n\u003Cbr\u003E\nCut the eels into two inch lengths and season. Make a stock from the eel heads, skin and the flat part of the tails: Place the trimmings in a pan and cover them with half-water, half-cider. Bring to a boil and then cover and simmer for 20 minutes. Arrange the eel pieces in a shallow pan and pour over enough hot stock to just barely cover them. Gently poach the eels for 10-15 minutes depending on the girth of your eels until the eel meat starts to come away from the bones. Don\u2019t let the stock come to a proper boil though - steady poaching is the key. When cooked, remove the eel pieces and arrange them on a serving dish, cover them and keep them warm. Now make the sauce by boiling down the cooking liquor to a good strong flavour and then add the cream and parsley. Season again if required. Pour the sauce over the eel and serve with the fried bread or toast.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Sedgemoor Eel Stew",
+  "usedSnapshot": "20211201002120"
+}

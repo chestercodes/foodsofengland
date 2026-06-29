@@ -1,0 +1,85 @@
+﻿{
+  "earliestSnapshot": "20150922073751",
+  "finalPath": "brawn.html",
+  "heading": "Brawn",
+  "ingredients": [
+    "butter",
+    "lard",
+    "mutton",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "suet",
+    "brown sugar",
+    "cayenne",
+    "gravy",
+    "mustard",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "brawn.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo bake Brawn.\u003C/b\u003E\u003Cbr\u003E\nTake two Buttocks and hang them up two or three dayes, then take them down and dip them into hot Water, and pluck off the skin, dry them very well with a clean Cloth, when you have so done, take Lard, cut it in peices as big as your little finger, and season it very well with Pepper, Cloves, Mace, Nutmeg, and Salt, put each of them into an earthen Pot, put in a Pint of Claret wine, a pound of Mutton Suet. So close it with past let the Oven be well heated; and so bake them, you must give them time for the baking according to the bignesse of the Haunches, and the thicknesse of the Pots, they commonly allot seven hours for the baking of them; let them stand three dayes, then take off their Cover, and poure away all the Liquor, then have clarified Butter, and fill up both the Pots, to keep it for the use, it will very well keep two or three moneths.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "brawn.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "69. TO MAKE BRAWN (Surrey) Having divided the head down the middle, remove the brains, and cut off the ears, then let the head lie in cold water for twelve hours : boil it until the bones can be readily taken out, and when done, take off the skin as entire as possible : while the meat and the tongue are hot, chop them rather fine, and season with pepper, salt, a httle nutmeg, two or three cloves, and some cayenne : then place part of the skin at the bottom of a pan, lay on it the chopped meat, and put the rest of the skin over the top, place it mider a heavy weight, and let it remain until quite cold; part of the hquor in which the head has been dressed must be boiled up with vinegar and salt, and thrown over the head. It is eaten with vinegar and mustard. (A little brown sugar added to these is an improvement. Ed).\u003Cbr\u003E\n\u003Cbr\u003E\n70. BRAWN (Essex) Procure a pig\u0027s head which has been in salt not more than three or four days, wash it and put it on in sufficient water to cover it well. Let it cook gently for about three hours, until quite tender, then take it out, remove the bones (which should come away easily) and cut up all the meat in small pieces, putting it into a basin, which should be kept hot over boiling water, or the brawn will set too soon. Season with pepper (no salt) and a little powdered mace and sage if liked; put into a press- ing tin if one is at hand, and pour over the meat about half a pint of the liquor in which it has boiled. If a brawn tin is not to be had, use an ordinary large cake tiu, put a plate closely fitting on top, and set on that the heaviest weights you have - either scale-weights or flat-irons.\u003Cbr\u003E\n\u003Cbr\u003E\n71. BRAWN (Staffordshire) Take half a pig\u0027s head, with the tongue and two feet. Rub it all with salt and pepper and let it he a few days, rubbing well and turning every day. Then boil very gently until the meat comes easily off the bones. Take it out of the saucepan, put it on a board, and cut it all up into rather small pieces, then season with pepper and salt, and press it into a mould or proper brawn tin with holes at the bottom to let the gravy escape, and put a heavy weight on the top. Turn it out when cold, and send to table cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cullis",
+      "relatedPageUrl": "cullis.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oxford Brawn",
+      "relatedPageUrl": "oxford-brawn.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oxford Brawn Sauce",
+      "relatedPageUrl": "oxford-brawn-sauce.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oxtail Brawn",
+      "relatedPageUrl": "oxtail-brawn.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rabbit Brawn",
+      "relatedPageUrl": "rabbit-brawn.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Brawn",
+  "usedSnapshot": "20220819115234"
+}

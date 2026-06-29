@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130324051346",
+  "finalPath": "spice-powders.html",
+  "heading": "Spice Powders",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Douce"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Powder Fort"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Powder Blanche"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Spice Powders",
+  "usedSnapshot": "20211021015828"
+}

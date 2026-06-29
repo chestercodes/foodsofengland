@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150524221522",
+  "finalPath": "chireseye.html",
+  "heading": "Chireseye",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cherries",
+    "sugar",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chireseye.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFOR TO MAKE CHIRESEYE.\u003C/b\u003E\u003Cbr\u003E\nTake Chiryes at the Fest of Seynt John the Baptist and do away the stonys grind them in a morter and after frot them well in a seve so that the jus be well comyn owt and do than in a pot and do therin feyr gres or boter and \u003Ca href=\u0022wastel-bread.html\u0022\u003E\u003Cb\u003Ebred of wastrel\u003C/b\u003E\u003C/a\u003E ymyid and of sugur a good party and a portion of wine and wan it is well ysodyn and ydressyd in dyschis stik therin \u003Ca href=\u0022gilly-flowers.html\u0022\u003E\u003Cb\u003Eclowis of Gilofr\u003C/b\u003E\u003C/a\u003E and strew ther\u0027on sugur.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003ETO PREPARE CHIRESEYE\u003Cbr\u003E\nTake cherries at the Feast of Saint John the Baptist and do away the stones, grind them in a morter and then crush them well in a sieve so that so that the juice be well comming out, and put it in a pot and do therein fair grease or butter and \u003Ca href=\u0022wastel-bread.html\u0022\u003E\u003Cb\u003Ewastrel bread\u003C/b\u003E\u003C/a\u003E minced and sugur a good part and portion of wine and when it is well sodden, dress it in dishes and stick therein \u003Ca href=\u0022gilly-flowers.html\u0022\u003E\u003Cb\u003Escented flower petals\u003C/b\u003E\u003C/a\u003E and sprinkle on sugar.\u003C/i\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERipe Tart\u003C/b\u003E",
+      "relatedPageUrl": "ripe-tart.html",
+      "relationDescription": "For a modern version, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Chireseye",
+  "usedSnapshot": "20211205172500"
+}

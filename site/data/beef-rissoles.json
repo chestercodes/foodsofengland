@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130323203448",
+  "finalPath": "beef-rissoles.html",
+  "heading": "Beef Rissoles",
+  "ingredients": [
+    "beef",
+    "bread",
+    "eggs",
+    "gravy",
+    "herbs",
+    "lemon",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-rissoles.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBEEF RISSOLES (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n645. INGREDIENTS: The remains of cold roast beef; to each pound of meat allow \u00BE lb. of bread crumbs, salt and pepper to taste, a few chopped savoury herbs,\u00BD a teaspoonful of minced lemon-peel, 1 or 2 eggs, according to the quantity of meat.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Mince the beef very fine, which should be rather lean, and mix with this bread crumbs, herbs, seasoning, and lemon-peel, in the above proportion, to each pound of meat. Make all into a thick paste with 1 or 2 eggs; divide into balls or cones, and fry a rich brown. Garnish the dish with fried parsley, and send with them to table some good brown gravy in a tureen. Instead of garnishing with fried parsley, gravy may be poured in the dish, round the rissoles: in this case, it will not be necessary to send any in a tureen.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: From 5 to 10 minutes, according to size.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the meat, 5d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Beef Rissoles",
+  "usedSnapshot": "20200716220911"
+}

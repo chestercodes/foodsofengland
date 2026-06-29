@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922094304",
+  "finalPath": "baked-onions.html",
+  "heading": "Baked Onions",
+  "ingredients": [
+    "butter",
+    "gravy",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-onions.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBAKED SPANISH ONIONS.\u003C/b\u003E\u003Cbr\u003E\n1129. INGREDIENTS: 4 or 5 Spanish onions, salt, and water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the onions, with their skins on, into a saucepan of boiling water slightly salted, and let them boil quickly for an hour. Then take them out, wipe them thoroughly, wrap each one in a piece of paper separately, and bake them in a moderate oven for 2 hours, or longer, should the onions be very large. They may be served in their skins, and eaten with a piece of cold butter and a seasoning of pepper and salt; or they may be peeled, and a good brown gravy poured over them.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1 hour to boil, 2 hours to bake.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: medium-sized, 2d. each.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to January.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Baked Onions",
+  "usedSnapshot": "20211021015457"
+}

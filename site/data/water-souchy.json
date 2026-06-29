@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922094441",
+  "finalPath": "water-souchy.html",
+  "heading": "Water-Souchy",
+  "ingredients": [
+    "bread",
+    "butter",
+    "lemon",
+    "parsley",
+    "salt",
+    "vinegar",
+    "eels"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "water-souchy.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Water-Soochy.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake Perch about five Inches long, scale and clean them well; then lay them in a Dish, and pour Vinegar upon them, and let them lie an Hour in it; after which put them into a Skillet with Water and Salt, some Parsley Leaves and \u003Ca href=\u0022parsley-root.html\u0022\u003E\u003Cb\u003EParsley-Roots\u003C/b\u003E\u003C/a\u003E well wash\u0027d and scraped: let these boil over a quick Fire till they are enough, and then pour the Fish, Roots, and Water into a Soop-Dish, and serve them up hot with a Garnish about the Dish of Lemon, sliced. These Fish and Roots are commonly eaten with Bread and Butter in Holland, or there may be melted Butter in a little Bason for those who chuse it. It is to be noted, that the Parsley-Roots must be taken before they run to Seed; and if they happen to be very large, they should be boiled by themselves, for they will require more boiling than the Fish, This I had from Mr. Rozelli at the Hague .\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "water-souchy.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWATER SOUCHEE OF PERCH, FLOUNDERS, SOLES., EELS, \u0026amp;C.\u003C/b\u003E\u003Cbr\u003E\nTake perch cleaned and fresh crimped; put them into boiling pump water well seasoned with salt, and when they boil, skim them clean. Take them out with a large skimmer, put them into a deep dish, strew parsley roots and scalded parsley over, and add some of the liquor. Serve them up as hot as possible, with slices of brown bread and butter on a plate.\u003Cbr\u003E\nN. B. The time the fish are to boil must be according to their size; and the parsley roots are to be cleaned, cut into slips, and boiled by themselves till tender,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Greenwich Souchy",
+      "relatedPageUrl": "greenwich-souchy.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EWater Suchy\u003C/b\u003E, or \u003Cb\u003EWater Sokey\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Water-Souchy",
+  "usedSnapshot": "20210518210343"
+}

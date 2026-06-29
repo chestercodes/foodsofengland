@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150524221446",
+  "finalPath": "gyngener.html",
+  "heading": "Gyngener",
+  "ingredients": [
+    "ginger",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gyngener.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "GYNGENER [1]\u003Cbr\u003E\nTake payndemayn and pare it clene and funde it in Vinegur, grynde it and temper it wi\u00FE Vynegur, and with powdour gyngur and salt, drawe it thurgh a straynour. and serue forth.\u003Cbr\u003E\n\u003Cbr\u003E\n[1] Gyngener. From the powder of Ginger therein used.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Gyngener",
+  "usedSnapshot": "20200106112125"
+}

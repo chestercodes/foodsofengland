@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140212025229",
+  "finalPath": "ground-rice-pudding-pie.html",
+  "heading": "Ground Rice Pudding Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "rice",
+    "rose-water",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ground-rice-pudding-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E136. A GROUND RICE PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake half a pound of ground rice, half cree it in a quart of milk, when it is cold put to it five eggs well beat, a jill of cream, a little lemon-peel shred fine, half a nutmeg grated, half a pound of butter, and half a pound of sugar, mix them well together, put them into your dish with a little salt, and bake it with a puff-paste round your dish; have a little rose-water, butter and sugar to pour over it, you may prick in it candid lemon or citron if you please.\u003Cbr\u003E\nHalf of the above quantity will make a pudding for a side-dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rice Pudding",
+      "relatedPageUrl": "rice-pudding.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/pudding-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EPudding-Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Ground Rice Pudding Pie",
+  "usedSnapshot": "20211207114724"
+}

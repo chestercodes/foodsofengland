@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922093142",
+  "finalPath": "lindisfarne-chicken.html",
+  "heading": "Lindisfarne Chicken",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "chicken",
+    "lemon",
+    "lemon juice",
+    "mushrooms",
+    "olive oil",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lindisfarne-chicken.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.greatbritishkitchen.co.uk/recipebook/\u0022\u003E\u003Cb\u003EThe British Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELindisfarne Chicken\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n4 Chicken joints\u003Cbr\u003E\n2 Tablespoon Olive oil\u003Cbr\u003E\nKnob Butter\u003Cbr\u003E\n1 Small Onion, chopped\u003Cbr\u003E\n100 Gram Mushrooms, chopped (4 oz)\u003Cbr\u003E\nFresh parsley, finely chopped\u003Cbr\u003E\n1 Teaspoon Lemon juice\u003Cbr\u003E\n150 ml Lindisfarne mead (1/4 pint)\u003Cbr\u003E\nSalt and black pepper to taste\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 190 \u00B0C / 375 \u00B0F / Gas 5.\u003Cbr\u003E\nFry the chicken joints in the oil and butter until browned. Put them aside in a casserole dish.\u003Cbr\u003E\nMake a sauce by adding the chopped onion to the oil and butter in the pan and fry for 2-3 minutes. Add the mushrooms, parsley, lemon juice, mead and seasonings. Stir well and cook for a further 3 minutes before pouring the sauce over the chicken joints.\u003Cbr\u003E\nCover and cook in the oven for about 1 hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lindisfarne Chicken",
+  "usedSnapshot": "20220819105621"
+}

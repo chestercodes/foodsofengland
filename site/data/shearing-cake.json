@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922074811",
+  "finalPath": "shearing-cake.html",
+  "heading": "Shearing Cake",
+  "ingredients": [
+    "baking powder",
+    "butter",
+    "caraway seeds",
+    "eggs",
+    "flour",
+    "ginger",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "plain flour",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shearing-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Shearing%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 lb Plain flour\u003Cbr\u003E\n8 oz Butter\u003Cbr\u003E\nPinch Salt\u003Cbr\u003E\n2 Teaspoons Baking powder\u003Cbr\u003E\n10 oz sugar\u003Cbr\u003E\nZest of 1 lemon\u003Cbr\u003E\n2 teaspoons caraway seeds\u003Cbr\u003E\n1/2 teaspoon ground ginger\u003Cbr\u003E\n1/2 teaspoon ground nutmeg\u003Cbr\u003E\n1/2 pint Milk\u003Cbr\u003E\n2 Eggs, beaten\u003Cbr\u003E\n\u003Cbr\u003E\nSieve the flour into bowl and rub in the butter, add the other dry ingredients. Stir in the milk and eggs and mix well. Turn into a greased and lined tin and bake at 170 \u00B0C / 325 \u00B0F / Gas 3 for 30 minutes, then reduce to 150 \u00B0C / 300 \u00B0F / Gas 2 for a further 2 hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Shearing Cake",
+  "usedSnapshot": "20211019183836"
+}

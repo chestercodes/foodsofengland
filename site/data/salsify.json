@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922074326",
+  "finalPath": "salsify.html",
+  "heading": "Salsify",
+  "ingredients": [
+    "butter",
+    "gravy",
+    "lemon",
+    "salt",
+    "vinegar",
+    "parsley"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "salsify.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESALSIFY.\u003C/b\u003E\u003Cbr\u003E\nWe are surprised that a vegetable so excellent as this should be so little cared for in England. Delicately fried in batter-which is a common mode of serving it abroad-it forms a delicious second course dish: it is also good when plain-boiled, drained, and served in gravy, or even with melted butter. Wash the roots, scrape gently off the dark outside skin, and throw them into cold water as they are done, to prevent their turning black; cut them into lengths of three or four inches, and when all are ready put them into plenty of boiling water with a little salt, a small bit of butter, and a couple of spoonsful of white vinegar or the juice of a lemon: they will be done in from three quarters of an hour to an hour. Try them with a fork, and when perfectly tender, drain, and serve them with white sauce, rich brown gravy, or melted butter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "salsify.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO DRESS SALSIFY.\u003C/b\u003E\u003Cbr\u003E\n1149. INGREDIENTS: Salsify; to each\u00BD gallon of water allow 1 heaped tablespoonful of salt, 1 oz. of butter, 2 tablespoonfuls of lemon-juice.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Scrape the roots gently, so as to strip them only of their outside peel; cut them into pieces about 4 inches long, and, as they are peeled, throw them into water with which has been mixed a little lemon-juice, to prevent their discolouring. Put them into boiling water, with salt, butter, and lemon-juice in the above proportion, and let them boil rapidly until tender; try them with a fork; and, when it penetrates easily, they are done. Drain the salsify, and serve with a good white sauce or French melted butter.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 30 to 50 minutes.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in winter.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: This vegetable may be also boiled, sliced, and fried in batter of a nice brown. When crisp and a good colour, they should be served with fried parsley in the centre of the dish, and a little fine salt sprinkled over the salsify.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Salsify",
+  "usedSnapshot": "20211021020415"
+}

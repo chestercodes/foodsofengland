@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922074431",
+  "finalPath": "sledmere-gingerbread.html",
+  "heading": "Sledmere Gingerbread",
+  "ingredients": [
+    "beat",
+    "butter",
+    "castor sugar",
+    "eggs",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "sugar",
+    "tea",
+    "treacle"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "sledmere-gingerbread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA second Dudley book of cookery and other recipes\u003C/i\u003E\u0027 by Dudley, Georgiana Elizabeth Ward, Countess of, 1914",
+      "receiptText": "\u003Cb\u003ESLEDMERE GINGERBREAD\u003C/b\u003E\u003Cbr\u003E\nHALF a pound of butter, half a pound of castor sugar, half a pound of golden syrup, one pound of flour, half an ounce of ground ginger, one tea- spoonful of carbonate of soda and four eggs.\u003Cbr\u003E\nPut the butter, sugar and treacle into a stewpan and place over the fire to melt. Then beat up the eggs and stir the butter, sugar and treacle into them. Add the ginger and soda and stir all together into the flour. Bake in a deep tin, buttered and papered, until it becomes a golden brown, for three-quarters of an hour.\u003Cbr\u003E\nWhen cold, cut into fingers or squares.\u003Cbr\u003E\nThis is an excellent recipe for children.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sledmere-gingerbread.html-2",
+      "receiptSource": "Original Receipt from Northern Weekly Gazette - Saturday 24 November 1906",
+      "receiptText": "\u003Cb\u003EANSWERS TO CORRESPONDENTS.\u003C/b\u003E\u003Cbr\u003E\nMrs T. Iles: I am sorry your recipe was spoilt by the misprint, and have pleasure in giving the revised form of it here. It should be stated that. in the recipe for which a prize was awarded on October 27th, the quantity of ginger was given as two \u0022tablespoonfuls\u0022 instead of-as it should have been-two teaspoonfuls.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESledmere Gingerbread:\u003C/b\u003E Put in a saucepan to melt by fire 1/4lb. each of sugar and treacle, 2oz. butter. Well beat two eggs, and stir melted ingredients to them, then beat in flour, 2 teaspoonfuls of ginger, half a teaspoonful of carbonate of soda. Bake about three-quarters of an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other types, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Sledmere Gingerbread",
+  "usedSnapshot": "20211220174640"
+}

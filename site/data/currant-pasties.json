@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20140212015420",
+  "finalPath": "currant-pasties.html",
+  "heading": "Currant Pasties",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Boiled Currant Pudding",
+      "relatedPageUrl": "boiled-currant-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cherry Pie",
+      "relatedPageUrl": "cherry-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cornish Pasty",
+      "relatedPageUrl": "cornish-pasty.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Currant Pasties",
+      "relatedPageUrl": "currant-pasties.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Westmorland Currant Pasty",
+      "relatedPageUrl": "westmorland-currant-pasty.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Currant Pasties",
+  "usedSnapshot": "20211129115007"
+}

@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922074107",
+  "finalPath": "uppey-pudding.html",
+  "heading": "Uppey Pudding",
+  "ingredients": [
+    "baking powder",
+    "brown sugar",
+    "flour",
+    "jam",
+    "milk",
+    "plain flour",
+    "pudding",
+    "soft brown sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "uppey-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Uppey%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EUppey Pudding\u003C/b\u003E\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n8oz plain flour\u003Cbr\u003E\n1 heaped teaspoon baking powder\u003Cbr\u003E\n3oz diced dripping\u003Cbr\u003E\n1 tablespoon soft brown sugar\u003Cbr\u003E\na little milk\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\n1 Place a sieve over a large mixing bowl.\u003Cbr\u003E\n2 Spoon the flour and baking powder into the sieve.\u003Cbr\u003E\n3 Shake the flour and baking powder into the mixing bowl.\u003Cbr\u003E\n4 Add the dripping.\u003Cbr\u003E\n5 Using the fingertips, rub the dripping into the flour. 6 Add the sugar and mix thoroughly.\u003Cbr\u003E\n7 Add the milk, a little at a time to make a stiff dough.\u003Cbr\u003E\n8 Shake a little flour onto a work surface.\u003Cbr\u003E\n9 Shape the dough into a roll about the same size as a swiss roll.\u003Cbr\u003E\n10 Transger onto a greased baking tray.\u003Cbr\u003E\n11 Bake in the oven at 200 degrees centigrade/gas mark 6 for about 20 minutes or until well risen and golden brown.\u003Cbr\u003E\n\u003Cbr\u003E\nServe immediately with jam.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Uppey Pudding",
+  "usedSnapshot": "20200116032652"
+}

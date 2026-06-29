@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922071640",
+  "finalPath": "monday-collop.html",
+  "heading": "Monday Collop",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Doughnuts - Ring form",
+      "relatedPageUrl": "doughnuts-ring-form.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Grey Peas (and Bacon)",
+      "relatedPageUrl": "grey-peas-and-bacon.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Pancakes for Shrove Tuesday",
+      "relatedPageUrl": "pancakes-for-shrove-tuesday.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "Monday Collop",
+      "relatedPageUrl": "monday-collop.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECollops\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/collops.html",
+      "relationDescription": "For other Shrove Tuesday traditions, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Collops"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Monday Collop",
+  "usedSnapshot": "20220808010418"
+}

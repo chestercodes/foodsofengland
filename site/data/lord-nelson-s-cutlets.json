@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20130323195954",
+  "finalPath": "lord-nelson-s-cutlets.html",
+  "heading": "Lord Nelson\u0027s Cutlets",
+  "ingredients": [
+    "asparagus",
+    "bread",
+    "butter",
+    "croutons",
+    "foie-gras",
+    "parmesan",
+    "truffle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-nelson-s-cutlets.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E1376 COTELETTES D\u0027AGNEAU DE LAIT NELSON\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nGrill the cutlets, and, at the same time, prepare as many bread-crumb croutons as there are cutlets, and of exactly the same shape as the latter. Fry the croutons in butter, and coat them with foie-gras purde.\u003Cbr\u003E\n\u003Cbr\u003E\nPlace a grilled cutlet on each coated crouton, and a slice of truffle on the kernel of each cutlet. Now, by means of a piping-bag, fitted with an even pipe, cover the cutlets with some souffle au Parmesan; dish them in a circle, and put them in the oven for five minutes, that the souffle may poach.\u003Cbr\u003E\n\u003Cbr\u003E\nAfter withdrawing them from the oven, garnish the centre of the dish with a heap of asparagus-heads, cohered with butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENelson Balls\u003C/b\u003E",
+      "relatedPageUrl": "nelson-balls.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Lord Nelson\u0027s Cutlets",
+  "usedSnapshot": "20211020183722"
+}

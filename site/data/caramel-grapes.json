@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073246",
+  "finalPath": "caramel-grapes.html",
+  "heading": "Caramel Grapes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Caramel Grapes",
+  "usedSnapshot": "20211205173619"
+}

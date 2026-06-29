@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922092606",
+  "finalPath": "apricot-bread-pudding.html",
+  "heading": "Apricot Bread Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Apricot Bread Pudding",
+  "usedSnapshot": "20211027040223"
+}

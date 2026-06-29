@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20170314161840",
+  "finalPath": "turnip-bread.html",
+  "heading": "Turnip Bread",
+  "ingredients": [
+    "bread",
+    "turnip",
+    "turnips",
+    "beat",
+    "flour",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "turnip-bread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EIpswich Journal\u003C/i\u003E\u0027 - Saturday 04 December 1756",
+      "receiptText": "[\u003Ci\u003EThis text contains the old-fashiond long \u0027s\u0027 - \u017F\u003C/i\u003E ]\u003Cbr\u003E\n\u003Cbr\u003E\nSIR,\u003Cbr\u003E\nIn the Tran\u017Factions of the Royal Society, in No. 1 205, p. 970, I find Mr. Samuel Dale mentions, that in the year 1693, all \u017Forts of corn was very dear in England, which occa\u017Fioned many people in E\u017F\u017Fex to make turnip bread. The manner of preparing it was thus; Take turnips, peel and bod them until they become \u017Foft. and tender, then pre\u017Fs \u017Ftrongly out the juice, chop them \u017Fmall, and mix them with an equal quantity of wheaten meal, add \u017Falt and barm, with a \u017Fufficient quantity of water, and knead it up as other dough or pa\u017Fte, let it \u017Ftand a little time to ferment or ri\u017Fe, then order and bake it as common bread. This turnip bread was not to be di\u017Ftingui\u017Fhed from common bread, either to the eye, ta\u017Fte, or \u017Fmell, except to very nice palates, who perceived a \u017Fmall flavour of the turnips. The\u017Fe roots may be now dug out and pre\u017Ferved in \u017Fand or dry earth, for \u017Feveral months\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "turnip-bread.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Encyclopedia of Practical Cookery\u003C/i\u003E, 1891",
+      "receiptText": "Turnip Bread. - Boil some turnips till tender, press out the juice, and when the pulp is dry beat it very fine; mix with this the same quantity of flour, and season with salt. Knead, let the dough rise a little, and then bake like ordinary Bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Turnip Bread",
+  "usedSnapshot": "20211205171934"
+}

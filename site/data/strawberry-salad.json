@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922082725",
+  "finalPath": "strawberry-salad.html",
+  "heading": "Strawberry Salad",
+  "ingredients": [
+    "brandy",
+    "cinnamon",
+    "currants",
+    "raspberries",
+    "strawberries",
+    "strawberry",
+    "sugar",
+    "cream",
+    "custard",
+    "lemon",
+    "lemon juice",
+    "tea",
+    "orange",
+    "orange juice",
+    "vanilla"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "strawberry-salad.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E370. Strawberry Salad.-\u003C/b\u003E A large pottle of ripe strawberries, picked and put into a basin with two tablespoonfuls of sugar, a pinch of powdered cinnamon, a gill of brandy; stir gently, and serve.\u003Cbr\u003E\nCurrants and raspberries the same.\u003Cbr\u003E\nAs all fruits and vegetables are destined for the use of man, these should be partaken of by all classes when in season, as they are invaluable for health.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "strawberry-salad.html-2",
+      "receiptSource": "Original Receipt from Nottingham Evening Post - Tuesday 22 June 1926",
+      "receiptText": "\u003Cb\u003EStrawberry Salad.\u003C/b\u003E-Boil together five cupfuls water, one and a half of sugar, and a tea-spoonful lemon juice until syrup is formed. Dip 2lb. of stalked strawberries into boiling syrup and put a fancy dish. Lightly colour syrup with cochineal, and pour over the fruit. Serve with cream good custard, if liked; but the salad excellent without either.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "strawberry-salad.html-3",
+      "receiptSource": "Original Receipt from Yorkshire Evening Post - Monday 28 June 1926",
+      "receiptText": "\u003Cb\u003EOrange Strawberry Salad.\u003C/b\u003E Arrange the hulled and cleaned strawberries in individual glasses and over each portion pour a mixture of the juice of half an orange and four tablespoonful of fine sugar and quarter teaspoonful orange curacao. Place the mixture on ice for a short time before pouring it over the fruit. If served with cream, the latter should whipped. sweetened and flavoured with little vanilla essence, then forced daintily round the inside edge of the glasses.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EWine Strawberry Salad.\u003C/b\u003E For this, follow the above recipe, only use claret. or any other wine preferred, place the orange juice and curacao.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Strawberry Salad",
+  "usedSnapshot": "20220706165229"
+}

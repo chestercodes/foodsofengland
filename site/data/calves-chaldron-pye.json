@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922074037",
+  "finalPath": "calves-chaldron-pye.html",
+  "heading": "Calves Chaldron Pye",
+  "ingredients": [
+    "bread",
+    "lemon",
+    "nutmeg",
+    "onion",
+    "orange",
+    "oranges",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "calves-chaldron-pye.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Calves Chaldron Pye.\u003C/b\u003E\u003Cbr\u003E\nTake a Calves Chaldron, half boyl it, and cool it; when it is cold mince it as small as grated bread, with halfe a pound of Marrow; season it with Salt, beaten Cloves, Mace, Nutmeg a little Onion, and some of the outmost rind of a Lemon minced very small, and wring in the juyce of halfe a Lemon, and then mix all together, then make a piece of puff Past, and lay a leaf therof in a silver Dish of the bigness to contain the meat, then put in your meat, and cover it with another leaf of the same Past, and bake it; and when it is baked take it out, and open it, and put in the juyce of two or three Oranges, stir it well together, then cover it againe and serve it. Be sure none of your Orange kernels be among your Pye-meat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tripe",
+      "relatedPageUrl": "ox-tripe.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Calves Chaldron Pye",
+  "usedSnapshot": "20220808012107"
+}

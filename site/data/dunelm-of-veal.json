@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922072347",
+  "finalPath": "dunelm-of-veal.html",
+  "heading": "Dunelm of Veal",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "flour",
+    "mushrooms",
+    "pepper",
+    "salt",
+    "tea",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dunelm-of-veal.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "DUNELM OF VEAL. Stew a few small mushrooms in their own liquor and a bit of butter, a quarter of an hour. Mince them fine, and put them with their liquor to some cold minced veal. Add a little pepper and salt, some cream, and a bit of butter rubbed in less than half a tea-spoonful of flour. Simmer the mince three or four minutes, and serve it on thin sippets of bread. Cold fowl may be treated in the same manner.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Dunelm of Veal",
+  "usedSnapshot": "20211201003121"
+}

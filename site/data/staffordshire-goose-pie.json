@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922074508",
+  "finalPath": "staffordshire-goose-pie.html",
+  "heading": "Staffordshire Goose Pie",
+  "ingredients": [
+    "allspice",
+    "butter",
+    "geese",
+    "goose",
+    "gravy",
+    "jelly",
+    "pepper",
+    "salt",
+    "turkey"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "staffordshire-goose-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EGREEN GOOSE PIE\u003C/b\u003E\u003Cbr\u003E\nBone two young green geese of a good size but first take away every plug and singe them nicely Wash them clean and season them high with salt pepper mace and allspice Put one inside the other and press them as close as you can drawing the legs inwards Put a good deal of butter over them and bake them either with or without crust if the latter a cover to the dish must fit close to keep in the steam It will keep long Gravy jelly may be added when to be served\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESTAFFORDSHIRE GOOSE PIES\u003C/b\u003E\u003Cbr\u003E\nAre made with birds prepared and seasoned as above. A goose is to be outward succeeded by a turkey, duck, fowl and then lesser birds, tongue or forcemeat. Forcemeat may fill up the spaces between the crust and fowls and be omitted within. The crust should be ornamented and the top have a flower or knob by which to lift it, as it must not be cut, but be kept to cover the pie. A smaller and less expensive pie may be made without the goose and turkey.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Yorkshire Christmas Pie",
+      "relatedPageUrl": "yorkshire-christmas-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Staffordshire Goose Pie",
+  "usedSnapshot": "20210510052732"
+}

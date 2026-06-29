@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922091122",
+  "finalPath": "purslane.html",
+  "heading": "Purslane",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pickled Purslane",
+      "relatedPageUrl": "pickled-purslane.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPurslane\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/purslane.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Purslane"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Purslane",
+  "usedSnapshot": "20211018064733"
+}

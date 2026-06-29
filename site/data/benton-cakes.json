@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508115520",
+  "finalPath": "benton-cakes.html",
+  "heading": "Benton Cakes",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "flour",
+    "milk",
+    "tea",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "benton-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BENTON CAKES. Mix a paste of flour, a little bit of butter, and milk. Roll it as thin as possible, and bake on a backstone over the fire, or on a hot hearth. Another sort of Benton tea-cakes are made like biscuits, by rubbing into a pound of flour six ounces of butter, and three large spoonfuls of yeast. Work up the paste with a sufficient quantity of new milk, make it into biscuits, and prick them with a clean fork. Or melt six or seven ounces of butter, with a sufficient quantity of new milk warmed to make seven pounds of flour into a stiff paste. Roll it thin, and make it into biscuits.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Benton Cakes",
+  "usedSnapshot": "20200112185506"
+}

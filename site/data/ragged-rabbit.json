@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922091625",
+  "finalPath": "ragged-rabbit.html",
+  "heading": "Ragged Rabbit",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "cider",
+    "flour",
+    "mushrooms",
+    "onions",
+    "pepper",
+    "rabbit",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ragged-rabbit.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Ragged%20Rabbit\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 lb rabbit, boned and cubed\u003Cbr\u003E\n2 tbsp flour\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n2 tbsp oil\u003Cbr\u003E\n1 oz butter\u003Cbr\u003E\n4 oz mushrooms, sliced\u003Cbr\u003E\n2 onions, chopped\u003Cbr\u003E\n2 rashers, streaky bacon\u003Cbr\u003E\n1/4 pint stock\u003Cbr\u003E\n1/4 pint cider\u003Cbr\u003E\nthyme\u003Cbr\u003E\n\u003Cbr\u003E\nToss the rabbit pieces in flour and brown in the hot oil, transfer to a cooking pot with the onions and bacon. Cook until soft. Add the remaining ingredients, cover and cook for 1 hour on the hob, or in the oven at 180C, or until tender.\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E\n\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Cimg src=\u0022thumb-cony.jpg\u0022 border=\u00220\u0022\u003E\u003Cbr\u003E\n\u003Csmall\u003ERabbit from \u0027Conny-catching\u0027 by Robert Greene, 1591\u003C/small\u003E\u003C/center\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Ragged Rabbit",
+  "usedSnapshot": "20210518211820"
+}

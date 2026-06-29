@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922091049",
+  "finalPath": "port-wine-jelly.html",
+  "heading": "Port Wine Jelly",
+  "ingredients": [
+    "jelly",
+    "port wine",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "port-wine-jelly.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E1067. PORT WINE JELLY (Sussex)\u003C/b\u003E\u003Cbr\u003E\nOne ounce of isinglass, one ounce of gum arable, three ounces of sugar-candy, one pint of port wine. Soak the dry ingredients in the wine all night, then let all simmer for half an hour.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E1068. PORT WINE JELLY (Kent, 1809)\u003C/b\u003E\u003Cbr\u003E\nOne ounce of gum arable, one ounce of isinglass, a little spice, boiled half an hour in a pint of cold water, then add a pint and a quarter of old port wine and sugar to your taste. Let it simmer a quarter of an hour, strain it off, and keep it for use. It may be taken cold or hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Port Wine Jelly",
+  "usedSnapshot": "20210510040101"
+}

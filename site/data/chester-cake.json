@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212031809",
+  "finalPath": "chester-cake.html",
+  "heading": "Chester Cake",
+  "ingredients": [
+    "baking powder",
+    "currants",
+    "egg",
+    "flour",
+    "ginger",
+    "golden syrup",
+    "milk",
+    "pastry",
+    "plain flour",
+    "pudding",
+    "shortcrust pastry",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chester-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Chester%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "225 Gram Shortcrust pastry (8 oz)\u003Cbr\u003E\n110 Gram Plain flour (4 oz)\u003Cbr\u003E\n15 Gram Baking powder ( \u00BD oz)\u003Cbr\u003E\n225 Gram Stale cake, crumbled finely (8 oz)\u003Cbr\u003E\n175 Gram Treacle or golden syrup (6 oz)\u003Cbr\u003E\nCurrants\u003Cbr\u003E\nPinch Ground ginger\u003Cbr\u003E\n1 Egg, beaten\u003Cbr\u003E\n2 Tablespoon Milk\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nLine the bottom of a Yorkshire pudding tin with the pastry, leaving sufficient for a lid.\u003Cbr\u003E\n\u003Cbr\u003E\nPass the flour and baking powder through a sieve into a basin. Add the cake crumbs, a few currants and a little ground ginger. Mix with treacle or golden syrup, making a rather stiff mixture.\u003Cbr\u003E\n\u003Cbr\u003E\nSpread this evenly over the pastry and cover with the remaining pastry. Brush with beaten egg and milk and mark it in small squares.\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat the oven to 200 \u00B0C / 400 \u00B0F / Gas 6. Bake for about 20 minutes. When cold, divide with a sharp knife into the squares indicated.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chester Cake",
+  "usedSnapshot": "20211019185914"
+}

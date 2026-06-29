@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140212024815",
+  "finalPath": "northumberland-girdle-cakes.html",
+  "heading": "Northumberland Girdle Cakes",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "salt",
+    "self rising flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "northumberland-girdle-cakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Northumberland%20Girdle%20Cakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENorthumberland Girdle Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb self rising flour\u003Cbr\u003E\n1 tsp salt\u003Cbr\u003E\n8 oz butter\u003Cbr\u003E\n4 oz sugar\u003Cbr\u003E\n4 oz currants\u003Cbr\u003E\n2 eggs, beaten\u003Cbr\u003E\n5 oz milk\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nSift the flour with a pinch of salt into a bowl. Rub in the butter until the dough resembles fine breadcrumbs. Add the sugar and currants. Make a well in the centre then add the beaten eggs and the milk. Stir the mixture with a finger until well-combined.\u003Cbr\u003E\nOn a lightly floured surface slightly knead the dough. Roll out approximately 1.5cm thick.\u003Cbr\u003E\nCut out small rounds and bake the rounds on a well greased frying pan or griddle until golden brown on both sides.\u003Cbr\u003E\nServe hot with butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cumberland Girdle Cakes",
+      "relatedPageUrl": "cumberland-girdle-cakes.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Brautins",
+      "relatedPageUrl": "brautins.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Northumberland Girdle Cakes",
+  "usedSnapshot": "20211129113705"
+}

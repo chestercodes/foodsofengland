@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073210",
+  "finalPath": "rapey-or-rapeye.html",
+  "heading": "Rapey or Rapeye",
+  "ingredients": [
+    "flour",
+    "pepper",
+    "raisins",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rapey-or-rapeye.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERAPE.\u003C/b\u003E\u003Cbr\u003E\nTake half fyges and half raisins pike them and waisshe them in water skalde them in wine. Bray them in a morter, and draw them though a strainer. Cast them in a pot and therwith powder of pepper and oother good powders. alay it up with flour of Rice. And colour it with sanders, salt it. \u0026 present it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Rapey or Rapeye",
+  "usedSnapshot": "20170313205127"
+}

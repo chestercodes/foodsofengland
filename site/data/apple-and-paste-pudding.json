@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922085722",
+  "finalPath": "apple-and-paste-pudding.html",
+  "heading": "Apple and Paste Pudding",
+  "ingredients": [
+    "apple",
+    "butter",
+    "pudding",
+    "puddings",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-and-paste-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E341. Apple and Paste Pudding in Basin\u003C/b\u003E - Make one pound of paste, No. 319, roll it a quarter of an inch thick, lay some in a bowl, fill it with apples cut in quarters, add two cloves, two ounces of sugar, a little butter, put another piece of paste on the top. and join the edge nicely; tie it in a cloth and boil. It can be served up either in the basin or turned out. Do not open the top to put more sugar in, as it spoils the flavour and makes it heavy.\u003Cbr\u003E\n\u003Cbr\u003E\nAll fruit puddings may be done the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Apple and Paste Pudding",
+  "usedSnapshot": "20211205161806"
+}

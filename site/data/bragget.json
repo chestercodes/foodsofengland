@@ -1,0 +1,122 @@
+﻿{
+  "earliestSnapshot": "20150922084257",
+  "finalPath": "bragget.html",
+  "heading": "Bragget",
+  "ingredients": [
+    "ale",
+    "beer",
+    "herbs",
+    "hogshead",
+    "hogsheads",
+    "honey",
+    "hops"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bragget.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMR. WEBB\u0027S ALE AND BRAGOT\u003C/b\u003E\u003Cbr\u003E\nFive Bushels of Malt will make two Hogsheads. The first running makes one very good Hogshead, but not very strong; the second is very weak. To this proportion boil a quarter of a Pound of Hops in all the water that is to make the two Hogsheads; that is, two Ounces to each Hogshead. You put your water to the Malt in the Ordinary way. Boil it well, when you come to work it with yest, take very good Beer-yest, not Ale-yest.\u003Cbr\u003E\n\u003Cbr\u003E\nTo make Bragot, He takes the first running of such Ale, and boils a less proportion of Honey in it, then when He makes His ordinary Meath; but dubble or triple as much spice and herbs. As for Example to twenty Gallons of the Strong-wort, he puts eight or ten pound, (according as your taste liketh more or less honey) of honey; But at least triple as much herbs, and triple as much spice as would serve such a quantity of small Mead as He made Me (For to a stronger Mead you put a greater proportion of Herbs and Spice, then to a small; by reason that you must keep it a longer time before you drink it; and the length of time mellows and tames the taste of the herbs and spice). And when it is tunned in the vessel (after working with the barm) you hang in it a bag with bruised spices (rather more then you boiled in it) which is to hang in the barrel all the while you draw it.\u003Cbr\u003E\nHe makes also Mead with the second weak running of the Ale; and to this He useth the same proportions of honey, herbs and spice, as for his small Mead of pure water; and useth the same manner of boiling, working with yest, and other Circumstances, as in making of that.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWesthoughton Pasties\u003C/b\u003E",
+      "relatedPageUrl": "westhoughton-pasties.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Ale Gruel",
+      "relatedPageUrl": "ale-gruel.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Aleberry",
+      "relatedPageUrl": "aleberry.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Bragget",
+      "relatedPageUrl": "bragget.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Flip",
+      "relatedPageUrl": "egg-flip.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Hot",
+      "relatedPageUrl": "egg-hot.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Koorow",
+      "relatedPageUrl": "koorow.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Lamb\u0027s Wool, or Lamasool",
+      "relatedPageUrl": "lambswool,orlamasool.htm",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Mulled Ale",
+      "relatedPageUrl": "mulled-ale.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Posset",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Treacle Posset",
+      "relatedPageUrl": "treacle-posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EBraggot, Braket, Bragot",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Bragget",
+  "usedSnapshot": "20211205165632"
+}

@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150922091409",
+  "finalPath": "richmond-cake.html",
+  "heading": "Richmond Cake",
+  "ingredients": [
+    "baking powder",
+    "brown sugar",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "ginger",
+    "rice",
+    "sugar",
+    "treacle",
+    "beat",
+    "currants",
+    "lemon",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "richmond-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E818. RICHMOND CAKE (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSix ounces of butter, a quarter of an ounce of mixed spice, the same of ground ginger; mix till they are a cream; add a quarter of a pound of brown sugar, a quarter of a pound of treacle; mix all together with half a pound of flour, two ounces of ground rice, two tablespoonfuls of dried coconut, four eggs, half an ounce of baking powder.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "richmond-cake.html-2",
+      "receiptSource": "Original Receipt from Alnwick Mercury - Friday 22 December 1939",
+      "receiptText": "RICHMOND CAKE Ten ozs. flour, \u00BD oz. baking powder, \u00BD lb. sugar, \u00BD lb. butter, 6 ozs. currants, 2 ozs. lemon peel, 4 eggs, \u00BD cupful milk. Mix the baking powder with the flour, beat the sugar, butter and eggs together then add fruit and dry ingredients with the milk. Put in a tin and bake in a moderate oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERichmond Short Cake\u003C/b\u003E",
+      "relatedPageUrl": "richmond-short-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Richmond Cake",
+  "usedSnapshot": "20220517184659"
+}

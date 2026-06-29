@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072157",
+  "finalPath": "quinade.html",
+  "heading": "Quinade",
+  "ingredients": [
+    "salt",
+    "vynegre"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "quinade.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECxv. Quynade\u003C/b\u003E - Take Quynces, \u0026 pare hem clene, caste hem on a potte, \u0026 caste \u00FEer-to water of Rosys; do it ouer \u00FEe fyre, \u0026 hele [Cover] it faste, \u0026 let it boyle a gode whyle tyl \u00FEey ben neysshe; \u0026 if \u00FEey wol not ben neysshe, bray hem in a Morter smal, draw hem \u00FEorw a straynoure; take gode Mylke of Almandys, \u0026 caste in a potte \u0026 boyle it; take whyte Wyne \u0026 Vynegre, an caste \u00FEer-to \u00FEe Mylke, \u0026 let it stonde a whyle; take \u00FEan a clene canvas, \u0026 caste \u00FEe mylke vppe-on, \u0026 with a platere stryke it of \u00FEe clo\u00FEe, \u0026 caste it on \u00FEe potte; gedyr vppe \u00FEe quynces, \u0026 caste to \u00FEe creme, \u0026 do it ouer \u00FEe fyre, \u0026 lat boyle; take a porcyon of pouder of Clowys, of Gyngere, of Graynys of Perys, of Euery a porcyon; take Sugre y-now, with Salt, \u0026 a party of Safroun, \u0026 alle menge to-gederys; \u0026 when \u00FEou dressyst forth, plante it with foyle of Syluer.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Quinade",
+  "usedSnapshot": "20211021025912"
+}

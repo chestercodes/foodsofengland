@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073130",
+  "finalPath": "smallage.html",
+  "heading": "Smallage",
+  "ingredients": [
+    "beat",
+    "butter",
+    "nutmeg",
+    "oat-meal",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "smallage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESMALLAGE GRUEL\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIn a Marble mortar beat great Oat-meal to meal (which requireth long beating) then boil it three or four hours in Spring water. To a possnet full of two or three quarts of water put about half a Porrenger full of Oat-meal, before it is beaten; for after beating it appeareth more. To this quantity put as much Smallage as you buy for a peny, which maketh it strong of the Herb, and very green. Chop the smallage exceeding small, and put it in a good half hour before you are to take your possnet from the fire. You are to season your Gruel with a little salt, at the due time; and you may put in a little Nutmeg and Mace to it. When you have taken it from the fire, put into it a good proportion of butter, which stir well, to incorporate with the Gruel, when it is melted.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Smallage",
+  "usedSnapshot": "20220527065143"
+}

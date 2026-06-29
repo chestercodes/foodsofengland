@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922073424",
+  "finalPath": "brussels-sprout-soup.html",
+  "heading": "Brussels Sprout Soup",
+  "ingredients": [
+    "bread",
+    "cornflour",
+    "milk",
+    "nutmeg",
+    "onion",
+    "onions",
+    "pepper",
+    "salt",
+    "sprouts",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brussels-sprout-soup.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ETamworth Herald\u003C/i\u003E\u0027 - Saturday 15 November 1924",
+      "receiptText": "\u003Cb\u003ESPROUT SOUP.\u003C/b\u003E One pound of sprouts, one tablespoonful chopped onion, one quart stock, one gill of milk, half-an-ounce cornflour, pepper, salt and nutmeg to taste. Trim stalks and discoloured leaves from the sprouts, well wash in cold salted water, to which a little piece of soda the size of a pea has been added. When the sprouts and onions are soft, drain and put through a hair sieve. Pour the stock tin the pan, replace the vegetables, then pour in the cornflour, smoothly and thinly mixed with the milk. Re-boil for a minute or two. adding the seasoning. Serve with toast or fried bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Brussels Sprout Soup",
+  "usedSnapshot": "20220516215129"
+}

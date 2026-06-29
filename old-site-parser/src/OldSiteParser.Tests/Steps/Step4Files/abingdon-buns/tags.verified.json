@@ -1,0 +1,26 @@
+[
+	{
+		"name": "class",
+		"value": "cakes"
+	},
+	{
+		"name": "heading",
+		"value": "Abingdon Buns"
+	},
+	{
+		"name": "list-page-reference",
+		"value": "listcakes.htm"
+	},
+	{
+		"name": "locale",
+		"value": "Berkshire"
+	},
+	{
+		"name": "locale",
+		"value": "Oxfordshire"
+	},
+	{
+		"name": "number-of-receipts",
+		"value": "0"
+	}
+]

@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140508102752",
+  "finalPath": "hollow-biscuits.html",
+  "heading": "Hollow Biscuits",
+  "ingredients": [
+    "biscuits",
+    "bread",
+    "butter",
+    "cheese",
+    "flour",
+    "jam",
+    "lard",
+    "plain flour",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hollow-biscuits.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Hollow%20Biscuits\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients:\u003Cbr\u003E\n300g strong white bread flour\u003Cbr\u003E\n150g plain flour\u003Cbr\u003E\n1 tbsp sugar\u003Cbr\u003E\n2 tsp active, dried, yeast\u003Cbr\u003E\nup to 120ml cold water\u003Cbr\u003E\n1/2 tsp salt\u003Cbr\u003E\n75g lard, finely diced\u003Cbr\u003E\n\u003Cbr\u003E\nNorfolk Knobs Preparation:\u003Cbr\u003E\nMethod: Add the yeast to about 100ml cold water in which 1 tsp sugar has been dissolved and allow to prove. Combine the flours with the salt and 3 tbsp sugar. Rub-in the lard, add the yeast mixture and mix thoroughly. Form a well in the centre of the flour, add half the warm water and stir in to combine. Add just enough of the remaining water for the mixture to combine together as a dough. Knead this thoroughly on a lightly-floured work surface then transfer to a lightly-greased bowl, cover and set aside in a warm place to rise until doubled in size (about 150 minutes). After this time, knock the dough back then turn out onto a floured work surface. Roll the dough out into a long rectangle about 1cm thick. Fold the dough over along the long edge then use a bread docker or a very sharp knife to cut the dough into squares about 2cm per side. Take each square and quickly, but gently roll into a ball (you want to trap a pocket of air inside each ball so that the final biscuits are hollow in the middle). Flatten slightly then arrange, at least 5cm apart, on greased baking trays. Cover with clean cloths then set aside in a warm place to prove for about 60 minutes, or until doubled in size. Transfer to an oven pre-heated to 190\u00B0C and bake for 15 minutes. Remove from the oven and set aside to cool completely. In the meantime, reduce the oven temperature to 130\u00B0C (cool) and return the knobs to the oven then allow to dry out completely for about 2 hours. Allow to cool again before serving. To eat, the knobs are first broken in half by twisting before being spread with butter, jam, cheese or p\u00E2t\u00E9.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EDorset Knobs\u003C/b\u003E",
+      "relatedPageUrl": "dorset-knobs.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ENorwich Hollow Biscuits, Norfolk Knobs\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridgeshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hollow Biscuits",
+  "usedSnapshot": "20220815161550"
+}

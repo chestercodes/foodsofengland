@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150418132837",
+  "finalPath": "samphire.html",
+  "heading": "Samphire",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Brancaster Salad",
+      "relatedPageUrl": "brancaster-salad.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Pickled Samphire",
+      "relatedPageUrl": "pickled-samphire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Salad All-Sorts",
+      "relatedPageUrl": "salad-all-sorts.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Samphire",
+      "relatedPageUrl": "samphire.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Samphire",
+  "usedSnapshot": "20220527052908"
+}

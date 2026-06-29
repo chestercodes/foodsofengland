@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140616084811",
+  "finalPath": "snails-in-sauce.html",
+  "heading": "Snails in Sauce",
+  "ingredients": [
+    "butter",
+    "cream",
+    "flour",
+    "lard",
+    "lemon",
+    "nutmeg",
+    "salt",
+    "snail",
+    "snails",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "snails-in-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESnails, to be dressed with white Sauce.\u003C/b\u003E\u003Cbr\u003E\nTake the large German Snail, early in the Morning; put them, shells and all, into Salt and Water, for a few Hours, till they purge themselves: then put them into fresh Salt and Water, for a few Hours more, and repeat that a third time, then give them a gentle boil in Water and. Salt, in their Shells, and you may then pick them out, with a Pin, as you do Perwinkles, Then stew them in Veal-Broth, with some Cloves, a little Sack, some Mace, and a little Salt. Stew these a little while, and then pour over them this Sauce thicken\u0027d with Cream and Butter, and grate some Nutmeg upon the Sauce, and serve them hot.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESnails, to be drest with brown Sauce.\u003C/b\u003E\u003Cbr\u003E\nTake the same sort of Snail, as above mention\u0027d, and clean it as before; then give them one turn, when they are flour\u0027d, in some hot Butter, or Lard, and drain them. Then pour into the Pan, when, the Liquor is out, some strong Gravey, a Glass of Claret, some Nutmeg, some Spices, and a little Salt, with a little Lemon-Peel grated; and when the Sauce is strong enough, then strain the Sauce, and thicken it with burnt Butter. Then serve them up hot, with a Garnish of sliced Lemon, and some Sippits fry\u0027d in Lard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Snails",
+      "relatedPageUrl": "snails.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Snails in Sauce",
+  "usedSnapshot": "20210518205031"
+}

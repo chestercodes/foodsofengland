@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130325124614",
+  "finalPath": "devilled-mutton.html",
+  "heading": "Devilled Mutton",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "cornflour",
+    "cream",
+    "milk",
+    "mustard",
+    "worcester sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devilled-mutton.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E27. DEVILLED CUTLETS (Essex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nOne and a half pounds of nicely trimmed cutlets, two ounces of butter, quarter of a pint of cream, one teaspoonful of cornflour, one small teaspoonful of mustard, a good pinch of cayenne, two dessertspoonfuls of Worcester sauce. Melt the butter in a frying pan, lay in the cutlets, which should be smartly trimmed, and fry hghtly till cooked. Take up the cutlets on a plate and keep hot. Put the cornflour, mustard, and cayenne into a basin, mix in the Worcester sauce gradually until smooth. Put the frying pan on the fire again, with the butter still in it in which the cutlets were fried. Add the cream and stir well together. Let it boil up; now put in the Worcester sauce mixture. Stir well until it boils up and is quite smooth. Lay in the cutlets and let them stand at the side of the fire for two or three minutes until very hot through. Dish in two rows and pour the sauce over. If it be too thick before dishing, half a cup of milk with a small scrap of butter may be stirred in to thin it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Devilled Mutton",
+  "usedSnapshot": "20211201032552"
+}

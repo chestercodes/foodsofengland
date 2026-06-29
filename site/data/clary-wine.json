@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922084914",
+  "finalPath": "clary-wine.html",
+  "heading": "Clary Wine",
+  "ingredients": [
+    "beat",
+    "beer",
+    "eggs",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "clary-wine.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1671\u0022\u003E\u003Cb\u003EWM 1671\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EClary Water for the Back, Stomach, \u0026amp;c.\u003C/b\u003E\u003Cbr\u003E\nTake three gallons of midling Beer, put in a great brass Pot of four gallons, and put to it ten handfuls of Clary gathered in a dry day, Raisins of the Sun stoned three pounds, Anniseeds, and Liquorish, of each four ounces, the whites and shells of twenty four eggs, or half so many, if there be not so much need, beat the shells small, and mix them with the whites; put to the bottoms of three white loaves, put into the Receiver one pound of white sugar-candy, or so much fine loaf sugar beaten small, and distill it through a Limbeck, keep it close, and be seldom without it; for it reviveth very much the stomach and heart, strengtheneth the back, procureth appetite and digestion, driveth away Melancholly, sadness and heaviness of the heart, \u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1671"
+    }
+  ],
+  "title": "Clary Wine",
+  "usedSnapshot": "20211027033005"
+}

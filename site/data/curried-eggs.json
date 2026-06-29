@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922082146",
+  "finalPath": "curried-eggs.html",
+  "heading": "Curried Eggs",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "gravy",
+    "onions",
+    "rice"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "curried-eggs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECURRIED EGGS.\u003C/b\u003E\u003Cbr\u003E\nBoil six or eight fresh eggs quite hard, as for salad, and put them aside until they are cold. Mix well together from two to three ounces of good butter, and from three to four dessertspoonsful of currie-powder; shake them in a stew-pan or thick saucepan, over a clear but moderate fire for some minutes, then throw in a couple of mild onions finely minced, and fry them gently until they are tolerably soft: pour to them, by degrees, from half to three quarters of a pint of broth or gravy, and stew them slowly until they are reduced to pulp; mix smoothly a small cup of thick cream with two teaspoonsful of wheaten or of rice-flour, stir them to the currie, and simmer the whole until the raw taste of the thickening is gone. Cut the eggs into half inch slices, heat them quite through in the sauce without boiling them, and serve them as hot as possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Curried Eggs",
+  "usedSnapshot": "20220527212009"
+}

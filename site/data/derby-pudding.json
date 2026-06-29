@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922080706",
+  "finalPath": "derby-pudding.html",
+  "heading": "Derby Pudding",
+  "ingredients": [
+    "custard",
+    "eggs",
+    "jam",
+    "milk",
+    "pudding",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "derby-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ETried favourites cookery book\u003C/i\u003E, 1912",
+      "receiptText": "\u003Cb\u003EDerby Pudding:\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPut a layer of jam into a buttered pie-dish. Cover with stale sponge-cakes cut in fingers; add more jam and more cake till dish is nearly full. Make a boiled custard with the yolks of 2 eggs, 1 pint milk, and tablespoonful sugar. Flavour with vanilla, and pour over cakes. Let this soak 1 hour. Then whip the whites of the 2 eggs, add a very little sugar and vanilla. Spread over the top of pudding. Place in a quick oven to slightly brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Derby Pudding",
+  "usedSnapshot": "20211129114527"
+}

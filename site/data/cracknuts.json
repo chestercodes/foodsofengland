@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508102707",
+  "finalPath": "cracknuts.html",
+  "heading": "Cracknuts",
+  "ingredients": [
+    "butter",
+    "carraway seed",
+    "egg",
+    "eggs",
+    "flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cracknuts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CRACKNUTS. Mix eight ounces of fine flour, with eight ounces of sugar, and melt four ounces of butter in two spoonfuls of raisin wine. With four eggs beaten and strained, make the whole into a paste, and add carraway seed. Roll the paste out as thin as paper, cut it into shapes with the top of a glass, wash them with the white of an egg, and dust them over with fine sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Cracknuts",
+  "usedSnapshot": "20211018083721"
+}

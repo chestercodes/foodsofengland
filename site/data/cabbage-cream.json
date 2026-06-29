@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922093615",
+  "finalPath": "cabbage-cream.html",
+  "heading": "Cabbage Cream",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "cabbage",
+    "cream",
+    "ginger",
+    "milk",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cabbage-cream.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E57. To make Cabbage Cream.\u003C/b\u003E Take twenty five Quarts of new Milk, set it on the fire till it be ready to boil, stir it all the while that it creams not, then pour it into twenty several Platters so fast as you can, when it is cold, take off the Cream with a Skimmer, and lay it on a Pie Plate in the fashion of a Cabbage, crumpled one upon another, do thus three times, and between every Layer you must mingle Rosewater and Sugar mingled thick, and laid on with a Feather; some use to take a little Cream and boil it with Ginger, then take it from the fire and season it with Rosewater and Sugar, and the Juice of Jordan Almonds blanched and beaten, then stir it till it be cold, that it cream not; then take Toasts of Manchet cut thin, not too hard, nor brown, lay them in the bottom of the Dish, and pour the Cream upon them, and lay the Cabbage over.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Cabbage Cream",
+  "usedSnapshot": "20220819112133"
+}

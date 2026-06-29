@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922072250",
+  "finalPath": "malt-vinegar.html",
+  "heading": "Malt Vinegar",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENon-Brewed Condiment\u003C/b\u003E",
+      "relatedPageUrl": "non-brewed-condiment.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EVerjuice\u003C/b\u003E",
+      "relatedPageUrl": "verjuice.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Malt Vinegar",
+  "usedSnapshot": "20220705094143"
+}

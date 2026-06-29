@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922074013",
+  "finalPath": "marrow-toast.html",
+  "heading": "Marrow Toast",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "nutmeg",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marrow-toast.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMARROW SOPS WITH WINE\u003C/b\u003E\u003Cbr\u003E\nMake thin tosts or slices of light French bread, which dry well, or toste a little by the fire, then Soak them in Canary or old Malaga-wine, or fine Muscat, and lay a row of them in a deep dish or bason; then a row of lumps of Marrow upon that; then strew a little fine sugar mingled with some Powder of Cinnamon and Ambergreece (and Nutmeg, if you like it) upon that. Then another row of sops, \u0026amp;c. repeating this, till the dish be full: and more Sugar, Cinnamon and Amber at the top, then on the other rows. If you will, you may put a row of stoned Raisins of the Sun upon every row of Marrow. Then cover the dish, and put it in an Oven to bake for half-an hour; or till the Marrow be sufficiently baked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Marrow Toast Victoria",
+      "relatedPageUrl": "marrow-toast-victoria.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBone Marrow\u003C/b\u003E",
+      "relatedPageUrl": "marrow-bones.html",
+      "relationDescription": "For other marrow dishes, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Marrow Toast",
+  "usedSnapshot": "20220808014649"
+}

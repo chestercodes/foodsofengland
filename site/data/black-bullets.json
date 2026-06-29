@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073109",
+  "finalPath": "black-bullets.html",
+  "heading": "Black Bullets",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Black Bullets",
+  "usedSnapshot": "20180924034144"
+}

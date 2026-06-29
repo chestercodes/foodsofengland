@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130324050816",
+  "finalPath": "balls-of-veal.html",
+  "heading": "Balls of Veal",
+  "ingredients": [
+    "beef",
+    "eggs",
+    "fat",
+    "mutton",
+    "pepper",
+    "salt",
+    "suet",
+    "veal",
+    "veale",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "balls-of-veal.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Balls of Veale.\u003C/b\u003E\u003Cbr\u003E\nTake the Lean of a Leg of Veal, and cut out the Sinews, mince it very small, and with it some fat of Beef suet; if the Leg of Veal be of a Cow Calfe, the Udder will be good instead of Beef suet; when it is very well beaten together with the mincing Knife, have some Cloves, Mace, and Pepper beaten, and with Salt season your meat, putting in some Vinegar, then make up your meat into little Balls, and having very good strong Broth made of Mutton, set your Balls to boyle in it; when they are boyled enough, take the yolks of five or six Eggs well beaten with as much Vinegar as you please to like, and some of the Broth mingled together, stir it into all your Balls and Broth, give it a waume on the fire, then Dish up the Balls upon Sippits and pour the sauce on it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Balls of Veal",
+  "usedSnapshot": "20211130234350"
+}

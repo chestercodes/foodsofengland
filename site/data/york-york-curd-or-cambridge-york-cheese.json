@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922093656",
+  "finalPath": "york-york-curd-or-cambridge-york-cheese.html",
+  "heading": "York, York Curd or Cambridge York Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cambridge Cheese",
+      "relatedPageUrl": "cambridge-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "York, York Curd or Cambridge York Cheese",
+  "usedSnapshot": "20211201010251"
+}

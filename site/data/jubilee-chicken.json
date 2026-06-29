@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20141228064353",
+  "finalPath": "jubilee-chicken.html",
+  "heading": "Jubilee Chicken",
+  "ingredients": [
+    "black pepper",
+    "chicken",
+    "creme fraiche",
+    "garlic",
+    "ginger",
+    "lime",
+    "mayonnaise",
+    "nutmeg",
+    "olive oil",
+    "parsley",
+    "pepper",
+    "salt",
+    "shallot",
+    "asparagus",
+    "breadcrumbs",
+    "egg",
+    "flour",
+    "salmon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "jubilee-chicken.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.royal.gov.uk\u0022\u003E\u003Cb\u003Ewww.royal.gov.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EThe Queen\u0027s Golden Jubilee Chicken\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n18 ounces chicken breast fillets (approximate)\u003Cbr\u003E\nsalt\u003Cbr\u003E\nfresh ground black pepper\u003Cbr\u003E\nfreshly grated nutmeg\u003Cbr\u003E\n2 tablespoons olive oil\u003Cbr\u003E\n1 bunch flat leaf parsley\u003Cbr\u003E\n1 lime, quartered\u003Cbr\u003E\n\u003Cb\u003EMarinade\u003C/b\u003E\u003Cbr\u003E\nhalf lime, juiced and zest grated\u003Cbr\u003E\n1 in piece fresh ginger root, peeled and grated\u003Cbr\u003E\n1 clove crushed garlic\u003Cbr\u003E\n1 shallot, finely chopped\u003Cbr\u003E\n2 tablespoons olive oil\u003Cbr\u003E\n\u003Cb\u003EDressing\u003C/b\u003E\u003Cbr\u003E\n3 fluid ounces creme fraiche\u003Cbr\u003E\n6 tablespoons mayonnaise\u003Cbr\u003E\nhalf lime, juice and zest grated\u003Cbr\u003E\n2 in piece fresh gingerroot\u003Cbr\u003E\n\u003Cb\u003EDirections:\u003C/b\u003E\u003Cbr\u003E\n1. Mix the marinade ingredients together in a shallow dish. Add the chicken and turn to coat thoroughly. Cover and refrigerate for 2-3 hours.\u003Cbr\u003E\n2. To make dressing, place creme fraiche, mayonnaise, lime juice and zest in a bowl. Peel and grate the ginger, then twist in a piece of muslin, or press through a sieve to extract the juice. Add 2 tsp of the juice to the dressing. Stir, cover and chill to allow the flavors to develop.\u003Cbr\u003E\n3. Scrape marinade from the chicken and pat dry with kitchen paper. Season the chicken with salt, pepper and nutmeg, and place in a roasting pan. Drizzle over olive oil.\u003Cbr\u003E\n4. Roast in oven at 375 degrees F for 25 minutes, baste occasionally until the chicken is cooked through. Leave to cool completely, then cut into bite-sized pieces.\u003Cbr\u003E\n5. Combine the chicken and dressing, adjust the seasoning, and refrigerate.\u003Cbr\u003E\nServe with a pasta salad, lime quarters and chopped flat leaf parsley.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jubilee-chicken.html-2",
+      "receiptSource": "Original June 2012 receipt from Paul Bell, formerly of the Garden House Hotel in Cambridge, winner of a Jubilee Chicken competition organised by the NFU, see \u003Ca href=\u0022http://www.greatbritishchicken.co.uk\u0022\u003E\u003Cb\u003Ehttp://www.greatbritishchicken.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Chicken breasts\u003Cbr\u003E\nBritish asparagus\u003Cbr\u003E\nScottish smoked salmon\u003Cbr\u003E\nbreadcrumbs\u003Cbr\u003E\negg wash\u003Cbr\u003E\nflour\u003Cbr\u003E\ndill\u003Cbr\u003E\nmayonnaise\u003Cbr\u003E\n\u003Cb\u003Emethod\u003C/b\u003E\u003Cbr\u003E\nCut the chicken into finger sized strips.\u003Cbr\u003E\nTrim asparagus and poach until tender.\u003Cbr\u003E\nPlace the chicken and asparagus together on slices of salmon and wrap to form fingers.\u003Cbr\u003E\nRoll the chicken and asparagus strips in flour and dip into the beaten egg before rolling in breadcrumbs.\u003Cbr\u003E\nDeep fry until golden brown and chicken strips float to the surface.\u003Cbr\u003E\nTo make the dip finely chop the dill and mix with the mayonnaise to taste.\u003Cbr\u003E\nServe with fresh lime sauces.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Jubilee Chicken",
+  "usedSnapshot": "20211027043635"
+}

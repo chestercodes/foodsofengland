@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140616082518",
+  "finalPath": "tench.html",
+  "heading": "Tench",
+  "ingredients": [
+    "anchovy",
+    "bacon",
+    "butter",
+    "cream",
+    "eggs",
+    "fat",
+    "herbs",
+    "horse-radish",
+    "lemon",
+    "mushroom",
+    "mushrooms",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "shallots"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tench.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo bake Tench. From Lady G.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake your Tench, fresh from the Pond, gut them, and clean them from the Scales; then kill them, by giving them an hard stroke on the back of the Head, or else they will live for many Hours, and even jump out of the Pan in the Oven, when they are half enough. Then lay them in a Pan, with some Mushroom Katchep, some strong Gravey, half a Pint of pickled Mushrooms, as much White-Wine as Gravey, three or four large Shallots, an Anchovy or two, two or three slices of fat Bacon, some Pepper, Cloves, and Nutmeg, at pleasure, a little Salt, some Lemon-Peel, and a bunch of sweet Herbs; then break some bits of Butter, and lay them on your Fish, then cover all as close as you can, and give them an Hour\u0027s baking.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen they are enough, lay them in a hot Dish, and pour off the Liquor, and strain it, only preserving the Mushrooms; then add to it a spoonful of Lemon-Juice, and thicken your Sauce with the Yolks of four Eggs, beaten with Cream, and mix\u0027d, by degrees, with the Sauce. Pour this over your Fish, and serve it hot with a Garnish of BeetRoots sliced, some slices of Lemon-Peel, and some Horse-Radish scraped.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Tench",
+  "usedSnapshot": "20211018064424"
+}

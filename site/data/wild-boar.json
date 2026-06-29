@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150913023210",
+  "finalPath": "wild-boar.html",
+  "heading": "Wild Boar",
+  "ingredients": [
+    "ginger",
+    "pepper",
+    "salt",
+    "tyme",
+    "white wine",
+    "allspice",
+    "butter",
+    "cayenne",
+    "flour",
+    "lemon",
+    "onions",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "wild-boar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo bake a wilde Boare.\u003C/b\u003E\u003Cbr\u003E\nTAKE three parts of water, and the fourth part of white wine, and put therto salt, as much as shall season it, and let it boyle so til it be almost ynough: then take it out of the brothe, and let it lie till it be thorough cold: Then Larde it, an lay it in course paste, in pasties, and then season it with Pepper, salt, and Ginger, \u0026 put in twise so much Ginger as pepper. And when it is halfe baken, fill your pasties with white wine, and all to shake the Pastie, \u0026 so put it into the Ouen againe, til it be enough. Then let it stand five or sixe dayes, or euer that you eate of them, and that tyme it will be verie good meat.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "wild-boar.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo dress part of a Wild Boar.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPUT into a braising pan fourteen pounds weight of the boar; add to it a bottle of red port, eight onions sliced, six bay leaves, cayenne pepper, salt, a few cloves, mace, allspice, and two quarts of veal stock. Stew it gently, and when tender take it out of the liquor, put it into a deep dish, and set it in an oven. Then strain the liquor, reduce it to one quart, thicken it a little with passed flour and butter, and season it to the palate with lemon pickle. Let it boil ten minutes, skim it clean, pour it over the meat, and serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Wild Boar",
+  "usedSnapshot": "20211018082956"
+}

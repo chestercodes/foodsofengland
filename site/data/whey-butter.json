@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140307235845",
+  "finalPath": "whey-butter.html",
+  "heading": "Whey Butter",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whey Butter",
+  "usedSnapshot": "20211205162620"
+}

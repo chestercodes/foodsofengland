@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922084612",
+  "finalPath": "moonshine-pudding.html",
+  "heading": "Moonshine Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "caster sugar",
+    "cream",
+    "custard",
+    "eggs",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "moonshine-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Ci\u003EA very rich variation of bead and butter pudding\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 oz butter\u003Cbr\u003E\n6 thin slices white bread (crusts removed)\u003Cbr\u003E\n2 oz sultanas\u003Cbr\u003E\n2 oz caster sugar\u003Cbr\u003E\n3/4 pint milk\u003Cbr\u003E\n1/4 pint single cream\u003Cbr\u003E\n3 eggs, beaten\u003Cbr\u003E\nGrated rind of half a lemon\u003Cbr\u003E\nFreshly ground nutmeg\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00B0 or Mark 4. Use a little of the butter to grease a shallow ovenproof dish, and use the rest to butter the bread generously. Cut the bread into strips and arrange in the dish, buttered side up, in layers sprinkled with sultanas and sugar, finishing with a layer of buttered bread. Heat the milk and cream to just below boiling point and stir into the eggs; add the lemon rind. Pour over the bread, sprinkle with nutmeg, and leave to stand for 20 minutes. Bake for 30-40 minutes until the custard is set and the top is crisp and golden.\u003Cbr\u003E\n\u003Cbr\u003E\nServes 4.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Moonshine Pudding",
+  "usedSnapshot": "20220808005039"
+}

@@ -1,0 +1,165 @@
+﻿{
+  "earliestSnapshot": "20150922071939",
+  "finalPath": "victoria-plum.html",
+  "heading": "Victoria Plum",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bedale Plum Cake",
+      "relatedPageUrl": "bedale-plum-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Beef Pudding",
+      "relatedPageUrl": "beef-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Christmas Pudding",
+      "relatedPageUrl": "christmas-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Dittisham Plum",
+      "relatedPageUrl": "dittisham-plum.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Elegant Economist\u0027s Pudding",
+      "relatedPageUrl": "elegant-economist-s-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fat Rascals",
+      "relatedPageUrl": "fat-rascals.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Golden Syrup",
+      "relatedPageUrl": "golden-syrup.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Greengage Jam",
+      "relatedPageUrl": "greengage-jam.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lavender Chutney",
+      "relatedPageUrl": "lavender-chutney.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lincolnshire Plum Bread",
+      "relatedPageUrl": "lincolnshire-plum-bread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lord Barrington\u0027s Plum Pudding",
+      "relatedPageUrl": "lord-barrington-s-plum-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Monday Pudding",
+      "relatedPageUrl": "monday-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Pershore Plum",
+      "relatedPageUrl": "pershore-plum.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum and Apple Dumpling",
+      "relatedPageUrl": "plum-and-apple-dumpling.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum Butter",
+      "relatedPageUrl": "plum-butter.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum Duff",
+      "relatedPageUrl": "plum-duff.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum Jam",
+      "relatedPageUrl": "plum-jam.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum Jerkum",
+      "relatedPageUrl": "plum-jerkum.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum Porridge",
+      "relatedPageUrl": "plum-porridge.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Plum Shuttles or Valentine Buns",
+      "relatedPageUrl": "plum-shuttles-or-valentine-buns.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Rich Fruit Cake",
+      "relatedPageUrl": "rich-fruit-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Rich Plum Cake",
+      "relatedPageUrl": "rich-plum-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Ripon Plum Cake",
+      "relatedPageUrl": "ripon-plum-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sir Charles Rowley\u0027s Plum Pudding",
+      "relatedPageUrl": "sir-charles-rowley-s-plum-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spotted Dick",
+      "relatedPageUrl": "spotted-dick.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sussex Plum Duffs",
+      "relatedPageUrl": "sussex-plum-duffs.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-brown-2004"
+    }
+  ],
+  "title": "Victoria Plum",
+  "usedSnapshot": "20220819113929"
+}

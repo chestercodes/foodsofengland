@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082149",
+  "finalPath": "fish-cobbler.html",
+  "heading": "Fish Cobbler",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fish Cobbler",
+  "usedSnapshot": "20220819110915"
+}

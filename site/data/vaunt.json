@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130323054610",
+  "finalPath": "vaunt.html",
+  "heading": "Vaunt",
+  "ingredients": [
+    "beat",
+    "butter",
+    "dates",
+    "prunes",
+    "rosewater",
+    "sugar",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "vaunt.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Vaunt\u003C/b\u003E\u003Cbr\u003E\nTAKE marrow of Beefe, as much as you can hold in both your hands, cut it as big as great dice. Then take ten Dates, cut them as big as smal dice: then take thirtie Prunes and cut the fruite from the stones, then take halfe a handfull of Corrans, washe them and picke them, then put your marrow in a cleane platter, and your Dates, Prunes, and Corrans: then take ten yolks of Egs, and put into your stuffe afore rehearsed. Then take a quartern of Sugar, and more, and beat it smal and put to your marow. Then take two spoonfuls of Synamon, and a spoonful of Sugar, and put them to your stuffe, and mingle them all together, then take eight yolkes of Egs, and four spoonfuls of Rosewater, straine them, and put a litle Sugar to it. Then take a fair frying pan, and put a litle peece of butter in it, as much as a Walnut, and set it vpon a good fire, and when it looketh almost blacke, put it out of your pan, and as fast as you can, put halfe of the yolkes of Egs, into the midst of your pan, and let it run all the bredth of your pan, and frie it faire and yellow, and when it is fryed put it in a faire dish, and put your stuffe therein, and spread it al the bottome of the dish, and then make another vaunt euen as you made the other, and set it vpon a faire borde and cut it in faire slices, of the breadth of your litle finger, as long as your Uaunt is; then lay it vpon your stuffe after the fashion of a lattice window, and then cut off the ends of them, as much as lyeth without the inward compasse of the dish. Then set the dish within the Ouen or in a baking pan, and let it bake with leisure, and when it is baken ynough the marrow will come faire out of the vaunt, vnto the brim of the dish. Then draw it out, and cast theron a litle sugar, and so you may serue it in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Vaunt",
+  "usedSnapshot": "20211020233955"
+}

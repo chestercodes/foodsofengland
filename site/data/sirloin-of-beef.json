@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130322203751",
+  "finalPath": "sirloin-of-beef.html",
+  "heading": "Sirloin of Beef",
+  "ingredients": [
+    "beef",
+    "butter",
+    "fat",
+    "flour",
+    "gravy",
+    "horseradish",
+    "pudding",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sirloin-of-beef.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ESirloin of Beef.-(No. 19.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nThe noble sirloin of about fifteen pounds (if much thicker, the outside will be done too much before the inside is enough), will require to be before the fire about three and a half or four hours; take care to spit it evenly, that it may not be heavier on one side than the other; put a little clean dripping into the dripping-pan, (tie a sheet of paper over it to preserve the fat), baste it well as soon as it is put down, and every quarter of an hour all the time it is roasting, till the last half hour; then take off the paper, and make some gravy for it; stir the fire and make it clear: to brown and froth it, sprinkle a little salt over it, baste it with butter, and dredge it with flour; let it go a few minutes longer, till the froth rises, take it up, put it on the dish, \u0026amp;c.\u003Cbr\u003E\nGarnish it with hillocks of horseradish, scraped as fine as possible with a very sharp knife. A Yorkshire pudding is an excellent accompaniment.\u003Cbr\u003E\n\u003Ci\u003EObs.\u003C/i\u003E The inside of the sirloin must never be cut hot, but reserved entire for the hash, or a mock hare.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERoyal Dishes...\u003C/b\u003E",
+      "relatedPageUrl": "royalty.html",
+      "relationDescription": "See other "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Sirloin of Beef",
+  "usedSnapshot": "20210512105237"
+}

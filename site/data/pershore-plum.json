@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922100540",
+  "finalPath": "pershore-plum.html",
+  "heading": "Pershore Plum",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pershore Plum",
+  "usedSnapshot": "20220516221959"
+}

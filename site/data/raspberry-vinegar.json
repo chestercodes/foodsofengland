@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922072258",
+  "finalPath": "raspberry-vinegar.html",
+  "heading": "Raspberry Vinegar",
+  "ingredients": [
+    "brandy",
+    "jelly",
+    "raspberries",
+    "raspberry",
+    "sugar",
+    "vinegar",
+    "cherries",
+    "currants",
+    "mulberries",
+    "strawberries"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "raspberry-vinegar.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E991. RASPBERRY VINEGAR (1816)\u003C/b\u003E\u003Cbr\u003E\nTake six pounds of raspberries, gathered in dry weather, and six pounds of pounded sugar; put them Lq an earthen pan, placing a layer of raspberries, then a layer of sugar, and so on; let them stand for three days, and stir them once a day with a wooden spoon; then take three pints of Burgundy vinegar, put it to them, stir them well together, put them into a clean preserving pan, over a charcoal fire, make them boUing hot, then nm them through a jelly bag. Put the syrup in a clean earthen pot; then put a large pan of water on the fire, put the pot with the syrup in the boiliag water, and let it boil for two hours; if not sweet enough, sweeten it to your palate with fine loaf sugar; let it stand till cold, and put it into dry pint bottles.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E992. RASPBERRY VINEGAR (Surrey)\u003C/b\u003E\u003Cbr\u003E\nBruise two quarts of fresh raspberries, and pour over them a quart of good white wiae vinegar; cover closely, and let it stand for four days, stirring it occasionally; strain through a flannel bag without pressing, and boil the liquor for a quarter of an hour, with powdered sugar in the proportion of a pound to a pint, skimming carefully; when cold, bottle and cork. If it is intended that the viaegar shall be very acid, less sugar must be used. Some persons add a little brandy when it is bottled; this is good for keeping, but it injures the flavour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "raspberry-vinegar.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECOMFORTS FOR INVALIDS.\u003Cbr\u003E\n89. Raspberry Vinegar Beverage\u003C/b\u003E. Put two tablespoonfuls of raspberry vinegar into a cup, over which pour half a pint of boiling water; when cold, use it as you may be instructed or when necessary; any kind of fruit syrup would answer the same purpose, and be equally as good, that is, currants, cherries, strawberries, mulberries.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Raspberry Vinegar",
+  "usedSnapshot": "20210518211033"
+}

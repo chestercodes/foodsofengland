@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20140125041453",
+  "finalPath": "lincolnshire-sausages.html",
+  "heading": "Lincolnshire Sausages",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ELincolnshire Boiled Sausages\u003C/b\u003E",
+      "relatedPageUrl": "lincolnshire-boiled-sausages.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWestmorland Sausage\u003C/b\u003E",
+      "relatedPageUrl": "westmorland-sausage.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lincolnshire Sausages",
+  "usedSnapshot": "20210518210229"
+}

@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323203508",
+  "finalPath": "cockatrice.html",
+  "heading": "Cockatrice",
+  "ingredients": [
+    "bread",
+    "eggs",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cockatrice.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECokentrice.\u003C/b\u003E Scald a capon clen, \u0026 smite them in-to the wast oueretwarde, and scaude a pygge, and draw him, \u0026 smite him in the same maner; and then sewe the forthyr parte of the capon and the hyndyr parte of the pygge to-gedrys, and the forther parte of the pygge and the hynder parte of the capon to-gedyr: then draw the whyte \u0026 the yolkes of eggs, and cast thereto, and svette of a schepe, and saffron, \u0026 salt, and pouudre of gynger, and grated bread; and medle a to-gedre wit thyn honde, and putt it in the cokentrice, and putt it on a spite, and roste them; and endore them with yolkes of eggs, and pouudre of gynger, and saffron, \u0026 ioiss of persely or malves, \u0026 draw them, and endore them a abowte in euery perty of him.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Cockatrice",
+  "usedSnapshot": "20210510051234"
+}

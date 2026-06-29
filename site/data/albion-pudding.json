@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922074456",
+  "finalPath": "albion-pudding.html",
+  "heading": "Albion Pudding",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "beat",
+    "eggs",
+    "nutmeg",
+    "pudding",
+    "sugar",
+    "bread",
+    "currants",
+    "egg",
+    "milk",
+    "suet",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "albion-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EAlbion Pudding.\u003C/b\u003E\u003Cbr\u003E\n935. Take a quarter of a pound of almonds blanched and beaten, half a pound of loaf sugar, six eggs, and nutmeg to taste. Beat the eggs well up with the sugar over the fire till hot, but not boiling. When cold, add the almonds, and beat again; pour the mixture into a buttered dish and bake it\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "albion-pudding.html-2",
+      "receiptSource": "Original Receipt from Falkirk Herald - Saturday 23 February 1924",
+      "receiptText": "\u003Cb\u003EALBION PUDDING.\u003C/b\u003E\u003Cbr\u003E\n2 teacups of stale bread and crusts, baked oven and crushed finely with rolling pin.\u003Cbr\u003E\n3oz moist sugar\u003Cbr\u003E\n2 teaspoons mixed spice\u003Cbr\u003E\n1 teacup of sultanas and currants mixed\u003Cbr\u003E\n1/2 teacup shredded suet.\u003Cbr\u003E\n1 piled up desert spoon of BIRD\u0027S EGG SUBSTITUTE\u003Cbr\u003E\nMETHOD: mix all ingredients well together in a basin then add sufficient milk to stir into a stiff batter. Pour into a well greased pudding basin, tie over with greased paper and stem for about two hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Albion Pudding",
+  "usedSnapshot": "20220819111433"
+}

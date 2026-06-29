@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140212030905",
+  "finalPath": "yorkshire-mint-pasty.html",
+  "heading": "Yorkshire Mint Pasty",
+  "ingredients": [
+    "baking powder",
+    "butter",
+    "currants",
+    "egg",
+    "flour",
+    "lard",
+    "margarine",
+    "milk",
+    "mint",
+    "pastry",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-mint-pasty.html-1",
+      "receiptSource": "Original Receipt in the Yorkshire Evening Post - Friday 28 October 1921",
+      "receiptText": "\u003Cb\u003EMINT PASTY.\u003C/b\u003E\u003Cbr\u003E\nWho invented mint pasty I wonder? My cookery book offers no clue, but then, it comes from London and knows not pasty of any kind. So I\u0027m going to put down mint pasty to the credit of Yorkshire! Certainly. I\u0027ve never eaten mint pasty anywhere beyond the borders our far flung county.\u003Cbr\u003E\nEvery cook has her own special brand of common pastry, tested by experiment, perfected by experience. Let her use it. My ingredients are:\u003Cbr\u003E\n\u003Cbr\u003E\n1lb of flour\u003Cbr\u003E\n4oz margarine\u003Cbr\u003E\n4oz lard\u003Cbr\u003E\n1 teaspoon baking powder\u003Cbr\u003E\nA Pinch of salt\u003Cbr\u003E\n\u003Cbr\u003E\nMix with water, roll out, fold and roil out again several times. I used to include a teaspoonful or perhaps two of sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nThe filling consists of\u003Cbr\u003E\n2 tablespoons currants\u003Cbr\u003E\n1 tablespoon mint\u003Cbr\u003E\n1 tablespoon sugar\u003Cbr\u003E\n1 teaspoon water\u003Cbr\u003E\n\u003Cbr\u003E\nAll should be well mixed in a basin. Roil out your pastry in one thin round sheet for a turnover pasty, or in two sheets of equal size for a round pasty. Put in the filling evenly, and before sealing the edges place a few pats of butter margarine on top of the filling. The edge will attach more securely moistened with milk or the white of egg.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EHOW TO BAKE IT.\u003C/b\u003E\u003Cbr\u003E\n20 minutes to half an hour; and, if you like your pasty to look nice as well taste nice, take out of the oven shortly before it is done, brush it over with the white of an egg. sift it over with fine sugar, and put it back into the oven to colour. I have heard it said that mint pasty is an acquired taste. It is long since I began eating it that I don\u0027t remember. If I hadn\u0027t come Yorkshire nearly half century age I might never have tasted mint pasty. I\u0027m glad I came.\u003Cbr\u003E\nE.J.K\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "pasty"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Yorkshire Mint Pasty",
+  "usedSnapshot": "20210926072545"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922090509",
+  "finalPath": "alexander-salad.html",
+  "heading": "Alexander Salad",
+  "ingredients": [
+    "lemon",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "alexander-salad.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA grand Sallet of Alexander-buds.\u003C/b\u003E\u003Cbr\u003E\nTake large Alexander-buds, and boil them in fair water after they be cleansed and washed, but first let the water boil, then put them in, and being boil\u0027d, drain them on a dish bottom or in a cullender; then have boil\u0027d capers and currans, and lay them in the midst of a clean scowred dish, the buds parted in two with a sharp knife, and laid round about upright, or one half on one side, and the other against it on the other side, so also carved lemon, scrape on sugar, and serve it with good oyl and wine vinegar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Alexander Salad",
+  "usedSnapshot": "20211021022559"
+}

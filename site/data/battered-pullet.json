@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922093620",
+  "finalPath": "battered-pullet.html",
+  "heading": "Battered Pullet",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "battered-pullet.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPULLET ROASTED WITH BATTER.\u003C/b\u003E\u003Cbr\u003E\nBone and force the pullet with good stuffing or forcemeat, paper it and put it to roast; when half done take oft\u0027 the paper, and baste the fowl with a little light batter; let it dry. Baste it again, so repeating till it is done and nicely crusted over; then serve it up with benshamelle [sic] or poivrade [sic] sauce beneath.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Battered Pullet",
+  "usedSnapshot": "20220527064241"
+}

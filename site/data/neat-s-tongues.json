@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922090844",
+  "finalPath": "neat-s-tongues.html",
+  "heading": "Neat\u0027s Tongues",
+  "ingredients": [
+    "salt",
+    "beef",
+    "bread",
+    "butter",
+    "fat"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "neat-s-tongues.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo dry Neats Tongues.\u003C/b\u003E\u003Cbr\u003E\nTake Bay salt beaten very fine, and Salt-Peeter of each a like, and rub your Tongues very well with that, and cover all over with it, and as it wasts put on more, and when they are very hard and stiffe they are enough, then rowle them in Bran, and dry them before a soft fire, and before you boyle them, let them lie one night in Pompe Water, and boyle them in the same sort of water.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "neat-s-tongues.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E \u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo dress a Neats-Tongue boil\u0027d divers ways.\u003C/b\u003E\u003Cbr\u003E\nTake a Neats-tongue of three or four days powdering, being tender boil\u0027d, serve it on cheat bread for brewis, dish on the tongue in halves or whole, and serve an udder with it being of the same powdering and salting, finely blanched, put to them the clear fat of the beef on the tongue, and white sippets round the dish, run them over with beaten butter, \u0026amp;c.\u003Cbr\u003E\n\u003Cb\u003EOtherways:\u003C/b\u003E For greater service two udders and two tongues finely blanched and served whole.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Neat\u0027s Tongues",
+  "usedSnapshot": "20200107010825"
+}

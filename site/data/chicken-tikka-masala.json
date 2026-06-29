@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073233",
+  "finalPath": "chicken-tikka-masala.html",
+  "heading": "Chicken Tikka Masala",
+  "ingredients": [
+    "beat",
+    "chicken",
+    "chili",
+    "coriander",
+    "cream",
+    "cumin",
+    "curry",
+    "garlic",
+    "ginger",
+    "gravy",
+    "olive oil",
+    "onion",
+    "onions",
+    "paprika",
+    "salt",
+    "tomato",
+    "tomatoes",
+    "turmeric"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chicken-tikka-masala.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022https://food.ndtv.com/recipe-chicken-tikka-masala-hindi-951266\u0022\u003E\u003Cb\u003ENDTV-India\u003C/b\u003E\u003C/a\u003E, 2022 (India - Machine translation from Hindi)",
+      "receiptText": "\u003Cb\u003EChicken Tikka Masala Recipe\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022ctm23.jpg\u0022\u003E\u003Cimg src=\u0022ctm23.jpg\u0022 width=\u0022550\u0022 height=\u0022Auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\nIngredients of Chicken Tikka Masala\u003Cbr\u003E\n2 tbsp curry or tandoori paste\u003Cbr\u003E\n2 tbsp curd\u003Cbr\u003E\n2 chicken breasts (sliced with skin)\u003Cbr\u003E\n3 tbsp single cream (pure and thick cream)\u003Cbr\u003E\n200 grams tomatoes\u003Cbr\u003E\n2 tsp ginger, grated\u003Cbr\u003E\n2 garlic cloves, chopped\u003Cbr\u003E\n3 tbsp olive oil\u003Cbr\u003E\n2 bay leaves\u003Cbr\u003E\n1 medium onion, sliced\u003Cbr\u003E\n2 medium red chilies (seeded and chopped, if you\u0027re using birdeye peppers, use only half a chili)\u003Cbr\u003E\n1/4 tsp turmeric\u003Cbr\u003E\n1/4 tsp paprika\u003Cbr\u003E\n1/4 tsp salt\u003Cbr\u003E\n1/2 (crushed) tsp cumin seeds\u003Cbr\u003E\n1/2 (crushed) tsp coriander\u003Cbr\u003E\n1/2 tsp garam masala\u003Cbr\u003E\n25 grams green coriander\u003Cbr\u003E\n\u003Cbr\u003E\nHow to make Chicken Tikka Masala\u003Cbr\u003E\n1. Take curry or tandoori paste in a bowl. Add curd to it and beat it well. Then add chicken pieces to it. Mix again.\u003Cbr\u003E\n2. Keep the bowl in the fridge for about one to two hours.\u003Cbr\u003E\n3. Preheat the oven to 180 degree celcius. Bake the chicken pieces for 10 minutes.\u003Cbr\u003E\n4. In this, put cream, tomato, ginger and garlic in a bowl and grind it. Keep it on the side.\u003Cbr\u003E\n5.Heat oil in a pan. Add bay leaves and onions and fry them. When the onions turn golden-brown in colour, add chilli, turmeric, paprika, salt, cumin, coriander and garam masala.\u003Cbr\u003E\n6.Fry for a minute. Then add chicken pieces to it. Fry for five minutes.\u003Cbr\u003E\n7. After this, add tomato and cream mixture to it.\u003Cbr\u003E\n8. Cover and cook on low flame for five minutes.\u003Cbr\u003E\n9. When the curry turns red and cream, then add 125 ml. Took. Or add five ounces of water and cook for a minute.\u003Cbr\u003E\n10. Keep in mind that the texture of the dish should be thick and soft.\u003Cbr\u003E\n11. The more finely you cut onions, the thicker the gravy will become. Then take the mixture off the flame.\u003Cbr\u003E\n12. Serve garnished with green coriander.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EChicken Tika Marsala\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chicken Tikka Masala",
+  "usedSnapshot": "20220806215250"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130322201431",
+  "finalPath": "buck-s-fizz.html",
+  "heading": "Buck\u0027s Fizz",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Buck\u0027s Fizz",
+  "usedSnapshot": "20210512120402"
+}

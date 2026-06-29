@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20121024085235",
+  "finalPath": "drinks.html",
+  "heading": "Drinks",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Drinks",
+  "usedSnapshot": "20220103231707"
+}

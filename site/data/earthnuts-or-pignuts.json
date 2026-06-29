@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922074854",
+  "finalPath": "earthnuts-or-pignuts.html",
+  "heading": "Earthnuts or Pignuts",
+  "ingredients": [
+    "nuts",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "earthnuts-or-pignuts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn (\u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EEarth-Nuts, Bulbo-Castanum;\u003C/b\u003E (found in divers places of Surry, near Kingston, and other parts) the Rind par\u0027d off, are eaten crude by Rustics, with a little Pepper; but are best boil\u0027d like other Roots, or in Pottage rather, and are sweet and nourishing.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", \u003Cb\u003Ekippernut, cipernut, arnut, jarnut, hawknut, earth chestnut, groundnut, earthnut, pignut, hognut, Saint Anthony\u0027s nut\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Earthnuts or Pignuts",
+  "usedSnapshot": "20211027040953"
+}

@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20130325124709",
+  "finalPath": "veal-cake.html",
+  "heading": "Veal Cake",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "ham",
+    "parsley",
+    "pepper",
+    "salt",
+    "veal",
+    "bread",
+    "cayenne",
+    "egg",
+    "fat",
+    "gravy",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "veal-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "VEAL CAKE. Boil six or eight eggs hard; cut the yolks in two, and lay some of the pieces in the bottom of the pot. Shake in a little chopped parsley, some slices of veal and ham, and then eggs again; shaking in after each, some chopped parsley, with pepper and salt, till the pot is full. Then put in water enough to cover it, and lay on it about an ounce of butter: tie it over with a double paper, and bake it about an hour. Then press it close together with a spoon, and let it stand till cold. The cake may be put into a small mould, and then it will turn out beautifully for a supper or side dish.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "veal-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E102. VEAL LOAF\u003C/b\u003E (Surrey) Take a cold fillet of veal, omit the fat, and mince as fine as possible. Mix with a quarter of a pound of fat ham, chopped: one teacupful grated bread crumbs, one grated nutmeg, one saltspoonful of salt, two beaten eggs, half a saltspoonful of cayenne. Mix well together in the form of a loaf. Glaze over with yolk of egg, and strew pounded cracker over. Set the dish in an oven, and bake half an hour. Make a gravy of veal trimmings, or any gravy left over from the previous day, when the meat was served. Heat it up, thickened by the yolk of an egg dropped in just before taken up, and serve the loaf with the gravy poured round it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EVeal Loaf\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Veal Cake",
+  "usedSnapshot": "20211205170442"
+}

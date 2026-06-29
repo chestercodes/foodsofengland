@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20130809000621",
+  "finalPath": "leek-pudding.html",
+  "heading": "Leek Pudding",
+  "ingredients": [
+    "baking powder",
+    "flour",
+    "leek",
+    "leeks",
+    "margarine",
+    "pepper",
+    "plain flour",
+    "pudding",
+    "salt",
+    "suet",
+    "bacon",
+    "fat",
+    "pastry"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "leek-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWestern Morning News\u003C/i\u003E\u0027 - Saturday 20 April 1940",
+      "receiptText": "\u003Cb\u003ELEEK PUDDING\u003C/b\u003E. Make suet paste with 3oz. of suet, half pound of plain flour sieved with a good teaspoonful of baking powder, 1 teaspoon of salt, and moistening of water, and line the pudding basin with it. Trim off the roots and outside leaves of half a dozen medium-sized leeks, and after washing well cut into pieces 1 long. Fill the pudding with these, seasoning them with salt and pepper, and put an ounce margarine on top. Put on the suet lid. cover and steam for three hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "leek-pudding.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Leek%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELeek Pudding\u003C/b\u003E [All-in method]\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nserves 4\u003Cbr\u003E\n8 oz flour\u003Cbr\u003E\n1/4 teaspoon salt\u003Cbr\u003E\n1 teaspoon baking powder\u003Cbr\u003E\n4 oz chopped suet\u003Cbr\u003E\n1 lb leeks, finely chopped\u003Cbr\u003E\n\u003Cb\u003Emethod\u003C/b\u003E\u003Cbr\u003E\nSift the flour, salt and baking powder into a bowl and mix in the suet.\u003Cbr\u003E\nAdd the leeks, then bind to a sticky dough with cold water.\u003Cbr\u003E\nTurn the dough into a greased pudding basin, filling it three-quarters full.\u003Cbr\u003E\nCover and steam for 2 hours.\u003Cbr\u003E\nTurn out, slice, and serve meat dishes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "leek-pudding.html-3",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Leek%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELEEK PUDDING\u003C/b\u003E [Pudding-pie type, with bacon]\u003Cbr\u003E\nIngredients\u003Cbr\u003E\nLeeks\u003Cbr\u003E\nBacon\u003Cbr\u003E\nSuet pastry\u003Cbr\u003E\n\u003Cb\u003EDirections\u003C/b\u003E\u003Cbr\u003E\nWash and cut the leeks up into slices. Cut the bacon up into thin slices.\u003Cbr\u003E\nFry the bacon until cooked and remove from the pan onto some paper towelling to soak up any excess fat.\u003Cbr\u003E\nSweat the leeks in the same pan as the bacon was cooked in. Line a pudding dish with suet pastry and fill with alternating layers of leek and bacon, season.\u003Cbr\u003E\nCover the top of the pudding with more suet pastry making sure that it is well sealed. Wrap the whole dish in a tightly sealed envelope of kitchen foil and place in a pan of water, brought to the boil and turned down to simmer.\u003Cbr\u003E\nThe water will need to be brought to the boil again and turned down to simmer. Cook for two hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Leek Pudding",
+  "usedSnapshot": "20220527230145"
+}

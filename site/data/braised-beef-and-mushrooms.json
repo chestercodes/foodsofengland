@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922091225",
+  "finalPath": "braised-beef-and-mushrooms.html",
+  "heading": "Braised Beef and Mushrooms",
+  "ingredients": [
+    "beef",
+    "butter",
+    "gravy",
+    "mushrooms",
+    "onion",
+    "pepper",
+    "salt",
+    "shalot",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "braised-beef-and-mushrooms.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison, 1905",
+      "receiptText": "\u003Cb\u003EBeef and Mushrooms.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n1\u00BD lb. cold roast beef.\u003Cbr\u003E\n1 dozen mushrooms.\u003Cbr\u003E\n1 shalot or small onion, very finely chopped.\u003Cbr\u003E\n2 oz. of butter.\u003Cbr\u003E\n\u00BD pint of beef gravy.\u003Cbr\u003E\n1 dessertspoonful of vinegar.\u003Cbr\u003E\nPepper and salt to taste.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod. - Cut the beef into neat slices, and wash and peel the mushrooms.\u003Cbr\u003E\nSeason the meat with pepper and salt, and lay half of it in the bottom of a pie-dish.\u003Cbr\u003E\nPlace some of the mushrooms on the top of it.\u003Cbr\u003E\nPut 1 oz. of butter, in pieces, about them.\u003Cbr\u003E\nThen put in the remaining pieces of beef, and the mushrooms and butter in the same way.\u003Cbr\u003E\nPour in the gravy and vinegar, and cover closely.\u003Cbr\u003E\nPut it into a moderate oven to bake for three-quarters of an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Braised Beef and Mushrooms",
+  "usedSnapshot": "20211205180730"
+}

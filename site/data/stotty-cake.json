@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922093730",
+  "finalPath": "stotty-cake.html",
+  "heading": "Stotty Cake",
+  "ingredients": [
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "plain flour",
+    "salt",
+    "sugar",
+    "tea",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stotty-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENewcastle Evening Chronicle\u003C/i\u003E\u0027 - Tuesday 05 June 1990",
+      "receiptText": "\u003Cb\u003EStottie Cake Recipe\u003C/b\u003E\u003Cbr\u003E\nThis recipe will give you three at 285 grams\u003Cbr\u003E\n\u003Cbr\u003E\nPlain Flour 500g (1lb 4oz)\u003Cbr\u003E\nSalt (10g)oz\u003Cbr\u003E\nFat or Lard 25g (1oz)\u003Cbr\u003E\nSugar 5g (oz)\u003Cbr\u003E\nYeast 30g (oz)\u003Cbr\u003E\nWater (warm) 290g (10oz)\u003Cbr\u003E\nMilk Powder 10g (\u00BD oz)\u003Cbr\u003E\nTotal Weight 865g (2lb 1oz)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nSieve all the dry ingredients and then rub the fat or lard through. Disperse the yeast in warm water (approx 35degrees C) and add to the rest of the ingredients.\u003Cbr\u003E\nMix the dough thoroughly by machine using a dough hook on speed 2 for 10 minutes or mix by hand for 15 minutes. the dough should be smooth and silky.\u003Cbr\u003E\nAllow the dough to stand for appropriately 30 minutes covered with a cloth in a warm place.\u003Cbr\u003E\nWeigh the dough pieces and mould into a round hall, allow to stand for 10 minutes and then pin the dough out to approximately 9in diameter and leave on a floured tea-cloth, covered with another tea-cloth for 20 minutes.\u003Cbr\u003E\nPlace a well greased tray in the oven to get very hot.\u003Cbr\u003E\nPlace the Stottie on to the tray and press a hole in the middle with finger. After 3-4 minutes turn the Stottie over and bake for a further 10 minutes You will probably need a separate tray for each Stottie, but the tray should be kept hot at all times in an oven of approximately 480-500 degrees F.\u003Cbr\u003E\nThe best way to turn the Stottie is with a palette knife, and don\u0027t have the oven door open too long while turning, as you may lose all of your heat!\u003Cbr\u003E\nSo. there you have it, straight from the baker\u0027s mouth, so to speak!\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EStottie Cake, Stotty Bread\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stotty Cake",
+  "usedSnapshot": "20220619070920"
+}

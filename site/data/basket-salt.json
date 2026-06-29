@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922082532",
+  "finalPath": "basket-salt.html",
+  "heading": "Basket Salt",
+  "ingredients": [
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "basket-salt.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BASKET SALT. This fine and delicate article is chiefly made from the salt springs in Cheshire, and differs from the common brine salt, usually called sea salt, not only in its whiteness and purity, but in the fineness of its grain. Some families entertain prejudices against basket salt, notwithstanding its superior delicacy, from an idea, which does not appear warranted, that pernicious articles are used in its preparation; it may therefore be proper to mention, that by dissolving common salt, again evaporating into dryness, and then reducing it to powder in a mortar, a salt nearly equal to basket salt may be obtained, fine and of a good colour, and well adapted to the use of the table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Basket Salt",
+  "usedSnapshot": "20170314085309"
+}

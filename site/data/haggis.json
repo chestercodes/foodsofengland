@@ -1,0 +1,111 @@
+﻿{
+  "earliestSnapshot": "20130322000100",
+  "finalPath": "haggis.html",
+  "heading": "Haggis",
+  "ingredients": [
+    "suet",
+    "tyme",
+    "anchovies",
+    "bacon",
+    "butter",
+    "eggs",
+    "fat",
+    "lemon",
+    "liver",
+    "pepper",
+    "salt",
+    "sheep",
+    "veal",
+    "beef",
+    "cinnamon",
+    "cream",
+    "flour",
+    "nutmeg",
+    "raisins",
+    "bread",
+    "dates",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "haggis.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, North West of Lancashire c1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E)..",
+      "receiptText": "\u003Cblockquote\u003E\u003Cb\u003EFor hagese.\u003C/b\u003E\u003Cbr\u003E\nthe hert of schepe, the nere thou take,\u003Cbr\u003E\ntho bowel nowt thou shalle forsake,\u003Cbr\u003E\nOn the turbilen made, and boyled wele,\u003Cbr\u003E\nHacke alle togeder with gode persole,\u003Cbr\u003E\nIsop, saveray, thou schalle take then,\u003Cbr\u003E\nAnd suet of schepe take in, I ken,\u003Cbr\u003E\nWith powder of peper and egges gode wonne,\u003Cbr\u003E\nAnd sethe hit wele and serve hit thenne,\u003Cbr\u003E\nLoke hit be saltyd for gode menne.\u003Cbr\u003E\nIn wyntur tyme when erbs ben gode,\u003Cbr\u003E\nTake powder of hom I wot in dede,\u003Cbr\u003E\nAs saveray, mynt and tyme, fulle gode,\u003Cbr\u003E\nIsop and sauge I wot by the rode.\u003C/blockquote\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "haggis.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EAN ENGLISH HAGGIS.\u003C/b\u003E\u003Cbr\u003E\nTake the heart, the tongue, and a part of the liver of the sheep, with a third of its weight in fat bacon, two anchovies chopped small, and the crumb of a penny-roll grated, a salt-spoonful of grated lemon-peel, pepper, salt, two eggs beaten, and a glass of wine; mix all well together; butter a mould; put in the mixture, and let it boil for two hours; or it may be boiled in a veal caul.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "haggis.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO MAKE HAGGIS.\u003C/b\u003E\u003Cbr\u003E\nBlanch and chop the heart and lights of a sheep, then add a pound of beef suet chopped very fine, crumbs of French roll soaked in cream, a little beaten cinnamon, mace, cloves, and nutmeg, half a pint of sweet wine, a pound of raisins stoned and chopped, a sufficient quantity of flour to make it of a proper consistence, a little salt, the yolks of three eggs, and some sheep^s chitterlings well cleaned and cut into slips. Mix all together, and have ready a sheep\u0027s bag nicely cleaned, in which put the mixture; then tie it tightly and boil it three hours; or it may be made savory, omitting the wine and the stoned raisins.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "haggis.html-4",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ETThe cook\u0027s guide: or, Rare receipts for cookery (1664)\u003C/i\u003E\u0027 by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1664\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Haggis Pudding.\u003C/b\u003E\u003Cbr\u003E\nTAke your Haggis or Calves ginne clean scowred and watered, and parboyl it well; then take out the Kernels, and chop it fine; season it with salt, Sugar and bea ten spice; then put to it a little Cream, and ten or twelve yolks of Eggs, as much gra ted bread, a few minced Dates and plump ed Currans, and so fill your skins, and boyl them carefully.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHackin\u003C/b\u003E",
+      "relatedPageUrl": "hackin-or-hack-pudding.html",
+      "relationDescription": "For Sweet Haggis, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ENettle Haggis\u003C/b\u003E",
+      "relatedPageUrl": "nettle-haggis.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EKew Haggis\u003C/b\u003E",
+      "relatedPageUrl": "kew-mince-or-haggis-royal.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Haggis",
+  "usedSnapshot": "20220824191736"
+}

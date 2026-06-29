@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072950",
+  "finalPath": "green-butter.html",
+  "heading": "Green Butter",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cayenne",
+    "pepper",
+    "salt",
+    "watercress"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-butter.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E327. ANCHOVY FILLETS AND GREEN BUTTER (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nGreen butter is made thus: Take some good fresh watercress and pick all the leaves off the stalks, chop them finely, then dry in a cloth, and add them to some fresh butter till it becomes a bright green colour. Season with cayenne pepper and salt, and mould it with an ordinary butter spoon. Dish these in a pile, and on each lay two small anchovy fillets crossways.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Green Butter",
+  "usedSnapshot": "20211207121324"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212030910",
+  "finalPath": "nelson-squares.html",
+  "heading": "Nelson Squares",
+  "ingredients": [
+    "currants",
+    "golden syrup",
+    "pastry",
+    "sugar",
+    "butter",
+    "caster sugar",
+    "dried fruit",
+    "egg",
+    "puff pastry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "nelson-squares.html-1",
+      "receiptSource": "Original Receipt from Nottingham Journal - Thursday 13 October 1932",
+      "receiptText": "\u003Cb\u003EEconomy.\u003C/b\u003E All odd pieces of cut cake or small pastries should kept covered until you have time to make them into some each dish as Nelson Squares. To make these roll out piece of short pastry into a square which will fit easily into the baking tin. Make the remnant of cake, etc. into crumbs, add a little mixed spice, currants and sufficient golden syrup to form stiff paste. Put on the pastry rather thickly, wet the edges, cover with pastry, brush over with sugar and water and bake in moderate oven for 15 to 20 minute. When cold cut into small squares or, of course, strips if preferred.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "nelson-squares.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022https://www.waitrose.com/home/recipes/recipe_directory/w/wc_rowe_s_nelson_squares.html\u0022\u003E\u003Cb\u003Ewww.waitrose.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWC Rowe\u0027s Nelson squares\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWe spoke to Cornish bakers WC Rowe, who used to make these pastries 20 years ago to use up scraps from the bakery. They kindly supplied this recipe.\u003Cbr\u003E\n\u003Cbr\u003E\nPreparation time: 30 minutes\u003Cbr\u003E\nCooking time: 30 minutes, plus cooling\u003Cbr\u003E\nTotal time: 1 hour, plus cooling 60 minutes\u003Cbr\u003E\nMakes: 16\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n500g ready-made puff pastry\u003Cbr\u003E\n1 medium egg, beaten\u003Cbr\u003E\n300g cake crumbs from a sponge such as madeira cake, or trifle sponge\u003Cbr\u003E\n125g mixed dried fruit\u003Cbr\u003E\n2 tsp ground mixed spice\u003Cbr\u003E\nCaster sugar for dredging\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 190\u00B0C, gas mark 5. Butter a 22cm-square baking tin, at least 3cm deep.\u003Cbr\u003E\nRoll out the puff pastry to a rectangle measuring about 28cm x 50cm. Cut into two sections so you have one square of around 28cm x 28cm and a rectangle of around 28cm x 22cm. Use the square to line the base of the baking tin - the pastry should come up the sides of the tin. Trim the rectangle to a square measuring 22cm x 22cm and set aside.\u003Cbr\u003E\nIn a large bowl, mix the cake crumbs, dried fruit and spice. Stir in enough hot water (150ml-175ml) to create a stiff paste. Spread this evenly over the pastry in the tin, leaving a slight gap around the sides. Brush the edge of the pastry with some of the beaten egg. Cover with the reserved square of pastry, and pinch the edges together with the bottom layer of pastry, to form a complete crust so that the filling is enclosed. Brush the pastry with more beaten egg, then use a fork to prick holes in the top of the pastry. Bake for 30 minutes until golden and puffed up. Leave to cool in the tin, then turn out, dredge with caster sugar and cut into squares.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENelson Balls\u003C/b\u003E",
+      "relatedPageUrl": "nelson-balls.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Nelson Squares",
+  "usedSnapshot": "20210510053825"
+}

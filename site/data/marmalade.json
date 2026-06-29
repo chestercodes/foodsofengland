@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150922073649",
+  "finalPath": "marmalade.html",
+  "heading": "Marmalade",
+  "ingredients": [
+    "quince",
+    "quinces",
+    "sugar",
+    "brandy",
+    "marmalade",
+    "orange",
+    "oranges",
+    "seville oranges"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "marmalade.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWHITE MARMULATE, THE QUEENS WAY\u003C/b\u003E\u003Cbr\u003E\nTake a pound and an half of flesh of Quinces sliced, one pound of Sugar, and one pound of Liquor (which is a decoction made very strong of Quinces boiled in fair water). Boil these with a pretty quick fire, till they be enough, and that you find it gellieth. Then proceed as in my way.\u003Cbr\u003E\n\u003Cb\u003EMY LADY OF BATH\u0027S WAY\u003C/b\u003E\u003Cbr\u003E\nTake six pounds of flesh of Quince, and two pound of Sugar moistened well with juyce of Quinces. Boil these together in a fit kettle; first gently, till the Liquor be sweated out from the quince, and have dissolved all the Sugar; Then very quick and fast, proceeding as in my way, (bruising the Quinces with a spoon, \u0026amp;c.) till it be enough. This will be very fine and quick in taste; but will not keep well beyond Easter. In this course you may make Marmulate without any juyce or water (by the meer sweeting of the flesh) if you be careful, proceeding slowly till juyce enough be sweated out, least else it burn to; and then quick, that the flesh may be boiled enough, before the Moisture be evaporated away.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "marmalade.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EORANGE MARMALADE.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake Seville oranges when in season, which is generally at the beginning of March; cut them into halves, and the halves again into thin slices, which put with the juice, but not too much of the core, and take away the pips. To every pound weight of orange add two pounds of sifted sugar and a gill of water; then put them into a preserving pan, set the pan over a quick fire, and when the mixture boils keep stirring and skimming; till it becomes of a proper stillness, which may be known by putting a little into a saucer and setting it in cold water. Then fill the pots with the marmalade, and when cold put over white paper dipped in brandy; after which cover the pots with paper and white leather, and preserve them in a dry place for use.\u003Cbr\u003E\n\u003Cbr\u003E\nN. B. In the same way try the proper stiffness of other jellies or jams, and cover them in like manner\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EQuiddany\u003C/b\u003E",
+      "relatedPageUrl": "quiddany.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EQuince Jam\u003C/b\u003E",
+      "relatedPageUrl": "quince-jam.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Marmalade",
+  "usedSnapshot": "20220706165255"
+}

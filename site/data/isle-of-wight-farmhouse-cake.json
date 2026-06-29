@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150513065259",
+  "finalPath": "isle-of-wight-farmhouse-cake.html",
+  "heading": "Isle of Wight Farmhouse Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EIsle of Wight Pudding\u003C/b\u003E",
+      "relatedPageUrl": "isle-of-wight-pudding.html",
+      "relationDescription": "For other puddings associated with the Isle of Wight, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Isle of Wight Farmhouse Cake",
+  "usedSnapshot": "20211201033651"
+}

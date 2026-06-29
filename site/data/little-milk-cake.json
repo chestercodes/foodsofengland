@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922073159",
+  "finalPath": "little-milk-cake.html",
+  "heading": "Little Milk Cake",
+  "ingredients": [
+    "butter",
+    "caraway seeds",
+    "currants",
+    "egg",
+    "eggs",
+    "flour",
+    "lard",
+    "milk",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "little-milk-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E394. Little Milk Cake for Breakfast.-\u003C/b\u003E Place on a table or slab one pound of flour, half a teaspoonful of salt, two of sugar, three of fresh yeast, or a very small piece of German, two ounces of butter and one egg; have some new milk, pour in a gill, mix all together, adding more milk to form a nice dough, then put some flour in a cloth, put the dough in, and lay it in a warm place; let it rise for about two hours, cut it in pieces the size of eggs, roll them even, and mark the top with a sharp knife; egg over and bake quick; serve hot or cold.\u003Cbr\u003E\n\u003Cb\u003EA Common Sort.-\u003C/b\u003E Only yeast, salt, milk, and butter, and proceed as before.\u003Cbr\u003E\n\u003Cb\u003ECottage Sort.-\u003C/b\u003E To one pound of flour, two ounces of lard or dripping, the yeast and skim milk.\u003Cbr\u003E\n\u003Cb\u003ESweet Sort.-\u003C/b\u003E To one pound of flour three teaspoonfuls of yeast, two ounces of lard or dripping, quarter of a pound of sugar, a few currants or caraway seeds: bake quick when well risen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Little Milk Cake",
+  "usedSnapshot": "20211130233645"
+}

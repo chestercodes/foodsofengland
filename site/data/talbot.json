@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922091348",
+  "finalPath": "talbot.html",
+  "heading": "Talbot",
+  "ingredients": [
+    "ale",
+    "bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "talbot.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETalbottys:\u003C/b\u003E Take an Hare, an fle them clean; then take the blode, \u0026 bread, an Spycery, an grind y-fere, \u0026 draw it up with the broth; than take wine or Ale, an cast thereto, \u0026 make gobettys, \u0026 thanne serve it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Talbot",
+  "usedSnapshot": "20220517165915"
+}

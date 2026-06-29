@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150513070432",
+  "finalPath": "white-cake.html",
+  "heading": "White Cake",
+  "ingredients": [
+    "egg",
+    "eggs",
+    "flour",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "white-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027The Art of Cookery, Made Plain and Easy\u0027\u003C/i\u003E By Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHow to make White Cakes like China Dishes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE the yolks of two eggs, and two spoonfuls of sack, and as much rose-water, some caraway-seeds, and as much flour as will make it a paste stiff enough to roll very thin: if you would have them like dishes, you must bake them upon dishes buttered. Cut them out into what work you please. To candy them; take a pound of fine fearced sugar perfumed, and the white of an egg, and three or four spoonfuls of rose-water, stir it till it looks white; and when that paste is cold, do it with a feather on one side. This candied, let it dry, and do the other side so, and dry it also.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "White Cake",
+  "usedSnapshot": "20211019172920"
+}

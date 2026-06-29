@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20130323203437",
+  "finalPath": "bacon-fraise-or-froise.html",
+  "heading": "Bacon Fraise or Froise",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "cream",
+    "eggs",
+    "butter",
+    "fat",
+    "flour",
+    "lard",
+    "lemons",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bacon-fraise-or-froise.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E273. To make a Bacon Froize.\u003C/b\u003E Take eight Eggs well beaten, and a little Cream, and a little Flower, and beat them well together to be like other Batter, then fry very thin slices of Bacon, and pour some of this over, then fry it, and turn the other side, and pour more upon that, so fry it and serve it to the Table.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bacon-fraise-or-froise.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBacon Froize, or Fraise. From Mrs. Bradbury.\u003C/b\u003E\u003Cbr\u003E\nCut fat Bacon in small Pieces, about an Inch long, and then prepare ten or a dozen Eggs well beat; put in a little Milk, some Spice, at pleasure, and some Flour; then put some Lard or Seam of an Hog into a Pan, and make it very hot; and when it is so, pour in the Mixture, and clap a dish over it, after you have thrown some of the Seam upon it. When the Froize is done enough on one side, turn it with the Dish, and fry it till it is quite enough. Then serve it with a garnish of sliced Lemons and a little Butter, first letting it drain.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBacon Floddies\u003C/b\u003E",
+      "relatedPageUrl": "bacon-floddies.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBacon Cakes\u003C/b\u003E",
+      "relatedPageUrl": "bacon-cakes.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EBacon Froise\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moor-1823"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Bacon Fraise or Froise",
+  "usedSnapshot": "20211027033318"
+}

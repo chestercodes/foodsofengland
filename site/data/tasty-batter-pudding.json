@@ -1,0 +1,85 @@
+﻿{
+  "earliestSnapshot": "20150809132616",
+  "finalPath": "tasty-batter-pudding.html",
+  "heading": "Tasty Batter Pudding",
+  "ingredients": [
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "plain flour",
+    "pork",
+    "pudding",
+    "salt",
+    "suet",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tasty-batter-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Tasty%20Batter%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ETasty Batter Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n1 oz Shredded suet\u003Cbr\u003E\n4 oz Plain flour\u003Cbr\u003E\nPinch Salt\u003Cbr\u003E\n2 Eggs, beaten\u003Cbr\u003E\n2 Tablespoon Sugar\u003Cbr\u003E\n1/2 Teaspoon Ground mixed spice\u003Cbr\u003E\n1 \u00BD oz Sultanas or currants\u003Cbr\u003E\n1 pint Milk\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat the oven to 180 \u00B0C / 350 \u00B0F / Gas 4.\u003Cbr\u003E\nMix the suet, flour and salt together in a bowl. Make a well in the centre and stir in the beaten eggs. Add the sugar, spice and fruit, then stir in the milk until the batter is well-combined.\u003Cbr\u003E\nPour into a well buttered 1.1 litre (2 pint) pie dish and bake for 1-1 \u00BC hours, covering the top with a piece of kitchen foil if it appears to be browning too quickly. Serve in slices accompanied, if desired, with stewed fruit.\u003Cbr\u003E\nThis pudding can be converted into a savoury dish by omitting the sugar, spice and fruit and serving it as an accompaniment to roast meats, especially pork.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Batter and Fruit Pudding",
+      "relatedPageUrl": "batter-and-fruit-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Cherry Batter Pudding",
+      "relatedPageUrl": "cherry-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Derby Batter Pudding",
+      "relatedPageUrl": "derby-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Duffield Pudding",
+      "relatedPageUrl": "duffield-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Kentish Fruit Batter",
+      "relatedPageUrl": "kentish-fruit-batter.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tasty Batter Pudding",
+      "relatedPageUrl": "tasty-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tewkesbury Saucer Batters",
+      "relatedPageUrl": "tewkesbury-saucer-batters.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tasty Batter Pudding",
+  "usedSnapshot": "20200116033006"
+}

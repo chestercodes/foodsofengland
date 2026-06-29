@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922072657",
+  "finalPath": "tapioca-pudding.html",
+  "heading": "Tapioca Pudding",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "almonds blanched",
+    "cream",
+    "eggs",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "sherry",
+    "sugar",
+    "tapioca",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tapioca-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E586. TAPIOCA CREAM (Essex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThree ounces of tapioca, one pint of milk, half a pint of cream, sugar, lemon juice or sherry, essence of almond, four penny sponge cakes, one ounce of sweet almonds. Wash the tapioca and put it to soak in the milk the evening before it is required. Cook slowly till tender. Add sugar to taste, and let cool. Put the sponge cakes iato a glass dish and pour over enough lemon juice or sherry to soak them. Pile the tapioca roughly over, whip the cream, heap it on top, and decorate with the almonds blanched and cut into spikes.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E587. TAPIOCA SNOW (Lancashire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThree tablespoonfuls of tapioca, one pint of new milk, essence of vanilla, two tablespoonfuls of sugar, two eggs. Boil tapioca in milk till quite soft, sweeten with sugar, stir in the yolks of both eggs, and cook gently over slow fire for about six minutes. When cool, flavour with fifteen drops of essence of vanilla, and turn into a glass dish. When quite cold, place the whites of the eggs (beaten to a stiff froth with a little sugar and five drops of vanilla) on the top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Etipioca, tabiaca, tapiaca\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Tapioca Pudding",
+  "usedSnapshot": "20211027042814"
+}

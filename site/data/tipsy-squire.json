@@ -1,0 +1,83 @@
+﻿{
+  "earliestSnapshot": "20150310122330",
+  "finalPath": "tipsy-squire.html",
+  "heading": "Tipsy Squire",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "brandy",
+    "custard",
+    "lemon",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tipsy-squire.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETIPSY CAKE OR BRANDY TRIFLE\u003C/b\u003E\u003Cbr\u003E\nThe old fashioned mode of preparing this dish was to soak a light sponge or Savoy cake in as much good French brandy as it could absorb, then to stick it full of blanched almonds cut into whole length spikes, and to pour a rich cold boiled custard round it. It is more usual now to pour white wine over the cake or a mixture of wine and brandy with this the juice of half a lemon is sometime mixed.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Buxton Pudding",
+      "relatedPageUrl": "buxton-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake",
+      "relatedPageUrl": "tipsy-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake Pudding",
+      "relatedPageUrl": "tipsy-cake-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy D\u0027Arcy Spice Apples",
+      "relatedPageUrl": "tipsy-d-arcy-spice-apples.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Kidneys",
+      "relatedPageUrl": "tipsy-kidneys.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Squire",
+      "relatedPageUrl": "tipsy-squire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Trifle",
+      "relatedPageUrl": "tipsy-trifle.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Tipsy Squire",
+  "usedSnapshot": "20200222061552"
+}

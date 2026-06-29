@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922072143",
+  "finalPath": "chestnut-jam.html",
+  "heading": "Chestnut Jam",
+  "ingredients": [
+    "chestnuts",
+    "jam",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chestnut-jam.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EYorkshire Evening Post\u003C/i\u003E\u0027 - Monday 12 November 1934",
+      "receiptText": "\u003Cb\u003EWEDNESDAY\u0027S JAM\u003C/b\u003E.-Chestnut Jam, althought a delicious and uncommou preserve. does not keep like ordinary Jam, so you will make only small quantity time. Use 2 lb. chestnuts, a pound of lump sugar, half-a-plnt of water and two teaspoonfuls of vanilla essence. Boil the chestnuts, then peel and skin them. Press half the quantity through a sieve and chop the remainder Into small pieces. Make a syrup of the water, sugar and vanilla, add the crushed and chopped chestnuts, and cook until fairly stiff.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chestnut Jam",
+  "usedSnapshot": "20220527072358"
+}

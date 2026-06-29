@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20150922084904",
+  "finalPath": "bristol-cakes.html",
+  "heading": "Bristol Cakes",
+  "ingredients": [
+    "butter",
+    "currants",
+    "eggs",
+    "flour",
+    "sugar",
+    "almonds",
+    "blanched almonds",
+    "cream",
+    "milk",
+    "nuts",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bristol-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBRISTOL CAKES.\u003C/b\u003E\u003Cbr\u003E\nTake six ounces of sifted sugar, six ounces of fresh butter., four whites and two yolks of eggs, nine ounces of flour, and mix them well together in an earthen pan with the hand; then add three quarters of a pound of picked currants, and drop the mixture with a spoon up on tin plates rubbed with butter, and bake them in a brisk oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bristol-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "No. 69.- Bristol Cakes.\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb. sugar. \u00BD lb. butter,\u003Cbr\u003E\n2 lbs. Soda flour (No. 1).\u003Cbr\u003E\n6 ozs. currants. 6 ozs. sultanas.\u003Cbr\u003E\n4 eggs.\u003Cbr\u003E\n\u003Cbr\u003E\nMode, - Cream up the butter and sugar in the usual manner, adding in the eggs; then mix in the flour and fruit with milk to a nice cake-batter consistency; and fill into ordinary large, square penny pans; strew a handful of chopped blanched almonds over; dredge with sugar; place on a flat tin; and bake in a warm oven. When done, sell at 1d. each. Should almonds happen to be dear, as they sometimes are, you can use those . nuts so much liked by juveniles, called monkey nuts, blanched and chopped the same as almonds.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Bristol"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Bristol Cakes",
+  "usedSnapshot": "20211207113805"
+}

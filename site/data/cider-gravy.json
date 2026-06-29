@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808231128",
+  "finalPath": "cider-gravy.html",
+  "heading": "Cider Gravy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "West Country"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider Gravy",
+  "usedSnapshot": "20211207112909"
+}

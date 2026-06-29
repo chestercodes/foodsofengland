@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922085836",
+  "finalPath": "sloe-and-apple-jelly.html",
+  "heading": "Sloe and Apple Jelly",
+  "ingredients": [
+    "apple",
+    "crab",
+    "crab-apples",
+    "jelly",
+    "sugar",
+    "jam"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "sloe-and-apple-jelly.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EBath Chronicle and Weekly Gazette\u003C/i\u003E\u0027 - Saturday 07 December 1912",
+      "receiptText": "\u003Cb\u003ECrab-Apple and Sloe Jelly.\u003C/b\u003E - Take crab-apples (gathered) eight pounds, pounds. Cut the crab-apples in half, do not peel); place in a preserving-pan with the sloes. Add sufficient water to well cover, and cook slowly until well pulped. Break a few of the sloe stones, and put the kernels to . Strain through jelly bag. To each pint of juice allow eighteen ounces of sugar. Finish for other jellies\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sloe-and-apple-jelly.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027, Friday 04 November 1927 and repeated in other newspapers.",
+      "receiptText": "\u003Cb\u003ESLOE AND APPLE JAM.\u003C/b\u003E 21bs. sloes, 1 teacupful water. 2lbs. any good cooking apples, peeled and sliced, 1 teacupful of water. Cook the sloes and apples separately, then put together with 4lbs. sugar, and boil for about 20 minutes or half-an-hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Sloe and Apple Jelly",
+  "usedSnapshot": "20211201034024"
+}

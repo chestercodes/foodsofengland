@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922072958",
+  "finalPath": "duke-of-buckingham-s-pudding.html",
+  "heading": "Duke of Buckingham\u0027s Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "ginger",
+    "nutmeg",
+    "pudding",
+    "raisins",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "duke-of-buckingham-s-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe lady\u0027s assistant for regulating and supplying her table\u003C/i\u003E\u0027 by Charlotte Mason (\u003Ca href=\u0022references.html#mason-1777\u0022\u003E\u003Cb\u003EMason 1777\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\nDuke of Buckingham\u0027s Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nHALF a pound of suet chopped fine, a quarter of a pound of raisins stoned and chopped, two eggs, a little nutmeg and ginger, two spoonfuls of flower, a little sugar to the taste, tie it close, boil it four hours at least, serve it with melted butter, sack, and sugar.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "duke-of-buckingham-s-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDuke of Buckingham\u0027s Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a pound of finely shred suet, a quarter of a pound of raisins stoned and chopped, two eggs, with a little nutmeg and ginger, and sugar to the palate: tie it close; boil it four hours; and serve it up with melted butter, mountain wine, and sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-1777"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Duke of Buckingham\u0027s Pudding",
+  "usedSnapshot": "20220516223133"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922081735",
+  "finalPath": "sugar-mice.html",
+  "heading": "Sugar Mice",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sugar Mice",
+  "usedSnapshot": "20220516220347"
+}

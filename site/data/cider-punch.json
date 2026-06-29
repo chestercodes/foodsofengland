@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922071626",
+  "finalPath": "cider-punch.html",
+  "heading": "Cider Punch",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECider Brandy\u003C/b\u003E",
+      "relatedPageUrl": "cider-brandy.html",
+      "relationDescription": "See an 18th Century receipt in "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider Punch",
+  "usedSnapshot": "20220516215638"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808234805",
+  "finalPath": "bedfordshire-spare-ribs.html",
+  "heading": "Bedfordshire Spare Ribs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bedfordshire Spare Ribs",
+  "usedSnapshot": "20220527215127"
+}

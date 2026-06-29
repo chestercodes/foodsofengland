@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922083904",
+  "finalPath": "beech-gin.html",
+  "heading": "Beech Gin",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Beech Gin",
+  "usedSnapshot": "20200108140344"
+}

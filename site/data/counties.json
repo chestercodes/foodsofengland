@@ -1,0 +1,254 @@
+﻿{
+  "earliestSnapshot": "20160403023924",
+  "finalPath": "counties.html",
+  "heading": "Counties",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "keyword",
+      "tagValue": "Avon"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Bedfordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Bristol"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Buckinghamshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cambridgeshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cleveland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Manchester"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Hereford"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Worcester"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Herefordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Humberside"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Huntingdon"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Peterborough"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Huntingdonshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Isle of Ely"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Merseyside"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Manchester"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Middlesex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Northamptonshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Nottinghamshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Peterborough"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Rutland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Shropshire "
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Warwickshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "West Midlands"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Westmorland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "York"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Counties",
+  "usedSnapshot": "20211020215650"
+}

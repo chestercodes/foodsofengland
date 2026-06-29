@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922084042",
+  "finalPath": "fennel-sauce.html",
+  "heading": "Fennel Sauce",
+  "ingredients": [
+    "butter",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fennel-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFENNEL SAUCE\u003C/b\u003E\u003Cbr\u003E\nStrip from the stems, wash very clean, and boil quickly in salt and water until it is quite tender a handful of young fennel, press the water well from it, mince it very small, and mix it gradually with the quantity of melted butter required for table.\u003Cbr\u003E\n\u003Cbr\u003E\nFennel, small handful; 10 minutes or until quite tender, Melted butter 1/4 to1/2 pint, little salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Fennel Sauce",
+  "usedSnapshot": "20220819112159"
+}

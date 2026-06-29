@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140212015927",
+  "finalPath": "norfolk-shortcakes.html",
+  "heading": "Norfolk Shortcakes",
+  "ingredients": [
+    "butter",
+    "currants",
+    "egg",
+    "flour",
+    "margarine",
+    "milk",
+    "self-raising flour",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-shortcakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Norfolk%20Shortcakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1lb self-raising flour\u003Cbr\u003E\n6oz sugar\u003Cbr\u003E\n10oz currants or sultanas\u003Cbr\u003E\n6oz butter or margarine\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\nA little milk to bind\u003Cbr\u003E\n\u003Cbr\u003E\nRub butter in flour. Add sugar fruit and egg. Bind with milk and form a dough. Roll out to about \u00BD inch thick, cut to shape. Glaze with egg, sprinkle with sugar and bake at 190C or gas 5 for approx 20 mins.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norfolk Shortcakes",
+  "usedSnapshot": "20211129123430"
+}

@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922082524",
+  "finalPath": "herb-vinegar.html",
+  "heading": "Herb Vinegar",
+  "ingredients": [
+    "rosemary",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "herb-vinegar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003E(Evelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "54. Rosemary, Rosmarinus; Soverainly Cephalic, and for the Memory, Sight, and Nerves, incomparable: And tho\u0027 not us\u0027d in the Leaf with our Sallet furniture, yet the Flowers, a little bitter, are always welcome in Vinegar; but above all, a fresh Sprig or two in a Glass of Wine . See Flowers\u003Cbr\u003E\n...\u003Cbr\u003E\nThat the Vinegar and other liquid Acids, perfectly clear, neither sowre, Vapid or spent; be of the best Wine Vinegar, whether Distill\u0027d, or otherwise Aromatiz\u0027d, and impregnated with the Infusion of Clove-gillyflowers, Elder, Roses, Rosemary, Nasturtium, \u0026amp;c. inrich\u0027d with the Vertues of the Plant.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Herb Vinegar",
+  "usedSnapshot": "20220819113059"
+}

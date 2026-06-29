@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922133113",
+  "finalPath": "fire-baked-potatoes.html",
+  "heading": "Fire Baked Potatoes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fire Baked Potatoes",
+  "usedSnapshot": "20220517173158"
+}

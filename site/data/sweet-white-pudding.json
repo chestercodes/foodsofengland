@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922071537",
+  "finalPath": "sweet-white-pudding.html",
+  "heading": "Sweet White Pudding",
+  "ingredients": [
+    "beat",
+    "beef",
+    "cinnamon",
+    "cream",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "powder sugar",
+    "puddings",
+    "rice",
+    "rose-water",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sweet-white-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E159. To make WHITE PUDDINGS in Skins.\u003C/b\u003E\u003Cbr\u003E\nTake half a pound of rice, cree it in milk while it be soft, when it is creed put it into a cullinder to drain; take a penny loaf, cut off the out crust, then cut it in thin slices, scald it in a little milk, but do not make it over wet; take six eggs and beat them very well, a pound of currans well cleaned, a pound of beef-suet shred fine, two or three spoonfuls of rose-water, half a pound of powder sugar, a little salt, a quarter of an ounce of mace, a large nutmeg grated, and a small stick of cinnamon; beat them together, mix them very well, and put them into the skins; if you find it be too thick put to it a little cream; you may boil them near half an hour, it will make them keep the better.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Sweet White Pudding",
+  "usedSnapshot": "20220808020015"
+}

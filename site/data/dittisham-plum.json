@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922082641",
+  "finalPath": "dittisham-plum.html",
+  "heading": "Dittisham Plum",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dittisham Plum",
+  "usedSnapshot": "20210120135418"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922132848",
+  "finalPath": "salomene.html",
+  "heading": "Salomene",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "bread",
+    "clowes",
+    "eggs",
+    "flour",
+    "milk",
+    "rice",
+    "saffron",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "salomene.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESalomene:\u003C/b\u003E Take good wine, an good powder, \u0026 bread y-ground, an sugar, an boil it y-fere; than take Trowtys, Rochys, Perchys, other Carpys, other alle these y-fere, an make them clean, \u0026 aftere roste them on a Grydelle; than hewe them in gobettys: whan they ben y-sothe, fry them in oyle a little, then caste in the brwet; and whan thou dressist it, take Maces, Clowes, Quybibes, Gelofrys; an cast above, \u0026 serve forth.\u003Cbr\u003E\n\u003Cbr\u003E\nElsewhere...\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESoupes of Salomere:\u003C/b\u003E Take boylid Porke, \u0026 hew yt an grind it; then take cowe milk, \u0026 eggs y-swonge, \u0026 saffron, \u0026 mince Percely bladys, \u0026 caste thereto, \u0026 let boil alle y-fere; \u0026 dresse up-on a clothe, \u0026 kerue ther-of small lechys, \u0026 do them in a dish; then take almond milk \u0026 flour of rice, and sugar an saffron, \u0026 boil it alle y-fere; then caste thine sewe on thine lechys, \u0026 serve forth alle hote.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Salomene",
+  "usedSnapshot": "20211129113913"
+}

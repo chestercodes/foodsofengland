@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922074058",
+  "finalPath": "dorset-rabbit.html",
+  "heading": "Dorset Rabbit",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dorset Rabbit",
+  "usedSnapshot": "20220527224207"
+}

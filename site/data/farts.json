@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20121024084450",
+  "finalPath": "farts.html",
+  "heading": "Farts",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "sugar",
+    "dates",
+    "mutton",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "farts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\nTo make Farts of Portingale.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of life Hony, and set it upon the fire and when it seetheth scum it clean, and then put in a certaine of fine Biskets well serced, and some pouder of Cloves, some Ginger, and powder of sinamon, Annis seeds and some Sugar, and let all these be well stirred upon the fire, til it be as thicke as you thinke needfull, and for the paste for them take Flower as finelye dressed as may be, and a good peece of sweet Butter, and woorke all these same well togither, and not knead it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "farts.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHow to make Farts of Portingale.\u003C/b\u003E\u003Cbr\u003E\nTAKE a peece of a leg of Mutton, mince it smal and season it with cloues, mace pepper and salt, and dates minced with currans: then roll it into round rolles, and so into little balles, and so boyle them in a little beefe broth and so serue them foorth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EFertes, Fartes\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Farts",
+  "usedSnapshot": "20210410111731"
+}

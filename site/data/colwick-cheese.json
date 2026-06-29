@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140616082603",
+  "finalPath": "colwick-cheese.html",
+  "heading": "Colwick Cheese",
+  "ingredients": [
+    "cheese",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "colwick-cheese.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Tuesday 27 May 1941",
+      "receiptText": "\u003Cb\u003EM.R.\u003C/b\u003E To make Colwick Cheese: Heat milk to about 82 degrees, add good quality commercial rennet (about two teaspoonfuls to 17 gallons milk), and leave standing till whey separates from curd (this may take 10 or 12 hours). Prepare tin about six inches high and six inches in diameter, with holes in bottom, and line with cheesecloth; put the curd into this, and leave to drain for several hours, till cheese formed. Time taken from adding rennet to having eatable cheese may be 36 hours or more according to tne weather, methods of handling. \u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Nottinghamshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Colwick Cheese",
+  "usedSnapshot": "20211019173420"
+}

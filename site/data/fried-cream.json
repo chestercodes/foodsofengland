@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922091256",
+  "finalPath": "fried-cream.html",
+  "heading": "Fried Cream",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "milk",
+    "powder sugar",
+    "salt",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E253. To fry CREAM to eat hot.\u003C/b\u003E\u003Cbr\u003E\nTake a pint of cream and boil it, three spoonfuls of London flour, mix\u0027d with a little milk, put in three eggs, and beat them very well with the flour, a little salt, a spoonful or two of fine powder sugar, mix them very well; then put your cream to them on the fire and boil it; then beat two eggs more very well, and when you take your pan off the fire stir them in, and pour them into a large pewter dish, about half an inch thick; when it is quite cold cut it out in square bits, and fry it in butter, a light brown; as you fry them set them before the fire to keep hot and crisp, so dish them up with a little white wine, butter and sugar for your sauce, in a china cup, set it in the midst, and grate over some loaf sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Fried Cream",
+  "usedSnapshot": "20220819120158"
+}

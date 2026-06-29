@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20130211075213",
+  "finalPath": "worcester-lampreys.html",
+  "heading": "Worcester Lampreys",
+  "ingredients": [
+    "allspice",
+    "anchovies",
+    "beef",
+    "bread",
+    "butter",
+    "cider",
+    "flour",
+    "gravy",
+    "horse-radish",
+    "lemon",
+    "lemon juice",
+    "mustard",
+    "nutmeg",
+    "pepper",
+    "sherry",
+    "white wine",
+    "anchovy",
+    "beat",
+    "parsley",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "worcester-lampreys.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO STEW LAMPREY, AS AT WORCESTER.\u003C/b\u003E\u003Cbr\u003E\nAfter cleaning the fish carefully, remove the cartilage which runs down the back, and season with a small quantity of cloves, mace, nutmeg, pepper, and allspice; put it into a small stewpot, with as much strong beef gravy, and madeira or sherry, in equal quantities, as will cover it. Cover close: stew till tender, then take out the lamprey and keep hot, while you boil up the liquor with two or three anchovies chopped, and some flour and butter; strain the gravy through a sieve, and add lemon juice and some made mustard. Serve with sippets of bread and horse-radish. When there is spawn it must be fried and put round.\u003Cbr\u003E\nNote.- Cider will do in common, instead of white wine.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "worcester-lampreys.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook\u0027s and Confectioners Dictionary: Or, the Accomplish\u0027d Housewife\u0027s Companion.\u003C/i\u003E\u0027 by John Nott (\u003Ca href=\u0022references.html#nott-1723\u0022\u003E\u003Cb\u003ENott 1723\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESauce for Lampreys\u003C/b\u003E\u003Cbr\u003E\nTake Oil, Vinegar, Salt, Pepper, and a little Mustard, shred Parsley, an Anchovy, and a few Capers, and beat them all well together in an earthen Vessel or Porringer then put it into a Saucer, place it in the middle of the Dish, and lay the Lampreys round it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Worcestershire Potted Lamperns",
+      "relatedPageUrl": "worcestershire-potted-lamperns.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nott-1723"
+    }
+  ],
+  "title": "Worcester Lampreys",
+  "usedSnapshot": "20220517164851"
+}

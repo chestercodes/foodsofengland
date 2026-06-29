@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072655",
+  "finalPath": "devil-sauce.html",
+  "heading": "Devil Sauce",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cayenne",
+    "pepper",
+    "shalots",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devil-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "93 DEVIL\u0027S SAUCE. Chop three shalots fine, aud place them in a small stewpan, with -two tablespoonfuls of French vinegar, and a pinch of cayenne pepper; boil these together for three minutes; then add half a pint of thin strong espagnole sauce, and a tablespoonful of tomata sauce; boil again, and finish by stirring in a small pat of anchovy butter (No. 179). This sauce is most appropriate for broiled meats.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Devil Sauce",
+  "usedSnapshot": "20211207110605"
+}

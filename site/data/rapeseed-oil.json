@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20211020225814",
+  "finalPath": "rapeseed-oil.html",
+  "heading": "Rapeseed Oil",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rapeseed Oil",
+  "usedSnapshot": "20211020225814"
+}

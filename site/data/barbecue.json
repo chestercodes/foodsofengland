@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130324050945",
+  "finalPath": "barbecue.html",
+  "heading": "Barbecue",
+  "ingredients": [
+    "lemons",
+    "pepper",
+    "pork",
+    "ribs",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barbecue.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAn Hog barbecued, or broil\u0027d whole. From Vaux-Hall, Surrey.\u003C/b\u003E\u003Cbr\u003E\nTake an Hog of five or six Months old, kill it, and take out the Inwards, so that the Hog is clear of the Harslet; then turn the Hog upon its Back, and from three Inches below the place where it was stuck, to kill it, cut the Belly in a strait Line down to the Bottom, near the joining of the Gammons; but not so far, but that the whole Body of the Hog may hold any Liquor we would put into it.\u003Cbr\u003E\n\u003Cbr\u003E\nThen stretch out the Ribs, and open the Belly, as wide as may be; then strew into it what Pepper and Salt you please.\u003Cbr\u003E\n\u003Cbr\u003E\nAfter this, take a large Grid-Iron, with two or three Ribs in it, and set it upon a stand of Iron, about three Foot and a half high, and upon that, lay your Hog, open\u0027d as above, with the Belly-side downwards, and with a good clear Fire of Charcoal under it. Broil that side till it is enough, flouring the Back at the same time often.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMemorandum\u003C/i\u003E, This should be done in a Yard, or Garden, with a Covering like a Tent over it.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen the Belly-part of the Hog is enough, and turn\u0027d upwards, and well fix\u0027d, to be steady upon the Grid-Iron, or Barbacue, pour into the Belly of the Hog, three or four Quarts of Water, and half as much White-Wine, and as much Salt as you will, with some Sage cut small; adding the Peels of six or eight Lemons, and an Ounce of fresh Cloves whole.\u003Cbr\u003E\n\u003Cbr\u003E\nThen let it broil till it is enough, which will be, from the beginning to the end, about seven or eight Hours; and when you serve it, pour out the Sauce, and lay it in a Dish, with the Back upwards.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMemorandum\u003C/i\u003E, The Skin must not be cut before you lay it on the Gridiron, to keep in the Gravey; neither should any of the Skin be cut, when you have any Pork roasted for the same Reason.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Barbecue",
+  "usedSnapshot": "20211020215503"
+}

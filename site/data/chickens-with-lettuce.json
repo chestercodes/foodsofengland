@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922094106",
+  "finalPath": "chickens-with-lettuce.html",
+  "heading": "Chickens with Lettuce",
+  "ingredients": [
+    "bread",
+    "mutton",
+    "pepper",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chickens-with-lettuce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo seeth chickins in Lettice.\u003C/b\u003E\u003Cbr\u003E\nTake a neck of Mutton with a marow bone, and so let it seethe, and scum it clean and let it boyle well togither, and when it is enough: then take out some of it and straine it, and put in your Chickins. Then take a good many Letuce and wash them clean and put them in. Then take a little white Bread and straine it and put it into the pot to thick it withal. Then put a little whole mace to season it with Pepper and Vergious [\u003Ca href=\u0022verjuice.html\u0022\u003E\u003Cb\u003EVerjuice\u003C/b\u003E\u003C/a\u003E?], and a little sugar, and cut sops and lay them on, and put on the marow and so serve them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Chickens with Lettuce",
+  "usedSnapshot": "20170314023039"
+}

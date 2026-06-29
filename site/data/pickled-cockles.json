@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20140616085613",
+  "finalPath": "pickled-cockles.html",
+  "heading": "Pickled Cockles",
+  "ingredients": [
+    "pepper",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-cockles.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E394. To pickle COCKLES.\u003C/b\u003E\u003Cbr\u003E\nTake cockles at a full moon and wash \u0027em, then put them in a pan, and cover them with a wet cloth, when they are enough put them into a stone bowl, take them out of the shells and wash them very well in their own pickle; let the pickle settle every time you wash them then clear it off; when you have cleaned \u0027em, put the pickle into a pan, with a spoonful or two of white wine and a little white wine vinegar, to you taste, put in a little Jamaica and whole pepper, boil it very well in the pickle, then put in you cockles, let \u0027em have a boil and skim \u0027em, when they are cold put them in a bottle with a little oil over them, set \u0027em in a cool place and keep \u0027em for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Pickled Cockles",
+  "usedSnapshot": "20211201002913"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140212024851",
+  "finalPath": "singing-lily.html",
+  "heading": "Singing Lily",
+  "ingredients": [
+    "butter",
+    "pastry",
+    "potato",
+    "raisins",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "singing-lily.html-1",
+      "receiptSource": "Original Receipt from corresepondent \u0027Dawn\u0027 to the BBC Lancashire website, 2014",
+      "receiptText": "Make Shortcrust Pastry (plain not sweet) Roll into a circle 1/2cm thick.\u003Cbr\u003E\nPile raisins into the centre then bring together pastry over them to form a parcel.\u003Cbr\u003E\nMake sure the pastry is joined together well. Then roll out again to approx 2cm till you can just see the raisins showing through top.\u003Cbr\u003E\nSprinkle with sugar.\u003Cbr\u003E\nCook in oven 190 till pastry is cooked.\u003Cbr\u003E\nEat hot or cold - spread with butter. It\u0027s gorgeous when hot and the butter melts over it.\u003Cbr\u003E\n\u003Cbr\u003E\nMy Nan always made \u0027Singing Lily\u0027 with the leftover pastry from making a meat and potato pie.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Singing Lily",
+  "usedSnapshot": "20211027043057"
+}

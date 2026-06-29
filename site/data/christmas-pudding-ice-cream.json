@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922075123",
+  "finalPath": "christmas-pudding-ice-cream.html",
+  "heading": "Christmas Pudding Ice Cream",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Christmas Pudding Ice Cream",
+  "usedSnapshot": "20200222061628"
+}

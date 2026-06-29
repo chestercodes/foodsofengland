@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922100344",
+  "finalPath": "celery-soup.html",
+  "heading": "Celery Soup",
+  "ingredients": [
+    "celery",
+    "cream",
+    "nutmeg",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "celery-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECELERY SOUP.\u003C/b\u003E\u003Cbr\u003E\nCut celery heads two inches long, then some of the white part into small pieces; wash, blanch, and drain it, and put to it three quarts of cleared stock. Make it boil, skim it, and let the celery simmer till tender.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "celery-soup.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECELERY SOUP.\u003C/b\u003E\u003Cbr\u003E\n122. INGREDIENTS: 9 heads of celery, 1 teaspoonful of salt, nutmeg to taste, 1 lump of sugar,\u00BD pint of strong stock, a pint of cream, and 2 quarts of boiling water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut the celery into small pieces; throw it into the water, seasoned with the nutmeg, salt, and sugar. Boil it till sufficiently tender; pass it through a sieve, add the stock, and simmer it for half an hour. Now put in the cream, bring it to the boiling point, and serve immediately.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1 hour. \u003Ci\u003EAverage cost\u003C/i\u003E: 1s. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to March.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 10 persons.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: This soup can be made brown, instead of white, by omitting the cream, and colouring it a little. When celery cannot be procured, half a drachm of the seed, finely pounded, will give a flavour to the soup, if put in a quarter of an hour before it is done. A little of the essence of celery will answer the same purpose.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Celery Soup",
+  "usedSnapshot": "20210518202243"
+}

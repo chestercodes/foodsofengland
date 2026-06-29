@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922074755",
+  "finalPath": "table-jelly.html",
+  "heading": "Table Jelly",
+  "ingredients": [
+    "almonds",
+    "cream",
+    "eggs",
+    "grapes",
+    "jelly",
+    "lemon",
+    "lemon juice",
+    "lemons",
+    "oranges",
+    "peaches",
+    "saffron",
+    "spinach",
+    "sugar",
+    "tartar",
+    "beat",
+    "fat"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "table-jelly.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "HARTSHORN JELLY. Simmer eight ounces of hartshorn shavings with two quarts of water, till reduced to one. Strain and boil it with the rinds of four China oranges, and two lemons pared thin. When cool, add the juice of both, half a pound of sugar, and the whites of six eggs beaten to a froth. Let the jelly have three or four boils without stirring, and strain it through a jelly bag.\u003Cbr\u003E\n[...]\u003Cbr\u003E\nISINGLASS JELLY. Boil an ounce of isinglass in a quart of water, with a few cloves, lemon peel, or wine, till it is reduced to half the quantity. Then strain it, and add a little sugar and lemon juice.\u003Cbr\u003E\n[...]\u003Cbr\u003E\nFRUITS IN JELLY. Put half a pint of calf\u0027s foot jelly into a bowl; when stiff, lay in three peaches, and a bunch of grapes with the stalk upwards. Cover over with vine leaves, and fill up the bowl with jelly. Let it stand till the next day, and then set it to the brim in hot water. When it gives way from the bowl, turn the jelly out carefully, and send it to table. Any kind of fruit may be treated in the same way.\u003Cbr\u003E\n[...]\u003Cbr\u003E\nCOLOURING FOR JELLIES. For a beautiful Red, take fifteen grains of cochineal in the finest powder, and a dram and a half of cream of tartar. Boil them in half a pint of water very slowly for half an hour, adding a bit of alum the size of a pea; or use beet root sliced, and some liquor poured over. For White, use cream; or almonds finely powdered, with a spoonful of water. For Yellow, yolks of eggs, or a little saffron steeped in the liquor and squeezed. For Green, spinach or beet leaves bruised and pressed, and the juice boiled to take off the rawness. Any of these will do to stain jellies, ices, or cakes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "table-jelly.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 by John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECalf\u0027s Feet Jelly.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE two calf\u0027s feet, and boil them in a gallon of water till it comes to a quart; when cold, skim off all the fat, and take the jelly up clean; leave what settling may remain at the bottom, and put the jelly into a saucepan, with a pint of mountain wine, half a pound of loaf sugar, and the juice of four lemons: beat up six or eight whites of eggs with a whisk, then put them into the saucepan, stir all well together till it boils, and let it boil a few minutes. Pour it into a large flannel bag, and repeat it till it runs clear. Have ready a large china bason, and put into it lemon peel cut as thin as possible; let the jelly run into the buson, and the lem^n peel will give it an amber colour and a fine flavour: then fill the glasses.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    }
+  ],
+  "title": "Table Jelly",
+  "usedSnapshot": "20200808115300"
+}

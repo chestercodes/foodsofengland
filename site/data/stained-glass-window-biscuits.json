@@ -1,0 +1,35 @@
+﻿{
+  "earliestSnapshot": "20140508113306",
+  "finalPath": "stained-glass-window-biscuits.html",
+  "heading": "Stained Glass Window Biscuits",
+  "ingredients": [
+    "biscuits",
+    "pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stained-glass-window-biscuits.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnterprising Ideas\u003C/i\u003E\u0027 by Penny Coltman and Jayne Greenwood (1999)",
+      "receiptText": "Make stained glass window biscuits using pastry strips and boiled sweets. The shape of a window is made on a lined baking tin by criss-crossing strips of pastry. Wet the pastry wherever strips cross or join to hold it. Place a piece of broken sweet in each of the spaces in the \u0027window*. Bake at 180C until just cooked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stained Glass Window Biscuits",
+  "usedSnapshot": "20210518195838"
+}

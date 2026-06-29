@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922073757",
+  "finalPath": "butter.html",
+  "heading": "Butter",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Milk Butter",
+      "relatedPageUrl": "milk-butter.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Butter",
+  "usedSnapshot": "20170314021635"
+}

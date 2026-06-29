@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20140508110524",
+  "finalPath": "shrewsbury-cakes.html",
+  "heading": "Shrewsbury Cakes",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "ginger",
+    "rose-water",
+    "salt",
+    "sugar",
+    "flour",
+    "lemon",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "shrewsbury-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Shrewsbury Cakes.\u003C/b\u003E\u003Cbr\u003E\nTake two pound of floure dryed in the Oven and weighed after it is dryed, then put to it one pound of Butter that must be layd an hour or two in Rose-water, so done poure the Water from the Butter, and put the Butter to the flowre with the yolks and whites of five Eggs, two races of Ginger, and three quarters of a pound of Sugar, a little salt, grate your spice, and it well be the better, knead all these together till you may rowle the past, then roule it forth with the top of a bowle, then prick them with a pin made of wood, or if you have a comb that hath not been used, that will do them quickly, and is best to that purpose, so bake them upon Pye plates, but not too much in the Oven, for the heat of the Plates will dry them very much, after they come forth of the Oven, you may cut them without the bowles of what bignesse or what fashion you please.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "shrewsbury-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 57.- Shrewsbury Cakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 lbs. Vienna flour. 1 lb. sugar.\u003Cbr\u003E\n\u00BE lb. butter. 1oz. volatile.\u003Cbr\u003E\n3 eggs. Milk.\u003Cbr\u003E\nEssence of lemon.\u003Cbr\u003E\n\u003Cbr\u003E\nMode, - Rub the butter and sugar into the flour; break the volatile down in a mortar with a little milk; break the eggs into the bay, add the volatile, a few drops of essence of lemon, and wet into dough with milk. Scale off into 5oz pieces; divide into two; mould up round, and roll out into 3 in. lengths; flatten out with your hand; wash over with milk, turn on to dust lump sugar, plate on to clean, greased tins; lay a slice of citron peel on top, and bake in a warm oven. Sell at 1d. each.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Shrewsbury Cakes",
+  "usedSnapshot": "20210125233217"
+}

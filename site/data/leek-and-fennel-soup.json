@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922091751",
+  "finalPath": "leek-and-fennel-soup.html",
+  "heading": "Leek and Fennel Soup",
+  "ingredients": [
+    "garlic",
+    "leek",
+    "leeks",
+    "lemon",
+    "lemon juice",
+    "olive oil",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leek-and-fennel-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELeek and Fennel Soup\u003C/b\u003E\u003Cbr\u003E\nChoose crisp, clean fennel bulbs and store in the fridge. Fennel is rich in vitamin A, as well as containing calcium, phosphorus and potassium.\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n2 Tablespoon Olive oil\u003Cbr\u003E\n3 Leeks, washed and sliced\u003Cbr\u003E\n2 Fennel bulbs, chopped\u003Cbr\u003E\n2 Cloves Garlic, crushed\u003Cbr\u003E\n1 Teaspoon Fennel seeds\u003Cbr\u003E\n750 ml Vegetable stock (1 1/4 pints)\u003Cbr\u003E\n2 Tablespoon Lemon juice\u003Cbr\u003E\nSeasoning\u003Cbr\u003E\nFennel fronds, for decoration\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nHeat the oil in a large saucepan and gently saute the leeks, fennel, garlic and fennel seeds for about 15 minutes.\u003Cbr\u003E\nAdd the stock and bring to the boil.\u003Cbr\u003E\nReduce the heat, cover and simmer for about 40 minutes.\u003Cbr\u003E\nPuree the soup in batches. Add the lemon juice and season.\u003Cbr\u003E\nServe hot in bowls and garnish with the fennel fronds.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Leek and Fennel Soup",
+  "usedSnapshot": "20220808012800"
+}

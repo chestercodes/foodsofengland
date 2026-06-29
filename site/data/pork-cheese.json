@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20130323200025",
+  "finalPath": "pork-cheese.html",
+  "heading": "Pork Cheese",
+  "ingredients": [
+    "carrots",
+    "cheese",
+    "coriander",
+    "fat",
+    "herbs",
+    "lemon",
+    "liver",
+    "mustard",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "pork",
+    "salt",
+    "thyme",
+    "truffles",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pork-cheese.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E79. PORK CHEESE (French)\u003C/b\u003E\u003Cbr\u003E\nTake out the bones from a pig\u0027s head without cutting the skin, remove the flesh, separate the fat from the lean, and cut the whole in strips; do the same with the ears, and season the whole with salt, pepper, powdered nutmeg, and other spices, thyme, bay leaves, sage, and parsley, all chopped fine, the grated rind of a lemon, and its juice. Put the skin of the head into a salad bowl, and arrange in it the lean and the fat of the meat in alternate layers, as also two or three pigs\u0027 tongues cut up in the same way, with a little of the inner fat of the pig and some sliced truffles, if you have any : when all the meat is used, fold over the skin and sew it up, removing any superfluous part. Put this preparation into a stewpan of little more than its own size, with carrots, sweet herbs, salt, and pepper, and moisten with a little white (French) wine; simmer very gently for six or seven hours; take it off the fire, and when merely warm put the head into a mould of the shape of a cheese, and so that a part of the head may be above the mould, and put a board over it covered with weights. This cheese is always eaten cold with mustard and vinegar. Pork cheese is also made with the ears and tongues alone, one layer of the ears cut into strips, and one layer of the tongues, seasoned as above, and piled together into a mould, to be pressed down in the same way as the head. The mode of proceeding is altogether the same as for the head, with the exception of enclosing it in a skin.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E80. PORK CHEESE (Italian)\u003C/b\u003E\u003Cbr\u003E\nMince and pound a pig\u0027s liver; do the same, but separately, with a quantity of the inner fat of pork, equal in weight to that of the liver. Mix them together and season with salt, pepper, nutmeg, coriander, chopped parsley, thyme, and sage : cover the bottom and line the sides of a tin saucepan or shape with thin slices of larding, fill the mould and cover with larding : bake in an oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Pork Cheese",
+  "usedSnapshot": "20220819105056"
+}

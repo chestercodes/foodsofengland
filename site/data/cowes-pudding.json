@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140508110330",
+  "finalPath": "cowes-pudding.html",
+  "heading": "Cowes Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Cowes Pudding",
+  "usedSnapshot": "20211205170728"
+}

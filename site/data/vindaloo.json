@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20130322035130",
+  "finalPath": "vindaloo.html",
+  "heading": "Vindaloo",
+  "ingredients": [
+    "beef",
+    "bladder",
+    "cardamoms",
+    "cinnamon",
+    "coriander",
+    "cumin",
+    "curry",
+    "fat",
+    "garlic",
+    "ghee",
+    "ginger",
+    "gravy",
+    "lard",
+    "mustard",
+    "pork",
+    "salt",
+    "turmeric",
+    "vinegar",
+    "rice"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "vindaloo.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Indian Cookery Book\u003C/i\u003E\u0027, Thacker, Spink \u0026 Co., Calcutta, 1880;",
+      "receiptText": "PORTUGUESE CURRY (VINDALOO OR BINDALOO)\u003Cbr\u003E\nThis well-known Portuguese curry can only be made properly of beef, pork, or duck. The following is a recipe of the vindaloo in general use:\u003Cbr\u003E\n\u003Cbr\u003E\nSix ounces or three chittacks of ghee or lard, one tablespoonful of bruised garlic, one tablespoonful of ground garlic, one tablespoonful of ground ginger, two teaspoonfuls of ground chilies, one teaspoonful of roasted and ground coriander-seed, half a teaspoonful of roasted and ground cumin-seed, two or three bay-leaves, a few peppercorns, four or five cloves, roasted and ground, four or five cardamoms, roasted and ground, six small sticks of cinnamon, roasted and ground, with half a cup of good vinegar, to two pounds of pork or beef or a duck. N.B. - The best vindaloo is that prepared with mustard oil.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E61. - Beef Vindaloo\u003C/b\u003E\u003Cbr\u003E\nCut up two pounds of fat beef into large squares, and steep them in the vinegar, together with half a teaspoonful of salt and all the ground condiments, from eighteen to twenty-four hours. Then warm the ghee or lard and throw in the meat, together with the condiments and vinegar in which it had been steeped, adding a few peppercorns and bay-leaves, and allow to simmer gently over a slow fire for two hours, or until the meat is perfectly tender, and serve up hot.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E62. - Pork Vindaloo\u003C/b\u003E\u003Cbr\u003E\nCut up two pounds of fat pork into large squares, and curry according to the directions given in the foregoing recipe, omitting the cloves, cardamoms, and cinnamon.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E63. - Duck Vindaloo\u003C/b\u003E\u003Cbr\u003E\nTake a young, full-grown, but tender duck; cut it up as for a curry, and put it through the same course of pickling from eighteen to twenty-four hours before being cooked.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E64. - Pickled Vindaloo (adapted as a Present to Friends at a Distance)\u003C/b\u003E\u003Cbr\u003E\nIf the following instructions be carried out carefully, the vindaloo will keep good for months, and, if required, may be sent as an acceptable present to friends at home.\u003Cbr\u003E\n\u003Cbr\u003E\nIn order to keep it good sufficiently long to be sent home round the Cape, select the fattest parts of pork; satisfy yourself that the meat is fresh and sound, and that it has not been washed with water in the butcher\u0027s shop. Cut the meat into two-inch squares, wash thoroughly in vinegar (no water), rub over with the following condiments, and then steep them in really good English vinegar for twenty-four hours. Garlic bruised, not ground down, dry ginger powdered, turmeric powdered, peppercorns roasted and powdered, coriander-seeds roasted and powdered, cumin-seeds roasted and powdered, and dry salt.\u003Cbr\u003E\n\u003Cbr\u003E\nMelt a large quantity of the best mustard oil in an earthen pot, and, according to the quantity of meat, take additional condiments mentioned above, but in the proportion given in recipe No. 61; grind in vinegar, and fry in the oil; then put in the meat, and all the vinegar, \u0026amp;c., in which it had been stepped, together with some more salt, a little more vinegar, a few bay-leaves and peppercorns, and allow to simmer until the meat is quite tender. Remove from the fire and allow it to get quite cold; then put it into dry stone jars, with patent screw tops, well filled with plenty of the oil in which the vindaloo was cooked. Take care that all the meat is well covered over with oil, which latter ought to be at least from two to three inches above the meat in the jar. Screw down the lid, and cover it over with a good sound bladder to render it perfectly air-tight.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen required for use, take out only as much as will suffice, and simply warm it in a little of its own gravy.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "vindaloo.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe People\u003C/i\u003E\u0027 - Sunday 21 April 1940",
+      "receiptText": "\u003Cb\u003EPORK BINDALOO\u003C/b\u003E INGREDIENTS: 1 lb. fat pork, pint vinegar, 2 tablespoonfuls curry powder, pulp of 4 baked apples. Mix vinegar, curry powder and pulp In an earthenware dish. Cut pork in pieces and soak in the mixture for 24 hours. Allow to simmer in a casserole for three hours. Serve with boiled rice.-A. G. Bowen, 64, Kingsway. East Kirkby, Notts.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Curry",
+      "relatedPageUrl": "curry.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EBindaloo\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Vindaloo",
+  "usedSnapshot": "20210812072345"
+}

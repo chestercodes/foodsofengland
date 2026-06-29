@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922093247",
+  "finalPath": "curried-fish.html",
+  "heading": "Curried Fish",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cayenne",
+    "cod",
+    "cream",
+    "curry",
+    "flour",
+    "lemon",
+    "onion",
+    "onions",
+    "salmon",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "curried-fish.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECURRIED COD.\u003C/b\u003E\u003Cbr\u003E\n237. INGREDIENTS: 2 slices of large cod, or the remains of any cold fish; 3 oz. of butter, 1 onion sliced, a teacupful of white stock, thickening of butter and flour, 1 small teaspoonful of curry-powder, 1/4 pint of cream, salt and cayenne to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Flake the fish, and fry it of a nice brown colour with the butter and onions; put this in a stewpan, add the stock and thickening, and simmer for 10 minutes. Stir the curry-powder into the cream; put it, with the seasoning, to the other ingredients; give one boil, and serve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 3/4 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: with fresh fish, 3s.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from November to March.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 4 persons.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECURRIED SALMON.\u003C/b\u003E\u003Cbr\u003E\n305. INGREDIENTS: Any remains of boiled salmon, 3/4 pint of strong or medium stock (No. 105), 1 onion, 1 tablespoonful of curry-powder, 1 teaspoonful of Harvey\u0027s sauce, 1 teaspoonful of anchovy sauce, 1 oz. of butter, the juice of1/2 lemon, cayenne and salt to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut up the onions into small pieces, and fry them of a pale brown in the butter; add all the ingredients but the salmon, and simmer gently till the onion is tender, occasionally stirring the contents; cut the salmon into small square pieces, carefully take away all skin and bone, lay it in the stewpan, and let it gradually heat through; but do not allow it to boil long.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 3/4 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the cold fish, 9d.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Curried Fish",
+  "usedSnapshot": "20220819112809"
+}

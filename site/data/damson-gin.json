@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074156",
+  "finalPath": "damson-gin.html",
+  "heading": "Damson Gin",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Damson Gin",
+  "usedSnapshot": "20211201034138"
+}

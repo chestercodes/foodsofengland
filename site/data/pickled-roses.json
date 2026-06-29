@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922082622",
+  "finalPath": "pickled-roses.html",
+  "heading": "Pickled Roses",
+  "ingredients": [
+    "rosemary",
+    "sugar",
+    "white wine",
+    "beat",
+    "herbs",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "oranges",
+    "salt",
+    "seville oranges",
+    "suet",
+    "thyme"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-roses.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New Booke of Cookerie\u003C/i\u003E\u0027 by John Murrell (\u003Ca href=\u0022references.html#murrell-1617\u0022\u003E\u003Cb\u003EMurrell 1617\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Sallet of Rose-buds, and clove Gilly-flowers.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPicke Rosebuds, and put them into an earthen Pipkin, with white Wine-vineger, and Sugar: so may you vse Cowslippes, Uiolets, or Rosemary-flowers.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-roses.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PICKLED ROSES. Take two pecks of damask rose buds, pick off the green part, and strew in the bottom of a jar a handful of large bay salt. Put in half the roses, and strew a little more bay salt upon them. Strip from the stalk a handful of knotted marjoram, a handful of lemon thyme, and as much common thyme. Take six pennyworth of benjamin, as much of storax, six orris roots, and a little suet; beat and bruise them all together, and mix them with the stripped herbs. Add twenty cloves, a grated nutmeg, the peel of two Seville oranges pared thin, and of one lemon shred fine. Mix them with the herbs and spices, strew all on the roses, and stir them once in two days till the jar is full. More sweets need not be added, but only roses, orange flowers, or single pinks.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Pickled Roses",
+  "usedSnapshot": "20211018064247"
+}

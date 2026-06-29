@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140212025132",
+  "finalPath": "battaglia-pie.html",
+  "heading": "Battaglia Pie",
+  "ingredients": [
+    "butter",
+    "gravy",
+    "lamb",
+    "lemons",
+    "nutmeg",
+    "oysters",
+    "pigeons",
+    "salt",
+    "veale",
+    "bacon",
+    "chickens",
+    "eggs",
+    "flour",
+    "lemon",
+    "pepper",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "battaglia-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Battalia Pye.\u003C/b\u003E\u003Cbr\u003E\nTake four tame Pigeons and Trusse them to bake, and take foure Oxe Pallats well boyled and blanched, and cut it in little pieces; take six Lamb stones, and as many good Sweet breads of Veale cut in halfs and parboyl\u0027d, and twenty Cockscombs boyled add blanched, and the bottoms of four Hartichoaks, and a Pint of Oysters parboyled and bearded, and the Marrow of three bones, so season all with Mace, Nutmeg and Salt; so put your meat in a Coffin of Fine Paste proportionable to your quantity of meat; put halfe a pound of Butter upon your meat, put a little water in the Pye, before it be set in the Oven, let it stand in the Oven an houre and a halfe, then take it out, pour out the butter at the top of the Pye, and put it in leer of Gravy, butter, and Lemons, and serve it up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "battaglia-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Bisk or Batalia Pie.\u003C/b\u003E\u003Cbr\u003E\nTake six peeping Pigeons, and as many peeping small chickens, truss them to bake; then have six oxe pallets well boil\u0027d and blancht, and cut in little pieces; then take six lamb-stones, and as many good veal sweet-breads cut in halves and parboil\u0027d, twenty cocks-combs boil\u0027d and blanch\u0027d, the bottoms of four artichocks boiled and blanched, a quart of great oysters parboil\u0027d and bearded, also the marrow of four bones seasoned with pepper, nutmeg, mace, and salt; fill the pye with the meat, and mingle some pistaches amongst it, cock-stones, knots, or yolks of hard eggs, and some butter, close it up and bake it (an hour and half will bake it) but before you set it in the oven, put into it a little fair water: Being baked pour out the butter, and liquor it with gravy, butter beaten up thick, slic\u0027t lemon, and serve it up.\u003Cbr\u003E\nOr you may bake this bisk in a patty-pan or dish.\u003Cbr\u003E\nSometimes use sparagus and interlarded bacon.\u003Cbr\u003E\nFor the paste of this dish, take three quarts of flour, and three quarters of a pound of butter, boil the butter in fair water, and make up the paste hot and quick.\u003Cbr\u003E\nOtherways in the summer time, make the paste of cold butter; to three quarts of flour take a pound and a half of butter, and work it dry into the flour, with the yolks of four eggs and one white, then put a little water to it, and make it up into a stiff paste.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBattalia\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Battaglia Pie",
+  "usedSnapshot": "20210620001653"
+}

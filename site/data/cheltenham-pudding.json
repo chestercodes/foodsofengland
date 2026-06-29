@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922073615",
+  "finalPath": "cheltenham-pudding.html",
+  "heading": "Cheltenham Pudding",
+  "ingredients": [
+    "beat",
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "pudding",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheltenham-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ECheltenham Pudding.\u003C/b\u003E\u003Cbr\u003E\n900. Mix three-quarters of a pound of flour, half a pound of suet chopped very fine, half a pound of currants, two or three eggs, two or three ounces of sugar, half a pint of milk, or enough to make the pudding thicker than batter, but thinner than dough; mix the dry ingredients first, beat the eggs and milk together, then mix all. Bake an hour and a quarter, or half.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Cheltenham Pudding",
+  "usedSnapshot": "20211201025449"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140212024007",
+  "finalPath": "apple-florentine-pie.html",
+  "heading": "Apple Florentine Pie",
+  "ingredients": [
+    "ale",
+    "apple",
+    "cinnamon",
+    "lemon",
+    "nutmeg",
+    "pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-florentine-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Apple%20Florentine%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EAPPLE FLORENTINE PIE\u003C/b\u003E\u003Cbr\u003E\n4 cooking apples\u003Cbr\u003E\n2 tablespoonfuls sugar\u003Cbr\u003E\ngrated lemon peel\u003Cbr\u003E\nshort pastry.\u003Cbr\u003E\n\u003Cbr\u003E\nCore the apples, wash them, and place in a deep pie-dish. Put sugar over them and lemon peel and cover with short pastry. Bake in a moderate oven for 30 minutes. Remove the pastry, pour the spiced ale over, cut pastry into required pieces and put back on the dish. Serve hot.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESpiced Ale:\u003C/b\u003E\u003Cbr\u003E\n1 pint ale\u003Cbr\u003E\na little nutmeg and cinnamon\u003Cbr\u003E\n1 clove\u003Cbr\u003E\n1 tablespoonful sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the ale very gently with the spices and sugar. Do not let it boil. It used to be served in a very large pewter dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Bedfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Apple Florentine Pie",
+  "usedSnapshot": "20220808004924"
+}

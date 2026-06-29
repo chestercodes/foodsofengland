@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922082619",
+  "finalPath": "whitby-gingerbread.html",
+  "heading": "Whitby Gingerbread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whitby Gingerbread",
+  "usedSnapshot": "20211201004130"
+}

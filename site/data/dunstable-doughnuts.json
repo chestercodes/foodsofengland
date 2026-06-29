@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922080854",
+  "finalPath": "dunstable-doughnuts.html",
+  "heading": "Dunstable Doughnuts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dunstable Doughnuts",
+  "usedSnapshot": "20220516215949"
+}

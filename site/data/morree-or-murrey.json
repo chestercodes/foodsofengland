@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150524220730",
+  "finalPath": "morree-or-murrey.html",
+  "heading": "Morree or Murrey",
+  "ingredients": [
+    "fat",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "morree-or-murrey.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EXXXVII. FOR TO MAKE MURREY\u003C/b\u003E\u003Cbr\u003E\nTak mulbery and bray hem in a morter and wryng hem thorth a cloth and do hem in a pot over the fyre and do thereto fat bred and wyte gresse and let it nazt boyle no ofter than onys and do thereto a god party of sugur and zif yt be nozt ynowe colowrd brey mulburus and serve yt forthe.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1638"
+    }
+  ],
+  "title": "Morree or Murrey",
+  "usedSnapshot": "20220819104307"
+}

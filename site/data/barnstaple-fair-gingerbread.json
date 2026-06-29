@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140426115858",
+  "finalPath": "barnstaple-fair-gingerbread.html",
+  "heading": "Barnstaple Fair Gingerbread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Gingerbread",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Barnstaple Fair Gingerbread",
+  "usedSnapshot": "20211018072825"
+}

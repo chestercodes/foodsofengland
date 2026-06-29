@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922074936",
+  "finalPath": "medlar-cheese.html",
+  "heading": "Medlar Cheese",
+  "ingredients": [
+    "allspice",
+    "cheese",
+    "cheeses",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "medlar-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Encyclopedia of Cookery\u003C/i\u003E\u0027 by Theodore Garrett (\u003Ca href=\u0022references.html#garrett-1891\u0022\u003E\u003Cb\u003EGarrett 1891\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Medlar Cheese. \u2014 Put some Medlars into an earthenware jar, stand it in a saucepan with boiling water nearly to the top, and keep it boiling gently over a slow fire. When the Medlars are quite soft, pass them through a fine hair sieve, and weigh the pulp, and for every pound allow 1 breakfastcupfuls of coarsely-crushed loaf sugar and J teaspoonful of allspice. Put all the ingredients together in the preserving pan, and stir them over the fire with a wooden spoon until thickly reduced, skimming occasionally. Turn the cheese into moulds, and keep them in a cold place. When ready to serve, turn the cheeses out of the moulds on to a dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "garrett-1891"
+    }
+  ],
+  "title": "Medlar Cheese",
+  "usedSnapshot": "20220819103629"
+}

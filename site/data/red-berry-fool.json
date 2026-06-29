@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922091337",
+  "finalPath": "red-berry-fool.html",
+  "heading": "Red Berry Fool",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fruit Fool",
+      "relatedPageUrl": "fruit-fool.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Red Berry Fool",
+  "usedSnapshot": "20200116031634"
+}

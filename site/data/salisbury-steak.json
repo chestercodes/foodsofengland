@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20130323203650",
+  "finalPath": "salisbury-steak.html",
+  "heading": "Salisbury Steak",
+  "ingredients": [
+    "beat",
+    "beef",
+    "bread",
+    "butter",
+    "fat",
+    "rump steak",
+    "salt",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "salisbury-steak.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E1060. \u0022SALISBURY\u0022 MINCED BEEF FOR INVALIDS OR CONVALESCENTS\u003C/b\u003E\u003Cbr\u003E\nOne pound of lean rump steak (this will make two meals). Remove all fat, skin, and gristle. Put it three times through a mincer, and then into a small saucepan, with just enough water to cover it, and a little salt. When it turns from red to brown (simmering very slowly and never coming anywhere near boiling), it is done enough. Serve some in a hot soup-dish, with bread or bread and butter. The remainder can be reheated once, but not twice; if any is left the second time, it must be eaten cold. To beat it with a fork while cooking, improves it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Salisbury Steak",
+  "usedSnapshot": "20211205163255"
+}

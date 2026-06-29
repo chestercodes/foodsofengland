@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922084358",
+  "finalPath": "oakham-feast-cake.html",
+  "heading": "Oakham Feast Cake",
+  "ingredients": [
+    "brown sugar",
+    "butter",
+    "currants",
+    "dates",
+    "egg",
+    "flour",
+    "ginger",
+    "lard",
+    "lemon",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oakham-feast-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Cb\u003EGrantham Journal - Friday 31 August 1951\u003C/b\u003E",
+      "receiptText": "\u003Cb\u003EOakham recipe for the Grantham Gingerbread\u003C/b\u003E\u003Cbr\u003E\nA recent article in the \u201CJournal.\u0027 headed \u201CGrantham Gingerbread: Is this the secret recipe?\u0022 has drawn the comment from 84-years-old Mrs. E. J Ellingworth. of 14, Melton road, Oakham, that it is not: Carefully opening her old family recipe book, which dates back over 100 years Mrs. Ellmgworth read the following ingredients for the white \u201CGrantham Gingerbread\u0022: 1 lb. of flour: 1 \u00BD lb. of powdered sugar: \u00BD lb. of butter; 1 oz. of ground ginger: 1 teaspoonful of bicarbonate of soda: and one egg. Instructions for cooking are; Rub the butter well into the flour, add the sugar with beaten egg. rub well together for 10 minutes, and then bake in a slow oven for 10 minutes. When cooked, said Mrs. Ellingworth. the gingerbread should have risen, leaving the inside hollow. While looking through this treasure book. Mrs Ellingwonh came across the following recipe for the now non-existent \u003Cspan style=\u0022Background-Color: #FFFF84\u0022\u003E\u201CFeast cake.\u0022\u003C/span\u003E which she says was baked by everyone for the Oakham Feast Sunday celebrations on September 9th each year; \u00222 1b. of flour; \u00BD lb. of brown sugar; 1 lb, currants; 1 \u00BD lb. of lard: 3 oz of lemon kali: one nutmeg: 2 oz. of lemon peel. Mixed with water, it was baked In the normal way. This recipe brought back to her mind some interesting recollections of Feast Week celebrations of days when, she said, there there were some real \u0022happenings\u0022 in the form of sports, etc. Her father-in-law was the Town Crier.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Rutland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Oakham Feast Cake",
+  "usedSnapshot": "20211021024619"
+}

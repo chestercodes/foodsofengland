@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072822",
+  "finalPath": "stump.html",
+  "heading": "Stump",
+  "ingredients": [
+    "butter",
+    "carrots",
+    "milk",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stump.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Stump\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Stump\u003Cbr\u003E\n\u003Cbr\u003E\nFor 4\u003Cbr\u003E\n8 oz carrots, peeled and sliced\u003Cbr\u003E\n8 oz swede, peeled and sliced\u003Cbr\u003E\n8 oz potatoes, peeled and sliced\u003Cbr\u003E\n1/2 oz butter\u003Cbr\u003E\n1/4 pint fresh milk\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nSimmer the vegetables in lightly salted water for 30 minutes or until soft. Drain, mash with the butter and milk. Reheat and season to taste. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stump",
+  "usedSnapshot": "20210619085933"
+}

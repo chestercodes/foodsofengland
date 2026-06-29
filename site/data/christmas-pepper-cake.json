@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922073003",
+  "finalPath": "christmas-pepper-cake.html",
+  "heading": "Christmas Pepper Cake",
+  "ingredients": [
+    "black treacle",
+    "brown sugar",
+    "butter",
+    "cheese",
+    "eggs",
+    "flour",
+    "milk",
+    "pepper",
+    "plain flour",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "christmas-pepper-cake.html-1",
+      "receiptSource": "Original Receipt from the correspondent \u0027PIPMead\u0027 to the YORKSGEN-L Archives, 6 Dec 2000",
+      "receiptText": "\u003Cb\u003EPepper Cake\u003Cbr\u003E\n========\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIn parts of the North Riding, a sort of parkin was made at Christmas called Pepper Cake, or Carol-Singing Cake. Children would go round the houses singing the rhyme,\u003Cbr\u003E\n\u003Cblockquote\u003EA little bit of pepper cake\u003Cbr\u003E\nA little bit of cheese,\u003Cbr\u003E\nA cup of cold water\u003Cbr\u003E\nAnd a penny if you please.\u003C/blockquote\u003E\u003Cbr\u003E\n1 \u00BD lb plain flour\u003Cbr\u003E\n1/2 lb butter\u003Cbr\u003E\n1/2 lb soft dark brown sugar\u003Cbr\u003E\n1oz cloves\u003Cbr\u003E\n1 \u00BD lb black treacle\u003Cbr\u003E\n4 eggs beaten\u003Cbr\u003E\n1 teaspoon bicarbonate of soda\u003Cbr\u003E\nmilk\u003Cbr\u003E\n\u003Cbr\u003E\nRub the butter into the flour, stir in the sugar and cloves, then add the treacle, eggs, and bicarbonate of soda mixed with a little milk. Pour the mixture into a large, well greased tin, and bake at 170C for 1 \u00BE hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ECarol-Singing Pepper Cake\u003C/b\u003E, or \u003Cb\u003ECarol Cake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cleveland"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Christmas Pepper Cake",
+  "usedSnapshot": "20201216074217"
+}

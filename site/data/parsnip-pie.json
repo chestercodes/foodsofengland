@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212023339",
+  "finalPath": "parsnip-pie.html",
+  "heading": "Parsnip Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Parsnip Pie",
+  "usedSnapshot": "20211126003731"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073131",
+  "finalPath": "vectis-pudding-or-vectis-roll.html",
+  "heading": "Vectis Pudding or Vectis Roll",
+  "ingredients": [
+    "currants",
+    "flour",
+    "golden syrup",
+    "lemon",
+    "pudding",
+    "self-raising flour",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "vectis-pudding-or-vectis-roll.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Vectis%20Pudding%20or%20Vectis%20Roll\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EVECTIS PUDDING\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 oz currants\u003Cbr\u003E\n2 chopped apples\u003Cbr\u003E\n8 oz self-raising flour\u003Cbr\u003E\nmixed spice\u003Cbr\u003E\n4 oz suet\u003Cbr\u003E\n2 oz sugar\u003Cbr\u003E\nlemon rind\u003Cbr\u003E\n2 tbsp golden syrup.\u003Cbr\u003E\n\u003Cbr\u003E\nMix flour and suet to a stiff paste with water. Roll out thinly and spread with a mixture of currants, apples, golden syrup, sugar, lemon rind and spice. Roll up, close the ends firmly. Wrap in a floured cloth and steam for 2 hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EIsle of Wight Pudding\u003C/b\u003E",
+      "relatedPageUrl": "isle-of-wight-pudding.html",
+      "relationDescription": "For other puddings associated with the Isle of Wight, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Vectis Pudding or Vectis Roll",
+  "usedSnapshot": "20211207122338"
+}

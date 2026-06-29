@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922083736",
+  "finalPath": "orange-sauce.html",
+  "heading": "Orange Sauce",
+  "ingredients": [
+    "anchovy",
+    "cayenne",
+    "orange",
+    "pepper",
+    "apple",
+    "butter",
+    "egg",
+    "flour",
+    "goose",
+    "grapes",
+    "ham",
+    "mutton",
+    "oranges",
+    "plum",
+    "prunes",
+    "pudding",
+    "raisins",
+    "sugar",
+    "turkey"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "orange-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "ORANGE SAUCE.\u003Cbr\u003E\n\u003Cbr\u003E\nSqueeze the juice of a China orange into a stewpan. Boil half the peel till tender, rub it through a hair-sieve, and add it to the juice with a gill of cullis, and an anchovy rubbed through a sieve. Season with a little Cayenne pepper, and make it boil.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "orange-sauce.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "401. ORANGE SAUCE (Sussex)\u003Cbr\u003E\n\u003Cbr\u003E\nThe unexpected virtues of orange sauce were first appreciated by a Patagonian explorer, who, left stranded with his only remaining stores, a Westphalian ham and a few oranges, concocted a sauce with the fruit which proved a most ideal accompaniment to the ham. It improves the flavour of wild duck, of goose, turkey, and saddle of mutton; and is a first-rate sauce with plum-pudding, while in America they use it as a wholesome adjunct to stewed raisins, prunes, and stewed grapes, both as a breakfast and a luncheon dish.\u003Cbr\u003E\n\u003Cbr\u003E\nTo make orange sauce, mix one level tablespoonful of flour with half a cupful of sugar. Add at once half a pint of quite boiling water, and the grated rind of half an orange. Stir and boil four minutes, and add the juice of an orange, and a large dessertspoonful of butter, and pour while hot over a well-beaten egg. This will be only sufficient for four persons. The sauce, poured over apple pudding, apple pie, or stewed apples, gives a pineapple flavour to the whole.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Orange Sauce",
+  "usedSnapshot": "20211207122920"
+}

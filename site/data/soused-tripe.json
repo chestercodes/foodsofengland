@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922100617",
+  "finalPath": "soused-tripe.html",
+  "heading": "Soused Tripe",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "salt",
+    "tripe"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "soused-tripe.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SOUSED TRIPE. Boil the tripe, but not quite tender; then put it into salt and water, which must be changed every day till it is all used. When the tripe is to be dressed, dip it into a batter of eggs and flour, and fry it of a good brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tripe",
+      "relatedPageUrl": "ox-tripe.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Soused Tripe",
+  "usedSnapshot": "20220516211342"
+}

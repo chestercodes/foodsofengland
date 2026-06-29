@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140616080842",
+  "finalPath": "jugged-kippers.html",
+  "heading": "Jugged Kippers",
+  "ingredients": [
+    "fat",
+    "margarine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jugged-kippers.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESunderland Daily Echo and Shipping Gazette\u003C/i\u003E\u0027 - Monday 16 March 1942",
+      "receiptText": "\u003Cb\u003EHave You Tried \u2018Jugged\u0027 Kipper?\u003C/b\u003E\u003Cbr\u003E\nIn tile past some cooks have been too lavish with fat for cooking. Now they imagine that various kinds of foods must be cut out of their menus because fat is in shorter supply. Take kippers, for instance. Many people think that they should have large pats of margarine poised on them and then be put under the grill or cooked in the frying-pan. Actually there is no nicer way of cooking a kipper than by standing it in a jug and covering it with boiling water. Cover the jug and leave for eight to ten minutes in a warm place, then drain well and. if possible, put under the grill for a minute to dry before serving.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Kippers"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Jugged Kippers",
+  "usedSnapshot": "20220608225126"
+}

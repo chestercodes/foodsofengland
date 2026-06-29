@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073634",
+  "finalPath": "rabbit-with-grapes-or-gooseberries.html",
+  "heading": "Rabbit with Grapes or Gooseberries",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "grapes",
+    "herbs",
+    "mutton",
+    "rabbit",
+    "salt",
+    "spinage",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rabbit-with-grapes-or-gooseberries.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E190. To boil a Rabbit with Grapes or with Goosberries.\u003C/b\u003E Truss your Rabbit whole, and boil it in some Mutton Broth till it be tender; Then take a pint of White Wine, and a good handful of Spinage chopped, the yolks of hard Eggs cut in quarters, put these to the Rabbit with some large Mace; a Fagot of sweet Herbs and a little Salt and some Butter, let them boil together a while, then take your Rabbet and lay it in a Dish and some Sippets, then lay over it some Grapes or Goosberries, scalded with Sugar, and pour your Broth over it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Rabbit with Grapes or Gooseberries",
+  "usedSnapshot": "20220819104423"
+}

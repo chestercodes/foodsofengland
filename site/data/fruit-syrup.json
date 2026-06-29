@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20150922093853",
+  "finalPath": "fruit-syrup.html",
+  "heading": "Fruit Syrup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fruit Syrup",
+  "usedSnapshot": "20211205162914"
+}

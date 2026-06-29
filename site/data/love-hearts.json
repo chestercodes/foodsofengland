@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140412052318",
+  "finalPath": "love-hearts.html",
+  "heading": "Love Hearts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Love Hearts",
+  "usedSnapshot": "20220527212815"
+}

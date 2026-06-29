@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922093430",
+  "finalPath": "burnley-fig-or-fag-pie.html",
+  "heading": "Burnley Fig (or Fag) Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blackburn Fig Pie",
+      "relatedPageUrl": "fig-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Burnley Fig (or Fag) Pie",
+  "usedSnapshot": "20220527213451"
+}

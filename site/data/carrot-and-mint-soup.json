@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073400",
+  "finalPath": "carrot-and-mint-soup.html",
+  "heading": "Carrot and Mint Soup",
+  "ingredients": [
+    "butter",
+    "carrot",
+    "carrots",
+    "milk",
+    "mint",
+    "onion",
+    "pepper",
+    "salt",
+    "worcestershire sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "carrot-and-mint-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Carrot%20and%20Mint%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECarrot and Mint Soup\u003C/b\u003E\u003Cbr\u003E\nFor 4\u003Cbr\u003E\n\u003Cbr\u003E\n1 \u00BD lb Gram Carrots, sliced\u003Cbr\u003E\n1 Medium Onion, sliced\u003Cbr\u003E\n1 oz Butter\u003Cbr\u003E\n1 pint stock\u003Cbr\u003E\n1 pint milk\u003Cbr\u003E\n2 Tablespoons Fresh mint, chopped\u003Cbr\u003E\nWorcestershire sauce\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the butter, add carrots and onion and cook for 5 minutes. Add stock and milk, cover and simmer gently for 15-20 minutes until the vegetables are soft. Puree until smooth. Add the chopped mint, Worcestershire sauce and seasoning. Serve hot or well chilled, garnished with fresh mint.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Carrot and Mint Soup",
+  "usedSnapshot": "20210518205507"
+}

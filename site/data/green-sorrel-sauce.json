@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922083724",
+  "finalPath": "green-sorrel-sauce.html",
+  "heading": "Green Sorrel Sauce",
+  "ingredients": [
+    "butter",
+    "cinnamon",
+    "geese",
+    "goose",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "green-sorrel-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESauce for green Geese\u003C/b\u003E\u003Cbr\u003E\nThe best sauce for green Geese is the juyce of Sorrel and Sugar mixt together with a few scalted Feberries, and served upon sippets; or else the belly of the Green Goose fill\u0027d with Feberries and so rosted; and then the same mixt with Verjuyce, Butter, Sugar and Cinnamon, and so served upon sippets.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Green Sorrel Sauce",
+  "usedSnapshot": "20220527214215"
+}

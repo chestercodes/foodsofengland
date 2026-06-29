@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922080956",
+  "finalPath": "treacle-and-oatmeal-drop-scones.html",
+  "heading": "Treacle and Oatmeal Drop Scones",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Drop Scones",
+      "relatedPageUrl": "drop-scones.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Scones",
+      "relatedPageUrl": "scones-2.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Treacle and Oatmeal Drop Scones",
+  "usedSnapshot": "20211201032515"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922075022",
+  "finalPath": "huntingdon-pudding.html",
+  "heading": "Huntingdon Pudding",
+  "ingredients": [
+    "beat",
+    "castor sugar",
+    "egg",
+    "flour",
+    "gooseberries",
+    "milk",
+    "pudding",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "huntingdon-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGreenock Telegraph and Clyde Shipping Gazette\u003C/i\u003E\u0027 - Monday 26 August 1907",
+      "receiptText": "HUNTINGDON PUDDING.\u003Cbr\u003E\n1 pint gooseberries,1/2 lb. flour, \u00BC lb. suet, 1 egg. a little milk. 2 oz. castor sugar, \u00BC teaspoonful baking-powder, pinch of salt, half pint of rich white sauce. Wash the gooseberries, and \u0022top and tail\u0022 them. Sift the flour, salt, and baking-powder into basin, Chop the suet, and add it with the gooseberries and sugar the flour. Mix all together. Beat up the egg. add little milk it, and mix all rather wet paste. Put this into greased basin, tie a cloth over it. and boil it for three hours. Turn it out, and pour hot sauce round.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EHuntingdonshire Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridgeshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Huntingdon Pudding",
+  "usedSnapshot": "20200114153155"
+}

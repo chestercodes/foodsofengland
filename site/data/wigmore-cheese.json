@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616085144",
+  "finalPath": "wigmore-cheese.html",
+  "heading": "Wigmore Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wigmore Cheese",
+  "usedSnapshot": "20220705084208"
+}

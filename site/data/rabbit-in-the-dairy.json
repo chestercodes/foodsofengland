@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922091247",
+  "finalPath": "rabbit-in-the-dairy.html",
+  "heading": "Rabbit in the Dairy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rabbit in the Dairy",
+  "usedSnapshot": "20210518210305"
+}

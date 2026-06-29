@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922085347",
+  "finalPath": "kettle-or-keddy-broth.html",
+  "heading": "Kettle or Keddy Broth",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrewis\u003C/b\u003E",
+      "relatedPageUrl": "brewis-soup.html",
+      "relationDescription": "For similar dishes, see "
+    }
+  ],
+  "synonym": "\u003Cb\u003EWorkhouse Broth\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Kettle or Keddy Broth",
+  "usedSnapshot": "20220808011916"
+}

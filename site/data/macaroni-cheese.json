@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20140616083048",
+  "finalPath": "macaroni-cheese.html",
+  "heading": "Macaroni Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Macaroni Cheese",
+  "usedSnapshot": "20211201010835"
+}

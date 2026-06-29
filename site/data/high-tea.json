@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922080639",
+  "finalPath": "high-tea.html",
+  "heading": "High Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Afternoon Tea",
+      "relatedPageUrl": "afternoon-tea.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "High Tea",
+  "usedSnapshot": "20211027023233"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616080827",
+  "finalPath": "hazardy-jack.html",
+  "heading": "Hazardy Jack",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Basingstoke"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hazardy Jack",
+  "usedSnapshot": "20220527211745"
+}

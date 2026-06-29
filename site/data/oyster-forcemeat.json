@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922073619",
+  "finalPath": "oyster-forcemeat.html",
+  "heading": "Oyster Forcemeat",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "egg",
+    "lemon",
+    "oysters",
+    "parsley",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oyster-forcemeat.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ENO. 5. OYSTER FORCEMEAT.\u003C/b\u003E\u003Cbr\u003E\nOpen carefully a dozen of fine plump natives, take off the beards, strain their liquor, and rinse the oysters in it. Grate four ounces of the crumb of a stale loaf into fine light crumbs, mince the oysters but not too small, and mix them with the bread; add an ounce and a half of good butter broken into minute bits, the grated rind of half a small lemon, a small saltspoonful of pounded mace, some cayenne, a little salt, and a large teaspoonful of parsley. Mingle these ingredients well, and work them together with the unbeaten yolk of one egg and a little of the oyster liquor, the remainder of which can be added to the sauce which usually accompanies this forcemeat.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EObs\u003C/i\u003E.-In this preparation the flavour of the oysters should prevail entirely over that of all the other ingredients which are mixed with them.\u003Cbr\u003E\n\u003Ci\u003EObs.\u003C/i\u003E 2.-The \u003Ca href=\u0022oyster-sausages.html\u0022\u003E\u003Cb\u003Eoyster-sausages\u003C/b\u003E\u003C/a\u003E of Chapter III will serve excellently for forcemeat also.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ENo 6 A FINER OYSTER FORCEMEAT.\u003C/b\u003E\u003Cbr\u003E\nPound the preceding forcemeat to the smoothest paste, with the addition only of half an ounce of fresh butter, should it be sufficiently dry to allow of it. It is remarkably good when thus prepared, and may be poached or fried in balls for soups or made dishes, or used to fill boned fowls, or the breasts of boiled turkeys with equally good effect.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Oyster Forcemeat",
+  "usedSnapshot": "20220527071229"
+}

@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150905063229",
+  "finalPath": "toast-water.html",
+  "heading": "Toast Water",
+  "ingredients": [
+    "bread",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "toast-water.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 214. How to make Toast Water.\u003C/b\u003E\u003Cbr\u003E\nToast a piece of bread thoroughly browned to its centre without being burnt, put it into a jug, pour boiling water upon it, cover over and allow it to stand and steep until it has cooled; it will then be fit to drink.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Toast Water",
+  "usedSnapshot": "20211201040548"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130325124553",
+  "finalPath": "cabbage-pudding.html",
+  "heading": "Cabbage Pudding",
+  "ingredients": [
+    "beef",
+    "bread",
+    "cabbage",
+    "eggs",
+    "pepper",
+    "pudding",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cabbage-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "To make a Cabbage-Pudding; from a Gentlewoman in Suffolk, as it was written by herself.\u003Cbr\u003E\n\u003Cbr\u003E\nSir,\u003Cbr\u003E\n\u003Cbr\u003E\nYou will excuse me, if I send you a Receipt for a Pudding, which is accounted so agreeable by my Acquaintance, that they think it worth a place in your Book, call\u0027d, \u003Ci\u003EThe Lady\u0027s Monthly Director\u003C/i\u003E, in the Management of the several Products of a Farm. It may as well be made by People of the lower as of the higher Rank.\u003Cbr\u003E\n\u003Cbr\u003E\nTake a Piece of boil\u0027d Beef, which is not always done enough; the Parts of it which are the least done, and chop them small: take as much boil\u0027d Cabbage as you have Meat, and chop that as small as the Beef, season this with Pepper and Salt, and two or three Eggs beaten, to mix it up in the manner of farced Meat. Whatever else of seasoning you like, put it to it; and when it is made into a thin Paste, put the Mixture into a Linnen-Cloth, and boil it till it is enough, then serve it to the Table. But this Pudding is much better made with raw salt Beef and boil\u0027d Cabbage, for is makes an extraordinary Paste, and is much softer and fuller of Gravey than the first.\u003Cbr\u003E\n\u003Cbr\u003E\nN.B. If it is of the first Sort, the quantity of half a Quartern Loaf of fine Bread, may boil an Hour, and the latter Sort may boil an Hour and a half.\u003Cbr\u003E\n\u003Cbr\u003E\nI am Yours, C. B.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Cabbage Pudding",
+  "usedSnapshot": "20220527224925"
+}

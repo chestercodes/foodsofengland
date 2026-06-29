@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130808224013",
+  "finalPath": "thieves-vinegar.html",
+  "heading": "Thieves\u0027 Vinegar",
+  "ingredients": [
+    "lavender",
+    "mint",
+    "rosemary",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "thieves-vinegar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EReceipt against the Plague\u003Cbr\u003E\u003C/b\u003E [In the 1805 USA edition, this appears as \u0027Thieves Vinegar\u0027]\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE of rue, sage, mint, rosemary, wormwood, and lavender, a handful of each, bruise them together in a gallon of white- wine vinegar, put the whole into a stone pot, closely covered up, upon warm wood-ashes for four days; after which draw off (or strain through fine flannel) the liquid, and put it into bottles well corked; and into every quart bottle put a quarter of an ounce of camphor. With this preparation wash your mouth, and rub your loins and your temples every day; snuff a little up your nostrils when you go into the air, and carry about you a bit of spunge dipped in the fame, in order to, smell to upon all occasions, especially when you are near anyplace or person that is infected. They write, that four malefactors (who had robbed the infected houses, and murdered the people during the course of the plague) owned, when they came to the gallows, that they had preserved themselves from the contagion by using the above medicine only; and that they went the whole time from house to house without any fear of the distemper.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "thieves-vinegar.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EThe Lady\u2019s Own Cookery Book,\u003C/i\u003E\u0027 1844",
+      "receiptText": "\u003Cb\u003EPlague, or Four Thieves\u0027 Vinegar.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake rue, sage, mint, rosemary, wormwood, and lavender, of each a large handful; put them into a stone jar, with a gallon of the best vinegar; tie it down very close, and let it stand a fortnight in the sun, shaking the jar every day. Bottle it, and to every bottle add a quarter of an ounce of camphor, beaten very fine. The best time to make it is in June or July.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003Eanti-plague drink\u003C/b\u003E",
+      "relatedPageUrl": "plague-water.html",
+      "relationDescription": "See also: A supposedly "
+    }
+  ],
+  "synonym": "\u003Cb\u003EFour Thieves\u003C/b\u003E, or \u003Cb\u003ESeven Thieves Vinegar\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Thieves\u0027 Vinegar",
+  "usedSnapshot": "20220809203641"
+}

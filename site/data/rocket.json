@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073811",
+  "finalPath": "rocket.html",
+  "heading": "Rocket",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Esalad rocket, roquette, rucola, rugula, or, in the\u003C/b\u003E USA\u003Cb\u003E, arugula.\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Rocket",
+  "usedSnapshot": "20170314022205"
+}

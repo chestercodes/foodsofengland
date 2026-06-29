@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130323195843",
+  "finalPath": "breslaw-of-beef.html",
+  "heading": "Breslaw of Beef",
+  "ingredients": [
+    "beef",
+    "bread",
+    "butter",
+    "cayenne",
+    "cream",
+    "egg",
+    "eggs",
+    "fat",
+    "gravy",
+    "lemon",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "breslaw-of-beef.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBRESLAW OF BEEF.\u003C/b\u003E\u003Cbr\u003E\nTrim the brown edges from lialf a pound of underdressed roast beef, shred it small, and mix it with four ounces of fine bread-crumbs, a teaspoonful of minced parley, and two-thirds as much of thyme, two ounces of butter broken small, half a capful of gravy or cream, a high seasoning of pepper and cayenne and mace or nutmeg, a small teaspoonful of salt, and three large eggs well whisked. Melt a little butter in a deep dish, pour in the beef, and bake it half an hour; turn it out, and send it to table with brown gravy in a tureen. When cream or gravy is not at hand, an additional egg or two and rather more butter must be used. We think that grated lemon-rind improves the breslaw. A portion of fat from the joint can be added\u003Cbr\u003E\nwhere it is liked. The mixture is sometimes baked in buttered cups.\u003Cbr\u003E\n\u003Cbr\u003E\nBeef,\u00BD lb.; bread-crumbs, 4 oz.; batter, 2 oz.; gravy or cream,\u00BD cupful; parsley, 1 teaspoonsful; thyme, two-thirds of teaspoonful; eggs, 3 or 4, if small; salt, 1 teaspoonful; pepper and nutmeg\u00BD teaspoonful each: bake 1 hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Breslaw of Beef",
+  "usedSnapshot": "20211020223651"
+}

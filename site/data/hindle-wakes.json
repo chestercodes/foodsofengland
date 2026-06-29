@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20130808233719",
+  "finalPath": "hindle-wakes.html",
+  "heading": "Hindle Wakes",
+  "ingredients": [
+    "bacon",
+    "gravy",
+    "lemon",
+    "lemon juice",
+    "lemons",
+    "prunes",
+    "bread",
+    "brown sugar",
+    "herbs",
+    "pepper",
+    "pudding",
+    "suet",
+    "sugar",
+    "tea",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "hindle-wakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGood Things in England\u003C/i\u003E\u0027 by Florence White (\u003Ca href=\u0022references.html#white-1932\u0022\u003E\u003Cb\u003EWhite 1932\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u0027Hindle Wakes\u0027\u003C/b\u003E\u003Cbr\u003E\nMrs. Kate A. Earp (Brighton) who sends this recipe says: \u0027We as a family in Lancashire called these fowls \u0022Hindle Wakes\u0022 - why I do not know, unless it was, because old hens were sold at the \u0022wakes\u0022 (fairs.)\u0027\u003Cbr\u003E\n\u003Cbr\u003E\nINGREDIENTS; An old boiling fowl; prunes 1 lb.; lemon juice (2 lemons); brown gravy.\u003Cbr\u003E\nTIME: to steam about 6 hours: to roast 1 hour.\u003Cbr\u003E\nMETHOD\u003Cbr\u003E\n1. Wash lemon and pare the rind thinly and simmer it gently in 1 pint water for 15 minutes to extract the flavour.\u003Cbr\u003E\n2. Add to this water the strained juice of the 2 lemons.\u003Cbr\u003E\n3. Wash the prunes and pour the lemon juice, etc., over than.\u003Cbr\u003E\n4. Let them soak all night.\u003Cbr\u003E\n5. Next day stuff an old boiling fowl with the prunes; sew it up.\u003Cbr\u003E\n6. Steam for 6 or more hours till tender.\u003Cbr\u003E\n7. Then wrap in bacon fastened with skewer, and roast for one hour, serve with good brown gravy in the making of which use any of the lemon liquor that may not be soaked up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hindle-wakes.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003EFood in England\u003C/i\u003E, by Dorothy Hartley (\u003Ca href=\u0022references.html#hartley-1954\u0022\u003E\u003Cb\u003EHartley 1954\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Ci\u003EHindle Wakes (\u0022Hen de la Wake\u0022 or \u0022Hen of the Wake\u0022)\u003C/i\u003E\u003C/b\u003E\u003Cbr\u003E\nThis very old English recipe has come down through many centuries unchanged. The white meat, with its black filling and yellow and green garnish, must look as handsome and gaudy as it did on any medieval table. The older recipes use the blood of the fowl to mix with the stuffing. (The blood of a pig, making black pudding, is also extremely old.) All the recipes vary, but the essential filling of dark fruit and spice remains the same. This modern version was collected from a Lancashire family, near Wigan, about 1900. An old boiling fowl was brought in from the allotment the week before the wakes, plucked and drawn and hung up in a cold larder, and the stuffing prepared in a big \u0022crock\u0022. Half a loaf of dry bread was crumbed and mixed with twice the amount of soaked (but not cooked) stoned prunes (the stones were cracked and the kernels added). This was seasoned with pepper and mixed herbs, and made moist with a cupful of vinegar. A handful of coarsely chopped suet was stirred into the black prune mixture, and the fowl was \u003Ci\u003Efirmly\u003C/i\u003E stuffed from end to end, trussed into shape, and set to boil gently overnight in water in which another cupful of vinegar and a large spoonful of brown sugar had been added. It simmered all night on the hot stove, and was left to grow cold in the broth. Wake night it was lifted out, drained and coated with a thick lemon sauce (the grating of the yellow peel dusted on top). Set and cold, it was a \u0022stand to\u0022 dish on the high tea-table. Halved prunes and quarters of lemon were patterned over the handsome dish. Each family has its own special recipe, but the basis is old hen and fruit filling. Excellent.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWinster Wakes Cakes\u003C/b\u003E",
+      "relatedPageUrl": "winster-wakes-cake.html",
+      "relationDescription": "For a list of northern Wakes Day traditions, see the end of the "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Hindle Wakes",
+  "usedSnapshot": "20220527070927"
+}

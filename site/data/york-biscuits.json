@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140508102831",
+  "finalPath": "york-biscuits.html",
+  "heading": "York Biscuits",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "flour",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "york-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Treatise of Confectionery\u003C/i\u003E\u0027 by Joseph Bell, 1817",
+      "receiptText": "\u003Cb\u003EDuchess of York\u0027s Biscuits\u003C/b\u003E\u003Cbr\u003E\n1 lb butter, 8 oz of sugar, 3 lb of flour.\u003Cbr\u003E\nRub the butter into the flour; then add the sugar, and mix it up into a stiff paste with milk; roll the paste out about a quarter of an inch thick, they must be cut square and stamped with a proper stamp of the happy union and baked in a good oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "york-biscuits.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E76. - York Biscuits.\u003C/b\u003E\u003Cbr\u003E\n5 1/4 lbs. of flour, 12 ozs. of butter, 2 lbs. of sugar, 1 pint of milk. Mix as before into a dough, roll out the dough 1/4 of an inch thick, cut them into long strips, and cut them diamond shape or square, dock them either on the table or crimping-board as your fancy dictates. Bake them in a rather warm oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "york-biscuits.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EGunter\u0027s modern confectioner\u003C/i\u003E\u0027 By William Jeanes, 1870",
+      "receiptText": "204 York Biscuits\u003Cbr\u003E\n1/2 pint Milk, 1/4 lb Sugar, 1/4 lb Butter, Flour\u003Cbr\u003E\nTo some cold milk add four ounces of sugar, dissolve into it four ounces of butter and mix it up very stiff with flour; bake them in a quick oven\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EDuchess of York\u0027s Biscuits\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "York"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "York Biscuits",
+  "usedSnapshot": "20220809201631"
+}

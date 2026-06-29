@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922081829",
+  "finalPath": "cream-of-lentil-soup.html",
+  "heading": "Cream of Lentil Soup",
+  "ingredients": [
+    "bread",
+    "carrots",
+    "celery",
+    "green lentils",
+    "herbs",
+    "lentils",
+    "onions",
+    "parsley",
+    "spinach",
+    "sugar",
+    "turnip"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cream-of-lentil-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ECassell\u0027s Vegetarian Cookery\u003C/i\u003E, 1891",
+      "receiptText": "\u003Cb\u003ELentil Soup\u003C/b\u003E - Take a breakfastcupful of green lentils and put them to soak in cold water overnight. In the morning throw away any floating on the top. Drain the lentils and put them in a stew-pan or saucepan with some stock or water, and add two onions, two carrots, a turnip, a bunch of parsley, a small teaspoonful of savoury herbs and a small head of celery. If you have no celery add half a teaspoonful of bruised celery seed. You can also add a crust of stale bread. Let the whole boil, and it will be found that occasionally a dark film will rise to the surface. This must be skimmed off. The soup must boil for about four hours, or at any rate till the lentils are thoroughly soft. Then strain the soup through a wire sieve, and rub the whole of the contents through the wire sieve with the soup. This requires both time and patience. After the whole has been rubbed through the sieve the soup must be boiled up, and if made from green lentils it can be coloured green with some spinach extract-(vegetable colouring, sold in bottles). If made from Egyptian (red) lentils, the soup can be coloured with a few drops of Parisian essence (burnt sugar). In warming up this soup, after the lentils have been rubbed through a sieve, it should be borne in mind that the lentil powder has a tendency to settle, and consequently the saucepan must be constantly stirred to prevent it burning. In serving the soup at table, the contents of the soup-tureen should be stirred with the soup-ladle before each help.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cream of Lentil Soup",
+  "usedSnapshot": "20220516215415"
+}

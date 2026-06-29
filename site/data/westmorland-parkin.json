@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922082609",
+  "finalPath": "westmorland-parkin.html",
+  "heading": "Westmorland Parkin",
+  "ingredients": [
+    "allspice",
+    "baking powder",
+    "black treacle",
+    "butter",
+    "demerara sugar",
+    "egg",
+    "flour",
+    "ginger",
+    "milk",
+    "oats",
+    "porridge oats",
+    "salt",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "westmorland-parkin.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Westmorland%20Parkin\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWestmorland Parkin\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb porridge oats\u003Cbr\u003E\n8 oz flour\u003Cbr\u003E\n8 oz Demerara sugar, heaped\u003Cbr\u003E\n2 tsp ground allspice\u003Cbr\u003E\n1 tsp salt\u003Cbr\u003E\n2 tsp baking powder\u003Cbr\u003E\n2 tsp ground ginger\u003Cbr\u003E\n1 lb black treacle\u003Cbr\u003E\n8 oz butter\u003Cbr\u003E\n1 tsp bicarbonate of soda\u003Cbr\u003E\n1 small egg, beaten\u003Cbr\u003E\n3 oz milk, warm\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod:\u003C/b\u003E\u003Cbr\u003E\nMix the dry ingredients. In a small saucepan, gently heat the treacle and the butter until melted and stir the mixture into the bowl. Add the egg and the milk and stir until well combined.\u003Cbr\u003E\nTransfer the mixture into a lined and greased tin and bake for 1-1.5 hours at 180C. Stand for 2 days before cutting.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Parkin"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Westmorland Parkin",
+  "usedSnapshot": "20220218032541"
+}

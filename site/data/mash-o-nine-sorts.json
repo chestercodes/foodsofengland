@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922084411",
+  "finalPath": "mash-o-nine-sorts.html",
+  "heading": "Mash o\u0027 Nine Sorts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHalloween\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/halloween.html",
+      "relationDescription": "For other seasonal traditions, see: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EMash of Nine Sorts\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Halloween"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Mash o\u0027 Nine Sorts",
+  "usedSnapshot": "20201101061320"
+}

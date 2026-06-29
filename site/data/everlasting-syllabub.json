@@ -1,0 +1,87 @@
+﻿{
+  "earliestSnapshot": "20140514171406",
+  "finalPath": "everlasting-syllabub.html",
+  "heading": "Everlasting Syllabub",
+  "ingredients": [
+    "beat",
+    "cream",
+    "lemons",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "everlasting-syllabub.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EEVERLASTING SILLABUBS\u003C/b\u003E\u003Cbr\u003E\nMix a quart of thick raw cream, one pound of refined sugar, a pint and a half of fine raisin wine in a deep pan; put to it the grated peel and the juice of three lemons. Beat or whisk it one way half an hour, then put it on a sieve with a bit of thin muslin laid smooth in the shallow end till next day. Put it in glasses It will keep good in a cool place ten days.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Whip Syllabub",
+      "relatedPageUrl": "whip-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Devon Syllabub",
+      "relatedPageUrl": "devon-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Staffordshire Syllabub",
+      "relatedPageUrl": "staffordshire-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Somersetshire Syllabub",
+      "relatedPageUrl": "somersetshire-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "London Syllabub",
+      "relatedPageUrl": "london-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Hampshire Syllabub",
+      "relatedPageUrl": "hampshire-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Syllabub - Old Type",
+      "relatedPageUrl": "syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Everlasting Syllabub",
+      "relatedPageUrl": "everlasting-syllabub.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Trifle",
+      "relatedPageUrl": "trifle.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Everlasting Syllabub",
+  "usedSnapshot": "20220112214859"
+}

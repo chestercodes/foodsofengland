@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922073632",
+  "finalPath": "squirrel.html",
+  "heading": "Squirrel",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "butter",
+    "cream",
+    "fat",
+    "flour",
+    "gravy",
+    "ketchup",
+    "kidneys",
+    "liver",
+    "milk",
+    "nuts",
+    "pepper",
+    "pork",
+    "potato",
+    "potatoes",
+    "salt",
+    "squirrels",
+    "suet",
+    "tomato",
+    "veal",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "squirrel.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Encyclopedia of Cookery\u003C/i\u003E\u0027 by Theodore Garrett (\u003Ca href=\u0022references.html#garrett-1891\u0022\u003E\u003Cb\u003EGarrett 1891\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESQUIRRELS\u003C/b\u003E . - America seems to be largely infested by these animals, the woods teeming with many varieties, such as the Black Squirrel, Red Squirrel, Grey Squirrel, and others.\u003Cbr\u003E\n\u003Cbr\u003E\nAs they are exceptionally select in their food, living principally upon nuts and grain, they have been accepted as food animals, and are greatly sought after by those who have tasted them cooked after any of the following receipts:\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EBarbecued Squirrel.\u003C/b\u003E - Put slices of fat bacon in a baking- dish. Skin and wash a Squirrel, wipe it dry, lay it on the bacon, and put two slices of fat bacon on the top. Bake in a moderate oven, and when cooked lay it on a hot dish and keep it in front of the fire until wanted to serve. Take the bacon out of the baking-dish, dredge into the gravy 1 table-spoonful of flour, and stir it over the fire until brown. Pour into the gravy 1 teacupful of brown stock, a little walnut ketchup or tomato sauce, and a small lump of butter; Stir the above mixture over the fire till the butter has dissolved, then take it off, cool it a little, pour it over the Squirrel, garnish with stewed corn -and -potato balls (see Fig 656), and serve.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022barboosqill.JPG\u0022\u003E\u003Cimg src=\u0022barboosqill.JPG\u0022 width=\u0022455\u0022 height=\u0022auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EBroiled Squirrel.\u003C/b\u003E - Wash a Squirrel, wipe it dry, brush it over with warmed bacon-fat or butter, and broil it over a clear fire for about ten minutes. When cooked, put the Squirrel on a hot dish, place some slices of broiled salt pork on the top of it, and pour over some rich brown gravy; garnish round with nicely boiled potatoes, and serve.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESquirrel Pie\u003C/b\u003E. - Skin a pair of Squirrels, wipe them all over with a wet cloth to remove the hairs, and cut them in joints, saving the blood and removing the entrails. The liver, heart, and kidneys may be used in the pie if desired. Chop lib. of beef-suet as fine as possible, rejecting all the membrane; mix it with 1lb. of flour, 2 teaspoonfuls of salt, and 1 saltspoonful of pepper. Butter an earthenware baking-dish. Add enough cold water to the suet and flour to make a crust J-in. thick. Line the dish with the crust, put in the Squirrel meat and blood, adding enough cold water to half fill the pie-dish; season highly with salt and pepper, cover with the crust, wetting all the edges to make them adhere so closely that the gravy cannot escape. In the middle of the top crust, cut a little slit to permit the escape of the steam while the pie is being baked. Bake the pie in a moderate oven for about two hours. When the crust is nearly brown enough cover it with buttered paper, and when quite done serve it hot in the dish in which it was baked.\u003Cbr\u003E\n\u003Cb\u003E\u003Cbr\u003E\nStewed Squirrels.\u003C/b\u003E - Skin two pairs of fat Squirrels, wash them quickly in cold water, or carefully wipe them with a wet cloth to remove the hail\u0027s, and cut them into quarters, rejecting the intestines. Put a layer of slices of fat salt pork into a saucepan, then place the Squirrels on the top with a seasoning of salt anil pepper, and either a little more salt pork or 1lb. of good beef or veal dripping, or butter; add enough water to prevent burning, cover the saucepan, and cook the Squirrels gently until they are tender. When they are nearly done, uncover the sauce- pan, so that the water in which they were cooked can evaporate, put in enough cream or good milk to moisten them, let them heat again, see that they are well seasoned, and serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Badger",
+      "relatedPageUrl": "badger.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "garrett-1891"
+    }
+  ],
+  "title": "Squirrel",
+  "usedSnapshot": "20210518194545"
+}

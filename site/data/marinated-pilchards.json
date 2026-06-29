@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20140616085536",
+  "finalPath": "marinated-pilchards.html",
+  "heading": "Marinated Pilchards",
+  "ingredients": [
+    "brown sugar",
+    "mackerel",
+    "malt vinegar",
+    "pepper",
+    "salt",
+    "sugar",
+    "tea",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marinated-pilchards.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Marinated%20Pilchards\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECornish Marinated Pilchards\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 pilchards (or mackerel)\u003Cbr\u003E\n3 bay leaves\u003Cbr\u003E\n10 pepper corns\u003Cbr\u003E\n4 cloves\u003Cbr\u003E\n1 tsp brown sugar\u003Cbr\u003E\n1/4 pint cold tea\u003Cbr\u003E\n1/4 pint malt vinegar\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n\u003Cbr\u003E\nClean and fillet the fish, removing heads. Lay the fillets in a roomy dish. Combine the other ingredients and pour over the fish. Cook in a hot oven. Leave to cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Salt Pilchards",
+      "relatedPageUrl": "salt-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Marinated Pilchards",
+      "relatedPageUrl": "marinated-pilchards.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pilchard Pie",
+      "relatedPageUrl": "pilchard-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stargazy Pie",
+      "relatedPageUrl": "stargazy-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EMara\u003C/b\u003E or \u003Cb\u003EMarra Fish\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Marinated Pilchards",
+  "usedSnapshot": "20211201004907"
+}

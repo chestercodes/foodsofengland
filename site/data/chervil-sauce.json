@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073358",
+  "finalPath": "chervil-sauce.html",
+  "heading": "Chervil Sauce",
+  "ingredients": [
+    "butter",
+    "parsley",
+    "poultry",
+    "salt",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chervil-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CHERVIL SAUCE. The flavour of this fine herb, so long a favourite with the French cook, is a strong concentration of the combined taste of parsley and fennel, but more aromatic and agreeable than either, and makes an excellent sauce for boiled poultry or fish. Wash the chervil, and pick it very clean; put a tea-spoonful of salt into half a pint of boiling water, boil the chervil about ten minutes, drain it on a sieve, and mince it very fine. Put it into a sauce boat, mix with it by degrees some good \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EMelted Butter\u003C/b\u003E\u003C/a\u003E, and send it up in the boat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Chervil Sauce",
+  "usedSnapshot": "20220527070541"
+}

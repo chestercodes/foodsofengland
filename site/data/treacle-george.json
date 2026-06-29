@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922083300",
+  "finalPath": "treacle-george.html",
+  "heading": "Treacle George",
+  "ingredients": [
+    "bread",
+    "butter",
+    "lemon",
+    "pastry",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "treacle-george.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E555. TREACLE-GEORGE (Devonshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a shallow cake-tin, or a deep plate, or a pie-dish; butter it. Place at the bottom a layer of pastry (short-crust) about a quarter of an inch thick. Over this put a layer of treacle; over this a layer of fine bread crumbs, sufficient to hide the treacle; over this squeeze a little lemon-juice; then put a layer of pastry, and go on in the same rotation till the tin is filled up to the height of three or four inches or so. Bake in a fairly quick oven, and remove from tin, and serve either hot or cold. This is a wholesome and attractive dish for children.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Treacle"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Treacle George",
+  "usedSnapshot": "20210510041709"
+}

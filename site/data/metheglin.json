@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922094425",
+  "finalPath": "metheglin.html",
+  "heading": "Metheglin",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Metheglin",
+  "usedSnapshot": "20200108134900"
+}

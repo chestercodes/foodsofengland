@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140212020544",
+  "finalPath": "crumpets.html",
+  "heading": "Crumpets",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "salt",
+    "yeast"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "crumpets.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECRUMPETS.\u003C/b\u003E Warm before the fire two pounds of fine flour, with a little salt, and mix it with warm milk and water till it becomes stiff. Work up three eggs with three spoonfuls of thick yeast, and a cupful of warm milk and water; put it to the batter, and beat them well together in a large bowl, with as much milk and water as will make the batter thick. Set it before the fire to rise, and cover it close. Set on the fryingpan, rub it over with a bit of butter tied up in muslin, and pour in as much batter at a time as is sufficient for one crumpet. Let it bake slowly till it comes to a pale yellow; and when cold, the crumpets may be toasted and buttered.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "crumpets.html-2",
+      "receiptSource": "Original Receipt in \u003Ci\u003EThe complete confectioner, pastry-cook, and baker\u003C/i\u003E, p123, by Eleanor Parkinson. (Lea and Blanchard, 1844);",
+      "receiptText": "\u003Cb\u003ECrumpets\u003C/b\u003E - Crumpets are made of batter composed of flour, water (or milk), and a small quantity of yeast. To one pound of the best wheaten flour you may add three table-spoonfuls of yeast. A portion of the liquid paste, not too thin (after being suffered to rise), is poured on the heated iron plate, and baked, like pancakes in a pan.\u003Cbr\u003E\n\u003Cbr\u003E\n* Many persons now make use of the yeast powders, and give them a decided preference. They certainly possess the advantage of requiring less time, and thereby enabling you to make muffins, buckwheat cakes, \u0026amp;.C. - which, set with yeast, require some hours in the preparation - at a quarter of an hour\u0027s notice. The ingredients are the super-carbonate of soda and tartaric acid, to be used in the following manner:- A spoonful of soda, and a spoon two-thirds full of tartaric acid, are to be dissolved separately in a little water. The soda is to be put into the batter when it is partly beaten, taking care that it is perfectly dissolved; and the acid is to be added when the cook is ready to begin baking, as they must not be allowed to stand after the effervescence takes place.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Crumpets"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Crumpets",
+  "usedSnapshot": "20220705101753"
+}

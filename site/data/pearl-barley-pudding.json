@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140212025004",
+  "finalPath": "pearl-barley-pudding.html",
+  "heading": "Pearl Barley Pudding",
+  "ingredients": [
+    "barley",
+    "butter",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "powder sugar",
+    "pudding",
+    "rose-water",
+    "salt",
+    "sugar",
+    "beat",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pearl-barley-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "439. To make PEARL BARLEY PUDDING.\u003Cbr\u003E\nTake half a pound of pearl barley, cree it in soft water, and shift it once or twice in the boiling till it be soft; take five eggs, put to them a pint of good cream, and half a pound of powder sugar, grate in half a nutmeg, a little salt, a spoonful or two of rose-water, and half a pound of clarified butter; when your barley is cold mix them altogether, so bake it with a puff-paste round your dish-edge.\u003Cbr\u003E\nServe it up with a little rose-water, sugar and butter for your sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pearl-barley-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PEARL BARLEY PUDDING. Cleanse a pound of pearl barley, and put to it three quarts of milk, half a pound of sugar, and a grated nutmeg. Bake it in a deep pan, take it out of the oven, and beat up six eggs with it. Then butter a dish, pour in the pudding, and bake it again an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Pearl Barley Pudding",
+  "usedSnapshot": "20220815154842"
+}

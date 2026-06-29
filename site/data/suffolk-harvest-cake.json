@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922084138",
+  "finalPath": "suffolk-harvest-cake.html",
+  "heading": "Suffolk Harvest Cake",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "cinnamon",
+    "cornflour",
+    "currants",
+    "dried fruit",
+    "egg",
+    "flour",
+    "lard",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "orange",
+    "orange peel",
+    "sugar",
+    "sultanas",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-harvest-cake.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESuffolk Harvest Cake\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n8 ozs Flour\u003Cbr\u003E\n2 ozs Cornflour\u003Cbr\u003E\n1 tsp Baking powder\u003Cbr\u003E\n\u00BC tsp Bicarbonate of soda\u003Cbr\u003E\n\u00BC tsp Ground nutmeg\u003Cbr\u003E\n\u00BC tsp Ground cinnamon\u003Cbr\u003E\n\u00BD ozs Fresh yeast, finely crumbled\u003Cbr\u003E\n8 ozs Sugar\u003Cbr\u003E\n4 ozs Lard or butter\u003Cbr\u003E\n\u00BC pint Milk\u003Cbr\u003E\n1 Egg\u003Cbr\u003E\n8 ozs Currants or sultanas\u003Cbr\u003E\n2 ozs Chopped candied lemon or orange peel\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\nPre-heat the oven to 180\u00B0C: 350\u00B0F: Gas 4\u003Cbr\u003E\nSift the flour, cornflour, baking powder, bicarbonate of soda, nutmeg and cinnamon into a large bowl.\u003Cbr\u003E\nRub in the crumbled yeast and stir in the sugar.\u003Cbr\u003E\nCut the lard or butter, whichever you are using, into flakes and rub into the dry ingredients.\u003Cbr\u003E\nIn a jug, beat together the milk and egg and stir into the mixture.\u003Cbr\u003E\nFinally, add the dried fruit and candied peel. And combine all the ingredients together.\u003Cbr\u003E\nGrease and line a 10inch cake tin and pour in the mixture.\u003Cbr\u003E\nCover and leave in a warm place for 30 minutes to rise.\u003Cbr\u003E\nCook for 2 hours but keep an eye on the top of the cake and cover if it starts to brown too quickly before the 2 hours is up.\u003Cbr\u003E\nOnce the cake is removed from the oven and still hot, the top can be brushed with a little milk to give a nice shine.\u003Cbr\u003E\nServe in slices, delicious spread with butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Suffolk Harvest Cake",
+  "usedSnapshot": "20211205171221"
+}

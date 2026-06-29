@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140125041322",
+  "finalPath": "sausages-of-fish.html",
+  "heading": "Sausages of Fish",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cod",
+    "eels",
+    "fat",
+    "ginger",
+    "herbs",
+    "nutmeg",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sausages-of-fish.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "The following Receipt to make Sausages of Fish for Fast-Days, I had at Bruxelles, which I have experienced to be very good.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make Sausages of Fish.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the Flesh of Eels, or of Tench, and to either of these put some of the Flesh of fresh Cod, or of Pike or Jack, chop these well together with Parsley, and a few small Onions; season these with a little Salt, Pepper, Cloves in Powder, a little grated Nutmeg, and, if you will, a little powder\u0027d Ginger, with some Thyme, Sweet-Marjoram, a little Bay-Leaf, all dry\u0027d and powder\u0027d; and mix all these well together with a little Butter.\u003Cbr\u003E\n\u003Cbr\u003E\nThen beat the Bones of the Fish in a Mortar, pouring in among them while they are beating, a Glass or two of Claret, which must afterwards be poured upon the above Mixture; then take the Guts of a Calf well wash\u0027d and clear\u0027d of the Fat, for in that condition I find there is no scruple to use them abroad: being well discharged of the Fat, fill these Skins with your Mixture of Fish, _\u0026amp;c._ tying them at both ends, and lay them for twenty four Hours in a Pickle of Wine and Salt, and taking them out from thence, hang them in a Chimney where they may be well smoak\u0027d with a Wood-Fire, or burning Saw-dust for twenty-four hours, or longer if you please, provided you have allow\u0027d Salt and Spices enough. When you would use them, boil them gently in White-wine, with a Bunch of Sweet Herbs; or in Water, with one third part White-wine, and Sweet-Herbs. These are served cold at the Table, and eat very well.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Sausages of Fish",
+  "usedSnapshot": "20210518213057"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212015922",
+  "finalPath": "mutton-and-turnip-pie.html",
+  "heading": "Mutton and Turnip Pie",
+  "ingredients": [
+    "milk",
+    "mutton",
+    "onion",
+    "pepper",
+    "salt",
+    "steaks",
+    "turnip",
+    "turnips"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mutton-and-turnip-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETURNIP PIE\u003C/b\u003E Season some mutton chops with salt and pepper reserving the ends of the neck bones to lay over the turnips which must be cut into small dice and put on the steaks. Add two or three spoonfuls of milk also a sliced onion if approved and cover with a crust.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Turnips"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Mutton and Turnip Pie",
+  "usedSnapshot": "20220808013239"
+}

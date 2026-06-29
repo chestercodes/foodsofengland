@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922105021",
+  "finalPath": "coffee-walnut-cake.html",
+  "heading": "Coffee Walnut Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Coffee Walnut Cake",
+  "usedSnapshot": "20211205161703"
+}

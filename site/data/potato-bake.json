@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922090757",
+  "finalPath": "potato-bake.html",
+  "heading": "Potato Bake",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "nuts",
+    "onions",
+    "pepper",
+    "potato",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-bake.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ELichfield Mercury\u003C/i\u003E\u0027 - Friday 18 October 1935",
+      "receiptText": "\u003Cb\u003ECHEESE AND POTATO BAKE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients;\u003Cbr\u003E\nFew [sic] Potatoes\u003Cbr\u003E\n1/4 lb. Grated Cheese\u003Cbr\u003E\nOnions\u003Cbr\u003E\n1 oz. Butter\u003Cbr\u003E\ncupful Water\u003Cbr\u003E\nSalt and Pepper\u003Cbr\u003E\n\u003Cbr\u003E\nMethod:- Peel potatoes and onions and out into slices. Grease a dish. Place layer of potatoes at bottom of dish, then a layer onions, followed by layer of grated cheese, salt and pepper. Continue in layers until the dish is full, leaving potatoes on top. Add few nuts of butter and water. Place in oven and cook until potatoes on top are brown. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Potato Bake",
+  "usedSnapshot": "20211205171819"
+}

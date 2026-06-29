@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072450",
+  "finalPath": "lady-mary-lowther-s-pudding.html",
+  "heading": "Lady Mary Lowther\u0027s Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "lemon",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lady-mary-lowther-s-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ELady Mary Lowther\u0027s Pudding.\u003C/b\u003E\u003Cbr\u003E\n952. Mix half a pint of water, four spoonfuls of wine, a little sugar and salt, the rind and half the juice of one lemon, and a quarter of a pound of butter; put these on the fire till dissolved; when nearly cold, add a quarter of a pound of flour, and mix thoroughly. When quite cold, add three eggs very well beaten, again put all on the fire, and then bake them in cups.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Lady Mary Lowther\u0027s Pudding",
+  "usedSnapshot": "20211019190405"
+}

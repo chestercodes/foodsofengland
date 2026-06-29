@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922071904",
+  "finalPath": "hunting-pudding.html",
+  "heading": "Hunting Pudding",
+  "ingredients": [
+    "beef",
+    "brandy",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hunting-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E131. A HUNTING PUDDING.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a pound of fine flour, a pound of beef-suet shred fine, three quarters of a pound of currans well cleaned, a quartern of raisins stoned and shred, five eggs, a little lemon-peel shred fine, half a nutmeg grated, a jill of cream, a little salt, about two spoonfuls of sugar, and a little brandy, so mix all well together, and tie it up right in your cloth; it will take two hours boiling; you must have a little white wine and \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Ebutter for your sauce\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHunter\u0027s Pudding\u003C/b\u003E",
+      "relatedPageUrl": "hunter-s-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Hunting Pudding",
+  "usedSnapshot": "20210510035900"
+}

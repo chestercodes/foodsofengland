@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508115505",
+  "finalPath": "aunt-charlotte-s-biscuits.html",
+  "heading": "Aunt Charlotte\u0027s Biscuits",
+  "ingredients": [
+    "biscuits",
+    "bread",
+    "butter",
+    "flour",
+    "milk",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "aunt-charlotte-s-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EAUNT CHARLOTTE\u0027S BISCUITS\u003C/b\u003E\u003Cbr\u003E\nThese biscuits which are very simple and wholesome may be made with the same dough as good white bread with the addition of from half to a whole ounce of butter to the pound kneaded into it after it has risen. Break the butter small, spread out the dough a little, knead it in well and equally, and leave it for about half an hour, then roll it a quarter of an inch thick, prick it well all over, cut out the biscuits and bake them in a moderate oven from ten to fifteen minutes, they should be crisp quite through but not deeply coloured.\u003Cbr\u003E\nWhite bread dough 2 lbs, butter 1 to 2 ozs, to rise1 hour, Baked in moderate oven 10 to 15 minutes\u003Cbr\u003E\n\u003Ci\u003EObs\u003C/i\u003E To make the biscuits by themselves proceed as for Bordyke bread but use new milk for them and work three ounces of butter into two pounds of flour before the yeast is added\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Aunt Charlotte\u0027s Biscuits",
+  "usedSnapshot": "20211018075042"
+}

@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922083215",
+  "finalPath": "coffins.html",
+  "heading": "Coffins",
+  "ingredients": [
+    "butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "coffins.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Paste, and to raise Coffins.\u003C/b\u003E\u003Cbr\u003E\nTake fine flower, and lay it on a boord, and take a certaine of yolkes of Egges as your quantitie of flower is, then take a certaine of Butter and water, and boil them together, but \u00FEe must take heed \u00FEe put not too many yolks of Egges, for if you doe, it will make it drie and not pleasant in eating: and \u00FEee must take heed \u00FEe put not in too much Butter for if you doe, it will make it so fine and so short that you cannot raise. And this paste is good to raise all maner of Coffins: Likewise if \u00FEe bake Uenison, bake it in the paste above named.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Coffins",
+  "usedSnapshot": "20211118060200"
+}

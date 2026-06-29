@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616081052",
+  "finalPath": "porlock-bay-bake.html",
+  "heading": "Porlock Bay Bake",
+  "ingredients": [
+    "bay leaf",
+    "breadcrumbs",
+    "butter",
+    "cheddar",
+    "cheese",
+    "mussels",
+    "onion",
+    "pepper",
+    "potatoes",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "porlock-bay-bake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Porlock%20Bay%20Bake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n3oz butter\u003Cbr\u003E\n1 medium diced onion\u003Cbr\u003E\n\u00BD pint dry wine\u003Cbr\u003E\n1 bay leaf\u003Cbr\u003E\n3 sprigs thyme\u003Cbr\u003E\n3lbs mussels (scrubbed, cleaned and checked)\u003Cbr\u003E\n1\u00BDlbs cooked thinly sliced potatoes\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n2oz fresh white breadcrumbs\u003Cbr\u003E\n2oz finely grated cheddar cheese\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nButter an ovenproof dish. Melt 1oz butter in a large pan and fry the onion for 5 - 10 minutes over a medium heat until softened but not browned. Add the bay leaf and thyme, stir well. Add the wine, stir and bring to the boil. Add the mussels and cook for 5 minutes or until all the mussel shells have opened. Remove the mussels with a slotted spoon and drain. Take the mussels out of their shells. Place a layer of sliced potatoes on the base of the dish. Season lightly with salt and pepper. Dot with a little butter. Add a layer of mussels. Repeat stages 9 to 12 ending with a layer of potatoes. Strain the mussel liquor over the potatoes. In a mixing bowl mix together the breadcrumbs and the cheese. Sprinkle the mixture over the potatoes. Dot with plenty of butter. Bake at 190C / gas 5 for about 20 minutes or until the topping is crisp, browned and bubbling.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Porlock Bay Bake",
+  "usedSnapshot": "20220516225435"
+}

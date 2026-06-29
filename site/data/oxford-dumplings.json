@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922100758",
+  "finalPath": "oxford-dumplings.html",
+  "heading": "Oxford Dumplings",
+  "ingredients": [
+    "biscuit",
+    "butter",
+    "currants",
+    "egg",
+    "eggs",
+    "nutmeg",
+    "powder-sugar",
+    "pudding",
+    "salt",
+    "suet",
+    "sugar",
+    "turkey",
+    "white wine",
+    "bread",
+    "dumplings",
+    "flour",
+    "lemon",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "oxford-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EAn Oxford pudding.\u003C/b\u003E\u003Cbr\u003E\nA quarter of a pound of biscuit grated, a quarter of a pound of currants clean washed and picked, a quarter of a pound of suet shred small, half a large spoonful of powder-sugar, a very little salt, and some grated nutmeg; mix all well together, then take two yolks of eggs, and make it up in balls as big as a turkey\u0027s egg. Fry them in fresh butter of a fine light brown; for sauce have \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Emelted butter\u003C/b\u003E\u003C/a\u003E and sugar, with a little sack or white wine. You must mind to keep the pan shaking about, that they may be all of a fine light brown.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oxford-dumplings.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EOxford dumplings.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nTake of currants and shred suet, eight ounces each, grated bread four ounces, four spoonsful of flour, a considerable quantity of grated lemon-peel, a little sugar and powdered pimento, mix it with four eggs, and a sufficiency of milk, into twelve dumplings, and fry them of a fine yellow brown. Serve with sweet sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EOxford Puddings\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Oxford Dumplings",
+  "usedSnapshot": "20220819103212"
+}

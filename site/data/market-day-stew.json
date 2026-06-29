@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922071500",
+  "finalPath": "market-day-stew.html",
+  "heading": "Market Day Stew",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Market Day Stew",
+  "usedSnapshot": "20220527051748"
+}

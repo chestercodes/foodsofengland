@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20131217113209",
+  "finalPath": "small-waterfowl.html",
+  "heading": "Small Waterfowl",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fonnell",
+      "relatedPageUrl": "fonnell.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Palpatoon",
+      "relatedPageUrl": "palpatoon.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Bird Pudding",
+      "relatedPageUrl": "small-birds.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Small Waterfowl",
+  "usedSnapshot": "20220118051257"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922082724",
+  "finalPath": "hazelnut-shortcake.html",
+  "heading": "Hazelnut Shortcake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECobnuts or Filbert\u003C/b\u003Es",
+      "relatedPageUrl": "cobnuts-or-filberts.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hazelnut Shortcake",
+  "usedSnapshot": "20211207113134"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922082519",
+  "finalPath": "suffolk-buns.html",
+  "heading": "Suffolk Buns",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "carraway seeds",
+    "currants",
+    "eggs",
+    "flour",
+    "lard",
+    "milk",
+    "rice",
+    "salt",
+    "sugar",
+    "breadcrumbs",
+    "caraway seeds"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "suffolk-buns.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EFramlingham Weekly News\u003C/i\u003E\u0027 - Saturday 28 December 1929",
+      "receiptText": "\u003Cb\u003ESUFFOLK BUNS.\u003C/b\u003E 1lb. of flour or ground rice, \u00BC lb. of lard or butler, 3 ozs. of sugar, 3 ozs. currants or 1 \u00BD oz of carraway seeds. 2 eggs. 2 teaspoonfuls of baking powder, a pinch of salt, a very little milk. Roll the butter in the flour, then add all the dry ingredients. Beat up the eggs, add them, and make a smooth firm paste, using little milk possible. Roll out 1in. thick cut, into rounds, and bake on a buttered baking sheet in a moderate oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "suffolk-buns.html-2",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESuffolk Buns\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n12 ozs Flour\u003Cbr\u003E\n4 ozs Ground rice\u003Cbr\u003E\n2 tsp Baking powder\u003Cbr\u003E\n4 ozs Butter\u003Cbr\u003E\n3 ozs Sugar\u003Cbr\u003E\n1\u00BD ozs Caraway seeds (or 3oz currants)\u003Cbr\u003E\n2 Eggs, beaten\u003Cbr\u003E\nMilk\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\n\u003Cbr\u003E\nPre-heat the oven to 200\u00B0C: 400\u00B0F: Gas 6\u003Cbr\u003E\nMix the flour, ground rice and baking powder together.\u003Cbr\u003E\nRub in the butter until the mixture resembles fine breadcrumbs.\u003Cbr\u003E\nStir in the sugar and caraway seeds and then add the beaten eggs.\u003Cbr\u003E\nAdd milk, little by little until you have a smooth firm paste.\u003Cbr\u003E\nOn a lightly floured surface, roll out to around 1inch thick.\u003Cbr\u003E\nCut into 2 inch rounds and place on a greased baking tray.\u003Cbr\u003E\nBake for 15 to 20 minutes until golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Suffolk Buns",
+  "usedSnapshot": "20211021011635"
+}

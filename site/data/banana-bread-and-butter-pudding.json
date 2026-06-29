@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074108",
+  "finalPath": "banana-bread-and-butter-pudding.html",
+  "heading": "Banana Bread and Butter Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Banana Bread and Butter Pudding",
+  "usedSnapshot": "20211027040002"
+}

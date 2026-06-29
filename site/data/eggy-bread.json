@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130323063433",
+  "finalPath": "eggy-bread.html",
+  "heading": "Eggy Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPoor Knights\u003C/b\u003E",
+      "relatedPageUrl": "poor-knights-of-windsor.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFrench Toast\u003C/b\u003E",
+      "relatedPageUrl": "frenchtoast(1).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMeselade\u003C/b\u003E",
+      "relatedPageUrl": "meselade.html",
+      "relationDescription": "For an ancient version, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPamperdy\u003C/b\u003E",
+      "relatedPageUrl": "pamperdy.html",
+      "relationDescription": "For an ancient version, see: "
+    }
+  ],
+  "synonym": "French Toast. For other usages, see \u003Ca href=\u0022frenchtoast(1",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Eggy Bread",
+  "usedSnapshot": "20220819114953"
+}

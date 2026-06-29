@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922133205",
+  "finalPath": "boiled-salad.html",
+  "heading": "Boiled Salad",
+  "ingredients": [
+    "butter",
+    "currants",
+    "spinage",
+    "sugar",
+    "vinegar",
+    "broccoli",
+    "cauliflower",
+    "celery",
+    "lettuce",
+    "onions",
+    "onion",
+    "poultry",
+    "tarragon"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "boiled-salad.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAn excellent boyled Sallet\u003C/b\u003E\u003Cbr\u003E\nTo make an excellent compound boyl\u0027d Sallet; take of Spinage well washt, two or three handfuls, and put it in fair water, and boyl it til it be exceeding soft and tender as pap; then put it into a Cullender, and drain water from it, which done with the back side of your Chopping-knife chop it, and bruise it as small as may be; then put it into a Pipkin with a good lump of sweet butter, and boyl it over again; then take a good handful of Currants clean washt, and put to it, and stir them well together, then put to as much Vinegar as will make it reasonable tart, and then with Sugar season it according to the taste of the Master of the house, and so serve it upon sippets.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "boiled-salad.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBoiled Salad.\u003C/b\u003E\u003Cbr\u003E\nThis is best compounded of boiled or baked onions (if Portugal the better), some baked beet-root, cauliflower, or broccoli, and boiled celery and French beans, or any of these articles, with the common salad dressing; added to this, to give it an enticing appearance, and to give some of the crispness and freshness so pleasant in salad, a small quantity of raw endive, or lettuce and chervil, or burnet, strewed on the top: this is by far more wholesome than the raw salad, and is much eaten when put on the table.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "boiled-salad.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBOILED SALAD.\u003C/b\u003E\u003Cbr\u003E\n1151. INGREDIENTS: 2 heads of celery, 1 pint of French beans, lettuce, and endive.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Boil the celery and beans separately until tender, and cut the celery into pieces about 2 inches long. Put these into a salad-bowl or dish; pour over either of the sauces No. 506, 507, or 508, and garnish the dish with a little lettuce finely chopped, blanched endive, or a few tufts of boiled cauliflower. This composition, if less agreeable than vegetables in their raw state, is more wholesome; for salads, however they may be compounded, when eaten uncooked, prove to some people indigestible. Tarragon, chervil, burnet, and boiled onion, may be added to the above salad with advantage, as also slices of cold meat, poultry, or fish.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from July to October.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Boiled Salad",
+  "usedSnapshot": "20211021014242"
+}

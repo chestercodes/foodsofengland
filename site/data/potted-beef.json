@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140325145300",
+  "finalPath": "potted-beef.html",
+  "heading": "Potted Beef",
+  "ingredients": [
+    "allspice",
+    "bacon",
+    "beef",
+    "butter",
+    "eggs",
+    "fat",
+    "ham",
+    "mushroom",
+    "parsley",
+    "pepper",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potted-beef.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPOTTED BEEF.\u003C/b\u003E\u003Cbr\u003E\nTake two pounds of the fillet out of the inside of a rump of beef and two pounds of best fat bacon. Cut them small, put them into a marble mortar, add to them a small quantity of parsley, thyme, savory, four eschalots chopped fine, some pepper, salt, two spoonfuls of essence of ham, a spoonful of mushroom powder, sifted mace, cloves, and allspice, a little of each, two eggs beaten, and a gill of rhenish wine. Pound all well together till quite fine; then fill small pots with the mixture, cover with paper, bake it very gently for forty minutes, and when cold cover with clarified butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Beef Paste",
+      "relatedPageUrl": "beef-paste.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Potted Beef",
+  "usedSnapshot": "20211201031748"
+}

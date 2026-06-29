@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922085111",
+  "finalPath": "somerset-chicken.html",
+  "heading": "Somerset Chicken",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "chicken stock",
+    "cider",
+    "cream",
+    "flour",
+    "mushrooms",
+    "onion",
+    "parsley",
+    "pepper",
+    "plain flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "somerset-chicken.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Somerset%20Chicken\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "5g butter\u003Cbr\u003E\n340g chicken, either left whole or cubed\u003Cbr\u003E\n1 large onion, chopped\u003Cbr\u003E\n60g plain flour\u003Cbr\u003E\n420ml chicken stock\u003Cbr\u003E\n280ml dry cider\u003Cbr\u003E\nsalt and pepper to season\u003Cbr\u003E\n150g mushrooms, sliced\u003Cbr\u003E\n3 tablespoons chopped fresh parsley\u003Cbr\u003E\n140ml single cream\u003Cbr\u003E\n\u003Cbr\u003E\nMelt 1/3 of the butter and gently fry the chicken and onion for 3-4 minutes. Remove from the pan and place in a casserole dish.\u003Cbr\u003E\nMelt the remaining butter and stir in the flour gradually, add stock and cider, stirring continuously to make a smooth sauce. Season well.\u003Cbr\u003E\nAdd the mushrooms and 2 tablespoons of the chopped parsley.\u003Cbr\u003E\nPour the sauce over the chicken and onion. Cover and cook in a preheated oven for 30-40 minutes.\u003Cbr\u003E\nJust before serving stir in the cream and garnish with the rest of the chopped parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Somerset Chicken",
+  "usedSnapshot": "20211018063421"
+}

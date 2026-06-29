@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140212020650",
+  "finalPath": "cumberland-girdle-cakes.html",
+  "heading": "Cumberland Girdle Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Northumberland Girdle Cakes",
+      "relatedPageUrl": "northumberland-girdle-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Cumberland Girdle Cakes",
+  "usedSnapshot": "20211129120650"
+}

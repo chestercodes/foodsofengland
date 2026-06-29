@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922093550",
+  "finalPath": "blackberry-roll.html",
+  "heading": "Blackberry Roll",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "blackberries",
+    "butter",
+    "cinnamon",
+    "cream",
+    "custard",
+    "egg",
+    "jam",
+    "lemon",
+    "lemon juice",
+    "marmalade",
+    "milk",
+    "pastry",
+    "raisins",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blackberry-roll.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBlackberry Roll\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EA baked fruit roll containing apples and blackberries spiced with cinnamon\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8oz blackberries\u003Cbr\u003E\n1 medium cooking apple (peeled, cored and finely diced)\u003Cbr\u003E\n3oz raisins\u003Cbr\u003E\n6oz white sugar\u003Cbr\u003E\n1 teaspoon ground cinnamon\u003Cbr\u003E\n1 teaspoon lemon juice\u003Cbr\u003E\nknob of butter\u003Cbr\u003E\n2oz flaked almonds\u003Cbr\u003E\n8oz shortcrust pastry\u003Cbr\u003E\n2 tablespoons cold water\u003Cbr\u003E\nglaze (beaten egg or milk)\u003Cbr\u003E\n\u003Cbr\u003E\nPlace the fruit, cinnamon, lemon juice, water and the butter into a saucepan and simmer gently, stirring regularly. The mixture should thicken until it is of marmalade (or thick jam) consistency. Cool the mixture then add the almonds. Pre heat the oven to 400F. Roll out the pastry (on a lightly floured surface) forming a rectangle (which will be rolled). Brush this very lightly with the glazing agent. Allow to dry then spread the fruit mixture evenly over the pastry. However, leave approx.\u00BD inch from the edges of the pastry. Roll the pastry up like a Swiss roll. Seal the edges with water and glaze the outside of the roll. Place on a baking tray (greased baking sheet is better) and bake for 25-30 minutes until golden. Allow to cool slightly and serve with custard or cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Blackberry Roll",
+  "usedSnapshot": "20211019184203"
+}

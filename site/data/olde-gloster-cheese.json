@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140616085558",
+  "finalPath": "olde-gloster-cheese.html",
+  "heading": "Olde Gloster Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Olde Gloster Cheese",
+  "usedSnapshot": "20211130234428"
+}

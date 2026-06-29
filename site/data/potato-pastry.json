@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140212033557",
+  "finalPath": "potato-pastry.html",
+  "heading": "Potato Pastry",
+  "ingredients": [
+    "baking powder",
+    "fat",
+    "flour",
+    "mashed potato",
+    "pastry",
+    "potato",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-pastry.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EEconomical war-time cook book\u003C/i\u003E\u0027 (1918) by Janet McKenzie Hill (USA)",
+      "receiptText": "\u003Cb\u003EPOTATO PASTRY\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 cup flour\u003Cbr\u003E\n5 cup mashed potato\u003Cbr\u003E\n1/2 teaspoonful salt\u003Cbr\u003E\n4 tablespoonfuls shortening\u003Cbr\u003E\n5 teaspoonful baking powder\u003Cbr\u003E\n\u003Cbr\u003E\nSift together the dry ingredients, and combine them with the potato. Cut in the fat in the usual way, and roll out the pastry. This recipe makes enough for a one-crust pie. The crust may be baked before the filling is added.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Potato Pastry",
+  "usedSnapshot": "20200126152147"
+}

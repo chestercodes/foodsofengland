@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20220117112029",
+  "finalPath": "skim-dick.html",
+  "heading": "Skim Dick",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Suffolk Cheese",
+      "relatedPageUrl": "suffolk-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Skim Dick",
+  "usedSnapshot": "20220117112029"
+}

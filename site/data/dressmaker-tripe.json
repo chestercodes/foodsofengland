@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922071524",
+  "finalPath": "dressmaker-tripe.html",
+  "heading": "Dressmaker Tripe",
+  "ingredients": [
+    "bacon",
+    "black pepper",
+    "breadcrumbs",
+    "butter",
+    "egg",
+    "herbs",
+    "lemon",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "thyme",
+    "tripe"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dressmaker-tripe.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Dressmaker%20Tripe\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDressmaker Tripe\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2lb / 900g tripe\u003Cbr\u003E\n8 oz/ 225g small onions, peeled\u003Cbr\u003E\n8 oz/ 225g fresh white breadcrumbs\u003Cbr\u003E\n1 heaped tbs / 20g chopped parsley\u003Cbr\u003E\n\u00BD tsp / 3g chopped thyme\u003Cbr\u003E\n1 tsp / 5g grated lemon rind\u003Cbr\u003E\nsalt and freshly ground black pepper\u003Cbr\u003E\n1 large egg, beaten\u003Cbr\u003E\n6-8 rashers of streaky bacon, derind\u003Cbr\u003E\n\u003Cbr\u003E\nPre-heat oven to 350F / 177C / Gas Mark 4\u003Cbr\u003E\nBoil the onions in lightly salted water until soft. Cool slightly and chop finely.\u003Cbr\u003E\nMix together with the breadcrumbs, herbs, lemon rind and seasoning and bind together with the beaten egg.\u003Cbr\u003E\nSpread out the tripe, smooth side uppermost, and season lightly. Spread the filling mixture over half the tripe, fold the other half over and sew up the edges neatly to form a sealed parcel.\u003Cbr\u003E\nButter a suitable ovenproof dish and put the tripe in, covering with the bacon rashers.\u003Cbr\u003E\nBake for 30 minutes, then drain off the liquid that has accumulated, leaving just enough to prevent the tripe from sticking. Bake for a further 30 minutes, covering with foil if necessary.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tripe",
+      "relatedPageUrl": "ox-tripe.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Dressmaker Tripe",
+  "usedSnapshot": "20220527222554"
+}

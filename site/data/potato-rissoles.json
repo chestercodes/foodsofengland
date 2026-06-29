@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922092037",
+  "finalPath": "potato-rissoles.html",
+  "heading": "Potato Rissoles",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "egg",
+    "mashed potatoes",
+    "pepper",
+    "potato",
+    "potatoes",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-rissoles.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EENGLISH POTATO BALLS, OR CROQUETTES.\u003C/b\u003E\u003Cbr\u003E\nBoil some floury potatoes very dry, mash them as smoothly as possible, season them well with salt and white pepper, warm them with about an ounce of butter to the pound, or rather more if it will not render them too moist, and a few spoonsful of good cream. Boil them very dry; let them cool a little, roll them into balls, sprinkle over them vermicelli crushed slightly with the hand, and fry them a fine light brown. They may be dished round a shape of plain mashed potatoes, or piled on a napkin by themselves. They may likewise be rolled in egg and fine bread-crumbs instead of in the vermicelli, or in ground rice, which answers very well for them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Potato Balls or Potato Croquettes",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Potato Rissoles",
+  "usedSnapshot": "20211129122114"
+}

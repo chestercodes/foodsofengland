@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922085600",
+  "finalPath": "treacle-pudding.html",
+  "heading": "Treacle Pudding",
+  "ingredients": [
+    "allspice",
+    "butter",
+    "fat",
+    "flour",
+    "milk",
+    "pudding",
+    "salt",
+    "suet",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "treacle-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 44. A Treacle Pudding.\u003C/b\u003E\u003Cbr\u003E\nIngredients, two pounds of flour, twelve ounces of treacle, six ounces of suet or dripping fat, a quarter of an ounce of baking-powder, a pinch of allspice, a little salt, one pint of milk, or water. Mix the whole of the above-named ingredients in a pan, into a firm compact paste; tie it up in a well-greased and floured pudding-cloth; boil the pudding for at least two hours and a-half, and when done, cut it in slices, and pour a little sweetened \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Emelted butter\u003C/b\u003E\u003C/a\u003E over it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Treacle"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Treacle Pudding",
+  "usedSnapshot": "20200116035702"
+}

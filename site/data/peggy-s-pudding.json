@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922074451",
+  "finalPath": "peggy-s-pudding.html",
+  "heading": "Peggy\u0027s Pudding",
+  "ingredients": [
+    "brown sugar",
+    "cornflour",
+    "desiccated coconut",
+    "egg",
+    "egg white",
+    "milk",
+    "pudding",
+    "sugar",
+    "tapioca"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "peggy-s-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Peggy\u0027s%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPeggy\u0027s Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nserves 4\u003Cbr\u003E\n1 tablespoon desiccated coconut\u003Cbr\u003E\n1/2 pint fresh milk\u003Cbr\u003E\n21 fl oz water\u003Cbr\u003E\n4 oz sago or tapioca\u003Cbr\u003E\n1 egg white, whisked\u003Cbr\u003E\n1 level tablespoon cornflour\u003Cbr\u003E\n2 oz brown sugar\u003Cbr\u003E\n\u003Cbr\u003E\n1. Soak the coconut in \u00BD pint milk.\u003Cbr\u003E\n2. Gently simmer, the remaining milk and the water and the sago for 45 minutes until thick and creamy. Fold in the egg white. Pour into 4 ramekin dishes. Chill.\u003Cbr\u003E\n3. Blend coconut milk with cornflour and heat stirring until sauce thickens, boils and is smooth.\u003Cbr\u003E\n4. Melt the brown sugar and remaining water in a heavy based saucepan.\u003Cbr\u003E\n5. Turn the cold sago out of the mould and serve with coconut sauce and melted brown sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Peggy\u0027s Pudding",
+  "usedSnapshot": "20220527214934"
+}

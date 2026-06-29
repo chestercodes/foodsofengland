@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150416000325",
+  "finalPath": "pickled-samphire.html",
+  "heading": "Pickled Samphire",
+  "ingredients": [
+    "salt",
+    "vinegar",
+    "white-wine vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-samphire.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EAcetaria: A Discourse of Sallets\u003C/i\u003E\u0027 by John Evelyn (\u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E23. Sampier.\u003C/b\u003E Let it be gathered about Michaelmas (or the spring) and put two or three hours into a Brine of Water and salt; then into a clean Tin\u0027d Brass Pot, with three parts of strong White-Wine Vinegar, and one part of Water and salt, or as much as will cover the sampier, keeping the Vapour from issuing out, by pasting down the Pot-lid, and so hang it over the Fire for half an Hour only. Being taken off, let it remain covered till it be cold; and then put it up into small Barrels or Jars, with the Liquor, and some fresh Vinegar, Water and salt; and thus it will keep very green. If you be near the sea, that Water will supply the place of Brine. This is the Dover Receit.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-samphire.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PICKLED SAMPHIRE. Clear the branches of the samphire from the dead leaves, and lay them into a large jar, or small cask. Make a strong brine of white or bay salt, skim it clean while it is boiling, and when done let it cool. Take the samphire out of the water, and put it into a bottle with a broad mouth. Add some strong white-wine vinegar, and keep it well covered down.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gerard-1597"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Pickled Samphire",
+  "usedSnapshot": "20220517183958"
+}

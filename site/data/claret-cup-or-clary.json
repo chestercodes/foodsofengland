@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922080924",
+  "finalPath": "claret-cup-or-clary.html",
+  "heading": "Claret Cup or Clary",
+  "ingredients": [
+    "liqueur",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "claret-cup-or-clary.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECLARET-CUP.\u003C/b\u003E\u003Cbr\u003E\n1831. INGREDIENTS: 1 bottle of claret, 1 bottle of soda-water, about\u00BD lb. of pounded ice, 4 tablespoonfuls of powdered sugar, \u00BC teaspoonful of grated nutmeg, 1 liqueur-glass of Maraschino, a sprig of green borage.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put all the ingredients into a silver cup, regulating the proportion of ice by the state of the weather: if very warm, a larger quantity would be necessary. Hand the cup round with a clean napkin passed through one of the handles, that the edge of the cup may be wiped after each guest has partaken of the contents thereof.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in summer.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Badminton Cup",
+      "relatedPageUrl": "badminton-cup.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Claret Cup or Clary",
+  "usedSnapshot": "20211027040856"
+}

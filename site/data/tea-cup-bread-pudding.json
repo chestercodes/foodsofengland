@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922082359",
+  "finalPath": "tea-cup-bread-pudding.html",
+  "heading": "Tea-Cup Bread-pudding",
+  "ingredients": [
+    "beat",
+    "bread",
+    "egg",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tea-cup-bread-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 198. How to make a Tea-cup Bread-pudding.\u003C/b\u003E\u003Cbr\u003E\nBruise a piece of stale crumb of bread the size of an egg, in a basin, add four lumps of sugar and a very little grated nutmeg, pour half a gill of boiling milk upon these, stir all well together until the sugar is melted, then add an egg, beat up the whole thoroughly until well mixed; pour the mixture into a buttered tea-cup, tie it up in a small cloth as directed in the preceding, boil the pudding for twenty minutes, at least, and, as soon as done, turn it out on a plate. This, or any similar light kind of pudding, constitutes safe food for the most delicate.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Tea-Cup Bread-pudding",
+  "usedSnapshot": "20200116030239"
+}

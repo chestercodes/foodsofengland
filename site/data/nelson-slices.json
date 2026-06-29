@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922082659",
+  "finalPath": "nelson-slices.html",
+  "heading": "Nelson Slices",
+  "ingredients": [
+    "beat",
+    "bread",
+    "currants",
+    "demarara sugar",
+    "dried fruit",
+    "egg",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pastry",
+    "raisins",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "nelson-slices.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Nelson%20Slices\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENelson Slices\u003C/b\u003E\u003Cbr\u003E\n8 ozs white bread, crusts removed\u003Cbr\u003E\n1/2 pint milk\u003Cbr\u003E\n4 ozs currants, raisins\u003Cbr\u003E\n2 ozs mixed peel finely chopped\u003Cbr\u003E\n2 ozs suet\u003Cbr\u003E\n2 ozs demarara sugar\u003Cbr\u003E\n1 teaspoons mixed spice\u003Cbr\u003E\n1 egg beaten\u003Cbr\u003E\n1/2 teaspoon nutmeg\u003Cbr\u003E\nGrated rind of half a lemon\u003Cbr\u003E\n1 Tablespoon dark rum\u003Cbr\u003E\n\u003Cbr\u003E\nSoak bread in milk for about 12 an hour and beat out lumps\u003Cbr\u003E\nAdd dried fruit, peel, suet, sugar and spice\u003Cbr\u003E\nMix well add the egg and a little extra milk if required.\u003Cbr\u003E\nPut between 2 layers of pastry.\u003Cbr\u003E\nBake at 180C (350F) Mark 4, sprinkle with sugar before serving\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENelson Balls\u003C/b\u003E",
+      "relatedPageUrl": "nelson-balls.html",
+      "relationDescription": "For other dishes associated with Lord Nelson, see:"
+    }
+  ],
+  "synonym": "\u003Cb\u003ENelson Pudding\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Nelson Slices",
+  "usedSnapshot": "20211205164510"
+}

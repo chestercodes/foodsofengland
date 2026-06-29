@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20170314085855",
+  "finalPath": "melton-mowbray-game-pie.html",
+  "heading": "Melton Mowbray Game Pie",
+  "ingredients": [
+    "bacon",
+    "collops",
+    "fat",
+    "flour",
+    "gravy",
+    "mushroom",
+    "mushrooms",
+    "parsley",
+    "pepper",
+    "salt",
+    "shalot",
+    "truffle",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "melton-mowbray-game-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Guide\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1863\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 505.- LARK PIE A LA MELTON MOWBRAY\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCut about one pound of veal into small collops, fry them with an equal proportion of collops of fat bacon, and place them at the bottom of a pie-dish; fry two dozen larks from which the gizzard only has been removed, by picking it out from under with the point of a knife; season with chopped parsley, truffle, and shalot, pepper and salt, some mushroom catsup, button mushrooms, and a large tablespoonful of flour; moisten with half a pint of gravy or water, stir over the fire until it boils, and then add the w... to the collops of veal, \u0026amp;c., contained in the pie, cover with puff-paste, bake for an hour and a quarter and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Small Birds",
+      "relatedPageUrl": "small-waterfowl.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Melton Mowbray Game Pie",
+  "usedSnapshot": "20211129122457"
+}

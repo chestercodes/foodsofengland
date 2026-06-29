@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150310120416",
+  "finalPath": "pear-trifle.html",
+  "heading": "Pear Trifle",
+  "ingredients": [
+    "cream",
+    "custard",
+    "milk",
+    "pears",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pear-trifle.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 24 October 1936",
+      "receiptText": "\u003Cb\u003ECARAMEL PEAR TRIFLE.\u003C/b\u003E\u003Cbr\u003E\nOne pound of pears or one tin of pears, one Swiss roll one pint of milk for custard, one packet of custard powder, quarterpound of sugar, some cream. Peel and cut the pears lengthways. Core each half and stew the fruit gently in a little water, sweetening to taste. When cooked, strain and save the syrup. Cut the Swiss roll into rounds and place in a glass dish. Pour the pears over the pieces of roll until they are covered, then add the syrup. Prepare the custard but without adding sugar to it and leave cool. Then place the sugar in a small pan with one gill of water, and let it dissolve slowly. Gradually increase the heat until the sugar turns to caramel then add the custard. Pour the caramel custard over the pears and serve cold with cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pear Trifle",
+  "usedSnapshot": "20211027044012"
+}

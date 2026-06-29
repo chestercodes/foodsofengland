@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922080719",
+  "finalPath": "bean-and-bacon-soup.html",
+  "heading": "Bean and Bacon Soup",
+  "ingredients": [
+    "bacon",
+    "butter",
+    "butter beans",
+    "onion",
+    "parsley",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bean-and-bacon-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bean%20and%20Bacon%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBean and Bacon Soup\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003C/b\u003E\u003Cbr\u003E\n1 lb dried butter beans\u003Cbr\u003E\n1 lb bacon\u003Cbr\u003E\n1 large onion\u003Cbr\u003E\n3 pints water\u003Cbr\u003E\nParsley, thyme, bay\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bean and Bacon Soup",
+  "usedSnapshot": "20210518202805"
+}

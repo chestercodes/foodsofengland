@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922132840",
+  "finalPath": "lincoln-salad.html",
+  "heading": "Lincoln Salad",
+  "ingredients": [
+    "beef",
+    "beetroot",
+    "gherkin",
+    "lettuce",
+    "mayonnaise",
+    "olive oil",
+    "peas",
+    "pepper",
+    "rice",
+    "salt",
+    "vinegar",
+    "watercress"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lincoln-salad.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe National Mark Calendar of Cooking\u003C/i\u003E\u0027 Compiled by \u0027Ambrose Heath\u0027 (born Francis Geoffrey Miller) for The Ministry of Agriculture, 1936",
+      "receiptText": "\u003Cb\u003ELincoln Salad\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 crisp lettuce\u003Cbr\u003E\nwatercress\u003Cbr\u003E\n1 beetroot - a few thin slices for decoration, and the remainder diced\u003Cbr\u003E\n2 tbsp cooked rice\u003Cbr\u003E\n1 tbsp chopped gherkin\u003Cbr\u003E\n4 tbsp chopped, lean, cooked beef\u003Cbr\u003E\n4 tbsp peas\u003Cbr\u003E\n2 -3 tbsp mayonnaise or French dressing (2 parts olive oil, 1 part vinegar, salt and pepper)\u003Cbr\u003E\n\u003Cbr\u003E\nWash the lettuce and watercress well and tear into small pieces - reserving some whole leaves.\u003Cbr\u003E\nPut everything into a bowl and mix, adding the mayonnaise or French dressing.\u003Cbr\u003E\nArrange the whole lettuce leaves in a salad bowl, and pile the salad upon them, garnish with the sliced beetroot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lincoln Salad",
+  "usedSnapshot": "20170314210308"
+}

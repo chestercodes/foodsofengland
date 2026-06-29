@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808235002",
+  "finalPath": "dorset-dumplings.html",
+  "heading": "Dorset Dumplings",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dorset Dumplings",
+  "usedSnapshot": "20211129121905"
+}

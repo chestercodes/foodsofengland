@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922074004",
+  "finalPath": "beer-brown-sauce.html",
+  "heading": "Beer Brown Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Beer Brown Sauce",
+  "usedSnapshot": "20211021020825"
+}

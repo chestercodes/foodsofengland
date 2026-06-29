@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20140508120547",
+  "finalPath": "ginger-snap.html",
+  "heading": "Ginger Snap",
+  "ingredients": [
+    "flour",
+    "ginger",
+    "lard",
+    "molasses",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ginger-snap.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003E\u0027The Methodist Almanac\u0027\u003C/i\u003E of 1861 (USA)",
+      "receiptText": "\u003Cb\u003EGinger Snap\u003C/b\u003E - Two cups molasses, one cup lard, one teaspoonful salt, one tablespoonful of ginger, three teaspoonfuls soda. Let these ingredients come to a boil; then add flour until stiff enough to roll out lioll out very thin, aod bake in a quick oven\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Ginger Snap",
+  "usedSnapshot": "20210510040711"
+}

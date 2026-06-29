@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922091450",
+  "finalPath": "dandelions.html",
+  "heading": "Dandelions",
+  "ingredients": [
+    "butter",
+    "cream",
+    "flour",
+    "gravy",
+    "pepper",
+    "salt",
+    "spinach",
+    "sprouts",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "dandelions.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E22. Dandelion, Dens Leonis, Condrilla:\u003C/b\u003E Macerated in several Waters, to extract the bitterness; tho\u0027 somewhat opening, is very wholsome, and little inferior to succory, Endive, \u0026amp;c. The French Country-People eat the Roots; and \u0027twas with this homely sallet, the Good-Wife Hecate entertain\u0027d Theseus.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "dandelions.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO DRESS DANDELIONS LIKE SPINACH, OR AS A SALAD.\u003C/b\u003E\u003Cbr\u003E\n(Very wholesome.)\u003Cbr\u003E\nThis common weed of the fields and highways is an excellent vegetable, the young leaves forming an admirable adjunct to a salad, and much resembling endive when boiled and prepared in the same way, or in any of the modes directed for spinach. The slight bitterness of its flavour is to many persons very agreeable; and it is often served at well-appointed tables. It has also, we believe, the advantage of possessing valuable medicinal qualities. Take the roots before the blossom is at all advanced, if they can readily be found in that state; if not, pluck off and use the young leaves only. Wash them as clean as possible, and boil them tender in a large quantity of water salted as for sprouts or spinach. Drain them well, press them dry with a wooden spoon, and serve them quite plain with melted butter in a tureen; or, squeeze, chop, and heat them afresh, with a seasoning of salt and pepper, a morsel of butter rolled in flour, and a spoonful or two of gravy or cream. A very large portion of the leaves will be required for a dish, as they shrink exceedingly in the cooking. For a salad, take them very young and serve them entire, or break them quite small with the fingers; then wash and drain them. Dress them with oil and vinegar, or with any other sauce which may be preferred with them\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Dandelions",
+  "usedSnapshot": "20220527213900"
+}

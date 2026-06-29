@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130322201421",
+  "finalPath": "black-forest-gateau.html",
+  "heading": "Black Forest Gateau",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Black Forest Gateau",
+  "usedSnapshot": "20210512112741"
+}

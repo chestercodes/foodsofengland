@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130325124629",
+  "finalPath": "gloucestershire-pie.html",
+  "heading": "Gloucestershire Pie",
+  "ingredients": [
+    "butter",
+    "gravy",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "turnip"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucestershire-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDerby Daily Telegraph\u003C/i\u003E\u0027 - Saturday 8 February 1930",
+      "receiptText": "\u003Cb\u003EGloucestershire Pie\u003C/b\u003E\u003Cbr\u003E\nFrom Gloucester hails an excellent savoury dish known as Squab Pie. Take thick slices of cold meat, cut into squares, and place in a piedish, together with some good stock, pepper, and salt- Boil four medium-sized onions and lay on top of the meat. For the next layer peel, core and parboil three goodsized apples. Pile on top one boiled swede turnip, mashed with a sufficient quantity of potatoes and a little butter. Place in a slow oven until nicely browned, and serve with good gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Squab Pie",
+      "relatedPageUrl": "squab-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EGloucestershire Squab Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Gloucestershire Pie",
+  "usedSnapshot": "20211201035358"
+}

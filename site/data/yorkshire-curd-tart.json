@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20140212024916",
+  "finalPath": "yorkshire-curd-tart.html",
+  "heading": "Yorkshire Curd Tart",
+  "ingredients": [
+    "caster sugar",
+    "currants",
+    "egg",
+    "eggs",
+    "lemon",
+    "nutmeg",
+    "pastry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-curd-tart.html-1",
+      "receiptSource": "Original Receipt from Newcastle Evening Chronicle - Wednesday 10 January 1990",
+      "receiptText": "\u003Cb\u003EYORKSHIRE CURD TART\u003C/b\u003E\u003Cbr\u003E\n1/2 lb rich shortcrust pastry\u003Cbr\u003E\n1/2 lb curds\u003Cbr\u003E\n4oz caster sugar\u003Cbr\u003E\n2oz currants\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\nJuice and rind of one lemon\u003Cbr\u003E\nGrated nutmeg\u003Cbr\u003E\nRoll out the pastry on a floured board. Line 15-18 patty tins. Mix the curds with the sugar, currants, and beaten egg. Spoon into the patty eases and sprinkle with nutmeg. Bake in a moderate oven for 20-30 minutes until set and golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Charminster Curd Tart",
+      "relatedPageUrl": "charminster-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cheese Cake or Curd Tart",
+      "relatedPageUrl": "cheese-cake-or-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Curd Tart",
+      "relatedPageUrl": "curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sambocade",
+      "relatedPageUrl": "sambocade.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spiced Curd Tarts",
+      "relatedPageUrl": "spiced-curd-tarts.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Curd Tart or Cheesecake",
+      "relatedPageUrl": "yorkshire-curd-tart.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Yorkshire Curd Tart",
+  "usedSnapshot": "20210510052619"
+}

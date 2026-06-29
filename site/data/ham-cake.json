@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20130323195934",
+  "finalPath": "ham-cake.html",
+  "heading": "Ham Cake",
+  "ingredients": [
+    "beef",
+    "butter",
+    "fat",
+    "ham",
+    "pepper",
+    "veal",
+    "bread",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "ham-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EHAM CAKE. - E. R.\u003C/b\u003E\u003Cbr\u003E\nTake the remains of a ham that may be getting dry, pound it in a mortar very finely, with all the fat; season it with pepper and mixed spice: add to it clarified butter sufficient to make it moist, put it into a mould, and place it in an oven for about half an hour j it should be prepared the day before it is wanted: put the mould for a few minutes in warm water, in order that it may turn out properly. This may be made with equal quantities of cold beef pounded separately, and placed in layers in the mould, or put together in lumps to look like marble. Tongue may also be substituted for the ham, but it must be mixed with a larger quantity of butter in the pounding. If not wanted at the time, it may be potted with the veal, and covered with clarified butter. It will keep well in winter if properly seasoned.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "ham-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "73. HAM CAKE (Essex)\u003Cbr\u003E\nMince finely one and a half pounds of cooked ham; boil a sHce of bread in half a pint of milk, and mix this with the ham, beating them well together and binding them with a well-beaten\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Ham Cake",
+  "usedSnapshot": "20220819112008"
+}

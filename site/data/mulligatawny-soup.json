@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20131217022350",
+  "finalPath": "mulligatawny-soup.html",
+  "heading": "Mulligatawny Soup",
+  "ingredients": [
+    "allspice",
+    "black pepper",
+    "butter",
+    "curry",
+    "flour",
+    "ginger",
+    "onions",
+    "pepper",
+    "rabbits",
+    "salt",
+    "tea",
+    "veal",
+    "apple",
+    "carrot",
+    "cayenne",
+    "chutney",
+    "curry paste",
+    "garlic",
+    "lemon",
+    "lemon juice",
+    "onion",
+    "rice",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "mulligatawny-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ECurry, or Mullaga-tawny Soup (No. 249.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nCut four pounds of a breast of veal into pieces, about two inches by one; put the trimmings into a stew-pan with two quarts of water, with twelve corns of black pepper, and the same of allspice; when it boils, skim it clean, and let it boil an hour and a half, then strain it off; while it is boiling, fry of a nice brown in butter the bits of veal and four onions; when they are done, put the broth to them; put it on the fire; when it boils, skim it clean; let it simmer half an hour; then mix two spoonfuls of curry, and the same of flour, with a little cold water and a tea-spoonful of salt; add these to the soup, and simmer it gently till the veal is quite tender, and it is ready; or bone a couple of fowls or rabbits, and stew them in the manner directed above for the veal, and you may put in a bruised eschalot, and some mace and ginger, instead of black pepper and allspice.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mulligatawny-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E160. MULLIGATAWNY SOUP (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\nFry some onion and carrot in butter till they become a light brown, then add a small piece of apple, some sultanas, coconut, chutney, Harvey\u0027s sauce, a pinch of salt and pepper, a tablespoonful of curry powder, a little curry paste, and about a quarter of a pint of strong stock, and let simmer for about an hour.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E151. MULLIGATAWNY (Kent, 1809)\u003C/b\u003E\u003Cbr\u003E\nTake four onions sliced small and a head of garlic, fry them a light brown, then put them into a stewpan with the meat, which should befowl oranywhite meat. Three spoonfuls of curry powder and two of flour mixed together, likewise a spoonful of lemon juice and cayenne pepper to your taste. Pour over it a pint of boiling water and let it simmer slowly for a short time, then add a sufficient quantity of broth made without vegetables to make a tureen of Mulligatawny. The ingredients must then stew together an hour. To be served up with a dish of rice as for curry. Cold fowl will dress this way extremely well\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Emulagatoney, mullaghee-tanny, malaca-tawney, malachatauni, malagatany, malakatanni, mulkatany, mullagatawney, mullagatawny, mulligatawney, mullikatauny, mulligatawny, malagatawny\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Mulligatawny Soup",
+  "usedSnapshot": "20210926075431"
+}

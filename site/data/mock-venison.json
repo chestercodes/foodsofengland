@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922081408",
+  "finalPath": "mock-venison.html",
+  "heading": "Mock Venison",
+  "ingredients": [
+    "beat",
+    "beef",
+    "pepper",
+    "salt",
+    "suet",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mock-venison.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Take a pound of Beef, and slice it thin, and half a pint of good wine Vinegar, some three Cloves, and Mace above an ounce, three Nutmegs, pound them altogether, Pepper and Salt according to your direction, and a little Sugar, mix these together, take a pound and half of Suet, shred and beat it small in a morter, then lay a row of Suet, a row of Beef, strow your spices between every lain, then your Vinegar, so doe till you have laid in all, then make it up, but first beat it close with a rowling pin, then presse it a day before you put it in your past.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    }
+  ],
+  "title": "Mock Venison",
+  "usedSnapshot": "20211018084058"
+}

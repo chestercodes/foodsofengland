@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212023324",
+  "finalPath": "norfolk-dumplings.html",
+  "heading": "Norfolk Dumplings",
+  "ingredients": [
+    "butter",
+    "dumplings",
+    "eggs",
+    "flour",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Norfolk dumplings.\u003C/b\u003E\u003Cbr\u003E\nMIX a good thick batter, as for pancakes; take half a pint of milk, two eggs, a little salt, and make it into a batter with flour. Have ready a clean sauce-pan of water boiling, into which drop this batter. Be sure the water boils fast, and two or three minutes will boil them; then throw them into a sieve to drain the water away, then turn them into a dish and stir a lump of fresh butter into them; eat them hot, and they are very good.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Norfolk Dumplings",
+  "usedSnapshot": "20211201031416"
+}

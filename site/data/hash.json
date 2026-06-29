@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922074431",
+  "finalPath": "hash.html",
+  "heading": "Hash",
+  "ingredients": [
+    "ale",
+    "beef",
+    "bread",
+    "carrot",
+    "cayenne",
+    "fat",
+    "flour",
+    "gravy",
+    "herbs",
+    "ketchup",
+    "lemon",
+    "mashed potatoes",
+    "mushroom",
+    "onion",
+    "onions",
+    "orange",
+    "pepper",
+    "port wine",
+    "potatoes",
+    "ribs",
+    "salt",
+    "seville orange",
+    "toasted bread",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hash.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHASHED BEEF (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n\u003Cb\u003EI.\u003C/b\u003E\u003Cbr\u003E\n628. INGREDIENTS: Gravy saved from the meat, 1 teaspoonful of tomato sauce, 1 teaspoonful of Harvey\u0027s sauce, 1 teaspoonful of good mushroom ketchup,\u00BD glass of port wine or strong ale, pepper and salt to taste, a little flour to thicken, 1 onion finely minced, a few slices of cold roast beef.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put all the ingredients but the beef into a stewpan with whatever gravy may have been saved from the meat the day it was roasted; let these simmer gently for 10 minutes, then take the stewpan off the fire; let the gravy cool, and skim off the fat. Cut the beef into thin slices, dredge them with flour, and lay them in the gravy; let the whole simmer gently for 5 minutes, but not boil, or the meat will be tough and hard. Serve very hot, and garnish with sippets of toasted bread.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 20 minutes. \u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the cold meat, 4d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EII.\u003C/b\u003E\u003Cbr\u003E\n629. INGREDIENTS: The remains of ribs or sirloin of beef, 2 onions, 1 carrot, 1 bunch of savoury herbs, pepper and salt to taste,\u00BD blade of pounded mace, thickening of flour, rather more than 1 pint of water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Take off all the meat from the bones of ribs or sirloin of beef; remove the outside brown and gristle; place the meat on one side, and well stew the bones and pieces, with the above ingredients, for about 2 hours, till it becomes a strong gravy, and is reduced to rather more than\u00BD pint; strain this, thicken with a teaspoonful of flour, and let the gravy cool; skim off all the fat; lay in the meat, let it get hot through, but do not allow it to boil, and garnish with sippets of toasted bread. The gravy may be flavoured as in the preceding recipe.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: Rather more than 2 hours.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the cold meat, 2d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: Either of the above recipes may be served in walls of mashed potatoes browned; in which case the sippets should be omitted. Be careful that hashed meat does not boil, or it will become tough.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EHASHED WILD DUCK.\u003C/b\u003E\u003Cbr\u003E\n1020. INGREDIENTS: The remains of cold roast wild duck, 1 pint of good brown gravy, 2 tablespoonfuls of bread crumbs, 1 glass of claret, salt, cayenne, and mixed spices to taste; 1 tablespoonful of lemon or Seville orange-juice.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut the remains of the duck into neat joints, put them into a stewpan, with all the above ingredients; let them get gradually hot by the side of the fire, and occasionally stir the contents; when on the point of boiling, serve, and garnish the dish with sippets of toasted bread.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: About \u00BC hour.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from November to February.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Hash",
+  "usedSnapshot": "20200126104259"
+}

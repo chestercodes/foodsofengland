@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922072941",
+  "finalPath": "barley-sugar.html",
+  "heading": "Barley Sugar",
+  "ingredients": [
+    "barley",
+    "olives",
+    "sugar",
+    "butter"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "barley-sugar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E419. To make BARLEY-SUGAR.\u003C/b\u003E\u003Cbr\u003E\nBoil barley in water, strain it through a hair-sieve, then put the decoction into clarified sugar brought to a candy height, or the last degree of boiling, then take it off the fire, and let the boiling settle, then pour it upon a marble stone rubb\u0027d with the oil of olives, when it cools and begins to grow hard, cut it into pieces, and rub it into lengths as you please.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "barley-sugar.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 96. Barley Sugar,\u003C/b\u003E\u003Cbr\u003E\nTAKE a small stewpan, put some syrup into it and boil it till it comes to carimel; rub a little butter on a marble stone just to greese it that it may not stick; then take your saucepan by the handle and let the syrup run out of the spout along the stone in long sticks; twist it (while it is hot) at each end and let it stand till cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Barley Sugar",
+  "usedSnapshot": "20180924034139"
+}

@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922091950",
+  "finalPath": "oat-pudding-with-fruit.html",
+  "heading": "Oat Pudding with Fruit",
+  "ingredients": [
+    "beat",
+    "beef",
+    "currants",
+    "eggs",
+    "ginger",
+    "milk",
+    "nutmeg",
+    "oats",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "oatmeal",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "oat-pudding-with-fruit.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe English Art of Cookery\u003C/i\u003E\u0027 by Richard Briggs, 1788 (\u003Ca href=\u0022references.html#briggs-1788\u0022\u003E\u003Cb\u003EBriggs 1788\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Oat Pudding TAKE of oats decorticated one pound and new milk sufficient to cover it, six ounces of fine raisins stoned, the same quantity of currants clean washed and picked, a pound of beef-suet shred fine six new laid eggs beat fine a little nutmeg beaten ginger and salt and mix all well together, put it into a deep dish and bake it in a moderate oven two hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oat-pudding-with-fruit.html-2",
+      "receiptSource": "Original Receipt from an advertisement in the \u0027\u003Ci\u003EGrantham Journal\u003C/i\u003E\u0027 - Friday 14 February 1941",
+      "receiptText": "OAT PUDDING; 3 tablespoonfuls of Oats. I pint of Milk. ozs. Sugar. 2 ozs. Sultanas. A little Nutmeg. Heat the milk and stir in the rest of the ingredients. Cook for a few momenta! turn into greased dish. Bake for three quarters an hour. This is but one of about oatmeal recipes which you trill hear about at the\u003Cbr\u003E\nELECTRICITY SERVICE CENTRE COOKERY DEMONSTRATIONS.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "briggs-1788"
+    }
+  ],
+  "title": "Oat Pudding with Fruit",
+  "usedSnapshot": "20220516223058"
+}

@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922074619",
+  "finalPath": "game-sauce.html",
+  "heading": "Game Sauce",
+  "ingredients": [
+    "butter",
+    "celery",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "game-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "GAME SAUCE. Wash and pare a head of celery, cut it into thin slices, boil it gently till it becomes tender; then add a little beaten mace, pepper, salt, and nutmeg. Thicken it with flour and butter, boil it up, pour some of it in the dish, and some in a boat. Lemon pickle or lemon juice may be added to it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Game Sauce",
+  "usedSnapshot": "20220819113152"
+}

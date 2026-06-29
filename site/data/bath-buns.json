@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20150601085341",
+  "finalPath": "bath-buns.html",
+  "heading": "Bath Buns",
+  "ingredients": [
+    "eggs",
+    "flour",
+    "nutmeg",
+    "orange",
+    "salt",
+    "yeast",
+    "ale",
+    "ale yeast",
+    "butter",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bath-buns.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBATH BUNS.\u003C/b\u003E\u003Cbr\u003E\nKnead well together four pounds of sifted flour, a pint of yeast, a little orange flower water, three eggs beaten, a little grated nutmeg, some salt,\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bath-buns.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003EA modern system of domestic cookery\u003C/i\u003E, By M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EExcellent Bath Buns.\u003C/b\u003E Take two pounds of fine flour, a pint of ale yeast, with a glass of mountain wine and a little orange-flower water, and three beaten eggs; knead the whole together with some warm cream, a little nutmeg, and a very little salt. Lay it before the fire till it rises very light; and then knead in a pound of fresh butter, and a pound of large round caraway or Scotch comfits. Make them up in the usual form of buns, or any other shape or size, and bake them on floured papers, in a quick oven. These buns are truly excellent; and, by leaving out the comfits, and substituting milk for the cream, and mountain wine, \u0026amp;c a very good, cheap, and common bun may be easily made,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBath Cakes\u003C/b\u003E",
+      "relatedPageUrl": "bathcakes(2).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESally Lunn Buns\u003C/b\u003E",
+      "relatedPageUrl": "sally-lunn.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMarlborough Buns\u003C/b\u003E",
+      "relatedPageUrl": "marlborough-buns.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cleland-1755"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Bath Buns",
+  "usedSnapshot": "20220516214359"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20201231171758",
+  "finalPath": "prawn-cocktail.html",
+  "heading": "Prawn Cocktail",
+  "ingredients": [
+    "cayenne",
+    "cream",
+    "ketchup",
+    "lemon",
+    "lemon juice",
+    "lettuce",
+    "pepper",
+    "prawns",
+    "shrimps",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prawn-cocktail.html-1",
+      "receiptSource": "Original Receipt from Daily Mirror - Monday 06 July 1936",
+      "receiptText": "\u003Cb\u003EHOUSEWIFE\u0027S CORNER\u003C/b\u003E\u003Cbr\u003E\nPRAWNS and shrimps are ideal for salads and sauces, and are also popular in a selection of hors d\u0027oeuvres varies. My favourite way is to serve them in a cocktail to take the place of soup or fish as a first course.\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022prawncock.JPG\u0022\u003E\u003Cimg src=\u0022500-prawncock.JPG\u0022 width=\u0022392\u0022 height=\u0022306\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\nPRAWN COCKTAIL For four persons allow: Half lettuce, A pint prawns, pint cream. seasoning, Cayenne pepper, a little tomato ketchup, a squeeze of lemon juice. Method.-Shred the prepared lettuce finely and arrange it in the bottom of four large goblets or coupe-jacques glasses. Whisk the cream until it is thick, but not stiff. Stir in the shelled prawns, seasoning, lemon juice and tomato ketchup to taste. Pile this mixture on the lettuce, stick a prawn\u0027s head on top for decoration and serve immediately. The flavour of this cocktail is much improved if the ingredients are well chilled in a refrigerator before it is made.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Prawn Cocktail",
+  "usedSnapshot": "20210127073726"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20170314144155",
+  "finalPath": "pokerounce.html",
+  "heading": "Pokerounce",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "ginger",
+    "ham",
+    "honey",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pokerounce.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Pokerounce - Take Hony, \u0026 caste it in a potte tyl it wexe chargeaunt y-now; take \u0026 skeme it clene. Take Gyngere, Canel, \u0026 Galyngale, \u0026 caste \u00FEer-to; take whyte Brede, \u0026 kytte to trenchours, \u0026 toste ham; take \u00FEin paste whyle it is hot, \u0026 sprede it vppe - on \u00FEin trenchourys with a spone, \u0026 plante it with Pynes, \u0026 serue forth.\u003Cbr\u003E\n\u003Cbr\u003E\n[Pokerounce - Take honey, cook it in a pot until it is thick. Skim it clean and add ginger, cinnamon and galangal. Take white bread and cut it thick and toast it, take the paste hot and spread it on with a spoon and put pine-kernels on it and serve it.]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Pokerounce",
+  "usedSnapshot": "20211205173359"
+}

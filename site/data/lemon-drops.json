@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130323042511",
+  "finalPath": "lemon-drops.html",
+  "heading": "Lemon Drops",
+  "ingredients": [
+    "beat",
+    "eggs",
+    "lemon",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lemon-drops.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E322. To make LEMON DROPS.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of loaf sugar, beat and sift it very fine, grate the rind of a lemon and put into your sugar; take the whites of three eggs and wisk them to a froth, squeeze in some lemon to your taste, beat them for half an hour, and drop them on white paper; be sure you let the paper be very dry, and sift a little fine sugar on the paper before you drop them. If you would have them yellow, take a pennyworth of gumbouge, steep it in some rose-water, mix to it some whites of eggs and a little sugar, so drop them, and bake them in a slow oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Lemon Drops",
+  "usedSnapshot": "20211020231627"
+}

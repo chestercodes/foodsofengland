@@ -1,0 +1,141 @@
+﻿{
+  "earliestSnapshot": "20141209165131",
+  "finalPath": "toast.html",
+  "heading": "Toast",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Anchovy Toast",
+      "relatedPageUrl": "anchovy-toast.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cheese on Toast",
+      "relatedPageUrl": "cheese-on-toast.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Colchester Oysters",
+      "relatedPageUrl": "colchester-oysters.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Eggy Bread",
+      "relatedPageUrl": "eggy-bread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "French Toast",
+      "relatedPageUrl": "frenchtoast(1).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Lincolnshire Boiled Sausages",
+      "relatedPageUrl": "lincolnshire-boiled-sausages.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Magdalen College Butter",
+      "relatedPageUrl": "magdalen-college-butter.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Marrow Toast",
+      "relatedPageUrl": "marrow-toast.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Muffins",
+      "relatedPageUrl": "muffins.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Rarebit (or Rabbit)",
+      "relatedPageUrl": "rarebit(orrabbit).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Scrambled Eggs on Toast",
+      "relatedPageUrl": "scrambled-eggs-on-toast.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shrimp Toast",
+      "relatedPageUrl": "shrimp-toast.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Soup Dorye",
+      "relatedPageUrl": "soup-dorye.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Taunton Toast",
+      "relatedPageUrl": "taunton-toast.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toast Curry",
+      "relatedPageUrl": "toast-curry.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toast Sandwiches",
+      "relatedPageUrl": "toast-sandwiches.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toast Soldiers",
+      "relatedPageUrl": "toast-soldiers.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toast Water",
+      "relatedPageUrl": "toast-water.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPoor Knights\u003C/b\u003E",
+      "relatedPageUrl": "poor-knights-of-windsor.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFrench Toast\u003C/b\u003E",
+      "relatedPageUrl": "frenchtoast(1).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMeselade\u003C/b\u003E",
+      "relatedPageUrl": "meselade.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPamperdy\u003C/b\u003E",
+      "relatedPageUrl": "pamperdy.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Toast",
+  "usedSnapshot": "20211019183420"
+}

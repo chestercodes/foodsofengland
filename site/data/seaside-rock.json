@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922085036",
+  "finalPath": "seaside-rock.html",
+  "heading": "Seaside Rock",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Brighton Rock",
+      "relatedPageUrl": "brighton-rock.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Seaside Rock",
+  "usedSnapshot": "20220505081025"
+}

@@ -1,0 +1,89 @@
+﻿{
+  "earliestSnapshot": "20140907144049",
+  "finalPath": "salmagundi.html",
+  "heading": "Salmagundi",
+  "ingredients": [
+    "anchovies",
+    "barberries",
+    "beat",
+    "chicken",
+    "chives",
+    "eggs",
+    "orange",
+    "pickles",
+    "spinage",
+    "veal",
+    "vinegar",
+    "butter",
+    "cabbage",
+    "onion",
+    "parsley",
+    "ham",
+    "lemon",
+    "anchovy",
+    "apple",
+    "beetroot",
+    "egg"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "salmagundi.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022england-s-newest-way-in-all-sorts-of-cookery-1708.html\u0022\u003E\u003Cb\u003EEngland\u0027s newest way in all sorts of cookery, 1708\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EA Salamongundy.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake Chicken or Veal minced very fine then lay a Layer of it, and a Layer of the Yolks of hard Eggs, and a Layer of the Whites a Layer of Anchovies, a Layer of Limon; then a Layer of all \u017Forts of Pickles, or as many as you have and between every one of these, lay a Layer of Sorrel, Spinage and Chives Hired very fine, as the others\u0026nbsp;\u0026nbsp;\u0026nbsp;and when you have laid your Di\u017Fh all round, that it\u2019s full, only leave a place a top to \u017Fet an Orange or Limon: Garni\u017Fh with Hor\u017Feradilh, Limon and Barberries. This is proper for a \u017Fecond Cour\u017Fe Side-di\u017Fh, or a Middle-di\u017Fh, for Supper: You mu\u017Ft take two Di\u017Fhes and lay the uppermo\u017Ft Di\u017Fh to build the Salamongundy on, it being out of fa\u017Fhion to mix it all together, but every one mixes it on their Plates, \u017Fome like it with the Juice of Limon, and \u017Fome with Oil and Vinegar beat up thick together.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "salmagundi.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe lady\u0027s assistant for regulating and supplying her table\u003C/i\u003E\u0027 by Charlotte Mason (\u003Ca href=\u0022references.html#mason-1777\u0022\u003E\u003Cb\u003EMason 1777\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESalmagundi,\u003C/b\u003E\u003Cbr\u003E\nCHOP separately the white part of a roasted chicken or some roasted veal, the yolks of four of five eggs boiled hard, the whites whites of the same, a large handful of parsley, a herring, anchovies, some beet-root, some red cabbage: put a saucer or a china bason into a round dish, or a smaller dish into a long one, bottom upwards; lay all these ingredients in rows, according to the taste, making them broad at bottom, and in a point at the top; or they may be laid round in rows; put butter at the top; or butter worked into what form is liked: pickles round, with a little chopped onion or eschalot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "salmagundi.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESALMAGUNDY.\u003C/b\u003E\u003Cbr\u003E\nChop small and separately lean of boiled ham, breast of dressed fowl; picked anchovie, parsley, omlets of .eggs white and yellow (the same kind as for garnishing), eschalots, a small quantity of pickled cucumbers, capers, and beet root. Then rub a saucer over with fresh butter, put it in the center of a dish, and make it secure from moving. Place round it in partitions the different articles separately till the saucer is covered, and put on the rim of the dish some slices of lemon.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "salmagundi.html-4",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Small side-dishes for supper etc,\u003Cbr\u003E\nBoil eggs hard, cut them in half, take out the yolks, set the whites. on a dish, and fill with the following several ingredients; or put a saucer up-side down on a plate, and place them in quarters round: in either case as a salmagundi. Chopped veal, yolk of egg, beetroot, anchovy, apple, onion, ham, and parsley. A very small bit of the white of the egg must be cut off, to make it stand on the dish as a cup.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-1777"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Salmagundi",
+  "usedSnapshot": "20220527061140"
+}

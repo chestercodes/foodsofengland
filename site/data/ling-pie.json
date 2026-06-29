@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20140616082234",
+  "finalPath": "ling-pie.html",
+  "heading": "Ling Pie",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "ginger",
+    "muscles",
+    "nutmeg",
+    "orange",
+    "oysters",
+    "shrimps",
+    "white wine",
+    "bacon",
+    "egg",
+    "flour",
+    "milk",
+    "onion",
+    "onions",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "puff pastry",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "ling-pie.html-1",
+      "receiptSource": "Original Receipt from Hannah Wooley\u0027s \u0027The Queen-like Closet\u0027 (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E135. To make Pasty of a Joll of Ling.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMake your Crust with fine Flower, Butter, cold Cream, and two yolks of Eggs:\u003Cbr\u003E\nRoul it thin and lay it in your Bake-pan, then take part of a Joll of Ling well boiled, and pull it all in Bits, then lay some Butter into your Pasty and then the Ling, then some grated Nutmeg, sliced Ginger, Cloves and Mace, Oysters, Muscles, Cockles, and Shrimps, the yolks of raw Eggs, a few Comfits perfumed, Candied Orange Pill, Citron Pill, and Limon Pill, with \u003Ca href=\u0022eringo.html\u0022\u003E\u003Cb\u003EEringo Roots\u003C/b\u003E\u003C/a\u003E:\u003Cbr\u003E\nThen put in white Wine, and good store of Butter, and put on a thick lid, when it is baked, open it, and let out the steam.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "ling-pie.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.yorkguides.co.uk\u0022\u003E\u003Cb\u003Ewww.yorkguides.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHow to Make Ling Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFor 4 people, you will need:\u003Cbr\u003E\n1 lb (450 g) ling\u003Cbr\u003E\n1 oz (25 g) plain flour\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n4 oz (100 g) bacon\u003Cbr\u003E\n2 hardboiled eggs\u003Cbr\u003E\n1 small onion\u003Cbr\u003E\n\u00BD pint (300 ml/l \u00BC cups) milk\u003Cbr\u003E\n12 oz (350 g) puff pastry\u003Cbr\u003E\n\u003Cbr\u003E\nCut the ling into four pieces.\u003Cbr\u003E\nGive it a coating of flour and season with salt and pepper.\u003Cbr\u003E\nPlace in buttered ovenproof dish.\u003Cbr\u003E\nChop the bacon and slice the eggs and onions and add these to the dish.\u003Cbr\u003E\nPour over the milk.\u003Cbr\u003E\nRoll out the pastry to make a lid.\u003Cbr\u003E\nBrush with milk or beaten egg to glaze.\u003Cbr\u003E\nBake in a hot oven (425\u00B0F/220\u00B0C\u0026nbsp;\u0026nbsp;\u0026nbsp;Gas Mark 7) for 10 minutes, then reduce the temperature (350\u00B0F/180\u00B0C\u0026nbsp;\u0026nbsp;\u0026nbsp;Gas Mark 4) and cook for a further 20 minutes, until the pastry is well risen and golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Ling Pie",
+  "usedSnapshot": "20210518200812"
+}

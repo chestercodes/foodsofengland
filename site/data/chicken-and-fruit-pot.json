@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808235150",
+  "finalPath": "chicken-and-fruit-pot.html",
+  "heading": "Chicken and Fruit Pot",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chicken and Fruit Pot",
+  "usedSnapshot": "20211027025154"
+}

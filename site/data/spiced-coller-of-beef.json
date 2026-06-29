@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130323200046",
+  "finalPath": "spiced-coller-of-beef.html",
+  "heading": "Spiced Coller of Beef",
+  "ingredients": [
+    "beef",
+    "pepper",
+    "rosemary",
+    "salt",
+    "tyme",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spiced-coller-of-beef.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Coller of Beef.\u003C/b\u003E\u003Cbr\u003E\nTake the thinnest end of a coast of beef, boyl it and lay it in Pump-water, and a little salt, three dayes shifting it once every day, and the last day put a pint of Claret Wine to it, and when you take it out of the water, let it lye two or three hours a drayning, then cut it almost to the end in three slices, then bruise a little Cochinell and a very little Allum, and mingle it with the Claret-wine, and colour the meat all over with it, then take a dozen of Anchoves, wash them and bone them, and lay them into the Beef, and season it with Cloves, Mace, and Pepper, and two handfuls of salt, and a little sweet Marjoram and Tyme, and when you make it up, roul the innermost slice first, and the other two upon it, being very wel seasoned every where, and bind it hard with Tape, then put it into a stone-pot, something bigger then the Coller, and pour upon it a pint of Claret-wine, and halfe a pint of wine-vinegar, a sprig of Rosemary, and a few Bay-leave and bake it very well; before it is quite cold, take it out of the Pot, and you may keep it dry as long as you please.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Spiced Coller of Beef",
+  "usedSnapshot": "20220815155809"
+}

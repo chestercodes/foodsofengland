@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922085130",
+  "finalPath": "english-onion-soup.html",
+  "heading": "English Onion Soup",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "bread",
+    "butter",
+    "flour",
+    "gravy",
+    "milk",
+    "onion",
+    "onions",
+    "spinage",
+    "veal",
+    "cream",
+    "pepper",
+    "rice",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "english-onion-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E5. To make ONION SOOP.\u003C/b\u003E\u003Cbr\u003E\nTake four or five large onions, pill and boil them in milk and water whilst tender, (shifting them two or three times in the boiling) beat \u0027em in a marble mortar to a pulp, and rub them thro\u0027 a hair-sieve, and put them into a little sweet gravy; then fry a few slices of veal, and two or three slices of lean bacon; beat them in a marble mortar as small as forc\u0027d-meat; put it into your stew-pan with the gravy and onions, and boil them; mix a spoonful of wheat-flour with a little water, and put it into the soop to keep it from running; strain all through a cullender, season it to your taste; then put into the dish a little spinage stew\u0027d in butter, and a little crisp bread; so serve it up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "english-onion-soup.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EONION SOUP.\u003C/b\u003E\u003Cbr\u003E\n138. INGREDIENTS: 6 large onions, 2 oz. of butter, salt and pepper to taste, 1/4 pint of cream, 1 quart of stock No. 105.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Chop the onions, put them in the butter, stir them occasionally, but do not let them brown. When tender, put the stock to them, and season; strain the soup, and add the boiling cream.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour. \u003Ci\u003EAverage cost\u003C/i\u003E: 1s. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in winter.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 4 persons.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECHEAP ONION SOUP.\u003C/b\u003E\u003Cbr\u003E\n139. INGREDIENTS: 8 middling-sized onions, 3 oz. of butter, a tablespoonful of rice-flour, salt and pepper to taste, 1 teaspoonful of powdered sugar, thickening of butter and flour, 2 quarts of water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut the onions small, put them in the stewpan with the butter, and fry them well; mix the rice-flour smoothly with the water, add the onions, seasoning, and sugar, and simmer till tender. Thicken with butter and flour, and serve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 2 hours. \u003Ci\u003EAverage cost\u003C/i\u003E: 4d. per quart.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in winter.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 8 persons.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "English Onion Soup",
+  "usedSnapshot": "20220808013121"
+}

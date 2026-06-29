@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922071505",
+  "finalPath": "melandra-loaf.html",
+  "heading": "Melandra Loaf",
+  "ingredients": [
+    "apricot",
+    "bread",
+    "cherries",
+    "currants",
+    "dates",
+    "flour",
+    "glace cherries",
+    "lard",
+    "milk",
+    "nuts",
+    "orange",
+    "plain flour",
+    "salt",
+    "sugar",
+    "walnuts",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "melandra-loaf.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.peakdistrictonline.co.uk\u0022\u003E\u003Cb\u003Ehttp://www.peakdistrictonline.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Melandra Loaf\u003Cbr\u003E\n\u003Cbr\u003E\nThe recipe is dedicated to the Roman Fort at Glossop\u003Cbr\u003E\n\u003Cbr\u003E\n600g (1 \u00BC lbs) plain flour\u003Cbr\u003E\n25g (1/2 oz) fresh yeast\u003Cbr\u003E\n\u00BD tsp sugar\u003Cbr\u003E\n50g (2oz) lard\u003Cbr\u003E\n\u00BD tsp salt\u003Cbr\u003E\n210ml (7fl oz) milk\u003Cbr\u003E\n50g (2oz) currants\u003Cbr\u003E\n100g (4oz) tinned pineapple - drained\u003Cbr\u003E\n100g (4oz) glace cherries\u003Cbr\u003E\n100g (4oz) dates\u003Cbr\u003E\n100g (4oz) walnuts\u003Cbr\u003E\n\u003Cbr\u003E\nMake a dough using the flour, yeast, lard, sugar and milk. Leave for 5 minutes to rest. Turn out onto a floured board and knead well. Add the fruit and nuts. Leave again for 15minutes to rise. Place the mixture into a well greased 2lb loaf tin and stand for 1 \u00BD hours in a warm place. Brush with apricot glaze and then bake at 400 degrees F/200 degrees C at the top of the oven for 1-1/4 hours, lowering the heat for the last \u00BC hour. Coat with orange icing when cold.\u003Cbr\u003E\n\u003Cbr\u003E\nThis recipe can be adapted to use dried yeast and a bread-making machine if preferred\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Melandra Loaf",
+  "usedSnapshot": "20211019174156"
+}

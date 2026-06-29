@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922100553",
+  "finalPath": "belvoir-crumpets.html",
+  "heading": "Belvoir Crumpets",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "natural yoghurt",
+    "nuts",
+    "olives",
+    "parsley",
+    "toast",
+    "walnut",
+    "walnuts"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "belvoir-crumpets.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Belvoir%20Crumpets\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBelvoir Crumpets\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 oz Stilton cheese, crumbled\u003Cbr\u003E\n1 oz Butter, softened\u003Cbr\u003E\n1 Tablespoon Port\u003Cbr\u003E\n1 Tablespoon Natural yoghurt\u003Cbr\u003E\n1 oz Mixed nuts, chopped\u003Cbr\u003E\n8 Crumpets\u003Cbr\u003E\n8 Walnut halves, to garnish\u003Cbr\u003E\nStuffed olives, to garnish\u003Cbr\u003E\nFresh parsley, chopped, to garnish\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nCombine the cheese and butter.\u003Cbr\u003E\nStir in the port, yogurt and the nuts.\u003Cbr\u003E\nToast one side of each crumpet.\u003Cbr\u003E\nSpread the cheese mixture onto the untoasted side of the crumpets and grill until bubbling.\u003Cbr\u003E\nGarnish with walnuts, olives and parsley and serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Belvoir Crumpets",
+  "usedSnapshot": "20220809194103"
+}

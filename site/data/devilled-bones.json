@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922075023",
+  "finalPath": "devilled-bones.html",
+  "heading": "Devilled Bones",
+  "ingredients": [
+    "cayenne",
+    "ketchup",
+    "mushroom",
+    "mustard",
+    "pepper",
+    "poultry",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devilled-bones.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E442. Devilled Bones.-\u003C/b\u003E Take the bones of any remaining joint or poultry, which has still some meat on, which cut across slightly, and then make a mixture of mustard, salt, cayenne, and pepper, and one teaspoonful of mushroom ketchup to two of mustard; rub the bones well with this, and broil rather brownish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Devilled Bones",
+  "usedSnapshot": "20220125052430"
+}

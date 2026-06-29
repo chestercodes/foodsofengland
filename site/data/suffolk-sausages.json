@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140125041342",
+  "finalPath": "suffolk-sausages.html",
+  "heading": "Suffolk Sausages",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENewmarket Sausages\u003C/b\u003E",
+      "relatedPageUrl": "newmarket-sausages.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Suffolk Sausages",
+  "usedSnapshot": "20210518193423"
+}

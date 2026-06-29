@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073836",
+  "finalPath": "lent-potatoes.html",
+  "heading": "Lent Potatoes",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "biscuits",
+    "butter",
+    "eggs",
+    "flour",
+    "lard",
+    "orange",
+    "potatoes",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lent-potatoes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "LENT POTATOES. Beat three or four ounces of almonds, and three or four bitter ones when blanched, putting a little orange flower water to prevent oiling. Add eight ounces of butter, four eggs well beaten and strained, half a glass of raisin wine, and sugar to taste. Beat all together till quite smooth, and grate in three Savoy biscuits. Make balls of the above with a little flour, the size of a chesnut; throw them into a stewpan of boiling lard, and boil them of a beautiful yellow brown. Drain them on a sieve, and serve with sweet sauce in a boat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Lent Potatoes",
+  "usedSnapshot": "20220819102749"
+}

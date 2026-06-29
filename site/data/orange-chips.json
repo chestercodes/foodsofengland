@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20210308040448",
+  "finalPath": "orange-chips.html",
+  "heading": "Orange Chips",
+  "ingredients": [
+    "baking powder",
+    "black pepper",
+    "fat",
+    "flour",
+    "garlic",
+    "milk",
+    "orange",
+    "paprika",
+    "pepper",
+    "plain flour",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "orange-chips.html-1",
+      "receiptSource": "Original Receipt from Birmingham Mail, 2 MAY 2020",
+      "receiptText": "To make it orange chips from home you will need:\u003Cbr\u003E\n\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; A deep fat fryer\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Your cooking oil of choice\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Four large potatoes\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD tsp salt\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD tsp black pepper\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD tsp garlic powder\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD tsp paprika\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 cup plain flour\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 tsp baking powder\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD cup milk\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BD cup water\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Orange food colouring\u003Cbr\u003E\n\u003Cbr\u003E\nWhat do you do?\u003Cbr\u003E\nFirstly chop peel and wash your potatoes then chop them up to form the chips.\u003Cbr\u003E\nNext, make your batter. Combine the dry ingredients above in a mixing bowl. Slowly add the wet ingredients making sure you whisk as you pour to form a smooth mixture. Add a few drops of the orange food colouring.\u003Cbr\u003E\nThen coat your chopped potatoes in flour then dip them in the batter mixture.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBlack-Country Chips\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Orange Chips",
+  "usedSnapshot": "20220306131147"
+}

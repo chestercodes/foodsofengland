@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922081418",
+  "finalPath": "poor-knights-of-windsor.html",
+  "heading": "Poor Knights of Windsor",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "rosewater",
+    "sugar",
+    "custard",
+    "milk",
+    "nutmeg",
+    "pudding"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "poor-knights-of-windsor.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make poore knights.\u003C/b\u003E\u003Cbr\u003E\nCut two penny loaves in round slices, dip them in half a pint of Cream or faire water, then lay them abroad in a dish, and beat three Eggs and grated Nutmegs and sugar, beat them with the Cream then melt some butter in a frying pan, and wet the sides of the toasts and lay them in on the wet side, then pour in the rest upon them, and so fry them, serve them in with Rosewater, sugar and butter.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "poor-knights-of-windsor.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EPoor Knight\u0027s Pudding.\u003C/b\u003E\u003Cbr\u003E\n882. Cut a roll into thin slices with the crust on it, mix up two eggs with a pint of milk; sugar and nutmeg to the taste. Let the slices soak in this custard for an hour, then pour off, and drain another hour; fry them till they are of a nice brown, and serve with wine sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFrench Toast\u003C/b\u003E",
+      "relatedPageUrl": "frenchtoast(1).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMeselade\u003C/b\u003E",
+      "relatedPageUrl": "meselade.html",
+      "relationDescription": "For an ancient version, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPamperdy\u003C/b\u003E",
+      "relatedPageUrl": "pamperdy.html",
+      "relationDescription": "For an ancient version, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Poor Knights of Windsor",
+  "usedSnapshot": "20210510054019"
+}

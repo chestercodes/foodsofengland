@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212021314",
+  "finalPath": "chorley-cakes.html",
+  "heading": "Chorley Cakes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chorley Cakes",
+  "usedSnapshot": "20220113231917"
+}

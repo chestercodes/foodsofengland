@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140616080625",
+  "finalPath": "cheshire-cheese.html",
+  "heading": "Cheshire Cheese",
+  "ingredients": [
+    "butter",
+    "carrots",
+    "cheese",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheshire-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CHESHIRE CHEESE. In preparing this article, the evening\u0027s milk is not touched till the next morning, when the cream is taken off and warmed in a pan, heated with boiling water; one third part of the milk is heated in a similar manner. The cows being milked early in the morning, the new milk, and that of the preceding night thus prepared, are poured into a large tub along with the cream. A piece of rennet kept in lukewarm water since the preceding evening, is put into the tub in order to curdle the milk, and the curd is coloured by an infusion of marigolds or carrots being rubbed into it. It is then stirred together, covered up warm, and allowed to stand about half an hour till it is coagulated; when it is first turned over with a bowl to separate the whey from the curds, and broken soon after into small pieces. When it has stood some time, the whey is taken out, and a weight laid at the bottom of the tub to press out the remainder. As soon as it becomes more solid, it is cut into slices, and turned over several times to extract all the whey, and again pressed with weights. Being taken out of the tub, it is broken very small, salted, and put into a cheese vat. It is then strongly pressed and weighted, and wooden skewers are placed round the cheese, which are frequently drawn out. It is then shifted out of the vat with a cloth placed at the bottom; and being turned it is put into the vat again. The upper part is next broken by the hand down to the middle, salted, pressed, weighted, and skewered as before, till all the whey is extracted. The cheese is then reversed into another vat, likewise warmed with a cloth under it, and a tin hoop put round the upper part of the cheese. These operations take up the greater part of the forenoon; the pressing of the cheese requires about eight hours more, as it must be twice turned in the vat, round which thin wire skewers are passed, and shifted occasionally. The next morning it ought to be turned and pressed again; and on the following day the outside is salted, and a cloth binder tied round it. The outsides are sometimes rubbed with butter, in order to give them a coat; and being turned and cleaned every day, they are left to dry two or three weeks.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Cheshire Cheese",
+  "usedSnapshot": "20220517163812"
+}

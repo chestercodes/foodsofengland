@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130325124645",
+  "finalPath": "minted-lamb.html",
+  "heading": "Minted Lamb",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Minted Lamb",
+  "usedSnapshot": "20211201004432"
+}

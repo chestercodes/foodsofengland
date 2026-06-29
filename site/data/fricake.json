@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922093653",
+  "finalPath": "fricake.html",
+  "heading": "Fricake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "chicken",
+    "chickens",
+    "eggs",
+    "onions",
+    "pepper",
+    "salt",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fricake.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Fricake.\u003C/b\u003E\u003Cbr\u003E\nTake three Chickens, and pull off the skins, and cut them into little pieces then put them into water with two or three Onions, and a bunch of Parsly, and when it hath stewed a little, put in some Salt and Pepper, and a pint of white wine, so let them stew till they be enough, then take some Verjuyce, and Nutmegs, and three or foure yolks of Eggs, beat them well together, and when you take off the Chicken, put them into a Frying-Pan altogether with some butter, scald it well over the fire and serve it in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Fricake",
+  "usedSnapshot": "20220819120421"
+}

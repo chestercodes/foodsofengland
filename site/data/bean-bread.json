@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508110315",
+  "finalPath": "bean-bread.html",
+  "heading": "Bean Bread",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "bread",
+    "egg",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bean-bread.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BEAN BREAD. Blanch half a pound of almonds, and put them into water to preserve their colour. Cut the almonds edgeways, wipe them dry, and sprinkle over them half a pound of fine loaf sugar pounded and sifted. Beat up the white of an egg with two spoonfuls of orange-flower water, moisten the almonds with the froth, lay them lightly on wafer paper, and bake them on tins.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Bean Bread",
+  "usedSnapshot": "20211018083453"
+}

@@ -1,0 +1,84 @@
+﻿{
+  "earliestSnapshot": "20150922080644",
+  "finalPath": "almond-soup.html",
+  "heading": "Almond Soup",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "beat",
+    "bread",
+    "butter",
+    "cream",
+    "flour",
+    "gravy",
+    "veal",
+    "biscuits",
+    "cayenne",
+    "mutton",
+    "pepper",
+    "turnip"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "almond-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E21. A very good White or Almond Soop.\u003C/b\u003E\u003Cbr\u003E\nTake veal, fowl, or any white meat, boiled down with a little mace, (or other spice to your taste) let these boil to mash, then strain off the gravy; take some of the white fleshy part of the meat and rub it thro\u0027 a cullender; have ready two ounces of almonds beat fine, rub these thro\u0027 the cullender, then put all into the gravy, set it on the fire to thicken a little, and stir in it two or three spoonfuls of cream, and a little butter work\u0027d in flour; then have ready a French roll crisp\u0027d for the middle, and slips of bread cut long like Savoy biskets. Serve it up hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "almond-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "136. ALMOND SOUP (Eighteenth Century)\u003Cbr\u003E\nTake a neck of veal and the scrag end of a neck of mutton, chop them in small pieces, put them in a large tossing-pan, cut in a turnip, with a blade or two of mace, and five quarts of water; set it over the fire, and let it boil gently till it is reduced to two quarts. Strain it through a hair sieve into a clear pot, then put in six ounces of almonds, blanched and beaten fine, half a pint of thick cream, and cayenne pepper to your taste. Have ready three small French rolls, the size of a small teacup; if they are larger they will not look well, and will drink up too much of the soup; blanch a few Jordan almonds, and cut them lengthways, stick them round the edge of the rolls, slantways, then stick them all over the top of the rolls, and put them in the tureen. When dished up, pour the soup upon the rolls; these rolls look like a hedgehog. Some French cooks give this soup the name of Hedgehog Soup.\u003Cbr\u003E\n\u003Cbr\u003E\n137. A VERY GOOD WHITE ALMOND SOUP (Yorkshire, 1769)\u003Cbr\u003E\nTake veal, fowl, or any other white meat, boiled down with a little mace (or other spice to your taste), let it boU to a mash, then strain off the gravy. Take some of the white fleshy part of the meat and rub it through a fine colander. Have ready two ounces of almonds, beaten fine, rub these through the colander, then put all into the gravy, set it on the fire to thicken a little, and stir into it two or three tablespoonfuls of cream, and a little butter worked into flour. Have ready a crisped French roll for the middle, and slips of bread cut long like Savoy biscuits. Serve up hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Almond Soup",
+      "relatedPageUrl": "almond-soup.html",
+      "relationDescription": "For other almond-based soups, see"
+    },
+    {
+      "relatedPageText": "Barley Cream Soup",
+      "relatedPageUrl": "barley-cream-soup.html",
+      "relationDescription": "For other almond-based soups, see"
+    },
+    {
+      "relatedPageText": "Soup Dorye",
+      "relatedPageUrl": "soup-dorye.html",
+      "relationDescription": "For other almond-based soups, see"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Almond Soup",
+  "usedSnapshot": "20220516215342"
+}

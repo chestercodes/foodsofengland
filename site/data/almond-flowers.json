@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922083918",
+  "finalPath": "almond-flowers.html",
+  "heading": "Almond Flowers",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "apple",
+    "egg",
+    "jam",
+    "jelly",
+    "strawberry",
+    "strawberry jam",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "almond-flowers.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "ALMOND FLOWERS.\u003Cbr\u003E\n1316. INGREDIENTS. - Puff-paste No. 1205; to every\u00BD lb. of paste allow 3 oz. of almonds, sifted sugar, the white of an egg.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Roll the paste out to the thickness of \u00BC inch, and, with a round fluted cutter, stamp out as many pieces as may be required. Work the paste up again, roll it out, and, with a smaller cutter, stamp out some pieces the size of a shilling. Brush the larger pieces over with the white of an egg, and place one of the smaller pieces on each. Blanch and cut the almonds into strips lengthwise; press them slanting into the paste closely round the rings; and when they are all completed, sift over some pounded sugar, and bake for about \u00BC hour or 20 minutes. Garnish between the almonds with strips of apple jelly, and place in the centre of the ring a small quantity of strawberry jam; pile them high on the dish, and serve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - \u00BC hour or 20 minutes.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E. - 18 or 20 for a dish.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Almond Flowers",
+  "usedSnapshot": "20210518203040"
+}

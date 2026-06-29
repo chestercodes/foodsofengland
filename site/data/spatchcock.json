@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922073332",
+  "finalPath": "spatchcock.html",
+  "heading": "Spatchcock",
+  "ingredients": [
+    "bread",
+    "butter",
+    "pepper",
+    "salt",
+    "toasted bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spatchcock.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWarnes every-day cookery: containing one thousand eight hundred and fifty-eight distinct receipts\u003C/i\u003E\u0027 (1872)",
+      "receiptText": "\u003Cb\u003ESpatchcock - English Fashion\u003C/b\u003E\u003Cbr\u003E\nTime, twelve minutes.\u003Cbr\u003E\n681. One fowl; three ounces of butter; a piece of puff paste.\u003Cbr\u003E\n\u003Cbr\u003E\nMake about a pound or half a pound as required, of good puff paste. Roll it out about the thickness of two fingers. Cut the edge in Vandykes. Rub together the pieces of paste left; cut them into the shape of crescent moons; wet one of the corners of each and the side of the vandyked paste, and stick crescents between each vandyke. Bake this crust a delicate golden colour. Cut up a freshly-killed fowl in joints, pepper and salt them and rub with butter; broil them, then pile them on the crust.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESpatchcock. - Indian Mode and Sea Fashion,\u003C/b\u003E\u003Cbr\u003E\nTime, half an hour.\u003Cbr\u003E\n682. One fowl; pepper and salt; two or three ounces of butter.\u003Cbr\u003E\n\u003Cbr\u003E\nA fowl \u003Ci\u003Efreshly\u003C/i\u003E killed, picked, and prepared. Split the fowl in halves through the middle of the breast and back; pepper and salt it; rub it over with butter; grease a gridiron, and broil it over a bright clear fire. Put a lump of fresh butter in a hot dish before the fire; let it dissolve; lay the fowl on it (or on a round of toasted bread), and serve very hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Spatchcock",
+  "usedSnapshot": "20170313204555"
+}

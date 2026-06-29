@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20140201032719",
+  "finalPath": "wine-sauce.html",
+  "heading": "Wine Sauce",
+  "ingredients": [
+    "butter",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "port wine",
+    "puddings",
+    "sherry",
+    "sugar",
+    "white wine",
+    "currant",
+    "gravy",
+    "jelly",
+    "mutton"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "wine-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EWINE SAUCE FOR SWEET PUDDINGS.\u003C/b\u003E\u003Cbr\u003E\nBoil gently together for ten or fifteen minutes the very thin rind of half a small lemon, about an ounce and a half of sugar, and a wineglassful of water. Take out the lemon-peel and stir into the sauce until it has boiled for one minute, an ounce of butter smoothly- mixed with a large half-teaspoonful of flour; add a wineglassful and a half of sherry or Madeira, or other good white wine, and when quite hot serve the sauce without delay. Port wine sauce is made in the same way with the addition of a dessertspoonful of lemon-juice, some grated nutmeg and a little more sugar. Orange-rind and juice may be used for it instead of lemon.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECOMMON WINE SAUCE.\u003C/b\u003E\u003Cbr\u003E\nSweeten a quarter-pint of good melted butter with an ounce and a half of sugar, and add to it gradually a couple of glasses of wine; stir it until it is at the point of boiling, and serve it immediately. Lemon-grate, or nutmeg, can be added at pleasure.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "wine-sauce.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWine Sauce for Venison or Hare. (No. 344.)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nA quarter of a pint of claret or port wine, the same quantity of plain, unflavoured mutton gravy (No. 347), and a tablespoonful of currant jelly: let it just boil up, and send it to table in a sauce-boat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Wine Sauce",
+  "usedSnapshot": "20200808122700"
+}

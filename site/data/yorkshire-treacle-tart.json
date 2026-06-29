@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140212025050",
+  "finalPath": "yorkshire-treacle-tart.html",
+  "heading": "Yorkshire Treacle Tart",
+  "ingredients": [
+    "apple",
+    "breadcrumbs",
+    "butter",
+    "dried fruit",
+    "golden syrup",
+    "lemon",
+    "pastry",
+    "shortcrust pastry",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-treacle-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Yorkshire%20Treacle%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EYorkshire Treacle Tart\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n12 oz sweet shortcrust pastry\u003Cbr\u003E\n6 oz mixed dried fruit\u003Cbr\u003E\nGrated rind and juice of half a lemon\u003Cbr\u003E\n2 oz grated apple\u003Cbr\u003E\n3 oz golden syrup\u003Cbr\u003E\n1 \u00BD oz brown breadcrumbs\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 425\u00B0 F or Mark 7. Butter an 8 inch pie plate. Roll out the pastry on a lightly floured surface and use half to line the pie plate. Mix all the ingredients together in a bowl and spread the mixture over the pastry base. Cover with the remaining pastry and damp and seal the edge. Bake for 10 to 15 minutes then reduce oven to 350\u00B0F or Mark 4 and bake for about a further 30 minutes until golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Norfolk Treacle Tart",
+      "relatedPageUrl": "norfolk-treacle-tart.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Treacle Tart",
+      "relatedPageUrl": "treacle-tart.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "Yorkshire Treacle Tart",
+      "relatedPageUrl": "yorkshire-treacle-tart.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Yorkshire Treacle Tart",
+  "usedSnapshot": "20211019185503"
+}

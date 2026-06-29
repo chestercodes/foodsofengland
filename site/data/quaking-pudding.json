@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922133013",
+  "finalPath": "quaking-pudding.html",
+  "heading": "Quaking Pudding",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "blanched almonds",
+    "butter",
+    "pudding",
+    "rose-water",
+    "sugar",
+    "cinnamon",
+    "cream",
+    "eggs",
+    "flour",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "quaking-pudding.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Quaking Pudding.\u003C/b\u003E\u003Cbr\u003E\nTake a pint and somewhat more of thick Creame, ten Egges, put the whites of three, beat them very well with two spoonfuls of Rose-water; mingle with your Creame three spoonfuls of fine flower, mingle it so well, that there be no lumps in it, put it altogether, and season it according to your Tast; Butter a Cloth very well, and let it be thick that it may not run out, and let it boyle for half an hour as fast as you can, then take it up and make Sauce with Butter, Rose-water and Sugar, and serve it up. You may stick some blanched Almonds upon it if you please.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "quaking-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E130. To make a QUAKING PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake eight eggs and beat them very well, put to them three spoonfuls of London flour, a little salt, three jills of cream, and boil it with a stick of cinnamon and a blade of mace; when it is cold mix it to your eggs and flour, butter your cloth, and do not give it over much room in your cloth; about half an hour will boil it; you must turn it in the boiling or the flour will settle, so serve it up with a little melted butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Quaking Pudding",
+  "usedSnapshot": "20200116032301"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140212025044",
+  "finalPath": "warwickshire-pork-pie.html",
+  "heading": "Warwickshire Pork Pie",
+  "ingredients": [
+    "beat",
+    "cayenne",
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "warwickshire-pork-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPORK PIES (Warwickshire Recipe).\u003C/b\u003E\u003Cbr\u003E\n835. INGREDIENTS: For the crust, 5 lbs. of lard to 14 lbs. of flour, milk, and water. For filling the pies, to every 3 lbs. of meat allow 1 oz. of salt, 2-1/4 oz. of pepper, a small quantity of cayenne, 1 pint of water.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Rub into the flour a portion of the lard; the remainder put with sufficient milk and water to mix the crust, and boil this gently for \u00BC hour. Pour it boiling on the flour, and knead and beat it till perfectly smooth. Now raise the crust in either a round or oval form, cut up the pork into pieces the size of a nut, season it in the above proportion, and press it compactly into the pie, in alternate layers of fat and lean, and pour in a small quantity of water; lay on the lid, cut the edges smoothly round, and pinch them together. Bake in a brick oven, which should be slow, as the meat is very solid. Very frequently, the inexperienced cook finds much difficulty in raising the crust. She should bear in mind that it must not be allowed to get cold, or it will fall immediately: to prevent this, the operation should be performed as near the fire as possible. As considerable dexterity and expertness are necessary to raise the crust with the hand only, a glass bottle or small jar may be placed in the middle of the paste, and the crust moulded on this; but be particular that it is kept warm the whole time.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: The proportions for 1 pie are 1 lb. of flour and 3 lbs. of meat.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Warwickshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Warwickshire Pork Pie",
+  "usedSnapshot": "20210410120636"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922073755",
+  "finalPath": "nettle-beer.html",
+  "heading": "Nettle Beer",
+  "ingredients": [
+    "ale",
+    "beer",
+    "ginger",
+    "nettle",
+    "sprouts",
+    "sugar",
+    "treacle",
+    "yeast",
+    "champagne",
+    "cream",
+    "lemons",
+    "nettles",
+    "tartar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "nettle-beer.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EWestern Times\u003C/i\u003E\u0027, Saturday 2 May 1840",
+      "receiptText": "\u003Cb\u003ENettle Beer.\u003C/b\u003E-At this season of the year a wholesome and agreeable beverage may be obtained a trifling cost, from that valuable though much despised plant, the nettle; two quarts of the sprouts of which to be boiled in one gallon of water, adding when strained off, ha a pound of sugar or treacle, with a little ginger en near cool, ferment with yeast, and bottle tight up while in state of effervescence. In a day or two this will be as brisk bottled ale, and pleasant flavour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "nettle-beer.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E972. NETTLE BEER (Hampshire)\u003C/b\u003E\u003Cbr\u003E\nWash the nettles (which should be young and green), and boil them for about three hours, with a little race ginger. When cool enough, add about one pound of sugar to every two gallons of liquor, and add about a pennyworth of yeast to the same quantity. After it has worked a few hours, skim and bottle it.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E973. NETTLE BEER (Surrey)\u003C/b\u003E\u003Cbr\u003E\nBoil two quarts of nettle sprouts in one gallon of water. Strain the liquor, and add half a pound of sugar, with a teaspoonful of ginger. When nearly cold, ferment with yeast, and bottle securely while in a state of effervescence. It will be ready for use in a few days.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E974. ANOTHER WAY\u003C/b\u003E\u003Cbr\u003E\nInto a saucepan or kettle that will hold three gallons, put two gallons of water. When this is boiling, add as many nettles as the saucepan will contain. Boil them for half an hour, and strain into an earthenware pan broader at the top than at the bottom. Make up, with hot water, the quantity of liquor to four gallons. While it is still as hot as possible, add two ounces of best raw ginger, well bruised, one ounce of cream of tartar, the peel of three lemons cut thin, also their squeezed juice, and two pounds of white sugar. Let the liquor stand, stirring it occasionally, until lukewarm, when add two pennyworth of brewer\u0027s yeast. While the liquor is hot, a little isinglass may be used to fine it. Stir well, and let it stand in a cool place all night. In the morning, all impurities, etc., will have risen to the top; skim very carefully and bottle in champagne bottles. The corks cannot be too good; bad corks will destroy the whole thing. If the corks are boiled in water for a couple of hours before they are used (hot), they will drive much easier and cork much more perfectly. They must be tied down as soon as corked. If the value of this beverage were generally known, no household would be without it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003Enettles...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/nettles.html",
+      "relationDescription": "For other receipts, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "nettles..."
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Nettle Beer",
+  "usedSnapshot": "20220607155003"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922071519",
+  "finalPath": "seakale-soup.html",
+  "heading": "Seakale Soup",
+  "ingredients": [
+    "butter",
+    "cream",
+    "milk",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "seakale-soup.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Seakale%20Soup\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Sea kale\u003Cbr\u003E\nButter\u003Cbr\u003E\nMilk\u003Cbr\u003E\nCream\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nWash the sea kale, cut into small pieces, sweat in butter for about 5 minutes. Add the water, bring to a boil then add the milk. Simmer until tender, about 1 hour, add cream, reheat and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Seakale",
+      "relatedPageUrl": "seakale.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Seakale Soup",
+  "usedSnapshot": "20210518204809"
+}

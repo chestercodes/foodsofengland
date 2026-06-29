@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922133315",
+  "finalPath": "prince-of-wales-pudding-pie.html",
+  "heading": "Prince of Wales Pudding-Pie",
+  "ingredients": [
+    "beat",
+    "biscuits",
+    "butter",
+    "cream",
+    "eggs",
+    "lemon",
+    "pudding",
+    "salt",
+    "sponge biscuits",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "prince-of-wales-pudding-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PRINCE OF WALES\u0027S PUDDING. Put half a pound of loaf sugar, and half a pound of fresh butter, into a saucepan; set it over the fire till both are melted, stirring it well, as it is very liable to burn, but do not let it boil. Pour this into an earthen pan, grate the rind of a lemon into it, and leave it to cool. Have ready two sponge biscuits soaked in a quarter of a pint of cream, bruise them fine and stir them into the sugar and butter. Beat the yolks of ten, and the whites of five eggs well with a little salt; squeeze and strain the juice of the lemon into them, and mix these well in with the other ingredients. Lay a puff paste into the dish, strew it with pieces of candied lemon peel, put in the pudding, and bake it three[273] quarters of an hour in a moderate oven. Sift fine sugar over it, before it is sent to the table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPrince of Wales\u0027 Steamed Pudding\u003C/b\u003E",
+      "relatedPageUrl": "prince-of-wales-steamed-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Prince of Wales"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Prince of Wales Pudding-Pie",
+  "usedSnapshot": "20211018082243"
+}

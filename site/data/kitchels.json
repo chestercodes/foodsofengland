@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922080001",
+  "finalPath": "kitchels.html",
+  "heading": "Kitchels",
+  "ingredients": [
+    "almonds",
+    "butter",
+    "caster sugar",
+    "cinnamon",
+    "currant",
+    "currants",
+    "nutmeg",
+    "pastry",
+    "puff pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kitchels.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003EHarwich Kitchels\u003C/b\u003E\u003Cbr\u003E\nThe Kitchel is traditionally used to mark the start of the Harwich mayor\u0027s term. After the ceremony, the new mayor, throws the small sweet buns, known as Kitchels, to the town\u2019s children from the balcony of the historic Guildhall. This tradition has been going for over 400 years.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n16oz Puff Pastry\u003Cbr\u003E\n8oz currants\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\n3oz candied peel\u003Cbr\u003E\n2oz ground almonds\u003Cbr\u003E\n\u00BD tsp cinnamon\u003Cbr\u003E\n1 tsp ground nutmeg\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\nMelt the butter in a saucepan and remove from the heat.\u003Cbr\u003E\nAdd the washed currants, candied peel, ground almonds, spices and mix well.\u003Cbr\u003E\nDivide the pastry in half and roll both pieces it into a thin square shape.\u003Cbr\u003E\nMoisten the edges with water and spread the currant mixture over the pastry, avoiding the moistened edges.\u003Cbr\u003E\nCover the mixture with the remaining piece of pastry and press the edges well together to seal.\u003Cbr\u003E\nCarefully mark the top of the pastry with a knife into sections but be careful not to cut right through to the filling.\u003Cbr\u003E\nBake in a very hot oven for around 30minutes.\u003Cbr\u003E\nSprinkle with caster sugar and cut into sections whilst still warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EAbingdon Buns\u003C/b\u003E",
+      "relatedPageUrl": "abingdon-buns.html",
+      "relationDescription": "For a similar tradition, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moor-1823"
+    }
+  ],
+  "title": "Kitchels",
+  "usedSnapshot": "20220520130426"
+}

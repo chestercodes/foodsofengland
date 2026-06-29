@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922072959",
+  "finalPath": "pickled-cherries.html",
+  "heading": "Pickled Cherries",
+  "ingredients": [
+    "cayenne",
+    "cherries",
+    "coriander",
+    "coriander seed",
+    "currants",
+    "raspberries",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-cherries.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO PICKLE CHERRIES\u003C/b\u003E\u003Cbr\u003E\nLeave about an inch of their stalks on some fine sound Kentish or Flemish cherries which are not over ripe, put them into a jar, cover them with cold vinegar and let them stand for three weeks, pour off two thirds of the liquor and replace it with fresh vinegar, then after having drained it from the fruit, boil the whole with an ounce of coriander seed, a small blade of mace, a few grains of cayenne or a teaspoonful of white peppercorns, and four bruised cochineals, to every quart all tied loosely in a fold of muslin. Let the pickle become quite cold before it is added to the cherries; in a month they will be fit for use. The vinegar which is poured from the fruit makes a good syrup of itself when boiled with a pound of sugar to the pint, but it is improved by having some fresh raspberries cherries or currants previously infused in it for three or four days\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Pickled Cherries",
+  "usedSnapshot": "20220517175403"
+}

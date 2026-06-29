@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922084127",
+  "finalPath": "cherry-jam.html",
+  "heading": "Cherry Jam",
+  "ingredients": [
+    "cherries",
+    "cherry",
+    "jam",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cherry-jam.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECherry Jam.\u003C/b\u003E To twelve pounds of Kentish or Duke cherries, when ripe, weigh one pound of sugar, break the stones of part and branch them; then put them to the fruits and sugar, and boil all gently till the jam comes clear from the pan. Pour it into China plates to come up dry to table. Keep in boxes with white paper between.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Cherry Jam",
+  "usedSnapshot": "20211021024900"
+}

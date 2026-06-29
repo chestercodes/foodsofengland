@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922084229",
+  "finalPath": "rice-pancakes.html",
+  "heading": "Rice Pancakes",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "jelly",
+    "milk",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rice-pancakes.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Rice Pancakes.\u003C/b\u003E\u003Cbr\u003E\nTake a pound of Rice, and boyle it in three quarts of water till it be very tender, then put it into a pot covered close, and that will make a Jelly, then take a quart of Cream or new Milk, put it scalding hot to the Rice, then take twenty Eggs, three quarters of a pound of melted Butter, a little Salt, stirre all these well together, put as much flowre to them as will make them hold frying, they must be fryed with Butter, they must be made overnight, best.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Rice Pancakes",
+  "usedSnapshot": "20210510043810"
+}

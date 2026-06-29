@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616082200",
+  "finalPath": "fish-pan-haggerty.html",
+  "heading": "Fish Pan Haggerty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fish Pan Haggerty",
+  "usedSnapshot": "20211207121621"
+}

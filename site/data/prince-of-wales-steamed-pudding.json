@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20150922091438",
+  "finalPath": "prince-of-wales-steamed-pudding.html",
+  "heading": "Prince of Wales\u0027 Steamed Pudding",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "blanched almonds",
+    "butter",
+    "currants",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "sugar",
+    "beat",
+    "brandy",
+    "castor sugar",
+    "cream",
+    "raisins",
+    "sherry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "prince-of-wales-steamed-pudding.html-1",
+      "receiptSource": "Original Receipt from the Hampshire Telegraph - Saturday 18 April 1885",
+      "receiptText": "\u003Cb\u003EPRINCE OF WALES PUDDING.\u003C/b\u003E-Chop up 4oz. of apple, the same quantity of breaderumbs, and currants well washed and picked, 2oz. candied lemon, orange, and citron chopped fine, 5oz. pounded loaf sugar, half a nutmeg grated. Mix altogether with four eggs. Butter well and flour a tin; put in the mixture and place a buttered paper on the top and a cloth over the paper. If you steam it the paper is sufficient. It will take two hours to boil. When you dish it stick cut blanched almonds on it and serve with wine sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "prince-of-wales-steamed-pudding.html-2",
+      "receiptSource": "Original Receipt from the Kent \u0026 Sussex Courier - Wednesday 02 April 1902",
+      "receiptText": "\u003Cb\u003EPrince of Wales Pudding.\u003C/b\u003E-Beat half pound of butter to a cream, with three ounces of castor sugar, add five eggs, one by one, beating each for three minutes. Mix in half a pound of chopped raisins, two ounces of citron cut in strips,. and half a pound of sifted flour. Boil in buttered mould for three hours, and serve. Here suitable sauce for this pudding: Rasp a lemon with lump sugar, using about two ounces of the sugar, crush and put it in a small saucepan with a wineglassful of sherry and half gill of brandy; add a gill of melted butter sauce, and stir well till hot\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPrince of Wales Pudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "prince-of-wales-pudding-pie.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPrince of Wales\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/prince-of-wales.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Prince of Wales"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Prince of Wales\u0027 Steamed Pudding",
+  "usedSnapshot": "20211201041403"
+}

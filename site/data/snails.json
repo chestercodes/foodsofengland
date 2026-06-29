@@ -1,0 +1,86 @@
+﻿{
+  "earliestSnapshot": "20130322203802",
+  "finalPath": "snails.html",
+  "heading": "Snails",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "flour",
+    "herbs",
+    "lemon",
+    "nutmeg",
+    "onions",
+    "orange",
+    "parsley",
+    "pepper",
+    "salt",
+    "snails",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "snails.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo fry Snails.\u003C/b\u003E\u003Cbr\u003E\nTake shell snails in January, February, or, March, when they be closed up, boil them in a skillet of boiling water, and when they be tender boil\u0027d, take them out of the shell with a pin, cleanse them from the slime, flour them, and fry them; being fryed, serve them in a clean dish, with butter, vinegar, fryed parsley, fryed onions, or ellicksander leaves fryed, or served with beaten butter, and juyce of orange, or oyl, vinegar, and slic\u0027t lemon.\u003Cbr\u003E\n\u003Cb\u003EOtherways.\u003C/b\u003E\u003Cbr\u003E\nFry them in oyl and butter, being finely cleansed, and serve them with butter, vinegar, and pepper, or oyl, vinegar, and pepper.\u003Cbr\u003E\n\u003Cb\u003ETo make a Hash of Snails.\u003C/b\u003E\u003Cbr\u003E\nBeing boil\u0027d and cleansed, mince them small, put them in a pipkin with some sweet herbs minced, the yolks of hard eggs, some whole capers, nutmeg, pepper, salt, some pistaches, and butter, or oyl; being stewed the space of half an hour on a soft fire; then have some fried toasts of French bread, lay some in the bottom, and some round the meat in the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dressed Snails",
+      "relatedPageUrl": "dressed-snails.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Snail Broth",
+      "relatedPageUrl": "snail-broth.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Snail Water",
+      "relatedPageUrl": "snail-water.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Snail with Herbs",
+      "relatedPageUrl": "snail-with-herbs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Snails in Sauce",
+      "relatedPageUrl": "snails-in-sauce.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Wallfish",
+      "relatedPageUrl": "wallfish-or-mendip-wallfish.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Snails",
+  "usedSnapshot": "20210512105839"
+}

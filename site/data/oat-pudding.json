@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922071831",
+  "finalPath": "oat-pudding.html",
+  "heading": "Oat Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOat Pudding with Fruit\u003C/b\u003E",
+      "relatedPageUrl": "oat-pudding-with-fruit.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMeat Rice\u003C/b\u003E",
+      "relatedPageUrl": "meat-rice.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Oat Pudding",
+  "usedSnapshot": "20211205172239"
+}

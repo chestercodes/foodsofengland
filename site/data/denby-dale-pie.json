@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212025202",
+  "finalPath": "denby-dale-pie.html",
+  "heading": "Denby Dale Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Denby Dale Pie",
+      "relatedPageUrl": "denby-dale-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Trunk Pie",
+      "relatedPageUrl": "trunk-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Pie",
+      "relatedPageUrl": "yorkshire-christmas-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Denby Dale Pie",
+  "usedSnapshot": "20211207125307"
+}

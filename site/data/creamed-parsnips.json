@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922094251",
+  "finalPath": "creamed-parsnips.html",
+  "heading": "Creamed Parsnips",
+  "ingredients": [
+    "butter",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "creamed-parsnips.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO DRESS PARSNEPS\u003C/b\u003E\u003Cbr\u003E\nScrape well three or four good large roots, cleansing well their outside, and cutting off as much of the little end as is Fibrous, and of the great end as is hard. Put them into a possnet or pot, with about a quart of Milk upon them, or as much as will cover them in boiling, which do moderately, till you find they are very tender. This may be in an hour and half, sooner or later, as the roots are of a good kind. Then take them out, and scrape all the outside into a pulpe, like the pulpe of roasted apples, which put in a dish upon a chafing dish of Coals, with a little of the Milk, you boiled them in, put to them; not so much as to drown them, but only to imbibe them: and then with stewing, the pulpe will imbibe all that Milk. When you see it is drunk in, put to the pulpe a little more of the same Milk, and stew that, till it be drunk in. Continue doing thus till it hath drunk in a good quantity of the Milk, and is well swelled with it, and will take in no more, which may be in a good half hour. Eat them so, without Sugar or Butter; for they will have a natural sweetness, that is beyond sugar, and will be Unctuous, so as not to need Butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Creamed Parsnips",
+  "usedSnapshot": "20220516220906"
+}

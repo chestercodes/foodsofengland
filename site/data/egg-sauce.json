@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922075031",
+  "finalPath": "egg-sauce.html",
+  "heading": "Egg Sauce",
+  "ingredients": [
+    "butter",
+    "egg",
+    "eggs",
+    "hard boiled eggs"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Egg Sauce.- Two hard boiled eggs cut in dice and added to \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EMelted Butter\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Egg Sauce",
+  "usedSnapshot": "20220527215653"
+}

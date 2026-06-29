@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140508102723",
+  "finalPath": "gingerbread-biscuits.html",
+  "heading": "Gingerbread Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gingerbread Biscuits",
+  "usedSnapshot": "20200112194036"
+}

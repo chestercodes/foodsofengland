@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922074646",
+  "finalPath": "shearer-s-stew.html",
+  "heading": "Shearer\u0027s Stew",
+  "ingredients": [
+    "ale",
+    "bread",
+    "butter",
+    "carrots",
+    "flour",
+    "lamb",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shearer-s-stew.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Shearer\u0027s%20Stew\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EShearer\u2019s Stew\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nA simple stew made with leg of lamb and brown ale.\u003Cbr\u003E\n\u003Cbr\u003E\n11/2 lb. leg of lamb, trimmed and cut into 1 inch cubes\u003Cbr\u003E\n1/2 pint of brown ale\u003Cbr\u003E\n1/2 pint of lamb stock\u003Cbr\u003E\n3 Tablespoons cooking oil\u003Cbr\u003E\n2 carrots, sliced\u003Cbr\u003E\n1 oz. butter\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n2 onions, thinly sliced\u003Cbr\u003E\n4 thick slices of fresh white bread, cut into triangles\u003Cbr\u003E\n1 oz. flour\u003Cbr\u003E\n\u003Cbr\u003E\nServes 4 to 6.\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350 Fahrenheit or Mark 4. Heat the oil in a frying pan, add the butter and, when hot, brown the lamb in small batches and transfer to casserole dish. Add the onions to the frying pan and cook gently until soft. Stir in the flour and cook for 2 to 3 minutes. Remove from the heat and stir in the brown ale and stock.\u003Cbr\u003E\n\u003Cbr\u003E\nReturn to the heat and bring to the boil, stirring. Add the carrots and seasoning to the casserole. Pour the liquid over all, cover and cook for 1 hour. Remove from the oven and stir well. Dip the bread into the liquid and arrange attractively on top. Return to the oven, uncovered, and cook for a further 30 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Shearer\u0027s Stew",
+  "usedSnapshot": "20211205172203"
+}

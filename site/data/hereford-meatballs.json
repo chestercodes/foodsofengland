@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082250",
+  "finalPath": "hereford-meatballs.html",
+  "heading": "Hereford Meatballs",
+  "ingredients": [
+    "beef",
+    "black pepper",
+    "breadcrumbs",
+    "egg",
+    "fat",
+    "flour",
+    "ketchup",
+    "lemon",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "thyme",
+    "tomato"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hereford-meatballs.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Hereford%20Meatballs\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EFor the meatballs\u003C/b\u003E\u003Cbr\u003E\n1 lb minced beef\u003Cbr\u003E\n3 oz fresh breadcrumbs\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\n1 tsp salt Black pepper\u003Cbr\u003E\n1 tsp grated lemon rind\u003Cbr\u003E\n2 tsp chopped parsley\u003Cbr\u003E\n1 tsp chopped thyme\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EFor the sauce\u003C/b\u003E\u003Cbr\u003E\n3 tbsp beet fat\u003Cbr\u003E\n8 oz onions, chopped\u003Cbr\u003E\n1 \u00BD oz flour\u003Cbr\u003E\n\u00BE pt beef stock\u003Cbr\u003E\n3 tbsp tomato ketchup\u003Cbr\u003E\n\u003Cbr\u003E\nMix the meatball ingredients, divide into 12 and shape, with dampened hands, into balls. Melt the beef fat in a frying pan and quickly fry the meatballs until brown. Remove to drain. Fry the onions in the fat, add the flour, stir, and fry until brown. Add the stock and ketchup, season, return the meatballs to the sauce and cook for 30 mins or until cooked through. Serve with \u003Ca href=\u0022losenge-pasta.html\u0022\u003E\u003Cb\u003Epasta\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hereford Meatballs",
+  "usedSnapshot": "20220516220752"
+}

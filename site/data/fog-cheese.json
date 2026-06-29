@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140616085435",
+  "finalPath": "fog-cheese.html",
+  "heading": "Fog Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Ruayn",
+      "relatedPageUrl": "ruayn-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moor-1823"
+    }
+  ],
+  "title": "Fog Cheese",
+  "usedSnapshot": "20211019180826"
+}

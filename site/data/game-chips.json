@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922072400",
+  "finalPath": "game-chips.html",
+  "heading": "Game Chips",
+  "ingredients": [
+    "potatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "game-chips.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier 1903\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003E2317 - CHIPPED POTATOES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCut the potatoes into thin roundels, by means of a special plane; put them into cold water for ten minutes; drain them; dry them in linen, and fry them, keeping them very crisp. Serve them cold or hot, with game roasted in the English way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Chips\u003C/b\u003E",
+      "relatedPageUrl": "potato-chips.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECrisps\u003C/b\u003E",
+      "relatedPageUrl": "potato-crisps.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Game Chips",
+  "usedSnapshot": "20210512115241"
+}

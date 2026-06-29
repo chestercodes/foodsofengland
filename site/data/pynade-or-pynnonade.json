@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922072718",
+  "finalPath": "pynade-or-pynnonade.html",
+  "heading": "Pynade or Pynnonade",
+  "ingredients": [
+    "salt",
+    "sugur",
+    "chickens",
+    "cinnamon",
+    "ginger",
+    "pepper"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pynade-or-pynnonade.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "PYNNONADE [1]\u003Cbr\u003E\nTake Almandes iblaunched and drawe hem sumdell thicke [2] with gode broth o\u00FEer with water and set on the fire and see\u00FE it, cast \u00FEerto zolkes of ayrenn ydrawe. take Pynes yfryed in oyle o\u00FEer in grece and \u00FEerto white Powdour douce, sugur and salt. \u0026 colour it wi\u00FE alkenet a lytel.\u003Cbr\u003E\n[1] Pynnonade. So named from the Pynes therein used. [2] sumdell thicke. Somewhat thick, thickish.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pynade-or-pynnonade.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPynade.\u003C/b\u003E Take Hony \u0026 good powder ginger, \u0026 Galyngale, \u0026 cinnamon, powder pepper, \u0026 graynys of parys, \u0026 boil y-fere; than take kyrnelys of Pynotys \u0026 caste thereto; \u0026 take chyconys y-sothe, \u0026 hew them in grease, \u0026 caste thereto, \u0026 let seethe y-fere; \u0026 then let droppe ther-of on a knyf; \u0026 if it cleuyth \u0026 wexyth hard, it ys y-now; \u0026 then put it on a chargere tyl it be cold, \u0026 mace [make] lechys, \u0026 serve with other metys; \u0026 if thou wolt make it in spycery, then put not chickens thereto.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EPinionade, pynenade, pynioniade, pynnonade, pynonad, pynyonade\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Pynade or Pynnonade",
+  "usedSnapshot": "20211129112907"
+}

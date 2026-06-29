@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20170314153415",
+  "finalPath": "hare-papdele.html",
+  "heading": "Hare Papdele",
+  "ingredients": [
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hare-papdele.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHARES IN PAPDELE. XXIIII.\u003C/b\u003E\u003Cbr\u003E\nTake Hares parboile hem in gode broth. cole the broth and waisshe the fleyssh. cast azeyn to gydre. take obleys o\u00FEer wafrouns in stede of lozeyns. and cowche in dysshes. take powdour douce and lay on salt the broth and lay onoward an messe forth.\u003Cbr\u003E\n\u003Cbr\u003E\n[\u003Ci\u003E24: HARES IN PAPDELE - Hare meat on a bed of pasta shapes\u003Cbr\u003E\nTake Hares and parboil them in good broth. Cool the broth and wash the meat. Put them again together. Take crusts or wafers, or instead pasta lozenge shapes, and lay them on a dish. Add Sweet Spice Powders, salt the stew and lay it on, and serve it forth.\u003C/i\u003E ]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EHare Noodles\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Hare Papdele",
+  "usedSnapshot": "20220127142710"
+}

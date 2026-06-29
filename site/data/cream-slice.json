@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808225645",
+  "finalPath": "cream-slice.html",
+  "heading": "Cream Slice",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cream Slice",
+  "usedSnapshot": "20220121033635"
+}

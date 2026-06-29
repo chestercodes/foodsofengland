@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140212015937",
+  "finalPath": "rabbit-pie.html",
+  "heading": "Rabbit Pie",
+  "ingredients": [
+    "bacon",
+    "basil",
+    "butter",
+    "chives",
+    "fat",
+    "gravy",
+    "parsley",
+    "pepper",
+    "rabbit",
+    "rabbits",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rabbit-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe London art of cookery and domestic housekeeper\u0027s complete assistant\u003C/i\u003E\u0027 By John Farley (\u003Ca href=\u0022references.html#farley-1811\u0022\u003E\u003Cb\u003EFarley 1811\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERabbit Pie to be eaten hot.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE a couple of young rabbits, and cut them into quarters; take a quarter of a pound of bacon, and bruise it to pieces in a marble mortar, with the livers, some pepper, salt, a little mace, and some parsley cut small, some chives, and a few leaves of sweet basil. When these are all beaten fine, make the paste, and cover the bottom of the pie with the seasoning. Then put in the rabbits, pound some more bacon in a mortar, and with it some fresh butter; cover the rabbits with it, and over that lay some thin slices of bacon. Put on the lid, and send it to the oven. It will take two hours baking. When it is done, take off the lid, take out the bacon, and skim off the fat. If there is not gravy enough in the pie, pour in some rich veal gravy boiling hot.\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    }
+  ],
+  "title": "Rabbit Pie",
+  "usedSnapshot": "20220808005002"
+}

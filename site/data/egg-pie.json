@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20140212030828",
+  "finalPath": "egg-pie.html",
+  "heading": "Egg Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Egg and Bacon Pie",
+      "relatedPageUrl": "egg-and-bacon-pie.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECrustard of Fleshe\u003C/b\u003E",
+      "relatedPageUrl": "crustard-of-flessh.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Egg Pie",
+  "usedSnapshot": "20211129112412"
+}

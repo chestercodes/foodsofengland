@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130210020621",
+  "finalPath": "worcester-or-worcestershire-sauce.html",
+  "heading": "Worcester (or Worcestershire) Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Worcester (or Worcestershire) Sauce",
+  "usedSnapshot": "20220706160023"
+}

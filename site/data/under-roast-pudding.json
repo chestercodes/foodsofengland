@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20170314143652",
+  "finalPath": "under-roast-pudding.html",
+  "heading": "Under Roast Pudding",
+  "ingredients": [
+    "flour",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "under-roast-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 58. Baked Suet Pudding.\u003C/b\u003E\u003Cbr\u003E\nTo one pound of flour add six ounces of chopped suet, three pints of skim milk, nutmeg and salt; mix thoroughly and smoothly, and bake the pudding in the dish under the meat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBaked Suet Pudding\u003C/b\u003E",
+      "relatedPageUrl": "baked-suet-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Under Roast Pudding",
+  "usedSnapshot": "20211129122219"
+}

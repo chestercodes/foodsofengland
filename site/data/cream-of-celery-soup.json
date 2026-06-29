@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922083922",
+  "finalPath": "cream-of-celery-soup.html",
+  "heading": "Cream of Celery Soup",
+  "ingredients": [
+    "bread",
+    "butter",
+    "celery",
+    "cream",
+    "milk",
+    "onion",
+    "pepper",
+    "salt",
+    "toasted bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cream-of-celery-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ECassell\u0027s Vegetarian Cookery\u003C/i\u003E, 1891",
+      "receiptText": "\u003Cb\u003ECelery Soup\u003C/b\u003E - Take half a dozen heads of celery, or a smaller quantity if the heads of celery are very large; throw away all the green part and cut up the celery into small pieces, with one onion sliced, and place them in a frying-pan, or, better still, in an enamelled stew-pan, and stew them in a little butter, taking great care that the celery does not turn colour. Now add sufficient water or stock, and let it all boil till the celery becomes quite tender. Let it boil till it becomes a pulp, and then rub the whole through a wire sieve. Next boil separately from one to two quarts of milk according to the quantity of celery pulp, and boil a couple of bay-leaves in the milk. As soon as the milk boils add it to the celery pulp, flavour the soup with pepper and salt; serve fried or toasted bread with the soup. It is needless to say that all these white soups are greatly improved both in appearance and flavour by the addition of a little cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cream of Celery Soup",
+  "usedSnapshot": "20210518195216"
+}

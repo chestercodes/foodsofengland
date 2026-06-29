@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808224126",
+  "finalPath": "boiled-bacon-and-cider-sauce.html",
+  "heading": "Boiled Bacon and Cider Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "West Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Boiled Bacon and Cider Sauce",
+  "usedSnapshot": "20220527052353"
+}

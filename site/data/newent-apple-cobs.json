@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922084529",
+  "finalPath": "newent-apple-cobs.html",
+  "heading": "Newent Apple Cobs",
+  "ingredients": [
+    "apple",
+    "brown sugar",
+    "butter",
+    "caster sugar",
+    "cinnamon",
+    "cream",
+    "custard",
+    "lemon",
+    "pastry",
+    "soft brown sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "newent-apple-cobs.html-1",
+      "receiptSource": "Receipt from \u003Ca href=\u0022http://www.hartsbarncookeryschool.co.uk/\u0022\u003E\u003Cb\u003Ehttp://www.hartsbarncookeryschool.co.uk/\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENEWENT APPLE COBS\u003C/b\u003E\u003Cbr\u003E\nServes 2\u003Cbr\u003E\n100g sweet short-crust pastry\u003Cbr\u003E\n2 cooking apples\u003Cbr\u003E\n25g soft brown sugar\u003Cbr\u003E\ngrated rind of half a lemon\u003Cbr\u003E\nA pinch of cinnamon per apple\u003Cbr\u003E\n12g butter\u003Cbr\u003E\ncaster sugar\u003Cbr\u003E\n\u003Cbr\u003E\nDivide the pastry into 2 portions.\u003Cbr\u003E\nRoll each one into a square large enough to cover an apple.\u003Cbr\u003E\nPeel and core the apples and set in the centre of each pastry square.\u003Cbr\u003E\nMix the sugar, lemon peel and cinnamon together and put into each apple.\u003Cbr\u003E\nPut a knob of butter on top of each apple.\u003Cbr\u003E\nBring the pastry up around the apple and seal the edges with some water.\u003Cbr\u003E\nPlace the cob seam side down on a greased or lined baking tray.\u003Cbr\u003E\nBake at 160 c for 50mins until apples are soft and pastry golden.\u003Cbr\u003E\nDust with caster sugar and serve with cream or custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EApple Cobs\u003C/b\u003E",
+      "relatedPageUrl": "apple-cobs.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E",
+      "relatedPageUrl": "mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Newent%20Apple%20Cobs",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Newent Apple Cobs",
+  "usedSnapshot": "20211027044229"
+}

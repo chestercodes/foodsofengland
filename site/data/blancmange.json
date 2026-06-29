@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150312004042",
+  "finalPath": "blancmange.html",
+  "heading": "Blancmange",
+  "ingredients": [
+    "milk",
+    "salt",
+    "sugur",
+    "almonds",
+    "almonds blanched",
+    "cinnamon",
+    "coriander",
+    "coriander seeds",
+    "lemon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "blancmange.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBlamanger.\u003C/b\u003E Take faire Almondes, and blanche them, and grind them wit sugour water into faire milk; and take ryse, and set. And whan they bet wel y-sodde, take them up, and caste them to the almondes milk, and let them boil together til thei be thikk; And then take the brawne of a Capon, and tese it small, And caste thereto; and then take Sugur and salt, and caste thereto, and serve it fort in maner of \u003Ca href=\u0022mortress-or-mortrews.html\u0022\u003E\u003Cb\u003Emortrewes\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "blancmange.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBLANC MANGE.\u003C/b\u003E\u003Cbr\u003E\nTo a quart of new milk add an ounce of pickled isinglass, a small stick of cinnamon, a piece of lemon peel, a few coriander seeds washed, six bitter almonds blanched and pounded, or a laurel leaf. Put it over a fire, and when it boils simmer it till the isinglass is dissolved, and strain it through a tamis sieve into a bason. Let it stand ten minutes, skim it, pour it gently into another bason free from sediment, and when it begins to congeal stir it well and fill the shapes,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blank Maunger",
+      "relatedPageUrl": "blank-maunger.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "langland-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Blancmange",
+  "usedSnapshot": "20210512122949"
+}

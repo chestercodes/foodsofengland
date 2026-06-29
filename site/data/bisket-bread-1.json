@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140508110320",
+  "finalPath": "bisket-bread-1.html",
+  "heading": "Bisket Bread (1)",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bisket-bread-1.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO MAKE BISKET\u003C/b\u003E\u003Cbr\u003E\nTo half a peck of flower, take three spoonfuls of barm, two ounces of seeds; Aniseeds or Fennel-seeds. Make the paste very stiff, with nothing but water, and dry it (they must not have so much heat, as to make them rise, but only dry by degrees; as in an oven after Manchet is taken out, or a gentle stove) in flat Cakes very well in an oven or stove.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Bisket Bread (1)",
+  "usedSnapshot": "20210510053900"
+}

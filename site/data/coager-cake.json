@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922084555",
+  "finalPath": "coager-cake.html",
+  "heading": "Coager-cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Coager-cake",
+  "usedSnapshot": "20211021024417"
+}

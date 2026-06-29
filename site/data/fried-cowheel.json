@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150129021626",
+  "finalPath": "fried-cowheel.html",
+  "heading": "Fried Cowheel",
+  "ingredients": [
+    "butter",
+    "flour",
+    "lard",
+    "milk",
+    "nutmeg",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-cowheel.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo dress a Cow-Heel.\u003C/b\u003E\u003Cbr\u003E\nTake out the Bones, and clean it, cut it to pieces, and wash it; then flour it, and strew over it a little Pepper and Salt, then fry it brown in Hog\u0027s-Lard, made very hot in the Pan. Prepare at the same time some small Onions boiled whole, till they are tender, and pull off as many of the Coats or Skins, till you see them pure white; then make a Sauce of Gravey, some White-Wine, Nutmeg, and a little whole Spice, with a little Salt and Pepper, and thicken it with burnt Butter. Let your Onions, when they are skin\u0027d, be made hot in Milk, and lay them whole in the Dish, with the Cow-Heel, and pour the Sauce over the whole. Some who have strong Stomachs will slice Onions, and flouring them well, fry them with with the Cow-Heel, but this must be fry\u0027d in Butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Fried Cowheel",
+  "usedSnapshot": "20220517183429"
+}

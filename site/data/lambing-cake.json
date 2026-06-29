@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150922074936",
+  "finalPath": "lambing-cake.html",
+  "heading": "Lambing Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cinnamon",
+    "cream",
+    "currents",
+    "eggs",
+    "fat",
+    "flour",
+    "ginger",
+    "margarine",
+    "milk",
+    "salt",
+    "self-raising flour",
+    "sugar",
+    "sultanas",
+    "sultanas currents"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lambing-cake.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 oz margarine or butter\u003Cbr\u003E\n4 oz sugar\u003Cbr\u003E\n2 eggs, beaten\u003Cbr\u003E\n8 oz self-raising flour\u003Cbr\u003E\n2 level teaspoons mixed spice\u003Cbr\u003E\n1/2 teaspoon ground cinnamon\u003Cbr\u003E\n1/2 teaspoon ground ginger\u003Cbr\u003E\nsalt\u003Cbr\u003E\n2 oz sultanas currents\u003Cbr\u003E\n3 fl oz milk and water, equally mixed\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 325F or Mark 3. Cream the fat and sugar together in a bowl until light and fluffy, then beat in the eggs, a little at a time. Sift together the flour, spices and salt and fold into the mixture, then add the fruit and sufficient liquid to produce a soft dropping consistency. Turn the mixture into a greased and base-lined 2 lb loaf tin and smooth the top. Bake for 20 minutes, then reduce the oven temperature to300F or Mark 2 for a further 40-50 minutes, covering the top with a piece of kitchen foil if it appears to be browning too quickly. Cool in the tin for 5 minutes, then turn out onto a wire rack. Serve sliced, plain or with butter.\u003Cbr\u003E\n\u003Chr color=\u0022#B81010\u0022\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Lambing Cake",
+  "usedSnapshot": "20211019172832"
+}

@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20130324050602",
+  "finalPath": "frazzled-or-frizzled-beef.html",
+  "heading": "Frazzled (or Frizzled) Beef",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Herefordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Frazzled (or Frizzled) Beef",
+  "usedSnapshot": "20211201041231"
+}

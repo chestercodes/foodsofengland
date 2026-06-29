@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922085115",
+  "finalPath": "somerset-sauce.html",
+  "heading": "Somerset Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETabrum\u0027s Somerset sauce\u003C/b\u003E",
+      "relatedPageUrl": "tabrums_somerset_sauce.htm",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Somerset Sauce",
+  "usedSnapshot": "20211021020952"
+}

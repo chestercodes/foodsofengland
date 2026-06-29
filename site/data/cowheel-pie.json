@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212020539",
+  "finalPath": "cowheel-pie.html",
+  "heading": "Cowheel Pie",
+  "ingredients": [
+    "beef",
+    "flour",
+    "gravy",
+    "mashed potatoes",
+    "onion",
+    "pepper",
+    "potatoes",
+    "salt",
+    "self-raising flour",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cowheel-pie.html-1",
+      "receiptSource": "Original Receipt from in \u0027\u003Ci\u003EThe Farmhouse Kitchen\u003C/i\u003E\u0027 by Mary Norwak, c1980, (with thanks to Linda Johnson)",
+      "receiptText": "\u003Cb\u003EBeef and Cowheel Pie\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients:\u003C/b\u003E\u003Cbr\u003E\n12oz shin beef\u003Cbr\u003E\nHalf a cowheel\u003Cbr\u003E\nOne onion stuck with cloves\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\n6oz self-raising flour\u003Cbr\u003E\n3oz shredded suet\u003Cbr\u003E\n\u003Cbr\u003E\nCut up the beef and cowheel, cover with water and add the onion, salt and pepper. Simmer for three hours. Strain, and keep the liquid. Remove the bones and onion and cut the meat into neat pieces. Put into a greased pie dies, moisten with cooking liquid, and taste for seasoning. Mix the flour and suet with a pinch of salt, and mix to a soft dough with cold water. Roll out and put on top of the meat. Bake at 400F, 200C, gas mark 6 for one hour. Make gravy with the remaining cooking liquid, and serve the pie with gravy, mashed potatoes and a green vegetable.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cowheel Pie",
+  "usedSnapshot": "20211027032133"
+}

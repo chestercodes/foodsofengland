@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922094439",
+  "finalPath": "toast-curry.html",
+  "heading": "Toast Curry",
+  "ingredients": [
+    "bread",
+    "curry",
+    "gravy",
+    "rice",
+    "toast",
+    "butter",
+    "cardamoms",
+    "garlic",
+    "ketchup",
+    "onion",
+    "parsley",
+    "tarragon",
+    "tomato",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "toast-curry.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027The Curry Cook\u0027s Assistant\u0027\u003C/i\u003E by Daniel Santiagoe, 1887",
+      "receiptText": "\u003Cb\u003ETOAST CURRY.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPrepare some Curry gravy, same as Madras Curry. Now toast two slices of bread; cut thin, and in diamond shape. After toasted, dish the toast on a vegetable dish, and pour over the gravy you prepared, and send to table hot, with Curry and rice, samball, etc.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "toast-curry.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHome Chat\u003C/i\u003E\u0027 Magazine, No182, p611",
+      "receiptText": "TOAST CURRY Cut up an onion into very thin rings; chop two heads of garlic, two bay leaves, and fry all these in 2 oz. of butter with 12 cloves until nicely browned. Then add one tablespoonful of curry powder and stir. Then put in one large cupful of good tomato ketchup, a teaspoonful of tarragon vinegar and the seeds of 8 cardamoms; simmer gently for about fifteen minutes until the mixture is thick. Spread generously on rounds of fried bread. Garnish with parsley and serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Toast Curry",
+  "usedSnapshot": "20211205180839"
+}

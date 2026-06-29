@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150524214835",
+  "finalPath": "galandine-sauce.html",
+  "heading": "Galandine Sauce",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "ginger",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "galandine-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGALYNTYNE\u003C/b\u003E\u003Cbr\u003E\nTake crusts of Bread and grind them small, do thereto powder of galyngale, of cinnamon, of ginger and salt it, temper it with vinegar and draw it though a strainer \u0026 present it forth\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bread Sauce",
+      "relatedPageUrl": "bread-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Galandine Sauce",
+  "usedSnapshot": "20220819104816"
+}

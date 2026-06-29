@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140616084756",
+  "finalPath": "slipcote-cheese.html",
+  "heading": "Slipcote Cheese",
+  "ingredients": [
+    "cheese",
+    "fat",
+    "salt",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "slipcote-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESLIPP-COAT CHEESE\u003C/b\u003E\u003Cbr\u003E\nTake three quarts of the last of the stroakings of as many Cows as you have; keep it covered, that it may continue warm; put to it a skimming dishful of Spring-water; then put in two spoonfuls of Runnet, so let it stand until it be hard come: when it is hard come, set your fat on the bottome of a hair-sieve, take it up by degrees, but break it not; when you have laid it all in the fat, take a fine cloth, and lay it over the Cheese, and work it in about the sides, with the back of a Knife; then lay a board on it, for half an hour: after half an hour, set on the board an half pound stone, so let it stand two hours; then turn it on that board, and let the cloth be both under and over it, then pour it into the fat again; Then lay a pound and half weight on it; Two hours after turn it again on a dry cloth, and salt it, then set on it two pound weight, and let it stand until the next morning. Then turn it out of the Cheese-fat, on a dry board, and so keep it with turning on dry boards three days. In case it run abroad, you must set it up with wedges; when it begins to stiffen, lay green grass or rushes upon it: when it is stiff enough, let rushes be laid both under and over it. If this Cheese be rightly made, and the weather good to dry it, it will be ready in eight days: but in case it doth not dry well, you must lay it on linnen-cloth, and woollen upon it, to hasten the ripening of it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "slipcote-cheese.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E194 To make a slipcoat Cheese\u003C/b\u003E\u003Cbr\u003E\nTake five quarts of new milk a quart cream and a quart of water boil your water then put your cream to it when milk is new milk warm put in your erning take your curd into the strainer break it as little as you can and let it drain then put it your vat press it by degrees and lay it in grass\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Slipcote Cheese",
+  "usedSnapshot": "20211201004231"
+}

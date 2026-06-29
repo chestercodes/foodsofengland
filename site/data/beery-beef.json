@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922133229",
+  "finalPath": "beery-beef.html",
+  "heading": "Beery Beef",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBeef Dishes...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/beef.html",
+      "relationDescription": "For more, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "keyword",
+      "tagValue": "Beef"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Beery Beef",
+  "usedSnapshot": "20200324162345"
+}

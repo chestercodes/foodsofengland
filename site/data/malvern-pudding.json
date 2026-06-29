@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922101726",
+  "finalPath": "malvern-pudding.html",
+  "heading": "Malvern Pudding",
+  "ingredients": [
+    "apple",
+    "cinnamon",
+    "cornflakes",
+    "custard",
+    "pudding",
+    "bread",
+    "prunes",
+    "brandy",
+    "currants",
+    "eggs",
+    "lemon",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "malvern-pudding.html-1",
+      "receiptSource": "Original Receipt from Coventry Evening Telegraph - Tuesday 03 April 1979",
+      "receiptText": "\u003Cb\u003EMALVERN PUDDING\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nINGREDIENTS: 450 g (1lb.) peeled and cored cooking apples, a few drops saccharin solution, 5ml (1 teaspoon) ground cinnamon, 5ml (1 teaspoon) ground mixed spice, 15g (1 tablespoon) custard powder, 250m1. (1/2 pint) reconstituted Marvel, 25g (1 oz) cornflakes, 12.5 g (1/2 oz) hazlenuts, finely chopped. Six ramekins or small ovenproof dishes. METHOD: Slice the apples into a saucepan. Add a little water and 2.5 mi (1/2 teaspoon) cinnamon and mixed spice. Cook until soft. Sweeten to taste with saccharin. Divide the fruit between the dishes. Make up the custard using the custard powder and Marvel. Sweeten to taste. Pour on to the apple. Lightly crush the cornflakes and mix with the hazelnuts and remaining spices. Sprinkle a little on to the top of each pudding. Place under a hot grill for a few minutes until topping is golden brown. Serves 6; 81 calories per portion.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "malvern-pudding.html-2",
+      "receiptSource": "Original Receipt in \u003Ci\u003ECookery, Rational, Practical and Economical\u003C/i\u003E (p12) by Hartelaw Reid - 1855;",
+      "receiptText": "A Malvern Pudding is made as a \u003Ca href=\u0022apple-charlotte.html\u0022\u003E\u003Cb\u003ECharlotte\u003C/b\u003E\u003C/a\u003E but with the bread not buttered and the apples or other fruit stewed and put in hot. It is not baked but merely allowed to stand with the weight on the top till cold and congealed when it is ready for use. Prunes stoned and figs may be employed in this way.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "malvern-pudding.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMalvern Apple Pudding.\u003C/b\u003E - To a pound of finely-grated bread-crumbs and an equal weight of good russet apples - peeled, cored, and chopped small - add four ounces of moist sugar, a tea-spoonful of grated lemon-peel, or the rind of half a lemon, minced as small as possible, and four well-beaten eggs. Mix thoroughly with a wooden spoon, and throw in from time to time, while beating the mixture, a pound and a half, or more, of clean dry currants, and a glass of brandy. Boil in a floured cloth, which should be tied quite tight, without any space\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Malvern Pudding",
+  "usedSnapshot": "20210518193912"
+}

@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20130324050622",
+  "finalPath": "newmarket-pickle.html",
+  "heading": "Newmarket Pickle",
+  "ingredients": [
+    "beef",
+    "brown sugar",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "newmarket-pickle.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA PICKLE FOR TONGUES OR BEEF (Newmarket Recipe).\u003C/b\u003E\u003Cbr\u003E\n641. INGREDIENTS: 1 gallon of soft water, 3 lbs. of coarse salt, 6 oz. of coarse brown sugar,\u00BD oz. of saltpetre.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put all the ingredients into a saucepan, and let them boil for\u00BD hour, clear off the scum as it rises, and when done pour the pickle into a pickling-pan. Let it get cold, then put in the meat, and allow it to remain in the pickle from 8 to 14 days, according to the size. It will keep good for 6 months if well boiled once a fortnight. Tongues will take 1 month or 6 weeks to be properly cured; and, in salting meat, beef and tongues should always be put in separate vessels.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: A moderate-sized tongue should remain in the pickle about a month, and be turned every day.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Newmarket Pickle",
+  "usedSnapshot": "20211020233752"
+}

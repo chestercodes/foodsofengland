@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150423003217",
+  "finalPath": "oxford-punch.html",
+  "heading": "Oxford Punch",
+  "ingredients": [
+    "brandy",
+    "jamaica rum",
+    "jelly",
+    "lemons",
+    "orange",
+    "oranges",
+    "seville oranges",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxford-punch.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EOXFORD PUNCH.\u003C/b\u003E\u003Cbr\u003E\nExtract the essence from the rinds of three lemons by rubbing them with sugar in lumps; put these into a large jug with the peel of two Seville oranges of two lemons cut extremely thin, the juice of four Seville oranges and of ten lemons, and six glasses of calf\u0027s feet jelly in a liquid state. Stir these well together, pour to them two quarts of boiling water, cover the jug closely, and set it near the fire for a quarter of an hour, then strain the mixture through a sieve into a punch bowl or jug, sweeten it with a bottle of capillaire, add half a pint of white wine, a pint of French brandy, a pint of Jamaica rum, and a bottle of orange shrub; stir the punch as the spirit is poured in. If not sufficiently sweet, add sugar in small quantities, or a spoonful or two of capillaire.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Oxford Punch",
+  "usedSnapshot": "20211021011541"
+}

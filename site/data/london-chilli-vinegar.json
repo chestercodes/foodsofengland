@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922085733",
+  "finalPath": "london-chilli-vinegar.html",
+  "heading": "London Chilli Vinegar",
+  "ingredients": [
+    "cayenne",
+    "chili",
+    "chili vinegar",
+    "pepper",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "london-chilli-vinegar.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECHILI VINEGAR.\u003C/b\u003E\u003Cbr\u003E\n393. INGREDIENTS: 50 fresh red English chilies, 1 pint of vinegar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Pound or cut the chilies in half, and infuse them in the vinegar for a fortnight, when it will be fit for use. This will be found an agreeable relish to fish, as many people cannot eat it without the addition of an acid and cayenne pepper.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "london-chilli-vinegar.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "CAYENNE VINEGAR. Put from a quarter to half an ounce of the best cayenne pepper into a bottle, and pour on it a pint of pale vinegar. Cork it closely and shake it well every two or three days. It may remain any length of time before it is poured off, but will very soon be ready for use. Good cayenne pepper, to 1 oz.; vinegar, 1 pint: infuse from 2 weeks to 12 months.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "London Chilli Vinegar",
+  "usedSnapshot": "20220527215854"
+}

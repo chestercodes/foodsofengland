@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150524220827",
+  "finalPath": "cryspels-or-cryspes.html",
+  "heading": "Cryspels or Cryspes",
+  "ingredients": [
+    "eggs",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cryspels-or-cryspes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECRYSPELS\u003C/b\u003E\u003Cbr\u003E\nTake and make a foile of good paste as thin as Paper. Carve it out \u0026 fry it in oile, or in grease and the remnaunt. Take hony clarified and flaunne [sweet sauce?] therewith, ally them up and serve them forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cryspels-or-cryspes.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECryspes.\u003C/b\u003E Take white of eggs, milke, and fine floure, and bete it together, and drawe it through a streynour, so that it be rennyng, and noght to stiff; and caste there-to sugur and salt. And then take a chaffur ful of fresh grease boyling; and then put thi honde in the batur and let the bater ren through thi fingers into the chaffur; and whan it is ren together in the chaffre, and is ynowe, take a skymour, and take it oute of the chaffur, and put oute al the grease, and let ren; and put it in a faire diss, and cast sugur thereon ynow, and serve it fort.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECommon Fritters\u003C/b\u003E",
+      "relatedPageUrl": "common-fritters.html",
+      "relationDescription": "For a more modern version, see "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBennets\u003C/b\u003E",
+      "relatedPageUrl": "bennets.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Cryspels or Cryspes",
+  "usedSnapshot": "20220808003555"
+}

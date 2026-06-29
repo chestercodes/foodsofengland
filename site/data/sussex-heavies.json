@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922072818",
+  "finalPath": "sussex-heavies.html",
+  "heading": "Sussex Heavies",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Sussex Plum Heavies",
+      "relatedPageUrl": "sussex-plum-heavies.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sussex Heavies",
+  "usedSnapshot": "20210518195928"
+}

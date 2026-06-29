@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20110926014553",
+  "finalPath": "almond-scones.html",
+  "heading": "Almond Scones",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Almond Scones",
+  "usedSnapshot": "20211201035953"
+}

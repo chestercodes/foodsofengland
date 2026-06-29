@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922082627",
+  "finalPath": "baked-beans-old-style.html",
+  "heading": "Baked Beans - Old Style",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Baked Beans in Tomato Sauce",
+      "relatedPageUrl": "baked-beans-in-tomato-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Baked Beans - Old Style",
+  "usedSnapshot": "20220808004024"
+}

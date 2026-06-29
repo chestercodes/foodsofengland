@@ -1,0 +1,92 @@
+﻿{
+  "earliestSnapshot": "20130323195903",
+  "finalPath": "cottage-pie.html",
+  "heading": "Cottage Pie",
+  "ingredients": [
+    "eggs",
+    "milk",
+    "potato",
+    "pudding",
+    "steaks",
+    "beef",
+    "gravy",
+    "mashed potatoes",
+    "pepper",
+    "potatoes",
+    "salt",
+    "curry",
+    "flour",
+    "ketchup",
+    "mashed potato",
+    "onion",
+    "parsley",
+    "tomato",
+    "vinegar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "cottage-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003E(Walsh 1859)\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EPotato Pudding With Meat.\u003C/b\u003E\u003Cbr\u003E\nBoil them till fit to mash, rub through a colander, and make into a thick batter with milk and two eggs; lay some seasoned steaks in a dish, then some batter, and over the last layer put the remainder of the batter; bake a fine brown.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cottage-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ESheffield Independent\u003C/i\u003E\u0027 - Saturday 29 November 1884, p16",
+      "receiptText": "\u003Cb\u003ECottage Pie\u003C/b\u003E. \u2014 Mash the cold potatoes left from yesterday, spread a thick layer at the bottom of a pie dish, then lay on tho cold beef cut into very small pieces, almost minced, pour a teacupful of gravy over, saved from the stock used for soup, a little pepper and salt, then another layer of mashed potatoes. Score the top, then put it into the oven to get thoroughly hot and nicely browned.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cottage-pie.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitstable Times and Herne Bay Herald\u003C/i\u003E\u0027 - Saturday 28 April 1894, p2",
+      "receiptText": "\u003Cb\u003ECottage Pie.\u003C/b\u003E\u2014Take the remains of cold joint, especially in winter weather. For it allow one pound of cold meat, one Spanish onion, teaspoonful of chopped parsley, and seasoning of pepper, salt, and curry powder. First chop the onion and fry- it dripping till brown, flour it well, then add gradually a little water as stock and the parsley. Chop the meat rather finely, add it to the gravy and seasoning, and place it in pie-dish. Cover with a layer mashed potato, put a few bits of dripping on the top, and bake in a good steady oven for 40 minutes. a good plan to add little ketchup, tomato sauce, or pickle vinegar to the gravy, just vary the flavour\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Saunders",
+      "relatedPageUrl": "saunders-or-sanders.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Shepherd\u0027s Pie",
+      "relatedPageUrl": "shepherd-s-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Potato Table Pasty",
+      "relatedPageUrl": "potato-table-pasty.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cumberland Pie",
+      "relatedPageUrl": "cumberland-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGloucestershire Pie\u003C/b\u003E",
+      "relatedPageUrl": "gloucestershire-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Cottage Pie",
+  "usedSnapshot": "20220819102837"
+}

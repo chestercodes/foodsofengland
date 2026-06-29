@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922093338",
+  "finalPath": "baked-raisin-pudding.html",
+  "heading": "Baked Raisin Pudding",
+  "ingredients": [
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-raisin-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBAKED RAISIN PUDDING.\u003C/b\u003E\u003Cbr\u003E\n(Plain and Economical.)\u003Cbr\u003E\n1336. INGREDIENTS: 1 lb. of flour, \u00BE lb. of stoned raisins,\u00BD lb. of suet, a pinch of salt, 1 oz. of sugar, a little grated nutmeg, milk.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Chop the suet finely; stone the raisins and cut them in halves; mix these with the suet, add the salt, sugar, and grated nutmeg, and moisten the whole with sufficient milk to make it of the consistency of thick batter. Put the pudding into a buttered pie-dish, and bake for 1-\u00BD hour, or rather longer. Turn it out of the dish, strew sifted sugar over, and serve. This is a very plain recipe, and suitable where there is a family of children. It, of course, can be much improved by the addition of candied peel, currants, and rather a larger proportion of suet: a few eggs would also make the pudding richer.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour. \u003Ci\u003EAverage cost\u003C/i\u003E: 9d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 7 or 8 persons. \u003Ci\u003ESeasonable\u003C/i\u003E: in winter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Baked Raisin Pudding",
+  "usedSnapshot": "20220516212954"
+}

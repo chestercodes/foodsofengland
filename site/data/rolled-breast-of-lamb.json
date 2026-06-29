@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20130323203645",
+  "finalPath": "rolled-breast-of-lamb.html",
+  "heading": "Rolled Breast of Lamb",
+  "ingredients": [
+    "anchovies",
+    "bread",
+    "egg",
+    "fat",
+    "ham",
+    "mutton",
+    "onion",
+    "pepper",
+    "salt",
+    "tomato",
+    "veal",
+    "breadcrumbs",
+    "currant",
+    "gravy",
+    "herbs",
+    "jelly",
+    "lemon",
+    "walnuts"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rolled-breast-of-lamb.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EBlackburn Standard\u003C/i\u003E\u0027 - Saturday 3 June 1893",
+      "receiptText": "Rolled breast of mutton is cheap and tasty and nutritious, and should therefore find a frequent place upon economical dinner-tables. To prepare the aforesaid dish you must remove the bones and any superfluous fat from a breast of mutton, season it on the inside with pepper, salt, a little finely-chopped onion, and some grated ham, if at hand. If not, of course you must do without it. Have ready some good veal stuffing, to which a couple of washed, boned, and minced anchovies have been added, and put a layer of this force over the seasoning; roll up the meat neatly, fasten it tightly with broad tape, roll it in a well creased paper, and lay it with a little clarified dripping in a baking tin in\u0022 the oven. Let it cook for about half an hour; then take it out, remove the paper, brush the meat over with whole beaten egg, roll it in baked bread crumbs, and replace it in the oven for from forty to forty-five minutes, basting it every now and then. When done remove the tapes, put the meat into a very hot dish, and serve either with brown caper or tomato sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rolled-breast-of-lamb.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E24. ROLLED BREAST OF MUTTON (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\nTake a breast of mutton, lay it on a board, and remove the bones. Trim it neatly, and remove some of the fat. Cover the side from which the bones have been removed with slices of ham, and then with a layer of meat stuffing, which has a flavouring of lemon grated. Quarter some pickled walnuts, and place them here and there on the forcemeat. Now roll the meat neatly and tightly, screwing the flap over. Bind it round with tape and roast it. The meat should be wrapped in caul or greased paper for the first hour it is in the roaster, and afterwards basted in the ordinary way. Place the mutton on a hot dish, remove the tape, and make a little good gravy. Strain it well, and stir it into a tablespoonful of red currant jelly, and pour it over and round the meat. Then take two tablespoonfuls of highly browned breadcrumbs, a teaspoonful of mixed herbs, a quarter of a teaspoonful of pepper, half a teaspoonful of salt, and mix thoroughly. Sprinkle this over the meat and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Rolled Breast of Lamb",
+  "usedSnapshot": "20211021011446"
+}

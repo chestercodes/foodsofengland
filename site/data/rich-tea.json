@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140508110519",
+  "finalPath": "rich-tea.html",
+  "heading": "Rich Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Rich Tea",
+  "usedSnapshot": "20210518200953"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808224341",
+  "finalPath": "cider-sauce.html",
+  "heading": "Cider Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "West Country"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider Sauce",
+  "usedSnapshot": "20220815152226"
+}

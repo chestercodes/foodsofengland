@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922074728",
+  "finalPath": "elderberry-wine.html",
+  "heading": "Elderberry Wine",
+  "ingredients": [
+    "brandy",
+    "bread",
+    "elderberries",
+    "ginger",
+    "hops",
+    "milk",
+    "nutmeg",
+    "raisins",
+    "sugar",
+    "toasted bread",
+    "turkey",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "elderberry-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EELDER WINE.\u003C/b\u003E\u003Cbr\u003E\n1818. INGREDIENTS: To every 3 gallons of water allow 1 peck of elderberries; to every gallon of juice allow 3 lbs. of sugar,\u00BD oz. of ground ginger, 6 cloves, 1 lb. of good Turkey raisins;\u00BD pint of brandy to every gallon of wine. To every 9 gallons of wine 3 or 4 tablespoonfuls of fresh brewer\u0027s yeast.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Pour the water, quite boiling, on the elderberries, which should be picked from the stalks, and let these stand covered for 24 hours; then strain the whole through a sieve or bag, breaking the fruit to express all the juice from it. Measure the liquor, and to every gallon allow the above proportion of sugar. Boil the juice and sugar with the ginger, cloves, and raisins for 1 hour, skimming the liquor the whole time; let it stand until milk-warm, then put it into a clean dry cask, with 3 or 4 tablespoonfuls of good fresh yeast to every 9 gallons of wine. Let it ferment for about a fortnight; then add the brandy, bung up the cask, and let it stand some months before it is bottled, when it will be found excellent. A bunch of hops suspended to a string from the bung, some persons say, will preserve the wine good for several years. Elder wine is usually mulled, and served with sippets of toasted bread and a little grated nutmeg.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: To stand covered 24 hours; to be boiled 1 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: when made at home, 3s. 6d. per gallon.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: Make this in September.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EElderberry Syrup\u003C/b\u003E",
+      "relatedPageUrl": "elderberry-syrup.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Elderberry Wine",
+  "usedSnapshot": "20211027041027"
+}

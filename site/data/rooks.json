@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922071643",
+  "finalPath": "rooks.html",
+  "heading": "Rooks",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "salt",
+    "ale",
+    "bacon",
+    "beat",
+    "ginger",
+    "gravy",
+    "herbs",
+    "leeks",
+    "liver",
+    "mushrooms",
+    "onions",
+    "pigeons",
+    "pudding",
+    "steak"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rooks.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ROOK PIE. Skin and draw some young rooks, cut out the backbones, and season with pepper and salt. Lay them in a dish with a little water, strew some bits of butter over them, cover the dish with a thick crust, and bake it well.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rooks.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E255. Young Rook Pudding.-\u003C/b\u003E If these young inhabitants of the woods and forests are eatable in pies, I do not see why we should not give them, after their wild career, a soft bed of repose in a pudding crust. Open them by the back, then draw them, divide them into two, and then into quarters; extract the big bones, leaving the flesh only; beat each piece flat, and season with salt, pepper, and a little grated ginger; make a stuffing with the liver. Lay on the crust a slice of bacon, then the birds, then a slice of steak; season with. any aromatic herbs, or chopped onions, leeks or mushrooms; add a gill of ale, or wine, gravy or water; boil one hour and a half, and serve. Pigeons may be done in the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Rooks",
+  "usedSnapshot": "20220516215527"
+}

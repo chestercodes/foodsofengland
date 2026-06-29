@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922094837",
+  "finalPath": "barford-pudding.html",
+  "heading": "Barford Pudding",
+  "ingredients": [
+    "beef",
+    "eggs",
+    "flour",
+    "nutmeg",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barford-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EBarford Pudding.\u003C/b\u003E\u003Cbr\u003E\n944. Take one pound of beef suet, one pound of raisins, five well-beaten eggs, four spoonfuls of flour, six ounces of loaf sugar, half a nutmeg, and a little salt; mix them well, put them in a basin, and boil four hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Bedfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Barford Pudding",
+  "usedSnapshot": "20200924012025"
+}

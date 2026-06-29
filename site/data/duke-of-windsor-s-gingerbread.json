@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922081530",
+  "finalPath": "duke-of-windsor-s-gingerbread.html",
+  "heading": "Duke of Windsor\u0027s Gingerbread",
+  "ingredients": [
+    "allspice",
+    "almonds",
+    "beat",
+    "black treacle",
+    "butter",
+    "caraway seeds",
+    "eggs",
+    "flour",
+    "ginger",
+    "margarine",
+    "plain flour",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "duke-of-windsor-s-gingerbread.html-1",
+      "receiptSource": "Original Receipt adapted from \u0027\u003Ci\u003ECourt Favorites\u003C/i\u003E\u0027 by Elizabeth Craig (1953)",
+      "receiptText": "1/2 lb Butter or margarine -softened\u003Cbr\u003E\n1 ts Ground caraway seeds\u003Cbr\u003E\n2 oz Chopped mixed peel\u003Cbr\u003E\n1 lb Plain flour\u003Cbr\u003E\n1/2 ts Ground allspice\u003Cbr\u003E\n4 oz Dark brown or Barbados sugar\u003Cbr\u003E\n1/4 ts Bicarbonate of soda\u003Cbr\u003E\n1 oz Ground ginger\u003Cbr\u003E\n1 lb Black treacle\u003Cbr\u003E\n1/2 lb Blanched, chopped almonds\u003Cbr\u003E\n3 Eggs\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat the oven to 350F. Rub the butter into the flour until it looks like coarse meal. Stir in the sugar, ginger, almonds, spices, the peel and the bicarbonate of soda until well blended. Beat the eggs with the treacle and stir into the dry ingredients. Pour into 2 buttered and floured loaf tins and bake in the oven for approximately 35-40 minutes or until the cakes are risen and just shrinking from the sides of the pan. Turn out onto racks and cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Duke of Windsor\u0027s Gingerbread",
+  "usedSnapshot": "20220924135749"
+}

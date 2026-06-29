@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073253",
+  "finalPath": "celery-sauce.html",
+  "heading": "Celery Sauce",
+  "ingredients": [
+    "butter",
+    "celery",
+    "cream",
+    "flour",
+    "milk",
+    "onions",
+    "pepper",
+    "salt",
+    "turkey",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "celery-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "CELERY SAUCE. Cut small half a dozen heads of clean white celery, with two sliced onions. Put them into a stewpan, with a small piece of butter, and sweat them over a slow fire till quite tender. Add two spoonfuls of flour, half a pint of broth, salt and pepper, and a little cream or milk. Boil it a quarter of an hour, and pass it through a fine hair sieve with the back of a spoon. When celery is not in season, a quarter of a dram of celery seed, or a little of the essence, will impregnate half a pint of sauce with all the flavour of the vegetable. This sauce is intended for boiled turkey, veal, or fowls.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Celery Sauce",
+  "usedSnapshot": "20220819112706"
+}

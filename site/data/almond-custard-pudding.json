@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922071758",
+  "finalPath": "almond-custard-pudding.html",
+  "heading": "Almond Custard Pudding",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "butter",
+    "cream",
+    "egg",
+    "eggs",
+    "orange",
+    "pudding",
+    "puddings",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "almond-custard-pudding.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E3481 ENGLISH ALMOND PUDDING\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMix to the consistence of a pomade four oz. of butter and five oz. of powdered sugar; add eight oz. of finely-chopped almonds, a pinch of table salt, a half table-spoonful of orange-flower water, two eggs, two egg-yolks, and one-sixth pint of cream. Pour this preparation into a buttered pie-dish, and cook in a bain-marie in the oven.\u003Cbr\u003E\n\u003Cbr\u003E\nN.B. English puddings of what kind soever are served in the dishes or basins in which they have cooked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Almond Breadcrumb Pudding",
+      "relatedPageUrl": "almond-breadcrumb-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Almond Custard Pudding",
+      "relatedPageUrl": "almond-custard-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Ipswich Almond Pudding",
+      "relatedPageUrl": "ipswich-almond-pudding.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Almond Custard Pudding",
+  "usedSnapshot": "20210512113111"
+}

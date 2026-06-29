@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20130322035256",
+  "finalPath": "scotch-eggs.html",
+  "heading": "Scotch Eggs",
+  "ingredients": [
+    "eggs",
+    "gravy",
+    "ham",
+    "bread",
+    "egg",
+    "fat",
+    "sausage meat",
+    "tomato",
+    "anchovies",
+    "anchovy",
+    "lard"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "scotch-eggs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EScotch Eggs\u003C/b\u003E\u003Cbr\u003E\nBoil hard five pullet\u0027s eggs and without removing the white, cover completely with a fine relishing forcemeat in which let scraped ham bear a due proportion. Fry of a beautiful yellow brown and serve with a good gravy in the dish\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "scotch-eggs.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EHigh-Class Cookery Recipes\u003C/i\u003E \u0027 by Mrs Charles Clarke of the Kensignton National Cookery School (\u003Ca href=\u0022references.html#national-1887\u0022\u003E\u003Cb\u003ENational 1887\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBird\u0027s Nests.\u003C/b\u003E\u003Cbr\u003E\nIngredients.\u003Cbr\u003E\nSix Eggs (Plover\u0027s are the best).\u003Cbr\u003E\nHalf a pound of Sausages, or Quenelle Meat.\u003Cbr\u003E\nEgg and Bread-crumbs\u003Cbr\u003E\n\u003Cbr\u003E\nBoil six eggs quite hard, take them out of the shell carefully, and when quite cold mask them all over with quenelle or sausage meat, egg and bread- crumb them and fry them a nice brown. Take them out of the fat, cut them in half with a sharp knife, stand them up on the narrow end, dish them up with tomato sauce round.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "scotch-eggs.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESCOTCH EGGS.\u003C/b\u003E\u003Cbr\u003E\n1666. INGREDIENTS. - 6 eggs, 6 tablespoonfuls of forcemeat No. 417, hot lard,\u00BD pint of good brown gravy.\u003Cbr\u003E\nMode. - Boil the eggs for 10 minutes; strip them from the shells, and cover them with forcemeat made by recipe No. 417; or substitute pounded anchovies for the ham. Fry the eggs a nice brown in boiling lard, drain them before the fire from their greasy moisture, dish them, and pour round from 1/4 to\u00BD pint of good brown gravy. To enhance the appearance of the eggs, they may be rolled in beaten egg and sprinkled with bread crumbs; but this is scarcely necessary if they are carefully fried. The flavour of the ham or anchovy in the forcemeat must preponderate, as it should be very relishing.\u003Cbr\u003E\nTime. - 10 minutes to boil the eggs, 5 to 7 minutes to fry them.\u003Cbr\u003E\nAverage cost, 1s. 4d.\u003Cbr\u003E\nSufficient for 3 or 4 persons. Seasonable at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "national-1887"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Scotch Eggs",
+  "usedSnapshot": "20220809203903"
+}

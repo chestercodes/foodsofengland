@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150524220105",
+  "finalPath": "sops-or-soppes.html",
+  "heading": "Sops or Soppes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sops or Soppes",
+  "usedSnapshot": "20220108184549"
+}

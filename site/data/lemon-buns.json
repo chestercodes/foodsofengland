@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922083636",
+  "finalPath": "lemon-buns.html",
+  "heading": "Lemon Buns",
+  "ingredients": [
+    "butter",
+    "castor sugar",
+    "flour",
+    "lemon",
+    "milk",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lemon-buns.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EBurnley Express\u003C/i\u003E\u0027 - Saturday 27 October 1894",
+      "receiptText": "To make a tea-cake which will out-rival I the muffin, take one pound of flour, three teaspoonful of baking-powder, six ounces of butter, four ounces of loaf sugar, and six or eight drops of essence of lemon; mix all well, and, if more liquid is required, add a very little milk. Make this mixture into twenty buns, and bake in a quick oven for fifteen minutes. Serve on a fancy dish and sprinkle lightly with castor sugar. These little cakes may be called \u0022lemon buns,\u0022 and are exceedingly light and delicious.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lemon Buns",
+  "usedSnapshot": "20170314203706"
+}

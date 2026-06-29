@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922132744",
+  "finalPath": "rhubarb-pudding.html",
+  "heading": "Rhubarb Pudding",
+  "ingredients": [
+    "cinnamon",
+    "lemon",
+    "marmalade",
+    "pudding",
+    "rhubarb",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESpring Fruit Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPeel, and well wash four dozen sticks of rhubarb: put into a stew-pan with the pudding a lemon, a little cinnamon, and as much moist sugar as will make it quite sweet; set it over a fire, and reduce it to a marmalade; pass through a hairsieve, and proceed as directed for the \u003Ca href=\u0022boston-pudding.html\u0022\u003E\u003Cb\u003EBoston pudding\u003C/b\u003E\u003C/a\u003E, leaving out the lemon-juice, as the rhubarb will be found sufficiently acid of itself.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERhubarb Pudding-Pie\u003C/b\u003E",
+      "relatedPageUrl": "rhubarb-pudding-pie.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Rhubarb Pudding",
+  "usedSnapshot": "20211201030244"
+}

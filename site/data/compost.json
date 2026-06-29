@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922083406",
+  "finalPath": "compost.html",
+  "heading": "Compost",
+  "ingredients": [
+    "salt",
+    "cinnamon",
+    "dates",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "compost.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFor to make a compost.\u003C/b\u003E\u003Cbr\u003E\nTake tho chekyns and hew hom for tho seke,\u003Cbr\u003E\nAll but the hede and the legges eke;\u003Cbr\u003E\nTake a handfulle of herb lovache,\u003Cbr\u003E\nAnd another of persely, als\u003Cbr\u003E\nOf sage that never was founde fals,\u003Cbr\u003E\nAnd nother of lekes and alle hom wasshe\u003Cbr\u003E\nthose herbes in water, that rennes so rasshe;\u003Cbr\u003E\nBreke thorowghe thy honde, bothe herbe and leke,\u003Cbr\u003E\nWith a pynt of hony enbeny hom eke,\u003Cbr\u003E\nSumme of these herbes thou shalle laye\u003Cbr\u003E\nIn the pottus bothun [sothun?], as I the say;\u003Cbr\u003E\nSumme of the chekyns thou put therto,\u003Cbr\u003E\nAnd then of the herbw do to also;\u003Cbr\u003E\nSo of tho ton so of that other,\u003Cbr\u003E\ntho herbw on the last my dere brother;\u003Cbr\u003E\nAbove these herbus a lytul larde\u003Cbr\u003E\nSmalle myncyd, haldand togeder warde;\u003Cbr\u003E\nTake powder of gynger and canel god wone,\u003Cbr\u003E\nCast on these other thynges everychon;\u003Cbr\u003E\nBe slewe and powre in water then\u003Cbr\u003E\nTo myd tho pot, as I the kenne;\u003Cbr\u003E\nOpone tho bruys poure it withinne,\u003Cbr\u003E\nAnd cover it that no hete oute wynne,\u003Cbr\u003E\nAnd tendurly seyth it thou do may,\u003Cbr\u003E\nSalt it, serve it, as I the say.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "compost.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E for \u0027Pears in Compost\u0027;",
+      "receiptText": "\u003Cb\u003EPerys en Composte.\u003C/b\u003E Take wine an cinnamon, \u0026 a gret dele of Whyte sugar, an set it on the fire \u0026 hete it hote, but let it nowt boil, an draw it thorwe a strainer; than take fair dates, an pick out the stonys, an leche them alle thinne, an caste thereto; thanne take Wardonys, an pare them and seethe them, Page 13 an leche them alle thinne, \u0026 caste thereto in-to the Syryppe: thanne take a little Sawnderys, and caste thereto, an set it on the fire; an if thow hast charde quynce, caste thereto in the boyling, an loke that it stonde well with sugar, an well lyid with cinnamon, an caste Salt thereto, an let it boil; an than caste yt on a treen vessel, \u0026 let it kele, \u0026 serve forth.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Compost",
+  "usedSnapshot": "20181117002439"
+}

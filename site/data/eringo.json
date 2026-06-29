@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20121024084808",
+  "finalPath": "eringo.html",
+  "heading": "Eringo",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "eringo.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E1. How to preserve Eringo roots, \u00C6nula Campana, and so of others in the same manner.\u003C/b\u003E\u003Cbr\u003E\nSeethem them till they be tender: then take away the piths of them, and leave them in a colander till they have dropped as much as they will: then having a thin sirup ready, put them being cold into the sirup beeing also cold, and let them stand so three daies, then boyle the sirup (adding some fresh sirup to it; to supply that which the rootes have drunke up) a little higher: and at three daies end, boyle the sirup againe without any new addition, unto the full height of a preserving sirup, and put it in your rootes, and so keep them. Rootes preserved in this manner, will eate ery tender, because they never boyled in the sirup.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1617"
+    }
+  ],
+  "title": "Eringo",
+  "usedSnapshot": "20220303105449"
+}

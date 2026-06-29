@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922103412",
+  "finalPath": "ground-rice-custard.html",
+  "heading": "Ground Rice Custard",
+  "ingredients": [
+    "almonds",
+    "eggs",
+    "lemon",
+    "marmalade",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "rice",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ground-rice-custard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBAKED OR BOILED GROUND RICE PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1353. INGREDIENTS: 2 pints of milk, 6 tablespoonfuls of ground rice, sugar to taste, 4 eggs, flavouring of lemon-rind, nutmeg, bitter almonds or bay-leaf.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put 1-\u00BD pint of the milk into a stewpan, with any of the above flavourings, and bring it to the boiling-point, and, with the other\u00BD pint of milk, mix the ground rice to a smooth batter; strain the boiling milk to this, and stir over the fire until the mixture is tolerably thick; then pour it into a basin, leave it uncovered, and when nearly or quite cold, sweeten it to taste, and add the eggs, which should be previously well beaten, with a little salt. Put the pudding into a well-buttered basin, tie it down with a cloth, plunge it into boiling water, and boil for 1-\u00BD hour. For a baked pudding, proceed in precisely the same manner, only using half the above proportion of ground rice, with the same quantity of all the other ingredients: an hour will bake the pudding in a moderate oven. Stewed fruit, or preserves, or marmalade, may be served with either the boiled or baked pudding, and will be found an improvement.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour to boil, 1 hour to bake.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 10d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Ground Rice Custard",
+  "usedSnapshot": "20220517184720"
+}

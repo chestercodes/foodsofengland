@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922100819",
+  "finalPath": "honey-pudding.html",
+  "heading": "Honey Pudding",
+  "ingredients": [
+    "butter",
+    "flour",
+    "honey",
+    "lemon",
+    "lemons",
+    "pudding",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "honey-pudding.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ENorth Devon Journal\u003C/i\u003E\u0027 - Thursday 24 July 1884",
+      "receiptText": "HONEY PUDDING.\u003Cbr\u003E\nThree pints of thinly sliced apples, one pint of honey, one pint of maize meal, small piece of butter, one teaspoonful of carbonate of soda, the juice of two lemons, and their grated rinds. Stir the dry soda into the honey, then add the apples, melted butter, and a little salt, now add the lemon rind and juice, and at once stir in the flour. Bake one hour, serve hot or cold with sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Honey Pudding",
+  "usedSnapshot": "20220527060752"
+}

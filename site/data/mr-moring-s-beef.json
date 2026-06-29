@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323203615",
+  "finalPath": "mr-moring-s-beef.html",
+  "heading": "Mr Moring\u0027s Beef",
+  "ingredients": [
+    "beef",
+    "butter",
+    "herbs",
+    "lemon",
+    "nutmeg",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mr-moring-s-beef.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA Hash of raw Beef. From Mr. Moring at the Blue-Posts Temple-Bar.\u003C/b\u003E\u003Cbr\u003E\nCut some thin Slices of tender Beef, and put them in a Stew-Pan, with a little Water, a bunch of sweet Herbs, some Lemon-Peel, an Onion, with some Pepper, Salt, and some Nutmeg. Cover these close, and let them stew till they are tender; then pour in a Glass or two of Claret; and when it is warm, clear your Sauce of the Onion, Herbs, \u0026amp;c. and thicken it with burnt Butter. It is an excellent Dish. Serve it hot, and garnish with Lemon diced, and red Beet-Roots, Capers, and such like.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Mr Moring\u0027s Beef",
+  "usedSnapshot": "20211020222428"
+}

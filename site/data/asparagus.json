@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922071952",
+  "finalPath": "asparagus.html",
+  "heading": "Asparagus",
+  "ingredients": [
+    "butter",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "asparagus.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EButtered Sparagus.\u003C/b\u003E\u003Cbr\u003E\nTake two hundred of sparagus, scrape the roots clean and wash them, then take the heads of an hundred and lay them even, bind them hard up into a bundle, and so likewise of the other hundred; then have a large skillet of fair water, when it boils put them in, and boil them up quick with some salt; being boil\u0027d drain them, and serve them with beaten butter and salt about the dish, or butter and vinegar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Asparagus",
+  "usedSnapshot": "20220516225139"
+}

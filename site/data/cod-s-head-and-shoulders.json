@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922073529",
+  "finalPath": "cod-s-head-and-shoulders.html",
+  "heading": "Cod\u0027s Head (and shoulders)",
+  "ingredients": [
+    "butter",
+    "cod",
+    "crab",
+    "flour",
+    "gravy",
+    "horse-radish",
+    "lemon",
+    "lobster",
+    "oysters",
+    "pickles",
+    "salt",
+    "shrimps",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cod-s-head-and-shoulders.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E203. To dress a COD\u0027S HEAD.\u003C/b\u003E\u003Cbr\u003E\nTake a cod\u0027s head, wash and clean it, take out the gills, cut it open, and make it to lie flat; (if you have no conveniency of boiling it you may do it in an oven, and it will be as well or better) put it into a copper-dish or earthen one, lie upon it a littler butter, salt, and flour, and when it is enough take off the skin.\u003Cbr\u003E\n\u003Ci\u003ESAUCE for the COD\u0027S HEAD.\u003C/i\u003E\u003Cbr\u003E\nTake a little white gravy, about a pint of oysters or cockles, a little shred lemon-peel, two or three spoonfuls of white wine, and about half a pound of butter thicken\u0027d with flour, and put it into your boat or bason.\u003Cbr\u003E\n\u003Ci\u003EAnother SAUCE for a COD\u0027S HEAD.\u003C/i\u003E\u003Cbr\u003E\nTake a pint of good gravy, a lobster or crab, which you can get, dress and put it into your gravy with a little butter, juice of lemon, shred lemon-peel, and a few shrimps if you have them; thicken it with a little flour, and put it into your bason, set the oysters on one side of the dish and this on the other; lay round the head boiled whitings, or any fried fish; pour over the head a little melted butter. Garnish your dish with horse-radish, slices of lemon and pickles.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Cod\u0027s Head (and shoulders)",
+  "usedSnapshot": "20211201001233"
+}

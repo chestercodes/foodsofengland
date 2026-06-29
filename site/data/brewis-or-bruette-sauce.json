@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922074531",
+  "finalPath": "brewis-or-bruette-sauce.html",
+  "heading": "Brewis or Bruette Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrewis\u003C/b\u003E",
+      "relatedPageUrl": "brewis-soup.html",
+      "relationDescription": "For similar dishes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brewis or Bruette Sauce",
+  "usedSnapshot": "20211207111116"
+}

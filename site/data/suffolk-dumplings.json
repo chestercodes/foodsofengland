@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922080640",
+  "finalPath": "suffolk-dumplings.html",
+  "heading": "Suffolk Dumplings",
+  "ingredients": [
+    "apple",
+    "bread",
+    "butter",
+    "gravy",
+    "milk",
+    "salt",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "suffolk-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SUFFOLK DUMPLINS [sic]. Make a very light dough with yeast, as for bread; add a little salt, and use milk instead of water. Let it rise an hour before the fire. Round the dough into balls, the size of a middling apple; throw them into boiling water, and let them boil twenty minutes. To ascertain when they are done enough, stick a clean fork into one; and if it come out clear, they are ready to take up. Do not cut, but tear them apart on the top with two forks, for they become heavy by their own steam. They should be eaten immediately, with gravy or cold butter, or with meat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Suffolk Dumplings",
+  "usedSnapshot": "20211205163836"
+}

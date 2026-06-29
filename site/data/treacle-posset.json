@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922133154",
+  "finalPath": "treacle-posset.html",
+  "heading": "Treacle Posset",
+  "ingredients": [
+    "milk",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "treacle-posset.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "TREACLE POSSET. Add two table-spoonfuls of treacle to a pint of milk, and when ready to boil, stir it briskly over the fire till it curdles. Strain it off after standing covered a few minutes. This whey promotes perspiration, is suitable for a cold, and children will take it very freely.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPosset\u003C/b\u003E",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Treacle"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Treacle Posset",
+  "usedSnapshot": "20211207125525"
+}

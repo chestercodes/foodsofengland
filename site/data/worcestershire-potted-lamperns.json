@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140616085154",
+  "finalPath": "worcestershire-potted-lamperns.html",
+  "heading": "Worcestershire Potted Lamperns",
+  "ingredients": [
+    "beef",
+    "butter",
+    "pepper",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "worcestershire-potted-lamperns.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO POT LAMPREY, AS AT WORCESTER.\u003C/b\u003E\u003Cbr\u003E\nLeave the skin on, but remove the cartilage and a string on each side of it down the back. Wash and clean the fish very nicely in several waters, and wipe them. To a dozen of tolerable size use two ounces of white pepper, salt in proportion, six blades of mace, a dozen of cloves, all in fine powder, but do not season until the fish shall have drained all night. Lay them in a stone pot one by one, and curled round, the spices and salt being sprinkled in and about them. Clarify two pounds of butter, and half a pound of the finest beef-suet, pour it on the fish, and lay thick paper over to keep in the steam. Bake three hours in a moderate oven. Look often at them, and as the oil works up take it clear off. They will thus, in the storepot, keep till spring. Put into pots for serving as wanted; observing to take off the old butter, and having warmed the fish in the oven, cover with fresh butter only.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWorcester Stewed Lampreys\u003C/b\u003E",
+      "relatedPageUrl": "worcester-lampreys.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Worcestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Worcestershire Potted Lamperns",
+  "usedSnapshot": "20211201000017"
+}

@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140212033602",
+  "finalPath": "ripe-tart.html",
+  "heading": "Ripe Tart",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "breadcrumbs",
+    "butter",
+    "cherries",
+    "cornflour",
+    "egg",
+    "egg yolk",
+    "eggs",
+    "flan",
+    "flour",
+    "icing sugar",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ripe-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Ripe%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Ingredients\u003Cbr\u003E\nServes: 8\u003Cbr\u003E\n\u003Cbr\u003E\n8 oz Plain flour\u003Cbr\u003E\n1 oz Cornflour\u003Cbr\u003E\n4 oz Icing sugar\u003Cbr\u003E\n4 oz Butter\u003Cbr\u003E\n1 Egg yolk\u003Cbr\u003E\n1 lb Cherries, stoned\u003Cbr\u003E\n2 Eggs\u003Cbr\u003E\n3 oz Ground almonds\u003Cbr\u003E\nAlmond essence\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPre-heat oven to 200 \u00B0C / 400 \u00B0F / Gas 6.\u003Cbr\u003E\n\u003Cbr\u003E\nSift the flour, cornflour and 2 tsp icing sugar into a bowl, then rub in the butter until the mixture resembles fine breadcrumbs. Add the egg yolk and 2 tablespoons cold water and stir to bind together. Knead lightly on a floured surface and roll out. Use to line a 9 inch fluted flan tin. Bake blind for 10-15 minutes, until set. Reduce oven temperature to 170 \u00B0C / 325 \u00B0F / Gas 3.\u003Cbr\u003E\n\u003Cbr\u003E\nArrange cherries in flan case. Mix 4 oz icing sugar, eggs, almonds and essence, pour over the cherries. Bake for 50-60 minutes, until the top is firm and golden. Serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChireseye\u003C/b\u003E",
+      "relatedPageUrl": "chireseye.html",
+      "relationDescription": "For an ancient version of a cherry-and-breadcrumb tart, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Ripe Tart",
+  "usedSnapshot": "20211019174956"
+}

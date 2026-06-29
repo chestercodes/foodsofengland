@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140125041201",
+  "finalPath": "black-puddings-southern-form.html",
+  "heading": "Black Puddings - Southern Form",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBlack Pudding\u003C/b\u003E",
+      "relatedPageUrl": "black-pudding-sausage.html",
+      "relationDescription": "See "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Black Puddings - Southern Form",
+  "usedSnapshot": "20210518205657"
+}

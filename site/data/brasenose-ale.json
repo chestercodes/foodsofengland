@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150422222646",
+  "finalPath": "brasenose-ale.html",
+  "heading": "Brasenose Ale",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EAudit Ale\u003C/b\u003E",
+      "relatedPageUrl": "audit-ale.html",
+      "relationDescription": "See "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxford"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Brasenose Ale",
+  "usedSnapshot": "20211205173947"
+}

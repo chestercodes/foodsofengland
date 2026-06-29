@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922082834",
+  "finalPath": "pigeon-pot.html",
+  "heading": "Pigeon Pot",
+  "ingredients": [
+    "garlic",
+    "herbs",
+    "lard",
+    "pigeons",
+    "saffron",
+    "salt",
+    "apple",
+    "bacon",
+    "butter",
+    "cider",
+    "flour",
+    "onion",
+    "parsley",
+    "pigeon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pigeon-pot.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPEIOUNS YSTEWED. XX.II. VIII.\u003C/b\u003E\u003Cbr\u003E\nTake peions and stop hem with garlec ypylled and with gode erbes ihewe. and do hem in an erthen pot. cast \u00FEerto gode broth and whyte grece. Powdour fort. safroun verious \u0026 salt.\u003Cbr\u003E\n\u003Cbr\u003E\n[\u003Ci\u003E48: STEWED PIGEONS\u003Cbr\u003E\nTake pigeons and stuff them with crushed garlic and good herbs, chopped. Put them in an earthenware pot with good broth and lard, Hot Spice Powders, Saffron, sour wine \u0026 salt.\u003C/i\u003E]\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pigeon-pot.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Pigeon%20Pot\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EPigeon Pot\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4 - 6 pigeon breasts\u003Cbr\u003E\n2 oz sliced onion\u003Cbr\u003E\n\u00BC pint cider\u003Cbr\u003E\n1 small apple\u003Cbr\u003E\n\u00BE pint stock\u003Cbr\u003E\n\u00BD oz flour\u003Cbr\u003E\n\u00BE oz butter\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\nbouquet garni\u003Cbr\u003E\n\u003Cbr\u003E\nWash and dry breasts and dip in seasoned flour. Brown in butter in the casserole. Remove and brown sliced onion and apple. Sprinkle in flour, cook for a few minutes, and then add stock. Bring to the boil, season and add bouquet garni. Pour in cider and replace pigeon breasts. Cover casserole tightly and cook for 2 - 3 hours in a slow oven. Add a little diced bacon and sprinkle with parsley before serving.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pigeon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Pigeon Pot",
+  "usedSnapshot": "20210518202045"
+}

@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20130728034944",
+  "finalPath": "huckle-my-buff.html",
+  "heading": "Huckle-My-Buff",
+  "ingredients": [
+    "beer",
+    "brandy",
+    "eggs",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "huckle-my-buff.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Huckle-My-Buff\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHuckle-My-Buff\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 pints beer\u003Cbr\u003E\nsix eggs, beaten\u003Cbr\u003E\nbrandy\u003Cbr\u003E\n2 oz sugar\u003Cbr\u003E\n2 teaspoons of ground nutmeg\u003Cbr\u003E\n\u003Cbr\u003E\nHeat 1 pint of the beer with the eggs and sugar, but do not boil. Remove from the heat and add the remaining beer, a generous amount of nutmeg and brandy to taste. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Huckle-My-Buff",
+  "usedSnapshot": "20220809191426"
+}

@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150524214045",
+  "finalPath": "ground-rice-pudding.html",
+  "heading": "Ground Rice Pudding",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "flour",
+    "ginger",
+    "rice",
+    "salt",
+    "sugar",
+    "sugur"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "ground-rice-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERESMOLLE\u003C/b\u003E\u003Cbr\u003E\nTake almonds blanched and draw them up with water and ally it with flour of Rice and do thereto powder of ginger sugar and salt, and look it be not stondyng, present it and serve it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "ground-rice-pudding.html-2",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ERyse.\u003C/b\u003E\u003Cbr\u003E\nTake ryse and wasshe and grynde hem smalle,\u003Cbr\u003E\nTemper hom with almonde mylke \u00FEou schalle;\u003Cbr\u003E\nDrauwe hom thorowghe a streynour clene,\u003Cbr\u003E\nBoyle hom and seson hom with sugur schene;\u003Cbr\u003E\nFors hit with fryude almondes gode,\u003Cbr\u003E\n\u00FEen hase \u00FEou done, syr, by \u00FEo rode.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Rice Pudding",
+      "relatedPageUrl": "rice-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Ground Rice Pudding",
+  "usedSnapshot": "20200225164639"
+}

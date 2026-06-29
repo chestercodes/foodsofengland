@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212192000",
+  "finalPath": "westmorland-sweet-pie.html",
+  "heading": "Westmorland Sweet Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westmorland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Westmorland Sweet Pie",
+  "usedSnapshot": "20200106020723"
+}

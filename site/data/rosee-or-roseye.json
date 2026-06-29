@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922071854",
+  "finalPath": "rosee-or-roseye.html",
+  "heading": "Rosee or Roseye",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "cinnamon",
+    "dates",
+    "flour",
+    "ginger",
+    "milk",
+    "nuts",
+    "rice",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rosee-or-roseye.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EROSEE.\u003C/b\u003E\u003Cbr\u003E\nTake blanched milk as to fore welled. Cast thereto sugar a good portion pine-nuts. Dates minced. Cinnamon. \u0026 powder ginger and seethe it, and ally it with flowers of white Roses, and flour of rice, cole it, salt it \u0026 present it forth. If thou wilt in stede of Almond milk, take sweet cremes of cows.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Rosee or Roseye",
+  "usedSnapshot": "20220516213238"
+}

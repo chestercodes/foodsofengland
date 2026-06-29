@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922074919",
+  "finalPath": "cabbage-pie.html",
+  "heading": "Cabbage Pie",
+  "ingredients": [
+    "butter",
+    "cabbage",
+    "cheese",
+    "cream",
+    "egg",
+    "eggs",
+    "leek",
+    "onion",
+    "potatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cabbage-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cabbage%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 large savoy or white cabbage\u003Cbr\u003E\n1 large onion\u003Cbr\u003E\n3 large potatoes\u003Cbr\u003E\n1 leek\u003Cbr\u003E\n3/4 pint single cream\u003Cbr\u003E\n8 oz grated cheese\u003Cbr\u003E\n3 large eggs\u003Cbr\u003E\n\u003Cbr\u003E\nTrim the cabbage and chop half the leaves. Cook the remaining whole cabbage leaves until tender. Cook the chopped cabbage leaf and other vegetables together until just softened, and coarsely mash. Well butter the inside of an oven dish and line it with the cooked whole cabbage leaves, allowing some leaves to hang over the edge. Stir the cream, cheese and egg into the mashed vegetables, pour them into the cabbage-lined dish, flop the hanging leaves over the top and bake for about 30 mins at 200C.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cabbage Pie",
+  "usedSnapshot": "20170313210150"
+}

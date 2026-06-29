@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616081204",
+  "finalPath": "sole-edward-vii.html",
+  "heading": "Sole Edward VII",
+  "ingredients": [
+    "almonds",
+    "butter",
+    "lemon",
+    "lemon juice",
+    "mushrooms",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "salt",
+    "sole",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sole-edward-vii.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Sole%20Edward%20VII\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESole Edward VII\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nsole\u003Cbr\u003E\n1/2 pound sweet butter\u003Cbr\u003E\n3 ounces salted almonds, chopped\u003Cbr\u003E\n1/4 pound fresh mushrooms, chopped\u003Cbr\u003E\nchopped parsley\u003Cbr\u003E\n1 lemon, juiced\u003Cbr\u003E\nsalt\u003Cbr\u003E\npepper\u003Cbr\u003E\ngrated nutmeg\u003Cbr\u003E\n1/2 cup white wine\u003Cbr\u003E\n\u003Cbr\u003E\nCut the fillets from the sole, lay flat in a buttered pan, and season with salt and pepper.\u003Cbr\u003E\nMix butter, almonds, mushrooms, parsley, lemon juice, salt, pepper, and a dash of nutmeg.\u003Cbr\u003E\nSpread this mixture over the fillets, add the wine to the pan, and cook in the oven at 350\u00BAF for 20 minutes.\u003Cbr\u003E\nServe in the pan by placing it on a platter with a napkin under the pan.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sole Edward VII",
+  "usedSnapshot": "20211130235627"
+}

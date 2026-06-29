@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616080649",
+  "finalPath": "cotherstone-cheese.html",
+  "heading": "Cotherstone Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cotherstone Cheese",
+  "usedSnapshot": "20211201001928"
+}

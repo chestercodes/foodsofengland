@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20150422221651",
+  "finalPath": "bacon-butty.html",
+  "heading": "Bacon Butty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bacon Butty",
+  "usedSnapshot": "20211201005347"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "earliestSnapshot": "20150922093259",
+  "finalPath": "chiddingly-onion-pie.html",
+  "heading": "Chiddingly Onion Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChiddingly Hot Pot\u003C/b\u003E",
+      "relatedPageUrl": "chiddingly-hot-pot.html",
+      "relationDescription": "For a real dish see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EOnion Pie\u003C/b\u003E",
+      "relatedPageUrl": "cheshire-onion-pie.html",
+      "relationDescription": "For a real dish see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chiddingly Onion Pie",
+  "usedSnapshot": "20220808011053"
+}

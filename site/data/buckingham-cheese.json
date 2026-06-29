@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616080610",
+  "finalPath": "buckingham-cheese.html",
+  "heading": "Buckingham Cheese",
+  "ingredients": [
+    "cheese",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "buckingham-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Buckingham Cheese. From Mr. Foord of that Place.\u003C/b\u003E\u003Cbr\u003E\nPrepare a Cheese Vat or Cheese Mote of a square Figure, six Inches over, and nine Inches deep, full of small Holes for the convenience of letting out the Whey when the Curd is put into it: Then take the Night\u0027s Cream, and mix it with the Morning\u0027s Milk, and put the Rennet to it to cool. When the Curd is come, take it gently from the Whey, and fill the Cheese Vat with it, and lay a Board up on the Curd, and as that sinks, fill up the Cheese Vat with fresh Curds; this should be done once every Hour till Night. The next Day turn your Cheese upside down, and continue turning it every Night and Morning till it shrinks from the Vat or Cheese Mote, and is stiff enough to take out without breaking, and then lay it upon the Shelf to be turn\u0027d, and shift it Night and Morning till \u0027tis dry for use. This Mr. Foord tells me is the best sort of Cheese he has met with in England.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Buckingham Cheese",
+  "usedSnapshot": "20220527212054"
+}

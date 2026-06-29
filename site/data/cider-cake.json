@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922082433",
+  "finalPath": "cider-cake.html",
+  "heading": "Cider Cake",
+  "ingredients": [
+    "allspice",
+    "baking soda",
+    "butter",
+    "cider",
+    "cream",
+    "eggs",
+    "flour",
+    "nuts",
+    "puddings",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cider-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELeeds Mercury\u003C/i\u003E\u0027 - Thursday 12 February 1914",
+      "receiptText": "\u003Cb\u003ECider Cake.\u003C/b\u003E\u003Cbr\u003E\nTry delicious cider cake recipe, culled from old household guide, reads as follows: -Required, one cupful of butter, two cupfuls sugar, three eggs, four cupfuls of flour, one teaspoonful of allspice, teaspoouful of baking soda and cider. Cream the butter and sugar and add the eggs well beaten. Then add the flour and spice and soda and enough cider to form a stiff batter. Bake in a hollow tin. It makes a well chosen dessert when served fresh and unfrosted with nuts and raisins. For all sorts of puddings a cider sauce can used. It is made by rubbing together one small tablespoonful of flour and two tablespoonfuls of butter, and adding cupful brawn sugar and two-thirds of a cupful of boiling cider\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "cider "
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cider Cake",
+  "usedSnapshot": "20211205175835"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922082202",
+  "finalPath": "turtle-soup.html",
+  "heading": "Turtle Soup",
+  "ingredients": [
+    "bread",
+    "butter",
+    "fat",
+    "flour",
+    "lemon",
+    "lobster",
+    "salt",
+    "sugar",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "turtle-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "There are two Sorts of Tortoises, the Land, and the Sea-Tortoise; but the Sea-Tortoise or Turtle, is what I mean, which is that which we have about the West-Indies . This is a fine Animal, partaking of the Land and Water. Its Flesh between that of Veal, and that of a Lobster, and is extremely pleasant, either roasted or baked. There are some of these Creatures that weigh near two hundred Weight. They are frequently brought to England in Tubs of Sea Water, and will keep alive a long time.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo roast a Piece of Turtle, or Tortoise. From the same.\u003C/b\u003E\u003Cbr\u003E\nTake a piece of the Flesh of about five or six Pounds, and lay it in Salt and Water two Hours; then stick a few Cloves in it, and fasten it to the Spit, baste it at first with Wine and Lemon-Juice; and when it is near enough, drudge some Flour over it, with the raspings of Bread sifted; and then baste it well, either with Oil, or Butter, strewing on, from time to time, more Flour and Raspings till it is enough; then take the Liquor in the Pan, and pouring off the Fat, boil it with some Lemon-Peel, and a little Sugar and Salt, and pour it over the Turtle. So serve it hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Turtle Soup",
+  "usedSnapshot": "20190405162252"
+}

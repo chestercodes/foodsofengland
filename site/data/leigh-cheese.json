@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082226",
+  "finalPath": "leigh-cheese.html",
+  "heading": "Leigh Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple and Sage Turnovers",
+      "relatedPageUrl": "apple-and-sage-turnovers.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cheese and Apple Cake",
+      "relatedPageUrl": "cheese-and-apple-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fruit Braid",
+      "relatedPageUrl": "lancashire-fruit-braid.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Garstang Blue Cheese",
+      "relatedPageUrl": "garstang-blue-cheese.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Leigh Cheese",
+  "usedSnapshot": "20211207121836"
+}

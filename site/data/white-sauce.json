@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150922081849",
+  "finalPath": "white-sauce.html",
+  "heading": "White Sauce",
+  "ingredients": [
+    "butter",
+    "celery",
+    "cream",
+    "herbs",
+    "lemon",
+    "mushrooms",
+    "onion",
+    "pepper",
+    "salt",
+    "veal",
+    "cauliflower",
+    "cucumber",
+    "flour",
+    "milk",
+    "mushroom",
+    "anchovy",
+    "black pepper",
+    "eggs",
+    "ketchup",
+    "mutton",
+    "nutmeg",
+    "soy"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "white-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe lady\u0027s assistant for regulating and supplying her table\u003C/i\u003E\u0027 by Charlotte Mason (\u003Ca href=\u0022references.html#mason-1777\u0022\u003E\u003Cb\u003EMason 1777\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EWhite Sauce.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBOIL any bones or bits of veal, with a fmall bunch of fweet herbs, an onion, a ilice of lemon, a few white pepper, corns, and a littlie celery; strain it, there fhould be near half a pint, put to it some good cream, with a little flower mixed fmooth in it, a good piece of butter, a little pounded mace, and some salt; keep it ftirring; add mushrooms, or little lemon-juice.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "white-sauce.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "413. White Sauce. - Put into a convenient sized stew pan four ounces of butter, and eight ounces of flour ; set on fire, keep stirring as above; take the pan from the fire and stir until nearly cool, then pour on sufficient white stock, No. 1, until it is a nice consistency put it on the fire and boil for a quarter of an hour; keep stirring continually; pass it through a sieve, and keep for use.\u003Cbr\u003E\n\u003Cbr\u003E\nHalf a pint of boiled milk will make it look whiter.\u003Cbr\u003E\n\u003Cbr\u003E\nThis sauce, when handy, is the foundation of all white sauces, for celery, cauliflower, mushroom, cucumber, vegetable marrow, \u0026amp;c., or any white sauces, instead of using melted butter. Observe, Eloise, that I only send you these two preceding sauces in the event of a little dinner party, as they belong to a higher class of cookery.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "white-sauce.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "373. WHITE SAUCE (Kent, 1809) To a pint of cream put a tablespoonful of anchovy juice, a tablespoonful of ketchup, a tablespoonful of soy, and a little flour and butter as for melted butter.\u003Cbr\u003E\n\u003Cbr\u003E\n374. WHITE SAUCE FOR FOWLS (Eighteenth Century) Take a scrag of veal, the neck of a fowl, or any bits of mutton or veal you have; put them in a saucepan, with a blade or two of mace, a few black pepper-corns, a head of celery, a bunch of sweet herbs, a slice of the end of a lemon; put in a quart of water, cover it close, let it boil till it is reduced to half a pint; strain it, and thicken it with a quarter of a pound of butter, mixed with flour; boil it five or six minutes, put in two spoonfuls of pickled mushrooms; mix the yolks of two eggs with a teacupful of good cream and a little nutmeg, and put this in your sauce; keep shaking it over the fire, but do not let it boIL.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-1777"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "White Sauce",
+  "usedSnapshot": "20220815155337"
+}

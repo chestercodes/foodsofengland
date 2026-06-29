@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20150922073857",
+  "finalPath": "hereford-apple-dumplings.html",
+  "heading": "Hereford Apple Dumplings",
+  "ingredients": [
+    "apple",
+    "caster sugar",
+    "cream",
+    "custard",
+    "dumplings",
+    "marmalade",
+    "milk",
+    "orange",
+    "pastry",
+    "raisins",
+    "shortcrust pastry",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hereford-apple-dumplings.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Hereford%20Apple%20Dumplings\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHereford Apple Dumpling\u003C/b\u003E\u003Cbr\u003E\n12oz shortcrust pastry\u003Cbr\u003E\n4 cooking apples\u003Cbr\u003E\n4 teaspoons coarse sugar\u003Cbr\u003E\ngrated rind of an orange\u003Cbr\u003E\n2oz sultanas or raisins\u003Cbr\u003E\n4 teaspoons marmalade\u003Cbr\u003E\nsugar and milk for glazing\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the oven to 200\u00B0C / 400\u00B0F / gas mark 6.\u003Cbr\u003E\nPeel and core the apples, leave them whole.\u003Cbr\u003E\nDivide the pastry into four and roll each into a circle large enough to enclose the apple.\u003Cbr\u003E\nSprinkle each pastry circle with a teaspoon of caster sugar and set an apple in the middle.\u003Cbr\u003E\nCombine the sultanas or raisins with the grated orange rind and marmalade and use it to fill the centres of the apples.\u003Cbr\u003E\nDampen the edges of the pastry circles. Gather up the pastry to completely enclose the apple and seal the edges tightly.\u003Cbr\u003E\nPlace the dumplings upside down on a greased baking sheet. Decorate with pastry leaves, brush with milk and sprinkle with sugar.\u003Cbr\u003E\nBake the dumplings for 10 minutes, then reduce the oven temperature to 180\u00B0C / 350\u00B0F / gas mark 4 and bake for 30 minutes more. The dumplings should be golden brown when ready.\u003Cbr\u003E\nServe each on a large plate with custard, cream or warmed marmalade sauce poured around.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cobs",
+      "relatedPageUrl": "apple-cobs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "East Anglian Apple Dumplings",
+      "relatedPageUrl": "east-anglian-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Hereford Apple Dumplings",
+      "relatedPageUrl": "hereford-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stilton Pears",
+      "relatedPageUrl": "stilton-pears.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "locale",
+      "tagValue": "Herefordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hereford Apple Dumplings",
+  "usedSnapshot": "20211019180353"
+}

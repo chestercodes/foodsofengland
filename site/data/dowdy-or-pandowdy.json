@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150913034251",
+  "finalPath": "dowdy-or-pandowdy.html",
+  "heading": "Dowdy (or Pandowdy)",
+  "ingredients": [
+    "milk",
+    "treacle",
+    "apple",
+    "bread",
+    "butter",
+    "cream",
+    "demerara sugar",
+    "golden syrup",
+    "nutmeg",
+    "sugar",
+    "cinnamon"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "dowdy-or-pandowdy.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EYork Herald\u003C/i\u003E\u0027 - Saturday 10 November 1894",
+      "receiptText": "PAN DOWDY. This is an American dish, and is palatable as well as substantial. Make a rich crust, line a deep earthen pot with it, slice some pie apples quite thin for the layer, slew the apples with treacle and spice and a teaspoonful of milk, cover with a thin crust and repeal tho process. Cover the top with crust, and your pan dowdy is made. Bake in a slow oven two hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "dowdy-or-pandowdy.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E430. APPLE DOWDY (Essex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake about one and a half pounds of apples, slices of stale bread and butter, a little nutmeg, one gill of water, one gill of golden syrup, two ounces of Demerara sugar. Well butter a deep baking tin or pie-dish. Line the bottom with the thin slices of bread and butter. Peel, core, and slice the apples, and nearly fill the dish with them. Grate over a little nutmeg. Now mix the syrup and water, pour it in over the apples. Put the sugar in a layer on the top, and cover all with more bread and butter. Cover the top over with a tin plate or lid, and bake in a moderate oven about two hours. Then loosen the edges with a knife, put on a hot dish, and serve with sugar and cream; or it can be served in the dish it is cooked in.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "dowdy-or-pandowdy.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EYorkshire Post and Leeds Intelligencer\u003C/i\u003E\u0027 - Thursday 13 December 1928",
+      "receiptText": "\u003Cb\u003EWAYS WITH APPLES.\u003C/b\u003E\u003Cbr\u003E\n(By Mrs. Philip Martimau.)\u003Cbr\u003E\nLucky folk who have apples in plenty this year may like to know some good old ways of cooking them. Pan Dowdy is one, as served at the table of Edith Wharton, the fatuous American writer, who lives in France, and is almost famous for her cuisine and her garden as for her novels. Pan Dowdy appeared in brown crock, and was highly appreciated by the celebrated French people gathered round her table. Not the least of its merits that it will keep several weeks, and is a great standby for any house where casual guests are welcome.\u003Cbr\u003E\n\u003Cbr\u003E\nSlice the apples into a deep crock and fill up with 1 pint of water, 1 pint of sugar, 1 cup of golden syrup, a little ground cinnamon and nutmeg, and cover the top with crust of baker\u2019s dough, and bake for four hours in slow oven. Then cut the crust into small pieces, and mix them into the apples. Put back into the oven and bake for an hour. Serve with plenty of cream, either hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Coriander Dowdy",
+      "relatedPageUrl": "coriander-dowdy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Treacle Dowdy",
+      "relatedPageUrl": "treacle-dowdy.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Dowdy (or Pandowdy)",
+  "usedSnapshot": "20210510051818"
+}

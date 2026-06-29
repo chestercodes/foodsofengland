@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140616080721",
+  "finalPath": "deep-fried-fish.html",
+  "heading": "Deep Fried Fish",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chip Shop Fish",
+      "relatedPageUrl": "chip-shop-fried-fish.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Deep Fried Fish",
+  "usedSnapshot": "20211207115013"
+}

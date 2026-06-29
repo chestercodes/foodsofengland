@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140212033612",
+  "finalPath": "sly-cake.html",
+  "heading": "Sly Cake",
+  "ingredients": [
+    "cornflour",
+    "currants",
+    "egg",
+    "lemon",
+    "lemon juice",
+    "pastry",
+    "sugar",
+    "sultana",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sly-cake.html-1",
+      "receiptSource": "Original Receipt",
+      "receiptText": "Our correspondent Sarah Gee tells us (2021) that; \u0022My mother\u2019s handwritten recipe book, which was certainly a well thumbed and stained little missal in the early 1950s, contains the following recipe for sly cake. I absolutely loved it as a child. My mother was from Streatham, but I\u2019ve no idea where the recipe originated.\u003Cbr\u003E\n\u003Cbr\u003E\nSLY CAKE\u003Cbr\u003E\n1/4 lb sultanas 1 dsrtsp. Sugar\u003Cbr\u003E\nTeacup of Water 1 dsrtsp. lemon juice\u003Cbr\u003E\n1 tsp. Cornflour \u00BD tsp. Mixed Spice\u003Cbr\u003E\n2 ozs Currants Flaky Pastry\u003Cbr\u003E\n\u003Cbr\u003E\nChop sultanas a little and put them into a saucepan with most of the water. Stew slowly until water almost absorbed. Add cornflour mixed with remainder of water and stir until thick. Add currants, sugar, lemon juice and spice, and leave mixture to cool.\u003Cbr\u003E\nRoll out flaky pastry very thinly, sprinkling it with fine sugar. Line flat baking tin with this, spread with sultana mixture and cover with another piece of pastry. Mark across in fingers with back of knife, brush over with beaten egg and bake in good oven until thoroughly cooked and golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sly Cake",
+  "usedSnapshot": "20211019180049"
+}

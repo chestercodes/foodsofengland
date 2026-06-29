@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922082523",
+  "finalPath": "cowslip-cordial.html",
+  "heading": "Cowslip Cordial",
+  "ingredients": [
+    "ale",
+    "brandy",
+    "cinnamon",
+    "cowslip",
+    "lemon",
+    "orange",
+    "orange peel",
+    "rosemary"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cowslip-cordial.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E333. To make CORDIAL WATER of COWSLIPS.\u003C/b\u003E\u003Cbr\u003E\nTake two quarts of cowslip peeps, a slip of balm, two sprigs of rosemary, a stick of cinnamon, half an orange peel, half a lemon peel, a pint of brandy, and a pint of ale; lay all these to steep twelve hours, then distil them on a cold still.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Cowslip Cordial",
+  "usedSnapshot": "20211027044710"
+}

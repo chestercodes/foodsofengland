@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922071954",
+  "finalPath": "muffins.html",
+  "heading": "Muffins",
+  "ingredients": [
+    "ale",
+    "ale yeast",
+    "butter",
+    "flour",
+    "milk",
+    "salt",
+    "toast",
+    "walnut",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "muffins.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make muffins and oat-cakes.\u003C/b\u003E\u003Cbr\u003E\nTo a bushel of \u003Ca href=\u0022hertfordshire-white.html\u0022\u003E\u003Cb\u003EHertfordshire white\u003C/b\u003E\u003C/a\u003E flour, take a pint and a half of good ale yeast, from pale malt, if you can get it, because it is whitest; let the yeast lie in water all night, the next day pour off the water clear, make two gallons of water just milk-warm, not to scald your yeast, and two ounces of salt; mix your water, yeast, and salt well together for about a quarter of an hour; then strain it and mix up your dough as light as possible, and let it lie in your trough an hour to rise, then with your hand roll it and pull it into little pieces about as big as a large walnut, roll them with your hand like a ball, lay them on your table, and as fast as you do them lay a piece of flannel over them, and be sure to keep your dough covered with flannel; when you have rolled out all your dough begin to bake the first, and by that time they will be spread out in the right form; lay them on your iron; as one side begins to change colour turn the other, and take great care they don\u0027t burn, or be too much discoloured, but that you will be a judge of in two or three makings.\u003Cbr\u003E\nTake care the middle of the iron is not too hot, as it will be, but then you may put a brick-bat or two in the middle of the fire to slacken the heat.\u003Cbr\u003E\nThe thing you bake on must be made thus: Build a place just as if you was going to set a copper, and in the stead of a copper, a piece of iron all over the top fixed in form just the same as the bottom of an iron pot, and make your fire underneath with coal as in a copper.\u003Cbr\u003E\n\u003Cbr\u003E\nObserve, muffins are made the same way; only this, when you pull them to pieces roll them in a good deal of flour, and with a rolling-pin roll them thin, cover them with a piece of flannel, and they will rise a proper thickness; and if you find them too big or too little, you must roll dough accordingly. These must not be the least discoloured.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen you eat them, toast them with a fork crisp on both sides, then with your hand pull them open, and they will be like a honeycomb; lay in as much butter as you intend to use, then clap them together again, and set it by the fire. When you think the butter is melted turn them, that both sides may be buttered alike, but don\u0027t touch them with a knife, either to spread or cut them open, if you do they will be as heavy as lead, only when they are quite buttered and done, you may cut them across with a knife.\u003Cbr\u003E\n\u003Cbr\u003E\nNote, Some flour will soak up a quart or three pints more water than other flour; then you must add more water, or shake in more flour in making up, for the dough must be as light as possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crumpets",
+      "relatedPageUrl": "crumpets.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Hertfordshire White",
+      "relatedPageUrl": "hertfordshire-white.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Muffin Pudding",
+      "relatedPageUrl": "muffin-pudding.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Scarborough Muffins",
+      "relatedPageUrl": "scarborough-muffins.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBread Names\u003C/b\u003E",
+      "relatedPageUrl": "bread-names.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Muffins",
+  "usedSnapshot": "20220525190121"
+}

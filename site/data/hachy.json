@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922073319",
+  "finalPath": "hachy.html",
+  "heading": "Hachy",
+  "ingredients": [
+    "bread",
+    "eggs",
+    "fat",
+    "gravy",
+    "mutton",
+    "onion",
+    "orange",
+    "partridges",
+    "pepper",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hachy.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA NOURISHING HACHY\u003C/b\u003E\u003Cbr\u003E\nTake good Gravy of Mutton or Veal, or of both, with the fat clean skimmed off. Break into it a couple of new-laid Eggs, and stir them in it over a Chafing-dish of Coals; in the mean time, mingle some small cut juycy hashy of Rabet, Capon or Mutton with another parcel of like Gravy as above, till it be pretty thin. Then put this to the other upon the fire, and stir them well with a spoon, whiles they heat. When all is heated through, it will quicken of a sudden. You may put in at first a little chipping of crusty bread, if you will. Season this with white Pepper, Salt, juyce of Orange or Verjuyce, of Berberies, or Onion, or what you like best.\u003Cbr\u003E\nA pint of Gravy (or less) four or five spoonfulls of hashy, and two Eggs, is a convenient proportion for a light Supper.\u003Cbr\u003E\nSuch Gravy, with an Onion split in two, lying in it, whiles it is heating, and a little Pepper and Salt, and juyce of Limon or Orange, and a few Chippings of light-bread, is very good Sauce for Partridges or Cocks.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Corned Beef Hash",
+      "relatedPageUrl": "corned-beef-hash.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Hachy",
+  "usedSnapshot": "20220527055506"
+}

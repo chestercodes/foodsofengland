@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922085820",
+  "finalPath": "abingdon-buns.html",
+  "heading": "Abingdon Buns",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHarwich Kitchels\u003C/b\u003E",
+      "relatedPageUrl": "kitchels.html",
+      "relationDescription": "For a similar bun-throwing tradition, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDenby Dale Pie\u003C/b\u003E",
+      "relatedPageUrl": "denby-dale-pie.html",
+      "relationDescription": "For another civic celebration food, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Abingdon Buns",
+  "usedSnapshot": "20220126044643"
+}

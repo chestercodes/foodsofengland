@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20130322203821",
+  "finalPath": "tournedos-rossini.html",
+  "heading": "Tournedos Rossini",
+  "ingredients": [
+    "butter",
+    "foie gras",
+    "foie-gras",
+    "truffle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tournedos-rossini.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "1126- TOURNEDOS ROSSINI\u003Cbr\u003E\n\u003Cbr\u003E\nFry the tournedos in butter, and dish them, in the form of a crown, upon fried crusts.\u003Cbr\u003E\n\u003Cbr\u003E\nOn each tournedos set a round slice of foie gras, just a little smaller than the former; the slices should be seasoned, dredged, and fried in butter.\u003Cbr\u003E\n\u003Cbr\u003E\nOn each slice of foie-gras, set a fine slice of truffle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Tournedos Rossini",
+  "usedSnapshot": "20210512111239"
+}

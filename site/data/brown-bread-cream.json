@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922133001",
+  "finalPath": "brown-bread-cream.html",
+  "heading": "Brown Bread Cream",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBrown Bread Ice Cream\u003C/b\u003E",
+      "relatedPageUrl": "brown-bread-ice-cream.html",
+      "relationDescription": "See; "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Brown Bread Cream",
+  "usedSnapshot": "20211019191359"
+}

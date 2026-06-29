@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922085042",
+  "finalPath": "treacle-dowdy.html",
+  "heading": "Treacle Dowdy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Coriander Dowdy",
+      "relatedPageUrl": "coriander-dowdy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Dowdy (or Pandowdy)",
+      "relatedPageUrl": "dowdy(orpandowdy).htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETreacle\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/treacle.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Treacle"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Treacle Dowdy",
+  "usedSnapshot": "20200116032025"
+}

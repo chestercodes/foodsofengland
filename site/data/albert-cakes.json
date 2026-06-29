@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20160521094532",
+  "finalPath": "albert-cakes.html",
+  "heading": "Albert Cakes",
+  "ingredients": [
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "sugar",
+    "raisins",
+    "sultana"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "albert-cakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E34. - Albert Cakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCream 12 oz. of butter with 1 lb. of sugar, add 13 eggs; mix 12 oz. of carbonate of soda and 14 oz. of acid with 2 lbs. of flour; weigh 8 ozs. of currants. Mix all together with milk, and bake in a small edged pan. Cut into squares when cold.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "albert-cakes.html-2",
+      "receiptSource": "Original Receipt from the Falkirk Herald - Wednesday 2 July 1884",
+      "receiptText": "Albert Cakes (Superior).-Put six fresh eggs into deep basin with six ounces pounded sugar, and with wire switch whisk up for half hour; have a half pound of flour toasted and sifted; mix with a quarter bound of picked sultana raisins; add the flower and raisin to the eggs, stirring very gently, and pour the mixture into a flat square tin, that has been previously lined with butter. Bake it in a quick oven over 20 minutes. Less time may do should the oven be very hot. When done, turn out the tin and cut into squares.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Albert Cakes",
+  "usedSnapshot": "20211019180911"
+}

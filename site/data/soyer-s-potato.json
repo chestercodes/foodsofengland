@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922082406",
+  "finalPath": "soyer-s-potato.html",
+  "heading": "Soyer\u0027s Potato",
+  "ingredients": [
+    "potato",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "soyer-s-potato.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E274. Baked Potato with Sausage (called Soyer\u0027s Potato).-\u003C/b\u003E Take a large potato and cut out a round piece as big as a shilling, through the potato; put in the scoop and remove some of the inside, fill this with sausage-meat or veal stuffing, cover tho hole with a part of what you cut out, and bake with cut part uppermost.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Soyer\u0027s Potato",
+  "usedSnapshot": "20211129123922"
+}

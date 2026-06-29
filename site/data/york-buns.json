@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922072618",
+  "finalPath": "york-buns.html",
+  "heading": "York Buns",
+  "ingredients": [
+    "baking powder",
+    "breadcrumbs",
+    "butter",
+    "caster sugar",
+    "currants",
+    "egg",
+    "eggs",
+    "flour",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "york-buns.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E cookbook \u0027\u003Ci\u003EYorkshire Teatime Recipes\u003C/i\u003E\u0027.",
+      "receiptText": "\u003Cb\u003EYork Buns\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003ELittle round buns filled with currants and mixed peel.\u003C/i\u003E\u003Cbr\u003E\n1 lb flour\u003Cbr\u003E\n1 oz baking powder\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n6 oz butter, softened\u003Cbr\u003E\n6 oz caster sugar\u003Cbr\u003E\n6 oz currants\u003Cbr\u003E\n2 oz chopped mixed peel\u003Cbr\u003E\n2 eggs, beaten\u003Cbr\u003E\n1/2 pint milk (approx)\u003Cbr\u003E\nBeaten egg or milk for glazing\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 425\u00B0 F or Mark 7. Grease baking sheets. Sift the flour, baking powder and salt into a bowl and rub in the butter until the mixture resembles breadcrumbs. Mix in the sugar, currants, mixed peel and beaten eggs with sufficient milk to produce a fairly stiff consistency. Shape into small rounds with floured hands, brush with beaten egg or milk and place on the baking sheet. Bake for about 15 to 20 minutes until golden. Transfer to a wire rack to cool.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "york-buns.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E cookbook \u0027\u003Ci\u003EYorkshire Teatime Recipes\u003C/i\u003E\u0027.",
+      "receiptText": "\u003Cb\u003EYork Buns\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003ELittle round buns filled with currants and mixed peel.\u003C/i\u003E\u003Cbr\u003E\n1 lb flour\u003Cbr\u003E\n1 oz baking powder\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n6 oz butter, softened\u003Cbr\u003E\n6 oz caster sugar\u003Cbr\u003E\n6 oz currants\u003Cbr\u003E\n2 oz chopped mixed peel\u003Cbr\u003E\n2 eggs, beaten\u003Cbr\u003E\n1/2 pint milk (approx)\u003Cbr\u003E\nBeaten egg or milk for glazing\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 425\u00B0 F or Mark 7. Grease baking sheets. Sift the flour, baking powder and salt into a bowl and rub in the butter until the mixture resembles breadcrumbs. Mix in the sugar, currants, mixed peel and beaten eggs with sufficient milk to produce a fairly stiff consistency. Shape into small rounds with floured hands, brush with beaten egg or milk and place on the baking sheet. Bake for about 15 to 20 minutes until golden. Transfer to a wire rack to cool.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "York Buns",
+  "usedSnapshot": "20210510052047"
+}

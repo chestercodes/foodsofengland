@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922132852",
+  "finalPath": "chester-buns.html",
+  "heading": "Chester Buns",
+  "ingredients": [
+    "butter",
+    "egg",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chester-buns.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Chester Buns. - Eight ounces of butter into one pound of fine flour, add a pinch of salt and one table-spoonful of sugar. Stir into these an egg, a table-spoonful of yeast, and a breakfast-cupful of lukewarm milk. Knead well, and put the bowl which contains the dough before the fire to rise, covering it with a cloth. When it has sufficiently risen, divide it into six or eight parts, shape into rounds, place them on a buttered tin, and let them rise five minutes more, then bake in a quick oven. Time to bake, about twenty minutes. Probable cost, for this quantity, 6d. Sufficient for six or eight buns.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chester"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Chester Buns",
+  "usedSnapshot": "20211201010739"
+}

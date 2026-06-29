@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20150922075019",
+  "finalPath": "green-goose-sauce.html",
+  "heading": "Green-Goose Sauce",
+  "ingredients": [
+    "butter",
+    "goose",
+    "gooseberries",
+    "gravy",
+    "beat",
+    "bread",
+    "cayenne",
+    "flour",
+    "geese",
+    "nutmeg",
+    "pepper",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "green-goose-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E267. To make SAUCE for a GREEN-GOOSE.\u003C/b\u003E\u003Cbr\u003E\nTake a little good gravy, a little butter, and a few scalded gooseberries, mix all together, and put it on the disk with your goose.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E268. To make another SAUCE for a GREEN-GOOSE.\u003C/b\u003E\u003Cbr\u003E\nTake the juice of sorrel, a little butter, and a few scalded gooseberries, mix them together, and sweeten it to your taste; you must not let it boil after you put in the sorrel, if you do it will take off the green.\u003Cbr\u003E\nYou must put this sauce into a bason.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "green-goose-sauce.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESAUCE FOR A GREEN GOOSE. - E. R.\u003Cbr\u003E\u003C/b\u003E Take half a pint of sorrel-juice, two glasses of white wine, a nutmeg quartered, a cupful of fried crumbs, and two lumps of sugar; let all boil together, then beat it\u003Cbr\u003E\nsmooth, adding a piece of fresh butter, and serve it very hot in a tureen, or in the dish with the goose: it should not be made too thick with the bread-crumbs, and if much acid should not be approved, the wine must be equal in quantity to the sorrel-juice.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EGOOSEBERRY SAUCE FOR GREEN GEESE. - E. R.\u003Cbr\u003E\u003C/b\u003E Wash some sorrel, put it into a cloth and press out the juice; melt a piece of butter with flour, using this juice instead of water: let it be very thick. Scald green gooseberries until very tender, and add them to the sauce. This is a fine acid sauce, if not spoiled with sugar. If not sweetened, add a little cayenne pepper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWood Sorrel\u003C/b\u003E",
+      "relatedPageUrl": "wood-sorrel.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Green-Goose Sauce",
+  "usedSnapshot": "20210410111805"
+}

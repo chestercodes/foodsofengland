@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922093630",
+  "finalPath": "tonic-wine.html",
+  "heading": "Tonic Wine",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EAqua Mirabilis\u003C/b\u003E",
+      "relatedPageUrl": "aqua-mirabilis.html",
+      "relationDescription": "For an ancient version, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Tonic Wine",
+  "usedSnapshot": "20220516220148"
+}

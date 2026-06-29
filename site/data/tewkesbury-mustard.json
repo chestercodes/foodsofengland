@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922083948",
+  "finalPath": "tewkesbury-mustard.html",
+  "heading": "Tewkesbury Mustard",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Horseradish",
+      "relatedPageUrl": "horseradish-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Tewkesbury Mustard",
+  "usedSnapshot": "20220819111123"
+}

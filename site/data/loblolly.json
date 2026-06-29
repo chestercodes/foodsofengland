@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140829081843",
+  "finalPath": "loblolly.html",
+  "heading": "Loblolly",
+  "ingredients": [
+    "barley",
+    "beef",
+    "carrots",
+    "celery",
+    "garlic",
+    "onion",
+    "orange",
+    "potatoes",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "loblolly.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:info@foodsofengland.co.uk\u0022\u003E\u003Cb\u003Einfo@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "450g/1lb stewing or braising steak cut into small chunks\u003Cbr\u003E\nHandful pearl barley\u003Cbr\u003E\n1 onion diced\u003Cbr\u003E\n1-2 cloves of garlic, crushed (optional)\u003Cbr\u003E\n4 potatoes diced\u003Cbr\u003E\n1 swede diced (the big orange fleshed ones not the little white ones)\u003Cbr\u003E\n4 celery sticks, chopped\u003Cbr\u003E\n4 diced carrots\u003Cbr\u003E\nBeef stock\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ELolly, Lobby, Loblolly, Lob Stew\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Staffordshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Loblolly",
+  "usedSnapshot": "20210512122003"
+}

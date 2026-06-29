@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140212023944",
+  "finalPath": "veal-and-ham-pie.html",
+  "heading": "Veal and Ham Pie",
+  "ingredients": [
+    "bacon",
+    "ham",
+    "pork",
+    "steak",
+    "veal",
+    "egg",
+    "eggs",
+    "gravy",
+    "herbs",
+    "jelly",
+    "lemon",
+    "mushrooms",
+    "nutmeg",
+    "oysters",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "veal-and-ham-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E264. Veal Pie.-\u003C/b\u003E Delicate veal and ham pies can be made like the above, rolling up the veal and a little ham, or bacon, together, and a little stuffing, if handy. Proceed as for steak, or as for family steak-pies.\u003Cbr\u003E\n\u003Cbr\u003E\nPork pies may be made in the same way.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "veal-and-ham-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EVEAL AND HAM PIE.\u003C/b\u003E\u003Cbr\u003E\n898. INGREDIENTS: 2 lbs. of veal cutlets,\u00BD lb. of boiled ham, 2 tablespoonfuls of minced savoury herbs, \u00BC teaspoonful of grated nutmeg, 2 blades of pounded mace, pepper and salt to taste, a strip of lemon-peel finely minced, the yolks of 2 hard-boiled eggs,\u00BD pint of water, nearly\u00BD pint of good strong gravy, puff-crust.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut the veal into nice square pieces, and put a layer of them at the bottom of a pie-dish; sprinkle over these a portion of the herbs, spices, seasoning, lemon-peel, and the yolks of the eggs cut in slices; cut the ham very thin, and put a layer of this in. Proceed in this manner until the dish is full, so arranging it that the ham comes at the top. Lay a puff-paste on the edge of the dish, and pour in about\u00BD pint of water; cover with crust, ornament it with leaves, brush it over with the yolk of an egg, and bake in a well-heated oven for 1 to 1-\u00BD hour, or longer, should the pie be very large. When it is taken out of the oven, pour in at the top, through a funnel, nearly\u00BD pint of strong gravy: this should be made sufficiently good that, when cold, it may cut in a firm jelly. This pie may be very much enriched by adding a few mushrooms, oysters, or sweetbreads; but it will be found very good without any of the last-named additions.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1-\u00BD hour, or longer, should the pie be very large.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 3s.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from March to October.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Veal and Ham Pie",
+  "usedSnapshot": "20211207121909"
+}

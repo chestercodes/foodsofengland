@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20140212020731",
+  "finalPath": "sussex-plum-heavies.html",
+  "heading": "Sussex Plum Heavies",
+  "ingredients": [
+    "cream",
+    "currants",
+    "egg",
+    "plum",
+    "scones",
+    "sultanas",
+    "butter",
+    "flour",
+    "lard",
+    "milk",
+    "pastry",
+    "sugar",
+    "dried fruit",
+    "tea"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "sussex-plum-heavies.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 125.- Plum Heavies.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWet up the mixture given for Cream Scones, and, when mixed, take a large rolling-pin and roll it down in a sheet about \u00BD in. thick, and cut out with a plain 2-in. round cutter. As you cut them out, set them on to clean greased plates, wash over with egg, and bake in a warm oven. When done, sell at two a 1d. It is usual to put sultanas into these; but if objected to they can, of course, be omitted, and currants substituted. These are sometimes made plain, cut out very small, and sold at 3d. per dozen.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sussex-plum-heavies.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003ESussex County Magazine\u003C/i\u003E 1936",
+      "receiptText": "\u003Cb\u003EPlum Heavies\u003C/b\u003E\u003Cbr\u003E\nOne lb. flour, 4lb. butter, 2 ozs. lard, 1lb. sugar, 1lb. currants.\u003Cbr\u003E\nMix and make into a soft dough with cold milk; roll out about half an inch thick and cut into rounds with a small pastry cutter.\u003Cbr\u003E\n(Miss) G. EAMES.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sussex-plum-heavies.html-3",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EWestern Times\u003C/i\u003E\u0027 - Friday 17 December 1943",
+      "receiptText": "\u003Cb\u003E\u0022 Sussex Heavies.\u0022\u003C/b\u003E\u003Cbr\u003E\nSussex, too, has a special dainty for tea at this time of the year. Sussex Heavies\u0022-but don\u0027t be misled by their name as they are deliciously light-require \u00BD lb flour, 2oz. lard. 1 teacup milk and water (sour milk would do even better), a few currants, and 1oz. sugar. Rub the lard into the flour as for pastry, add the dried fruit, and then the liquid. Roll out, cut into rounds, and bake in hot oven for about 12 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "Sussex Plum Heavies",
+  "usedSnapshot": "20220516211719"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616083013",
+  "finalPath": "garstang-blue-cheese.html",
+  "heading": "Garstang Blue Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Garstang Blue Cheese",
+  "usedSnapshot": "20211201002345"
+}

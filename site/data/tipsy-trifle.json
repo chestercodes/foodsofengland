@@ -1,0 +1,80 @@
+﻿{
+  "earliestSnapshot": "20150310115237",
+  "finalPath": "tipsy-trifle.html",
+  "heading": "Tipsy Trifle",
+  "ingredients": [
+    "beat",
+    "cream",
+    "eggs",
+    "flour",
+    "milk",
+    "oranges",
+    "salt",
+    "strawberry",
+    "sugar",
+    "tartar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tipsy-trifle.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EFish, Flesh and Fowl: A Cook Book of Valuable Recipes\u003C/i\u003E\u0027 by the Ladies of State Street Parish (1894), Portland, USA",
+      "receiptText": "\u003Cb\u003ETipsy Trifle.\u003C/b\u003E Take six oranges, remove skin, white part and seeds; slice, put in dish with cup sugar sprinkled over them and let stand two hours. For the cream: one quart milk, yolks five eggs, one-half cup sugar, one-half cup flour, little salt; scald milk, add eggs, sugar and flour; stir briskly; add one teaspoon vanilla, grated rind two oranges; place oranges in dish and cover with cream. Beat whites of eggs to a stiff froth; add two cups powdered sugar, one-quarter teaspoon cream tartar, little vanilla, beat until stiff. Take one-half and color with strawberry, then put in dish; spoonful each alternately; brown in oven. To be eaten cold. This is delicious as well as ornamental.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Buxton Pudding",
+      "relatedPageUrl": "buxton-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake",
+      "relatedPageUrl": "tipsy-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake Pudding",
+      "relatedPageUrl": "tipsy-cake-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy D\u0027Arcy Spice Apples",
+      "relatedPageUrl": "tipsy-d-arcy-spice-apples.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Kidneys",
+      "relatedPageUrl": "tipsy-kidneys.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Squire",
+      "relatedPageUrl": "tipsy-squire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Trifle",
+      "relatedPageUrl": "tipsy-trifle.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tipsy Trifle",
+  "usedSnapshot": "20211027044830"
+}

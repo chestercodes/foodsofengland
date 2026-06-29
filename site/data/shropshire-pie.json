@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140212025034",
+  "finalPath": "shropshire-pie.html",
+  "heading": "Shropshire Pie",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "egg",
+    "fat",
+    "herbs",
+    "nutmeg",
+    "oysters",
+    "pepper",
+    "pork",
+    "rabbits",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shropshire-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Shropshire pie.\u003C/b\u003E\u003Cbr\u003E\nFIRST make a good puff-paste crust, then cut two rabbits to pieces, with two pounds of fat pork cut into little pieces; season both with pepper and salt to your liking, then cover your dish with crust, and lay in your rabbits. Mix the pork with them, take the livers of the rabbits, parboil them, and beat them in a mortar, with as much fat bacon, a little sweet-herbs, and some oysters, if you have them. Season with pepper, salt, and nutmeg; mix it up with the yolk of an egg, and make it into balls. Lay them here and there in your pie, some artichoke-bottoms cut in dice, and cocks-combs, if you have them; grate a small nutmeg over the meat, then pour in half a pint of red wine, and half a pint of water. Close your pie, and bake it an hour and a half in a quick oven, but not to fierce an oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Shropshire Pie",
+  "usedSnapshot": "20220815145636"
+}

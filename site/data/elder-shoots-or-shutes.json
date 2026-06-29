@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922074743",
+  "finalPath": "elder-shoots-or-shutes.html",
+  "heading": "Elder Shoots or Shutes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPickled Elder\u003C/b\u003E",
+      "relatedPageUrl": "pickled-elder-shoots.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Elder Shoots or Shutes",
+  "usedSnapshot": "20220527071341"
+}

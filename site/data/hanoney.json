@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130323063520",
+  "finalPath": "hanoney.html",
+  "heading": "Hanoney",
+  "ingredients": [
+    "eggs"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hanoney.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHanoney.\u003C/b\u003E Take an draw the Whyte \u0026 the yolks of the eggs thorw a strainer; than take Oynonys, \u0026 schrede them small; than take fair Boter or grease, \u0026 vnnethe kyuer the panne ther-with, an fry the Oynonys, \u0026 than caste the eggs in the panne, \u0026 breke the Eyrouns \u0026 the Oynonys to-gederys an than let them fry to-gederys a little whyle; than take them up, an serve forth alle to-broke to-gederys on a fair dyssche.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Hanoney",
+  "usedSnapshot": "20211020235930"
+}

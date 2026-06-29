@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922081216",
+  "finalPath": "queens-barley-cream-soup.html",
+  "heading": "Queens Barley Cream Soup",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "barley",
+    "beat",
+    "cinnamon",
+    "cream",
+    "melon",
+    "milk",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "queens-barley-cream-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETHE QUEENS BARLEY-CREAM\u003C/b\u003E\u003Cbr\u003E\nYou must make a good barley-water, throwing away the three first waters as soon as they boil; which will take up about three quarters of an hour. Then you boil a large quantity of water with the Barley (which thus prepared makes the water no more Red or Russet) during an hours space or more; (that it may be strong of the Barley; perle-Barley is best,) towards the latter end put in the Pullet flead, and the legs cut off; If it should boil too long, the emulsion would taste too fleshy. When it is enough, let the broth run clear from the Barley and pullet, and beat the Almonds with the broth, and strain them from it. Then sweeten it with Sugar. This is to make at least two English quarts of Emulsion. I should like to put some pulp of Barley, boiled by it self, to strain with the Almond-Milk, and, if you will, some Melon seeds. You may put some juyce of Limon or Orange to it. Also season it with Cinnamon, and make the broth stronger of the flesh.\u003Cbr\u003E\nThe Queens white Potage is made only of the white flesh of Capon beaten with good broth and strained, and a little juyce of Limon or Orange; but no Almonds.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Queens Barley Cream Soup",
+  "usedSnapshot": "20210518210633"
+}

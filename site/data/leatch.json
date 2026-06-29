@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072236",
+  "finalPath": "leatch.html",
+  "heading": "Leatch",
+  "ingredients": [
+    "almonds",
+    "cinnamon",
+    "cream",
+    "milk",
+    "nutmeg",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leatch.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E282. To make LEATCH.\u003C/b\u003E\u003Cbr\u003E\nTake two ounces of isinglass and break it into bits, put it into hot water, then put half a pint of new milk into the pan with the isinglass, set it on the fire to boil, and put into it three or four sticks of good cinnamon, two blades of mace, a nutmeg quartered, and two or three cloves, boil it till the isinglass be dissolved, run it through a hair-sieve into a large pan, then put to it a quart of cream sweetened to your taste with loaf sugar, and boil them a while together; take a quarter of a pound of blanch\u0027d almonds beaten in a rose-water, and strain out all the juice of them into the cream on the fire, and warm it, then take it off and stir it well together; when it has cooled a little take a broad shallow dish and put it into it through a hair-sieve, when it is cold cut it in long pieces, and lay it across whilst you have a pretty large dish; so serve it up.\u003Cbr\u003E\nSometimes a less quantity of isinglass will do, according to the goodness; Let it be the whitest and clearest you can get.\u003Cbr\u003E\nYou must make it the day before you want it for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Leatch",
+  "usedSnapshot": "20211205175733"
+}

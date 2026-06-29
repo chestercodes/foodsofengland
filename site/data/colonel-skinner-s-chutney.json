@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140623135005",
+  "finalPath": "colonel-skinner-s-chutney.html",
+  "heading": "Colonel Skinner\u0027s Chutney",
+  "ingredients": [
+    "brown sugar",
+    "chillies",
+    "chutney",
+    "garlic",
+    "ginger",
+    "raisins",
+    "salt",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "colonel-skinner-s-chutney.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENews Today\u003C/i\u003E\u0027 Newspaper, Dhaka, Bangladesh",
+      "receiptText": "\u003Cb\u003EColonel Skinner\u0027s chutney\u003C/b\u003E\u003Cbr\u003E\nThe original recipe instructs that the filled jars of chutney be placed out in the sun for a fortnight! I have made the rather necessary amendments.\u003Cbr\u003E\nQuantity: approximately 2 lb\u003Cbr\u003E\n12 oz dried mangoes\u00BD lb salt (original)\u003Cbr\u003E\n1/4 lb garlic, smashed, measurement; see peeled and chopped Notes below and adjust\u003Cbr\u003E\n\u00BD lb unrefined brown sugar to taste)\u003Cbr\u003E\n\u00BD lb fresh ginger root, \u00BC lb chillies (original peeled and chopped measurement, adjust to taste)\u003Cbr\u003E\n\u00BD lb raisins 2 pints distilled vinegar\u003Cbr\u003E\n1 Use a food processor with a metal blade to grind all the ingredients (except the vinegar) in several batches, accumulating everything in a large preserving pan.\u003Cbr\u003E\n2 Add the vinegar and stir well. Bring to a boil over moderate heat.\u003Cbr\u003E\nReduce the heat and let the chutney simmer for 1 hour.\u003Cbr\u003E\n3 While it is still warm, transfer it into sterilized jars and seal.\u003Cbr\u003E\nNotes: If you find the dried mangoes too tough to be handled in your processor, you may first soak them until they are pliable. Squeeze out the excess liquid before placing them in the container. The original quantity of salt, which I have given here, seems excessive. It may have been necessary for its preservative qualities in the Indian climate. I suggest you reduce it to your own liking, but do not omit it altogether. Similarly, the chillies are of a quantity to make the chutney quite fiery, but that was how ex-colonials of old liked it. Please adjust accordingly.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Colonel Skinner\u0027s Chutney",
+  "usedSnapshot": "20220527072139"
+}

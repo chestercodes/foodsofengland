@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20140212030538",
+  "finalPath": "giblet-pie.html",
+  "heading": "Giblet Pie",
+  "ingredients": [
+    "giblets",
+    "herbs",
+    "onion",
+    "pepper",
+    "rump steak",
+    "salt",
+    "steak",
+    "butter",
+    "flour"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "giblet-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a giblet pie\u003C/b\u003E\u003Cbr\u003E\nTAKE two pair of giblets nicely cleaned, put all but the livers into a sauce-pan, with two quarts of water, twenty corns of whole pepper, three blades of mace, a bundle of sweet-herbs, and a large onion; cover them close, and let them stew very softly till they are quite tender, then have a good crust ready, cover your dish, lay a fine rump steak at the bottom, seasoned with pepper and salt; then lay in your giblets with the livers, and strain the liquor they were stewed in. Season it with salt, and pour into your pie; put on the lid, and bake it an hour and a half.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "giblet-pie.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E1653 GIBLET PIE\u003C/b\u003E\u003Cbr\u003E\nFry the giblets, cut into pieces, in butter; sprinkle them moderately with flour; cook the latter, and moisten with just sufficient consommed to make a clear sauce which will just cover the pieces. Three-parts cook, and leave to cool.\u003Cbr\u003E\n\u003Cbr\u003E\nThis done, pour the whole into a pie-dish; cover with a layer of puff-paste, which should be sealed down to a strip of paste, stuck to the edge of the dish; gild; streak, and bake in a moderately warm oven for from twenty-five to thirty minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Giblet Pie",
+  "usedSnapshot": "20210512122036"
+}

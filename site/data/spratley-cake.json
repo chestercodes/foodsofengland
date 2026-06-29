@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212021409",
+  "finalPath": "spratley-cake.html",
+  "heading": "Spratley Cake",
+  "ingredients": [
+    "butter",
+    "cinnamon",
+    "currants",
+    "milk",
+    "mint",
+    "pastry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spratley-cake.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 oz Shortcrust pastry\u003Cbr\u003E\nFILLING\u003Cbr\u003E\n4 oz Currants\u003Cbr\u003E\n2 oz Butter\u003Cbr\u003E\n2 oz Sugar (brown or white)\u003Cbr\u003E\n\u00BD teaspoon cinnamon or mixed spice\u003Cbr\u003E\n\u00BD teaspoon chopped fresh mint\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 375\u00BAF or Mark 5. Grease a baking sheet. Roll out the pastry on a floured surface to a rectangle about half as long as it is wide. Mix the currants butter, sugar and spice in a basin and spread down the centre of the pastry. Sprinkle on the fresh mint. Fold over the edges of the pastry to meet in the middle and seal the edges. Turn the pastry over and roll out until the currants show through. Place on the baking sheet, brush with milk and sprinkle with sugar. Bake for 20 minutes. Cut into slices when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Spratley Cake",
+  "usedSnapshot": "20220808021137"
+}

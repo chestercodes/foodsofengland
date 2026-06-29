@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150822224904",
+  "finalPath": "transparent-soup.html",
+  "heading": "Transparent Soup",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "beat",
+    "fat",
+    "herbs",
+    "rice",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "transparent-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Complete Economical Cook and Frugal Housewife\u003C/i\u003E, Mary Holland - 1853",
+      "receiptText": "\u003Cb\u003ETransparent Soup\u003C/b\u003E\u003Cbr\u003E\nTake a leg of veal and cut off the meat as thin as possible when you have cut it clean from the bone break the bone in small pieces put the meat in a large jug and the bones at top with a bunch if sweet herbs a quarter of an ounce of mace half a pound of Jordan almonds blanched and beat fine pour on it four quarts of boiling water set it over a slow fire and let it stand all night the next day remove it into a well tinned saucepan and let it simmer till it is reduced to two quarts be very careful in taking off all the scum and fat as it rises all the time it is boiling strain it into a punch bowl let it stand for two hours to settle pour it into a clean saucepan clear from the sediments have ready three ounces of boiled rice or two ounces of vermicelli when enough put it in and serve it up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "transparent-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E172. TRANSPARENT SOUP (Eighteenth Century)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a leg of veal, and cut off all the meat as thin as you can; when you have cut off all the meat clean from the bone, break the bone in small pieces, put the meat in a large jar, and the bones at top, with a bunch of sweet herbs, a quarter of an ounce of mace, half a pound of Jordan almonds, blanched and beaten fine; pour on it four quarts of boiling water, let it stand all night by the fire, covered close. The next day put it into a well-tinned saucepan, and let it boil slowly till it is reduced to two quarts. Be sure you take the scum and fat off as it rises all the time it is boiling; strain it into a bowl, let it settle for two hours, pour it into a clean saucepan, clear from the sediment, if any, at the bottom; have ready three ounces of rice boiled in water. If you like vermicelli better, boil two ounces; when done enough, put it in and serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Transparent Soup",
+  "usedSnapshot": "20210518201407"
+}

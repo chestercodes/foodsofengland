@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130809000904",
+  "finalPath": "cowheel-in-green-sauce.html",
+  "heading": "Cowheel in Green Sauce",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cowheel in Green Sauce",
+  "usedSnapshot": "20220819114155"
+}

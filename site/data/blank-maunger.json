@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150524214609",
+  "finalPath": "blank-maunger.html",
+  "heading": "Blank Maunger",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "fat",
+    "milk",
+    "rice",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blank-maunger.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBLANK MAUNGER\u003C/b\u003E\u003Cbr\u003E\nTake capons, cook them, then put them aside. Take blanched almonds, grind them and put them with the broth. Place milk in a pot and add washed rice and let it seethe. Then take the flesh of the capons, tear it small and add thereto. Take white fat, sugar and salt and cast them therein, let it seethe, then present it forth and flourish it with \u003Ca href=\u0022comfits.html\u0022\u003E\u003Cb\u003Eaniseed comfits\u003C/b\u003E\u003C/a\u003E red and white, and with almonds fried in oil, and serve it forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blancmange",
+      "relatedPageUrl": "blancmange.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Blank Maunger",
+  "usedSnapshot": "20210512122758"
+}

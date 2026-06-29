@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922075045",
+  "finalPath": "devonshire-whitepot.html",
+  "heading": "Devonshire Whitepot",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "raisins",
+    "salt",
+    "sugar",
+    "currants",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "devonshire-whitepot.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Devonshire White-pot.\u003C/b\u003E\u003Cbr\u003E\nTake a pint of Cream and straine four Eggs into it, and put a little Salt and a little sliced Nutmeg, and season it with Sugar somewhat sweet; then take almost a penny Loaf of fine bread sliced very thin, and put it into a Dish that will hold it, the Cream and the Eggs being put to it; then take a handfull of Raisins of the Sun being boyled, and a little sweet Butter, so bake it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "devonshire-whitepot.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E462. DEVONSHIRE WHITE-POT (Eighteenth Century)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a penny white loaf sliced very thin; make two quarts of new milk scaldiag hot, then put it to the bread, and break it up and put it through a colander. Then put in four eggs, a little spice, sugar, raisins and currants, and a little salt, and bake it, but not too long, or it will whey (i.e., curdle).\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Devonshire Whitepot",
+  "usedSnapshot": "20220516214658"
+}

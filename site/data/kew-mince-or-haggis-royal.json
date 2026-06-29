@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20130325124517",
+  "finalPath": "kew-mince-or-haggis-royal.html",
+  "heading": "Kew Mince, or Haggis Royal",
+  "ingredients": [
+    "anchovy",
+    "bread",
+    "eggs",
+    "gravy",
+    "lemon",
+    "mutton",
+    "parsley",
+    "pepper",
+    "salt",
+    "suet",
+    "tea",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kew-mince-or-haggis-royal.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EKew Mince, or Haggis Royal\u003C/b\u003E\u003Cbr\u003E\nCut one pound of lean meat from a cold roast leg of mutton. mix it with half a pound of finely-shred suet, four table-spoonfuls of finely-grated bread-crumbs, one boned anchovy, one teaspoonful of minced parsley, half a tea-spoonful of chopped lemon-rind, one small tea-spoonful of salt, and half a tea-spoonful of pepper. When the dry ingredients are thoroughly blended, add half a pint of port or claret, and the yolks of four well-beaten eggs. Put the mixture neatly into a veal caul (or when this cannot be procured, put it into a saucepan), and bake in a quick oven. Serve as hot as possible, with half a pint of good brown gravy in the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Kew Mince, or Haggis Royal",
+  "usedSnapshot": "20211201003359"
+}

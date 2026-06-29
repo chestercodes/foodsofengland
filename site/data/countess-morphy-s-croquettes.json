@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072006",
+  "finalPath": "countess-morphy-s-croquettes.html",
+  "heading": "Countess Morphy\u0027s Croquettes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Countess Morphy\u0027s Croquettes",
+  "usedSnapshot": "20211205175908"
+}

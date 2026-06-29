@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130131031519",
+  "finalPath": "garbage.html",
+  "heading": "Garbage",
+  "ingredients": [
+    "beef",
+    "bread",
+    "chicken",
+    "cinnamon",
+    "clowes",
+    "ginger",
+    "parsley",
+    "pepper",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "garbage.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGarbage.\u003C/b\u003E Take faire garbage, chikenes hedes, ffete, lyvers, and gysers, and wass them clean; caste them into a faire pot, and caste fresh broth of beef, powder of peper, cane, clowes, maces, parcely and sauge myced small; then take bread, stepe it in the same broth, drawe it through a streynour, cast thereto, and let boil ynowe; caste there-to powder ginger, vergeous, salt, and a little safferon, and serve it forthe.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003E[Take good-quality innards, chicken\u0027s heads, feet, livers, and gullets, and wash them clean. Put them in a clean pot and add fresh beef broth, ground pepper, cinnamon, cloves, mace, parsley and sage chopped small. Then take bread, soak it in the broth, force it through a strainer and add it back to the broth, and let it boil well. Add powdered ginger, \u003Ca href=\u0022verjuice.html\u0022\u003E\u003Cb\u003Everjuice\u003C/b\u003E\u003C/a\u003E, salt and a little saffron, and serve it.]\u003C/i\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Garbage",
+  "usedSnapshot": "20210512111341"
+}

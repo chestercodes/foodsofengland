@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140616081343",
+  "finalPath": "beer-battered-fish.html",
+  "heading": "Beer Battered Fish",
+  "ingredients": [
+    "ale",
+    "beat",
+    "egg",
+    "flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beer-battered-fish.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "Some love fish in batter; then you must beat an egg fine, and dip your fish in just as you are going to put it in the pan; or as good a batter as any, is a little ale and flour beat up, just as you are ready for it, and dip the fish, to fry it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chip-Shop Fried Fish",
+      "relatedPageUrl": "chip-shop-fried-fish.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Beer Battered Fish",
+  "usedSnapshot": "20211018072325"
+}

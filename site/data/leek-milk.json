@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922071921",
+  "finalPath": "leek-milk.html",
+  "heading": "Leek Milk",
+  "ingredients": [
+    "cream",
+    "leek",
+    "leeks",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leek-milk.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "LEEK MILK. Wash a large handful of leeks, cut them small, and boil them in a gallon of milk till it become as thick as cream. Then strain it, and drink a small bason full twice a day. This is good for the jaundice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ELeek Porridge\u003C/b\u003E",
+      "relatedPageUrl": "leek-porridge.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Leek Milk",
+  "usedSnapshot": "20220819111709"
+}

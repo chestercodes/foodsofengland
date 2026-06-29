@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140508113230",
+  "finalPath": "flapjacks.html",
+  "heading": "Flapjacks",
+  "ingredients": [
+    "baking powder",
+    "currants",
+    "fat",
+    "flour",
+    "sugar",
+    "margarine",
+    "oats",
+    "porridge oats"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "flapjacks.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Thursday 7 December 1933",
+      "receiptText": "\u003Cb\u003EA recipe for flapjacks:\u003C/b\u003E Mix 2oz. flour and half-teaspoonful baking powder with half-gill cold water into a batter, add 1/2 oz. currants, and fry in hot fat on both sides. Serve hot with sifted sugar. Enough for four people.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "flapjacks.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 23 February 1957",
+      "receiptText": "\u003Cb\u003EFLAPJACKS\u003C/b\u003E\u003Cbr\u003E\nFour ounces each of margarine, sugar and porridge oats, place the margarine and sugar in saucepan, stir until the sugar is dissolved, then stir the oats. Mix all well in the saucepan, press into a greased tin. and bake in a moderate oven for 25 minutes. Cut into triangles and leave until cold\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EThorcake\u003C/b\u003E",
+      "relatedPageUrl": "tharf-cake.html",
+      "relationDescription": "For an ancient version, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Flapjacks",
+  "usedSnapshot": "20220815155220"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922091911",
+  "finalPath": "st-george-s-chicken-parcels.html",
+  "heading": "St George\u0027s Chicken Parcels",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "St George\u0027s Chicken Parcels",
+  "usedSnapshot": "20211027035750"
+}

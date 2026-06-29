@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922073552",
+  "finalPath": "candied-lemon-cakes.html",
+  "heading": "Candied Lemon Cakes",
+  "ingredients": [
+    "lemon",
+    "lemons",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "candied-lemon-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELemon-Cakes. From Mrs. Anne Shepperd of Norwich.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake out the Pulp of Lemons, as little bruis\u0027d as possible; then boil some Sugar to a candied height, and put to it the Pulp and Juice, and stir it quickly; then put it into a Stove or into hot Sand. When you observe that it begins to candy on one side, then turn them out of the Glasses with a wet Knife on the other side, and let that candy too, in the same manner; when all is done, put them in a Box between Papers, and keep them in a dry Place.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Candied Lemon Cakes",
+  "usedSnapshot": "20180924034535"
+}

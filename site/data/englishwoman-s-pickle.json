@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922133117",
+  "finalPath": "englishwoman-s-pickle.html",
+  "heading": "Englishwoman\u0027s Pickle",
+  "ingredients": [
+    "cayenne",
+    "onions",
+    "salt",
+    "sherry",
+    "soy",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "englishwoman-s-pickle.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAN EXCELLENT PICKLE.\u003C/b\u003E\u003Cbr\u003E\n497. INGREDIENTS: Equal quantities of medium-sized onions, cucumbers, and sauce-apples; 1-\u00BD teaspoonful of salt, \u00BE teaspoonful of cayenne, 1 wineglassful of soy, 1 wineglassful of sherry; vinegar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Slice sufficient cucumbers, onions, and apples to fill a pint stone jar, taking care to cut the slices very thin; arrange them in alternate layers, shaking in as you proceed salt and cayenne in the above proportion; pour in the soy and wine, and fill up with vinegar. It will be fit for use the day it is made.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: in August and September.\u003Cbr\u003E\n(This recipe was forwarded to the editress of this work by a subscriber to the \u0022Englishwoman\u0027s Domestic Magazine.\u0022 Mrs. Beeton, not having tested it, cannot vouch for its excellence; but the contributor spoke very highly in its favour.)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Englishwoman\u0027s Pickle",
+  "usedSnapshot": "20170313224947"
+}

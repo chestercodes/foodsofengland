@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20121024084516",
+  "finalPath": "witherslacks.html",
+  "heading": "Witherslacks",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Witherslacks",
+  "usedSnapshot": "20211021021910"
+}

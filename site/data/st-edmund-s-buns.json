@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922073333",
+  "finalPath": "st-edmund-s-buns.html",
+  "heading": "St Edmund\u0027s Buns",
+  "ingredients": [
+    "butter",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "sultanas",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "st-edmund-s-buns.html-1",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESt Edmund\u0027s Buns\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1-and-a-half lbs flour\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1-and-a-half teaspoons of salt\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 2 oz of butter\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 2 teaspoons of mixed spice\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 3 oz Sugar\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 4 oz sultanas\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;\u00BD pint tepid milk\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BC pint of tepid water\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 oz of yeast\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Mix together and then place small portions of the dough onto a baking tray.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Allow to rise in a warm place until nearly double in size. Then bake in a preheated oven at 160 to 180 for about 25 to 30 minutes, or until brown.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Cover with sugar solution and enjoy! Best eaten warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "St Edmundsbury Mutton",
+      "relatedPageUrl": "st-edmundsbury-mutton.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "St Edmund\u0027s Buns",
+  "usedSnapshot": "20210510050249"
+}

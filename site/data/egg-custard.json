@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922080712",
+  "finalPath": "egg-custard.html",
+  "heading": "Egg Custard",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Egg Custard Sauce",
+      "relatedPageUrl": "egg-custard-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Egg Custard",
+  "usedSnapshot": "20211201033949"
+}

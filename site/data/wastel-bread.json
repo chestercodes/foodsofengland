@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150212065337",
+  "finalPath": "wastel-bread.html",
+  "heading": "Wastel Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cheat",
+      "relatedPageUrl": "cheat.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Jannock Bread",
+      "relatedPageUrl": "jannock-bread.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Manchets",
+      "relatedPageUrl": "manchets.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Pandemain",
+      "relatedPageUrl": "pandemain.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Wastel Bread",
+      "relatedPageUrl": "wastel-bread.html",
+      "relationDescription": "For other traditional bread types, see:"
+    },
+    {
+      "relatedPageText": "Whigs",
+      "relatedPageUrl": "whigs.html",
+      "relationDescription": "For other traditional bread types, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "langland-1390"
+    }
+  ],
+  "title": "Wastel Bread",
+  "usedSnapshot": "20220706154003"
+}

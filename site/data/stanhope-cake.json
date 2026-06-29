@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922133125",
+  "finalPath": "stanhope-cake.html",
+  "heading": "Stanhope Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Stanhope Cake",
+  "usedSnapshot": "20211021022158"
+}

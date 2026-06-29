@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922085716",
+  "finalPath": "lancashire-boiled-potatoes.html",
+  "heading": "Lancashire Boiled Potatoes",
+  "ingredients": [
+    "potato",
+    "potatoes",
+    "salt",
+    "butter",
+    "tea"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lancashire-boiled-potatoes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETO BOIL POTATOES. (The Lancashire way.)\u003C/b\u003E\u003Cbr\u003E\nPare the potatoes, cover them with cold water, and boil them slowly until they are quite tender, but watch them carefully, that they may not be overdone; drain off the water entirely, strew some salt over them, leave the saucepan uncovered by the side of the fire, and shake it forcibly every minute or two, until the whole of the potatoes appear dry and floury. Lancashire cooks dress the vegetable in this way to perfection, but it is far from an economical mode, as a large portion of the potato adheres to the saucepan; it has, however, many admirers.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lancashire-boiled-potatoes.html-2",
+      "receiptSource": "Alternative Receipt from \u003Ca href=\u0022http://www.cooksunited.co.uk\u0022\u003E\u003Cb\u003Ewww.cooksunited.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELancashire boiled Potatoes\u003C/b\u003E\u003Cbr\u003E\nThis method breaks all the rules but the results are delicious, marred only by the thought of dealing with the saucepan!\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n1 kg potatoes\u003Cbr\u003E\n100 g butter\u003Cbr\u003E\nsalt\u003Cbr\u003E\n\u003Ci\u003EMethod:\u003C/i\u003E\u003Cbr\u003E\nThinly peel the potatoes, cut into even-sized pieces and soak in very salty cold water for a couple of hours. Drain and put the potatoes into a saucepan with fresh, well-salted water. Boil and when nearly done, add a little cold water to lower the temperature and make the potatoes floury.\u003Cbr\u003E\nDrain and return to the pan, cover with a folded tea towel and complete the cooking over a low heat. Lumps of potato will stick to the pan: scrape these off and mix in with the rest of the potatoes. The half-scorched flavour is essential. Mix carefully with butter and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Lancashire Boiled Potatoes",
+  "usedSnapshot": "20170313225742"
+}

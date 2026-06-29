@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922080823",
+  "finalPath": "baked-soup.html",
+  "heading": "Baked Soup",
+  "ingredients": [
+    "carrots",
+    "onions",
+    "peas",
+    "pepper",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BAKED SOUP. A cheap and plentiful dish for poor families, or to give away, may be made of a pound of any kind of meat cut in slices, with two onions, two carrots sliced, two ounces of rice, a pint of split peas, or whole ones if previously soaked, seasoned with pepper and salt. Put the whole into an earthen jug or pan, adding a gallon of water: cover it very close, and bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Baked Soup",
+  "usedSnapshot": "20220516212448"
+}

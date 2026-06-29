@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922073208",
+  "finalPath": "lincolnshire-stovies.html",
+  "heading": "Lincolnshire Stovies",
+  "ingredients": [
+    "bacon",
+    "cheddar",
+    "cheese",
+    "chicken",
+    "olive oil",
+    "onion",
+    "onions",
+    "potatoes",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lincolnshire-stovies.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EWinteringham Village Recipes\u003C/i\u003E at \u003Ca href=\u0022http://www.recipes.winteringham.info\u0022\u003E\u003Cb\u003Ewww.recipes.winteringham.info\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBacon \u0026 Onion Stovies\u003C/b\u003E\u003Cbr\u003E\nby Christine Hammond\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb potatoes washed and cubed\u003Cbr\u003E\n4 tbs olive oil\u003Cbr\u003E\n2 small onions sliced\u003Cbr\u003E\n6 ozs streaky bacon\u003Cbr\u003E\n1/4 pint chicken or vegetable stock\u003Cbr\u003E\n6 ozs cheddar cheese grated\u003Cbr\u003E\n\u003Cbr\u003E\nPre heat oven to 200 deg C Gas Mark 7\u003Cbr\u003E\nCook potatoes in boiling water until tender. Drain well\u003Cbr\u003E\nHeat oil in frying pan and add potatoes. Cook for 8 mins until golden brown. Add onions and bacon and fry for a further 5 mins or until everything is golden and crisp.\u003Cbr\u003E\nRemove from heat, stir in stock and half of the cheese. Divide mixture between four small ovenproof dishes. Scatter over remaining cheese.\u0026nbsp;\u0026nbsp;\u0026nbsp;(This can be pre-prepared if you wish.)\u003Cbr\u003E\nBake for 15 to 20 mins until piping hot and golden on top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lincolnshire Stovies",
+  "usedSnapshot": "20150922073208"
+}

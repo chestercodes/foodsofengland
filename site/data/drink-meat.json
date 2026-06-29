@@ -1,0 +1,126 @@
+﻿{
+  "earliestSnapshot": "20150922071726",
+  "finalPath": "drink-meat.html",
+  "heading": "Drink-Meat",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Almond Caudle",
+      "relatedPageUrl": "almond-caudle.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Caudle Chicken Pie",
+      "relatedPageUrl": "caudle-chicken-pie.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Flummery",
+      "relatedPageUrl": "flummery.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Flummery Caudle",
+      "relatedPageUrl": "flummery-caudle.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pap",
+      "relatedPageUrl": "pap.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ale Gruel",
+      "relatedPageUrl": "ale-gruel.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Aleberry",
+      "relatedPageUrl": "aleberry.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Bragget",
+      "relatedPageUrl": "bragget.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Flip",
+      "relatedPageUrl": "egg-flip.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Hot",
+      "relatedPageUrl": "egg-hot.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Koorow",
+      "relatedPageUrl": "koorow.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Lamb\u0027s Wool, or Lamasool",
+      "relatedPageUrl": "lambswool,orlamasool.htm",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Mulled Ale",
+      "relatedPageUrl": "mulled-ale.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Posset",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Treacle Posset",
+      "relatedPageUrl": "treacle-posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EDrinkmeat\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Drink-Meat",
+  "usedSnapshot": "20211201032706"
+}

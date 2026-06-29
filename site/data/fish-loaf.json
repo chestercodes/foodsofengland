@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140616082853",
+  "finalPath": "fish-loaf.html",
+  "heading": "Fish Loaf",
+  "ingredients": [
+    "custard",
+    "eggs",
+    "herbs",
+    "milk",
+    "pepper",
+    "salt",
+    "beat",
+    "breadcrumbs",
+    "cod",
+    "egg",
+    "lemon",
+    "parsley"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fish-loaf.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EDover Express\u003C/i\u003E\u0027 - Friday 04 December 1896",
+      "receiptText": "\u003Cb\u003EFISH LOAF.\u003C/b\u003E -Take the \u0022 left over\u0022 of baked fish, remove everything meatable [sic]; where there is no stuffing use a few crumbs; to each pint of fish and crumbs use one cupful of milk and two beaten eggs; season the custard with salt, pepper, and herbs, if liked; mix with the fish, pack in moulds, and steam or bake until firm like a custard.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fish-loaf.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Saturday 19 January 1946",
+      "receiptText": "FISH LOAF Ingredients: large cups cooked cod or other white fish. large cup fine breadcrumbs, 1 tablespoon chopped parsley. few drops of lemon essence, salt and pepper, few capers (if liked), a reconstituted egg. Flake the fish with a fork removing skin and bones. Mix well with the crumbs, lemon essence, parsley and seasoning, and lastly, beat in the egg. Pack into a greased basin and steam for one hour. Turn out and serve with white sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Fish Loaf",
+  "usedSnapshot": "20220729094206"
+}

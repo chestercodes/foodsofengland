@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074354",
+  "finalPath": "stir-in-pudding.html",
+  "heading": "Stir-in Pudding",
+  "ingredients": [
+    "custard",
+    "fat",
+    "flour",
+    "gooseberries",
+    "lard",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "rhubarb",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stir-in-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Stir-in%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESTIR-IN PUDDING\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n12 oz (340g) Self Raising flour\u003Cbr\u003E\n6 oz (170g) lard\u003Cbr\u003E\n3 oz (85g) white sugar\u003Cbr\u003E\nmilk and water or water to mix\u003Cbr\u003E\npinch salt\u003Cbr\u003E\n\u00BD lb fruit as available (gooseberries, rhubarb etc)\u003Cbr\u003E\n\u003Cbr\u003E\nRub fat into flour, sugar and salt. Stir in the fruit with sweet spices (nutmeg etc) if liked. Mix with sufficient liquid to make fairly stiff mixture. Steam in a greased basin for 2\u00BD to 3 hours. Serve with custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Stir-in Pudding",
+  "usedSnapshot": "20200116103027"
+}

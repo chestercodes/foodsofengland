@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140212025238",
+  "finalPath": "john-peel-tart.html",
+  "heading": "John Peel Tart",
+  "ingredients": [
+    "almonds",
+    "butter",
+    "currants",
+    "golden syrup",
+    "lemon",
+    "lemon juice",
+    "pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "john-peel-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20John%20Peel%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "JOHN PEEL TART\u003Cbr\u003E\n8oz short-crust pastry\u003Cbr\u003E\n4oz golden syrup\u003Cbr\u003E\n1oz butter\u003Cbr\u003E\n6oz currants\u003Cbr\u003E\n1dspn lemon juice\u003Cbr\u003E\n1oz chopped peel\u003Cbr\u003E\n1/2 tsp mixed spice\u003Cbr\u003E\n1oz ground almonds\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD: Melt the golden syrup and the butter, together with the currants, lemon juice, chopped peel, mixed spice and ground almonds. Mix all together over the heat, then take off heat and leave to cool. Line a greased 7-in fireproof plate with half the rolled out pastry. Fill with the fruit mixture. Cover with the remaining pastry, sealing the edges well and bake for around 40 minutes in a fairly hot oven, until golden brown. Serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "John Peel Tart",
+  "usedSnapshot": "20211129123603"
+}

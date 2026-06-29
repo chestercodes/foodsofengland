@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922073458",
+  "finalPath": "piccalilli.html",
+  "heading": "Piccalilli",
+  "ingredients": [
+    "cabbage",
+    "cauliflower",
+    "ginger",
+    "mustard",
+    "pepper",
+    "salt",
+    "tumerick",
+    "vinegar",
+    "white wine",
+    "white wine vinegar",
+    "ale",
+    "beat",
+    "caulyflower",
+    "kidney",
+    "mustard seed",
+    "nutmeg",
+    "pickles",
+    "turmerick"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "piccalilli.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make paco lilla or Indian pickle the same the mangos come over in\u003C/b\u003E\u003Cbr\u003E\nTAKE a pound of race ginger and lay it in water one flight then scrape it and cut it in thin dices and put to it some salt and let it stand in the sun to dry; take long pepper two ounces and do it as the ginger. Take a pound of garlick and cut it in thin slices and salt it and let it stand three days then wash it well and let it be salted again and stand three days more then wash it well and drain it and put it in the sun to dry. Take a quarter of a pound of mustard seeds bruised, and half a quarter of an ounce of tumerick, put these ingredients when prepared into a large stone or glass jar with a gallon of very good white wine vinegar, and stir it very often for a fortnight, and tie it up close.\u003Cbr\u003E\n\u003Cbr\u003E\nIn this pickle you may put white cabbage cut in quarters and put in a brine of salt and water for three days, and then boil fresh salt and water, and just put in the cabbage to scald and press out the water, and put it in the sun to dry; in the fame manner as you do cauliflower\u0027s cucumbers, melons, apples, French beans, plumbs, or any sort of fruit. Take care they are all well dried before you put them into the pickle you need never empty the jar but as the things come in season put them in and supply it with vinegar as often as there is occasion. If you would have your pickle look green leave out the tumerik and green them as usual and put them into this pickle cold.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "piccalilli.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Indian Pickle or Piccalillo\u003C/b\u003E\u003Cbr\u003E\nGET a white cabbage one caulyflower \u0026 few small cucumbers, radish pods, kidney beans and a little beet root or any other thing you commonly pickle, then put them on a hair sieve and throw a large handful of salt over them and set them in the sun shine or before the fire for three days to dry. When all the water is run out of them put them into a large earthen pot in layers, and betwixt every layer put a handful of brown mustard seed, then take as much ale allegar as you think will cover it and to every four quarts of allegar put an ounce of turmerick boil them together and pour it hot upon your pickle and let it stand twelve days upon the hearth or till the pickles are all of a bright yellow colour and most of the allegar sucked up. Then take two quarts of strong ale allegar, one ounce of mace, the same of white pepper, a quarter of an ounce of cloves, the same of long pepper and nutmeg, beat them all together and boil them ten minutes in your allegar then pour it upon your pickles, with four ounces of garlick peeled, tie it close down and keep it for use.\u003Cbr\u003E\nN B - You may put in fresh pickles as the things comes in season and keep them covered with vinegar \u0026amp;c\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Epaco-lilla, peccalillo, piccalillo, piccalilli, picalilly, picalilli, piccalilly, pickalilly\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Piccalilli",
+  "usedSnapshot": "20211207130104"
+}

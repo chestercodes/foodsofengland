@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140508102717",
+  "finalPath": "essex-shortcake.html",
+  "heading": "Essex Shortcake",
+  "ingredients": [
+    "biscuits",
+    "currants",
+    "flour",
+    "lard",
+    "margarine",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "essex-shortcake.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.essextouristguide.com/Favourite_Essex_Recipes.asp\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EEssex Shortcakes -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 9 oz. self raising flour, 2 oz. sugar, 3 oz. margarine, 1 oz. lard, 1\u00BD oz. currants, 1 fl. oz. milk, sugar for sprinkling\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 400\u00BAF or Mark 6. Sift the flour into bowl and add the sugar. Rub in the fats, then add the currants. Gradually mix in the milk until the mixture binds together. Gently roll out the mixture to half inch thick on a lightly floured surface and then cut into slices. Place on a greased baking tray and sprinkle sugar over the top of the biscuits. Bake for about 10 minutes until pale golden brown. Remove the biscuits from the baking sheet while still warm and transfer to a wire rack to cool.\u003Cbr\u003E\nMakes about 12-16 slices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFruit Shortcake\u003C/b\u003E",
+      "relatedPageUrl": "fruit-shortcake-biscuit.html",
+      "relationDescription": "For similar biscuits, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Essex Shortcake",
+  "usedSnapshot": "20220527223724"
+}

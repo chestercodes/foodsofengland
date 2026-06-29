@@ -1,0 +1,93 @@
+﻿{
+  "earliestSnapshot": "20150922073702",
+  "finalPath": "fruited-teacakes.html",
+  "heading": "Fruited Teacakes",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fruited-teacakes.html-1",
+      "receiptSource": "",
+      "receiptText": "Amazingly, Foods of England can\u0027t find any receipt for the modern type of fruited teacake \u003Ci\u003Eby that, or a similar, name\u003C/i\u003E before about 1980. Can you help find more about Fruited Teacakes? - email \u003Ca href=\u0022mailto:glyn.hughes@foodsofengland.co.uk?subject=Foods%20of%20England%20-%20Fruited%20Teacakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Borrowdale Tea Cake or Teabread",
+      "relatedPageUrl": "borrowdale-tea-cake-or-teabread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Bread Names",
+      "relatedPageUrl": "bread-names.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Currant Bread",
+      "relatedPageUrl": "currant-bread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fruited Teabread",
+      "relatedPageUrl": "fruited-teabread.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fruited Teacakes",
+      "relatedPageUrl": "fruited-teacakes.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Hawkshead Whigs",
+      "relatedPageUrl": "hawkshead-whigs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Oven Bottom Cake",
+      "relatedPageUrl": "oven-bottom-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Tea",
+      "relatedPageUrl": "tea.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Teacake Pudding",
+      "relatedPageUrl": "teacake-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Toasted Teacake Sweets",
+      "relatedPageUrl": "toasted-teacake-sweets.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Yeast Cake",
+      "relatedPageUrl": "yeast-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Yorkshire Tea Cakes",
+      "relatedPageUrl": "yorkshire-tea-cakes.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "\u003Cb\u003ETea Cakes, Tea-Cakes\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Fruited Teacakes",
+  "usedSnapshot": "20220129133212"
+}

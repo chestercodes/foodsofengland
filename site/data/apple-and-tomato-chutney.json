@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922082611",
+  "finalPath": "apple-and-tomato-chutney.html",
+  "heading": "Apple and Tomato Chutney",
+  "ingredients": [
+    "cayenne",
+    "chutney",
+    "garlic",
+    "ginger",
+    "onions",
+    "salt",
+    "sugar",
+    "sultanas",
+    "tomatoes",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-and-tomato-chutney.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "409. CHUTNEY (Kent)\u003Cbr\u003E\n\u003Cbr\u003E\nFive pounds of apples (green), five pounds of tomatoes, two and a half pounds of sugar, two and a half pounds of sultanas, four ounces of garlic, or ten ounces of onions, ten ounces of salt, two ounces of cayenne, two ounces of ginger, three pints of vinegar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Apple and Tomato Chutney",
+  "usedSnapshot": "20211201031038"
+}

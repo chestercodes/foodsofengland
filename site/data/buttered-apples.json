@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922084333",
+  "finalPath": "buttered-apples.html",
+  "heading": "Buttered Apples",
+  "ingredients": [
+    "apple",
+    "butter",
+    "sugar",
+    "toast",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "buttered-apples.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E383. Buttered Apples.\u003C/b\u003E-Peel, slice, and core one pound of apples, put into a frying-pan about two ounces of butter, add the apple, and cover over with two ounces of pounded sugar; put them in the oven until done. A very nice dish lor children. When done, they may be dished up on a nice crisp piece of toast with sugar over.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "buttered-apples.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EChats with Housekeepers\u003C/i\u003E\u0027 by Phillis Browne, reported in the \u0027\u003Ci\u003ENewcastle Courant\u003C/i\u003E\u0027 - Friday 14 September 1883",
+      "receiptText": "\u003Cb\u003EButtered Apples.\u003C/b\u003E-This dish is very old-fashioned, but it is both excellent and wholesome. The addition of butter and sugar mellows and enriches cooked apples and renders them particularly delicious, that is if the fruit is to be eaten hot. If it is to be eaten cold the addition of cream or milk is to be preferred. Pare and core some large apples, put them in a deep dish, and fill the hollows with butter and sugar. Put a cover on the dish, and set them in a cool oven, and cook them gently through, basting them occasionally with the butter. Buttered apples ought not properly to lose their shapes, but they are often served upon a layer of apple pulp.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "West Country"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Buttered Apples",
+  "usedSnapshot": "20211019190445"
+}

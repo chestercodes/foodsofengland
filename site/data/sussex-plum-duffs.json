@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922072311",
+  "finalPath": "sussex-plum-duffs.html",
+  "heading": "Sussex Plum Duffs",
+  "ingredients": [
+    "castor sugar",
+    "currants",
+    "flour",
+    "lard",
+    "lemon",
+    "milk",
+    "pastry",
+    "plum",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sussex-plum-duffs.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Sussex%20Plum%20Duffs\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESussex Plum Duffs\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n55g lard\u003Cbr\u003E\n2 cups of flour\u003Cbr\u003E\n55g currants or sultanas\u003Cbr\u003E\n27g castor sugar\u003Cbr\u003E\n1 cup of milk (soured)\u003Cbr\u003E\nLemon\u003Cbr\u003E\n\u003Cbr\u003E\nSour the milk by adding the juice of half a lemon.\u003Cbr\u003E\n\u003Cbr\u003E\nRub the lard into the flour, add the fruit and sugar, and then the milk. Work the mixture into a pastry.\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out and cut into rounds, brush with milk, bake in a moderate oven for 15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Sussex Plum Duffs",
+  "usedSnapshot": "20211021025329"
+}

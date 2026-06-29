@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922132848",
+  "finalPath": "tiverton-chudleighs.html",
+  "heading": "Tiverton Chudleighs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cream Teas",
+      "relatedPageUrl": "cream-tea.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": ", \u0027Chudleigh Buns\u0027, \u0027cutrounds\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Tiverton Chudleighs",
+  "usedSnapshot": "20210120130720"
+}

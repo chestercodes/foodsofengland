@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922100348",
+  "finalPath": "gin-and-tonic.html",
+  "heading": "Gin and Tonic",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gin and Tonic",
+  "usedSnapshot": "20211027032030"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140212021414",
+  "finalPath": "surrey-lamb-pie.html",
+  "heading": "Surrey Lamb Pie",
+  "ingredients": [
+    "black pepper",
+    "butter",
+    "carrots",
+    "egg",
+    "flour",
+    "kidneys",
+    "lamb",
+    "lamb chops",
+    "mashed potatoes",
+    "milk",
+    "mint",
+    "mushrooms",
+    "onions",
+    "pastry",
+    "pepper",
+    "potatoes",
+    "puff pastry",
+    "rosemary",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "surrey-lamb-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Surrey%20Lamb%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESurrey Lamb Pie\u003C/b\u003E\u003Cbr\u003E\n8 Small Lamb chops, trimmed\u003Cbr\u003E\nSeasoned flour, for dusting\u003Cbr\u003E\n1 oz Butter\u003Cbr\u003E\n2 Onions, sliced\u003Cbr\u003E\n2-3 Lambs kidneys, cored and sliced\u003Cbr\u003E\nSalt and black pepper\u003Cbr\u003E\n1 Sprig Fresh mint or rosemary\u003Cbr\u003E\n\u00BD Lamb stock\u003Cbr\u003E\n8 oz Mushrooms, sliced\u003Cbr\u003E\n8 oz Shortcrust or puff pastry\u003Cbr\u003E\nMilk or beaten egg to glaze\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EPreparation\u003C/b\u003E\u003Cbr\u003E\nPreheat the oven to 180 \u00B0C / 350 \u00B0F / Gas 4.\u003Cbr\u003E\nDust the chops generously with seasoned flour. Heat the butter or oil in a frying pan and brown the chops on both sides.\u003Cbr\u003E\nArrange the chops in a 2 pint pie dish and scatter the onions on top. Add the kidneys and season lightly. Add the sprig of mint or rosemary.\u003Cbr\u003E\nPour the stock into the frying pan and heat through, stirring to take up the residue of flour, then pour sufficient over the pie filling just to cover.\u003Cbr\u003E\nArrange the mushrooms in overlapping layers to cover the filling. Roll out the pastry and cover the pie, decorate with the trimmings.\u003Cbr\u003E\nGlaze with milk or beaten egg and cook for about 40 minutes or until the pastry is crisp and golden. Serve with mashed potatoes, carrots and a green vegetable.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Surrey Lamb Pie",
+  "usedSnapshot": "20200126142043"
+}

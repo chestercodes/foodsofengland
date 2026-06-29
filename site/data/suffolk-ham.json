@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323200112",
+  "finalPath": "suffolk-ham.html",
+  "heading": "Suffolk Ham",
+  "ingredients": [
+    "pork",
+    "salt",
+    "sugar",
+    "vinegar",
+    "white-wine vinegar",
+    "flour",
+    "ham"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "suffolk-ham.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern cookery for private families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Leg of Suffolk farm-house pork, 14 to 15 lbs.; saltpetre, 1\u00BC oz.; \u003Ci\u003Estrong\u003C/i\u003E coarse salt, 6 oz.; coarse sugar, 8 oz.: 3 days. Fine white-wine vinegar, 1 pint. In pickle, turned daily, 1 month. Smoked over wood, 1 month.\u003Cbr\u003E\n\u003Cbr\u003E\nObs. - When two hams are pickled together, a smaller proportion of the ingredients is required for each, than for one which is cured by itself.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "suffolk-ham.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe French Cook\u003C/i\u003E\u0027 (1822) by Louis Eustache Ude",
+      "receiptText": "\u003Cb\u003EReceipt to make a Ham better than those of Westphalia.\u003C/b\u003E\u003Cbr\u003E\nAs soon as the pig is cold enough to be cut up, take the two hams, and cut out the round bone, so as to have the ham not too thick; rub them well with common salt, and leave them in a large pan for three days; when the salt has drawn out all the blood, throw the brine away and proceed as follows: for two hams of about eighteen pounds each, take one pound of moist sugar, one pound of common salt, and two ounces of saltpetre, mix them together, and rub the hams well with it, then put them into a vessel large enough to contain them in the liquor, always keeping the salt over them; after they have been in this state three days, throw over them a bottle of good vinegar. One month is requisite for the cure of them; during that period they must be often turned in the brine; when you take them out, drain them well, powder them with some coarse flour, and hang them in a dry place. The same brine can serve again, observing that you must not put so much salt on the next hams that you pickle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Suffolk Ham",
+  "usedSnapshot": "20211018071823"
+}

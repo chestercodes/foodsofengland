@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922082034",
+  "finalPath": "sheep-s-ears.html",
+  "heading": "Sheep\u0027s Ears",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "bread",
+    "egg",
+    "flour",
+    "gravy",
+    "lemon",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "salt",
+    "sheep",
+    "suet",
+    "thyme",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sheep-s-ears.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SHEEP\u0027S EARS. Take a dozen and a half of sheep\u0027s ears, scald and clean them very well; then make a forcemeat of veal, suet, crumbs of bread, a little nutmeg, pepper, salt, and beaten mace, parsley and thyme shred fine; mix these ingredients with the yolk of an egg; fill the ears, and lay one over the other, press them close, flour them, and fry them in clean beef dripping, of a fine brown; serve them up with gravy sauce in the dish, garnished with lemon. This is a pretty side dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Sheep\u0027s Ears",
+  "usedSnapshot": "20220516224302"
+}

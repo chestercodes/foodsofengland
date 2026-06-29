@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922094705",
+  "finalPath": "westmorland-damson.html",
+  "heading": "Westmorland Damson",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Westmorland Damson",
+  "usedSnapshot": "20220819120044"
+}

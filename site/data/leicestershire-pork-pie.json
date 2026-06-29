@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140212033521",
+  "finalPath": "leicestershire-pork-pie.html",
+  "heading": "Leicestershire Pork Pie",
+  "ingredients": [
+    "butter",
+    "egg",
+    "fat",
+    "flour",
+    "lard",
+    "pepper",
+    "pork",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leicestershire-pork-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Modern Cook\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E1246 LEICESTERSHIRE PORK PIE\u003C/b\u003E\u003Cbr\u003E\nCut the pork up in square pieces, fat and lean about the size of a cob nut, season with pepper and salt and a small quantity of sage and thyme chopped fine, and set it aside on a dish in a cool place. Next make some hot water paste using for this purpose, if desired, fresh made hog\u0027s lard instead of butter, in the proportion of eight ounces to the pound of flour. These pies must be raised by hand in the following manner; First mould the paste into a round ball upon the slab then roll it out to the thickness of half an inch and with the back of the right hand indent the centre in a circle reaching to within three inches of the edge of the paste next gather up the edges all round pressing it closely with the fingers and thumbs so as to give to it the form of a purse then continue to work it upwards until the sides are raised sufficiently high the pie should now be placed on a baking sheet with a round of buttered paper under it, and after it has been filled with the pork previously prepared for the purpose covered in with some of the paste in the usual manner. Trim the edges and pinch it round with the pincers, decorate it egg it over and bake it until done, calculating the time it should remain in the oven according to the quantity of meat it contains\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pork Pies"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Leicestershire Pork Pie",
+  "usedSnapshot": "20211201024227"
+}

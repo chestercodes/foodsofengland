@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140514173018",
+  "finalPath": "clotted-cream.html",
+  "heading": "Clotted Cream",
+  "ingredients": [
+    "cream",
+    "milk",
+    "rose-water",
+    "sugar",
+    "butter",
+    "clotted cream"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "clotted-cream.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make clowted Cream after Mistres Horsmans way.\u003C/b\u003E\u003Cbr\u003E\nWHen you haue taken the milke from the Kine, straight set it on the fire, but see that your fyre be without smoake, and soft fire, and so keepe it on from morning till it be night, or nigh thereabout, and ye muste be sure that it doeth not seeth all that while, and ye muste let your milke be set on the fyre, in as broad a vessell as you can. Then take it from the fire, and set it vpon a board, and let it stande al night: then in the morning take off the cream, and put it in a dish or where ye wil.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "clotted-cream.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Clouted Cream.\u003C/b\u003E\u003Cbr\u003E\nTake three galons of new milk, and set it on the fire in a clean scowred brass pan or kettle till it boils, then make a hole in the middle of the milk, \u0026 take three pints of good cream and put into the hole as it boileth, boil it together half an hour, then divide it into four milk pans, and let it cool two days, if the weather be not too hot, then take it up with a slice or scummer, put it in a dish, and sprinkle it with rose-water, lay one clod upon another, and scrape on sugar.\u003Cbr\u003E\n\u003Cb\u003ETo make clouted Cream otherways extraordinary.\u003C/b\u003E\u003Cbr\u003E\nTake four gallons of new milk from the cow, set it over the fire in clean scowred pan or kettle to scald ready to boil, strain it through a clean strainer and put it into several pans to cool, then take the cream some six hours after, and put it in the dish you mean to serve it in, season it with rose-water, sugar, and musk, put some raw cream to it, and some snow cream on that.\u003Cbr\u003E\n\u003Cb\u003ETo make clouted Cream otherways.\u003C/b\u003E\u003Cbr\u003E\nTake a gallon of new milk from the cow, two quarts of cream and twelve spoonfuls of rose-water, put these together in a large milk-pan, and set it upon a fire of charcoal well kindled, (you must be sure the fire be not too hot) and let it stand a day and a night, then take it off and dish it with a slice or scummer, let no milk be in it, and being disht and cut in fine little pieces, scrape sugar on it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "clotted-cream.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Clouted or Clotted Cream. (No, 388.)\u003Cbr\u003E\n\u003Cbr\u003E\nThe milk which is put into the pans one morning stands till the next; then set the pan on a hot hearth, or in a copper tray half full of water; put this over a stove; in from ten to twenty minutes, according to the quantity of the milk and the size of the pan, it will be done enough; the sign of which is, that bladders rise on its surface; this denotes that it is near boiling, which it must by no means do; and it must be instantly removed from the fire, and placed in the dairy till the next morning, when the fine cream is thrown up, and is ready for the table, or for butter, into which it is soon converted by stirring it with the hand. N.B. This receipt we have not proved.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", Clouted Cream, though this can also refer to a type of cream-custard, see \u003Ca href=\u0022clouted-cream.html\u0022\u003E\u003Cb\u003E\u0027Clouted Cream\u0027\u003C/b\u003E\u003C/a\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Clotted Cream",
+  "usedSnapshot": "20220819113430"
+}

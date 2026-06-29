@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150513065242",
+  "finalPath": "ginger-cake.html",
+  "heading": "Ginger Cake",
+  "ingredients": [
+    "beat",
+    "bread",
+    "eggs",
+    "flour",
+    "ginger",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ginger-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E388. Ginger Cake.-\u003C/b\u003E Half a pound of sugar, half a pound of batter, one ounce and a half of ground ginger, six eggs, beat well, stirring one pound and a half of flour, and add as much milk, a little warm, as will make a nice stiff dough for bread; bake in pan; it will take two hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Ginger Cake",
+  "usedSnapshot": "20211207115837"
+}

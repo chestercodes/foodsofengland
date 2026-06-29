@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922074901",
+  "finalPath": "milk-soup.html",
+  "heading": "Milk Soup",
+  "ingredients": [
+    "beat",
+    "bread",
+    "cinnamon",
+    "eggs",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "milk-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "MILK SOUP. Boil a pint of milk with a little salt, cinnamon, and sugar. Lay thin slices of bread in a dish, pour over them a little of the milk, and keep them hot over a stove without burning. When the soup is ready, beat up the yolks of five or six eggs, and add them to the milk. Stir it over the fire till it thickens, take it off before it curdles, and pour it upon the bread in the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Milk Soup",
+  "usedSnapshot": "20220808011844"
+}

@@ -1,0 +1,99 @@
+﻿{
+  "earliestSnapshot": "20150922090544",
+  "finalPath": "tipsy-cake.html",
+  "heading": "Tipsy Cake",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "brandy",
+    "custard",
+    "lemon",
+    "white wine",
+    "cream",
+    "eggs",
+    "jam",
+    "milk",
+    "rice",
+    "sherry",
+    "whipped cream"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tipsy-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETIPSY CAKE OR BRANDY TRIFLE\u003C/b\u003E\u003Cbr\u003E\nThe old fashioned mode of preparing this dish was to soak a light sponge or Savoy cake in as much good French brandy as it could absorb, then to stick it full of blanched almonds cut into whole length spikes, and to pour a rich cold boiled custard round it. It is more usual now to pour white wine over the cake or a mixture of wine and brandy with this the juice of half a lemon is sometime mixed.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tipsy-cake.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETIPSY CAKE.\u003C/b\u003E\u003Cbr\u003E\n1487. INGREDIENTS: 1 moulded sponge-or Savoy-cake, sufficient sweet wine or sherry to soak it, 6 tablespoonfuls of brandy, 2 oz. of sweet almonds, 1 pint of rich custard.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Procure a cake that is three or four days old, - either sponge, Savoy, or rice answering for the purpose of a tipsy cake. Cut the bottom of the cake level, to make it stand firm in the dish; make a small hole in the centre, and pour in and over the cake sufficient sweet wine or sherry, mixed with the above proportion of brandy, to soak it nicely. When the cake is well soaked, blanch and cut the almonds into strips, stick them all over the cake, and pour round it a good custard, made by recipe No. 1423, allowing 8 eggs instead of 5 to the pint of milk. The cakes are sometimes crumbled and soaked, and a whipped cream heaped over them, the same as for trifles.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: About 2 hours to soak the cake. \u003Ci\u003EAverage cost\u003C/i\u003E: 4s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 1 dish. \u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EAN EASY WAY OF MAKING A TIPSY CAKE.\u003C/b\u003E\u003Cbr\u003E\n1488. INGREDIENTS: 12 stale small sponge-cakes, raisin wine,\u00BD lb. of jam, 1 pint of custard No. 1423.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Soak the sponge-cakes, which should be stale (on this account they should be cheaper), in a little raisin wine; arrange them on a deep glass dish in four layers, putting a layer of jam between each, and pour round them a pint of custard, made by recipe No. 1423, decorating the top with cut preserved fruit.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 2 hours to soak the cakes. Average cost, 2s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 1 dish. \u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Buxton Pudding",
+      "relatedPageUrl": "buxton-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake",
+      "relatedPageUrl": "tipsy-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake Pudding",
+      "relatedPageUrl": "tipsy-cake-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy D\u0027Arcy Spice Apples",
+      "relatedPageUrl": "tipsy-d-arcy-spice-apples.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Kidneys",
+      "relatedPageUrl": "tipsy-kidneys.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Squire",
+      "relatedPageUrl": "tipsy-squire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Trifle",
+      "relatedPageUrl": "tipsy-trifle.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Tipsy Cake",
+  "usedSnapshot": "20211207120206"
+}

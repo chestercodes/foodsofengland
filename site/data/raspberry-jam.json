@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20190414090107",
+  "finalPath": "raspberry-jam.html",
+  "heading": "Raspberry Jam",
+  "ingredients": [
+    "currant",
+    "jam",
+    "raspberries",
+    "raspberry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "raspberry-jam.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERASPBERRY JAM.\u003C/b\u003E\u003Cbr\u003E\nTo every pound weight of ripe picked raspberries, add fourteen ounces of sifted sugar and half a gill of currant juice; put them into a preserving pan, set them over a brisk fire, and when it boils skim it well and let it simmer till it becomes, of a good consistence.\u003Cbr\u003E\n\u003Cbr\u003E\nN.B. The raspberries may be mashed with a spoon previous to adding the sugar, or rubbed through a wicker sieves\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Raspberry Jam",
+  "usedSnapshot": "20190414090107"
+}

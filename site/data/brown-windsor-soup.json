@@ -1,0 +1,33 @@
+﻿{
+  "earliestSnapshot": "20130322201425",
+  "finalPath": "brown-windsor-soup.html",
+  "heading": "Brown Windsor Soup",
+  "ingredients": [
+    "beef",
+    "dates",
+    "dried fruit",
+    "gravy",
+    "malt vinegar",
+    "parsley",
+    "pepper",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brown-windsor-soup.html-1",
+      "receiptSource": "The official Foods of England Receipt",
+      "receiptText": "\u003Cb\u003EBrown Windsor Soup \u0027Victoria\u0027\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis works extremely well. The beef is assumed to be quintessentially English, while the pepper, fruit and vinegar give it an Olde flavour. The Madeira makes it seem Victorian and the method of service adds an elegant (but cheap) surprise.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EServes 4\u003C/b\u003E\u003Cbr\u003E\n1 pint brown beef gravy\u003Cbr\u003E\n1 teaspoon malt vinegar\u003Cbr\u003E\n2 peppercorns, crushed\u003Cbr\u003E\n1 oz dark dried fruit (figs, dates, tamarind)\u003Cbr\u003E\nSmall glass of Madeira, warm\u003Cbr\u003E\n\u003Cbr\u003E\nSplinge everything, bar the drink, up in one of those machines until smooth. Re-heat and serve with an inadeqate sprinkle of parsley and, separately, a small glass of \u003Ci\u003Ehot\u003C/i\u003E Madeira to be \u003Ci\u003Eadded to the soup by the diner\u003C/i\u003E. If the gravy is good, it will be \u0022very delicieux\u0022 anyway, but doing it this way allows the joke to be continued, in that the diner can pretend that they must needs add alcohol to make it palatable.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Cimg src=\u0022brown-windsor-soup-bws.jpg\u0022 border=\u00220\u0022\u003E\u003C/center\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Brown Windsor Soup",
+  "usedSnapshot": "20220112230851"
+}

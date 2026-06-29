@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616082809",
+  "finalPath": "crimped-fish.html",
+  "heading": "Crimped Fish",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECalvered Fish\u003C/b\u003E",
+      "relatedPageUrl": "calvered-fish.html",
+      "relationDescription": "See also; "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Crimped Fish",
+  "usedSnapshot": "20210512120058"
+}

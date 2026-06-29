@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922104931",
+  "finalPath": "kattern-cake.html",
+  "heading": "Kattern Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dumb Cake",
+      "relatedPageUrl": "dumb-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Kattern Cake",
+      "relatedPageUrl": "kattern-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Spinster\u0027s Cake",
+      "relatedPageUrl": "spinster-s-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Tandry Cakes",
+      "relatedPageUrl": "tandry-cakes.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": "Cattern, or Catherine cake, \u003Ca href=\u0022whigs.html\u0022\u003E\u003Cb\u003Ewhigs\u003C/b\u003E\u003C/a\u003E. Also known as \u003Ca href=\u0022spinster-s-cake.html\u0022\u003E\u003Cb\u003ESpinster\u0027s Cake\u003C/b\u003E\u003C/a\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Bedfordshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Kattern Cake",
+  "usedSnapshot": "20220808020559"
+}

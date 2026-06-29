@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130323200004",
+  "finalPath": "mutton-with-cockles.html",
+  "heading": "Mutton with Cockles",
+  "ingredients": [
+    "mutton",
+    "oysters"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mutton-with-cockles.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo roast a leg of mutton with oysters.\u003C/b\u003E\u003Cbr\u003E\nTAKE a leg about two or three days killed, stuff it all over with oysters, and roast it. Garnish with horse-raddish.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo roast a leg of mutton with cockles.\u003C/b\u003E\u003Cbr\u003E\nSTUFF it all over with cockles, and roast it. Garnish with horse-raddish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Cockles"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cleland-1755"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Mutton with Cockles",
+  "usedSnapshot": "20220517163658"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140212015957",
+  "finalPath": "trunk-pie.html",
+  "heading": "Trunk Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Denby Dale Pie",
+      "relatedPageUrl": "denby-dale-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Trunk Pie",
+      "relatedPageUrl": "trunk-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Pie",
+      "relatedPageUrl": "yorkshire-christmas-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECumberland Game Pie\u003C/b\u003E",
+      "relatedPageUrl": "cumberland-game-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EDerby Pie\u003C/b\u003E",
+      "relatedPageUrl": "derby-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Trunk Pie",
+  "usedSnapshot": "20220527061753"
+}

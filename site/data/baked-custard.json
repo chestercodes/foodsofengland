@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130323063506",
+  "finalPath": "baked-custard.html",
+  "heading": "Baked Custard",
+  "ingredients": [
+    "almonds",
+    "cream",
+    "custard",
+    "eggs",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar",
+    "brandy"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "baked-custard.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBAKED CUSTARD PUDDING.\u003C/b\u003E\u003Cbr\u003E\n1268. INGREDIENTS. - 1-1/2 pint of milk, the rind of \u00BC lemon, \u00BC lb. of moist sugar, 4 eggs.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Put the milk into a saucepan with the sugar and lemon-rind, and let this infuse for about 4 hour, or until the milk is well flavoured; whisk\u0026nbsp;\u0026nbsp;\u0026nbsp;the eggs, yolks and whites; pour the milk to them, stirring all the while; then have ready a pie-dish, lined at the edge with paste ready baked; strain the\u0026nbsp;\u0026nbsp;\u0026nbsp;custard into the dish, grate a little nutmeg over the top, and bake in a \u003Ci\u003Every slow\u003C/i\u003E oven for about \u00BD hour, or rather longer. The flavour of this\u0026nbsp;\u0026nbsp;\u0026nbsp;pudding may be varied by substituting bitter almonds for the lemon-rind; and it may be very much enriched by using half cream and half milk, and doubling the\u0026nbsp;\u0026nbsp;\u0026nbsp;quantity of eggs.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - \u00BD to \u00BE hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 9d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E at any time.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E. - This pudding is usually served cold with fruit tarts.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "baked-custard.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E607. BAKED CUSTARD (Berkshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTo one quart of new milk allow four or five eggs, a quarter of a pound loaf sugar, one lemon peel grated, eight to ten bitter almonds pounded, or a few drops of essence of bitter almonds, and a tablespoonful of brandy. Bake in a slow oven, but don\u0027t allow it to boil, or the custard will \u0022break\u0022 and curdle.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Baked Custard",
+  "usedSnapshot": "20220527225152"
+}

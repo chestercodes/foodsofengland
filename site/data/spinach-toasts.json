@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082301",
+  "finalPath": "spinach-toasts.html",
+  "heading": "Spinach Toasts",
+  "ingredients": [
+    "butter",
+    "nutmeg",
+    "salt",
+    "spinage"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spinach-toasts.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E296. To make SPINAGE TOASTS.\u003C/b\u003E\u003Cbr\u003E\nTake a handful or two of young spinage and wash it, drain it from the water, put it into a pan with a lump of butter, and a little salt, let it stew whilst it be tender, only turn it in the boiling, then take it up and squeeze out the water, put in another lump of butter and chop it small, put to it a handful of currans plump\u0027d, and a little nutmeg; have three toasts cut from a penny loaf well buttered, then lie on your spinage.\u003Cbr\u003E\nThis is proper for a side-dish either for noon or night.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Spinach Toasts",
+  "usedSnapshot": "20211129120111"
+}

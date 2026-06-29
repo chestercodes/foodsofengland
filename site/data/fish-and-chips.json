@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20130808223218",
+  "finalPath": "fish-and-chips.html",
+  "heading": "Fish and Chips",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChip-Shop Fried Fish\u003C/b\u003E",
+      "relatedPageUrl": "chip-shop-fried-fish.html",
+      "relationDescription": "\u003Ci\u003ESee also:\u003C/i\u003E \u0027"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Chips\u003C/b\u003E",
+      "relatedPageUrl": "potato-chips.html",
+      "relationDescription": "\u003Ci\u003ESee also:\u003C/i\u003E \u0027"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fish and Chips",
+  "usedSnapshot": "20220527053934"
+}

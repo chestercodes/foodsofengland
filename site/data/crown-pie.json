@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808222642",
+  "finalPath": "crown-pie.html",
+  "heading": "Crown Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Crown Pie",
+  "usedSnapshot": "20211019183043"
+}

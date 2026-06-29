@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20140508110411",
+  "finalPath": "grantham-whetstones.html",
+  "heading": "Grantham Whetstones",
+  "ingredients": [
+    "caraway seeds",
+    "eggs",
+    "flour",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "grantham-whetstones.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003ETib\u0027s Tit-Bits\u003C/i\u003E of 1869;",
+      "receiptText": "\u003Cb\u003EGRANTHAM WHETSTONES\u003C/b\u003E The whites of five eggs beaten to a strong froth ten ounces of loaf sugar pounded and sifted one pound of fine flour a few caraway seeds a small piece of \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Esaltpetre\u003C/b\u003E\u003C/a\u003E about the size of a nutmeg powdered very finely. Mix all the ingredients thoroughly together and roll them very thin cut them to any shape you please and bake in a moderate oven\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Grantham Gingerbread",
+      "relatedPageUrl": "grantham-white-gingerbread.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Grantham Whetstones",
+  "usedSnapshot": "20211027034152"
+}

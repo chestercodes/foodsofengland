@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140508113321",
+  "finalPath": "turtulong.html",
+  "heading": "Turtulong",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "eggs",
+    "flour",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "turtulong.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Confectioner\u003C/i\u003E\u0027 by Frederick Nutt, 1789 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo 23. Turtulongs for breakfast.\u003C/b\u003E\u003Cbr\u003E\nTake a quarter of a pound of butter, three ounces of powdered sugar, one pound and a half of flour, six eggs yolks and whites together, and a very little salt, and mix them all together on your dresser, and having a preserving pan on the fire, with clean boiling water in it, roll your batter out about four inches long, and almost as thick as your little finger, join it in two round rings the two ends of them, and put them in this boiling water, not too many at a time, then on the other side have a bason with cold water, and as the biscuits swim on the top of the boiling water, take them out, put them in the cold water, and let them lie all night; take them out next morning and put them into a sieve, and drain all the water from them; put them on your plate, without any paper under them, let your oven be very hot, and watch them, and you will see them rise very much, the more the better, see they are not burnt, but let them be of a fine brown, and then take them out.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Turtulong",
+  "usedSnapshot": "20211018073822"
+}

@@ -1,0 +1,50 @@
+name: Build and publish images
+on:
+  push:
+    branches:
+      - "main"
+    tags-ignore:
+      - "*"
+  schedule:
+    - cron: "0 14 2 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Login to ghcr
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: docker login ghcr.io -u chestercodes -p $GITHUB_TOKEN
+
+      - name: Pull sdk image
+        run: docker pull mcr.microsoft.com/dotnet/sdk:10.0
+        shell: pwsh
+
+      - name: Set image tag
+        run: IMAGE_TAG=$(date +"v%y%m%d%H%M%S") && echo "IMAGE_TAG=$IMAGE_TAG" >> "$GITHUB_ENV"
+
+      - name: Build images in parallel
+        run: docker compose -f docker/build.yaml build --parallel
+
+      - name: Build inttests
+        run: docker compose -f docker/inttests.yaml build
+
+      - name: Pull inttests
+        run: docker compose -f docker/inttests.yaml pull
+
+      - name: Run inttests
+        run: docker compose -f docker/inttests.yaml up --exit-code-from tests --no-attach migrations
+
+      - name: push images
+        run: docker compose -f docker/build.yaml push
+
+      - name: Create git tag
+        run: |
+          git tag $IMAGE_TAG
+      - name: Push git tag
+        run: git push origin $IMAGE_TAG

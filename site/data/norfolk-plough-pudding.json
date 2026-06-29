@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212023329",
+  "finalPath": "norfolk-plough-pudding.html",
+  "heading": "Norfolk Plough Pudding",
+  "ingredients": [
+    "bacon",
+    "brown sugar",
+    "flour",
+    "gravy",
+    "onion",
+    "pork",
+    "potatoes",
+    "pudding",
+    "salt",
+    "sausage meat",
+    "self-raising flour",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-plough-pudding.html-1",
+      "receiptSource": "Original Receipt from article in \u003Ci\u003ETractor Magazine\u003C/i\u003E at \u003Ca href=\u0022http://www.tractormagazine.co.uk/news/ploughing-lore\u0022\u003E\u003Cb\u003Ewww.tractormagazine.co.uk\u003C/b\u003E\u003C/a\u003E.",
+      "receiptText": "\u003Cb\u003ERecipe for Norfolk Plough Pudding - makes four portions\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EIngredients:\u003C/i\u003E\u003Cbr\u003E\n230g self-raising flour, salt\u003Cbr\u003E\n70g suet, shredded\u003Cbr\u003E\n450g pork sausage meat\u003Cbr\u003E\n8 rashers streaky bacon, chopped\u003Cbr\u003E\n1 large onion, peeled and chopped\u003Cbr\u003E\n1 tsp sage, chopped\u003Cbr\u003E\n15g brown sugar\u003Cbr\u003E\nWater or pork stock\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod:\u003C/i\u003E\u003Cbr\u003E\nIn a bowl, mix together the flour with the suet and a good pinch of salt. Knead in sufficient cold water to make a soft dough. On a slightly floured surface roll out the dough and line a greased pudding basin with two-thirds of the dough. Set the remaining dough aside.\u003Cbr\u003E\n\u003Cbr\u003E\nEvenly place the sausage meat on the bottom of the base and press down firmly. Mix the bacon, onion, sage and sugar and place the mixture over the sausage meat. Add sufficient water or stock just to cover.\u003Cbr\u003E\n\u003Cbr\u003E\nRoll out the remaining dough to form a lid, place on top and press the edges firmly together. If necessary, use a little cold water to fix. Cover with a round of greaseproof paper and seal tightly with aluminium foil. Place the pudding basin into a pot of boiling water so that the water comes up to about three-quarters of the basin. Place the lid of the pot on and steam 3\u00BD to 4 hours.\u003Cbr\u003E\n\u003Cbr\u003E\nPreparation time:\u003Cbr\u003E\n\u003Cbr\u003E\n15 min, Cooking Time: 4hr\u003Cbr\u003E\nServe with boiled potatoes, vegetables and gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norfolk Plough Pudding",
+  "usedSnapshot": "20220706155406"
+}

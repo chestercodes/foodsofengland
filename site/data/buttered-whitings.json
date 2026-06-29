@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616082723",
+  "finalPath": "buttered-whitings.html",
+  "heading": "Buttered Whitings",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "buttered-whitings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBUTTERED WHITINGS WITH EGGS\u003C/b\u003E\u003Cbr\u003E\nBoil Whitings as if you would eat them in the Ordinary way with thick Butter-sauce. Pick them clean from skin and bones, and mingle them well with butter, and break them very small, and season them pretty high with Salt. In the mean time Butter some Eggs in the best manner, and mingle them with the buttered Whitings, and mash them well together. The Eggs must not be so many by a good deal as the Fish. It is a most savoury dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Buttered Whitings",
+  "usedSnapshot": "20211201003713"
+}

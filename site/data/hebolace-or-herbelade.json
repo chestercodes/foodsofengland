@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20130323042504",
+  "finalPath": "hebolace-or-herbelade.html",
+  "heading": "Hebolace or Herbelade",
+  "ingredients": [
+    "cabbages",
+    "eggs",
+    "herbs",
+    "onions",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "hebolace-or-herbelade.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "HEBOLACE. VII.\u003Cbr\u003E\nTake Oynouns and erbes and hewe hem small and do \u00FEes to gode broth. and aray it as \u00FEou didest caboches. If \u00FEey be in fyssh day. make [3] on the same maner [4] with water and oyle. and if it be not in Lent alye it with zolkes of Eyren. and dresse it forth and cast \u00FEer to powdour douce.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EHerbolace\u003Cbr\u003E\nTake onions and herbs and cut them small and do these to good broth. and arrange it as thou did with cabbages. If it be a fish day, make it in the same manner with water and oil, and if it be not in Lent mix it with yolks of eggs and dress it forth with a dusting of spice powder.\u003C/i\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hebolace-or-herbelade.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "xxxj. Herbelade - Take Buttes of Porke, \u0026 smyte hem in pecys, \u0026 sette it ouer \u00FEe fyre; \u0026 se\u00FEe hem in fayre Watere; \u0026 whan it is y-so\u00FEe y-now, ley it on a fayre bord, \u0026 pyke owt alle \u00FEe bonys, \u0026 hew it smal, \u0026 put it in a fayre bolle; \u00FEan take ysope, Sawge, Percely a gode quantite, \u0026 hew it smal, \u0026 putte it on a fayre vesselle; \u00FEan take a lytel of \u00FEe bro\u00FEe, \u00FEat \u00FEe porke was so\u00FEin in, \u0026 draw \u00FEorw a straynoure, \u0026 caste to \u00FEe Erbys, \u0026 ?if it a boyle; \u00FEenne take owt \u00FEe Erbys with a Skymoure fro \u00FEe bro\u00FEe, \u0026 caste hem to \u00FEe Porke in \u00FEe bolle; \u00FEan mynce Datys smal, \u0026 caste hem \u00FEer-to, \u0026 Roysonys of Coraunce, \u0026 Pyne?, \u0026 drawe \u00FEorw a straynoure ?olkys of Eyroun \u00FEer-to, \u0026 Sugre, \u0026 pouder Gyngere, \u0026 Salt, \u0026 coloure it a lytel with Safroune; \u0026 toyle yt with \u00FEin hond al \u00FEes to-gederys; \u00FEan make fayre round cofyns, \u0026 harde hem a lytel in \u00FEe ovyn; \u00FEan take hem owt, \u0026 wyth a [leaf 43.] dyssche in \u00FEin hond, fylle hem fulle of \u00FEe Stuffe; \u00FEan sette hem \u00FEer-in a-?en; \u0026 lat hem bake y-now, \u0026 serue forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gerard-1597"
+    }
+  ],
+  "title": "Hebolace or Herbelade",
+  "usedSnapshot": "20210518200256"
+}

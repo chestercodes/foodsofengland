@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922090638",
+  "finalPath": "macaroni-pudding.html",
+  "heading": "Macaroni Pudding",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "brandy",
+    "butter",
+    "cinnamon",
+    "cream",
+    "eggs",
+    "lemon",
+    "macaroni",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "macaroni-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EMacaroni Pudding.\u003C/b\u003E\u003Cbr\u003E\n862. Boil a teacupful of macaroni in a quart of milk till tender; then beat well two eggs, yolks and whites separately; stir all together, sugar and spice to the taste, and bake.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E863. A Rich Macaroni Pudding\u003C/b\u003E.- A quarter of a pound of macaroni is to be boiled in a pint of milk for half an hour; then turn it into a dish, and mix with it three eggs, two table-spoonsful of loaf sugar, a little nutmeg, and a few pounded almonds or lemon-peel; butter the mould well, and boil or steam it one hour. Serve it up with wine sauce.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E864. Very Rich Macaroni Pudding.\u003C/b\u003E-Boil a quarter of a pound of macaroni in a pint of milk, with some bitter almonds and cinnamon stick, till tender; then remove the flavourings, and stir in, while hot, a quarter of a pound of butter, a quarter of a pound of sifted sugar, and a pint and a half of cream; mix, and beat hard; and stir in gradually four well-beaten eggs; when it has cooled, add nutmeg and brandy, and bake it. Vermicelli and ground rice may be made in the same manner.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Macaroni Pudding",
+  "usedSnapshot": "20220915054631"
+}

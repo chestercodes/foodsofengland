@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20131219233618",
+  "finalPath": "manchester-pudding.html",
+  "heading": "Manchester Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "lemon",
+    "marmalade",
+    "milk",
+    "pudding",
+    "sugar",
+    "brandy",
+    "jam"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "manchester-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EManchester Pudding.\u003C/b\u003E\u003Cbr\u003E\n902. A pint of new milk boiled, three ounces of bread crumbs stewed in the boiling milk, and the grated rind of a lemon, are to be sweetened to the taste with lump sugar; then add the yolks and whites of four eggs, and three ounces of butter melted. Line a dish with a puff-paste, cover the bottom with preserve or marmalade, pour the pudding into it, and one hour will bake it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "manchester-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMANCHESTER PUDDING (to eat Cold).\u003C/b\u003E\u003Cbr\u003E\n1300. INGREDIENTS: 3 oz. of grated bread,\u00BD pint of milk, a strip of lemon-peel, 4 eggs, 2 oz. of butter, sugar to taste, puff-paste, jam, 3 tablespoonfuls of brandy.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Flavour the milk with lemon-peel, by infusing it in the milk for\u00BD hour; then strain it on to the bread crumbs, and boil it for 2 or 3 minutes; add the eggs, leaving out the whites of 2, the butter, sugar, and brandy; stir all these ingredients well together; cover a pie-dish with puff-paste, and at the bottom put a thick layer of any kind of jam; pour the above mixture, cold, on the jam, and bake the pudding for an hour. Serve cold, with a little sifted sugar sprinkled over.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Manchester Pudding",
+  "usedSnapshot": "20220516215056"
+}

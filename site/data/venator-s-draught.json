@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922072153",
+  "finalPath": "venator-s-draught.html",
+  "heading": "Venator\u0027s Draught",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Izaak Walton\u0027s Eel",
+      "relatedPageUrl": "izaak-walton-s-eel.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Minnow Tansy",
+      "relatedPageUrl": "minnow-tansy.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Venator\u0027s Draught",
+      "relatedPageUrl": "venator-s-draught.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Venator\u0027s Draught",
+  "usedSnapshot": "20220516212608"
+}

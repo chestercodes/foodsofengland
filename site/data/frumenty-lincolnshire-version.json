@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140310135439",
+  "finalPath": "frumenty-lincolnshire-version.html",
+  "heading": "Frumenty - Lincolnshire Version",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Frumenty",
+      "relatedPageUrl": "frumenty-or-furmety.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Frumenty - Lincolnshire Version",
+  "usedSnapshot": "20220810053314"
+}

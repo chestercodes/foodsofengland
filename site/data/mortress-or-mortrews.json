@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150524215827",
+  "finalPath": "mortress-or-mortrews.html",
+  "heading": "Mortress or Mortrews",
+  "ingredients": [
+    "bread",
+    "eggs",
+    "ginger",
+    "pork",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mortress-or-mortrews.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMORTREWS\u003C/b\u003E.\u003Cbr\u003E\nTake hens and pork and seethe them together. Take the flesh of the hens and Pork, and hew it small and grind it all to dust. Take bread grated and add it to the original broth, allied with yolks of eggs, and cast thereon powder fort, boil it and add therein powder of ginger, sugar, saffron and salt, that it be standing stiff, and dust it with ginger powder.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "langland-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Mortress or Mortrews",
+  "usedSnapshot": "20210512115200"
+}

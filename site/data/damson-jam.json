@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922073600",
+  "finalPath": "damson-jam.html",
+  "heading": "Damson Jam",
+  "ingredients": [
+    "jam",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "damson-jam.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Skilful Cook\u003C/i\u003E\u0027 by Mary Harrison (\u003Ca href=\u0022references.html#harrison-1884\u0022\u003E\u003Cb\u003EHarrison 1884\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDamson Jam.\u003C/b\u003E\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n5 lb. of damsons.\u003Cbr\u003E\n3 lb. of lump sugar.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod.\u003C/b\u003E\u003Cbr\u003E\nBoil for thirty minutes.\u003Cbr\u003E\nThen put in the sugar broken into small pieces, and boil and skim for about twenty minutes longer, or until the jam will set.\u003Cbr\u003E\nPut into pots and cover close.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "harrison-1884"
+    }
+  ],
+  "title": "Damson Jam",
+  "usedSnapshot": "20211201023336"
+}

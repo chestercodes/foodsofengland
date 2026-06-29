@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140212024726",
+  "finalPath": "devon-cheesecake.html",
+  "heading": "Devon Cheesecake",
+  "ingredients": [
+    "carrot",
+    "cheesecakes",
+    "currants",
+    "egg",
+    "flour",
+    "milk",
+    "nutmeg",
+    "pastry",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "devon-cheesecake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EDevonshire Cheesecakes.\u003C/b\u003E\u003Cbr\u003E\n814. Boil one large carrot till tender, rub it through a sieve, and mix well with it two small table-spoonsful of flour, half a pound of currants, one egg well beaten, a tea-spoonful of milk, a quarter of a pound of sugar, and a little nutmeg. Then line the patty-pans with pastry, fill them with the mixture, and bake.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Devon Cheesecake",
+  "usedSnapshot": "20220527211612"
+}

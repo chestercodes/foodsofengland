@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616082133",
+  "finalPath": "eliza-acton-s-sole-in-cream.html",
+  "heading": "Eliza Acton\u0027s Sole in Cream",
+  "ingredients": [
+    "cayenne",
+    "cream",
+    "lemon",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "eliza-acton-s-sole-in-cream.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESOLES STEWED IN CREAM.\u003C/b\u003E\u003Cbr\u003E\nPrepare some very fresh middling sized soles with exceeding nicety, put them into boiling water slightly salted, and simmer them for two minutes only; lift them out, and let them drain; lay them into a wide stewpan with as much sweet rich cream as will nearly cover them; add a good seasoning of pounded mace, cayenne, and salt; stew the fish softly from six to ten minutes, or until the flesh parts readily from the bones; dish them, stir the juice of half a lemon to the sauce, pour it over the soles, and send them immediately to table. Some lemon-rind may be boiled in the cream, if approved; and a small teaspoonful of arrow-root, very smoothly mixed with a little milk, may be stirred to the sauce (should it require thickening) before the lemon-juice is added. Turbot and brill also may be dressed by this receipt, time proportioned to their size being of course allowed for them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    }
+  ],
+  "title": "Eliza Acton\u0027s Sole in Cream",
+  "usedSnapshot": "20211201010320"
+}

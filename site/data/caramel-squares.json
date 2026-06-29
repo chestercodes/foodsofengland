@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140426234832",
+  "finalPath": "caramel-squares.html",
+  "heading": "Caramel Squares",
+  "ingredients": [
+    "butter",
+    "chocolate",
+    "cream",
+    "flour",
+    "golden syrup",
+    "margarine",
+    "milk",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "caramel-squares.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Australian Women\u0027s Weekly\u003C/i\u003E\u0027 of Wednesday 25 February 1981",
+      "receiptText": "\u003Cb\u003EChocolate Caramel Shortbread\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBASE\u003Cbr\u003E\n125g (4oz) butter or margarine\u003Cbr\u003E\n\u00BC cup sugar\u003Cbr\u003E\n1 cup plain flour\u003Cbr\u003E\n\u003Cbr\u003E\nCARAMEL\u003Cbr\u003E\n400g can sweetened condensed milk\u003Cbr\u003E\n\u00BD cup sugar\u003Cbr\u003E\n3 tablespoons golden syrup\u003Cbr\u003E\n125g (4oz) butter or margarine\u003Cbr\u003E\n\u003Cbr\u003E\nICING\u003Cbr\u003E\n90g (3oz) dark chocolate\u003Cbr\u003E\n30g (1oz) butter or margarine\u003Cbr\u003E\n\u003Cbr\u003E\nBASE\u003Cbr\u003E\nCream butter and sugar until light and fluffy, stir in sifted flour in two lots. When mixture becomes too difficult to stir, use hand to press ingredients together; knead lightly until smooth. Press evenly over base of greased 28cm x 18cm (11in x 7in) lamington [sic] tin, bake in moderate oven 20 minutes, or until golden brown, leave to cool in tin. When base is cold, pour hot caramel mixture over, leave until cold, then spread with icing, refrigerate until set.\u003Cbr\u003E\n\u003Cbr\u003E\nCARAMEL\u003Cbr\u003E\nCombine all ingredients in medium saucepan with heavy base, stir over low heat until butter is melted and sugar dissolved; continue stirring, increase heat, bring to boil, reduce heat, simmer, stir- ring constantly, for about 5 minutes, or until golden brown. Pour hot caramel mixture over cooled base.\u003Cbr\u003E\n\u003Cbr\u003E\nICING\u003Cbr\u003E\nMelt chocolate over simmering water, add butter, stir until melted, spread evenly over cold caramel mixture.\u003Cbr\u003E\n\u003Cbr\u003E\nApproximate cost: $1.70.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EMillionaire\u0027s Shortbread, Caramel Shortcake, Caramel Shortbread\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Caramel Squares",
+  "usedSnapshot": "20220706162410"
+}

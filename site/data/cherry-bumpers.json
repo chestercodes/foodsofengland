@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212023803",
+  "finalPath": "cherry-bumpers.html",
+  "heading": "Cherry Bumpers",
+  "ingredients": [
+    "black cherries",
+    "cherries",
+    "cherry",
+    "pastry",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cherry-bumpers.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cherry%20Bumpers\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECherry Bumpers\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2kg black cherries, stoned\u003Cbr\u003E\n300g sugar\u003Cbr\u003E\n1kg shortcrust pastry\u003Cbr\u003E\n\u003Cbr\u003E\nSprinkle the sugar over the cherries and toss to mix thoroughly.\u003Cbr\u003E\nRoll out the pastry to about 5mm thick and cut into 10cm diameter rounds (should be enough for 16-18 rounds). Divide the sugared cherries equally between the rounds, heaping a pile of cherries on the centre of each round. Dampen the edges of each round, fold them over to make a semicircular pasty, and seal together.\u003Cbr\u003E\nBake on a lightly greased tray at to 200C for 25 minutes. Dust with sugar.\u003Cbr\u003E\nEat hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ECherry Dumpers\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Buckinghamshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cherry Bumpers",
+  "usedSnapshot": "20220809200659"
+}

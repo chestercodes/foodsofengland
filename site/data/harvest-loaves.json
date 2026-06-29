@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20150922083742",
+  "finalPath": "harvest-loaves.html",
+  "heading": "Harvest Loaves",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Harvest Loaves",
+  "usedSnapshot": "20170314024248"
+}

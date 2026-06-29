@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150513064647",
+  "finalPath": "brotherly-love.html",
+  "heading": "Brotherly Love",
+  "ingredients": [
+    "bread",
+    "lard",
+    "pork",
+    "sugar",
+    "tea",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brotherly-love.html-1",
+      "receiptSource": "Original Receipt adapted from Darina Allen, \u003Ca href=\u0022http://www.guardian.co.uk/lifeandstyle/2010/mar/24/how-to-make-yeast-bread\u0022\u003E\u003Cb\u003Eguardian.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBrotherly Love\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nRenee Hague, the son-in-law of the renowned typographer Eric Gill, was virtually our next-door neighbour for many years. In his latter years, he loved to bake and particularly enjoyed making yeast doughs. We loved to be invited to tea, as one of his specialities was this traditional Suffolk bread called \u0027Brotherly Love\u0027. Do not attempt to make this unless you have fine lard from a well-reared pig.\u003Cbr\u003E\n\u003Cbr\u003E\nServes 8\u003Cbr\u003E\n\u003Cbr\u003E\n450g (1lb) white yeast bread dough [given earlier], as above\u003Cbr\u003E\n75g (3oz) soft pork lard\u003Cbr\u003E\n75g (3oz) sugar\u003Cbr\u003E\n\u003Cbr\u003E\nPreheat the oven to 220\u00B0C/425\u00B0F/gas mark 7.\u003Cbr\u003E\nRoll the dough into a 40 x 25cm (16 x 10in) rectangular strip. Spread or dab lard over it, then sprinkle generously with most of the sugar. Roll up and leave to rise for 30-40 minutes.\u003Cbr\u003E\nBrush with water, sprinkle with the remaining sugar. Bake for 10 minutes, then reduce the heat to 200\u00B0C/400\u00B0F/gas mark 6 and bake for a further 20 minutes or until fully cooked.\u003Cbr\u003E\nLeave to cool on a wire rack. Serve freshly baked and still warm, cut into slices and buttered.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBrotherly Lardy, or Lardie, Cake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Brotherly Love",
+  "usedSnapshot": "20170314085941"
+}

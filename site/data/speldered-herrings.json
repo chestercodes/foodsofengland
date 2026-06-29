@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616084816",
+  "finalPath": "speldered-herrings.html",
+  "heading": "Speldered Herrings",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "black pepper",
+    "butter",
+    "cayenne",
+    "herrings",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "speldered-herrings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EMrs Stanley Wrench\u0027s Herring Book\u003C/i\u003E\u0027, c1950",
+      "receiptText": "\u003Cb\u003ESPELDERED HERRINGS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThis is a Northumbrian method, and is really only another way of grilling fresh herrings.\u003Cbr\u003E\nINGREDIENTS: 2 or more fresh herrings, a teaspoonful of lemon juice, 1 dash of cayenne, and a tiny nut of beef dripping for each herring.\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD: Scale and clean the fish, remove the heads and tails and backbone. Lay them on a dish, dust with cayenne, squeeze lemon juice over, put a nut of dripping on each one, then grill over a hot fire. Serve with cut lemon. Very delicious!\u003Cbr\u003E\n\u003Cbr\u003E\nWhat will you do with the roes in such a case? These make delicious savouries, but, if you prefer, fry the roes in butter or good dripping, then garnish the speldered herrings with them.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen grilling herrings with the roes inside, it is worth while to take out the roes, seasoning each with a little black pepper, salt and a dash of nutmeg, then replace them in the herring. If the fresh herrings have been split and honed, the roes are easily put back.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Speldered Herrings",
+  "usedSnapshot": "20211130233434"
+}

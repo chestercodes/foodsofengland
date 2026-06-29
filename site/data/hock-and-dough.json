@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212023106",
+  "finalPath": "hock-and-dough.html",
+  "heading": "Hock and Dough",
+  "ingredients": [
+    "flour",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hock-and-dough.html-1",
+      "receiptSource": "Original Receipt from \u0027The People\u0027 - Sunday 01 January 1939",
+      "receiptText": "HOCK AND DOUGH\u003Cbr\u003E\nINGREDIENTS: One hock, lb. suet, 1 lb. flour, 1 lb. onions, 2 lb. potatoes, salt and pepper.\u003Cbr\u003E\nChop suet and mix flour and suet with a little salt into a soft dough. Roll out and line the sides of a dinner pan. Place hock In centre of pan, peel and cut up onions and potatoes, put them into the pan, add enough stock to half the depth of tin. Salt and pepper to taste. Bake for an hour and three-quarters.\u0027- Miss M. Fitch, 69, Knox-rd., Wellingborough, Northants.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Hough-and-Dough",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northamptonshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hock and Dough",
+  "usedSnapshot": "20211129122634"
+}

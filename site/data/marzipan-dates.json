@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922073113",
+  "finalPath": "marzipan-dates.html",
+  "heading": "Marzipan Dates",
+  "ingredients": [
+    "almond",
+    "dates",
+    "icing sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marzipan-dates.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Wednesday 21 January 1931",
+      "receiptText": "\u003Cb\u003EMARZIPAN DATES.\u003C/b\u003E\u003Cbr\u003E\nRemove the stones from some dates, and fill in the centres with a little of the almond paste rolled into an oblong shape. Press together again, and roll in icing sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Marzipan Dates",
+  "usedSnapshot": "20211205162709"
+}

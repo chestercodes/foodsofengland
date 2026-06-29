@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20130323063444",
+  "finalPath": "jolly-boys.html",
+  "heading": "Jolly Boys",
+  "ingredients": [
+    "bacon",
+    "egg",
+    "fat",
+    "flour",
+    "milk",
+    "plain flour",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jolly-boys.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Jolly%20Boys\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EJolly Boy Pancakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 medium egg\u003Cbr\u003E\n2 tbsp plain flour\u003Cbr\u003E\n1/4 pint milk\u003Cbr\u003E\nsalt\u003Cbr\u003E\n4 rashers bacon\u003Cbr\u003E\n\u003Cbr\u003E\nWhisk together the milk, flour, egg and salt. Leave to stand for at least 20 minutes. Spoon in dollops into the fat from frying bacon, cook on both sides and serve with the bacon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Jolly Boys",
+  "usedSnapshot": "20220819113233"
+}

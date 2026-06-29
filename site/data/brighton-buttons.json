@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140508102651",
+  "finalPath": "brighton-buttons.html",
+  "heading": "Brighton Buttons",
+  "ingredients": [
+    "apricot",
+    "beat",
+    "biscuits",
+    "butter",
+    "cream",
+    "flour",
+    "icing sugar",
+    "jam",
+    "margarine",
+    "oranges",
+    "plain flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brighton-buttons.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EMelbourne Age\u003C/i\u003E\u0027 - Sept 15 1959",
+      "receiptText": "\u003Cb\u003EBrighton Buttons\u003C/b\u003E\u003Cbr\u003E\nTo make these nice biscuits with the catchy name you need 4 oz. butter or margarine, 1 oz. sieved icing sugar, 4 oz. sifted plain flour, finely grated rinds of 2 medium-size oranges, apricot jam.\u003Cbr\u003E\n\u003Cbr\u003E\nCream butter or marga-rine and sugar together un-til light and fluffy. Stir in the flour and the grated rinds, and beat lightly until well blended. Put the mix-ture into a forcing bag with a large plain tube and pipe small rounds of the mixture on to a greased baking sheet, keeping well apart. Bake in a moderately hot. oven (380 deg. F) for 10 to 15 minutes. Remove from baking sheet with a spatula and cool on a wire tray. When cold sandwich to-gether with apricot Jam.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Brighton Buttons",
+  "usedSnapshot": "20210512122326"
+}

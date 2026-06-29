@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922094313",
+  "finalPath": "apple-amber-meringue.html",
+  "heading": "Apple Amber Meringue",
+  "ingredients": [
+    "apple",
+    "beat",
+    "bread",
+    "butter",
+    "cherries",
+    "eggs",
+    "lemon",
+    "pastry",
+    "pudding",
+    "puff pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-amber-meringue.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "428. APPLE AMBER (Hertfordshire)\u003Cbr\u003E\n\u003Cbr\u003E\nStrip of rough puff pastry, one pound of apples, two ounces of butter, two ounces of sugar, two eggs, two ounces of bread crumbs, a little grated lemon rind. Line the sides of a pie-dish with the strip of pastry, decorating the edge. Peel, core, and cut up the apples. Stew these until quite tender, add the sugar, butter, bread crumbs, and yolks of eggs. Place this mixture in the pie-dish and bake for half an hour. Beat up the whites stiffly, and two tablespoonfuls of sugar. Pile this meringue on top of the apple mixture, and set slowly in a cool oven. Decorate with cherries, and angehca. N.B. - This pudding is excellent hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Apple Amber Meringue",
+  "usedSnapshot": "20211019174102"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922082245",
+  "finalPath": "jugged-celery.html",
+  "heading": "Jugged Celery",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Jugged Celery",
+  "usedSnapshot": "20211205163422"
+}

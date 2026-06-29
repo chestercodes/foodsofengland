@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922093334",
+  "finalPath": "tea-cream.html",
+  "heading": "Tea Cream",
+  "ingredients": [
+    "cream",
+    "milk",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tea-cream.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Tea Cream.\u003C/b\u003E\u003Cbr\u003E\nTO half a pint of milk put a quarter of an ounce of fine Ceylon tea, boil them together, strain the leaves out, and put to the milk half a pint of cream, and two spoonfuls of rennet; set it over some hot embers in the dish you send it to table in, and cover it with a tin plate; when it is thick it is enough. Garnish with sweetmeats and send it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "grigson-1974"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Tea Cream",
+  "usedSnapshot": "20200116025556"
+}

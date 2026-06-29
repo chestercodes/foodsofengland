@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922084413",
+  "finalPath": "eggs-and-bacon.html",
+  "heading": "Eggs and Bacon",
+  "ingredients": [
+    "bacon",
+    "eggs"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "eggs-and-bacon.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 160. Fried Eggs and Bacon.\u003C/b\u003E\u003Cbr\u003E\nFirst, fry the rashers of bacon, and then break the eggs into the frying-pan without disturbing the yolks, and as soon as these are just set, or half-done, slip them out on to the rashers of bacon which you have already placed in a dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Eggs and Bacon",
+  "usedSnapshot": "20200223172336"
+}

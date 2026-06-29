@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150513065325",
+  "finalPath": "lime-syrup-cake.html",
+  "heading": "Lime Syrup Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "cream",
+    "egg",
+    "egg whites",
+    "egg yolks",
+    "eggs",
+    "flour",
+    "granulated sugar",
+    "lemons",
+    "lime",
+    "limes",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lime-syrup-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELime Syrup Cake\u003Cbr\u003E\nIngredients\u003C/b\u003E\u003Cbr\u003E\n250 Gram Butter (9 oz)\u003Cbr\u003E\n3 Limes, zest of 1, juice of 3\u003Cbr\u003E\n250 Gram Caster sugar (9 oz)\u003Cbr\u003E\n3 Eggs, separated\u003Cbr\u003E\n300 Gram Self raising flour (11 oz)\u003Cbr\u003E\n250 ml Milk (8 fl oz)\u003Cbr\u003E\n200 Gram Granulated sugar (7 oz)\u003Cbr\u003E\n4 Tablespoon Water\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nMakes 12 slices\u003Cbr\u003E\nPre-heat oven to 180 \u00B0C / 350 \u00B0F / Gas 4. Grease a 20 cm (8 inch) ring tin. Cream butter, zest and caster sugar in a bowl. Beat in egg yolks one at a time. Beat well after each addition. Stir in half the flour and half the milk, then the remaining flour and milk.\u003Cbr\u003E\nIn a separate bowl, beat the egg whites to form soft peaks, fold into the mixture and spread into the prepared tin. Bake for 1 hour. Cool in the tin for 5 minutes before turning out. Heat lime juice, granulated sugar and water until all the sugar is dissolved, bring to the boil and pour over the hot cake.\u003Cbr\u003E\nThis is also good made with lemons instead of the limes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Lime Syrup Cake",
+  "usedSnapshot": "20211207120849"
+}

@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922081952",
+  "finalPath": "oxtail-soup.html",
+  "heading": "Oxtail Soup",
+  "ingredients": [
+    "allspice",
+    "black pepper",
+    "butter",
+    "fat",
+    "flour",
+    "mushroom",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxtail-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EOx-tail Soup - (No. 240)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nThree tails, costing about 7d. each, will make a tureen of soup (desire the butcher to divide them at the joints); lay them to soak in warm water, while you get ready the vegetables.\u003Cbr\u003E\nPut into a gallon stew-pan eight cloves, two or three onions, half a drachm of allspice, and the same of black pepper, and the tails; cover them with cold water; skim it carefully, when and as long as you see any scum rise; then cover the pot as close as possible, and set it on the side of the fire to keep gently simmering till the meat becomes tender and will leave the bones easily, because it is to be eaten with a spoon, without the assistance of a knife or fork this will require about two hours: mind it is not done too much: when perfectly tender, take out the meat and cut it off the bones, in neat mouthfuls; skim the broth, and strain it through a sieve; if you prefer a thickened soup, put flour and butter, as directed in the preceding receipt; or put two table-spoonfuls of the fat you have taken off the broth into a clean stew-pan, with as much flour as will make it into a paste; set this over the fire, and stir them well together; then pour in the broth by degrees, stirring it, and mixing it with the thickening; let it simmer for another half hour, and when you have well skimmed it, and it is quite smooth, then strain it through a tamis into a clean stew-pan, put in the meat, with a table-spoonful of mushroom catchup, a glass of wine, and season it with salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChesterfield Soup\u003C/b\u003E",
+      "relatedPageUrl": "chesterfield-soup.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Oxtail Soup",
+  "usedSnapshot": "20220808005841"
+}

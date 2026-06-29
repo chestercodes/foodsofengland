@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212023314",
+  "finalPath": "hampshire-lard-cake.html",
+  "heading": "Hampshire Lard Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hampshire Lard Cake",
+  "usedSnapshot": "20211129123631"
+}

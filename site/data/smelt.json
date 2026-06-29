@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140616081154",
+  "finalPath": "smelt.html",
+  "heading": "Smelt",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "cucumber",
+    "egg",
+    "flour",
+    "lard",
+    "lemon",
+    "parsley",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "smelt.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO BAKE SMELTS.\u003C/b\u003E\u003Cbr\u003E\n318. INGREDIENTS. - 12 smelts, bread crumbs, \u00BC lb. of fresh butter, 2 blades of pounded mace; salt and cayenne to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Wash, and dry the fish thoroughly in a cloth, and arrange them nicely in a flat baking-dish. Cover them with fine bread crumbs, and place little pieces of butter all over them. Season and bake for 15 minutes. Just before serving, add a squeeze of lemon-juice, and garnish with fried parsley and cut lemon.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - \u00BC hour. \u003Ci\u003EAverage cost\u003C/i\u003E, 2s. per dozen.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E from October to May.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E for 6 persons.\u003Cbr\u003E\n\u003Cbr\u003E\nTO CHOOSE SMELTS. - When good, this fish is of a fine silvery appearance, and when alive, their backs are of a dark brown shade, which, after death, fades to a light fawn. They ought to have a refreshing fragrance, resembling that of a cucumber.\u003Cbr\u003E\n\u003Cbr\u003E\nTHE ODOUR OF THE SMELT. - This peculiarity in the smelt has been compared, by some, to the fragrance of a cucumber, and by others, to that of a violet. It is a very elegant fish, and formerly abounded in the Thames. The \u003Ci\u003EAtharine\u003C/i\u003E, or sand smelt, is sometimes sold for the true one; but it is an inferior fish, being drier in the quality of its flesh. On the south coast of England, where the true smelt is rare, it is plentiful.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETO FRY SMELTS.\u003C/b\u003E\u003Cbr\u003E\n319. INGREDIENTS. - Egg and bread crumbs, a little flour; boiling lard.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Smelts should be very fresh, and not washed more than is necessary to clean them. Dry them in a cloth, lightly flour, dip them in egg, and sprinkle over with very fine bread crumbs, and put them into boiling lard. Fry of a nice pale brown, and be careful not to take off the light roughness of the crumbs, or their beauty will be spoiled. Dry them before the fire on a drainer, and serve with plain melted butter. This fish is often used as a garnishing.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - 5 minutes.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 2s. per dozen.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E from October to May.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022smelt.jpg\u0022\u003E\u003Cimg src=\u0022smelt.jpg\u0022 width=\u0022402\u0022 height=\u0022248\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTHE SMELT. - This is a delicate little fish, and is in high esteem. Mr. Yarrell asserts that the true smelt is entirety confined to the western and eastern coasts of Britain. It very rarely ventures far from the shore, and is plentiful in November, December, and January.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Smelt",
+  "usedSnapshot": "20211021031239"
+}

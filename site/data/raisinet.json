@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922074903",
+  "finalPath": "raisinet.html",
+  "heading": "Raisinet",
+  "ingredients": [
+    "blackberries",
+    "bladder",
+    "bread",
+    "pears",
+    "plums",
+    "puddings",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "raisinet.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli\u003C/b\u003E\u003C/a\u003E 1852",
+      "receiptText": "\u003Cb\u003ENo. 106. RAISINET--A PRESERVE FOR WINTER.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients, twelve pounds of fruit, consisting of peeled apples, pears, plums, and blackberries, in equal proportion; six pounds of raw sugar, at 4-\u00BD_d._ per pound; one quart of water. Bake three hours in a slack or slow oven. First, prepare the fruit, and put it in mixed layers of plums, pears, berries, apples, alternating each other, in stone jars. Next, put the six pounds of sugar in a clean saucepan, with the quart of water, and stir it with a spoon on the fire till it comes to a gentle boil; remove the dirty scum from the surface of the sugar; and, after allowing it to boil for ten minutes, pour it in equal proportions into the jar or jars containing the fruits, and place them in a moderate heat to bake slowly for three hours at least. When boiling the sugar for this purpose, remember that it is most prudent to use a saucepan capable of containing double the quantity, as sugar is very liable to boil over and waste. When the fruit is nearly dissolved, the raisinet will be done; it must then be removed to a cool place until it has become thoroughly cold and partially set firm; the jars should then be tied down with thick paper, or bladder, and kept in the cellar for winter use, either for making puddings or tarts, or for spreading on bread for the children.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Raisinet",
+  "usedSnapshot": "20211201034100"
+}

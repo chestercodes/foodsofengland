@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922081033",
+  "finalPath": "apricot-cream.html",
+  "heading": "Apricot Cream",
+  "ingredients": [
+    "apricot",
+    "cream",
+    "eggs",
+    "jam",
+    "marmalade",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apricot-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAPRICOT CREAM.\u003C/b\u003E\u003Cbr\u003E\n1405. INGREDIENTS. - 12 to 16 ripe apricots, \u00BC lb. of sugar, 1-\u00BD pint of milk, the yolks of 8 eggs, 1 oz. of isinglass.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Divide the apricots, take out the stones, and boil them in a syrup made with \u00BC lb. of sugar and \u00BC pint of water, until they form a thin marmalade, which rub through a sieve. Boil the milk with the other \u00BC lb. of sugar, let it cool a little, then mix with it the yolks of eggs which have been previously well beaten; put this mixture into a jug, place this jug in boiling water, and stir it one way over the fire until it thickens; but on no account let it boil. Strain through a sieve, add the isinglass, previously boiled with a small quantity of water, and keep stirring it till nearly cold; then mix the cream with the apricots; stir well, put it into an oiled mould, and, if convenient, set it on ice; at any rate, in a very cool place. It should turn out on the dish without any difficulty.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - From 20 to 30 minutes to boil the apricots.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 3s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E to fill a quart mould.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E in August, September, and October.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E. - In winter-time, when fresh apricots are not obtainable, a little jam may be substituted for them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Apricot Cream",
+  "usedSnapshot": "20220808004102"
+}

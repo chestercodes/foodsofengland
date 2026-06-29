@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212021419",
+  "finalPath": "wensleydale-tarts.html",
+  "heading": "Wensleydale Tarts",
+  "ingredients": [
+    "black pepper",
+    "breadcrumbs",
+    "butter",
+    "cheese",
+    "flan",
+    "flour",
+    "milk",
+    "nutmeg",
+    "onions",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "salt",
+    "shortcrust pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wensleydale-tarts.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Wensleydale%20Tarts\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWensleydale Tarts\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nWensleydale cheese from Yorkshire is mild with a flaky texture. If you cannot get any then try another crumbly cheese.\u003Cbr\u003E\nIngredients\u003Cbr\u003E\nServes: 6\u003Cbr\u003E\n\u003Cbr\u003E\n250 Gram Shortcrust pastry (9 oz)\u003Cbr\u003E\n225 Gram Onions, finely chopped (8 oz)\u003Cbr\u003E\n50 Gram Butter (2 oz)\u003Cbr\u003E\nLarge pinch Freshly grated nutmeg\u003Cbr\u003E\n25 Gram Plain flour (1 oz)\u003Cbr\u003E\n150 ml Milk, warmed ( \u00BC pint)\u003Cbr\u003E\nSalt\u003Cbr\u003E\nFreshly ground black pepper\u003Cbr\u003E\n75 Gram Wensleydale cheese, finely grated (3 oz)\u003Cbr\u003E\n15 Gram White breadcrumbs ( \u00BD oz)\u003Cbr\u003E\nMethod\u003Cbr\u003E\nRoll out the pastry and line six 9 cm (3 \u00BD inch) flan rings. Bake \u0027blind\u0027 at 200 \u00B0C / 400 \u00B0F / Gas 6 for 15 minutes. Gently fry the onions in 25g (1 oz) butter for 5 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the remaining butter in a saucepan, add the nutmeg and cook gently for 30 seconds, then stir in the flour. Gradually blend in the milk, stirring continuously until sauce boils. Season. Add the onions and half the cheese to this \u0027thick\u0027 sauce.\u003Cbr\u003E\n\u003Cbr\u003E\nSpoon the hot sauce into the pastry cases. Sprinkle with a mixture of the remaining cheese and breadcrumbs. Place on a grill pan and grill under a moderate heat until golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Wensleydale Tarts",
+  "usedSnapshot": "20200126095854"
+}

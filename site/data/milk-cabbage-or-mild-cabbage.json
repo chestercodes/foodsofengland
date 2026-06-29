@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922091419",
+  "finalPath": "milk-cabbage-or-mild-cabbage.html",
+  "heading": "Milk Cabbage (or Mild Cabbage)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Milk Cabbage (or Mild Cabbage)",
+  "usedSnapshot": "20220527053054"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922082224",
+  "finalPath": "cherry-lips.html",
+  "heading": "Cherry Lips",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cherry Lips",
+  "usedSnapshot": "20220527230436"
+}

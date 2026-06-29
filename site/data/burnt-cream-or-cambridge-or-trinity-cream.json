@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140105042507",
+  "finalPath": "burnt-cream-or-cambridge-or-trinity-cream.html",
+  "heading": "Burnt Cream, or Cambridge or Trinity Cream",
+  "ingredients": [
+    "beat",
+    "cinnamon",
+    "cream",
+    "custard",
+    "eggs",
+    "sugar",
+    "flour",
+    "lemon",
+    "orange"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "burnt-cream-or-cambridge-or-trinity-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E33. BURNT CREAM.\u003C/b\u003E\u003Cbr\u003E\nBoil a stick of cinnamon in a pint of cream, four eggs well beat, leaving out two whites, boil the cream and thicken it with the eggs as for a custard; then put it in your dish, and put over it half a pound of loaf sugar beat and searc\u0027d; heat a fire-shovel red-hot, and hold it over the top till the sugar be brown. So serve it up.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "burnt-cream-or-cambridge-or-trinity-cream.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EThe Accomplished Housekeeper, and Universal Cook\u003C/i\u003E\u0027 by T. Williams, 1797",
+      "receiptText": "\u003Cb\u003EBurnt Cream\u003C/b\u003E\u003Cbr\u003E\nBoil a pint of cream with sugar and a little lemon peel shred fine. Beat the yolks of six and the whites of four eggs separately and when the cream is cold put in your eggs with a spoonful of orange flower water and one of fine flour. Set it over the fire keep stirring it till it is thick, and then put into a dish. When it is cold sift a quarter of a pound of sugar all over it, and brown it with a hot salamander till it looks like a glass plate put over your cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridge"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Burnt Cream, or Cambridge or Trinity Cream",
+  "usedSnapshot": "20220706171007"
+}

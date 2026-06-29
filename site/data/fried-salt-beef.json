@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922075124",
+  "finalPath": "fried-salt-beef.html",
+  "heading": "Fried Salt Beef",
+  "ingredients": [
+    "beef",
+    "butter",
+    "gherkins",
+    "mashed potatoes",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-salt-beef.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFRIED SALT BEEF (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n625. INGREDIENTS: A few slices of cold salt beef, pepper to taste, \u00BC lb. of butter, mashed potatoes.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut any part of cold salt beef into thin slices, fry them gently in butter, and season with a little pepper. Have ready some very hot mashed potatoes, lay the slices of beef on them, and garnish with 3 or 4 pickled gherkins. Cold salt beef, warmed in a little liquor from mixed pickle, drained, and served as above, will be found good.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: About 5 minutes.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the meat, 4d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Salt Beef",
+      "relatedPageUrl": "salt-beef.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Fried Salt Beef",
+  "usedSnapshot": "20200223172521"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140212031042",
+  "finalPath": "squichanary-pye.html",
+  "heading": "Squichanary Pye",
+  "ingredients": [
+    "beat",
+    "butter",
+    "currant",
+    "egg",
+    "eggs",
+    "jelly",
+    "lemon",
+    "orange",
+    "sugar",
+    "vinegar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "squichanary-pye.html-1",
+      "receiptSource": "Original Receipt from a handwritten cookery book of c1742 by Mary Swanwick, held in the Derbyshire Record Office.",
+      "receiptText": "\u003Cb\u003ETo Make a Squichanary Pye\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBoil the roots till they are tender then grill them and season with beets, cinnoman and sugar\u003Cbr\u003E\nPowor over then a quarter of a pint of white wine and about three spoonfull of vinegar so let them stand till next day\u003Cbr\u003E\nWhen you put them in the dish power the whine they stopt in upon them and put in any sort of wet sweet meets\u003Cbr\u003E\nThen place but besure a good deal of currant jelly for it will make the roots look of a good cullor\u003Cbr\u003E\nPut in the yolks of two eggs boiled, have some candyed orange lemon and citron pill, cut them in thin slices and put some butter on the top and bottom\u003Cbr\u003E\nAbout half an hour will bake it\u003Cbr\u003E\nWhen you take it out of the oven take a quarter of a pint of white wine and sweeton it and beat the yolk of an egg in it and thicken it a little over a fire\u003Cbr\u003E\nTake the lid of the pye and powor it in and shake it together and send it up. Some put lumps of marrow in the pye\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Squichanary Pye",
+  "usedSnapshot": "20211019172500"
+}

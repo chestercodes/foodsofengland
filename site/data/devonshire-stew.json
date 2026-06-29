@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922074323",
+  "finalPath": "devonshire-stew.html",
+  "heading": "Devonshire Stew",
+  "ingredients": [
+    "beef",
+    "flour",
+    "gravy",
+    "onion",
+    "onions",
+    "vinegar",
+    "cabbage",
+    "pepper",
+    "potatoes",
+    "salt",
+    "butter",
+    "mashed potatoes"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "devonshire-stew.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhitstable Times and Herne Bay Herald\u003C/i\u003E\u0027 - Saturday 10 March 1894, p3",
+      "receiptText": "\u003Cb\u003EDevonshire Stew.\u003C/b\u003E- Make one ounce of dripping hot in a saucepan, add two sliced onions, and fry nice brown; sprinkle in about tablespoonful of flour, and let it brown. Add the same quantity of vinegar to give a nice sharp taste. Cut one pound of gravy beef into slices, and add it to the fried onion, \u0026amp;c.; add about one pint of water. Place the lid on the saucepan, let the contents nearly boil, and than simmer for about two hours. Shin of beef may be used instead of the gravy beef, but it will require to be cooked for more than three hours.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "devonshire-stew.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWestern Daily Press\u003C/i\u003E\u0027 - Friday 12 April 1940, p6",
+      "receiptText": "VARIOUS DINNERS FROM VEGETABLES ONLY\u003Cbr\u003E\n...\u003Cbr\u003E\n\u003Cb\u003EDevonshire Stew\u003C/b\u003E you should have one part of onions, one part of cabbage, and two parts of potatoes. Boil the vegetables in the usual way. and when they are cooked drain them, shred them up, and mix all together, seasoning with salt and pepper.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "devonshire-stew.html-3",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Devonshire%20Stew\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDevonshire stew\u003C/b\u003E\u003Cbr\u003E\nIngredient\u003Cbr\u003E\n1 kg Potatoes boiled and mashed\u003Cbr\u003E\n500 grams Shredded cooked cabbage and boiled\u003Cbr\u003E\n500 grams Onions finely chopped and cooked\u003Cbr\u003E\nSalt\u003Cbr\u003E\nPepper\u003Cbr\u003E\n100 grams Butter\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EDirections\u003C/b\u003E\u003Cbr\u003E\nThe mashed potatoes with cabbage and onions and mix with salt and pepper and stir everything well. In a large skillet (or saucepan), melt the butter and fry the vegetable mixture until it is brown. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Devonshire Stew",
+  "usedSnapshot": "20211021031436"
+}

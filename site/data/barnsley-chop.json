@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130324050821",
+  "finalPath": "barnsley-chop.html",
+  "heading": "Barnsley Chop",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Barnsley"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Barnsley Chop",
+  "usedSnapshot": "20220706164237"
+}

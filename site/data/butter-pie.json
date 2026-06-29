@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140212020910",
+  "finalPath": "butter-pie.html",
+  "heading": "Butter Pie",
+  "ingredients": [
+    "butter",
+    "cabbage",
+    "fat",
+    "flour",
+    "lard",
+    "onion",
+    "onions",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "potato",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "butter-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://lancashire.greatbritishlife.co.uk/article/lancashire-recipes--butter-pie-35515/\u0022\u003E\u003Cb\u003ELancashire Life Magazine\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EServes four\u003C/i\u003E\u003Cbr\u003E\n\u003Cb\u003EFor the pastry\u003C/b\u003E\u003Cbr\u003E\n225g/8oz Plain flour\u003Cbr\u003E\n50g/2oz Butter, salted or unsalted; you can adjust seasoning to taste at the table\u003Cbr\u003E\n50g/2oz Lard, vegetable fat, or dripping\u003Cbr\u003E\nA pinch of salt, if used, and white pepper\u003Cbr\u003E\nIce cold water\u003Cbr\u003E\nFor the filling\u003Cbr\u003E\n3 Large potatoes - a King Edward/Maris Piper type\u003Cbr\u003E\n1 Large onion\u003Cbr\u003E\n50g/2oz Butter, plus 100g/4oz for softening the onions\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\n1. Sift the flour and salt into a bowl and stir in the butter and lard (I tried with all butter and found this microwaved really well, about 30 seconds to a minute, depending on the wattage, for each quarter of a pie).\u003Cbr\u003E\nUsing your fingertips, or a fork, incorporate in the butter until it resembles fine crumbs, then drizzle in just enough cold water to make the pastry form a ball, pop into a plastic bag, press out the air, and leave in the fridge to rest for 30 minutes.\u003Cbr\u003E\n2. Meanwhile, peel the three large potatoes and the onion, cut the potato into thick slices, a little thicker than a pound coin, and the onion in to half rings. Parboil the potatoes until they are just soft but still holding their shape, about 8-10 minutes. Saute the onions, over a low heat, in the butter until soft, but not browned, as this will spoil the end flavour.\u003Cbr\u003E\n3. Roll out about two thirds of the pastry, to line a pie dish, and trim the edges.\u003Cbr\u003E\n4. Drain the potatoes, let the steam leave the pan, then, in the lined pie dish, layer the potatoes, onions and butter flakes, season with salt and white pepper and top off with the rolled remains of the pastry, \u0027stab\u0027the top to make air vents.\u003Cbr\u003E\n5. Bake at 180 degrees for about half an until golden, and serve immediately, with pickled red cabbage.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFriday Pie\u003C/b\u003E",
+      "relatedPageUrl": "friday-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Butter Pie",
+  "usedSnapshot": "20211019180612"
+}

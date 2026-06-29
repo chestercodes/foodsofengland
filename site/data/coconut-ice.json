@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922073339",
+  "finalPath": "coconut-ice.html",
+  "heading": "Coconut Ice",
+  "ingredients": [
+    "desiccated coconut",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "coconut-ice.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Coconut%20Ice\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECoconut Ice\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb sugar\u003Cbr\u003E\n1/4 pint milk\u003Cbr\u003E\n5 oz Desiccated coconut\u003Cbr\u003E\nRed food colouring\u003Cbr\u003E\n\u003Cbr\u003E\nLightly grease a 20 x 15 cm (8 x 6 inch) shallow tin. Dissolve the sugar in the milk and boil gently for 10 minutes or until the mixture reaches 116 \u00B0C (240 \u00B0F). Remove from the heat. Add the coconut. Spread half the mixture into the tin. Colour the remainder pink and pour over the first layer. Cool, then mark into 1\u0022 x 1\u00BD\u0022 pieces. Cut when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Coconut Ice",
+  "usedSnapshot": "20220527212910"
+}

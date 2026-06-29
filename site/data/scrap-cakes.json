@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150327002231",
+  "finalPath": "scrap-cakes.html",
+  "heading": "Scrap-Cakes",
+  "ingredients": [
+    "allspice",
+    "currants",
+    "fat",
+    "flour",
+    "lard",
+    "lemon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "scrap-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESCRAP-CAKES.\u003C/b\u003E\u003Cbr\u003E\n1779. INGREDIENTS: 2 lbs. of leaf, or the inside fat of a pig; 1-\u00BD lb. of flour, \u00BC lb. of moist sugar,\u00BD lb. of currants, 1 oz. of candied lemon-peel, ground allspice to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut the leaf, or flead, as it is sometimes called, into small pieces; put it into a large dish, which place in a quick oven; be careful that it does not burn, and in a short time it will be reduced to oil, with the small pieces of leaf floating on the surface; and it is of these that the cakes should be made. Gather all the scraps together, put them into a basin with the flour, and rub them well together. Add the currants, sugar, candied peel, cut into thin slices, and the ground allspice. When all these ingredients are well mixed, moisten with sufficient cold water to make the whole into a nice paste; roll it out thin, cut it into shapes, and bake the cakes in a quick oven from 15 to 20 minutes. These are very economical and wholesome cakes for children, and the lard, melted at home, produced from the flead, is generally better than that you purchase. To prevent the lard from burning, and to insure its being a good colour, it is better to melt it in a jar placed in a saucepan of boiling water; by doing it in this manner, there will be no chance of its discolouring.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 15 to 20 minutes.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: to make 3 or 4 dozen cakes.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from September to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Scrap-Cakes",
+  "usedSnapshot": "20211205180543"
+}

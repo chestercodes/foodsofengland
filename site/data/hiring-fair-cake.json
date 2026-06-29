@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808235854",
+  "finalPath": "hiring-fair-cake.html",
+  "heading": "Hiring Fair Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hiring Fair Cake",
+  "usedSnapshot": "20211019191237"
+}

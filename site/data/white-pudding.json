@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140125041357",
+  "finalPath": "white-pudding.html",
+  "heading": "White pudding",
+  "ingredients": [
+    "beef",
+    "cream",
+    "currants",
+    "dates",
+    "eggs",
+    "milk",
+    "oatmeal",
+    "pepper",
+    "puddings",
+    "saffron",
+    "salt",
+    "suet",
+    "sugar",
+    "almonds",
+    "almonds blanched",
+    "beef marrow",
+    "bread",
+    "cinnamon",
+    "orange"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "white-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make the best white Puddings\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a pint of the best, thickest and sweetest Cream, and boyl it, then whilst it is hot, put thereunto a good quantity of breat sweet Oatmeal Grots very sweet, and clean pickt, and formerly steept in milk twelve hours at least, and let it soak in this Cream another night; then put thereto at least eight yelks of Eggs, a little Pepper, Cloves, Mace, Saffron, Currants, Dates, Sugar, Salt, and great store of Swines Suet, or for want thereof great store of Beef Suet, and then fill it up in the farmes according unto the order of good House-wifery; and then boyl them on a soft and gentle fire, and as they swell, prick them with a great Pin, or small Awl, to keep them that they burst not, and when you serve them to the Table, (which must not be untill they be a day old) first boyl them a little, then take them out, and roast them brown before the fire, and so serve them, trimming the edge of the dish either with Salt or Sugar.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "white-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWhite Puddings.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTO half a pound of beef marrow chopped fine, add six ounces of jordan almonds blanched and pounded quite fine, with a dessert spoonful of orange flower water, half a pound of the crumb of french bread, half a pound of currants washed and picked, a quarter of a pound of sifted sugar, a little mace, cloves, and cinnamon pounded, a gill of mountain wine, and the yolks of four eggs beaten. Mix all well together, fill the entrails of a pig three parts full, tie each end, and boil them half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "White pudding",
+  "usedSnapshot": "20210518204105"
+}

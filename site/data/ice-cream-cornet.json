@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140508110423",
+  "finalPath": "ice-cream-cornet.html",
+  "heading": "Ice Cream Cornet",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Ninety Nine",
+      "relatedPageUrl": "ninety-nine-ice-cream.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Ice Cream Cornet",
+  "usedSnapshot": "20220819110811"
+}

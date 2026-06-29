@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922090952",
+  "finalPath": "gloucester-simnel-cake.html",
+  "heading": "Gloucester Simnel Cake",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "beat",
+    "butter",
+    "castor sugar",
+    "cream",
+    "currants",
+    "egg",
+    "eggs",
+    "flour",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "gloucester-simnel-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "860. SIMNEL CAKE (Gloucestershire)\u003Cbr\u003E\n\u003Cbr\u003E\nTake a quarter of a pound of flour, three ounces of mixed peel, quarter of a pound of butter, three good-sized eggs, quarter of a pound of castor sugar, two ounces of ground almonds, three-quarters of a pound of currants. Beat butter to a cream, add sugar and beaten eggs gradually, and work well together. Add flour sifted; beat thoroughly, then add remaining ingredients. Line a tin with greased paper, pour in mixture, and bake in gentle oven from two to three hours. When cold, make some almond paste. Put a layer on top of cake. Form remainder into round balls. Brush the cake over with white of egg and dust with castor sugar. Set in a cool oven till balls are lightly browned, and decorate with crystallised fruits.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Simnel Bread",
+      "relatedPageUrl": "simnel-bread.html",
+      "relationDescription": "For general background to the Simnel Tradition, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Gloucester Simnel Cake",
+  "usedSnapshot": "20220927162910"
+}

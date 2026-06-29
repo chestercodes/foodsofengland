@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922071826",
+  "finalPath": "wortes.html",
+  "heading": "Wortes",
+  "ingredients": [
+    "bread",
+    "ham",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wortes.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EButtered Wortes\u003C/b\u003E. Take al maner of good herbes that thou may gete, and do bi ham as is forsaid; put them on the fire wit faire water; put there-to clarefied buttur a grete quantite. Whan thei ben boyled ynog, salt them; late none otemele come there-in. Dise bread small in disshes, and powre on the wortes, and serve them fort.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Wortes",
+  "usedSnapshot": "20220527064423"
+}

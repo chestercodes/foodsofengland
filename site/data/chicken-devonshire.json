@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922082253",
+  "finalPath": "chicken-devonshire.html",
+  "heading": "Chicken Devonshire",
+  "ingredients": [
+    "bacon",
+    "chicken",
+    "cream",
+    "peas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chicken-devonshire.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E1467 POULARDE DEVONSHIRE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBone the breast of a fine pullet; season it inside, and fill it with a chicken forcemeat, prepared with cream and mixed with half its weight of very fine sausage-meat.\u003Cbr\u003E\n\u003Cbr\u003E\nIn the middle of the pullet set a nice salted and cooked calf\u0027s tongue, trimmed and cleared of all cartilage; and place it so that its thin end lies in the region of the bird\u0027s tail.\u003Cbr\u003E\n\u003Cbr\u003E\nSew up the pullet\u0027s belly with thin string, allowing the skin sufficient play not to tear under the pressure of the forcemeat, which swells while cooking. Truss, cover the pullet with a slice of larding bacon, poach, and drain it.\u003Cbr\u003E\n\u003Cbr\u003E\nWhen about to serve, make an incision around the breast with the point of a knife; detach the stuffing with the blade of a knife, passed horizontally on a level with the spine, and cut off, at a stroke, the piece consisting of the pullet\u0027s breast, the stuffing, and the calf\u0027s tongue.\u003Cbr\u003E\n\u003Cbr\u003E\nDish the carcass with the legs and wings still attached, on a low cushion. Cut the breast, lengthwise, into two; and, if the fowl has been properly stuffed, the tongue should then be found neatly bisected. Slice each half, and return them to the carcass in suchwise as to reconstruct the bird and give it an untouched appearance.\u003Cbr\u003E\n\u003Cbr\u003E\nCoat lightly with Allemande sauce, combined with very red tongue, cut into dice; and surround with a border of timbales made from a puree of fresh peas, each set on an artichoke bottom. Serve a sauceboat of the same sauce as that with which the pullet was coated.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Chicken Devonshire",
+  "usedSnapshot": "20210512114242"
+}

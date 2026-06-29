@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130323054543",
+  "finalPath": "sagoo-custards.html",
+  "heading": "Sagoo Custards",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "beat",
+    "bread",
+    "butter",
+    "cream",
+    "eggs",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "rose-water",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sagoo-custards.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E133. A SAGOO PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake three or four ounces of sagoo, and wash it in two or three waters, set it on to boil in a pint of water, when you think it is enough take it up, set it to cool, and take half of a candid lemon shred fine, grate in half of a nutmeg, mix two ounces of jordan almonds blanched, grate in three ounces of bisket if you have it, if not a few bread-crumbs grated, a little rose-water and half a pint of cream; then take six eggs, leave out two of the whites, beat them with a spoonful or two of sack, put them to your sagoo, with about half a pound of clarified butter, mix them all together, and sweeten it with fine sugar, put in a little salt, and bake it in a dish with a little puff-paste about the dish edge, when you serve it up you may stick a little citron or candid orange, or any sweetmeats you please.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Sagoo Custards",
+  "usedSnapshot": "20211021024340"
+}

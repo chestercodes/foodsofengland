@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150126031939",
+  "finalPath": "dumb-cake.html",
+  "heading": "Dumb Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dumb Cake",
+      "relatedPageUrl": "dumb-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Kattern Cake",
+      "relatedPageUrl": "kattern-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Spinster\u0027s Cake",
+      "relatedPageUrl": "spinster-s-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "St Agnes Pudding",
+      "relatedPageUrl": "st-agnes-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EHalloween\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/halloween.html",
+      "relationDescription": "For other seasonal traditions, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Halloween"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dumb Cake",
+  "usedSnapshot": "20220424151101"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20130322201457",
+  "finalPath": "digestive-biscuits.html",
+  "heading": "Digestive Biscuits",
+  "ingredients": [
+    "biscuits",
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "digestive-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Bread And Biscuit Baker\u0027s And Sugar-Boiler\u0027s Assistant\u003C/i\u003E\u0027 by Robert Wells, 1890 (\u003Ca href=\u0022references.html#wells-1890\u0022\u003E\u003Cb\u003EWells 1890\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E70. - Digestive Biscuits.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake equal parts of fine flour and wheat-meal flour and mix them together to 5 quarts of milk and water. Use 2 \u00BD lbs. of butter and 2 ozs. of German yeast. Rub the butter in the flour, make a bay, pour in your liquor and yeast. Mix the whole into a dough, break it a little, and put it in a warm place to prove. After it is light enough, break it quite smooth and clear, roll it out in a sheet one-eighth of an inch in thickness and cut out your biscuits. As soon as the biscuits are cut out bake in a hot oven.\u003Cbr\u003E\n\u003Cbr\u003E\n71. Another way. - 5 lbs. of granulated wheat meal, 1 lb. of butter, \u00BC lb. of sugar, \u00BC lb. of ground arrowroot, 4 eggs, 1 quart of milk, \u00BC oz. of carbonate of soda. These are mixed up in the usual way, pinned out and cut with a small round cutter, docked and baked in a moderate oven.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E82. - Digestive Biscuits.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n5 lbs. of wheat meal, 1 lb. of butter, 4 ozs. of sugar, 4 eggs, \u00BC oz. of carbonate of soda in 1 quart of water. Rub the butter in the wheat meal, make a bay, add the sugar, eggs, and soda; mix well together, add the water, and take in the wheat meal. After making it into dough, take about 2 lbs., roll it out into a sheet the thickness of a penny; take it on the pin again, and roll it on to a piece of cloth spread on the table; cut them out with a small oval cutter, put on tins well cleaned but not greased, and bake in a cool oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wells-1890"
+    }
+  ],
+  "title": "Digestive Biscuits",
+  "usedSnapshot": "20220510154056"
+}

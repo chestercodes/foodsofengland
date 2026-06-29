@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20150922072042",
+  "finalPath": "chesterfield-soup.html",
+  "heading": "Chesterfield Soup",
+  "ingredients": [
+    "allspice",
+    "basil",
+    "butter",
+    "carrots",
+    "celery",
+    "flour",
+    "gravy",
+    "onions",
+    "pepper",
+    "salt",
+    "sherry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chesterfield-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe family save-all\u003C/i\u003E\u0027 of 1861.",
+      "receiptText": "Soup from Calves tails, commonly called\u003Cbr\u003E\n\u003Cb\u003EChesterfield Soup.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake three gallons of stock gravy, a little whole pepper and allspice, a few sprays of basil and knotted marjoram, some salt and catchup, three onions, two carrots, and a little celery cut small; it should boil two or three hours, until the vegetables are done to shreds; in the mean time a Roux should be prepared thus:- Place half a pound of butter in a confectionery pan, when it is melted, add two pounds of flour, which having thoroughly mixed with the butter, gradually thin by adding some of the stock which has boiled for two hours; when it can be added to the other ingredients, and allowed to boil for half an hour, being kept well stirred to prevent burning. It should then be strained through a hair sieve into an earthen or tin pan. It will require twelve Calved Tails for the above quantity of Soup; they should be separated at the joints, placed in a stew-pan, with two gallons of water, and allowed to boil until thoroughly cooked, when, having removed the scum from time to time, they can be added, liquor and all, to the soup; when, having allowed it to simmer for a few minutes, it can be served with a wineglass of sherry or Madeira, in the tureen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ELamb\u0027s Tail Pie\u003C/b\u003E",
+      "relatedPageUrl": "lamb-s-tail-pie.html",
+      "relationDescription": "For another dish of tails, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EOxtail Soup\u003C/b\u003E",
+      "relatedPageUrl": "oxtail-soup.html",
+      "relationDescription": "For another dish of tails, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EOxtail Brawn\u003C/b\u003E",
+      "relatedPageUrl": "oxtail-brawn.html",
+      "relationDescription": "For another dish of tails, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Chesterfield"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Chesterfield Soup",
+  "usedSnapshot": "20220815164055"
+}

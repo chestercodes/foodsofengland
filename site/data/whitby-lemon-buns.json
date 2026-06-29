@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922074234",
+  "finalPath": "whitby-lemon-buns.html",
+  "heading": "Whitby Lemon Buns",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whitby Lemon Buns",
+  "usedSnapshot": "20211205163626"
+}

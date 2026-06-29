@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150922074201",
+  "finalPath": "gravy-soup.html",
+  "heading": "Gravy Soup",
+  "ingredients": [
+    "asparagus",
+    "beef",
+    "bouillon",
+    "bread",
+    "butter",
+    "carrots",
+    "cayenne",
+    "celery",
+    "chili",
+    "faggot",
+    "fat",
+    "flour",
+    "gravy",
+    "ham",
+    "herbs",
+    "jelly",
+    "macaroni",
+    "mushroom",
+    "onions",
+    "pepper",
+    "rice",
+    "salt",
+    "sherry",
+    "soy",
+    "tea",
+    "toasted bread",
+    "turnips",
+    "veal",
+    "peas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "gravy-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECLEAR, PALE GRAVY SOUP OR CONSOMME.\u003C/b\u003E\u003Cbr\u003E\nRub a deep stewpan or soup- pot with butter, and lay into it three quarters of a pound of ham freed entirely from fat, skin, and rust, four pounds of leg or neck of veal, and the same weight of lean beef, all cut into thick slices; set it over a clear and rather brisk fire, until the meat is of a fine amber-colour; it must be often moved, and closely watched, that it may not stick to the pan, nor bum. When it is equally browned, lay the bones upon it, and pour in gradually four quarts of boiling water. Take off the scum carefully as it rises, and throw in a pint of cold water at intervals to bring it quickly to the surface. When no more appears, add two ounces of salt, two onions, two large carrots, two turnips, one head of celery, a faggot of savoury herbs, a dozen cloves, half a tea spoon of whole white pepper, and two large blades of mace. Allow the soup boil gently from five hours and a half to six hours and a half: then strain it through a very clean fine cloth, laid in a hair sieve. When it is perfectly cold, remove every particle of fat from the top; and, in taking out the soup, leave the sediment untouched; heat in a clean pan the quantity required for table, add salt to it if needed, and a few drops of chili or of cayenne vine, Harvey\u0027s sauce, or very fine mushroom catsup, may be substituted for these. When thus prepared the soup is ready to serve: it should be accompanied by pale sippets of fried bread, or sippets a la reine. (At tables where English modes of service entirely prevailed, clear gravysoup, until very recently, was always accompanied by dice, or sippets as they are called, of delicately toasted bread. These are now seldom seen, but some Italian paste, or nicely prepared vegetable, is served in the soup instead). Rice, macaroni in lengths or in rings, vermicelli, or nauillei may in turn be used to vary it; but they must always be boiled apart, till tender, in broth or water, and well drained before they are slipped into it. The addition of young vegetables, too, and especially of asparagus, will convert it into superior spring soup; but they, likewise, must be separately cooked.)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EANOTHER RECEIPT FOR GRAVY SOUP.\u003C/b\u003E\u003Cbr\u003E\nInstead of browning the meat in its own juices, put it with the onions and carrots, into a deep stewpan, with a quarter of a pint of bouillon; set it over a brisk fire at first, and when the broth is somewhat reduced, let it boil gently until it has taken a fine colour, and forms a glaze (or jelly) at the bottom of the stewpan; then pour to it the proper quantity of water, and finish the soup by the preceding receipt.\u003Cbr\u003E\n\u003Cbr\u003E\nA rich, old-fashioned English brown gravy-soup may be made with beef only. It should be cut from the bones, dredged with flour, seasoned with pepper and salt, and fried a clear brown; then stewed for six hours, if the quantity be large, with a pint of water to each pound of meat, and vegetables as above, except onions, of which four moderate-sized ones, also shred, are to be added to every three quarts of the soup, which, after it has been strained and cleared from fat, may be thickened with six ounces of fresh butter, worked up very smoothly with five of flour. In twenty minutes afterwards, a tablespoonful of the best soy, half a pint of sherry, and a little cayenne, may be added to the soup which will then be ready to serve.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gravy-soup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "145. GRAVY SOUP THICKENED WITH YELLOW PEAS (Eighteenth Century)\u003Cbr\u003E\n\u003Cbr\u003E\nPut a shin of beef to six quarts of water, with a pint of peas and six onions, set them over the fire and let them boil gently till all the juice be out of the meat, then straia it through a sieve, and add to the strained liquor one quart of strong gravy to make it brown; put in pepper and salt to your taste, then put in a little celery and beet leaves, and boil tni they are tender.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Gravy Soup",
+  "usedSnapshot": "20170314021927"
+}

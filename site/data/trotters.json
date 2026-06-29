@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922084621",
+  "finalPath": "trotters.html",
+  "heading": "Trotters",
+  "ingredients": [
+    "butter",
+    "flour",
+    "milk",
+    "parsley",
+    "salt",
+    "sheep",
+    "thyme",
+    "tripe",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "trotters.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 70. STEWED SHEEP\u0027S TROTTERS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSheep\u0027s trotters are sold ready cleaned and very cheap at all tripe shops. When about to cook them, by way of a treat, for supper, or otherwise, let them be put on in two quarts of water and milk, seasoned with peppercorns, salt, a good sprig of thyme, and a wine-glassful of vinegar, and set them to boil very gently on the fire for three hours, at least. When the trotters are done quite tender, skim off all the grease, and boil down the liquor to a pint; then add two ounces of flour, mixed with a gill of milk, some chopped parsley, and one ounce of butter; stir all together while boiling on the fire for ten minutes, and pour out into the dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Trotters",
+  "usedSnapshot": "20220512002441"
+}

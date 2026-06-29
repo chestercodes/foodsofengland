@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922092337",
+  "finalPath": "almond-butter.html",
+  "heading": "Almond Butter",
+  "ingredients": [
+    "almond",
+    "almonds",
+    "beat",
+    "blanched almonds",
+    "bread",
+    "butter",
+    "cream",
+    "eggs",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "almond-butter.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E222. To make Cambridge Almond Butter.\u003C/b\u003E Take a Quart of Cream and sixteen Eggs well beaten, mix them together and strain them into a Posnet, set them on a soft fire, and stir them continually; when it is ready to boil, put in half a quarter of a Pint of Sack, and stir it till it run to a Curd, then strain the Whey from it as much as may be, then beat four Ounces of blanched Almonds with Rosewater, then put the Curd and beaten Almonds and half a pound of fine Sugar into a Mortar, and beat them well together, then put it into Glasses and eat it with bread, it will keep a Fortnight.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "almond-butter.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\n264. To make ALMOND BUTTER.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of cream, and half a pound of almonds, beat them with the cream, then strain it, and boil it with twelve yolks of eggs and two whites, till it curdle, hang it up in a cloth till morning and then sweeten it; you may rub it through a sieve with the back of a spoon, or strain it through a coarse cloth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cambridge"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Almond Butter",
+  "usedSnapshot": "20220527060830"
+}

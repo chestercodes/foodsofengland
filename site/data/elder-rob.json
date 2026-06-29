@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922091725",
+  "finalPath": "elder-rob.html",
+  "heading": "Elder Rob",
+  "ingredients": [
+    "bladder",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "elder-rob.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ELDER ROB. Clear some ripe elder-berries from the stalks, bake them in covered jars for two hours, and squeeze the juice through a strainer. To four quarts of juice put one pound of sugar, and stir it over the fire till reduced to one quart. When cold, tie it down with a bladder, and keep it in a dry place. It is very good for sore throats and fevers.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Elder Rob",
+  "usedSnapshot": "20211027044146"
+}

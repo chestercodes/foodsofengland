@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922085543",
+  "finalPath": "brentford-rolls.html",
+  "heading": "Brentford Rolls",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brentford-rolls.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BRENTFORD ROLLS. Mix with two pounds of flour, a little salt, two ounces of sifted sugar, four ounces of butter, and two eggs beaten with two spoonfuls of yeast, and about a pint of milk. Knead the dough well, and set it to rise before the fire. Make twelve rolls, butter tin plates, and set them before the fire to rise, till they become of a proper size, and bake them half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Brentford Rolls",
+  "usedSnapshot": "20211205165425"
+}

@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212020700",
+  "finalPath": "flaumpens.html",
+  "heading": "Flaumpens",
+  "ingredients": [
+    "cheese",
+    "fat",
+    "pork",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "flaumpens.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFLAUMPENS\u003C/b\u003E\u003Cbr\u003E\nTake fat Pork salted, scrape it clean, grynde it small. Grynde cheese \u0026 do thereto with sugur and good \u003Ca href=\u0022spice-powders.html\u0022\u003E\u003Cb\u003Epowders\u003C/b\u003E\u003C/a\u003E. Make a coffyn [casing] of an inch deep and do this forcemeat therin, make a thin foile of good paste \u0026 carve out theroff small poyntes, fry them in forcemeat. \u0026 bake it up \u0026amp;c\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Flaumpens",
+  "usedSnapshot": "20211020223437"
+}

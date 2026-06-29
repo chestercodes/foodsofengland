@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616082619",
+  "finalPath": "angelot.html",
+  "heading": "Angelot",
+  "ingredients": [
+    "cheese",
+    "fat",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "angelot.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make Angelot.\u003C/b\u003E\u003Cbr\u003E\nTake a Gallon of Stroakings and a Pint of Creame as it comes from the Cow, and put it together with a little Rennet; when you fill, turne up the midst side of the Cheese-fat, fill them a little at once, and let it stand all that day and the next, then turn them, and let them stand til they will slip out of the Fat, Salt them on both sides, and when the Coats begin to come on them, neither wipe nor scrape them, for the thicker the Coat is the better.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Angelot",
+  "usedSnapshot": "20220527215538"
+}

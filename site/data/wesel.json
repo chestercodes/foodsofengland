@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140125041347",
+  "finalPath": "wesel.html",
+  "heading": "Wesel",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wesel.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFor wesels.\u003C/b\u003E\u003Cbr\u003E\nFyrst grynde porke, temper in fere\u003Cbr\u003E\nWith egges and powder of peper dere,\u003Cbr\u003E\nAnd powder of canel \u00FEou put \u00FEer to,\u003Cbr\u003E\nIn chapon necke \u00FEou close hit \u00FEo,\u003Cbr\u003E\nOr elles in paunche of grys hit pyt,\u003Cbr\u003E\nAnd rost hit wele, and \u00FEen dore hit\u003Cbr\u003E\nWith oute, with batere of egges and floure,\u003Cbr\u003E\nTo serve in sale or ellys in boure.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Wesel",
+  "usedSnapshot": "20210518193813"
+}

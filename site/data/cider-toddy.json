@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808234101",
+  "finalPath": "cider-toddy.html",
+  "heading": "Cider Toddy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider Toddy",
+  "usedSnapshot": "20211201023639"
+}

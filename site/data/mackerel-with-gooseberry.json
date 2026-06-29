@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140616083053",
+  "finalPath": "mackerel-with-gooseberry.html",
+  "heading": "Mackerel with Gooseberry",
+  "ingredients": [
+    "gooseberries",
+    "mackerel",
+    "parsley",
+    "sugar",
+    "butter",
+    "gravy",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "mackerel-with-gooseberry.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECheltenham Chronicle\u003C/i\u003E\u0027 - Saturday 20 August 1938",
+      "receiptText": "\u003Cb\u003EMackerel with Gooseberry Sauce\u003C/b\u003E\u003Cbr\u003E\nAllow a medium sized mackerel to each person and for each mackerel half a pound of gooseberries. Get the fish-monger to remove the backbones from the mackerel. Either boil them in salted water or grill, and if possible sprinkle with chopped fennel. Failing this, use chopped parsley. Make a puree of the gooseberries by putting the fruit in a saucepan with one or two tablespoonfuls of water and a little sugar and simmering till the gooseberries are tender enough to rub through sieve. This puree can be served as it is, or if liked, added to white sauce.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "mackerel-with-gooseberry.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGOOSEBERRY SAUCE FOR BOILED MACKEREL.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n429. INGREDIENTS. - 1 pint of green gooseberries, 3 tablespoonfuls of Bechamel, No. 367 (veal gravy may be substituted for this), 2 oz. of fresh butter; seasoning to taste of salt, pepper, and grated nutmeg.\u003Cbr\u003E\n\u003Cbr\u003E\nMode. Boil the gooseberries in water until quite tender; strain them, and rub them through a sieve. Put into a saucepan the Bechamel or gravy, with the butter and seasoning; add the pulp from the gooseberries, mix all well together, and heat gradually through. A little pounded sugar added to this sauce is by many persons considered an improvement, as the saccharine matter takes off the extreme acidity of the unripe fruit.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. Boil the gooseberries from 20 minutes to1/2 hour.\u003Cbr\u003E\n\u003Ci\u003ESufficient,\u003C/i\u003E this quantity, for a large dish of mackerel.\u003Cbr\u003E\n\u003Ci\u003ESeasonable,\u003C/i\u003E from May to July.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Mackerel with Gooseberry",
+  "usedSnapshot": "20220819121123"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922075018",
+  "finalPath": "cake-with-almonds.html",
+  "heading": "Cake with Almonds",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "butter",
+    "currants",
+    "rose water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cake-with-almonds.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#c-guide-1654\u0022\u003E\u003Cb\u003EC.Guide 1654\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "Take one pound and an half of fine flower, of sugar twelve ounces beaten very fine, mingle them well together, than take half a pound of almonds blanched and beaten with a little rose water; mingle all these with as much sack as will work it into a paste, and put in some spice, some yest and plumped currants, with a pound of butter; so make it into a cake and bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "c-guide-1654"
+    }
+  ],
+  "title": "Cake with Almonds",
+  "usedSnapshot": "20150922075018"
+}

@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922072623",
+  "finalPath": "tea-treat-buns.html",
+  "heading": "Tea-Treat Buns",
+  "ingredients": [
+    "currants",
+    "demarara sugar",
+    "eggs",
+    "lard",
+    "lemon",
+    "saffron",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tea-treat-buns.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E910. SAFFRON BUNS (Cornwall)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTo half a quartern of dough add a quarter of a pound of currants, two ounces of grated lemon-peel, Demarara sugar to taste (say about quarter of a pound), half a teaspoonful of mixed spice, six ounces of lard or dripping, two-pennyworth of saffron (pour boiling water on this and leave it overnight); warm the dough and melt the lard before mixing, and add (while the mixture is not too hot) two well-beaten eggs. Do not let the lard be too hot. Knead all together with the hands, then leave in a warm place covered with a cloth, until the whole has \u0022plimmed up\u0022 or risen; then divide into small lumps, place on a greased tin, and bake in a slow oven until slightly coloured.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERevel Buns\u003C/b\u003E",
+      "relatedPageUrl": "revel-buns.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ESafron\u003C/b\u003E or \u003Cb\u003ESaffron Buns\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Tea-Treat Buns",
+  "usedSnapshot": "20210510054045"
+}

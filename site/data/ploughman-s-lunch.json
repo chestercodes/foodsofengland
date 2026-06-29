@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20130322203746",
+  "finalPath": "ploughman-s-lunch.html",
+  "heading": "Ploughman\u0027s Lunch",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Ploughman\u0027s Pasties",
+      "relatedPageUrl": "ploughman-s-pasties.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Yorkshire Ploughman\u0027s Salad Sauce",
+      "relatedPageUrl": "yorkshire-ploughman-s-salad-sauce.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Ploughman\u0027s Lunch",
+  "usedSnapshot": "20220705093920"
+}

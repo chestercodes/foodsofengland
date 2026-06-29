@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922093721",
+  "finalPath": "chelsea-buns.html",
+  "heading": "Chelsea Buns",
+  "ingredients": [
+    "bread",
+    "butter",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chelsea-buns.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe complete biscuit and gingerbread baker\u0027s assistant\u003C/i\u003E\u0027, by George Read, 1854",
+      "receiptText": "\u003Cb\u003EChelsea Buns\u003C/b\u003E Take plain bun dough, or if they are for common ones bread dough, roll it out in a sheet break some firm butter in small bits and place over it, fold it up and roll it out as you would paste, after you have given it two or three turns moisten the surface of the dough and strew over it some moist sugar, roll up the sheet into a roll and cut it in slices or cut the dough in strips of the required size, and turn them round place them on a buttered tin that has edges about inch from each other prove them well and bake in a moderate oven. You may dust the tops with loaf sugar either before or after they are baked. The quantity of ingredients used must be regulated according to the richness the buns are required 1b of butter and the same quantity of sugar with 4 lbs of dough will make a good bun. When bun dough is used half this quantity of sugar will be sufficient and some omit it altogether.\u003Cbr\u003E\n\u003Cb\u003EAnother\u003C/b\u003E 2\u00BD quarterns of bread dough 1 lb of butter and 1 lb of sugar or 6 oz of butter and 6 oz of sugar to each quartern of bread dough and proceed as before.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chelsea Buns",
+  "usedSnapshot": "20211201041919"
+}

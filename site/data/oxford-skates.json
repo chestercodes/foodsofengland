@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140125041513",
+  "finalPath": "oxford-skates.html",
+  "heading": "Oxford Skates",
+  "ingredients": [
+    "beef",
+    "butter",
+    "eggs",
+    "flour",
+    "mustard",
+    "pepper",
+    "pork",
+    "salt",
+    "suet",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxford-skates.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook\u0027s and Confectioners Dictionary: Or, the Accomplish\u0027d Housewife\u0027s Companion\u003C/i\u003E\u0027 by John Nott (\u003Ca href=\u0022references.html#nott-1723\u0022\u003E\u003Cb\u003ENott 1723\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E59. To make Sausages called Oxford Skates\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nChop the Lean of a Leg of Pork, or Veal small with four Pound of Butter or Beef suet; then season the Meat with Salt, three quarters of an Ounce of Pepper, half the quantity of Cloves and Mace, and a good Handful of Sage chopt small: Mingle all these well together; then take the Yolks of ten Eggs, and the Whites but of seven, and temper them well with the Meat, and as you use them roll them out, with flour, if you please, make Butter boiling hot in a Frying-pan, and fry them brown, then eat them with Mustard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Oxford Sausages",
+      "relatedPageUrl": "oxford-sausages.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nott-1723"
+    }
+  ],
+  "title": "Oxford Skates",
+  "usedSnapshot": "20210518200350"
+}

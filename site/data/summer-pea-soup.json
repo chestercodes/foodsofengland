@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922073533",
+  "finalPath": "summer-pea-soup.html",
+  "heading": "Summer Pea Soup",
+  "ingredients": [
+    "anchovies",
+    "bread",
+    "butter",
+    "flour",
+    "mint",
+    "onions",
+    "pepper",
+    "salt",
+    "spinage"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "summer-pea-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E7. To make PEASE SOOP in Lent.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of pease, put them into a pot with a gallon of water, two or three large onions, half a dozen anchovies, a little whole pepper and salt; boil all together whilst your soop is thick; strain it into a stew-pan through a cullender, and put six ounces of butter (work\u0027d in flour) into the soop to thicken it; also put in a little boil\u0027d sellery, stew\u0027d spinage, crisp bread, and a little dry\u0027d mint powdered; so serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Summer Pea Soup",
+  "usedSnapshot": "20220527223347"
+}

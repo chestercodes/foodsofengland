@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150524221113",
+  "finalPath": "potwise-or-potews.html",
+  "heading": "Potwise or Potews",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potwise-or-potews.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Forme of Cury\u003C/i\u003E By the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "POTEWS\u003Cbr\u003E\nTake Pottes of Er\u00FEe lytell of half a quart and fyll hem full of fars of pomme dorryes [2]. o\u00FEer make with \u00FEyn honde. o\u00FEer in a moolde pottes of \u00FEe self fars. put hem in water \u0026 see\u00FE hem up wel. and whan \u00FEey buth ynowz. breke \u00FEe pottes of er\u00FEe \u0026 do \u00FEe fars on \u00FEe spyt \u0026 rost hem wel. and whan \u00FEei buth yrosted. colour hem as pomme dorryes. make of litull prewes [3] gode past, frye hem o\u00FEer rost hem wel in grece. \u0026 make \u00FEerof Eerys [4] to pottes \u0026 colour it. and make rosys [5] of gode past, \u0026 frye hem, \u0026 put \u00FEe steles [6] in \u00FEe hole \u00FEer [7] \u00FEe spyt was. \u0026 colour it with whyte. o\u00FEer rede. \u0026 serue it forth.\u003Cbr\u003E\n\u003Cbr\u003E\n[1] Potews. probably from the pots employed. [2] pomme dorryes. Vide ad No. 174. [3] prewes. V. ad 176. [4] eerys. Ears for the pots. V. 185. [5] rosys. roses. [6] sleles. stalks. [7] \u00FEer. there, i.e. where. V. 170.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Potwise or Potews",
+  "usedSnapshot": "20220527060715"
+}

@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922073103",
+  "finalPath": "oxo.html",
+  "heading": "OXO",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Marmite",
+      "relatedPageUrl": "marmite.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "OXO",
+  "usedSnapshot": "20170313205251"
+}

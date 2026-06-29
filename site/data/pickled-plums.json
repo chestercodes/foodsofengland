@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20150922072751",
+  "finalPath": "pickled-plums.html",
+  "heading": "Pickled Plums",
+  "ingredients": [
+    "cinnamon",
+    "plums",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-plums.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe International Jewish Cook\u003C/i\u003E\u0027 Book by Florence Kreisler Greenbaum, 1919",
+      "receiptText": "\u003Cb\u003EPICKLED PLUMS\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPrick the plums with a large needle then weigh them, and to every seven pounds of fruit use four pounds of white sugar, two ounces of stick cinnamon, one ounce of cloves and a pint of best pickling vinegar. Boil the vinegar, sugar and spices, and pour boiling hot over the fruit, which must be packed in a large jar; repeat this three times. While the vinegar boils the third time, pack the plums in glass jars and pour the syrup over the plums. When cold seal.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pickled Plums",
+  "usedSnapshot": "20211130233351"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140508110454",
+  "finalPath": "oat-biscuits.html",
+  "heading": "Oat Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oat Biscuits",
+  "usedSnapshot": "20200112193843"
+}

@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922094136",
+  "finalPath": "james-bond-s-vodka-martini-the-vesper.html",
+  "heading": "James Bond\u0027s Vodka Martini - The Vesper",
+  "ingredients": [
+    "champagne",
+    "lemon",
+    "vodka"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "james-bond-s-vodka-martini-the-vesper.html-1",
+      "receiptSource": "Original Receipt in the first James Bond novel \u0027\u003Ci\u003ECasino Royale\u003C/i\u003E\u0027, published in 1953.",
+      "receiptText": "Mr Bond has met up with CIA agent Felix Leiter at a bar ...\u003Cbr\u003E\n\u003Cbr\u003E\n\u0022A dry martini,\u0022 he said. \u0022One. In a deep champagne goblet.\u0022\u003Cbr\u003E\n\u0022Oui, monsieur.\u0022\u003Cbr\u003E\n\u0022Just a moment. Three measures of \u003Ca href=\u0022gin.html\u0022\u003E\u003Cb\u003EGordon\u0027s\u003C/b\u003E\u003C/a\u003E, one of vodka, half a measure of Kina Lillet. Shake it very well until it\u0027s ice-cold, then add a large thin slice of lemon-peel. Got it?\u0022\u003Cbr\u003E\n\u0022Certainly, monsieur.\u0022 The barman seemed pleased with the idea.\u003Cbr\u003E\n... \u0022This drink\u0027s my own invention. I\u0027m going to patent it when I can think of a good name.\u0022\u003Cbr\u003E\n[the necessary femmme fatale arives]\u003Cbr\u003E\n\u0022Vesper,\u0022 she said. \u0022Vesper Lynd.\u0022...\u003Cbr\u003E\n\u0022I think it\u0027s a fine name,\u0022 said Bond. An idea struck him. \u0022Can I borrow it?\u0022\u003Cbr\u003E\nHe explained about the special martini he had invented and his search for a name for it. \u0022The Vesper,\u0022 he said.\u003Cbr\u003E\n\u0022It sounds perfect and it\u0027s very appropriate to the violet hour when my cocktail will now be drunk all over the world. Can I have it?\u0022\u003Cbr\u003E\n\u0022So long as I can try one first,\u0022 she promised. \u0022It sounds a drink to be proud of.\u0022\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "James Bond\u0027s Vodka Martini - The Vesper",
+  "usedSnapshot": "20210225170818"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922091221",
+  "finalPath": "fresh-tomato-chutney.html",
+  "heading": "Fresh Tomato Chutney",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ETomato Relish\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fresh Tomato Chutney",
+  "usedSnapshot": "20211021010320"
+}

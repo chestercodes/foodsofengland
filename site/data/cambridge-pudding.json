@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922093956",
+  "finalPath": "cambridge-pudding.html",
+  "heading": "Cambridge Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "dates",
+    "eggs",
+    "pudding",
+    "rosewater",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cambridge-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E175. To make a Cambridge-Pudding.\u003C/b\u003E Take grated bread searced through a Cullender, then mix it with fine Flower, minced Dates, Currans, beaten Spice, Suet shred small, a little salt, sugar and rosewater, warm Cream and Eggs, with half their Whites; mould all these together with a little Yest, and make it up into a Loaf, but when you have made it in two parts, ready to clap together, make a deep hole in the one, and put in butter, then clap on the other, and close it well together, then butter a Cloth and tie it up hard, and put it into water which boiles apace, then serve it in with Sack, Butter and Sugar.\u003Cbr\u003E\nYou may bake it if you please in a baking-pan.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "murrell-1615"
+    }
+  ],
+  "title": "Cambridge Pudding",
+  "usedSnapshot": "20220706152632"
+}

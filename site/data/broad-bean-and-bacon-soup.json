@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922081958",
+  "finalPath": "broad-bean-and-bacon-soup.html",
+  "heading": "Broad Bean and Bacon Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Broad Bean and Bacon Soup",
+  "usedSnapshot": "20220516215203"
+}

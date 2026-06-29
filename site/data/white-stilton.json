@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20140616082548",
+  "finalPath": "white-stilton.html",
+  "heading": "White Stilton",
+  "ingredients": [
+    "cheese",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "white-stilton.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "STILTON CHEESE. This rich and relishing article is made in the following manner. The night\u0027s cream is put into the morning\u0027s milk, with the rennet. When the curd is come, it is not broken, as is usually done with other cheese, but taken out whole, and put into a sieve to drain. Here it is pressed till it becomes firm and dry, when it is placed in a wooden hoop made to fit it, in order to prevent its breaking. After being taken out of the hoop, the cheese is bound with cloths, which are changed every day, till it is sufficiently firm to support itself. The cloths are then removed, and the cheese is rubbed with a brush and turned every day. The rennet bag should be kept perfectly sweet and fresh: if it be in the least degree tainted, the cheese will never have a good flavour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Stilton",
+      "relatedPageUrl": "blue-stilton-cheese.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "White Stilton",
+  "usedSnapshot": "20210510035340"
+}

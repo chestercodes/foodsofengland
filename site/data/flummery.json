@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20150401225729",
+  "finalPath": "flummery.html",
+  "heading": "Flummery",
+  "ingredients": [
+    "ale",
+    "cream",
+    "milk",
+    "oat-meal",
+    "orange",
+    "sugar",
+    "almonds",
+    "beat",
+    "beer",
+    "blanched almonds",
+    "bread",
+    "jelly",
+    "oatmeal",
+    "white wine",
+    "cider",
+    "pudding"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "flummery.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWHEATEN FLOMMERY\u003C/b\u003E\u003Cbr\u003E\nIn the West-country, they make a kind of Flomery of wheat flower, which they judge to be more harty and pleasant then that of Oat-meal, Thus; Take half, or a quarter of a bushel of good Bran of the best wheat (which containeth the purest flower of it, though little, and is used to make starch,) and in a great woodden bowl or pail, let it soak with cold water upon it three or four days. Then strain out the milky water from it, and boil it up to a gelly or like starch. Which you may season with Sugar and Rose or Orange-flower-water, and let it stand till it be cold, and gellied. Then eat it with white or Rhenish-wine, or Cream, or Milk, or Ale.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "flummery.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Hartshorn Flummery\u003C/b\u003E\u003Cbr\u003E\nBOIL half a pound of the shavings of harts-horn in three pints of water till it comes to a pint, then strain it through a sieve into a bason, and let it by to cool; then let it over the fire, lest it [settle?], and put to it half a pint of thick cream, scalded and grown cold again, a quarter of a pint of white wine, and two spoonfuls of orange-flower water; sweeten it with sugar, and beat it for an hour and a half, or it will not mix well, nor look well; dip your cups in water before you put in the flummery, or else it will not turn out well. It is best when it stands a day or two before you turn it out. When you serve it up, turn it out of the cups, and stick blanched almonds, cut in long narrow bits, on the top. You may eat them either with wine or cream.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EA second Way to make Hartshorn Flummery\u003C/b\u003E\u003Cbr\u003E\nTAKE three ounces of hartfhorn, and put to it two quart of spring water, let it simmer over the fire six or seven hours, till half the water is consumed, or else put it in a jug, and set it in the oven with day-old bread, then strain it through a sieve, and beat half a pound of almonds very fine, with some orange flower water in the beating; when they are beat, mix a little of your jelly with it, and some fine sugar; strain it out, and mix it with your other jelly, stir it together till it is little more than blood-warm; then pour it into half pint basons or dishes for the purpose, and fill them up half full. When you use them, turn them out of the dish as you do flummery. If it docs not come out clean, set your bason a minute or two in warm water. You may stick almonds in or not, just as you please. Eat it with wine and sugar. Or make your jelly this\u003Cbr\u003E\nway; put fix ounces of hartshorn in a glazed jug with a long neck, and put to it three pints of soft water, cover the top of the jug close, and put a weight on it to keep it steady; set it in a pot or kettle of water twenty- four hours, let it not boil, but be scalding hot then strain it out, and make your jelly.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make Oatmeal-Flummery.\u003C/b\u003E\u003Cbr\u003E\nGET some oatmeal, put it into a broad deep pan, then cover it with water, stir it together, and let it stand twelve hours, then pour off that water clear, and put in a good deal of fresh water, stir it again in twelve hours, and soon in twelve more, then pour off the water clear, and strain the oatmeal through a coarse hair-sieve, and pour it into a saucepan, keeping it stirring all the time with a stick till it boils and is very thick; then pour it into dishes; when cold turn it into plates, and eat it with what you please, either wine and sugar, or beer with sugar, or milk. It eats very pretty with cyder and sugar.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "flummery.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "FLUMMERY. Steep in cold water, for a day and a night, three large handfuls of very fine white oatmeal. Pour it off clear, add as much more water, and let it stand the same time. Strain it through a fine hair sieve, and boil it till it is as thick as hasty pudding, stirring it well all the time. When first strained, put to it one large spoonful of white sugar, and two of orange flower water. Pour it into shallow dishes, and serve it up with wine, cider, and milk; or it will be very good with cream and sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Flummery Caudle",
+      "relatedPageUrl": "flummery-caudle.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Flummery",
+  "usedSnapshot": "20220706170113"
+}

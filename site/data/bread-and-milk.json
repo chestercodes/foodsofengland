@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922071904",
+  "finalPath": "bread-and-milk.html",
+  "heading": "Bread and Milk",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bread and Milk",
+  "usedSnapshot": "20211129112451"
+}

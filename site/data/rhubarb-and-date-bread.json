@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922094808",
+  "finalPath": "rhubarb-and-date-bread.html",
+  "heading": "Rhubarb and Date Bread",
+  "ingredients": [
+    "baking powder",
+    "bread",
+    "breadcrumbs",
+    "butter",
+    "dates",
+    "egg",
+    "flour",
+    "milk",
+    "plain flour",
+    "rhubarb"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-and-date-bread.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Rhubarb%20and%20Date%20Bread\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ERHUBARB AND DATE BREAD\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8oz rhubarb, chopped\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\n8oz plain flour\u003Cbr\u003E\n1 tbsp baking powder\u003Cbr\u003E\n6oz dates, stoned and finely chopped\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\n4 tbsp milk\u003Cbr\u003E\n\u003Cbr\u003E\nWash the rhubarb and cook gently in just the water clinging to the pieces until you have a puree. Rub the butter into the flour and baking powder till it looks like fine breadcrumbs. Stir in the rhubarb, dates, egg and milk and mix together well. Spoon into a greased and lined 2lb loaf tin and bake in a preheated oven at 190/Gas 5 for 1 hour until firm to the touch.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Rhubarb and Date Bread",
+  "usedSnapshot": "20211205180041"
+}

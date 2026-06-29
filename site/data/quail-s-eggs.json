@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130322000250",
+  "finalPath": "quail-s-eggs.html",
+  "heading": "Quail\u0027s Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Quail\u0027s Eggs",
+  "usedSnapshot": "20220819110221"
+}

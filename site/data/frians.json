@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212033500",
+  "finalPath": "frians.html",
+  "heading": "Frians",
+  "ingredients": [
+    "butter",
+    "dates",
+    "fat",
+    "ginger",
+    "pepper",
+    "prunes",
+    "saffron",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "frians.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Frians.\u003C/b\u003E\u003Cbr\u003E\nTAKE three handfull of flower, seuen yolkes of Egges, and half a dish of Butter, make your paste therewith and make two \u003Ca href=\u0022chewitts.html\u0022\u003E\u003Cb\u003EChewets\u003C/b\u003E\u003C/a\u003E therof, as you would make two Tarts, and when it is driuen verie fine with your rolling pin, then cut them in peeces of the bignesse of your hand. Then take a quartern of sugar, and one ounce and foure spoonfuls of Synamon, and halfe a spoonfull of Ginger, and mingle them altogether, then take lumps of marrow, of the quantitie of your finger, and put it on your peeces of paste afore rehearsed, and put vpon it two spoonfuls of your Sugar and spices: then take a litle water and wet your paste therewith: then make them euen as you would make a pastie of Venison: then pricke them with a pin, and frie them as \u00FEe frie frittons, when they be fried, cast a litle sugar on them, and so serue them in.\u003Cbr\u003E\n\u003Cb\u003ETo make frians in Lent\u003C/b\u003E\u003Cbr\u003E\nTAKE Ualsome Eeles and see they be fat, and cut the fish from the bone, and mince it smal, and a Warden or two with it. Then season it with Pepper, salt, Cloues, mace, and Saffron: then put to it Corrans, Dates and Prunes, smal minced, and when your fruit is altogether then poure on a litle \u003Ca href=\u0022verjuice.html\u0022\u003E\u003Cb\u003EUergious\u003C/b\u003E\u003C/a\u003E and cut it in little peeces, and so bake it \u0026 put a peece of Butter in the midst of the peeces to make it moist, so close it, and bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Frians",
+  "usedSnapshot": "20211019183208"
+}

@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922083430",
+  "finalPath": "egg-soup.html",
+  "heading": "Egg Soup",
+  "ingredients": [
+    "beat",
+    "butter",
+    "egg",
+    "eggs",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make an egg soup.\u003C/b\u003E\u003Cbr\u003E\nBEAT the yolks of two eggs in your dish, with a piece of butter as big as a hen\u0027s egg, take a tea-kettle of boiling water in one hand, and a spoon in the other, pour in about a quart by degrees, then keep stirring it all the time well till the eggs are well mixed, and the butter melted; then pour it into a sauce-pan, and keep stirring it all the time till it begins to simmer. Take if of the fire, and pour it between two vessels, out of one into another, till it is quite smooth, and has a great froth. Set it on the fire again, keep stirring it till it is quite hot; then pour it into the soup-dish, and send it to table hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Egg Soup",
+  "usedSnapshot": "20220516222845"
+}

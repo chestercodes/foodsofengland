@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922071555",
+  "finalPath": "sack-posset.html",
+  "heading": "Sack Posset",
+  "ingredients": [
+    "ale",
+    "cream",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sack-posset.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Sack Posset.\u003C/b\u003E\u003Cbr\u003E\nTake a quart of Cream and boyle it very well with Sugar, Mace, and Nutmeg, take half a pint of Sack, and as much Ale, and boyle them well together with some Sugar, then put your Cream into your Bason to your Sacke, then heat a pewter dish very hot, and cover your Bason with it, and set it by the fire side, and let it stand there two or three houres before you eat it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPosset\u003C/b\u003E",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "c-guide-1654"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Sack Posset",
+  "usedSnapshot": "20211027030407"
+}

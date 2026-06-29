@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140212025233",
+  "finalPath": "impossible-pie.html",
+  "heading": "Impossible Pie",
+  "ingredients": [
+    "butter",
+    "caster sugar",
+    "desiccated coconut",
+    "eggs",
+    "flour",
+    "milk",
+    "plain flour",
+    "salt",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "impossible-pie.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Impossible%20Pie\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 large eggs\u003Cbr\u003E\n6oz caster sugar\u003Cbr\u003E\nPinch salt\u003Cbr\u003E\n1 pint milk\u003Cbr\u003E\n1tsp vanilla extract\u003Cbr\u003E\n4 oz melted butter\u003Cbr\u003E\n3 oz plain flour\u003Cbr\u003E\n2 oz desiccated coconut\u003Cbr\u003E\n\u003Cbr\u003E\nWhisk together all ingredients and pour the batter into an 8 ins baking dish. Bake 1 hour at 160C/325F\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Impossible Pie",
+  "usedSnapshot": "20211129114821"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140616085219",
+  "finalPath": "arundel-mullets.html",
+  "heading": "Arundel Mullets",
+  "ingredients": [
+    "anchovies",
+    "butter",
+    "fish stock",
+    "herbs",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "onions",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "arundel-mullets.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Arundel%20Mullets\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "8 mullets (6-8oz each)\u003Cbr\u003E\n2 pints fish stock or salted water\u003Cbr\u003E\n1 oz butter\u003Cbr\u003E\n8 oz diced onions\u003Cbr\u003E\n1 tsp lemon juice\u003Cbr\u003E\n2 full glasses red wine\u003Cbr\u003E\nBunch of sweet herbs\u003Cbr\u003E\n2-3 anchovies, finely chopped\u003Cbr\u003E\nSalt and pepper\u003Cbr\u003E\nNutmeg\u003Cbr\u003E\n\u003Cbr\u003E\nClean and wash the mullets. Simmer gently in stock or lightly salted water for 10-15 minutes. Lift out the fish and reduce the liquid by half. Melt the butter and cook the onions, without browning; add the lemon juice, wine, reduced cooking liquid, herbs, chopped anchovies and salt and pepper and nutmeg to taste. Bring to the boil and put in the mullets. Simmer for 15 minutes. Serve with the sauce poured over the fish\u201D.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Arundel Mullets",
+  "usedSnapshot": "20211207120741"
+}

@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922073307",
+  "finalPath": "puddle-pudding.html",
+  "heading": "Puddle Pudding",
+  "ingredients": [
+    "brown sugar",
+    "butter",
+    "chocolate",
+    "cocoa",
+    "custard",
+    "flour",
+    "milk",
+    "pudding",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "puddle-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Puddle%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Hot Chocolate Puddle Pudding\u003Cbr\u003E\nThis pudding separates into a lovely crunchy topped pudding with a chocolate custard underneath.\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n4 oz Self raising Flour\u003Cbr\u003E\n8 oz Brown Sugar\u003Cbr\u003E\n3 oz cocoa\u003Cbr\u003E\n1/4 pint milk\u003Cbr\u003E\n1 teaspoon vanilla essence\u003Cbr\u003E\n1 oz melted butter\u003Cbr\u003E\n3/4 pint hot water\u003Cbr\u003E\n\u003Cbr\u003E\nCombine flour with 4 oz sugar, 2 oz cocoa, milk, essence and butter. Pour into a greased 2 \u00BD pt heat proof dish.\u003Cbr\u003E\nMix together remaining sugar and 1 oz cocoa, sprinkle on top of mixture, then carefully pour water over.\u003Cbr\u003E\nBake at 180C for 50 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPond Pudding\u003C/b\u003E",
+      "relatedPageUrl": "sussex-pond-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWell Pudding\u003C/b\u003E",
+      "relatedPageUrl": "kentish-well-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EImpossible Pie\u003C/b\u003E",
+      "relatedPageUrl": "impossible-pie.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Puddle Pudding",
+  "usedSnapshot": "20211027043429"
+}

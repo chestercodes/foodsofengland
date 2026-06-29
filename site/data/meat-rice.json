@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140310143249",
+  "finalPath": "meat-rice.html",
+  "heading": "Meat Rice",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "milk",
+    "rice",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "meat-rice.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERICE OF FLESH.\u003C/b\u003E\u003Cbr\u003E\nTake rice and wash them clean, and do them in earthen pot with good broth and let them seethe well. Afterward take almond milk and do thereto. And colour it with saffron and salt, and present forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Frumenty",
+      "relatedPageUrl": "frumenty-or-furmety.html",
+      "relationDescription": "See: For similar grain-and-broth accompaniments, see: "
+    },
+    {
+      "relatedPageText": "Oat Pudding",
+      "relatedPageUrl": "oat-pudding.html",
+      "relationDescription": "See: For similar grain-and-broth accompaniments, see: "
+    },
+    {
+      "relatedPageText": "Sturmye",
+      "relatedPageUrl": "sturmye.html",
+      "relationDescription": "See: For similar grain-and-broth accompaniments, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Meat Rice",
+  "usedSnapshot": "20220527054140"
+}

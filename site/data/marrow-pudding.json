@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922084320",
+  "finalPath": "marrow-pudding.html",
+  "heading": "Marrow Pudding",
+  "ingredients": [
+    "beat",
+    "beef",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marrow-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E134. A MARROW PUDDING.\u003C/b\u003E\u003Cbr\u003E\nTake a penny loaf, take off the outside, then cut one half in thin slices; take the marrow of two bones, half a pound of currans well cleaned, shred your marrow, and strinkle a little marrow and currans over the dish; if you have not marrow enough you may add to it a little beef-suet shred fine; take five eggs and beat them very well, put to them three jills of milk, grate in half a nutmeg, sweeten it to your taste, mix all together, pour it over your pudding, and save a little marrow to strinkle over the top of your pudding; when you send it to the oven lye a puff-paste around the dish edge.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Marrow Pudding",
+  "usedSnapshot": "20211129115958"
+}

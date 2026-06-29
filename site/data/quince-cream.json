@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082608",
+  "finalPath": "quince-cream.html",
+  "heading": "Quince Cream",
+  "ingredients": [
+    "beat",
+    "cinnamon",
+    "cream",
+    "quince",
+    "quinces",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "quince-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Quince Cream.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the Quinces and put them into boyling water unpared, and let them boil very fast uncovered that they may not colour, and when they are very tender, take them of, and peel them, and beat the pap very small with Sugar, and then take raw cream, and mixe with it, till it be of fit thickness to eat like a cream, but if you boil the cream with a stick of Cinnamon, I thinke it be the better, but it must stand till it be cold before you put it to the Quinces.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    }
+  ],
+  "title": "Quince Cream",
+  "usedSnapshot": "20211027044909"
+}

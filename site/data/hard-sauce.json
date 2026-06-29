@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922091002",
+  "finalPath": "hard-sauce.html",
+  "heading": "Hard Sauce",
+  "ingredients": [
+    "butter",
+    "milk",
+    "sugar",
+    "beat",
+    "cream",
+    "egg",
+    "pudding",
+    "salt",
+    "vanilla",
+    "almonds",
+    "brandy",
+    "castor sugar"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "hard-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENorthampton Mercury\u003C/i\u003E\u0027 - Saturday 20 July 1889",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EHard Sauce.\u003C/b\u003E\u003C/i\u003E Rub together one cupful of butter, two cupfuls of sugar, with about one cupful of milk, add by the tablespoonful till it is all smooth as wax. This takes fully one hour. Flavour to taste.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hard-sauce.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENewcastle Courant\u003C/i\u003E\u0027 - Saturday 29 December 1894",
+      "receiptText": "[of Pear Pudding] Serve with Hard Sauce, which is made follows: Wash half a cupful of butter until the salt is nearly all out of it, then beat it cream, adding gradually a cupful powdered white sugar, and the well-whisknd white one egg- When the sauce is very light and whites flavour daintily either with little extract of vanilla, with a of wine.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hard-sauce.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 05 December 1930",
+      "receiptText": "Many people like hard sauce. Beat up a quarter of a pound of butter with the same quantity of castor sugar, then add a quarter of a pound of ground almonds. Last of all stir in three tablespoonfuls of brandy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Hard Sauce",
+  "usedSnapshot": "20211207122519"
+}

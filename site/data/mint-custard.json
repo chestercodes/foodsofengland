@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20140419181722",
+  "finalPath": "mint-custard.html",
+  "heading": "Mint Custard",
+  "ingredients": [
+    "caster sugar",
+    "cornflour",
+    "custard",
+    "milk",
+    "mint",
+    "peppermint",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mint-custard.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Mint%20Custard\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMINT CUSTARD\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n300 mls Milk\u003Cbr\u003E\n20 grms Cornflour\u003Cbr\u003E\n2 Tbsp Caster Sugar\u003Cbr\u003E\nPeppermint Extract\u003Cbr\u003E\nGreen Food Colouring\u003Cbr\u003E\n\u003Cbr\u003E\n1.Measure 300mls milk into a jug\u003Cbr\u003E\n2.In a small bowl mix together the sugar and cornflour and several tablespoons of the milk to make a smooth paste.\u003Cbr\u003E\n3.Place the milk in a pan and add the cornflour and sugar paste. Stir well to combine and slowly bring to the boil stirring all the time.\u003Cbr\u003E\n4.As the mixture thickens add the peppermint extract to taste and add the food colouring.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Mint Custard",
+  "usedSnapshot": "20211021010723"
+}

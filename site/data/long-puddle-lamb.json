@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922081745",
+  "finalPath": "long-puddle-lamb.html",
+  "heading": "Long Puddle Lamb",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Long Puddle Lamb",
+  "usedSnapshot": "20220527060120"
+}

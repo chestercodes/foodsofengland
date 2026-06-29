@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20191230063943",
+  "finalPath": "boar-s-head.html",
+  "heading": "Boar\u0027s Head",
+  "ingredients": [
+    "coriander",
+    "herbs",
+    "onions",
+    "rosemary",
+    "salt",
+    "cinnamon",
+    "currant",
+    "horse-radish",
+    "jelly",
+    "lemon",
+    "mustard",
+    "orange",
+    "oranges",
+    "port wine",
+    "seville oranges",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "boar-s-head.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\nTo dress a Hog\u0027s Head, in imitation of the Jole of a wild Boar.\u003Cbr\u003E\u003C/b\u003E\u003Cbr\u003E\nTake a Hog\u0027s Head and burn it well all over upon a clear Fire, till all the Hair is burnt to the Skin; then take a piece of Brick, and rub the Head all over as hard as possible, to grind off the Stumps of the Bristles, and finish the whole with your Knife, and then clean the Head very well; when this is done, you must take out all the Bones, opening the Head in the under Part, and beginning with the under Jaw-Bones and the Muzzle; then cleave the Head, leaving only the Skin over the Skull to hold it together: take out the Tongue and the Brains. When thus you have taken away all the Bones, stab the Flesh with the Point of your Knife in many places on the inside, without wounding the Skin, and put Salt into every Incision, then join the Head together, and tie it well together with Packthread, and then wrapping it up in a Napkin, put it in a Kettle, with a large Quantity of Water, a large Bunch of all kinds of sweet Herbs, a little Coriander and Anise-Seeds, two or three Bay Leaves, some Cloves, and two or three Nutmegs cut in pieces, and some Salt, if you think there is any wanting; add likewise two or three large Onions and a Sprig or two of Rosemary. When this has boiled half enough, pour in a Bottle of Wine, and let it boil three or four Hours longer till \u0027tis tender; for it will not be so under seven or eight Hours boiling, if the Hog be large; and if it is a Boar\u0027s Head, that has been put up for Brawn, it will take more time to boil. Being boiled enough, let it cool in the Liquor, and then take it out and untie it, and lay it in a Dish to be carry\u0027d cold to the Table, either whole or in Slices. If you will, you may salt it three or four days before you boil it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "boar-s-head.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "103. boar\u0027s HEAD SAUCE.\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E\u003Cbr\u003E\nGrate a stick of horse-radish, and place it in a basin with four ounces of red currant-jelly, a spoonful of mixed mustard, the grated rind of an orange and lemon, together with the juice of both; two ounces of pounded sugar, a tablespoonful of French vinegar, and two tablespoonsful of salad-oil; mix these ingredients thoroughly together, and serve.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E104. ANOTHER METHOD FOR MAKING BOAR\u0027S HEAD SAUCE.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPare the rind off two Seville oranges, free from any of the white pith, cut it into fine shreds, parboil this, and drain it on a sieve; then put it into a small stewpan containing the juice of the two oranges, together with one pound of red currant jelly, half a pint of port wine, and half a teaspoonful of cinnamon powder; simmer the whole together in a stewpan, and serve when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Boar\u0027s Head",
+  "usedSnapshot": "20191230063943"
+}

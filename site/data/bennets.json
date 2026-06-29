@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20150922090242",
+  "finalPath": "bennets.html",
+  "heading": "Bennets",
+  "ingredients": [
+    "butter",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bennets.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Bennets.\u003C/b\u003E\u003Cbr\u003E\nPut butter and water over the fier in a faire pain, and when it boyleth put therto fine Flower and Salte, and so let them boyle, but stir them well for brenning, and when it is wel thick, put it into an earthen pan, then break egs into it and boyle them so togither, than boyle a good quantitye of Butter clarified over the fire, and with a spoone put in your other stuffe and so frye them till they be browne, and that doone, serve them foorth with Sugar on them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bennets",
+      "relatedPageUrl": "bennets.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Common Fritters",
+      "relatedPageUrl": "common-fritters.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cryspels or Cryspes",
+      "relatedPageUrl": "cryspels-or-cryspes.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Potato Crisps",
+      "relatedPageUrl": "potato-crisps.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Pudding",
+      "relatedPageUrl": "yorkshire-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Chip-Shop Scratchings",
+      "relatedPageUrl": "chip-shop-scratchings.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Bennets",
+  "usedSnapshot": "20220321140022"
+}

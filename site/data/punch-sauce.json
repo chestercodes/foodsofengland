@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922082649",
+  "finalPath": "punch-sauce.html",
+  "heading": "Punch Sauce",
+  "ingredients": [
+    "brandy",
+    "bread",
+    "butter",
+    "custard",
+    "flour",
+    "lemon",
+    "orange",
+    "plum",
+    "puddings",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "punch-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPUNCH SAUCE FOR SWEET PUDDINGS.\u003C/b\u003E\u003Cbr\u003E\nThis may be served with custard, plain bread, and plum-puddings.\u003Cbr\u003E\nWith two ounces of sugar and a quarter of a pint of water, boil very gently the rind of half a small lemon, and somewhat less of orange-peel, from fifteen to twenty minutes; strain out the rinds, thicken the sauce with an ounce and a half of butter and nearly a teaspoonful of flour, add a half-glass of brandy, the same of white wise, two-thirds of a glass of rum, with the juice of half an orange, and rather less of lemon-juice: serve the sauce very hot, but do not allow it to boil after the spirit is stirred in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Punch Sauce",
+  "usedSnapshot": "20220517165200"
+}

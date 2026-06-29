@@ -1,0 +1,209 @@
+﻿{
+  "earliestSnapshot": "20150922071537",
+  "finalPath": "chocolate.html",
+  "heading": "Chocolate",
+  "ingredients": [
+    "beat",
+    "chocolate",
+    "cream",
+    "eggs",
+    "almonds",
+    "orange",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chocolate.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E249. To make CHOCOLATE CREAM.\u003C/b\u003E\u003Cbr\u003E\nTake four ounces of chocolate, more or less, according as you would have your dish in bigness, grate it and boil it in a pint of cream, then mill it very well with a chocolate stick; take the yolks of two eggs and beat them very well, leaving out the strain, put to them three or four spoonfuls of cream, mix them all together, set it on the fire, and keep stirring it till it thicken, but do not let it boil; you must sweeten it to your taste, and keep stirring it till it be cold, so put it into your glasses or china dishes, which you please.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chocolate.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete family-piece and country gentleman and farmer\u0027s best guide\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#family-guide-1747\u0022\u003E\u003Cb\u003EFamily Guide 1747\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Chocolate Almonds\u003C/b\u003E\u003Cbr\u003E\nTake a Pound of Chocolate finely grated and a Pound and half of the best Sugar, finely sifted, then soak Gum traganth [E413] and Orange flower water and work them into what form you please. The Paste must be stiff. Dry them in a Stove.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "After Dinner Mints",
+      "relatedPageUrl": "after-dinner-mints.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Black Forest Gateau",
+      "relatedPageUrl": "black-forest-gateau.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Bourbon Cream",
+      "relatedPageUrl": "bourbon-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Caramel Squares",
+      "relatedPageUrl": "caramel-squares.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chaculato",
+      "relatedPageUrl": "chaculato.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate",
+      "relatedPageUrl": "chocolate.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate and Orange Cake",
+      "relatedPageUrl": "chocolate-and-orange-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Concrete",
+      "relatedPageUrl": "chocolate-concrete.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Custard Pudding",
+      "relatedPageUrl": "chocolate-custard-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Easter Eggs",
+      "relatedPageUrl": "chocolate-easter-eggs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Eclair Pastries",
+      "relatedPageUrl": "chocolate-eclair-pastries.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Eclair Sweets",
+      "relatedPageUrl": "chocolate-eclair-sweets.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Fudge",
+      "relatedPageUrl": "chocolate-fudge.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Fudge Pudding",
+      "relatedPageUrl": "chocolate-fudge-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Pudding",
+      "relatedPageUrl": "chocolate-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Chocolate Truffles",
+      "relatedPageUrl": "chocolate-truffles.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Christmas Log",
+      "relatedPageUrl": "christmas-log.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cornflake Cakes",
+      "relatedPageUrl": "cornflake-cakes.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Creme Eggs",
+      "relatedPageUrl": "creme-eggs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Devil\u0027s Food Cake",
+      "relatedPageUrl": "devil-s-food-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Digestive Biscuits",
+      "relatedPageUrl": "digestive-biscuits.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Drinking Chocolate",
+      "relatedPageUrl": "drinking-chocolate.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Fudge",
+      "relatedPageUrl": "fudge.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ice Cream",
+      "relatedPageUrl": "ice-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Kendal Mint Cake",
+      "relatedPageUrl": "kendal-mint-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Knickerbocker Glory",
+      "relatedPageUrl": "knickerbocker-glory.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Mars Bar",
+      "relatedPageUrl": "mars-bar.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Ninety-Nine Ice Cream",
+      "relatedPageUrl": "ninety-nine-ice-cream.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Puddle Pudding",
+      "relatedPageUrl": "puddle-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Refrigerator Cake",
+      "relatedPageUrl": "refrigerator-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Scott\u0027s Last Expedition",
+      "relatedPageUrl": "scott-s-last-expedition.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    }
+  ],
+  "title": "Chocolate",
+  "usedSnapshot": "20220531103448"
+}

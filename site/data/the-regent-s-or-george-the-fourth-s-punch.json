@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922132731",
+  "finalPath": "the-regent-s-or-george-the-fourth-s-punch.html",
+  "heading": "The Regent\u0027s, or George The Fourth\u0027s, Punch",
+  "ingredients": [
+    "apple",
+    "brandy",
+    "champagne",
+    "cognac",
+    "jamaica rum",
+    "lemons",
+    "orange",
+    "oranges",
+    "seville orange",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "the-regent-s-or-george-the-fourth-s-punch.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EThe Regent\u0027s, Or George The Fourth\u0027s, Punch.\u003C/b\u003E\u003Cbr\u003E\nPare as thin as possible the rinds of two China oranges, of two lemons, and of one Seville orange, and infuse them for an hour in half a pint of thin cold syrup; then add to them the juice of the fruit. Make a pint of strong green tea, sweeten it well with fine sugar, and when it is quite cold, add it to the fruit and syrup, with a glass of the best old Jamaica rum, a glass of brandy, one of arrack, one of pine-apple syrup, and two bottles of champagne; pass the whole through a fine lawn sieve until it is perfectly clear, then bottle, and put it into ice until dinner is served. We are indebted for this receipt to a person who made the punch daily for the prince\u0027s table, at Carlton palace, for six months; it has been in our possession some years, and may be relied on.\u003Cbr\u003E\n\u003Cbr\u003E\nRinds and juice of 2 China oranges, 2 lemons, and of 1 Seville orange; syrup, 1 pint; strong green tea, sweetened, 1 pint; best old Jamaica rum, arrack, French brandy (vieux cognac), and pineapple syrup, each 1 glassful; champagne, 2 bottles. In ice for a couple of hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "The Regent\u0027s, or George The Fourth\u0027s, Punch",
+  "usedSnapshot": "20210510054411"
+}

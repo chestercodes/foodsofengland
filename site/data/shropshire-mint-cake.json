@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922071726",
+  "finalPath": "shropshire-mint-cake.html",
+  "heading": "Shropshire Mint Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "castor sugar",
+    "currants",
+    "egg",
+    "green mint",
+    "mint",
+    "pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "shropshire-mint-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Burra Record\u003C/i\u003E\u0027 (Australia), April 24th 1935",
+      "receiptText": "\u003Cb\u003ETWO OLD ENGLISH CAKES.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nShropshire Mint Cakes. \u2014 This is a real English countryside cake, and I am sure you will be delighted with it. First, we make the fillings: To twelve ounces of currants allow one and a half tablespoonsful of chopped green mint (use the young tops if possible), two ounces of candied peel which should be chopped finely, and a quarter of a pound of castor sugar. Add one newly-laid egg. Mix the sugar, peel and mint with the butter, using a fork. Next beat up the egg. Have some flaky pastry ready and cut it into rounds. Put a little of the mint mixture on each round, then draw the edges of the pastry together, turn over and flat ten slightly, so that the round cakes arc made. Brush over with beaten egg, set in a hot oven on a floured baking sheet and bake for 15 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\n[2nd receipt is for the similar \u003Ca href=\u0022westmorland-currant-pasty.html\u0022\u003E\u003Cb\u003EWestmorland Pasties\u003C/b\u003E\u003C/a\u003E]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Shropshire Mint Cake",
+  "usedSnapshot": "20220809204020"
+}

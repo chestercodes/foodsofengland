@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922082113",
+  "finalPath": "currant-dumplings.html",
+  "heading": "Currant Dumplings",
+  "ingredients": [
+    "currant",
+    "currants",
+    "dumplings",
+    "flour",
+    "milk",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "currant-dumplings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ELIGHT CURRANT DUMPLINGS.\u003C/b\u003E\u003Cbr\u003E\nFor each dumpling take three tablespoonsful of flour, two of finely- minced suet, and three of currants, a slight pinch of salt, and as much milk or water as will make a very thick batter of the ingredients. Tie the dumplings in well-floured cloths, and boil them for a full hour: they may be served with \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003Every sweet wine sauce\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Currant Dumplings",
+  "usedSnapshot": "20220808003513"
+}

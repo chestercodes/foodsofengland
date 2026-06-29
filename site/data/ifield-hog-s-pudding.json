@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140125041448",
+  "finalPath": "ifield-hog-s-pudding.html",
+  "heading": "Ifield Hog\u0027s Pudding",
+  "ingredients": [
+    "allspice",
+    "baking powder",
+    "currants",
+    "egg",
+    "flour",
+    "lard",
+    "pork",
+    "pudding"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ifield-hog-s-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Ifield%20Hog\u0027s%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "(with thanks to Linda Johnson)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIfield Vicarage Hog\u0027s Pudding\u003C/b\u003E\u003Cbr\u003E\n1 lb pork\u003Cbr\u003E\n1 lb currants\u003Cbr\u003E\nA little baking powder\u003Cbr\u003E\nSome sausage skins\u003Cbr\u003E\n1\u00BD lbs flour\u003Cbr\u003E\n1 lb lard\u003Cbr\u003E\nA little allspice\u003Cbr\u003E\n\u003Cbr\u003E\nCut the meat into small pieces and put on to boil gently for about 1 hour. Mix the flour with the meat, currants and spice and rub in the lard. Fill sausage skins and tie up in bunches. Prick the sausages with a fork and drop into boiling water. Boil them for l\u00BD hours. Take out and hang up to dry. They will snap when broken in two. Hog\u0027s Pudding is usually the size of an egg and irregular in shape and is generally eaten as a savoury either hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Hog\u0027s Pudding - Westcountry Version",
+      "relatedPageUrl": "westcountry-hog-s-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Ifield Hog\u0027s Pudding",
+  "usedSnapshot": "20210518193323"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20121024084728",
+  "finalPath": "wigan-slappy.html",
+  "heading": "Wigan Slappy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Wigan Slappy",
+  "usedSnapshot": "20220527055554"
+}

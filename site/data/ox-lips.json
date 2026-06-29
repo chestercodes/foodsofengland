@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922100116",
+  "finalPath": "ox-lips.html",
+  "heading": "Ox Lips",
+  "ingredients": [
+    "chicken",
+    "gravy",
+    "lemon",
+    "mushrooms",
+    "rabbits",
+    "truffles"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ox-lips.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E10. To dress OX LIPS.\u003C/b\u003E\u003Cbr\u003E\nTake three or four ox lips, boil them as tender as possible, dress them clean the day before they are used; then make a rich forc\u0027d-meat of chicken or half-roasted rabbits, and stuff the lips with it; they will naturally turn round; tie them up with pack-thread and put them into gravy to stew; they must stew while the forc\u0027d-meat be enough. Serve them up with truffles, morels, mushrooms, cockscombs, forc\u0027d-meat balls, and a little lemon to your taste.\u003Cbr\u003E\nThis is a top-dish for second, or side dish for first course.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Ox Lips",
+  "usedSnapshot": "20220517173544"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922084448",
+  "finalPath": "durham-fluffin.html",
+  "heading": "Durham Fluffin",
+  "ingredients": [
+    "barley",
+    "brandy",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "durham-fluffin.html-1",
+      "receiptSource": "Original Receipt (with thanks to Dennis Jenner) from Joe Curley, master-cook at Simpsons-in-the-Strand, reported in \u003Ci\u003EThe Sunday Times Magazine\u003C/i\u003E c1979",
+      "receiptText": "\u003Cb\u003EDurham Fluffin\u003C/b\u003E\u003Cbr\u003E\nA milk pudding which looks suspiciously like sago pudding, but tastes like something else.\u003Cbr\u003E\n\u003Cbr\u003E\nYou need: 1oz. Pearl barley (soaked overnight in water)\u003Cbr\u003E\n1 pint milk,\u003Cbr\u003E\n2 oz. sugar,\u003Cbr\u003E\nI teaspoon grated nutmeg,\u003Cbr\u003E\na few drops of brandy.\u003Cbr\u003E\n\u003Cbr\u003E\nSimmer the barley in the milk till it is smooth (about 30 minutes; four hours if you haven\u0027t soaked it first). Add nutmeg, sugar and brandy. Serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Durham Fluffin",
+  "usedSnapshot": "20200808111320"
+}

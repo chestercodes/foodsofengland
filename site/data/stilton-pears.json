@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922075032",
+  "finalPath": "stilton-pears.html",
+  "heading": "Stilton Pears",
+  "ingredients": [
+    "cheese",
+    "cheeses",
+    "cream",
+    "lemon",
+    "lemon juice",
+    "mayonnaise",
+    "mustard",
+    "mustard powder",
+    "pears",
+    "sugar",
+    "sunflower oil"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stilton-pears.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Stilton%20Pears\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "2 dessert pears, large, ripe but firm, cored\u003Cbr\u003E\n2 tablespoon lemon juice\u003Cbr\u003E\n3 oz Stilton cheese\u003Cbr\u003E\n2 oz curd cheese\u003Cbr\u003E\n2 tablespoon sunflower oil\u003Cbr\u003E\n1 tablespoon mayonnaise\u003Cbr\u003E\nPinch mustard powder\u003Cbr\u003E\nPinch sugar\u003Cbr\u003E\n1 teaspoon poppy seeds\u003Cbr\u003E\n\u003Cbr\u003E\nSprinkle the cavities in the pears with 1 tablespoon of the lemon juice. Cream together the two cheeses. Press as much as possible into the cavities, cover and chill until required. Just before serving, whisk the oil, mayonnaise, remaining lemon juice, mustard, sugar and poppy seeds together. Spoon onto 4 plates. Cut each pear in half lengthways, then slice, fan out and arrange, cut side down in the dressing.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Cobs",
+      "relatedPageUrl": "apple-cobs.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "East Anglian Apple Dumplings",
+      "relatedPageUrl": "east-anglian-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Hereford Apple Dumplings",
+      "relatedPageUrl": "hereford-apple-dumplings.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Stilton Pears",
+      "relatedPageUrl": "stilton-pears.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stilton Pears",
+  "usedSnapshot": "20211018080151"
+}

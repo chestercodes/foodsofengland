@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130808235935",
+  "finalPath": "toad-in-a-hole-biscuits.html",
+  "heading": "Toad in a Hole Biscuits",
+  "ingredients": [
+    "almonds",
+    "biscuits",
+    "cherries",
+    "eggs",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "toad-in-a-hole-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Confectioner\u003C/i\u003E\u0027 by Frederick Nutt, 1789 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "No. 11. Toad-in-a-Hole Biscuits.\u003Cbr\u003E\n\u003Cbr\u003E\nTAKE one pound of sweet, and one ounce and a half of bitter almonds, and pound them in a mortar very fine with water, then one pound and a quarter of Lisbon sugar, and mix it very well with the almonds: do not make it too thin, and remember there are no eggs in this; then put one sheet of paper on your wire, and some wafer paper on that, then take a spoon and make your biscuits round on the wafer paper, about the size of a half-crown piece; then put one or two dried cherries in the middle of them; and sift some powdered sugar over them, and put them in the oven, which must have a moderate heat, and when they come out, cut the wafer paper round them, but leave the paper at the bottom of them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Toad in a Hole Biscuits",
+  "usedSnapshot": "20210518205846"
+}

@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922092602",
+  "finalPath": "norfolk-punch.html",
+  "heading": "Norfolk Punch",
+  "ingredients": [
+    "brandy",
+    "jelly",
+    "lemons",
+    "milk",
+    "oranges",
+    "seville oranges",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-punch.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "NORFOLK PUNCH. To make a relishing liquor that will keep many years, and improve by age, put the peels of thirty lemons and thirty oranges into twenty quarts of French brandy. The fruit must be pared so thin and carefully, that not the least of the white is left. Let it infuse twelve hours. Prepare thirty quarts of cold water that has been boiled, put to it fifteen pounds of double-refined sugar, and when well incorporated, pour it upon the brandy and peels, adding the juice of the oranges and of twenty-four lemons. Mix them well, strain the liquor through a fine hair sieve, into a very clean cask, that has held spirits, and add two quarts of new milk. Stir the liquor, then bung it down close, and let it stand six weeks in a warm cellar. Bottle off the liquor, but take care that the bottles be perfectly clean and dry, the corks of the best quality, and well put in. Of course a smaller quantity of this punch may be made, by observing only the above proportions.\u003Cbr\u003E\n\u003Cbr\u003E\nAnother way. Pare six lemons and three Seville oranges very thin, squeeze the juice into a large teapot, put to it three quarts of brandy, one of white wine, one of milk, and a pound and a quarter of lump sugar. Let it be well mixed, and then covered for twenty-four hours. Strain it through a jelly bag till quite clear, and then bottle it off.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "farley-1811"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Norfolk Punch",
+  "usedSnapshot": "20200108134909"
+}

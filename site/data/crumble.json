@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20141025023101",
+  "finalPath": "crumble.html",
+  "heading": "Crumble",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Brown Betty",
+      "relatedPageUrl": "brown-betty.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Crumble",
+  "usedSnapshot": "20220122181419"
+}

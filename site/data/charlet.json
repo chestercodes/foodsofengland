@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130323041850",
+  "finalPath": "charlet.html",
+  "heading": "Charlet",
+  "ingredients": [
+    "ale",
+    "eggs"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "charlet.html-1",
+      "receiptSource": "Original Receipt in the verse cookery book \u0027\u003Ci\u003ELiber Cure Cocorum\u003C/i\u003E\u0027, 1430 (\u003Ca href=\u0022references.html#liber-cure-1430\u0022\u003E\u003Cb\u003ELiber Cure 1430\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECharlet.\u003C/b\u003E\u003Cbr\u003E\nTake swettest mylke, that thou may have,\u003Cbr\u003E\nColour it with safron, so God the save;\u003Cbr\u003E\nTake fresshe porke and sethe it well,\u003Cbr\u003E\nAnd hew it smalle every dele;\u003Cbr\u003E\nSwyng eggs, and do there to;\u003Cbr\u003E\nSet it over the fyre, then\u003Cbr\u003E\nBoyle it and sture lest it brenne;\u003Cbr\u003E\nWhenne it welles up, thou schalt it kele\u003Cbr\u003E\nWith a litel ale, so have thou cele;\u003Cbr\u003E\nWhen it is inowe, thou sett it doune,\u003Cbr\u003E\nAnd kepe it lest it be to broune.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    }
+  ],
+  "title": "Charlet",
+  "usedSnapshot": "20211020233141"
+}

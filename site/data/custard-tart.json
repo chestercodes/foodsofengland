@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20131219233437",
+  "finalPath": "custard-tart.html",
+  "heading": "Custard Tart",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "butter",
+    "chocolate",
+    "cream",
+    "custard",
+    "eggs",
+    "flour",
+    "jelly",
+    "lemon",
+    "milk",
+    "sugar",
+    "vanilla"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "custard-tart.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EFANCHONNETTES, or CUSTARD TARTLETS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1315. INGREDIENTS. - For the custard, 4 eggs, \u00BE pint of milk, 2 oz. of butter, 2 oz. of pounded sugar, 3 dessertspoonfuls of flour, flavouring to taste;\u0026nbsp;\u0026nbsp;\u0026nbsp;the whites of 2 eggs, 2 oz. of pounded sugar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Well beat the eggs; stir to them the milk, the butter, which should be beaten to a cream, the sugar, and flour; mix these ingredients well\u0026nbsp;\u0026nbsp;\u0026nbsp;together, put them into a very clean saucepan, and bring them to the simmering point, but do not allow them to boil. Flavour with essence of vanilla, bitter\u0026nbsp;\u0026nbsp;\u0026nbsp;almonds, lemon, grated chocolate, or any flavouring ingredient that may be preferred. Line some round tartlet-pans with good puff-paste; fill them with the\u0026nbsp;\u0026nbsp;\u0026nbsp;custard, and bake in a moderate oven for about 20 minutes; then take them out of the pans; let them cool, and in the mean time whisk the whites of the eggs\u0026nbsp;\u0026nbsp;\u0026nbsp;to a stiff froth; stir into this the pounded sugar, and spread smoothly over the tartlets a little of this mixture. Put them in the oven again to set the\u0026nbsp;\u0026nbsp;\u0026nbsp;icing, but be particular that they do not scorch: when the icing looks crisp, they are done. Arrange them, piled high in the centre, on a white napkin, and garnish the dish, and in between the tartlets, with strips of bright jelly, or very firmly-made preserve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - 20 minutes to bake the tartlets; 5 minutes after being iced.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, exclusive of the paste, 1s.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E to fill 10 or 12 tartlets.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E at any time.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E. - The icing may be omitted on the top of the tartlets, and a spoonful of any kind of preserve put at the bottom of the custard instead: this\u0026nbsp;\u0026nbsp;\u0026nbsp;varies both the flavour and appearance of this dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crustardes",
+      "relatedPageUrl": "crustard-of-flessh.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Custard Tart",
+  "usedSnapshot": "20211201035807"
+}

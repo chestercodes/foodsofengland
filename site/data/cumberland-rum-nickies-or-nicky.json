@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212024721",
+  "finalPath": "cumberland-rum-nickies-or-nicky.html",
+  "heading": "Cumberland Rum Nickies (or Nicky)",
+  "ingredients": [
+    "beat",
+    "butter",
+    "caster sugar",
+    "creme fraiche",
+    "dates",
+    "ginger",
+    "pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cumberland-rum-nickies-or-nicky.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.lake-district-guides.co.uk\u0022\u003E\u003Cb\u003Elake-district-guides.co.uk\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ECUMBERLAND RUM NICKY\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EIngredients:\u003C/i\u003E\u003Cbr\u003E\n6 ozs (170g) rich short pastry, 1 oz (28g) preserved ginger, \u00BD oz (14g) caster sugar, 2 oz (54g) chopped dates, 1 oz (28g) butter, 1 tablespoon rum\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod:\u003C/i\u003E\u003Cbr\u003E\nLine a buttered pie plate with half the pastry and cover with the dates and ginger.\u003Cbr\u003E\nBeat the butter, sugar and rum and pour over the filling.\u003Cbr\u003E\nCover with the remaining pastry and bake in a moderately hot oven for 10-15 minutes.\u003Cbr\u003E\nThen turn down the heat and bake for approximately 30 minutes.\u003Cbr\u003E\nServe with creme fraiche.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cumberland Rum Nickies (or Nicky)",
+  "usedSnapshot": "20210620014456"
+}

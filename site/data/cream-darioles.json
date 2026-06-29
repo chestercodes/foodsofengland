@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808231728",
+  "finalPath": "cream-darioles.html",
+  "heading": "Cream Darioles",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Cream Darioles",
+  "usedSnapshot": "20211201033615"
+}

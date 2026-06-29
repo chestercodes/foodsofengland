@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073529",
+  "finalPath": "fruit-chips.html",
+  "heading": "Fruit Chips",
+  "ingredients": [
+    "lemon",
+    "orange",
+    "oranges",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fruit-chips.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003E\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E By Prof. R Bradley, 1728\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ETo make Orange-Chips.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake some fresh Oranges about February, and pare them very thin; they are then very cheap. Boil them in several Waters till they are tender, and have lost their Bitterness; then put them into cold Water for twelve Hours or more. Then make a Syrup for them in the following manner. Take about their weight of fine Sugar powder\u0027d, and mix it with as much Water as it will take in, or a little more. Boil this, and scum it well; then drain the Orange-Peels from the Water they were steep\u0027d in, and put them in a glaz\u0027d earthen Vessel, and then pour the boiling hot Syrup upon them, letting them remain so till the Day following; then pour the Syrup from them, and boil it afresh, and pour it on a second time, and repeat the same work till your Peels are very clear, and the Syrup very thick; and then dry them in a Stove, and they will be fit for use, in the Condition we buy them. One may candy Lemon-Chips after the same manner.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPotato Chips\u003C/b\u003E",
+      "relatedPageUrl": "potato-chips.html",
+      "relationDescription": "For the modern usage, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Fruit Chips",
+  "usedSnapshot": "20220527212138"
+}

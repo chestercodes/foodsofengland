@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922080708",
+  "finalPath": "lady-westmorland-s-soup.html",
+  "heading": "Lady Westmorland\u0027s Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Lady Westmorland\u0027s Soup",
+  "usedSnapshot": "20220517184210"
+}

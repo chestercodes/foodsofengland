@@ -1,0 +1,18 @@
+﻿{
+  "earliestSnapshot": "20201201151925",
+  "finalPath": "donate.html",
+  "heading": "Donate",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Donate",
+  "usedSnapshot": "20220103233747"
+}

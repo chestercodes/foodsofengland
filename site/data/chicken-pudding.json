@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212020518",
+  "finalPath": "chicken-pudding.html",
+  "heading": "Chicken Pudding",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "cream",
+    "mushroom",
+    "pepper",
+    "pudding",
+    "rice",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chicken-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDressed Game And Poultry \u00E0 La Mode\u003C/i\u003E\u0027 by Mrs De Salis, 1888",
+      "receiptText": "\u003Cb\u003EChicken Pudding \u00E0 la Reine.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the meat from a cold fowl and pound it in a mortar, after removing the skin and sinews. Boil in light stock a couple of good tablespoonfuls of rice. When it is done and has soaked up the rice, add the pounded chicken to it, with a gill of cream, pepper, and salt. If not moist enough, add a little more cream. Butter a plain mould, fill it with the rice and chicken, tie a pudding cloth [Pg 8] closely over, and put the mould into a stewpan of hot water to boil for an hour. The water should only reach about three-quarters up the mould. When done, turn it out and serve a good white mushroom sauce round it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Chicken Pudding",
+  "usedSnapshot": "20220527231110"
+}

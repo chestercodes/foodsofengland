@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922132836",
+  "finalPath": "burnet-wine.html",
+  "heading": "Burnet Wine",
+  "ingredients": [
+    "ginger",
+    "lemons",
+    "oranges",
+    "sugar",
+    "toast",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "burnet-wine.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ENottingham Evening Post\u003C/i\u003E\u0027 - Wednesday 03 July 1935",
+      "receiptText": "\u003Cb\u003EWine.\u003C/b\u003E\u2014 To make Burnet Wine: Put 2 quarts of Burnet flowers, pressed down, and 41b. sugar, gallon boiling water, add juice of 2 oranges and 2 lemons, a few cloves, and an oz. crushed ginger suspended in tho liquor in a muslin bag. When cool, add a piece toast spread with an oz. of yeast, leave 7 days, stirring daily; put in cask and bung lightly. When fermentation has ceased, cork firmly: bottle after three months.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Burnet Wine",
+  "usedSnapshot": "20220810041236"
+}

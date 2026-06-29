@@ -1,0 +1,96 @@
+﻿{
+  "earliestSnapshot": "20140312043012",
+  "finalPath": "barberries.html",
+  "heading": "Barberries",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Snow",
+      "relatedPageUrl": "apple-snow.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Barberry Drops",
+      "relatedPageUrl": "barberry-drops.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Barberry Preserve",
+      "relatedPageUrl": "barberry-preserve.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fricassee of Sheep Trotters",
+      "relatedPageUrl": "fricassee-of-sheep-trotters.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Giblets with Herbs",
+      "relatedPageUrl": "giblets-with-herbs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Hen with Oysters",
+      "relatedPageUrl": "hen-with-oysters.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Her Majesty\u0027s Pudding",
+      "relatedPageUrl": "her-majesty-s-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Liverings or Leveredge",
+      "relatedPageUrl": "liverings-or-leveredge.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lumber Pie or Lombard Pie",
+      "relatedPageUrl": "lumber-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Salad All-Sorts",
+      "relatedPageUrl": "salad-all-sorts.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sussex Pond Pudding",
+      "relatedPageUrl": "sussex-pond-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Barberry Tarts",
+      "relatedPageUrl": "barberry-tarts.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Barberries",
+  "usedSnapshot": "20220808015941"
+}

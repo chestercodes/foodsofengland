@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20130323042416",
+  "finalPath": "sweet-omelette.html",
+  "heading": "Sweet Omelette",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "milk",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sweet-omelette.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E314. Sweet Omelettes\u003C/b\u003E. - Beat four eggs into a basin, add a tablespoonful of milk, a teaspoonful of sugar, a pinch of salt, and beat them well up; put some nice butter into pan, put in the eggs, and fry as before described. Serve with sugar sifted over.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFriars Omelette\u003C/b\u003E",
+      "relatedPageUrl": "friar-s-omelette.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EVaunt\u003C/b\u003E",
+      "relatedPageUrl": "vaunt.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Sweet Omelette",
+  "usedSnapshot": "20220527220506"
+}

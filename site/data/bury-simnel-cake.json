@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20130317102245",
+  "finalPath": "bury-simnel-cake.html",
+  "heading": "Bury Simnel Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Simnel Bread",
+      "relatedPageUrl": "simnel-bread.html",
+      "relationDescription": "For general background to the Simnel Tradition, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Bury Simnel Cake",
+  "usedSnapshot": "20211224051631"
+}

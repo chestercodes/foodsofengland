@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072946",
+  "finalPath": "chocolate-eclair-sweets.html",
+  "heading": "Chocolate Eclair Sweets",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EChocolate Eclair Pastries\u003C/b\u003E",
+      "relatedPageUrl": "chocolate-eclair-pastries.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chocolate Eclair Sweets",
+  "usedSnapshot": "20180924035349"
+}

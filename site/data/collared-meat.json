@@ -1,0 +1,37 @@
+﻿{
+  "earliestSnapshot": "20130324050557",
+  "finalPath": "collared-meat.html",
+  "heading": "Collared Meat",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECollared Eels\u003C/b\u003E",
+      "relatedPageUrl": "collared-eels.html",
+      "relationDescription": "See, for example, "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EManchester Collared Pork\u003C/b\u003E",
+      "relatedPageUrl": "manchester-collared-pork.html",
+      "relationDescription": "See, for example, "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Collared Meat",
+  "usedSnapshot": "20211201040803"
+}

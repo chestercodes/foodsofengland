@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20140105053439",
+  "finalPath": "cornish-burnt-cream.html",
+  "heading": "Cornish Burnt Cream",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Cornish Burnt Cream",
+  "usedSnapshot": "20211019184937"
+}

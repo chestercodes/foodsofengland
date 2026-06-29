@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140428080600",
+  "finalPath": "empire-biscuits.html",
+  "heading": "Empire Biscuits",
+  "ingredients": [
+    "biscuit",
+    "biscuits",
+    "cinnamon",
+    "flour",
+    "jam",
+    "margarine",
+    "orange",
+    "orange juice",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "empire-biscuits.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWestern Daily Press\u003C/i\u003E\u0027 - Saturday 30 June 1928, p11",
+      "receiptText": "\u003Cb\u003EEmpire Biscuits.\u003C/b\u003E Take six ozs. flour, ozs. margarine, 1 teaspoonful ground cinnamon. 1 table spoon syrup, and a pinch of salt. Mix the dry ingredients. Heat the syrup and mix to stiff paste. \u0022Roll out quite thinly and cut into rounds with a fancy cutter. Place on a baking tin and prick each biscuit with a fork. Bake in a moderate oven from 10 to 15 minutes until pale brown colour. When cold, place two biscuits together with a drop of jam between, and ice same as orange sandwich, only using warm water instead of the orange juice. Sprinkle the tops with a little pink sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Empire Biscuits",
+  "usedSnapshot": "20191228091034"
+}

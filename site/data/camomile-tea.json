@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922072225",
+  "finalPath": "camomile-tea.html",
+  "heading": "Camomile Tea",
+  "ingredients": [
+    "ginger",
+    "honey",
+    "liver",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "camomile-tea.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 210. CAMOMILE TEA.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPut about thirty flowers into a jug, pour a pint of boiling water upon them, cover up the tea, and when it has stood about ten minutes, pour it off from the flowers into another jug; sweeten with sugar or honey; drink a tea-cupful of it fasting in the morning to strengthen the digestive organs, and restore the liver to healthier action. A tea-cupful of camomile tea, in which is stirred a large dessert-spoonful of moist sugar, and a little grated ginger, is an excellent thing to administer to aged people a couple of hours before their dinner.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EChamomile Tea\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Camomile Tea",
+  "usedSnapshot": "20220810043500"
+}

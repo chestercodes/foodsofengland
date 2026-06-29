@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20130323151159",
+  "finalPath": "hackin-or-hack-pudding.html",
+  "heading": "Hackin or Hack Pudding",
+  "ingredients": [
+    "beef",
+    "eggs",
+    "lemon",
+    "milk",
+    "oat-meal",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hackin-or-hack-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Hackin. From a Gentleman in Cumberland.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSir,\u003Cbr\u003E\n\u003Cbr\u003E\nThere are some Counties in England, whose Customs are never to be set aside; and our Friends in Cumberland, as well as some of our Neighbours in Lancashire, and else-where, keep them up. It is a Custom with us every Christmas -Day in the Morning, to have, what we call an Hackin, for the Breakfast of the young Men who work about our House; and if this Dish is not dressed by that time it is Day-light, the Maid is led through the Town, between two Men, as fast as they can run with her, up Hill and down Hill, which she accounts a great shame. But as for the Receipt to make this Hackin, which is admired so much by us, it is as follows.\u003Cbr\u003E\n\u003Cbr\u003E\nTake the Bag or Paunch of a Calf, and wash it, and clean it well with Water and Salt; then take some Beef-Suet, and shred it small, and shred some Apples, after they are pared and cored, very small. Then put in some Sugar, and some Spice beaten small, a little Lemon-Peel cut very fine, and a little Salt, and a good quantity of Grots, or whole Oat-meal, steep\u0027d a Night in Milk; then mix these all together, and add as many Currans pick\u0027d clean from the Stalks, and rubb\u0027d in a coarse Cloth; but let them not be wash\u0027d. And when you have all ready, mix them together, and put them into the Calf\u0027s-Bag, and tye them up, and boil them till they are enough. You may, if you will, mix up with the whole, some Eggs beaten, which will help to bind it. This is our Custom to have ready, at the opening of the Doors, on Christmas -Day in the Morning. It is esteem\u0027d here; but all that I can say to you of it, is, that it eats somewhat like a Christmas -Pye, or is somewhat like that boil\u0027d. I had forgot to say, that with the rest of the Ingredients, there should be some Lean of tender Beef minced small.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHaggis\u003C/b\u003E",
+      "relatedPageUrl": "haggis.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EChristmas pottage\u003C/b\u003E",
+      "relatedPageUrl": "christmas-pottage.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Hackin or Hack Pudding",
+  "usedSnapshot": "20211019122420"
+}

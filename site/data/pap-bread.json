@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922090109",
+  "finalPath": "pap-bread.html",
+  "heading": "Pap Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pap",
+      "relatedPageUrl": "pap.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pap Bread",
+  "usedSnapshot": "20170314145445"
+}

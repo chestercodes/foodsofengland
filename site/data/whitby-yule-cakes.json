@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922084616",
+  "finalPath": "whitby-yule-cakes.html",
+  "heading": "Whitby Yule Cakes",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "brandy",
+    "brown sugar",
+    "butter",
+    "cinnamon",
+    "cream",
+    "currants",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "plain flour",
+    "raisins",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "whitby-yule-cakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Whitby%20Yule%20Cakes\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWHITBY YULE CAKES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: -\u003Cbr\u003E\n1\u00BD lbs. plain flour; 12 ounces butter; 8 ounces brown sugar; \u00BD an ounce cinnamon; \u00BD a nutmeg, grated; a little cream; 8 ounces raisins; 8 ounces currants; candied lemon peel and almonds; 3 eggs; a glass brandy.\u003Cbr\u003E\n\u003Cbr\u003E\nRub the butter into the flour and add the dry ingredients. Beat the eggs with brandy and add to the dry ingredients; mix well with a little cream to make a stiff dough. Press into a flat tin and bake in a moderate oven for 3 hours. Turn on to a wire tray and break into rough pieces when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Whitby Yule Cakes",
+  "usedSnapshot": "20211019171903"
+}

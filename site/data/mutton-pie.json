@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212191923",
+  "finalPath": "mutton-pie.html",
+  "heading": "Mutton Pie",
+  "ingredients": [
+    "fat",
+    "mutton",
+    "pepper",
+    "salt",
+    "steaks"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mutton-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027The Art of Cookery, Made Plain and Easy\u0027\u003C/i\u003E By Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a mutton pye.\u003C/b\u003E\u003Cbr\u003E\nTAKE a loin of mutton, take off the skin and fat of the inside, cut it into steaks, season it well with pepper and salt to your palate. Lay it into your crust, fill it, pour in as much water as will almost fill the dish; then put on the crust, and bake it well.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pies"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Mutton Pie",
+  "usedSnapshot": "20211019172741"
+}

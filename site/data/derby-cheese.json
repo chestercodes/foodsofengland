@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616085354",
+  "finalPath": "derby-cheese.html",
+  "heading": "Derby Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "possibly-extinct"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Derby Cheese",
+  "usedSnapshot": "20211205163211"
+}

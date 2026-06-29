@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140212021309",
+  "finalPath": "cheese-and-onion-oat-flan.html",
+  "heading": "Cheese and Onion Oat Flan",
+  "ingredients": [
+    "bread",
+    "cheddar",
+    "cheese",
+    "eggs",
+    "flan",
+    "flour",
+    "margarine",
+    "milk",
+    "oatmeal",
+    "onion",
+    "onions",
+    "pastry",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheese-and-onion-oat-flan.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Sainsbury Book of Wholefood Cooking\u003C/i\u003E\u0027 by Carole Handslip, Cathay books, 1981 p25 (with thanks to Jane Salih)",
+      "receiptText": "\u003Cb\u003ECheese and Onion Oat Flan\u003C/b\u003E\u003Cbr\u003E\nOAT PASTRY:\u003Cbr\u003E\n125g (4 oz) wholemeal .flour\u003Cbr\u003E\n125g (4 oz) medium oatatmeal\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n125g (4 oz) margarine\u003Cbr\u003E\n2-3 tablespoons water\u003Cbr\u003E\nFILLING\u003Cbr\u003E\n2 tablespoons oil\u003Cbr\u003E\n2 onions, chopped\u003Cbr\u003E\n2 Eggs\u003Cbr\u003E\n150 ml (1/4 pint) milk\u003Cbr\u003E\n250g (8 oz) Cheddar cheese, grated\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n\u003Cbr\u003E\nPlace the flour, oatmeal and salt in a mixing bowl and rub in the margarine until the mixture resembles bread- crumbs. Add the water and mix to a firm dough. Turn onto a floured surface and knead lightly until smooth. Roll out and use to line a 20cm (8 inch) flan dish. Chill for 15 minutes.\u003Cbr\u003E\nMeanwhile, make the filling. Heat the oil in a pan, add the onions and fry gently until transparent. Mix the eggs and milk together, then stir in the cheese, onions, and salt and pepper to taste.\u003Cbr\u003E\nPour into the flan case and bake in a preheated moderately hot oven, 190C (375F, Gas Mark 5). for 35 to 40 minutes. Serve hot or cold, with salad.\u003Cbr\u003E\nServes 4\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECheese and Onion Oat\u003C/b\u003E",
+      "relatedPageUrl": "cheese-and-onion-oat.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Cheese and Onion Oat Flan",
+  "usedSnapshot": "20220815155921"
+}

@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20140829085813",
+  "finalPath": "spotted-dick.html",
+  "heading": "Spotted Dick",
+  "ingredients": [
+    "beef",
+    "butter",
+    "cinnamon",
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "suet",
+    "sugar",
+    "brown sugar",
+    "plum",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "spotted-dick.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E339. Spotted Dick.-\u003C/b\u003E Put three-quarters of a pound of flour into a basin, half a pound of beef suet, half ditto of currants, two ounces of sugar, a little cinnamon, mix with two eggs and two gills of milk; boil in either mould or cloth for one hour and a half; serve with \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Emelted butter\u003C/b\u003E\u003C/a\u003E, and a little sugar over.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "spotted-dick.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Modern Housewife\u003C/i\u003E\u0027 by Alexis Soyer, 1850 (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1850\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "764. Plum Bolster, or Spotted Dick. Roll out two pounds of paste (No. 685), having some Smyrna raisins well washed, and place them on it here and there, roll over, tie in a cloth, and boil one hour, and serve with butter and brown sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Hard Dick",
+      "relatedPageUrl": "hard-dick.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Exeter Dick",
+      "relatedPageUrl": "exeter-dick.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ESoyer 1845\u003C/b\u003E",
+      "relatedPageUrl": "references.html#soyer-1845",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ESpotted Dog, Plum Bolster\u003C/b\u003E, and \u003Cb\u003ESpotted Richard.\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Spotted Dick",
+  "usedSnapshot": "20220909104122"
+}

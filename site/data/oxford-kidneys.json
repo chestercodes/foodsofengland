@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922091934",
+  "finalPath": "oxford-kidneys.html",
+  "heading": "Oxford Kidneys",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "croutons",
+    "fat",
+    "gravy",
+    "kidneys",
+    "mutton",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxford-kidneys.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EOXFORD RECEIPT FOR MUTTON KIDNEYS. (BREAKFAST DISH, OR ENTREE.)\u003C/b\u003E\u003Cbr\u003E\nFry gently in a little good butter, a dozen croutons (slices of bread, of uniform shape and size, trimmed free from crust), cut half an inch thick, about two inches and a half wide, and from three to four in length: lift them out and keep them hot. Split quite asunder six fine fresh kidneys, after having freed them from the skin and fat; season them with fine salt and cayenne, arrange them evenly in a clean frying-pan, and pour some clarified butter over them. Fry them over a somewhat brisk fire, dish each half upon a crouton, make a sauce in the pan as for veal cutlets, but use gravy for it instead of water, should it be at hand; add a little wine or catsup, pour it round the croutons, and serve the kidneys instantly.\u003Cbr\u003E\n10 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Oxford Kidneys",
+  "usedSnapshot": "20220517183233"
+}

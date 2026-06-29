@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140125041232",
+  "finalPath": "gloucester-sausages.html",
+  "heading": "Gloucester Sausages",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gloucester Sausages",
+  "usedSnapshot": "20220331225351"
+}

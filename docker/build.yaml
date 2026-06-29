@@ -1,0 +1,12 @@
+version: "2.4"
+services:
+  site:
+    image: ghcr.io/chestercodes/foodsofengland/site:${IMAGE_TAG}
+    build:
+      context: ..
+      dockerfile: docker/site.Dockerfile
+  end2end:
+    image: ghcr.io/chestercodes/foodsofengland/end2end:${IMAGE_TAG}
+    build:
+      context: ..
+      dockerfile: docker/end2end.Dockerfile

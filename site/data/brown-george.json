@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922082043",
+  "finalPath": "brown-george.html",
+  "heading": "Brown George",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Brown George",
+  "usedSnapshot": "20170314145010"
+}

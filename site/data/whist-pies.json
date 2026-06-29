@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212030645",
+  "finalPath": "whist-pies.html",
+  "heading": "Whist Pies",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whist Pies",
+  "usedSnapshot": "20210510050959"
+}

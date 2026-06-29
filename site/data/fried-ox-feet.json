@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150129021713",
+  "finalPath": "fried-ox-feet.html",
+  "heading": "Fried Ox-Feet",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "egg",
+    "gravy",
+    "parsley",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-ox-feet.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFRIED OX-FEET, or COW-HEEL.\u003C/b\u003E\u003Cbr\u003E\n639. INGREDIENTS: Ox-feet, the yolk of 1 egg, bread crumbs, parsley, salt and cayenne to taste, boiling butter.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Wash, scald, and thoroughly clean the feet, and cut them into pieces about 2 inches long; have ready some fine bread crumbs mixed with a little minced parsley, cayenne, and salt; dip the pieces of heel into the yolk of egg, sprinkle them with the bread crumbs, and fry them until of a nice brown in boiling butter.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: .-1 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 6d. each.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E\nNote. - Ox-feet may be dressed in various ways, stowed in gravy or plainly boiled and served with \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EButter Sauce\u003C/b\u003E\u003C/a\u003E. When plainly boiled, the liquor will answer for making sweet or relishing jellies, and also to give richness to soups or gravies.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Fried Ox-Feet",
+  "usedSnapshot": "20220527212638"
+}

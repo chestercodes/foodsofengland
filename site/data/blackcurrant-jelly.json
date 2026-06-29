@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073254",
+  "finalPath": "blackcurrant-jelly.html",
+  "heading": "Blackcurrant Jelly",
+  "ingredients": [
+    "currant",
+    "currants",
+    "jam",
+    "jelly",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blackcurrant-jelly.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBLACK-CURRANT JELLY.\u003C/b\u003E\u003Cbr\u003E\n1531. INGREDIENTS: Black currants; to every pint of juice allow \u00BC pint of water, 1 lb. of loaf sugar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Strip the currants from the stalks, which may be done in an expeditious manner, by holding the bunch in one hand, and passing a small silver fork down the currants: they will then readily fall from the stalks. Put them into a jar, place this jar in a saucepan of boiling water, and simmer them until their juice is extracted; then strain them, and to every pint of juice allow the above proportion of sugar and water; stir these ingredients together cold until the sugar is dissolved; place the preserving-pan on the fire, and boil the jelly for about\u00BD hour, reckoning from the time it commences to boil all over, and carefully remove the scum as it rises. If the jelly becomes firm when a little is put on a plate, it is done; it should then be put into small pots, and covered the same as the jam in the preceding recipe. If the jelly is wanted very clear, the fruit should not be squeezed dry; but, of course, so much juice will not be obtained. If the fruit is not much squeezed, it may be converted into a jam for immediate eating, by boiling it with a little common sugar: this answers very well for a nursery preserve.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: About \u00BE hour to extract the juice;\u00BD hour to boil the jelly.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E:, from 8d. to 10d. per\u00BD-lb. pot.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: From 3 pints to 2 quarts of fruit should yield a pint of juice.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: Make this in July.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Blackcurrant Jelly",
+  "usedSnapshot": "20211201003221"
+}

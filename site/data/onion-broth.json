@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922132701",
+  "finalPath": "onion-broth.html",
+  "heading": "Onion Broth",
+  "ingredients": [
+    "onion",
+    "onions",
+    "pepper",
+    "salt",
+    "beat",
+    "butter",
+    "eggs",
+    "flour",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "onion-broth.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EBurnley Express\u003C/i\u003E\u0027 - Saturday 4 April 1903",
+      "receiptText": "\u003Cb\u003EONION BROTH\u003C/b\u003E\u003Cbr\u003E\ntake a sufficient quantity of the stock place it in clean saucepan. Add two to four onions peeled and thinly sliced and simmer very slowly the side of the stove until the onions cooked. Then add pepper and salt to taste, and serve at once.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "onion-broth.html-2",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EWestern Daily Press\u003C/i\u003E\u0027 - Wednesday 2 February 1927",
+      "receiptText": "Onion Broth.-Mince half dozen medium sized onions very finely. Put the stew pan over a gentle fire with three ounces of dissolved butter, dredge a little flour over them, and move them till they are tender and lightly browned. Add two pints of boiling water, and seasoning of salt, pepper, and grated nutmeg. Beat two eggs briskly for a minute or two, boil the broth, let it, cool half a minute then stir amongst it the eggs and serve immediately ... the broth could not bettered for an invalids light supper.\u003Cbr\u003E\n\u003Cbr\u003E\nARMOND J KEMP\u003Cbr\u003E\nThe White Hart, Lancaster Gate, London, W. 2.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Onion Broth",
+  "usedSnapshot": "20220516214842"
+}

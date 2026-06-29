@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212030443",
+  "finalPath": "beef-and-ale-pie.html",
+  "heading": "Beef and Ale Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Beef and Ale Pie",
+  "usedSnapshot": "20211129110308"
+}

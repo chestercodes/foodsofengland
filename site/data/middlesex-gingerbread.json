@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20170314132852",
+  "finalPath": "middlesex-gingerbread.html",
+  "heading": "Middlesex Gingerbread",
+  "ingredients": [
+    "allspice",
+    "almonds",
+    "bread",
+    "brown sugar",
+    "butter",
+    "caraway seeds",
+    "cinnamon",
+    "cream",
+    "eggs",
+    "flour",
+    "ginger",
+    "lemon",
+    "nutmeg",
+    "nuts",
+    "orange",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "middlesex-gingerbread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E777. GINGERBREAD (Middlesex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nThree pounds of treacle are to be mixed with three pounds and a half of good flour, a pound of fresh butter, and a pound of brown sugar, five ounces of caraway seeds, six ounces of candied orange and lemon peel, cut very small, a quarter of a pound of powdered ginger, five eggs, and rather more than half an ounce of pearl-ashes: the butter is mixed with the other ingredients by being beaten to a cream. The mixture must stand for twenty-four hours, and on the following day is to be worked up like bread, and baked into a cake, of about an inch thick, in a slow oven. The same mixture, made more liquid, and without the pearlashes, the butter being melted instead of beaten, dropped with a spoon upon a buttered tin, makes gingerbread nuts; but it is usual to put a larger quantity of ginger. Gingerbread nuts are also made by rubbing up a pound of butter with two pounds of flour, a pound of brown sugar, and rather more than an ounce of powdered ginger. These are mixed together with as much treacle as will form them into the consistency of dough: it is then made into the form of nuts, and baked upon tins. In order to make them richer, a little powdered allspice and powdered cinnamon may be added. Nutmeg and crushed or powdered almonds may be added either to gingerbread or gingerbread nuts.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Middlesex"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Middlesex Gingerbread",
+  "usedSnapshot": "20211130233518"
+}

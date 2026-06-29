@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130323042036",
+  "finalPath": "sefton-veal-custard.html",
+  "heading": "Sefton Veal Custard",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "custard",
+    "eggs",
+    "gravy",
+    "lemon",
+    "mushroom",
+    "mushrooms",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sefton-veal-custard.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESEFTON, OR VEAL CUSTARD.\u003C/b\u003E\u003Cbr\u003E\nPour boiling, a pint of rich, clear, pale veal gravy on six fresh eggs, which have been well beaten and strained: sprinkle in directly the grated rind of a fine lemon, a little cayenne, some salt if needed, and a quarter-teaspoonful of mace. Put a paste border round a dish, pour in, first two ounces of clarified butter, and then the other ingredients; bake the Sefton in a very slow oven from twenty-five to thirty minutes, or until it is quite firm in the middle, and send it to table with a little good gravy. Very highly flavoured game stock, in which a few mushrooms have been stewed, may be used for this dish with great advantage in lieu of veal gravy; and a sauce made of the smallest mushroom buttons, may be served with it in either case. The mixture can be baked in a whole paste, if preferred so, or in well buttered cups; then turned out and covered with the sauce before it is sent to table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Sefton Veal Custard",
+  "usedSnapshot": "20220127182621"
+}

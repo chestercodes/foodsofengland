@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150922082545",
+  "finalPath": "chitterlings-or-chitlings.html",
+  "heading": "Chitterlings or Chitlings",
+  "ingredients": [
+    "bacon",
+    "bay leaf",
+    "bread",
+    "chickens",
+    "cream",
+    "eggs",
+    "ham",
+    "herbs",
+    "nuts",
+    "onion",
+    "pepper",
+    "puddings",
+    "salt",
+    "shalot",
+    "veal",
+    "flour",
+    "gravy",
+    "liver",
+    "onions",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "chitterlings-or-chitlings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003ECalf\u0027s Chitterlings, or Andouilles\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nTAKE fame of the largest calf\u0027s nuts, cleanse them, cut them in pieces proportionable to the length of the puddings you design to make, and tie one end to those pieces; then take fame bacon, with a calf\u0027s udder and chaldron blanched, and cut into dice or filets, put them into a stew-pan and season with fine spice pounded, a bay leaf, some salt, pepper and shalot cut smaIl, and about half a pint of cream; toss it up, take off the pan, and thicken your mixture with four or yolks of eggs and some crumbs of bread, then fill up your chitterlings with the stuffing; keep it warm, tie the other ends with packthread; blanch and boil them like hog\u0027s chitterlings, let them grow cold in their own liquor before you send them up; boil them over a moderate fire, and serve them up pretty hot. These sort of andouilies, or puddings, must be made in summer, when hogs are seldom killed.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003E\u003Cb\u003ETo dress Calf\u2019s Chitterlings curiously.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nCUT a calf\u2019s nut in dices of its length, and the thickness of a finger, together with some ham, bacon, and the white of chickens, cut after the same manner; put the whole into a stew-pan, seasoned with salt, pepper, sweet herbs and spices then take the guts cleansed, cut and divide them in parcels, and fill them with your slices; then lay in the bottom of a kettle or pan some slices of bacon or veal, season them with some pepper, salt, a bay leaf, and an onion, and lay some bacon and veal over them; then put in a pint of fwhite wine and let it stew softly, close covered, with fire over and under it, if the pot or pan will allow it then broil the puddings on a sheet of white paper, well buttered on the inside\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "chitterlings-or-chitlings.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 77. PIG\u0027S FRY.\u003C/b\u003E\u003Cbr\u003E\nA pig\u0027s fry consists of the heart, liver, lights, and some of the chitterlings; these are to be first cut up in slices, then seasoned with pepper and salt, rolled in a little flour, and fried with some kind of grease in the frying-pan. As the pieces are fried, place them on their dish to keep hot before the fire, and when all is done, throw some chopped onions and sage leaves into the pan, to be fried of a light colour; add a very little flour, pepper, and salt, a gill of water, and a few drops of vinegar; boil up this gravy, and pour it over the pig\u0027s fry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Chitterlings or Chitlings",
+  "usedSnapshot": "20201223100314"
+}

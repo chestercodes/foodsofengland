@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140212033517",
+  "finalPath": "jam-tarts.html",
+  "heading": "Jam Tarts",
+  "ingredients": [
+    "jam",
+    "mince-meat",
+    "beat",
+    "butter",
+    "egg",
+    "flour",
+    "dates",
+    "ham"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "jam-tarts.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 103. JAM TART.\u003C/b\u003E\u003Cbr\u003E\nPrepare some paste (101) and use this to make a jam tart, as directed for making a \u003Ca href=\u0022mince-pie.html\u0022\u003E\u003Cb\u003Emince-pie\u003C/b\u003E\u003C/a\u003E, using any kind of common jam, instead of mince-meat, for the purpose.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jam-tarts.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "To make a light Paste for Tarts\u003Cbr\u003E\n\u003Cbr\u003E\nTake one Pound of fine Flour, beat the White of an Egg to a strong Froth, mix it; with as much Water as will make three quarters of a Pound of Flour into a pretty stiff Paste, roll it out very thin, lay the third Part of half a Pound of Butter in thin Pieces, dredge it with Part of the quarter of your Flour left out far that Purpose, roll it up tight, then with your Paste Pin roll it out again, do so until all your half Pound of Butter and Flour is done, cut it in square Pieces, and make your Tarts. It requires a quicker Oven than crisp Paste.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jam-tarts.html-3",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003Exj. Tartes of Frute in lente\u003C/b\u003E - Take Fygys \u0026 sethe hem wyl tyl \u00FEey ben neyssche; \u00FEan bray hem in a morter, \u0026 a pece of Milwel \u00FEer-with; take ham vppe \u0026 caste roysonys of coraunce \u00FEer-to; \u00FEan take Almaundys \u0026 Dates y-schred \u00FEer-to; \u00FEan take pouder of Pepir \u0026 meng with-al; \u00FEen putte it on \u00FEin cofynne, \u0026 Safroun \u00FEin cofynn a-boue, \u0026 opyn hem a-bowte \u00FEe myddel; \u0026 ouer-cast \u00FEe openyng vppon \u00FEe lede, [lid. ] \u0026 bake hym a lytel, \u0026 serue forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Jam Tarts",
+  "usedSnapshot": "20211129121233"
+}

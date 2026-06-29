@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922074635",
+  "finalPath": "jugged-hare.html",
+  "heading": "Jugged Hare",
+  "ingredients": [
+    "bacon",
+    "herbs",
+    "lard",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "jugged-hare.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EA jugged hare.\u003C/b\u003E\u003Cbr\u003E\nCUT it into little pieces, lard them here and there with little slips of bacon, season them with a very little pepper and salt, put them into an earthen jugg, with a blade or two of mace, an onion stuck with cloves, and a bundle of sweet-herbs; cover the jugg or jar you do it in so close that nothing can get in, then set it in a pot of boiling water, keep the water boiling, and three hours will do it; then turn it out into the dish, and take out the onion and sweet-herbs, and send it to table hot. If you don\u0027t like it larded, leave it out.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cleland-1755"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Jugged Hare",
+  "usedSnapshot": "20200107103210"
+}

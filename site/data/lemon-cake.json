@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150513065314",
+  "finalPath": "lemon-cake.html",
+  "heading": "Lemon Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lemon Cake",
+  "usedSnapshot": "20211019181622"
+}

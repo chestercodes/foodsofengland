@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140508102641",
+  "finalPath": "brandy-snaps.html",
+  "heading": "Brandy Snaps",
+  "ingredients": [
+    "allspice",
+    "brandy",
+    "butter",
+    "flour",
+    "ginger",
+    "lard",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brandy-snaps.html-1",
+      "receiptSource": "Original Receipt in George Read\u0027s \u0027\u003Ci\u003EBiscuit and Gingerbread Baker\u0027s Assistant\u0027\u003C/i\u003E of 1854;",
+      "receiptText": "\u003Cb\u003EItalian Jumbles or Brandy Snaps\u003C/b\u003E\u003Cbr\u003E\n6 lbs of flour 7 lbs of good rich sugar 1 lb of butter or lard 2 oz of ginger or allspice 6 lbs of raw treacle. Rub the butter in with the flour mix in the sugar and spice make a bay pour in the treacle and make the whole into a moderately stiff paste this improves by keeping. Roll it out into sheets rather more than the eighth of an inch in thickness cut them out with a spice cake cutter a plain round cutter three inches and an eighth in diameter put them on tins well buttered about three inches asunder wash the tops with water and bake them in a cool oven. They will be to be baked enough if on pressing the cake in the centre with the top of your finger it will rise up again. When they are baked and a little cool cut them from the tins by passing a thin knife under them turn them whilst warm in the form of a cone the same as the grocers make up their sugar papers or turn them round a stick as the last If they should get too cold to turn put them again into the oven to warm.\u003Cbr\u003E\n\u003Cb\u003EBrandy Snaps\u003C/b\u003E are the same as these without being turned. The dough is best made up a week or fortnight before it is required to be used.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EHereford Snaps\u003C/b\u003E",
+      "relatedPageUrl": "brandy-snaps-of-hereford.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBrandy Snap Baskets\u003C/b\u003E",
+      "relatedPageUrl": "brandy-snap-baskets.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Brandy Snaps",
+  "usedSnapshot": "20180321133844"
+}

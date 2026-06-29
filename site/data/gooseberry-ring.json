@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922072758",
+  "finalPath": "gooseberry-ring.html",
+  "heading": "Gooseberry Ring",
+  "ingredients": [
+    "beat",
+    "cream",
+    "egg",
+    "eggs",
+    "gooseberries",
+    "sugar",
+    "caster sugar",
+    "egg whites",
+    "egg yolks",
+    "lemon",
+    "milk",
+    "semolina"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-ring.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECheltenham Chronicle\u003C/i\u003E\u0027 - Saturday 05 August 1939",
+      "receiptText": "\u003Cb\u003EGooseberry Ring\u003C/b\u003E Cook two pounds of topped and tailed gooseberries till tender with half a pint of water and four tablespoonfuls of sugar. Strain off the syrup and measure it. Split a sponge ring in half and place m a glass oven dish - Cover it with the cooked gooseberries and press the Other half of the ring on top. If the ring is stale pour some of the juice on top. Beat up two eggs and mix with the rest of the syrup. Make up to three quarters of a pint if necessary. Turn the egg and syrup mixture into the dish with the gooseberries, etc., and bake gently for half an hour. Leave till cold. Decorate the centre of the ring with a few gooseberries, cooked whole and serve cold with cream.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-ring.html-2",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.greatbritishkitchen.co.uk/recipebook/\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EGooseberry Ring\u003C/b\u003E\u003Cbr\u003E\nServes: 4\u003Cbr\u003E\n\u003Cbr\u003E\n475 ml Milk (3/4 pint)\u003Cbr\u003E\n50 Gram Semolina (2 oz)\u003Cbr\u003E\n40 Gram Caster sugar (1 \u00BD oz)\u003Cbr\u003E\n1 Lemon, zest only\u003Cbr\u003E\n2 Eggs, separated\u003Cbr\u003E\n425 Gram Gooseberries (15 oz)\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\nHeat the milk, sprinkle in semolina and simmer until thick, add the sugar and lemon zest. Cool, stir in the egg yolks.\u003Cbr\u003E\nPoach the gooseberries in water. Reserve a few for decoration and puree the remainder.\u003Cbr\u003E\nWhisk the egg whites until stiff, fold into the semolina with the gooseberry puree. Pour into a wetted ring mould. Chill and serve with the centre filled with the remaining gooseberries.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Gooseberry Ring",
+  "usedSnapshot": "20210512102142"
+}

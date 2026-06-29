@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20140508110418",
+  "finalPath": "hardtack-or-ship-s-biscuit.html",
+  "heading": "Hardtack or Ship\u0027s Biscuit",
+  "ingredients": [
+    "biscuit",
+    "biscuits",
+    "flour",
+    "salt",
+    "wholemeal flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hardtack-or-ship-s-biscuit.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.royalnavalmuseum.org/info_sheet_ship_biscuit.htm\u0022\u003E\u003Cb\u003EThe Royal Naval Museum\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ERecipe\u003C/b\u003E To produce a similar plain ships biscuit, a medium coarse stone-ground wholemeal flour should be used.\u003Cbr\u003E\n\u003Cbr\u003E\nAdd water to 1lb wholemeal flour and 1/4oz salt to make a stiff dough. Leave for 1/2 hour and then roll out very thickly. Separate in to 5 or 7 biscuits. Bake in a hot oven approx. 420 degrees F for 30 minutes. The biscuits should then be left undisturbed in a warm dry atmosphere to harden and dry out.\u003Cbr\u003E\n\u003Cbr\u003E\nBiscuits are still purchased for the Ministry of Defence for use in operational ration packs but not for general messing.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hardtack or Ship\u0027s Biscuit",
+  "usedSnapshot": "20220822150052"
+}

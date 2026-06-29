@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150317175344",
+  "finalPath": "ginger-beer.html",
+  "heading": "Ginger Beer",
+  "ingredients": [
+    "beer",
+    "ginger",
+    "lemon",
+    "lemon juice",
+    "sugar",
+    "yeast",
+    "cream",
+    "lemons",
+    "milk",
+    "raisins",
+    "tartar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "ginger-beer.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EGINGER BEER.\u003C/b\u003E To every gallon of spring water a\u0027dd one ounce of sliced white ginger, one pound of lump sugar, and two ounces of lemon juice. B\u00A9il the mixture nearly an hour, and take off\u0022 the scum; then run it through a hair sieve into a tub, and when cool, add yeast in the proportion of half a pint to nine gallons. Keep it in a temperate situation two days, during which it may be stirred six or eight times. Then put it into a cask, which must be kept full, and the yeast taken off* at the bunghole with a spoon. In a fortnight, add half a pint of fining to nine gallons of the liquor, which will clear it by ascent, if it has been properly fermented. The cask must still be kept full, and the rising particles taken ofi^\u0022 at the bunghole. When fine, which may be expected in twenty-four hours, bottle and cork it well; and in summer it will be ripe and fit to drink in a fortnight.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "ginger-beer.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E964. GINGER BEER (1822)\u003C/b\u003E\u003Cbr\u003E\nGinger beer of a very superior quality may be prepared as follows : Powder of ginger, one ounce, cream of tartar, half an ounce, a large lemon shced, two pounds of lump sugar and one gallon of water added together, and simmered over the fire for half an hour. Then ferment it in the usual way with a tablespoonful of yeast, and bottle it for use, tightly corked.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E965. GINGER BEER (Kent)\u003C/b\u003E\u003Cbr\u003E\nBruise two ounces of the best ginger, two ounces of cream of tartar, four lemons pared and sUced, with the rind of one, and two pounds of loaf sugar. Pour upon them two gallons of boiling water. When nearly cold, strain through flannel, and add two large spoonfuls of yeast. Let it stand till quite cold, and pour off the clear liquor into half-pint bottles, which must be well corked and tied down. It will be fit to drink in three or four days.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E966. ANOTHER WAY\u003C/b\u003E\u003Cbr\u003E\nPour one gallon of boiling water over threequarters of a pound of lump sugar, one and a half ounces of bruised ginger, and the peel of a lemon - when milk-warm add one tablespoonful of yeast. If this be done at night, it will be fit for bottling next night. Put the piece of lemon into the yeast. Not to be used for three days.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E967. GINGER BEER (Middlesex)\u003C/b\u003E\u003Cbr\u003E\nA very pleasant and wholesome beverage when well made. It was first invented a great many years ago by a Mr. Pitt, a surgeon at Lewes, and rose rapidly into fame. ^ Even when made as it ought to be, it is a cheap beverage, but as it is usually made, it is still cheaper, tartaric acid being used instead of lemon juice. The best way of making ginger beer is as follows : - Pour eleven gallons of boiling water upon fourteen pounds of white sugar, the juice of eighteen lemons, a pound of bruised ginger, and the rind of two lemons. When at the proper temperature, add two or three spoonfuls of yeast and let it ferment for about a day; then put it into a cask to finish the fermentation, and when that is completed, fine it and bung it down closely. It may be bottled in stone bottles almost immediately. Some persons boil the water and sugar together before it is poured upon the ginger, but this trouble is unnecessary, unless it be intended to add raisins, which are a great improvement. In that case, a pound of good raisins may be boiled with the water and sugar. The quantity of ginger above ordered is rather larger than would suit every taste. It may of course be reduced. In bottling, good corks should be used, and tied over with twine.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E968. GINGER BEER (Stafiordshire)\u003C/b\u003E\u003Cbr\u003E\nMix one ounce of powdered ginger, half an ounce of cream of tartar, one lemon sliced, two pounds of lump sugar, and one gallon of water together. Simmer it over the fire for half an hour, and ferment it in the usual manner with a tablespoonful of yeast. Then bottle it close for use in half-pint or pint bottles, such as are used for soda water; in a few days it will be fit to drink.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E969. GINGER BEER (Sussex)\u003C/b\u003E\u003Cbr\u003E\nFour gallons of water, two ounces of groimd ginger, two ounces of cream of tartar, two and a half pounds of moist sugar. Pour half the boiling water on these ingredients, except the sugar. Let it stand a day or two, then add the remainder of the water, boiling also, and the sugar, and a teacupful of yeast. Bottle it when rather warm.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EShandygaff\u003C/b\u003E",
+      "relatedPageUrl": "shandygaff.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Ginger Beer",
+  "usedSnapshot": "20220810044809"
+}

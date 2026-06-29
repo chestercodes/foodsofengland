@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922075127",
+  "finalPath": "major-grey-s-chutney.html",
+  "heading": "Major Grey\u0027s Chutney",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Major Grey\u0027s Chutney",
+  "usedSnapshot": "20220527055026"
+}

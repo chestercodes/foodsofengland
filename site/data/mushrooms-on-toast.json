@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20150922081739",
+  "finalPath": "mushrooms-on-toast.html",
+  "heading": "Mushrooms on Toast",
+  "ingredients": [
+    "bread",
+    "butter",
+    "flour",
+    "lemon",
+    "mushrooms",
+    "pepper",
+    "salt",
+    "tea",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mushrooms-on-toast.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EMushroom culture: its extension and improvement\u003C/i\u003E\u0027 by William Robinson, 1870",
+      "receiptText": "\u003Cb\u003EMushrooms on Toast\u003C/b\u003E\u003Cbr\u003E\nPut a pint of mushrooms into a stew pan with two ounces of butter rolled in flour, add a tea spoonful of salt, half a tea spoonful of white pepper, a blade of mace, powdered, and half a tea spoonful of grated lemon, stew till the butter is all absorbed then add as much white roux as will moisten the mushrooms, fry a slice of bread in butter to fit the dish and as soon as the mushrooms are tender serve them on the toast.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "snacks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Mushrooms on Toast",
+  "usedSnapshot": "20170314143542"
+}

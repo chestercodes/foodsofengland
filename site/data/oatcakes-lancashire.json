@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922081637",
+  "finalPath": "oatcakes-lancashire.html",
+  "heading": "Oatcakes - Lancashire",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOat Cakes\u003C/b\u003E",
+      "relatedPageUrl": "oat-cakes.html",
+      "relationDescription": "For other types of oat bread and biscuit, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Oatcakes - Lancashire",
+  "usedSnapshot": "20220819101544"
+}

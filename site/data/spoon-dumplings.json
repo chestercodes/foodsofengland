@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922072816",
+  "finalPath": "spoon-dumplings.html",
+  "heading": "Spoon Dumplings",
+  "ingredients": [
+    "beat",
+    "butter",
+    "dumplings",
+    "eggs",
+    "flour",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "spoon-dumplings.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EDundee Courier\u003C/i\u003E\u0027 - Friday 4 June 1897",
+      "receiptText": "\u003Cb\u003EGerman Dumpling Soup\u003C/b\u003E.-Use any strong stock or good clear soup. When heated and ready drop into it from a spoon dumplings made as follows - Beat thoroughly together three eggs, one saucer of flour, a level saltspoonful salt, and one cup of milk. Melt a small cup of butter in a spider (sic). Put into a bowl and cool. When entirely cold add three more eggs, beating each one in separately. Drop the dough carefully, bit by bit, into the hot seasoned stock. When the dumplings rise to the top they are done.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Spoon Dumplings",
+  "usedSnapshot": "20211129123730"
+}

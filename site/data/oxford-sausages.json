@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20140125041508",
+  "finalPath": "oxford-sausages.html",
+  "heading": "Oxford Sausages",
+  "ingredients": [
+    "beef",
+    "pepper",
+    "pork",
+    "salt",
+    "suet",
+    "veal",
+    "bread",
+    "butter",
+    "fat",
+    "lemon",
+    "nutmeg",
+    "thyme",
+    "beat",
+    "eggs",
+    "pudding",
+    "sausage meat"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "oxford-sausages.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E\u003Ci\u003EOxford sausages.\u003C/i\u003E\u003C/b\u003E\u003Cbr\u003E\nTake of veal and pork, cleared from the skin and sinews, two pounds each, and one pound of beef suet, mince and mix them well, to which add. the soaked crumb of a penny roll, with salt, pepper, and dried sage.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oxford-sausages.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "87. OXFORD SAUSAGES One pound young pork, fat and lean, one pound beef suet, chopped fine together; half a pound of grated bread, half the peel of a lemon grated, a nutmeg grated, six sage leaves chopped fine, one teaspoonful of pepper, and two of salt, and a little thyme, savory, and marjoram shred fine. Mix well together, and put it close down in a pan tUl used. Roll out the sausages, and fry in fresh butter, or broil over a clear fire, and serve up hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oxford-sausages.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Domestic Service Guide to Housekeeping\u003C/i\u003E\u0027 1865",
+      "receiptText": "OXFORD AND CAMBRIDGE SAUSAGES\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EOxford Sausage Meat\u003C/b\u003E\u003Cbr\u003E\nTake a pound and a half of pig meat cut from the griskins without any skin, half a pound of veal and a pound and a half of beef suet. Mince meats separately in, mix them then a very finely with a dessert spoonful of dried and sifted powdered sage, pepper and salt to taste, then a beat together the yolks and whites of five eggs and beat well together with it The meats as much depends upon the mixing. This is a college receipt. At Oxford sausage meat is not publicly sold in any The substantial quantity Oxford sausages are not so choice in appearance as those at Cambridge but to some tastes they are better in flavor. The plainer dress better for breakfast. They keep good two or three days in a cold plane in summer nearly a week in winter, with care Sausages Cambridge or at all events, those made in London under that name are liable to burst in cooking. Pudding Sausage is made of Cambridge sausage meat seasoned and put into a basin paste and boiled suet an hour and a half\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Oxford Skates",
+      "relatedPageUrl": "oxford-skates.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Oxford Sausages",
+  "usedSnapshot": "20210518204621"
+}

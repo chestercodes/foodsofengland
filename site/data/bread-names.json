@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150702074644",
+  "finalPath": "bread-names.html",
+  "heading": "Bread Names",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMuffin\u003C/b\u003E",
+      "relatedPageUrl": "muffins.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBarm Cake\u003C/b\u003E",
+      "relatedPageUrl": "barm-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EOven Bottom Cake\u003C/b\u003E",
+      "relatedPageUrl": "oven-bottom-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EScones\u003C/b\u003E",
+      "relatedPageUrl": "scones-2.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bread Names",
+  "usedSnapshot": "20211201005808"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140508110401",
+  "finalPath": "ginger-nut-biscuit.html",
+  "heading": "Ginger Nut Biscuit",
+  "ingredients": [
+    "butter",
+    "carraway seeds",
+    "cream",
+    "flour",
+    "ginger",
+    "honey",
+    "nuts",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ginger-nut-biscuit.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGOOD GINGERBREAD NUTS,\u003C/b\u003E\u003Cbr\u003E\nTake four pounds of flour, half a pound of sifted sugar, one ounce of carraway seeds, half an ounce of ginger pounded and sifted, six ounces of fresh butter, and two ounces of candied orenge peel cut into small slices. Then take a pound of treacle or honey and a gill of cream, make them warm together, mix all the ingredients into a paste, and let it lay six hours; then roll it out, shape it into nuts, and bake them in a moderate oven\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Ginger Nut Biscuit",
+  "usedSnapshot": "20220527225912"
+}

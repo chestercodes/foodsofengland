@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922100133",
+  "finalPath": "chocolate-easter-eggs.html",
+  "heading": "Chocolate Easter Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Simnel Cake",
+      "relatedPageUrl": "simnel-bread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cream Eggs",
+      "relatedPageUrl": "creme-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter Cake",
+      "relatedPageUrl": "easter-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter Eggs",
+      "relatedPageUrl": "easter-eggs.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chocolate Easter Eggs",
+  "usedSnapshot": "20180924035344"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922091815",
+  "finalPath": "fried-bread-for-soup.html",
+  "heading": "Fried Bread for Soup",
+  "ingredients": [
+    "bread",
+    "butter"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-bread-for-soup.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EFried Bread To Serve With Soup.\u003C/b\u003E\u003Cbr\u003E\n341. Cut slices of stale bread nearly half an inch in thickness, and again into squares or diamonds, or with a cutter into shapes, put a slice of butter into the frying-pan, and when melted put in the bread. Turn it constantly while frying till it is all of a nice light brown. Drain the butter from it, and dry it on a cloth before the fire, or on paper in a sieve. It will take nearly an ounce of butter to fry a quarter of a pound of bread.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Fried Bread for Soup",
+  "usedSnapshot": "20220516224102"
+}

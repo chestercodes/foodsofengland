@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140212020720",
+  "finalPath": "norfolk-beef-pudding.html",
+  "heading": "Norfolk Beef Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Norfolk Beef Pudding",
+  "usedSnapshot": "20211129111508"
+}

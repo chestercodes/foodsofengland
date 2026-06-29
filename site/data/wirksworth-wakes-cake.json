@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922082921",
+  "finalPath": "wirksworth-wakes-cake.html",
+  "heading": "Wirksworth Wakes Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "carraway seeds",
+    "cream",
+    "currants",
+    "flour",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wirksworth-wakes-cake.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022http://www.wirksworth.org.uk\u0022\u003E\u003Cb\u003Ewww.wirksworth.org.uk\u003C/b\u003E\u003C/a\u003E, who say that; \u0022These recipes come from \u0022House Hand Book\u0022 by Peter Geary, who was Bailiff of Derby in 1610 and 1619, before mayors began in 1638. Many more old recipes can be found in \u0022Derbyshire Cookery\u0022 by Janet Arthur\u0022",
+      "receiptText": "\u003Cb\u003EWirksworth WAKES CAKES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022wirksworth-wakes-cake-d28-wc.jpg\u0022\u003E\u003Cimg src=\u0022wirksworth-wakes-cake-d28-wc.jpg\u0022 width=\u0022464\u0022 height=\u0022186\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n\u003Cbr\u003E\n1 \u00BD lb flour\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\na pinch of salt\u003Cbr\u003E\n1 lb sugar\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\ncarraway seeds\u003Cbr\u003E\na few currants\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003Cbr\u003E\n1 teaspoon carbonate of ammonia\u003Cbr\u003E\n2 tablespoons cream\u003Cbr\u003E\n1 lb butter\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\nBeat the butter and sugar to a cream and add 1 teaspoon carbonate of ammonia. Stir in flour and a few currants and carraway seeds and 2 tablespoons cream. Roll out thinly and cut in rounds. Bake in a moderate oven 360\u00B0F to a pale brown.\u003Cbr\u003E\n\u003Cbr\u003E\n[Note the use of carbonate of ammonia, the fore-runner to bicarbonate of soda. The difficulty is to remove the ammonia flavour during cooking.]\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWinster Wakes Cakes\u003C/b\u003E",
+      "relatedPageUrl": "winster-wakes-cake.html",
+      "relationDescription": "For a list of northern Wakes Day traditions, see the end of the "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Wirksworth Wakes Cake",
+  "usedSnapshot": "20210510043621"
+}

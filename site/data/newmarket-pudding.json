@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922082325",
+  "finalPath": "newmarket-pudding.html",
+  "heading": "Newmarket Pudding",
+  "ingredients": [
+    "bay leaf",
+    "beat",
+    "bread",
+    "butter",
+    "cinnamon",
+    "currants",
+    "custard",
+    "eggs",
+    "lemon",
+    "milk",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "newmarket-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "NEWMARKET PUDDING. Put on to boil a pint of good milk, with half a lemon peel, a little cinnamon, and a bay leaf. Boil it gently for five or ten minutes, sweeten with loaf sugar, break the yolks of five and the whites of three eggs into a basin, beat them well, and add the milk. Beat it all up well together, and strain it through a tammis, or fine hair sieve. Prepare some bread and butter cut thin, place a layer of it in a pie dish, and then a layer of currants, and so on till the dish is nearly full. Pour the custard over it, and bake it half an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Newmarket Pudding",
+  "usedSnapshot": "20220516224550"
+}

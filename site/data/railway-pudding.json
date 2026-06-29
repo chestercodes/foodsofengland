@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20150922072254",
+  "finalPath": "railway-pudding.html",
+  "heading": "Railway Pudding",
+  "ingredients": [
+    "brandy",
+    "carrots",
+    "currants",
+    "flour",
+    "nutmeg",
+    "orange",
+    "orange peel",
+    "potatoes",
+    "pudding",
+    "raisins",
+    "suet",
+    "sugar",
+    "baking powder",
+    "beef",
+    "beef dripping",
+    "castor sugar",
+    "egg",
+    "marmalade",
+    "milk",
+    "butter"
+  ],
+  "receiptCount": 4,
+  "receipts": [
+    {
+      "receiptId": "railway-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027The Godey\u0027s Lady\u0027s book receipts and household hints\u0027\u003C/i\u003E by Sarah Annie Frost, 1870",
+      "receiptText": "\u003Cb\u003ERailway Pudding\u003C/b\u003E\u003Cbr\u003E\nFlour, suet, sugar, currants and raisins of each ten ounces, grated potatoes and carrots together ten ounces, one nutmeg and two ounces of candied orange peel, well mixed together and boiled for several hours. To be served with brandy sauce\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "railway-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWestern Gazette\u003C/i\u003E\u0027 - Friday 12 December 1902",
+      "receiptText": "RAILWAY PUDDING. -Take five ounces of flour and mix into it two and a-half ounces of clarified beef dripping and a teaspoonful of baking powder. Add two ounces of castor sugar, and an egg beaten in half a teacupful of milk. Set in a greased pie-dish and bake in a good steady oven. Before serving split, spread with marmalade, and press the two pieces lightly together.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "railway-pudding.html-3",
+      "receiptSource": "Original Receipt from the \u003Ci\u003EDover Express\u003C/i\u003E - Friday 26 April 1889",
+      "receiptText": "\u003Cb\u003EHOUSEHOLD HINTS\u003C/b\u003E. RAILWAY PUDDING. -One tablespoonful flour, one tablespoonful pounded sugar, one egg, one teaspoonful baking powder. Mix all these ingredients well together, then add a little milk, sufficient to make into a thick batter. Pour into a buttered flat tin, and bake ten minutes in a quick oven. When cooked, spread over it a layer preserve, and roll over three times while hot.- \u003Ci\u003EGardening Illustrated.\u003C/i\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "railway-pudding.html-4",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EOld Sussex Recipes\u003C/i\u003E\u0027 - Rottingdean Lions 1982, Page 42, from Nellie Branch, Warnham 1867, (from \u0022Nellie Branch manuscript\u0022) (with thanks to Linda Johnson)",
+      "receiptText": "1 \u00BD teacups flour\u003Cbr\u003E\nhalf cup milk\u003Cbr\u003E\nOne teacup sugar\u003Cbr\u003E\none egg\u003Cbr\u003E\n1 \u00BD teaspoons baking powder\u003Cbr\u003E\na little butter\u003Cbr\u003E\n\u003Cbr\u003E\nRub the butter into the flour. Bake about 20 minutes in a good oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "4"
+    }
+  ],
+  "title": "Railway Pudding",
+  "usedSnapshot": "20220527221141"
+}

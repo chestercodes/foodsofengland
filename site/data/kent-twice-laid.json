@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616080847",
+  "finalPath": "kent-twice-laid.html",
+  "heading": "Kent Twice Laid",
+  "ingredients": [
+    "bread",
+    "egg",
+    "mashed potatoes",
+    "milk",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kent-twice-laid.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E229. TWICE LAID (Kent)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake remains of cold salt fish. Tear it into flakes; mix it with double its quantity of mashed potatoes. Moisten with milk; season with pepper and salt, roll into balls; dip them in egg; roll them in bread crumbs, and fry them brown. Drain and serve on a folded napkin.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Kent Twice Laid",
+  "usedSnapshot": "20211207130124"
+}

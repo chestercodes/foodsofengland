@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140616090653",
+  "finalPath": "solomon-gundy.html",
+  "heading": "Solomon Gundy",
+  "ingredients": [
+    "anchovies",
+    "apple",
+    "beef",
+    "eggs",
+    "herrings",
+    "lemon",
+    "mushrooms",
+    "onion",
+    "oysters",
+    "shalot",
+    "turkey",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "solomon-gundy.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E223. To make SOLOMON GUNDY to eat in Lent\u003C/b\u003E\u003Cbr\u003E\nTake five or six white herrings, lay them in water all night, boil them as soft as you would do for eating, and shift them in the boiling to take out the saltness; when they are boiled take the fish from the bone, and mind you don\u0027t break the bone in pieces, leaving on the head and tail; take the white part of the herrings, a quarter of a pound of anchovies, a large apple, a little onion shred fine, or shalot, and a little lemon-peel, shred them all together, and lie them over the bones on both sides, in the shape of a herring; then take off the peel of a lemon very very thin, and cut it in long bits, just as it will reach over the herrings; you must lie this peel over every herring pretty thick. Garnish your dish with a few pickled oysters, capers, and mushrooms, if you have any; so serve them up.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E224. SOLOMAN GUNDY another Way.\u003C/b\u003E\u003Cbr\u003E\nTake the white part of a turkey, or other fowl, if you have neither, take a little white veal and mince it pretty small; take a little hang beef or tongues, scrape them very fine, a few shred capers, and the yolks of four or five eggs shred small; take a delf dish and lie a delf plate in the dish with the wrong side up, so lie on your meat and other ingredients, all single in quarters, one to answer another; set in the middle a large lemon or mango, so lie round your dish anchovies in lumps, picked oysters or cockles, and a few pickled mushrooms, slices of lemon and capers; so serve it up.\u003Cbr\u003E\nThis is proper for a side-dish either at noon or night.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Mock Crab or Lobster",
+      "relatedPageUrl": "mock-crab-or-lobster.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ESalmy-Gundy\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Solomon Gundy",
+  "usedSnapshot": "20220527051113"
+}

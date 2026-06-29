@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150310120359",
+  "finalPath": "westminster-fool.html",
+  "heading": "Westminster Fool",
+  "ingredients": [
+    "beat",
+    "bread",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "rose-water"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "westminster-fool.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Westminster fool.\u003C/b\u003E\u003Cbr\u003E\nTAKE a penny loaf, cut it into thin slices, wet them with sack, lay them in the bottom of a dish: take a quart of cream, beat up six eggs, two spoonfuls of rose-water, a blade of mace, and some grated nutmeg. Sweeten to your taste. Put all this into a sauce-pan, and keep stirring all the time over a slow fire, for fear of curdling. When it begins to be thick, pour it into the dish over the bread. Let it stand till it is cold, and serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westminster"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Westminster Fool",
+  "usedSnapshot": "20150310120359"
+}

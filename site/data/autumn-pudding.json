@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20130808222816",
+  "finalPath": "autumn-pudding.html",
+  "heading": "Autumn Pudding",
+  "ingredients": [
+    "bread",
+    "custard",
+    "milk",
+    "pears",
+    "pudding",
+    "sugar",
+    "blackberries",
+    "cream",
+    "brown sugar",
+    "carrot",
+    "currants",
+    "eggs",
+    "flour",
+    "golden syrup",
+    "mashed potatoes",
+    "potato",
+    "potatoes",
+    "suet"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "autumn-pudding.html-1",
+      "receiptSource": "Original Receipt from Nottingham Evening Post - Friday 22 November 1929",
+      "receiptText": "\u003Cb\u003EAUTUMN PUDDING\u003C/b\u003E\u003Cbr\u003E\nINGREDIENTS: One pound of apples, one pound of pears, one pint of milk, one pint of custard, some slices of stale bread, one pint of custard, and four ounces of sugar.\u003Cbr\u003E\n\u003Cbr\u003E\nCut, some slices of stale bread about one inch I thick and remove crusts. Dip them for a minute in milk, and arrange in a buttered pudding basin, first cutting a round piece of bread for the bottom, torn so that all the pieces fit closely. Peel, core, and slice the apples and pears, and stew with the sugar until cooked, pour into basin until full, cover the top with more soaked bread and place plate to same size on top with weight on it.\u003Cbr\u003E\n\u003Cbr\u003E\nIf the pudding is to be served hot stand it in the oven until wanted, then turn on to a hot dish and pour warm custard over, or it can be set aside turned out when cold into a glass dish and custard poured over.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "autumn-pudding.html-2",
+      "receiptSource": "Original Receipt from Liverpool Echo - Wednesday 17 September 1952",
+      "receiptText": "AUTUMN PUDDING Line a basin with stale fingers of bread or sponge cake. Place your blackberries a pan, rinsed out with water. Gently heat (but do not cook) them adding 1 or 2 oz. sugar. Place in the basin and cover the top with bread fingers or sponge cake. Weigh the top and leave until quite cold. serve with custard or mock cream.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "autumn-pudding.html-3",
+      "receiptSource": "Original Receipt from Taunton Courier, and Western Advertiser - Wednesday 07 October 1925",
+      "receiptText": "AUTUMN PUDDING. (No eggs required.) Ingredients: Half-a-pound of flour, six ounces of currants, a quarter-pound chopped suet, a quarter pound of brown sugar, quarter-pound of mashed carrot, one tablespoonful of golden syrup, two ounces of peel, a quarter-pound of mashed potatoes used hot.\u003Cbr\u003E\nMethod: Mix the flour, currants, suet, and sugar well together, stir in the warm potato and carrot, add the chopped peel and the syrup, and thoroughly mix all together. On no account must there be any liquid other than the syrup be added, or the pudding will be spoiled. Boil in basin for four hours, and serve with syrup sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Autumn Pudding",
+  "usedSnapshot": "20210510043432"
+}

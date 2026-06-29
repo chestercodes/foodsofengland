@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140508120944",
+  "finalPath": "paper-wafers.html",
+  "heading": "Paper Wafers",
+  "ingredients": [
+    "egg",
+    "lemon",
+    "lemon juice",
+    "lemons",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "paper-wafers.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Confectioner\u003C/i\u003E\u0027 by Frederick Nutt, 1789 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 43. Lemon Wafers,\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTx\\KE six lemons, and squeeze into an earthen pan; pound and sift some double refined sugar and mix it with the lemon juice; put one white of an egg in with it, and mix it up well together with your wooden spoon, to make it of a fine thickness; take some sheets of wafer paper, and put one sheet of it on a pewter sheet, or tin plate, put a spoonful on, and cover the sheets of wafer paper all over with your knife; cut it in twelve pieces, and put them across a stick in your hot stove, with that side the paste is on uppermost, and you will find they will curl; when they are half curled, take them off very carefully and put them up endways in a sieve, that they may stand up; let them be in the hot stove one day, and you will find they will be all curled and then they are done.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ENo. 44. Barberry Wafers.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nBARBERRY wafers are made the same way as your lemon wafers, only when you have made as many lemon wafers as you want, mix a little cochineal with the rest of the paste, to make it of a fine pink colour, and if it should be too thin, put a little powdered sugar with it, and dry them the same way as the lemons.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Paper Wafers",
+  "usedSnapshot": "20211018063521"
+}

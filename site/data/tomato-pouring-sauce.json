@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922072911",
+  "finalPath": "tomato-pouring-sauce.html",
+  "heading": "Tomato (Pouring) Sauce",
+  "ingredients": [
+    "cayenne",
+    "gravy",
+    "salt",
+    "shalots",
+    "tomato",
+    "tomatoes",
+    "butter",
+    "chillies",
+    "flour",
+    "mutton"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tomato-pouring-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETOMATO SAUCE - HOT\u003C/b\u003E, to serve with Cutlets, Roast Meats, \u0026amp;c.\u003Cbr\u003E\n\u003Cbr\u003E\n529. INGREDIENTS. - 6 tomatoes, 2 shalots, 1 clove, 1 blade of mace, salt and cayenne to taste, \u00BC pint of gravy, No. 436, or stock No. 104.\u003Cbr\u003E\nMode. - Cut the tomatoes in two, and squeeze the juice and seeds out; put them in a stewpan with all the ingredients, and let them simmer gently until the tomatoes are tender enough to pulp; rub the whole through a sieve, boil it for a few minutes, and serve. The shalots and spices may be omitted when their flavour is objected to.\u003Cbr\u003E\nTime. - 1 hour, or rather more, to simmer the tomatoes.\u003Cbr\u003E\nAverage cost, for this quantity, 1s.\u003Cbr\u003E\nIn full season in September and October.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tomato-pouring-sauce.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E372. TOMATO SAUCE (Sussex) (To eat with Mutton)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPare half a dozen ripe tomatoes; put them into a saucepan with a little piece of butter, two chillies, and salt. Shake some flour in, add half a teacupful of gravy. Boil all together ten minutes, keeping it stirred, and send to table hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ETomato Ketchup\u003C/b\u003E",
+      "relatedPageUrl": "tomato-ketchup.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Tomato (Pouring) Sauce",
+  "usedSnapshot": "20220527220318"
+}

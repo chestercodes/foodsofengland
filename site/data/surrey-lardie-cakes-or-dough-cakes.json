@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140212191955",
+  "finalPath": "surrey-lardie-cakes-or-dough-cakes.html",
+  "heading": "Surrey Lardie Cakes (or Dough Cakes)",
+  "ingredients": [
+    "butter",
+    "caster sugar",
+    "cream",
+    "currants",
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "plain flour",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "surrey-lardie-cakes-or-dough-cakes.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Surrey%20Lardie%20Cakes%20(or%20Dough%20Cakes)\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESurrey Lardie Cakes\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb Plain flour\u003Cbr\u003E\n1 Teaspoon Salt\u003Cbr\u003E\n1 oz Lard or butter\u003Cbr\u003E\n\u00BD oz Fresh yeast\u003Cbr\u003E\n1 Teaspoon Caster sugar\u003Cbr\u003E\n10 fl oz Warm water\u003Cbr\u003E\n2 oz Lard or butter\u003Cbr\u003E\n2 oz Caster sugar\u003Cbr\u003E\n\u00BD Teaspoon ground mixed spice\u003Cbr\u003E\n1 oz Currants\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nMix the flour and salt and rub in the lard or butter. Cream the yeast with the sugar, then stir in the water. Make a well in the flour then, when the yeast is frothy, stir it in. Mix well then turn out on to a floured surface. Knead, cover and leave in a warm place until the dough has doubled in bulk.\u003Cbr\u003E\nKnead again. Roll out into a rectangle 5 mm (1/4 inch) thick. Mix the sugar and spice. Spread the dough with one third of the fat and sprinkle on one third of the sugar mixture. Fold the dough into three, half turn and press the edges together. Roll again.\u003Cbr\u003E\nRepeat the process twice more, sprinkling the currants over the sugar mixture on the final rolling. Roll out and cut into 7-10 cm (3-4 inch) rounds. Score with a knife and place on a greased baking sheet. Cover and leave to rise in a warm place for about 20 minutes. Bake for 25-30 minutes.\u003Cbr\u003E\nRemove them from the oven and brush the tops with milk while warm to give a sheen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EDorset Dough Cake\u003C/b\u003E",
+      "relatedPageUrl": "dorset-dough-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Surrey Lardie Cakes (or Dough Cakes)",
+  "usedSnapshot": "20220516212039"
+}

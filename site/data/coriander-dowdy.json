@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922073148",
+  "finalPath": "coriander-dowdy.html",
+  "heading": "Coriander Dowdy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dowdy (or Pandowdy)",
+      "relatedPageUrl": "dowdy(orpandowdy).htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Treacle Dowdy",
+      "relatedPageUrl": "treacle-dowdy.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Coriander Dowdy",
+  "usedSnapshot": "20210510043336"
+}

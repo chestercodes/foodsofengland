@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922091135",
+  "finalPath": "cock-for-the-weak.html",
+  "heading": "Cock for the Weak",
+  "ingredients": [
+    "dates",
+    "fenell",
+    "prunes",
+    "rosewater",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cock-for-the-weak.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo still a cock for a weake body that is consumed.\u003C/b\u003E\u003Cbr\u003E\nTake a red Cock that is not too olde, and beate him to death, and when he is dead, fley him and quarter him in small peeces, and bruse the bones everye one of them. Then take roots of Fenell, persely, and succory, Violet leaves, and a good quantitye of Borage, put the Cock in an earthen pipkin and betweene everye quarter some rootes, hearbes, corance, whole mace, Anis seeds, being fine rubbed, and Licorice being scraped and sliced, and so fill your pipkin with al the quarters of the Cocke, put in a quarter of a pinte of Rosewater, a pinte of white wine, two or three Dates. If you put in a peece of golde, it will be the better, and halfe a pound of prunes, and lay a cover upon it, and stop it with dough, and set the pipkin in a pot of seething water, and so let it seethe twelve houres with a fire under the brasse pot that it standeth in, and the pot kept with licour twelve houres. When it hath sodden so many houres, then take out the pipkin, pul it open, and put the broth faire into a pot, give it unto the weak person morning and evening.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    }
+  ],
+  "title": "Cock for the Weak",
+  "usedSnapshot": "20211027024147"
+}

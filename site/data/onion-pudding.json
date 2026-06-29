@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212024825",
+  "finalPath": "onion-pudding.html",
+  "heading": "Onion Pudding",
+  "ingredients": [
+    "butter",
+    "onion",
+    "onions",
+    "pepper",
+    "pudding",
+    "rice",
+    "salt",
+    "suet",
+    "bacon",
+    "beef",
+    "black pepper",
+    "flour"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "onion-pudding.html-1",
+      "receiptSource": "Original Receipt from Northampton Mercury - Friday 24 July 1914",
+      "receiptText": "ONION PUDDING. Make some ordinary suet crust and line a pudding basin with it. Take 4 lbs. onions, cut them into about six pieces and put into the lined basin, then add a sprinkling of salt and pepper, also about 2 ozs. of butter. Then put on the top crust and boil for three hours. When just about done, take off the cloth and cut a round hole in the crust, put in 2 ozs. of butter and half a dessertspoonful of the liquor the pudding was boiled in. Replace the round of crust which has been cut out, and in a few minutes it will ready to serve. -A. Rice, 15, Park-road, Stony Stratford.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "onion-pudding.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Onion%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 oz flour\u003Cbr\u003E\n2 oz shredded suet\u003Cbr\u003E\n\u00BD lb onions peeled and finely chopped\u003Cbr\u003E\n1 salt and black pepper\u003Cbr\u003E\n\u003Cbr\u003E\nMix the flour and suet together then add sufficient cold water to form a firm dough. Turn out on to a lightly floured surface and roll out to form a oblong about about \u00BC inch thick. Sprinkle the onion over the dough, and season well. Roll up like a Swiss Roll and damp the ends to seal. Wrap lightly in greaseproof paper, then tie up in a cloth. Place in a saucepan of boiling water, cover and cook for 1 to 1\u00BD hours; alternatively steam similarly. Top up with boiling water as necessary. Serve cut into thick slices, each slice topped with a pat of butter, as an accompaniment to boiled bacon or boiled beef.\u003Cbr\u003E\n\u003Cbr\u003E\nA cottager\u0027s pudding, often served with a piece of boiled bacon and, by tradition, cooked in the same pot.\u003Cbr\u003E\nServings: 4 servings\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Onion Pudding",
+  "usedSnapshot": "20220111092246"
+}

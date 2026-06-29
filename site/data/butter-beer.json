@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922074311",
+  "finalPath": "butter-beer.html",
+  "heading": "Butter Beer",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "sugar",
+    "ale",
+    "beat",
+    "beer",
+    "eggs",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "butter-beer.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Good Huswifes Handmaide for the Kitchin\u003C/i\u003E\u0027 1594 by Thomas Dawson, (\u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Buttered Beere.\u003C/b\u003E\u003Cbr\u003E\nTAke three pintes of Beere, put fiue yolkes of Egges to it, straine them together, and set it in a pewter pot to the fyre, and put to it halfe a pound of Sugar, one penniworth of Nutmegs beaten, one penniworth of Cloues beaten, and a halfepenniworth of Ginger beaten, and when it is all in, take another pewter pot and brewe them together, and set it to the fire againe, and when it is readie to boyle, take it from the fire, and put a dish of sweet butter into it, and brewe them together out of one pot into an other.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "butter-beer.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EButtered Beer.\u003C/b\u003E\u003Cbr\u003E\nTake beer or ale and boil it, then scum it, and put to it some liquorish and anniseeds, boil them well together; then have in a clean flaggon or quart pot some yolks of eggs well beaten with some of the foresaid beer, and some good butter; strain your butter\u0027d beer, put it in the flaggon, and brew it with the butter and eggs.\u003Cbr\u003E\n\u003Cb\u003EButtered Beer or Ale otherways.\u003C/b\u003E\u003Cbr\u003E\nBoil beer or ale and scum it, then have six eggs, whites and all, and beat them in a flaggon or quart pot with the shells, some butter, sugar, and nutmeg, put them together, and being well brewed, drink it when you go to bed.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EButter-Ale, Butterbere, Butterbeer\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Butter Beer",
+  "usedSnapshot": "20210926072755"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922093010",
+  "finalPath": "cider-gloucestershire.html",
+  "heading": "Cider (Gloucestershire)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider (Gloucestershire)",
+  "usedSnapshot": "20211205172050"
+}

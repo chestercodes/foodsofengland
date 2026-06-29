@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616085139",
+  "finalPath": "waterloo-cheese.html",
+  "heading": "Waterloo Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Waterloo Cheese",
+  "usedSnapshot": "20211201002703"
+}

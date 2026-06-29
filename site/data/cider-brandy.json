@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922132915",
+  "finalPath": "cider-brandy.html",
+  "heading": "Cider Brandy",
+  "ingredients": [
+    "brandy",
+    "cider"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cider-brandy.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cooks and Confectioners Dictionary; Or, The Accomplish\u0027d Housewifes Companion\u003C/i\u003E\u0027 (1723) by John Nott",
+      "receiptText": "\u003Cb\u003E140. To Make Royal Cider\u003C/b\u003E\u003Cbr\u003E\nLET your Cider be fine, and past its Fermentations, but not very stale; and put to it a Pint and a half of Brandy, or Spirits drawn off of Cider, to each Gallon of Cider; and add a glint of Cider Sweets to every four Gallons more or less, according to the Tartness or Sharpness of the Cider; the Spirits and Sweets Must first be mixed together, and then mix\u0027d With-an equal quantity of Cider; then put them into the Cask of\u0027 Cider and stir all together well with a Stick at the Bung-hole for a quarter of an Hour, then stop up the bung-hole, and roll the Cask about ten or twelve times to mix them well together. Set it by for three or four Months, then bottle it up, or you may drink it.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E141.To Make Cider Brandy, or Spirits.\u003C/b\u003E\u003Cbr\u003E\nTAKE Eager, very hard or soawr Cider, (for that yields by much more Spirits) twelve gallons; distill it as other Spirits are dislill\u0027d, in a Copper Body and Head, and a refrigeratory Worm running thro a Cask of cold Water, under whose beak a Receiver is placed. From which, with a gentle Fire draw Off two Gallons of Cider Brandy, or Spirits, for the use mentioned in the laft Receipt. You may distil on as long as any Spirits will run, for other uses.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWhisky\u003C/b\u003E",
+      "relatedPageUrl": "whisky.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGin\u003C/b\u003E",
+      "relatedPageUrl": "gin.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "South West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cider Brandy",
+  "usedSnapshot": "20220527063734"
+}

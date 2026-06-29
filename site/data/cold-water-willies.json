@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922082808",
+  "finalPath": "cold-water-willies.html",
+  "heading": "Cold Water Willies",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Dampers",
+      "relatedPageUrl": "dampers.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cold Water Willies",
+  "usedSnapshot": "20211130235348"
+}

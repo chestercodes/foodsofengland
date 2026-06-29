@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073223",
+  "finalPath": "pot-roasted-beef.html",
+  "heading": "Pot Roasted Beef",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pot Roasted Beef",
+  "usedSnapshot": "20220819113653"
+}

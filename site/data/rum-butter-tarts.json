@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212023349",
+  "finalPath": "rum-butter-tarts.html",
+  "heading": "Rum Butter Tarts",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "brown sugar",
+    "butter",
+    "cinnamon",
+    "cream",
+    "egg",
+    "icing sugar",
+    "nutmeg",
+    "pastry",
+    "raisins",
+    "shortcrust pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rum-butter-tarts.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Rum%20Butter%20Tarts\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ERUM BUTTER TARTS\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8oz rich shortcrust pastry\u003Cbr\u003E\n2oz dark brown sugar\u003Cbr\u003E\n1 egg beaten\u003Cbr\u003E\nloz ground almonds\u003Cbr\u003E\n2-3 oz \u0022no soak\u0022 dried apricots, finely chopped\u003Cbr\u003E\n2oz raisins\u003Cbr\u003E\n1 tablespoon dark rum\u003Cbr\u003E\n\u00BD teaspoon ground cinnamon\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\nPinch grated nutmeg\u003Cbr\u003E\nPinch ground cloves.\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 375\u00B0F or Mark 5. Mix the apricots and raisins with the rum and leave to stand for about 15 minutes. Meanwhile roll out the pastry thinly on a floured surface and cut into 12-15 rounds with a pastry cutter. Line 3 inch greased patty or bun tins with the pastry rounds. Cream the butter and sugar in a bowl until light and fluffy, then beat in the egg, ground almonds and spices. Stir in the rum-soaked fruit. Place a spoonful of the filling in each pastry case and bake for 15-20 minutes. Cool the tarts in the tins for a few minutes before transferring to a wire rack until cold. Serve warm or cold dusted with a little icing sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Rum Butter Tarts",
+  "usedSnapshot": "20200126151042"
+}

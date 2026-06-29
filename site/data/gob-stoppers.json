@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922075100",
+  "finalPath": "gob-stoppers.html",
+  "heading": "Gob Stoppers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Gob Stoppers",
+  "usedSnapshot": "20180924035232"
+}

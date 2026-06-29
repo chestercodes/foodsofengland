@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20210512122503",
+  "finalPath": "kentish-sauce.html",
+  "heading": "Kentish Sauce",
+  "ingredients": [
+    "beat",
+    "cinnamon",
+    "egg",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kentish-sauce.html-1",
+      "receiptSource": "Original Receipt from Barnsley Chronicle, etc. - Saturday 12 October 1895",
+      "receiptText": "\u003Cb\u003EBoiled gooseberry pudding\u003C/b\u003E is rendered still better if served with Kentish Sauce. The pudding is mode as usual, but without any sugar, or, if berries are very sour, very little may added, and put on boil. Beat up egg, then beat in about three tablespoonfuls of moist sugar and half a teaspoonful of powdered cinnamon. When the pudding is cooked and placed on the dish in which it is served, cut a small round out the top it, pour in the egg and the sugar, replace top, serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Kentish Sauce",
+  "usedSnapshot": "20210512122503"
+}

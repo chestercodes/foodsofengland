@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616085409",
+  "finalPath": "dressed-snails.html",
+  "heading": "Dressed Snails",
+  "ingredients": [
+    "herbs",
+    "pepper",
+    "salt",
+    "snail",
+    "snails"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dressed-snails.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo dresse Snails.\u003C/b\u003E\u003Cbr\u003E\nTake Snailes, and put them in a Kettle of water, and let them boyle a little, then take them out, and shake them out of the shels into a Bason; then take some Salt and scoure them very well, and wash them in warme water, untill you find the slime cleane gone from them; then put them into a Cullender and let them draine well, then mince some sweet hearbs, and put them into a Dish with a little Pepper and Sallet-Oyle together, then let them stand an hour or two; then wash the shels very well and dry them, and put into every shell a Snail, and fill up the shell with Sallet-Oyle and herbs, then set them on a gridiron upon a soft fire, and so let them stew a little while, and dish them up warm and serve them up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Snails",
+      "relatedPageUrl": "snails.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Dressed Snails",
+  "usedSnapshot": "20220819103501"
+}

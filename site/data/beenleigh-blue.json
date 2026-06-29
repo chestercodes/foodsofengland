@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808235445",
+  "finalPath": "beenleigh-blue.html",
+  "heading": "Beenleigh Blue",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Beenleigh Blue",
+  "usedSnapshot": "20211019191722"
+}

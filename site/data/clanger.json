@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140212191848",
+  "finalPath": "clanger.html",
+  "heading": "Clanger",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bacon Pudding - Berkshire",
+      "relatedPageUrl": "bacon-rolly-polly-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bacon Pudding - Hampshire",
+      "relatedPageUrl": "bacon-pudding-hampshire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bedfordshire Clangers",
+      "relatedPageUrl": "bedfordshire-clangers.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Clanger",
+      "relatedPageUrl": "clanger.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Crowfield Clanger",
+      "relatedPageUrl": "crowfield-clanger.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Buckingham Bacon Badger",
+      "relatedPageUrl": "buckingham-bacon-badger.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northamptonshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Clanger",
+  "usedSnapshot": "20211129112623"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212015045",
+  "finalPath": "pork-plugger.html",
+  "heading": "Pork Plugger",
+  "ingredients": [
+    "fat",
+    "flour",
+    "gravy",
+    "onion",
+    "pepper",
+    "plain flour",
+    "pork",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pork-plugger.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Pork%20Plugger\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Water\u003Cbr\u003E\n4 oz suet\u003Cbr\u003E\n8 oz plain flour\u003Cbr\u003E\nchopped sage and onion\u003Cbr\u003E\npepper and salt\u003Cbr\u003E\nstreaky pork\u003Cbr\u003E\n\u003Cbr\u003E\nMake a suet crust from the suet, flour and water and roll out. Spread with layers of diced pork, onion and sage, and season. Wet the edges of the crust, then roll up. Wrap the roll in greaseproof paper brushed over with melted fat, twisting the ends of the paper like a sausage, and put the roll in a pudding cloth. Boil in water for 1\u00BD hours or steam for 2 to 2\u00BD hours. Make a gravy from the pork trimmings and serve hot with gravy.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EPork Plugga\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hertfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Pork Plugger",
+  "usedSnapshot": "20211019190204"
+}

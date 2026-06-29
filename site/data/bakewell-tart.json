@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20130322195332",
+  "finalPath": "bakewell-tart.html",
+  "heading": "Bakewell Tart",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "egg",
+    "flour",
+    "jam",
+    "pastry",
+    "puff pastry",
+    "salt",
+    "sugar",
+    "almonds",
+    "eggs",
+    "lemon",
+    "margarine",
+    "raspberry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bakewell-tart.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EKing Edward\u0027s Cookery Book\u003C/i\u003E\u0027, by Florence George of King Edward School, Birmingham, about 1901.",
+      "receiptText": "\u003Cb\u003EBakewell Tart.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nRough puff pastry\u003Cbr\u003E\n2 tablespoonfuls jam.\u003Cbr\u003E\n1 egg, its weight in butter, sugar and flour\u003Cbr\u003E\nGlace icing\u003Cbr\u003E\n\u003Cbr\u003E\nLine a tin plate 9 inches in diameter with the puff pastry, work up the edges, spread the middle with jam. Cream the butter and sugar well together, add the egg and a little of the flour in which the baking-powder and salt have been mixed, beat well, add the rest of flour. Spread this mixture over the jam. Bake for about half an hour in a good oven, then pour the glace icing over the top.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bakewell-tart.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Dundee Courier\u003C/i\u003E\u0027 - Friday 27 October 1899",
+      "receiptText": "Bakewell Tart.-Get some paste made follows: - One pound of flour and threequarters of a pound of butter or margarine; rub in little of the butter, and mix with the yolk of an egg, the juice of a lemon, and water. Mix the whole into a paste, and roll out into a sheet. Work in the remainder of the butter, and roll over three times. Lay aside to set, roll out on a plate, and fill inside with raspberry jam. Mix in a separate basin two eggs, four ounces of sugar, and two ounces of ground almonds. Put this over the top of the jam, dust over with sugar, and bake in slow oven for about half hour, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Alderman\u0027s Pudding",
+      "relatedPageUrl": "alderman-s-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bakewell Pudding",
+      "relatedPageUrl": "bakewell-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bakewell Tart",
+      "relatedPageUrl": "bakewell-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bakewells",
+      "relatedPageUrl": "bakewells.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Bakewell Tart",
+  "usedSnapshot": "20220516213713"
+}

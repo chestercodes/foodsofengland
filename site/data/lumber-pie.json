@@ -1,0 +1,78 @@
+﻿{
+  "earliestSnapshot": "20140212023131",
+  "finalPath": "lumber-pie.html",
+  "heading": "Lumber Pie",
+  "ingredients": [
+    "clowes",
+    "dates",
+    "eggs",
+    "raisins",
+    "saffron",
+    "salt",
+    "barberries",
+    "butter",
+    "fat",
+    "ginger",
+    "grapes",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "pepper",
+    "rose-water",
+    "salmon",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lumber-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Noble boke off cookry ffor a prynce houssolde or eny other estately houssolde\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#noble-boke-1480\u0022\u003E\u003Cb\u003ENoble Boke 1480\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo mak custad lombard\u003C/b\u003E mak a large coffyn then tak dates from the stones tak gobettes of mary [marrow] and smalle birdes and parboile them in salt brothe and couche ther in then tak clowes mace and raisins of corans and pynes fryed and strawe ther on and sett them in the oven to bak and luk ye haue a coup of cowes creme yolks of eggs good pouderes saffron sanderes and salt then fill the coffins ther with, and on fishe daies boille wardens or other peres paire them and hole them at the crown then fill them full of blaunche poudur and torn them in blaunche poudur and skoche them all about that the pouder may abid ther in then set the stalks upryght and ye may mak your coup of creme of almondes and shak up your custad as ye did of flesche and when they be bak gilt the stalkes of the peres and serue them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lumber-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Ci\u003ETo make a Lumber Pye of Salmon.\u003C/i\u003E\u003Cbr\u003E\nMince a rand, jole, or tail with a good fat fresh eel seasoned in all points as beforesaid [with pepper, salt, nutmeg cinamon, beaten ginger, caraway-seed, rose-water, butter, verjuyce, sugar, and orange-peel minced], put five or six yolks of eggs to it with one or two whites, make it into balls or rouls, with some hard eggs in quarters, put some butter in the pye, lay on the rouls, and on them large mace, dates in halves, slic\u2019t lemon, grapes, or barberries, \u0026 butter, close it up, bake it, and ice it; being baked, cut up the cover, fry some sage-leaves in batter, in clarified butter, and stick them in the rouls, cut the cover, and lay it on the plate about the pie, or mingle it with an eel cut into dice work, liquor it with verjuyce, sugar, and butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Exeter Lumber Pie",
+      "relatedPageUrl": "exeter-lumber-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003ELumbar-Pye, Lombard Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Lumber Pie",
+  "usedSnapshot": "20220516211843"
+}

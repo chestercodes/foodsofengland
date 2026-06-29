@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922094301",
+  "finalPath": "maldon-salt.html",
+  "heading": "Maldon Salt",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Maldon Beef",
+      "relatedPageUrl": "maldon-boiled-beef.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Maldon Salt",
+  "usedSnapshot": "20220517182415"
+}

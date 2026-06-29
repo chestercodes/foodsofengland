@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922084754",
+  "finalPath": "sack-cream.html",
+  "heading": "Sack Cream",
+  "ingredients": [
+    "cream",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sack-cream.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Sack Cream.\u003C/b\u003E\u003Cbr\u003E\nSet a quart of Cream on the fire, when it is boyled, drop in a spoonfull of sack, and stir it well the while, that it curd not, so do till you have dropped in six spoonfuls, then season it with sugar, Nutmeg, and strong water.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Sack Cream",
+  "usedSnapshot": "20220815155107"
+}

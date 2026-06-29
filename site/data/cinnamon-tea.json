@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073449",
+  "finalPath": "cinnamon-tea.html",
+  "heading": "Cinnamon Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cinnamon Tea",
+  "usedSnapshot": "20220810042323"
+}

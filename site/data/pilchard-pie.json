@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140616084648",
+  "finalPath": "pilchard-pie.html",
+  "heading": "Pilchard Pie",
+  "ingredients": [
+    "cream",
+    "leeks",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pilchard-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PILCHARD PIE. Soak two or three salted pilchards for some hours, the day before they are to be dressed. Clean and skin the white part of some large leeks, scald them in milk and water, and put them in layers into a dish, with the pilchards. Cover the whole with a good plain crust. When the pie is taken out of the oven, lift up the side crust with a knife, and empty out all the liquor: then pour in half a pint of scalded cream.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Stargazy Pie",
+      "relatedPageUrl": "stargazy-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Pilchard Pie",
+  "usedSnapshot": "20211018082405"
+}

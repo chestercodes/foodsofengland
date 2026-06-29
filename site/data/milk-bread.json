@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072849",
+  "finalPath": "milk-bread.html",
+  "heading": "Milk Bread",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blackpool Milk Roll",
+      "relatedPageUrl": "milk-roll.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Milk Bread",
+  "usedSnapshot": "20220527210521"
+}

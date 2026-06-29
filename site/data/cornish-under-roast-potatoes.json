@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922084745",
+  "finalPath": "cornish-under-roast-potatoes.html",
+  "heading": "Cornish Under Roast Potatoes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cornish Under Roast",
+      "relatedPageUrl": "cornish-under-roast.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cornish Under Roast Potatoes",
+  "usedSnapshot": "20220527053148"
+}

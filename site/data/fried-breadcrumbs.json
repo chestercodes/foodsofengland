@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922082650",
+  "finalPath": "fried-breadcrumbs.html",
+  "heading": "Fried Breadcrumbs",
+  "ingredients": [
+    "bread",
+    "butter",
+    "partridges",
+    "pheasants"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-breadcrumbs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EFried Bread Crumbs An Accompaniment To Boast Pheasants, Partridges, And Grouse.\u003C/b\u003E\u003Cbr\u003E\n343. Grate some stale bread, and if not very fine shake the crumbs through a colander so as to lie lightly in the dish. Melt a slice of butter in a frying-pan, and fry the crumbs till all are well and equally coloured, stirring them to prevent burning, then well drain and dry them on paper, or a cloth spread upon a sieve. If preferred, the crumbs may be browned very gently in a cool or a Dutch oven, without butter. They are easily removed with a slice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Fried Breadcrumbs",
+  "usedSnapshot": "20170314022954"
+}

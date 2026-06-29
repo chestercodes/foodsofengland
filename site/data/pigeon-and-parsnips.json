@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072433",
+  "finalPath": "pigeon-and-parsnips.html",
+  "heading": "Pigeon and Parsnips",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Pigeon and Parsnips",
+  "usedSnapshot": "20210518210622"
+}

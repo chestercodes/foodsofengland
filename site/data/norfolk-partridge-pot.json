@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922072357",
+  "finalPath": "norfolk-partridge-pot.html",
+  "heading": "Norfolk Partridge Pot",
+  "ingredients": [
+    "bay leaf",
+    "black pepper",
+    "ham",
+    "herbs",
+    "mushrooms",
+    "oatmeal",
+    "onion",
+    "partridge",
+    "pepper",
+    "salt",
+    "thyme",
+    "tomatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norfolk-partridge-pot.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Norfolk%20Partridge%20Pot\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ENORFOLK PARTRIDGE POT\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nServes 4\u003Cbr\u003E\n\u003Cbr\u003E\nPartridge - 4, jointed\u003Cbr\u003E\nSalt and freshly ground black pepper\u003Cbr\u003E\nFine oatmeal - 110g (4 oz)\u003Cbr\u003E\nCooked ham - 175g (6 oz), diced\u003Cbr\u003E\nBay leaf -1\u003Cbr\u003E\nCloves - 3\u003Cbr\u003E\nThyme - sprig\u003Cbr\u003E\nOnion - 1, chopped\u003Cbr\u003E\nTomatoes - 225g (8 oz), skinned and pulped\u003Cbr\u003E\nMushrooms - 175g (6 oz), sliced\u003Cbr\u003E\nPort or red wine - 300 ml (\u00BD pint)\u003Cbr\u003E\n\u003Cbr\u003E\nMETHOD\u003Cbr\u003E\nSeason the partridge pieces and coat with fine oatmeal.\u003Cbr\u003E\nIn a large casserole, lay them on a bed of diced ham.\u003Cbr\u003E\nAdd the herbs and other ingredients and pour over sufficient port or red wine to cover.\u003Cbr\u003E\nPut on the lid and place in the oven at 140 \u00B0C / 275 \u00B0F / Gas 1 for 2\u00BD hours.\u003Cbr\u003E\nServe at once, or - even better - leave for a day, then re-heat for another hour or so.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norfolk Partridge Pot",
+  "usedSnapshot": "20220516213938"
+}

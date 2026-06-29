@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922072335",
+  "finalPath": "sponge-cake.html",
+  "heading": "Sponge Cake",
+  "ingredients": [
+    "beat",
+    "eggs",
+    "flour",
+    "sugar",
+    "castor sugar",
+    "cream",
+    "lemon",
+    "milk",
+    "pastry",
+    "self-raising flour",
+    "tartar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "sponge-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Domesic Cookery\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESpunge cake.\u003C/b\u003E\u003Cbr\u003E\nWeigh fifteen eggs, put their weight in very fine sugar, and that of nine in flour, beat the yolks with the flour, and the whites alone to a very stiff froth; then by degrees mix the whites and the flour with the other ingredients, and beat them forty minutes. Bake in a quick oven about one hour and ten minutes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "sponge-cake.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "866. SPONGE CAKE (Surrey)\u003Cbr\u003E\n\u003Cbr\u003E\nThree eggs, their weight in castor sugar, the weight of two eggs in flour, three drops essence of lemon. Beat the eggs and sugar together, till light (quite twenty minutes\u0027 good beating), stir in the flour, but do not beat it, add the flavouring, put into a greased and sugared tin, and bake at once in a moderate oven, about thirty minutes.\u003Cbr\u003E\n\u003Cbr\u003E\n867. CHEAP SPONGE CAKE (Surrey)\u003Cbr\u003E\n\u003Cbr\u003E\nThree eggs, three cupfuls of flour, two cupfuls of sugar, half-cupful of milk, one teaspoonful of cream of tartar, half teaspoonful of soda, lemon. Bake quick. (Breakfast-cups are apparently intended. Ed.)\u003Cbr\u003E\n\u003Cbr\u003E\n868. RICH SPONGE CAKE (Hampshire)\u003Cbr\u003E\n\u003Cbr\u003E\nBreak twelve large eggs into a deep basin, beat for ten minutes, sift in by degrees one pound of castor sugar; when this has been beaten all together twenty minutes, sift half a pound of pastry flour and half a pound of self-raising flour, previously well mixed together and warmed. Continue to beat, till the time in aU is half an hour. Put into tins well buttered and sugared, and bake for one hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EVine\u0027s Shop Goods, 1907\u003C/b\u003E",
+      "relatedPageUrl": "vine-s-shop-goods-1907.html",
+      "relationDescription": "For a wide variety of traditional sponge cakes, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Sponge Cake",
+  "usedSnapshot": "20211207111642"
+}

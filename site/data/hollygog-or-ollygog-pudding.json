@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922074909",
+  "finalPath": "hollygog-or-ollygog-pudding.html",
+  "heading": "Hollygog or Ollygog Pudding",
+  "ingredients": [
+    "butter",
+    "fat",
+    "flour",
+    "golden syrup",
+    "lard",
+    "milk",
+    "plain flour",
+    "pudding",
+    "salt",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hollygog-or-ollygog-pudding.html-1",
+      "receiptSource": "Original Receipt (with thanks to Dennis Jenner) from Joe Curley, master-cook at Simpsons-in-the-Strand, reported in \u003Ci\u003EThe Sunday Times\u003C/i\u003E magazine c1979",
+      "receiptText": "\u003Cb\u003EHollygog Pudding\u003C/b\u003E\u003Cbr\u003E\nThis is a golden syrupy roly-poly which is baked in milk. It was first made in the Oxfordshire village of Kiddington, where it has been passed down among farming families.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EFor four to six people, you need:\u003Cbr\u003E\n8 oz. plain flour, 4 oz. butter or lard, pinch of salt, \u003Ca href=\u0022golden-syrup.html\u0022\u003E\u003Cb\u003EGolden Syrup\u003C/b\u003E\u003C/a\u003E or treacle, mug of milk, cold water to mix.\u003C/i\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSieve flour and salt, rub fat into flour until it has a breadcrumb consistency, and add a little milk to form a stiff dough. Roll out into rectangular strip, spread with syrup or treacle, and roll up like a Swiss roll. Put it in a greased baking dish, and pour over enough milk to come half way up the side. Bake in a pre-heated, moderately hot oven (400 de-grees) for 30-45 minutes. Serve in slices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hollygog or Ollygog Pudding",
+  "usedSnapshot": "20210510052809"
+}

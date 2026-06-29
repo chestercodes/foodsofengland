@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922083547",
+  "finalPath": "sharp-sauce.html",
+  "heading": "Sharp Sauce",
+  "ingredients": [
+    "sugar",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sharp-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SHARP SAUCE. Put into a silver saucepan, or one that is very clean and well tinned, half a pint of the best white wine vinegar, and a quarter of a pound of pounded loaf sugar. Simmer it gently over the fire, skim it well, pour it through a tammis or fine sieve, and send it up in a basin. This sauce is adapted for venison, and is often preferred to the sweet wine sauces.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Sharp Sauce",
+  "usedSnapshot": "20220517173838"
+}

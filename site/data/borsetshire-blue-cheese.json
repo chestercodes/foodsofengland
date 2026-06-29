@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922092516",
+  "finalPath": "borsetshire-blue-cheese.html",
+  "heading": "Borsetshire Blue Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Hazardy Jack",
+      "relatedPageUrl": "hazardy-jack.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Dorsetshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Borsetshire Blue Cheese",
+  "usedSnapshot": "20211019173829"
+}

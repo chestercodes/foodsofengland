@@ -1,0 +1,35 @@
+﻿{
+  "earliestSnapshot": "20150922090027",
+  "finalPath": "hop-buds.html",
+  "heading": "Hop Buds",
+  "ingredients": [
+    "asparagus",
+    "hops"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hop-buds.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E30. Hops, Lupulus:\u003C/b\u003E Hot and moist, rather Medicinal, than fit for sallet; the Buds and young Tendrels excepted, which may be eaten raw; but more conveniently being boil\u0027d, and cold like Asparagus: They are Diuretic; depurate the Blood, and open Obstructions.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Hop Buds",
+  "usedSnapshot": "20170313205642"
+}

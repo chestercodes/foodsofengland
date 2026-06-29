@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212191903",
+  "finalPath": "heavy-cake.html",
+  "heading": "Heavy Cake",
+  "ingredients": [
+    "butter",
+    "caster sugar",
+    "fat",
+    "flour",
+    "lard",
+    "milk",
+    "salt",
+    "sugar",
+    "sultanas"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "heavy-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Heavy%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECORNISH HEAVY CAKE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb self raising flour\u003Cbr\u003E\n3 oz butter\u003Cbr\u003E\n3 oz lard\u003Cbr\u003E\n4 oz caster sugar\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n8 oz sultanas\u003Cbr\u003E\n\u003Cbr\u003E\nPut the dry ingredients without the sultanas in a bowl and rub in the fat. Add sultanas and milk and mix to a dough. Roll out into a slab about \u00BE inch thick. Mark with cutting lines, brush with milk. Bake at 200C for about 20 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Hevva Cake, Heva Cake",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Heavy Cake",
+  "usedSnapshot": "20220115201827"
+}

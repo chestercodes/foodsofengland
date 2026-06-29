@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922073132",
+  "finalPath": "boiled-parsnips.html",
+  "heading": "Boiled Parsnips",
+  "ingredients": [
+    "beef",
+    "carrots",
+    "parsnips",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "boiled-parsnips.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBOILED PARSNIPS.\u003C/b\u003E\u003Cbr\u003E\n1132. INGREDIENTS: Parsnips; to each gallon of water allow 1 heaped tablespoonful of salt.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Wash the parsnips, scrape them thoroughly, and, with the point of the knife, remove any black specks about them, and, should they be very large, cut the thick part into quarters. Put them into a saucepan of boiling water salted in the above proportion, boil them rapidly until tender, which may be ascertained by thrusting a fork in them; take them up, drain them, and serve in a vegetable-dish. This vegetable is usually served with salt fish, boiled pork, or boiled beef: when sent to table with the latter, a few should be placed alternately with carrots round the dish, as a garnish.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: Large parsnips, 1 to 1-\u00BD hour; small ones,\u00BD to 1 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1d. each.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: Allow 1 for each person.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from October to May.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Boiled Parsnips",
+  "usedSnapshot": "20211018065201"
+}

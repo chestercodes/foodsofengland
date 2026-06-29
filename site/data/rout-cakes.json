@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20150922071716",
+  "finalPath": "rout-cakes.html",
+  "heading": "Rout Cakes",
+  "ingredients": [
+    "brandy",
+    "butter",
+    "currants",
+    "eggs",
+    "flour",
+    "orange",
+    "rose water",
+    "sugar",
+    "almonds",
+    "biscuits",
+    "lemon",
+    "milk"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "rout-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ROUT CAKES. To make rout drop-cakes, mix two pounds of flour with one pound of butter, one pound of sugar, and one pound of currants, cleaned and dried. Moisten it into a stiff paste with two eggs, a large spoonful of orange-flower water, as much rose water, sweet wine, and brandy. Drop the paste on a tin plate floured, and a short time will bake them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rout-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Modern Housewife\u003C/i\u003E\u0027 (1850), by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1850\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "866. Rout Cakes. Procure one pound of ground almonds, to which add one pound of powdered sugar, mixing them together with yolks of eggs until forming a stiffish but flexible paste, when form it into small biscuits of the shapes of coronets, bunches of filberts, birds\u0027 nests, or any other shapes your fancy may dictate; let them remain five or six hours, or all night, upon the baking-sheet, and bake them in a warm oven.\u003Cbr\u003E\n\u003Cbr\u003E\n867. Rout Biscuits. Boil a pound and a quarter of lump sugar, upon which you have rubbed the rind of a lemon, in half a pint of milk; when cold, rub half a pound of butter with two pounds of flour, make a hole in the centre, pour in the milk with as much carbonate of soda as would he upon a sixpence, and a couple of eggs, mix the whole into a smooth paste, ay it out upon your baking-sheet in whatever flat shapes you please, and bake them in a very warm oven.\u003Cbr\u003E\n\u003Cbr\u003E\nThe proper way to shape these biscuits is by wooden blocks having leaves, pine-apples, and other devices carved upon them.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rout-cakes.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E821. ROUT CAKES (Middlesex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nRub into two pounds of flour an ounce of fresh butter, washed in orange-flower water; then add half a pound of well beaten loaf sugar, the same weight of candied orange and lemon cut into strips, and a quarter of a pound of well-dried currants; mix all these ingredients well together with five eggs, well beaten, and half a glass of brandy or ratafia, or a little of both; drop this paste in small rough knobs upon floured tins, and bake in a quick oven; they will require but a very short time to bake, as they must not be high-coloured.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Rout Cakes",
+  "usedSnapshot": "20211021012904"
+}

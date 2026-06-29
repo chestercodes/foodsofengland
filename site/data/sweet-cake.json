@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922072709",
+  "finalPath": "sweet-cake.html",
+  "heading": "Sweet Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Sweet Cake",
+  "usedSnapshot": "20211027040309"
+}

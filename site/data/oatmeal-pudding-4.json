@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922083022",
+  "finalPath": "oatmeal-pudding-4.html",
+  "heading": "Oatmeal Pudding (4)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "lady-1677"
+    }
+  ],
+  "title": "Oatmeal Pudding (4)",
+  "usedSnapshot": "20211019185752"
+}

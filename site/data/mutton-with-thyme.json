@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20130323203620",
+  "finalPath": "mutton-with-thyme.html",
+  "heading": "Mutton with Thyme",
+  "ingredients": [
+    "lemon",
+    "mutton",
+    "nutmeg"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mutton-with-thyme.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Draw your shoulder of mutton, and when it is half roasted, save the gravie, and cut a good deal of the inside of it, and mince it grosse, and boyl it in a dish with the gravie, and Time, Claret wine, and sliced Nutmeg, and when your shoulder is rosted, lay it in the dish with sliced Lemon, but remember to scorch your Mutton to rosting, as you doe when you boil it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Mutton"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Thyme"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    }
+  ],
+  "title": "Mutton with Thyme",
+  "usedSnapshot": "20211201005113"
+}

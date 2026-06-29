@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922092403",
+  "finalPath": "pork-and-pepper.html",
+  "heading": "Pork and Pepper",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pork and Pepper",
+  "usedSnapshot": "20211205171139"
+}

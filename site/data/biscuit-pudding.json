@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140508102631",
+  "finalPath": "biscuit-pudding.html",
+  "heading": "Biscuit Pudding",
+  "ingredients": [
+    "almonds",
+    "biscuit",
+    "biscuits",
+    "brandy",
+    "butter",
+    "cream",
+    "eggs",
+    "flour",
+    "milk",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "biscuit-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EBiscuit Pudding.\u003C/b\u003E\u003Cbr\u003E\nS97. Pour one pint of boiling milk on three penny Naples biscuits grated, cover it close; when cold, stir in the yolks of four and the whites of two eggs, a little brandy, half a spoonful of flour, and some sugar. Boil this an hour in a basin, and serve it with pudding-sauce; some almonds may be blanched and cut in four, and stuck over the pudding.\u003Cbr\u003E\n\u003Cb\u003EAnother.-\u003C/b\u003E Weigh two eggs, and take equal weight of flour and sugar, and a quarter of a pound of butter beaten to a cream; add the two eggs beaten, and mix well. This is suificient for six small cups filled three parts full, bake them in a slow oven twenty minutes. Serve with \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003Ewine sauce\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Biscuit Pudding",
+  "usedSnapshot": "20211205180424"
+}

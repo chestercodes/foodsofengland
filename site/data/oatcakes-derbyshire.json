@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20150922080849",
+  "finalPath": "oatcakes-derbyshire.html",
+  "heading": "Oatcakes - Derbyshire",
+  "ingredients": [
+    "oatmeal",
+    "salt",
+    "yeast",
+    "flour",
+    "lard",
+    "margarine",
+    "milk",
+    "oats",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "oatcakes-derbyshire.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EBurton Daily Mail\u003C/i\u003E\u0027 - Tuesday 03 April 1917",
+      "receiptText": "\u003Cb\u003EOatcakes - Derbyshire Way.\u003C/b\u003E 2lb. fine oatmeal, tablespoonful of salt, \u00BD oz yeast. Dissolve yeast in a little warm water. Make a batter with the meal and warm water about thick as for making pikelets. It must be well mixed, or the meal will be in lumps. Add the yeast and leave it about an hour to rise, when ready for baking - which should done on a hot-iron plate - A good teacupful is enough for a cake. Time to bake about ten minutes each. To brown them nicely on both sides they require a proper cake board to turn them, as you cannot turn them with a knife as you would a pikelet or a pancake. This is the Derbyshire way. Perhaps someone will give the Yorkshire way, as they are made different to these? They are much and nicer and lighter baked on a bakestone than an iron, but those are not made now. I have a cakeboard and a bakestone that have been in use over 50 years. If anyone likes to see them they can do so. - Mrs. Smith, 216a, Waterloo Street.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oatcakes-derbyshire.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDerbyshire Times and Chesterfield Herald\u003C/i\u003E\u0027 - Friday 02 June 1939",
+      "receiptText": "DERBYSHIRE OATCAKES. Six heaped tablespoonfuls fine oatmeal, 3 heaped tablespoonfuls flour, 2 saltspoonfuls salt, i pint of new milk. pint of water 1 oz. of yeast. Mix dry ingredients together in bowl, warm the milk (don\u2019t hot), add the latter to dry ingredients and mix well, then crumble in the yeast and stir well. Let the mixture stand 20 minutes, bake in a lard greased frying pan slowly, turn cake over to brown both sides. Quantity: Eight cakes.\u003Cbr\u003E\nOATCAKES. \u2014Mix well together 1 lb. of Quaker oats and 6 oz. of sugar; add lb. of margarine melted and mix all well. Grease some baking tins and put one quarter of the mixture in each and bake in a moderate oven until crisp.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EOat Cakes\u003C/b\u003E",
+      "relatedPageUrl": "oat-cakes.html",
+      "relationDescription": "For other types of oat bread and biscuit, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Oatcakes - Derbyshire",
+  "usedSnapshot": "20220805202309"
+}

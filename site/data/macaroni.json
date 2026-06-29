@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922093504",
+  "finalPath": "macaroni.html",
+  "heading": "Macaroni",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Buckinghamshire Rabbit Pie",
+      "relatedPageUrl": "buckinghamshire-rabbit-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Durham Cutlets",
+      "relatedPageUrl": "durham-cutlets.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Macaroni Cheese",
+      "relatedPageUrl": "macaroni-cheese.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Macaroni Pudding",
+      "relatedPageUrl": "macaroni-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Macrows or Maccherone",
+      "relatedPageUrl": "macrows-or-maccherone.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Roman Pie",
+      "relatedPageUrl": "roman-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stokenchurch Pie",
+      "relatedPageUrl": "stokenchurch-pie.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Macaroni",
+  "usedSnapshot": "20220527230507"
+}

@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922090107",
+  "finalPath": "ashdown-partridge-pudding.html",
+  "heading": "Ashdown Partridge Pudding",
+  "ingredients": [
+    "beef",
+    "herbs",
+    "mushrooms",
+    "parsley",
+    "partridge",
+    "partridges",
+    "pudding",
+    "rump steak",
+    "steak",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "ashdown-partridge-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Ashdown%20Partridge%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EASHDOWN PARTRIDGE PUDDING\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 dressed partridges,\u003Cbr\u003E\n4oz sliced mushrooms,\u003Cbr\u003E\n4ozs rump steak,\u003Cbr\u003E\n\u00BC pt claret,\u003Cbr\u003E\n\u00BD teaspoon each of mixed herbs/parsley,\u003Cbr\u003E\n1 pt game or beef stock,\u003Cbr\u003E\n2lb suet paste.\u003Cbr\u003E\n\u003Cbr\u003E\nSlice the beef and joint the partridge into 4/6 pieces. Line a pudding basin with 2/3 of the suet paste and place in the partridge, beef, mushrooms and herbs. Season and pour over the claret and enough of the stock to cover. Cover with the remaining paste, tie down with greaseproof and a pudding cloth or kitchen foil, steam for 3-3\u00BD hrs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Ashdown Partridge Pudding",
+  "usedSnapshot": "20200107100447"
+}

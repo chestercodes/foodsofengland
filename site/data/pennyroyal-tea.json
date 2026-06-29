@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922073421",
+  "finalPath": "pennyroyal-tea.html",
+  "heading": "Pennyroyal Tea",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pennyroyal Pudding",
+      "relatedPageUrl": "pennyroyal-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Pennyroyal Tea",
+  "usedSnapshot": "20211021025949"
+}

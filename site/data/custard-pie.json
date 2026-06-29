@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20140212031819",
+  "finalPath": "custard-pie.html",
+  "heading": "Custard Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Custard Tart",
+      "relatedPageUrl": "custard-tart.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Custard Pie",
+  "usedSnapshot": "20211021021620"
+}

@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922093812",
+  "finalPath": "malt-loaf.html",
+  "heading": "Malt Loaf",
+  "ingredients": [
+    "bread",
+    "carbonate soda",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "malt-loaf.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EDerbyshire Times and Chesterfield Herald\u003C/i\u003E\u0027 - Saturday 07 June 1930",
+      "receiptText": "\u003Cb\u003EWHOLEMEAL TREACLE BREAD OR \u201CMALT LOAF.\u201D\u003C/b\u003E\u003Cbr\u003E\nFour large teacups wholemeal, four large teacups white flour, two large teacups sugar, two large teacups dark treacle, two large teacups fruit (about 1 lb.) any sort, two teaspoons carbonate soda, little salt, one-and-a-half cups milk. Warm treacle, stir in carbonate soda, leave in warm place until mixture becomes frothy. Mix all dry ingredients, stir in treacle, mix in milk to very stiff cake mixture. Bake in slow oven two hours. Sufficient for four small loaves. Keep few days before eating.\u003Cbr\u003E\n\u003Cbr\u003E\n- Sent in by Mrs. R. C. HOLLINGWORTH, 27. Tapton View Road. CHESTERFIELD, who is this week\u0027s winner of half-a-crown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Malt Loaf",
+  "usedSnapshot": "20220705090650"
+}

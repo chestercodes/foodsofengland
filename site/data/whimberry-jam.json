@@ -1,0 +1,24 @@
+﻿{
+  "earliestSnapshot": "20150922081739",
+  "finalPath": "whimberry-jam.html",
+  "heading": "Whimberry Jam",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Whimberry Relish",
+      "relatedPageUrl": "whimberry-relish.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Whimberry Jam",
+  "usedSnapshot": "20210510052159"
+}

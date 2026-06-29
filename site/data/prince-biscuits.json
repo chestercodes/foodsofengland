@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20140508110505",
+  "finalPath": "prince-biscuits.html",
+  "heading": "Prince Biscuits",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "carroway seeds",
+    "rose water",
+    "sugar",
+    "eggs"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "prince-biscuits.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Arte of Preserving Conserving, Candying \u0026amp;c\u003C/i\u003E\u0027 by Hugh Plat, 1609 (\u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E20. To make prince-bisket\u003C/b\u003E\u003Cbr\u003E\nTake one pound of very fine flower, and one pound of fine sugar, and eight egges, and two spoonfuls of Rose water, and one ounce of Carroway seeds, and beat it all to batter one whole houre: for the more you beat it, the better your bread is; then bake it in coffins, of white plate, being basted with a little butter before you put in your batter, and so keepe it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "prince-biscuits.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Prince Biskets\u003C/b\u003E\u003Cbr\u003E\nTake a pound of searsed sugar, and a pound of fine flower, eight Eggs with two of the reddest yolks taken out, and so beat together one whole hour, then take you Coffins, and indoice them over with Butter very thin, then put an ounce of Anniseeds finely dusted, and when you are ready to fill your Coffins, put in the Anniseeds and so bake it in an Oven as hot as for Manchet.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1671"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Prince Biscuits",
+  "usedSnapshot": "20210512113634"
+}

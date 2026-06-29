@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20140212024911",
+  "finalPath": "westmorland-currant-pasty.html",
+  "heading": "Westmorland Currant Pasty",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Westmorland Currant Pasty",
+  "usedSnapshot": "20211129121448"
+}

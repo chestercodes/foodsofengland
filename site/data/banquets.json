@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20231201035008",
+  "finalPath": "banquets.html",
+  "heading": "Banquets",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Barbecued Hog",
+      "relatedPageUrl": "barbecue.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Yorkshire Collops",
+      "relatedPageUrl": "yorkshire-collop.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Pork Lozenges",
+      "relatedPageUrl": "pork-lozenges-de-chare.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Oxford Skates",
+      "relatedPageUrl": "oxford-skates.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Lord d\u0027Aubigny\u0027s Broiled Herrings",
+      "relatedPageUrl": "lord-d-aubigny-s-broiled-herrings.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Skuetts",
+      "relatedPageUrl": "skuett.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Minced Collops",
+      "relatedPageUrl": "minced-collops.html",
+      "relationDescription": "(see "
+    },
+    {
+      "relatedPageText": "Alanders",
+      "relatedPageUrl": "alows.html",
+      "relationDescription": "(see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Banquets",
+  "usedSnapshot": "20231201035008"
+}

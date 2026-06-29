@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922081833",
+  "finalPath": "kirkleatham-yeast.html",
+  "heading": "Kirkleatham Yeast",
+  "ingredients": [
+    "bread",
+    "flour",
+    "hops",
+    "potatoes",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kirkleatham-yeast.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EKIRKLEATHAM YEAST.\u003C/b\u003E\u003Cbr\u003E\n1717. INGREDIENTS: 2 oz. of hops, 4 quarts of water,\u00BD lb. of flour,\u00BD pint of yeast.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Boil the hops and water for 20 minutes; strain, and mix with the liquid\u00BD lb. of flour and not quite\u00BD pint of yeast. Bottle it up, and tie the corks down. When wanted for use, boil potatoes according to the quantity of bread to be made (about 3 lbs. are sufficient for about a peck of flour); mash them, add to them\u00BD lb. of flour, and mix about\u00BD pint of the yeast with them; let this mixture stand all day, and lay the bread to rise the night before it is wanted.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 20 minutes to boil the hops and water.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E:\u00BD pint of this yeast sufficient for a peck of flour, or rather more.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cleveland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Kirkleatham Yeast",
+  "usedSnapshot": "20211027023448"
+}

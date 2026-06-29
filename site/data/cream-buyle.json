@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922071520",
+  "finalPath": "cream-buyle.html",
+  "heading": "Cream Buyle",
+  "ingredients": [
+    "eggs",
+    "saffron",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cream-buyle.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Noble boke off cookry ffor a prynce houssolde or eny other estately houssolde\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#noble-boke-1480\u0022\u003E\u003Cb\u003ENoble Boke 1480\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo mak creme buile\u003C/b\u003E tak cow creme and yolks of eggs drawe and well bet that it be stonding and put ther to sugur and colour it with saffron and salt it then lesk it in dyshes and plant ther in floures of borage and serue it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    }
+  ],
+  "title": "Cream Buyle",
+  "usedSnapshot": "20220527054050"
+}

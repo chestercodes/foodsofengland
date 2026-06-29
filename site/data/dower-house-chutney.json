@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922082450",
+  "finalPath": "dower-house-chutney.html",
+  "heading": "Dower House Chutney",
+  "ingredients": [
+    "chillies",
+    "chutney",
+    "demerara sugar",
+    "garlic",
+    "ginger",
+    "malt vinegar",
+    "onions",
+    "plums",
+    "raisins",
+    "salt",
+    "sugar",
+    "tomatoes",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "dower-house-chutney.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:info@foodsofengland.co.uk\u0022\u003E\u003Cb\u003Einfo@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EOld dowerhouse Chutney. (Makes 8 lb)\u003C/b\u003E\u003Cbr\u003E\n1 \u00BD lb plums preferably Victorias\u003Cbr\u003E\n8 oz green or red tomatoes.\u003Cbr\u003E\n8 oz onions.\u003Cbr\u003E\n1 \u00BD lb cooking apples weighed after coring. Roughly 2.lb.\u003Cbr\u003E\n1 lb stoned raisins\u003Cbr\u003E\n4oz preserved ginger\u003Cbr\u003E\n1/4 oz finely chopped garlic\u003Cbr\u003E\n1 pint malt vinegar\u003Cbr\u003E\n1 \u00BD lb Demerara sugar\u003Cbr\u003E\n1 \u00BD tablespoons of salt\u003Cbr\u003E\n1/4 oz whole chillies.\u003Cbr\u003E\n\u003Cb\u003Emethod:\u003C/b\u003E\u003Cbr\u003E\nWash and half plums, remove the stones and cut in half again chop the tomatoes roughly and place both in preserving pan. Pass the onions, apples, raisins and ginger through food processor, and add to the pan together with chopped garlic, vinegar sugar and salt,\u003Cbr\u003E\ntie the chillies in gauze with string and suspend them from the handle of the pan. Cook the chutney very slowly for 1 - 1 \u00BD hours or until most of the liquid has evaporated. Stir during cooking to stop it sticking to pan. Pot the chutney when it is still hot into hot jars. Seal with waxed discs and tight lids.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EOld Dowerhouse Chutney\u003C/b\u003E. Occasionally misspelled \u0027Dover House\u0027 or \u0027Doverhouse\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Dower House Chutney",
+  "usedSnapshot": "20220714013004"
+}

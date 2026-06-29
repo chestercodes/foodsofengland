@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922071855",
+  "finalPath": "lettuce-soup.html",
+  "heading": "Lettuce Soup",
+  "ingredients": [
+    "bacon",
+    "bread",
+    "butter",
+    "cabbage",
+    "carrots",
+    "lettuce",
+    "lettuces",
+    "onions",
+    "salt",
+    "sugar",
+    "veal",
+    "eggs",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "pepper"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lettuce-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Cook\u0027s Dictionary,\u003C/i\u003E by Richard Dolby, 1830",
+      "receiptText": "\u003Cb\u003ELettuce Soup\u003C/b\u003E\u003Cbr\u003E\nHaving picked and washed the lettuces put them into boiling water with a handful of salt for half an hour, then throw them into cold water, the lettuces being cooled press out the water, and tie them up, lay some slices of veal in a stewpan then slices of bacon, place your lettuces on them, cover them with the same, put in some onions and carrots sliced, moisten them with stock and boil them over a gentle fire for an hour, or longer if necessary, prepare your bread as usual and place the lettuces on it.\u003Cbr\u003E\n\u003Cb\u003ELettuce Soup\u003C/b\u003E\u003Cbr\u003E\nTake two dozen fine cabbage lettuces well washed and blanched in salt and water, when done take a cullender spoon and put them in a stewpan of clear water for a few minutes, place them on a clear hair sieve and when well strained they must be cut across in three pieces and put in a soup pot with a little sugar and salt, fill it up with good consomme and set it by the stove to boil gently, skim it well and clarify it the same as other soups.\u003Cbr\u003E\n\u003Cb\u003ELettuces minced Soup\u003C/b\u003E\u003Cbr\u003E\nPick off all the green leaves of the lettuces, chop the heart small and toss them up in a little butter till they are reduced to a pulp, then add your broth or stock and boil them for an hour. Soak your bread as usual and then finish your soup.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lettuce-soup.html-2",
+      "receiptSource": "Original Receipt from Launceston Weekly News, and Cornwall \u0026 Devon Advertiser. - Saturday 02 June 1877",
+      "receiptText": "Lettuce Soup. -Boil some lettuces in salted water when quite done drain them well, and pass them through a hair sieve. Mix a small piece of butter with a tablespoonful of flour in a saucepan, add little stock, then the pur6e of lettuce, let boil for minute or so, add as much stock is necessary to make the soup, season with pepper, salt, and grated nutmeg, and make it hot At the dose of serving stir in, off the fire, the yolks of two eggs beaten up with a few drops of lemon juice and strained, then add a half pat of fresh butter\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Lettuce Soup",
+  "usedSnapshot": "20210512120747"
+}

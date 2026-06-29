@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922105159",
+  "finalPath": "lady-hornby-s-souffle-2.html",
+  "heading": "Lady Hornby\u0027s Souffle",
+  "ingredients": [
+    "almonds",
+    "beat",
+    "brandy",
+    "butter",
+    "caster sugar",
+    "custard",
+    "egg",
+    "egg whites",
+    "marmalade",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lady-hornby-s-souffle-2.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lady%20Hornby\u0027s%20Souffle\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELady Hornby\u0027s Souffle\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nButter and caster sugar for the dish\u003Cbr\u003E\n3 large tbsp coarse \u003Ca href=\u0022marmalade.html\u0022\u003E\u003Cb\u003Emarmalade\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n1 tbsp brandy\u003Cbr\u003E\n5 egg whites\u003Cbr\u003E\nSalt\u003Cbr\u003E\n4 oz caster sugar\u003Cbr\u003E\n1 oz split almonds\u003Cbr\u003E\n\u003Cbr\u003E\nHeat the oven to 200C, 400F, Gas 6. Butter a 3 pint dish and sprinkle all over with sugar (this gives the crust extra flavour). In a bowl mix together the marmalade and brandy until evenly combined. Whisk the egg whites with the salt until they are stiff. Add the sugar and beat until stiff and glossy. Fold in the marmalade mixture and spoon into the dish. Sprinkle with almonds and bake for 15-17 minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nRemove the souffle from the oven and serve with \u003Ca href=\u0022custard-sauce.html\u0022\u003E\u003Cb\u003Ecustard sauce\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Lady Hornby\u0027s Souffle",
+  "usedSnapshot": "20200116025546"
+}

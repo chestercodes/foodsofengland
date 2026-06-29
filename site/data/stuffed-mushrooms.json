@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922081413",
+  "finalPath": "stuffed-mushrooms.html",
+  "heading": "Stuffed Mushrooms",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "ham",
+    "mushrooms",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stuffed-mushrooms.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EBlackburn Standard\u003C/i\u003E\u0027- Saturday 29 September 1900",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\nStuffed Mushrooms;\u003C/b\u003E 1 oz butter, two table- spoonfuls breadcrumbs, one tablespoonful chopped ham or tongue, one tablespoonful minced parsley, six or eight mushrooms (medium size), small piece of onion minced, salt and pepper. Remove the stems from the mushrooms and skin them; season. Put the butter into a saucepan, and when hot fry in it the onion. Now add the other ingredients; fill the mushrooms with this, put them in a buttered baking tin with a little butter on each. Bake about ten minutes. Serve on rounds of buttered toast a little larger than the mushrooms.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Stuffed Mushrooms",
+  "usedSnapshot": "20211205165920"
+}

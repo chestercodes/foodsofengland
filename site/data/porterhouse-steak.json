@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20130324050928",
+  "finalPath": "porterhouse-steak.html",
+  "heading": "Porterhouse Steak",
+  "ingredients": [
+    "beef",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "porterhouse-steak.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E1142- PORTERHOUSE-STEAK (Grill)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPorterhouse-steak is a slice from the sirloin of beef, which may be more or less thick. It is cleared of the flank and of the bones of the chine, and it is always grilled.\u003Cbr\u003E\n\u003Cbr\u003E\nIt may be served with any of the various garnishes and sauces suited to grills; but it is more often served plain.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Porterhouse Steak",
+  "usedSnapshot": "20211018080516"
+}

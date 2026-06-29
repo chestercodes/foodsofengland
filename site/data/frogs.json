@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922075010",
+  "finalPath": "frogs.html",
+  "heading": "Frogs",
+  "ingredients": [
+    "barberries",
+    "butter",
+    "gooseberries",
+    "grapes",
+    "herbs",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "parsnips",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "frogs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo bake Frogs.\u003C/b\u003E\u003Cbr\u003E\nBeing flayed, take the hind legs, cut off the feet, and season them with nutmeg, pepper, and salt, put them in a pye with some sweet herbs chopped small, large mace, slic\u0027t lemon, gooseberries, grapes, or \u003Ca href=\u0022barberries.html\u0022\u003E\u003Cb\u003EBarberries\u003C/b\u003E\u003C/a\u003E, pieces of skirrets, artichocks, potatoes, or parsnips, and marrow; close it up and bake it; being baked, liquor it with butter, and juyce of orange, or grape-verjuyce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFrogs...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/frogs.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Frogs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    }
+  ],
+  "title": "Frogs",
+  "usedSnapshot": "20220527221248"
+}

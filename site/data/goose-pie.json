@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212033510",
+  "finalPath": "goose-pie.html",
+  "heading": "Goose Pie",
+  "ingredients": [
+    "beat",
+    "butter",
+    "flour",
+    "goose",
+    "pepper",
+    "salt",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "goose-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a goose pie.\u003C/b\u003E\u003Cbr\u003E\nHALF a peck of flour will make the walls of a goose pie, made as in the receipts for crust. Raise your crust just big enough to hold a large goose; first have a pickled dried tongue boiled tender enough to peel, cut off the root, bone a goose and a large fowl; take half a quarter of an ounce of mace beat fine, a large tea-spoonful of beaten pepper, three tea-spoonfuls of salt; mix all together, season your fowl and goose with it, then lay the fowl in the goose, and the tongue in the fowl, and the goose in the same form as if whole. Put half a pound of butter on the top, and lay on the lid. This pie is delicious, either hot or cold, and will keep a great while. A slice of this pie cut down across makes a pretty little side-dish for supper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Green Goose Pie",
+      "relatedPageUrl": "green-goose-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Goose Pie",
+  "usedSnapshot": "20220808012737"
+}

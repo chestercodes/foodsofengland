@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212020715",
+  "finalPath": "medley-pie-leicestershire-version.html",
+  "heading": "Medley Pie (Leicestershire Version)",
+  "ingredients": [
+    "ale",
+    "bacon",
+    "fat",
+    "ginger",
+    "lard",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "medley-pie-leicestershire-version.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EThe Practice of Cookery\u003C/i\u003E\u0027 by Mrs. Dalgairns, 1830.",
+      "receiptText": "\u003Cb\u003ELEICESTERSHIRE MEDLEY PIE.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCut some apples into quarters, take out the core, but do not peel them; cut thick slices of cold fat bacon, and any sort of cold roasted meat, season them with pounded ginger, pepper, and salt; put into the dish a layer of each, and pour over the top a large cupful of ale; cover the dish with a paste made with dripping or lard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Medley Pies",
+      "relatedPageUrl": "medley-pie.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Medley Pie (Leicestershire Version)",
+  "usedSnapshot": "20220516214513"
+}

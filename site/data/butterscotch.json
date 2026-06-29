@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20150922073852",
+  "finalPath": "butterscotch.html",
+  "heading": "Butterscotch",
+  "ingredients": [
+    "butter",
+    "demerara sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "butterscotch.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Butterscotch\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EButterscotch\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1/4 pint of water\u003Cbr\u003E\n1lb Demerara sugar\u003Cbr\u003E\n2oz butter\u003Cbr\u003E\n\u003Cbr\u003E\nBring water to the boil, add sugar and butter, heat slowly stirring till sugar dissolves and butter melts, bring to boil and cover pan and boil gently for 2 mins. Uncover continue to boil without stirring for about 12 mins, or until little of mixture dropped into cold water separates into hard, but not brittle, threads. Pour into a buttered tin to set, marking the top with score-line to break when cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Butterscotch",
+      "relatedPageUrl": "butterscotch.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Butterscotch Apple Pie",
+      "relatedPageUrl": "butterscotch-apple-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Butterscotch Sauce",
+      "relatedPageUrl": "butterscotch-sauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Butterscotch Tart",
+      "relatedPageUrl": "butterscotch-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Doncaster Butterscotch",
+      "relatedPageUrl": "doncaster-butterscotch.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Everton Toffee",
+      "relatedPageUrl": "everton-toffee.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Harrogate Toffee",
+      "relatedPageUrl": "harrogate-toffee.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Butterscotch",
+  "usedSnapshot": "20220516205255"
+}

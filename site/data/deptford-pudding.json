@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922081003",
+  "finalPath": "deptford-pudding.html",
+  "heading": "Deptford Pudding",
+  "ingredients": [
+    "beat",
+    "bread",
+    "breadcrumbs",
+    "brown sugar",
+    "cream",
+    "custard",
+    "egg",
+    "egg whites",
+    "egg yolks",
+    "eggs",
+    "icing sugar",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "orange",
+    "pudding",
+    "soft brown sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "deptford-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Deptford%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EDeptford Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 slices of white bread, crusts removed.\u003Cbr\u003E\n2 large eggs, separated.\u003Cbr\u003E\n2 oz soft brown sugar\u003Cbr\u003E\n6 fl oz milk\u003Cbr\u003E\n6 fl oz single cream\u003Cbr\u003E\nZest and juice of 1 lemon and 1 orange\u003Cbr\u003E\nIcing sugar for dusting.\u003Cbr\u003E\n\u003Cbr\u003E\nGrease a 1 to 1\u00BD pint dish and heat your oven to 180 C350 F). Make breadcrumbs from the 6 slices of bread, I used a food processor. Beat the egg yolks and sugar together, then add the milk and the cream, whisking everything together thoroughly. Fold in the breadcrumbs, the zests and the orange and lemon juice. Beat the egg whites till they stand in stiff peaks, fold them into the bread and milk mixture.\u003Cbr\u003E\nPour the mixture into your dish, and put the dish inside a larger roasting tin. Fill the roasting tin with hot water so that it comes halfway up the sides of your pie dish. Bake about 40 minutes, or until the custard has risen and is golden. Serve dusted with icing sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "London"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Deptford Pudding",
+  "usedSnapshot": "20220516211804"
+}

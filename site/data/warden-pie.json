@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20150922073655",
+  "finalPath": "warden-pie.html",
+  "heading": "Warden Pie",
+  "ingredients": [
+    "ginger",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "warden-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA book of cookrye. Very necessary for all such as delight therin\u003C/i\u003E\u0027, gathered by \u0022AW\u0022 (\u003Ca href=\u0022references.html#aw-1591\u0022\u003E\u003Cb\u003EAW 1591\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EHow to bake Wardens.\u003C/b\u003E\u003Cbr\u003E\nCore your wardens and pare them, and perboyle them and laye them in your paste, and put in every warden where you take out the Core a Clove or twain, put to them Sugar, Ginger, Sinamon, more sinamon then ginger, make your crust very fine and somewhat thick, and bake them leisurely.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "warden-pie.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003Ex. Wardonys in syryp\u003C/b\u003E - Take wardonys, an caste on a potte, and boyle hem till \u00FEey ben tender; \u00FEan take hem vp and pare hem, an kytte hem in to pecys - . [? =\u0027in two pieces.\u0027 ]; take y-now of powder of canel, a good quantyte, an caste it on red wyne, an draw it \u00FEorw a straynour; caste sugre \u00FEer-to, an put it in [supplied by ed.] an er\u00FEen pot, an let it boyle: an \u00FEanne caste \u00FEe perys \u00FEer-to, an let boyle to-gederys, an whan \u00FEey haue boyle a whyle, take pouder of gyngere an caste \u00FEerto, an a lytil venegre, an a lytil safron; an loke \u00FEat it be poynaunt an dowcet.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "aw-1591"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Warden Pie",
+  "usedSnapshot": "20220122140424"
+}

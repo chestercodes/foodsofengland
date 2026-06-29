@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922071456",
+  "finalPath": "penny-rings.html",
+  "heading": "Penny Rings",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Penny Rings",
+  "usedSnapshot": "20211201005555"
+}

@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20160519235955",
+  "finalPath": "african-cakes.html",
+  "heading": "African Cakes",
+  "ingredients": [
+    "beat",
+    "biscuit",
+    "caster sugar",
+    "chocolate",
+    "cream",
+    "eggs",
+    "flour",
+    "sugar",
+    "vanilla",
+    "whipped cream",
+    "butter",
+    "egg",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "african-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Encyclopedia of Cookery\u003C/i\u003E\u0027 by Theodore Garrett (\u003Ca href=\u0022references.html#garrett-1891\u0022\u003E\u003Cb\u003EGarrett 1891\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EAfrican Cakes.\u003C/b\u003E - Separate the yolks and whites of fifteen eggs, beat the yolks with 1lb. of caster sugar, and sift in 31 breakfast-cupfuls of flour; when quite smooth, whip the whites of the eggs, and stir them in with the yolks; put the mixture in a biscuit-bag with a funnel about fin. in diameter, and press out pieces of paste on to a buttered baking-sheet, making them about the size of a penny. Put them in the oven, and bake for half-an-hour. When they are done they should be of a light colour; take the Cakes off the tin and let them cool. Scoop a little out of the centre of each round, fill each hollow with a little sweetened vanilla-flavoured whipped cream, and put one Cake over another; when all are done this way, ice them over with chocolate icing, and serve when the icing is cold.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "african-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESaleable Shop Goods for Counter-Tray and Window:\u003C/i\u003E\u0027 by Frederick T Vine (\u003Ca href=\u0022references.html#vine-1907\u0022\u003E\u003Cb\u003EVine 1907\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 53.- African Cakes.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 lbs Soda Flour (No 1); \u00BD lb Sugar\u003Cbr\u003E\n6 oz Butter; 3 Eggs\u003Cbr\u003E\nMilk\u003Cbr\u003E\n\u003Cbr\u003E\nMode, - Cream up the butter and sugar, adding the eggs in the usual manner; mix in the flour with the milk, rather stiff, but not too tight; turn on to the board, dry over, and scale off into 5 \u00BD oz. pieces; divide in two; mould up round; flatten out under your hand; cut once across the top with a scraper; wash over with egg and milk, turn over on to coarse sugar-nibs, and place on to flat greased tins, and bake in a hot oven. Sell at 1d. each.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "garrett-1891"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    }
+  ],
+  "title": "African Cakes",
+  "usedSnapshot": "20211207113304"
+}

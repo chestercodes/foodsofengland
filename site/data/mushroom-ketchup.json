@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140331003638",
+  "finalPath": "mushroom-ketchup.html",
+  "heading": "Mushroom Ketchup",
+  "ingredients": [
+    "anchovies",
+    "beer",
+    "ginger",
+    "mushrooms",
+    "pepper",
+    "salt",
+    "shalots"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mushroom-ketchup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make English catchup.\u003C/b\u003E\u003Cbr\u003E\nTAKE the largest flaps of mushrooms, wipe them dry, but don\u0027t peel them, break them to pieces, and salt them very well; let them stand so in an earthern pan for nine days, stirring them once or twice a day, then put them into a jug close stopp\u0027d set into water over a fire for three hours; then strain it through a sieve, and to every quart of the juice put a pint of strong stale, mummy [rich and stale] beer, not bitter, a quarter of a pound of anchovies, a quarter of an ounce of mace, the same of cloves, half an ounce of pepper, a race of ginger, half a pound of shalots: then boil them altogether over a slow fire till half the liquid is washed, keeping the pot close covered; then strain it through a flannel bag. If the anchovies don\u0027t make it salt enough, add a little salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "Mushroom Catchup, or Mushroom Catsup",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Mushroom Ketchup",
+  "usedSnapshot": "20211207123709"
+}

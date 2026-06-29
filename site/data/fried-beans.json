@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20150922105241",
+  "finalPath": "fried-beans.html",
+  "heading": "Fried Beans",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Fried Beans",
+  "usedSnapshot": "20211205180205"
+}

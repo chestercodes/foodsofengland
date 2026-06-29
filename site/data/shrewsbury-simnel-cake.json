@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130317102230",
+  "finalPath": "shrewsbury-simnel-cake.html",
+  "heading": "Shrewsbury Simnel Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Simnel Bread",
+      "relatedPageUrl": "simnel-bread.html",
+      "relationDescription": "For general background to the Simnel Tradition, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Herefordshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Shrewsbury Simnel Cake",
+  "usedSnapshot": "20220927162911"
+}

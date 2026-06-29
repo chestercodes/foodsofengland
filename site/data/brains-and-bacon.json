@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922083336",
+  "finalPath": "brains-and-bacon.html",
+  "heading": "Brains and Bacon",
+  "ingredients": [
+    "bacon",
+    "flour",
+    "parsley",
+    "sherry",
+    "worcestershire sauce"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "brains-and-bacon.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Brains%20and%20Bacon\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBrains and bacon\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n\u003Cbr\u003E\n1 lb calves\u0027 brains\u003Cbr\u003E\n2 tablespoons sherry\u003Cbr\u003E\n4 oz back bacon\u003Cbr\u003E\n1 teaspoon Worcestershire sauce\u003Cbr\u003E\n1 oz seasoned flour\u003Cbr\u003E\nhalf pint stock\u003Cbr\u003E\nchopped parsley\u003Cbr\u003E\n\u003Cbr\u003E\nSoak brains in salted water for 20 minutes. Remove and place in 1 1/2 pints boiling salted water. Simmer for 15 minutes Drain well and wrap each brain in a slice of bacon. Secure with a wooden cocktail stick and place in a 2 1/2 dish. Make a sauce by mixing seasoned flour with a Iittle stock. Heat gently in a pan adding the rest of the stock a little at a time. Stir constantly. Add the sherry and Worcestershire sauce and pour over the brains. Lover and cook at gas 4, 350F (180C) for 20 minutes. Remove from oven and decorate with chopped parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Brains and Bacon",
+  "usedSnapshot": "20220819110519"
+}

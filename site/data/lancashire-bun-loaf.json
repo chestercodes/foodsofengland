@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922085338",
+  "finalPath": "lancashire-bun-loaf.html",
+  "heading": "Lancashire Bun Loaf",
+  "ingredients": [
+    "bread",
+    "butter",
+    "currants",
+    "orange",
+    "orange peel",
+    "raisins"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lancashire-bun-loaf.html-1",
+      "receiptSource": "Original Receipt;",
+      "receiptText": "\u003Cb\u003ELancashire Bun Loaf\u003C/b\u003E\u003Cbr\u003E\nIngredients:\u003Cbr\u003E\n\u003Cbr\u003E\n2 pounds bread dough\u003Cbr\u003E\n4 ounces butter\u003Cbr\u003E\n8 ounces currants\u003Cbr\u003E\n1 / 2 ounce mixed spice\u003Cbr\u003E\n8 ounces raisins\u003Cbr\u003E\n2 ounces orange peel\u003Cbr\u003E\nGrated, or finely chopped candied peel.\u003Cbr\u003E\n\u003Cbr\u003E\nPlace dough in bowl and work into it the melted butter then fruit and spice.\u003Cbr\u003E\nKnead very thoroughly then place in a buttered tin and leave to prove in a warm place for 1 1/ 4 hours.\u003Cbr\u003E\nBake in a hot oven 425 degrees, gas mark 7, until golden brown and hollow-sounding when tapped; approximately 1 hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Lancashire Bun Loaf",
+  "usedSnapshot": "20211201002419"
+}

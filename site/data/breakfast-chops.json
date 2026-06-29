@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20130323203458",
+  "finalPath": "breakfast-chops.html",
+  "heading": "Breakfast Chops",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "custard",
+    "mustard",
+    "pepper"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "breakfast-chops.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECassell\u0027s Dictionary of Cookery\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#cassell-1883\u0022\u003E\u003Cb\u003ECassell 1883\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Take say an ounce or a little more of butter, and dissolve it in a stewpan, but do not oil the butter or allow the stewpan to get too hot. Mix in a spoonful of made mustard, and a little mixed black and cayenne pepper, and stir the whole well together. The sauce should resemble thick custard, both in appearance and consistency. This sauce should not be poured over the grilled meat until the very last moment. Care also should be taken not to have the plate so burning hot so that it will dissolve the butter into oil. Recollect, the only secret of making this sauce successfully is not overheating it.\u003Cbr\u003E\n\u003Cbr\u003E\nThis sauce, poured over a nicely-grilled chop at breakfast-time, often has the effect of enabling a person with a delicate appetite to take meat, when, without the stimulant of the sauce, they would be unable to touch any.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cassell-1883"
+    }
+  ],
+  "title": "Breakfast Chops",
+  "usedSnapshot": "20211201022628"
+}

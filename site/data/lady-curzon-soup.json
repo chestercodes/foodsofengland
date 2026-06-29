@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922073826",
+  "finalPath": "lady-curzon-soup.html",
+  "heading": "Lady Curzon Soup",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Lady Curzon Soup",
+  "usedSnapshot": "20210512101419"
+}

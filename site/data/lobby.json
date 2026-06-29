@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922073439",
+  "finalPath": "lobby.html",
+  "heading": "Lobby",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Loblolly",
+      "relatedPageUrl": "loblolly.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lobby",
+  "usedSnapshot": "20220527065421"
+}

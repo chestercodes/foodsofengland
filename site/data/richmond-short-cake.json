@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20140212021047",
+  "finalPath": "richmond-short-cake.html",
+  "heading": "Richmond Short Cake",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "richmond-short-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Richmond%20Short%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "12oz butter\u003Cbr\u003E\n8oz currants\u003Cbr\u003E\n2lb flour\u003Cbr\u003E\n1 nutmeg, grated\u003Cbr\u003E\n8oz sugar lemon juice\u003Cbr\u003E\nInstructions\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the batter, then pour into the mixed dry ingredients. Mix to a stiff paste, adding a little lemon juice. Roll out into a large, flattish round, and score the top with a diamond pattern. Sprinkle with sugar and bake on a greased baking sheet in a moderate oven for 30 minutes until golden brown.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ERichmond Cake\u003C/b\u003E",
+      "relatedPageUrl": "richmond-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Richmond Short Cake",
+  "usedSnapshot": "20211019174824"
+}

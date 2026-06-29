@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150310121020",
+  "finalPath": "apple-trifle.html",
+  "heading": "Apple Trifle",
+  "ingredients": [
+    "apple",
+    "cream",
+    "egg",
+    "lemon",
+    "milk",
+    "sugar",
+    "custard",
+    "eggs",
+    "jelly",
+    "whipped cream"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "apple-trifle.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "APPLE TRIFLE. Scald some apples, pass them through a sieve, and make a layer of the pulp at the bottom of a dish; mix the rind of half a lemon grated, and sweeten with sugar. Or mix half a pint of milk, half a pint of cream, and the yolk of an egg. Scald it over the fire, and stir it all the time without boiling; lay it over the apple pulp with a spoon, and put on it a whip prepared the day before.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "apple-trifle.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAPPLE TRIFLE.\u003C/b\u003E\u003Cbr\u003E\n(A Supper Dish.)\u003Cbr\u003E\n1404. INGREDIENTS. - 10 good-sized apples, the rind of\u00BD lemon, 6 oz. of pounded sugar,\u00BD pint of milk,\u00BD pint of cream, 2 eggs, whipped cream.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E. - Peel, core, and cut the apples into thin slices, and put them into a saucepan with 2 tablespoonfuls of water, the sugar, and minced lemon-rind. Boil all together until quite tender, and pulp the apples through a sieve; if they should not be quite sweet enough, add a little more sugar, and put them at the bottom of the dish to form a thick layer. Stir together the milk, cream, and eggs, with a little sugar, over the fire, and let the mixture thicken, but do not allow it to reach the boiling-point. When thick, take it off the fire; let it cool a little, then pour it over the apples. Whip some cream with sugar, lemon-peel, \u0026amp;c., the same as for other trifles; heap it high over the custard, and the dish is ready for table. It may be garnished as fancy dictates, with strips of bright apple jelly, slices of citron, \u0026amp;c.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E. - From 30 to 40 minutes to stew the apples; 10 minutes to stir the custard over the fire.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E, 1s. 6d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E for a moderate-sized trifle.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E from July to March.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Apple Trifle",
+  "usedSnapshot": "20201114153944"
+}

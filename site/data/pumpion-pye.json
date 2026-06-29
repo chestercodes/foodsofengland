@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212023146",
+  "finalPath": "pumpion-pye.html",
+  "heading": "Pumpion Pye",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "nutmeg",
+    "parsley",
+    "pepper",
+    "rosemary",
+    "sugar",
+    "tyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pumpion-pye.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a Pumpion Pye.\u003C/b\u003E\u003Cbr\u003E\nTake about halfe a pound of Pumpion and slice it, a handfull of Tyme, a little Rosemary, Parsley and sweet Marjoram slipped off the stalks, and chop them smal, then take Cinamon, Nutmeg, Pepper, and six Cloves, and beat them; take ten Eggs and beat them; then mix them, and beat them altogether, and put in as much Sugar as you think fit, then fry them like a froiz; after it is fryed, let it stand till it be cold, then fill your Pye, take sliced Apples thinne round wayes, and lay a row of the Froiz, and a layer of Apples with Currans betwixt the layer while your Pye is fitted, and put in a good deal of sweet butter before you close it; when the Pye is baked, take six yolks of Eggs, some white-wine or Verjuyce, \u0026 make a \u003Ca href=\u0022caudel-or-caudle.html\u0022\u003E\u003Cb\u003ECaudle\u003C/b\u003E\u003C/a\u003E of this, but not too thick; cut up the Lid and put it in, stir them well together whilst the Eggs and Pumpions be not perceived, and so serve it up.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Pumpion Pye",
+  "usedSnapshot": "20211129110601"
+}

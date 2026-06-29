@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20220308194635",
+  "finalPath": "wiggled-tripe.html",
+  "heading": "Wiggled Tripe",
+  "ingredients": [
+    "butter",
+    "flour",
+    "lemon",
+    "lemon juice",
+    "milk",
+    "shrimps",
+    "tripe"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "wiggled-tripe.html-1",
+      "receiptSource": "Original Receipt from Daily News (London) - Tuesday 12 September 1939",
+      "receiptText": "\u003Cb\u003E\u0022Wiggled\u0022 tripe with shrimps\u003C/b\u003E -fresh or potted- is good. For this cook the tripe till tender, trimmed into small pieces, then prepare a white sauce with some of the flavoured stock mixed with the milk measure. Use 1oz. butter, 1oz. flour, half a pint of milk and tripe liquor mixed, to 1b. dressed tripe and a gill of picked shrimps. A squeeze of lemon juice and a pinch of mace assure flavour for the sauce.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ccenter\u003E\u003Ca href=\u0022wiggled-tripe-wiggletripe.jpg\u0022\u003E\u003Cimg src=\u0022wiggled-tripe-wiggletripe.jpg\u0022 width=\u0022450\u0022 height=\u0022auto\u0022 border=\u00220\u0022\u003E\u003C/a\u003E\u003C/center\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tripe",
+      "relatedPageUrl": "ox-tripe.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Wiggled Tripe",
+  "usedSnapshot": "20220308194635"
+}

@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922080703",
+  "finalPath": "rhubarb-wine.html",
+  "heading": "Rhubarb Wine",
+  "ingredients": [
+    "currant",
+    "lemon",
+    "rhubarb",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERHUBARB WINE.\u003C/b\u003E\u003Cbr\u003E\n1829. INGREDIENTS: To every 5 lbs. of rhubarb pulp allow 1 gallon of cold spring water; to every gallon of liquor allow 3 lbs. of loaf sugar,\u00BD oz. of isinglass, the rind of 1 lemon.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Gather the rhubarb about the middle of May; wipe it with a wet cloth, and, with a mallet, bruise it in a large wooden tub or other convenient means. When reduced to a pulp, weigh it, and to every 5 lbs. add 1 gallon of cold spring water; let these remain for 3 days, stirring 3 or 4 times a day; and, on the fourth day, press the pulp through a hair sieve; put the liquor into a tub, and to every gallon put 3 lbs. of loaf sugar; stir in the sugar until it is quite dissolved, and add the lemon-rind; let the liquor remain, and, in 4, 5, or 6 days, the fermentation will begin to subside, and a crust or head will be formed, which should be skimmed off, or the liquor drawn from it, when the crust begins to crack or separate. Put the wine into a cask, and if, after that, it ferments, rack it off into another cask, and in a fortnight stop it down. If the wine should have lost any of its original sweetness, add a little more loaf sugar, taking care that the cask is full. Bottle it off in February or March, and in the summer it should be fit to drink. It will improve greatly by keeping; and, should a very brilliant colour be desired, add a little currant-juice.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: Make this about the middle of May.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Rhubarb Wine",
+  "usedSnapshot": "20211207121214"
+}

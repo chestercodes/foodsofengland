@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922074430",
+  "finalPath": "pickled-gherkins.html",
+  "heading": "Pickled Gherkins",
+  "ingredients": [
+    "gherkins",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-gherkins.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EModern domestic cookery, and useful receipt book\u003C/i\u003E\u0027 by Elizabeth Hammond (\u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo pickle gherkins.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake two or three hundred, lay them on a dish, salt them, and let them remain eight or nine days, then drain them, and laying them in a jar, pour Y)oiling vinegar upon them. Place them near the fire, covered with vine leaves. If they do not become sufficiently green, strain off the vinegar, boil it, and again pour it over them, covering with fresh leaves. Continue to do so, till they be::ome as green as you wish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    }
+  ],
+  "title": "Pickled Gherkins",
+  "usedSnapshot": "20211207130031"
+}

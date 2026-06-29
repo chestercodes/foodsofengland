@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20150922073426",
+  "finalPath": "walnut-ketchup.html",
+  "heading": "Walnut Ketchup",
+  "ingredients": [
+    "beat",
+    "ketchup",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "shalot",
+    "walnut",
+    "walnuts",
+    "anchovies"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "walnut-ketchup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EWALNUT KETCHUP. - E. R.\u003C/b\u003E\u003Cbr\u003E\nTake two hundred walnuts at the season for pickling, beat them very small on a marble mortar, add about six handsful of salt; put them into a clean earthen pan, and stir them two or three times a day, for ten days, or a fortnight. Then strain them through a cloth, pressing them very dry. Then boil up the liquor with mace, cloves, sliced nutmeg, and whole pepper. When nearly done, add six cloves of shalot; bottle and cork it closely. The bottle should be shaken when the ketchup is used.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "walnut-ketchup.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EWalnut Ketchup for Fish Sauces.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTO a quart of walnut pickle add a quarter of a pound of anchovies and three gills of red port; boil them till reduced one third, strain it, and when cold preserve it in small bottles close corked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Camp Vinegar",
+      "relatedPageUrl": "camp-vinegar.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fish Scallop",
+      "relatedPageUrl": "fish-scallop.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Gravy",
+      "relatedPageUrl": "gravy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Staffordshire Beef Steaks",
+      "relatedPageUrl": "staffordshire-beef-steaks.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Stewed Steak",
+      "relatedPageUrl": "stewed-steak.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Walnut Ketchup",
+  "usedSnapshot": "20211021031206"
+}

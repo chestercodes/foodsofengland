@@ -1,0 +1,77 @@
+﻿{
+  "earliestSnapshot": "20150524232857",
+  "finalPath": "sambocade.html",
+  "heading": "Sambocade",
+  "ingredients": [
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sambocade.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESAMBOCADE\u003C/b\u003E\u003Cbr\u003E\nTake and make a Crust in a trape. \u0026 take a cruddes and wryng out \u00FEe wheyze. and drawe hem \u00FEurgh a straynour and put in \u00FEe straynour crustes. do \u00FEerto sugur the \u00FEridde part \u0026 somdel [2] whyte of Ayrenn. \u0026 shake \u00FEerin blomes of elren [3]. \u0026 bake it up with curose [4] \u0026 messe it forth.\u003Cbr\u003E\n[1] Sambucade. As made of the Sambucus, or Elder. [2] Somdel. Some. [3] Blom of Elren. Elder flowers. [4] curose\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Charminster Curd Tart",
+      "relatedPageUrl": "charminster-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cheese Cake or Curd Tart",
+      "relatedPageUrl": "cheese-cake-or-curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Curd Tart",
+      "relatedPageUrl": "curd-tart.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sambocade",
+      "relatedPageUrl": "sambocade.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Spiced Curd Tarts",
+      "relatedPageUrl": "spiced-curd-tarts.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Yorkshire Curd Tart or Cheesecake",
+      "relatedPageUrl": "yorkshire-curd-tart.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    }
+  ],
+  "title": "Sambocade",
+  "usedSnapshot": "20200225165009"
+}

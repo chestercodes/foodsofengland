@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922074829",
+  "finalPath": "barley-gruel.html",
+  "heading": "Barley Gruel",
+  "ingredients": [
+    "barley",
+    "currants",
+    "plum",
+    "raisins",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "barley-gruel.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make plum porridge, or barley gruel.\u003C/b\u003E\u003Cbr\u003E\nTAKE a gallon of water, half a pound of barley, a quarter of a pound of raisins clean washed, a quarter of a pound of currants clean washed and picked. Boil these till above half the water is wasted, with two or three blades of mace. Then sweeten it to your palate, and add half a pint of white wine.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Barley Gruel",
+  "usedSnapshot": "20220819110947"
+}

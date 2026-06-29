@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140829083325",
+  "finalPath": "stone-cream.html",
+  "heading": "Stone Cream",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "cream",
+    "custard",
+    "lemon",
+    "marmalade",
+    "orange",
+    "sherry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stone-cream.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EStone Cream.\u003C/b\u003E\u003Cbr\u003E\n1021. Add three-quarters of an ounce of isinglass to one quart of thin cream, previously dissolving the isinglass in a small quantity of water; then add the cream sweetened to taste, and let it boil from ten to fifteen minutes; meanwhile grate the rind of a small lemon into about half a pint of sherry or raisin wine, and put in the dish with preserved apricots or any light-coloured preserve. Stir the cream occasionally, and when almost cold pour it carefully over the preserve. In order that the two shall not mix, make the cream the day before.\u003Cbr\u003E\n\u003Ci\u003EAnother Stone Cream.-\u003C/i\u003E Line a dish with orange marmalade, or some other preserve, squeeze on it the juice of a lemon, and grate upon it the peel. Then dissolve three-quarters of an ounce of extract of calves\u0027 feet, or half an ounce of isinglass dissolved in water, and add to it a pint of cream well sweetened. Pour this over the marmalado. It should be made the day before.\u003Cbr\u003E\n\u003Ci\u003EAnother Stone Cream.-\u003C/i\u003E Lay some preserve of different sorts in the bottom of a deep glass dish, then pour some blancmange over it till the dish is rather more than half full. When perfectly cold, pour on the blancmange a good thick custard to fill the dish, and when that is also cold stick blanched almonds on the top.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Stone Cream",
+  "usedSnapshot": "20220426080121"
+}

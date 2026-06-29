@@ -1,0 +1,101 @@
+﻿{
+  "earliestSnapshot": "20130323042720",
+  "finalPath": "easter-eggs.html",
+  "heading": "Easter Eggs",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Creme Eggs",
+      "relatedPageUrl": "creme-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Chocolate Easter Eggs",
+      "relatedPageUrl": "chocolate-easter-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Onion Skin Eggs",
+      "relatedPageUrl": "onion-skin-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter Biscuits",
+      "relatedPageUrl": "easter-biscuits.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter Cake",
+      "relatedPageUrl": "easter-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter Eggs",
+      "relatedPageUrl": "easter-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Easter Nests",
+      "relatedPageUrl": "easter-nests.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Goosnargh Cake",
+      "relatedPageUrl": "goosnargh-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Lent Tart or Kentish Pudding Pie",
+      "relatedPageUrl": "lent-tart-or-kentish-pudding-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Mother\u0027s Day Cake",
+      "relatedPageUrl": "mother-s-day-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Sedgemoor Easter Cake",
+      "relatedPageUrl": "sedgemoor-easter-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Simnel Cake Bread",
+      "relatedPageUrl": "simnel-bread.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tansy, or Tansy Pudding",
+      "relatedPageUrl": "tansy,ortansypudding.htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EEaster\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/easter.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Easter"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Easter Eggs",
+  "usedSnapshot": "20220316094420"
+}

@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922074105",
+  "finalPath": "tipsy-d-arcy-spice-apples.html",
+  "heading": "Tipsy D\u0027Arcy Spice Apples",
+  "ingredients": [
+    "apple",
+    "brown sugar",
+    "butter",
+    "cream",
+    "soft brown sugar",
+    "sugar",
+    "unsalted butter",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tipsy-d-arcy-spice-apples.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Tipsy%20D\u0027Arcy%20Spice%20Apples\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ETipsy D\u0027Arcy Spice Apples -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 2 lb. \u003Ca href=\u0022d-arcy-spice-apple.html\u0022\u003E\u003Cb\u003ED\u0027Arcy spice apples\u003C/b\u003E\u003C/a\u003E, 4 oz. soft brown sugar, 3 oz. unsalted butter, 1 large glass sweet white wine\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 450\u00BAF or Mark 8. Butter an 11-inch oval, ovenproof dish. Core and slice, but do not peel, the apples. Lay the apple slices in the dish with the slices overlapping. Sprinkle on the sugar and dot with small pieces of the butter. Pour the wine over the top and bake until tender. Serve with single cream.\u003Cbr\u003E\nServes 6.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Tipsy D\u0027Arcy Spice Apples",
+  "usedSnapshot": "20200222061058"
+}

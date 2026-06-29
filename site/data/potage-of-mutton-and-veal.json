@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922074120",
+  "finalPath": "potage-of-mutton-and-veal.html",
+  "heading": "Potage of Mutton and Veal",
+  "ingredients": [
+    "herbs",
+    "mutton",
+    "oatmeal",
+    "parsley",
+    "salt",
+    "tyme",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potage-of-mutton-and-veal.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe English and French Cook\u003C/i\u003E\u0027 By \u0022TPJPRCNB\u0022 1674 (\u003Ca href=\u0022references.html#tpjprcnb-1674\u0022\u003E\u003Cb\u003ETPJPRCNB 1674\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Cut a Rack of Mutton in two pieces, and take a Knuckle of Veal and boil it with good store of Herbs, with a pint of Oatmeal chopped amongst them, let your Herbs be Tyme, sweet Marjoram, Parsley, Sives, Succory, Marry-golds, Strawberrie and Violet-leaves, Beets, Borrage, Sorrel, Blood-wort, Sage, Penniroyal, with a little Salt; being well boil\u0027d, serve them on carved Sippets, with the meat in the midst thereof.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "tpjprcnb-1674"
+    }
+  ],
+  "title": "Potage of Mutton and Veal",
+  "usedSnapshot": "20220527060636"
+}

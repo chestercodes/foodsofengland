@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922072927",
+  "finalPath": "partridge-pie.html",
+  "heading": "Partridge Pie",
+  "ingredients": [
+    "egg",
+    "ham",
+    "mushrooms",
+    "parsley",
+    "partridge",
+    "partridges",
+    "pepper",
+    "salt",
+    "steak",
+    "thyme",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "partridge-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "PARTRIDGE PIE. Pick and singe four partridges, cut off the legs at the knee, season with pepper, salt, chopped parsley, thyme, and mushrooms. Lay a veal steak and a slice of ham at the bottom of the dish, put in the partridge, and half a pint of good broth. Lay puff paste on the edge of the dish, and cover with the same; brush it over with egg, and bake it an hour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Partridge Pie",
+  "usedSnapshot": "20200107093807"
+}

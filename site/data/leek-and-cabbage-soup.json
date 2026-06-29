@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922084805",
+  "finalPath": "leek-and-cabbage-soup.html",
+  "heading": "Leek and Cabbage Soup",
+  "ingredients": [
+    "black pepper",
+    "cabbage",
+    "cheddar",
+    "cheese",
+    "chicken",
+    "chicken stock",
+    "leeks",
+    "onion",
+    "pepper",
+    "salt",
+    "toast",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "leek-and-cabbage-soup.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Serves: 6\u003Cbr\u003E\n1.2 Litres Chicken stock, or vegetable stock (2 pints)\u003Cbr\u003E\n8 Leeks, trimmed, washed chopped 2 cm pieces\u003Cbr\u003E\n1.25 Kilogram Green or Savoy cabbage (2\u00BD lb)\u003Cbr\u003E\n1 Large Onion, finely sliced\u003Cbr\u003E\nSalt and freshly ground black pepper\u003Cbr\u003E\n---- garnish ----\u003Cbr\u003E\n6 slices Toast each cut into 12 squares, optional\u003Cbr\u003E\n75 Gram Cheddar cheese, grated, optional (3 oz)\u003Cbr\u003E\nMethod\u003Cbr\u003E\nRemove hard stalks and outer leaves of cabbage and chop into 2 cm pieces.\u003Cbr\u003E\n\u003Cbr\u003E\nIn a large saucepan, bring the stock to the boil.\u003Cbr\u003E\nDrop in all the vegetables.\u003Cbr\u003E\nBring back to the boil, then cover and simmer for 45 minutes, stirring occasionally.\u003Cbr\u003E\nAdd salt and pepper to taste.\u003Cbr\u003E\nLadle into 6 bowls, allowing enough vegetables in each to show just above the surface of the liquid.\u003Cbr\u003E\nThe soup can be served just as it is, or each bowl can be garnished with 12 squares of toast, sprinkled with 15g grated cheddar cheese.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Leek and Cabbage Soup",
+  "usedSnapshot": "20211020221117"
+}

@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20140616085316",
+  "finalPath": "cheese-on-toast.html",
+  "heading": "Cheese on Toast",
+  "ingredients": [
+    "beat",
+    "beer",
+    "bread",
+    "butter",
+    "cheese",
+    "eggs",
+    "fat",
+    "mustard",
+    "pepper",
+    "salt",
+    "toast",
+    "toasted bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheese-on-toast.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EToasted Cheese.\u003C/b\u003E\u003Cbr\u003E\n1142. Lay a slice of cheese on toasted bread buttered on both sides; put it to the fire, and, when the cheese begins to toast, mix some beer, pepper, and salt, and pour over it. The beer should be sufficient to moisten the bread.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EToasted Cheese To Come Up After Dinner.\u003C/b\u003E\u003Cbr\u003E\n1143. Grate three ounces of fat Cheshire cheese, mix it with the yolks of two eggs, four ounces of grated bread, and three ounces of butter; beat the whole well in a mortar with a dessert-spoonful of mustard, and a little salt and pepper. Toast some bread, cut it into proper pieces, lay the paste, as above, thick upon them into a Dutch oven, covered with a dish, till hot through; remove the dish, and let the cheese brown a little. Serve as hot as possible.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESavoury Toast\u003C/b\u003E",
+      "relatedPageUrl": "savoury-toast.html",
+      "relationDescription": "For an early version, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ERarebit\u003C/b\u003E",
+      "relatedPageUrl": "rarebit(orrabbit).htm",
+      "relationDescription": "For fancier versions, see "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Cheese on Toast",
+  "usedSnapshot": "20211019173010"
+}

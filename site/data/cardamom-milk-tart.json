@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212025142",
+  "finalPath": "cardamom-milk-tart.html",
+  "heading": "Cardamom Milk Tart",
+  "ingredients": [
+    "baking powder",
+    "breadcrumbs",
+    "butter",
+    "cardamom pods",
+    "caster sugar",
+    "cinnamon",
+    "cornflour",
+    "custard",
+    "egg",
+    "egg whites",
+    "egg yolks",
+    "eggs",
+    "flan",
+    "flour",
+    "milk",
+    "pastry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cardamom-milk-tart.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cardamom%20Milk%20Tart\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECardamom Milk Tart\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nserves 4 - 6\u003Cbr\u003E\n75 g (3 oz) butter\u003Cbr\u003E\n100 g (4 oz) flour\u003Cbr\u003E\n300 ml (11 fl oz) fresh milk\u003Cbr\u003E\n3 cardamom pods\u003Cbr\u003E\n1/2 stick cinnamon\u003Cbr\u003E\n25 g (1 oz) caster sugar\u003Cbr\u003E\n1/2 teaspoon baking powder\u003Cbr\u003E\n2 teaspoons cornflour\u003Cbr\u003E\n2 eggs, separated\u003Cbr\u003E\npinch ground cinnamon\u003Cbr\u003E\nmethod\u003Cbr\u003E\n\u003Cbr\u003E\n1. Rub 50 g (2 oz) butter into the flour until the mixture resembles fine breadcrumbs. Mix to a dough with 2 - 3 tablespoons of milk. Roll out on a floured work surface and use to line an 18 cm (7 inch) flan ring. Bake blind at 220\u00B0C (425\u00B0F) mark 7 for 15 minutes.\u003Cbr\u003E\n2. Place the remaining milk and whole spices in a pan. Bring to the boil, remove from heat and stand 15 minutes.\u003Cbr\u003E\n3. Remove and discard spices. Mix together the sugar, baking powder, cornflour, milk and egg yolks and remaining butter and cook stirring until thickened. Cool.\u003Cbr\u003E\n4. Whisk egg whites until softly stiff and fold into custard. Pour into the pastry case. Sprinkle with ground cinnamon. Bake at 180\u00B0C (350\u00B0F) mark 4 for 30 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cardamom Milk Tart",
+  "usedSnapshot": "20220516211511"
+}

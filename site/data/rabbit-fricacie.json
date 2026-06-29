@@ -1,0 +1,76 @@
+﻿{
+  "earliestSnapshot": "20130323203635",
+  "finalPath": "rabbit-fricacie.html",
+  "heading": "Rabbit Fricacie",
+  "ingredients": [
+    "anchovies",
+    "barberries",
+    "butter",
+    "chicken",
+    "eggs",
+    "herbs",
+    "oysters",
+    "rabbits",
+    "salt",
+    "veal",
+    "chickens",
+    "egg",
+    "lemon",
+    "lemon juice",
+    "mushrooms",
+    "onion",
+    "cayenne",
+    "gravy",
+    "ketchup",
+    "mushroom",
+    "pepper"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "rabbit-fricacie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "77. To make a Fricasie of Veal, Chicken, or Rabbits, or of any thing else.\u003Cbr\u003E\n\u003Cbr\u003E\nTake either of these and cut them into small pieces, then put them into a frying pan with so much water as will cover them with a little salt, whole Spice, Limon Pill and a bundle of sweet herbs, let them boil together till the Meat be tender, then put in some Oysters, and when they are plumped, take a little Wine, either White or Claret, and two Anchovies dissolved therein with some Butter, and put all these to the rest, and when you think your Meat is enough, take it out with a little Skimmer, and put it into a Dish upon Sippets; then put into your Liquor the yolks of Eggs well beaten, and mix them over the fire, then pour it all over your Meat; Garnish your Dish with Barberries, and serve it in; this Dish you may make of raw meat or of cold meat which hath been left at Meals.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rabbit-fricacie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFricassee of Chickens or Rabbits (white).\u003C/b\u003E\u003Cbr\u003E\nCUT them into pieces and blanch and drain them dry; then put them into a stewpan with a little veal stock, a blade of mace, and a middling-sized whole onion. Stew them gently till three parts done; then add slices of blanched throat sweetbreads, stewed white button mushrooms, egg balls, and pieces of artichoke bottoms. When they are all nearly stewed, season with salt and a little lemon juice, add a leason of three eggs, simmer it over a fire for five minutes, taking care not to let it curdle, and serve it up very hot, with the mace and onion taken out.\u003Cbr\u003E\nN. B. Instead of a leason, the stock it is stewed in may be almost reduced, and a benshamelle added with the sweetbreads, mushrooms, \u0026amp;c.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rabbit-fricacie.html-3",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E129. TO FRICASSEE RABBITS BROWN\u003C/b\u003E\u003Cbr\u003E\n(Eighteenth Century)\u003Cbr\u003E\nCut up your rabbits, fry them in butter a Ught brown, put them in a tossing pan, with a pint of water, a teaspoonful of lemon pickle, a large teaspoonful of mushroom ketchup, the same of browning, a slice of lemon, cayenne pepper, and salt to your taste; stew them over a slow fire till they are done enough; thicken your gravy, and strain it; dish up your rabbits, and pour the gravy over them.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E130. TO FRICASSEE RABBITS WHITE\u003C/b\u003E\u003Cbr\u003E\n(Eighteenth Century)\u003Cbr\u003E\nCut up your rabbits as before, put them into a tossing pan, with a pint of veal gravy, a teaspoonful of lemon pickle, a sUce of lemon, a little beaten\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Rabbit Fricacie",
+  "usedSnapshot": "20171229155552"
+}

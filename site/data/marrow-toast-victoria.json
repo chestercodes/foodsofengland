@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922074247",
+  "finalPath": "marrow-toast-victoria.html",
+  "heading": "Marrow Toast Victoria",
+  "ingredients": [
+    "lemon",
+    "parsley",
+    "pepper",
+    "salt",
+    "shallot",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marrow-toast-victoria.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Guide, and Housekeeper\u0027s \u0026 Butler\u0027s Assistant\u003C/i\u003E\u0027 (1867) By Charles Elme Francatelli (\u003Ca href=\u0022references.html#francatelli-1867\u0022\u003E\u003Cb\u003EFrancatelli 1867\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 819.- MARROW TOAST A LA VICTORIA.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nProcure a marrow-bone, or get the butcher to break the the bones you - as this is rather an awkward affair for ladies; cat the marrow into small pieces the size of a filbert and just parboil them in boiling water with a little salt for one minute; it must then be instantly\u003Cbr\u003E\ndrained upon a sieve, seasoned with a little chopped parsley, pepper and salt, lemon-juice, and a mere suspicion of shallot; toss lightly altogether, spread it out upon squares of hot crisp dry toast, and serve immediately.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E. Marrow toast used to be eaten every day at dinner by the Queen at the time when I had the honour of waiting on Her Majesty.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Marrow Toast",
+      "relatedPageUrl": "marrow-toast.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBone Marrow\u003C/b\u003E",
+      "relatedPageUrl": "marrow-bones.html",
+      "relationDescription": "For other marrow dishes, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1867"
+    }
+  ],
+  "title": "Marrow Toast Victoria",
+  "usedSnapshot": "20210731151257"
+}

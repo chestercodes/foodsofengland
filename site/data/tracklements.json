@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072002",
+  "finalPath": "tracklements.html",
+  "heading": "Tracklements",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Tracklements",
+  "usedSnapshot": "20211021025134"
+}

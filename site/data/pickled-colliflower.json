@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922100613",
+  "finalPath": "pickled-colliflower.html",
+  "heading": "Pickled Colliflower",
+  "ingredients": [
+    "bladder",
+    "mushroom",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-colliflower.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E414. To pickle COLLIFLOWER white.\u003C/b\u003E\u003Cbr\u003E\nTake the whitest colliflower you can get, break it in pieces the bigness of a mushroom; take as much distill\u0027d vinegar as will cover it, and put to it a little white pepper, two or three blades of mace, and a little salt, then boil it and pour it on your colliflowers three times, let it be cold, then put it into your glasses or pots, and wet a bladder to tie over it to keep out the air.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Picallili",
+      "relatedPageUrl": "piccalilli.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Pickled Colliflower",
+  "usedSnapshot": "20171125063734"
+}

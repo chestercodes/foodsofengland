@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922133057",
+  "finalPath": "honeycomb-toffee.html",
+  "heading": "Honeycomb Toffee",
+  "ingredients": [
+    "butter",
+    "granulated sugar",
+    "sugar",
+    "toffee"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "honeycomb-toffee.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ESouthern Reporter\u003C/i\u003E\u0027 - Thursday 19 February 1925",
+      "receiptText": "\u003Cb\u003EHoneycomb Toffee.\u003C/b\u003E- In a large saucepan put half pint of water, one pound of granulated sugar, and half pound of glucose, weigh the glucose on very wet paper. Boil to pale straw colour, then stir in one ounce of bicarbonate of soda, free lumps. Thickly butter a dish with a deep centre, and foot long, and hold the saucepan over it to catch the overflow when stirring in the soda. Turn the toffee on to the dish to harden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Honeycomb Toffee",
+  "usedSnapshot": "20210731165020"
+}

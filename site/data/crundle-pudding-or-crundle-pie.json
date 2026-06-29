@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150303191015",
+  "finalPath": "crundle-pudding-or-crundle-pie.html",
+  "heading": "Crundle Pudding (or Crundle Pie)",
+  "ingredients": [
+    "beat",
+    "butter",
+    "castor sugar",
+    "cream",
+    "eggs",
+    "flour",
+    "milk",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "crundle-pudding-or-crundle-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Aberdeen Journal\u003C/i\u003E\u0027 - Friday 17 March 1911",
+      "receiptText": "CRUNDLE PUDDING. Required - One cupful of flour, two eggs, one pint of milk, one tablespoonful of castor sugar, one dessertspoonful of butter, and a pinch of salt. Put the flour into basin, boil milk and butter, and pour over it, cover with plate, and let it stand till nearly cold. Then beat with a fork until smooth, add sugar and eggs (well whisked), and bake in a good oven for 60 minutes. Serve hot with cream sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Crundle Pudding (or Crundle Pie)",
+  "usedSnapshot": "20211201041748"
+}

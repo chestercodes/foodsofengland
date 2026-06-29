@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922082908",
+  "finalPath": "poor-man-s-sauce.html",
+  "heading": "Poor Man\u0027s Sauce",
+  "ingredients": [
+    "black pepper",
+    "gherkins",
+    "horseradish",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "poor-man-s-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "POOR MAN\u0027S SAUCE. Pick a handful of parsley leaves from the stalks, mince them very fine, and strew over a little salt. Shred fine half a dozen young green onions, add these to the parsley, and put them into a sauce boat, with three table-spoonfuls of oil, and five of vinegar. Add some ground black pepper and salt, stir them together, and it is ready. Pickled French beans or gherkins cut fine, may be added, or a little grated horseradish. This sauce is much esteemed in France, where people of taste, weary of rich dishes, occasionally order the fare of the peasant.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Poor Man\u0027s Sauce",
+  "usedSnapshot": "20211201003152"
+}

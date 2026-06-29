@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150922085106",
+  "finalPath": "pickled-nasturtium-buds.html",
+  "heading": "Pickled Nasturtium Buds",
+  "ingredients": [
+    "horse-radish",
+    "pepper",
+    "salt",
+    "shalot",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-nasturtium-buds.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E437. To \u003Ci\u003Epickle\u003C/i\u003E NASTURTIUM BUDS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nGather your little nobs quickly after the blossoms are off, put them in cold water and salt three days, shifting them once a day; then make a pickle for them (but don\u0027t boil them at all) of some white wine, and some white wine vinegar, shalot, horse-radish, whole pepper and salt, and a blade or two of mace; then put in your seeds, and stop \u0027em close up. They are to be eaten as capers.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-nasturtium-buds.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027 edited by Isabella Beeton, 1861 (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPICKLED NASTURTIUMS (a very good Substitute for Capers)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n482. INGREDIENTS. - To each pint of vinegar, 1 oz. of salt, 6 peppercorns, nasturtiums.\u003Cbr\u003E\nMode. - Gather the nasturtium-pods on a dry day, and wipe them clean with a cloth; put them in a dry glass bottle, with vinegar, salt, and pepper in the above proportion. If you cannot find enough ripe to fill a bottle, cork up what you have got until you have some more fit: they may be added from day to day. Bung up the bottles, and seal or rosin the tops. They will be fit for use in 10 or 12 months; and the best way is to make them one season for the next.\u003Cbr\u003E\nSeasonable. - Look for nasturtium-pods from the end of July to the end of August.\u003Cbr\u003E\n\u003Cbr\u003E\nNASTURTIUMS. - The elegant nasturtium-plant, called by naturalists Tropoeolum, and which sometimes goes by the name of Indian cress, came originally from Peru, but was easily made to grow in these islands. Its young leaves and flowers are of a slightly hot nature, and many consider them a good adjunct to salads, to which they certainly add a pretty appearance. When the beautiful blossoms, which may be employed with great effect in garnishing dishes, are off, then the fruit is used as described in the above recipe.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENasturtium Salad\u003C/b\u003E",
+      "relatedPageUrl": "nasturtium.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Pickled Nasturtium Buds",
+  "usedSnapshot": "20210518211140"
+}

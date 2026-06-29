@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922082313",
+  "finalPath": "norfolk-stew-with-green-dumplings.html",
+  "heading": "Norfolk Stew with Green Dumplings",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EParsley Dumplings\u003C/b\u003E",
+      "relatedPageUrl": "parsley-dumplings.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Norfolk Stew with Green Dumplings",
+  "usedSnapshot": "20211205174133"
+}

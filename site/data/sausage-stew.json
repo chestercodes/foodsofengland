@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140125041327",
+  "finalPath": "sausage-stew.html",
+  "heading": "Sausage Stew",
+  "ingredients": [
+    "bread",
+    "flour",
+    "gravy",
+    "pepper",
+    "pickles",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sausage-stew.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "No. 76. STEWED SAUSAGES.\u003Cbr\u003E\n\u003Cbr\u003E\nFirst, prick your sausages well all over with a fork, and soak them in very hot water, for two or three minutes, to swell them out; next, roll them in flour, and fry them brown without overdoing them, as that renders them dry, and spoils them. When the sausages are done and put on a plate, fry some slices of bread, and put these on a dish; then put the sausages on the fried bread, and shake a spoonful of flour in the pan; add a pennyworth of chopped mixed pickles, a gill of water, and a little pepper and salt; give this gravy a boil up, and pour it over the sausages.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Sausage Stew",
+  "usedSnapshot": "20210518193521"
+}

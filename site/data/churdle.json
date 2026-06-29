@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20130808224606",
+  "finalPath": "churdle.html",
+  "heading": "Churdle",
+  "ingredients": [
+    "apple",
+    "bacon",
+    "breadcrumbs",
+    "butter",
+    "cheddar",
+    "cheese",
+    "egg",
+    "herbs",
+    "liver",
+    "onion",
+    "pastry",
+    "pepper",
+    "puff pastry",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "churdle.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Churdle\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EChurdle\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFor 4 pies\u003Cbr\u003E\n\u003Cbr\u003E\n1 large onion, chopped\u003Cbr\u003E\n1 lb lambs liver, chopped\u003Cbr\u003E\n2 oz bacon, chopped\u003Cbr\u003E\n1 tablespoon fresh sage\u003Cbr\u003E\n1 apple, peeled, cored and chopped\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n1 oz butter\u003Cbr\u003E\n2 oz breadcrumbs\u003Cbr\u003E\n4 oz cheddar cheese, grated\u003Cbr\u003E\n10 oz rough-puff pastry\u003Cbr\u003E\negg to wash\u003Cbr\u003E\n\u003Cbr\u003E\nRoll the pastry into four 7-inch circles. Soften the chopped onion in the butter, add the bacon and liver and cook until slightly browned. Add the apple, herbs and seasoning and continue to cook until heated through. Divide the part-cooked mixture into piles in the centre of each pastry disk and top with a sprinkle of grated cheese and breadcrumbs. Wash the edges with egg and gather the pastry around to form a purse shape, the edges squeezed together at the top. Brush with egg and bake 20 minutes or until golden.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Surrey"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Churdle",
+  "usedSnapshot": "20210510055129"
+}

@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212023208",
+  "finalPath": "windsor-pie.html",
+  "heading": "Windsor Pie",
+  "ingredients": [
+    "chicken",
+    "egg",
+    "gravy",
+    "ham",
+    "mushrooms",
+    "mutton",
+    "parsley",
+    "pepper",
+    "salt",
+    "shalot",
+    "sugar",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "windsor-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1867\u0022\u003E\u003Cb\u003EFrancatelli 1867\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "No. 324.-MUTTON PIES A LA WINDSOR.\u003Cbr\u003E\n\u003Cbr\u003E\nCut the lean part of a pound of loin of mutton into very small squares, season this with chopped mushrooms, parsley, and shalot, pepper and salt, and a little brown sauce or gravy, of any kind most convenient; mix altogether in a basin. Next, line some tartlet or patty-pans with short paste made without sugar; fill these with some of the prepared mince; cover them over with a top, press and pinch them round the edge; egg them over; place a stamped ornament on the top of the patties; make a very small hole in the centre for ventilation, to prevent their bursting while baking; put them in the oven on a baking-sheet for about twenty minutes; then dish them on a napkin and sent to table.\u003Cbr\u003E\n\u003Cbr\u003E\nNote.-Small patties made as directed above, either with chicken or veal and ham, any kind of game or meat; or filled with any of the great variety of preparations for making croquets, they form an agreeable change for the dinner-table, and are also calculated to become favourite accessories to pic-nics or race-course luncheons, as well as welcome additions to the sportsman\u0027s basket.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1867"
+    }
+  ],
+  "title": "Windsor Pie",
+  "usedSnapshot": "20211129111824"
+}

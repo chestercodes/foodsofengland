@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20141130025246",
+  "finalPath": "chip-shop-scallops.html",
+  "heading": "Chip-Shop Scallops",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EScalloped Potato\u003C/b\u003E",
+      "relatedPageUrl": "scalloped-potato.html",
+      "relationDescription": "For similar dishes, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chip-Shop Scallops",
+  "usedSnapshot": "20200222005556"
+}

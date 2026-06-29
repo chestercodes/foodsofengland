@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922084153",
+  "finalPath": "coddled-pippins.html",
+  "heading": "Coddled Pippins",
+  "ingredients": [
+    "beat",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "coddled-pippins.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "90. To make Green Paste of Pippins.\u003Cbr\u003E\n\u003Cbr\u003E\nTake your Pippins while they be green, and coddle them tender, then peel them, and put them into a fresh warm Water, and cover them close, till they are as green as you desire. Then take the Pulp from the Core, and beat it very fine in a Mortar, then take the weight in Sugar, and wet it with Water, and boil it to a Candy height, then put in your Pulp, and boil them together till it will come from the bottom of the Skillet, then make it into what form you please, and keep them in a stove.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Coddled Pippins",
+  "usedSnapshot": "20211019171647"
+}

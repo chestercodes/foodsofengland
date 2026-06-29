@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140125041227",
+  "finalPath": "epping-sausages.html",
+  "heading": "Epping Sausages",
+  "ingredients": [
+    "beat",
+    "beef",
+    "egg",
+    "fat",
+    "herbs",
+    "lemon",
+    "pepper",
+    "pork",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "epping-sausages.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E86. EPPING SAUSAGES\u003C/b\u003E (Kent) Six pounds of young pork, quite free from skin, gristle, or fat. Cut it small, and beat it fine in a mortar. Chop six pounds beef suet very fine, with a handful of sage leaves. Spread the meat on a clean dresser, and shake the sage over it. Shred the rind of a lemon fine, and throw it with sweet herbs on the meat, two nutmegs grated, a spoonful of pepper, with a large spoonful of salt. Throw the suet over, and mix all well together. Put it down close in a pot, and when it is to be used, roll it up with as much egg as will make it smooth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Epping Sausages",
+  "usedSnapshot": "20210518201228"
+}

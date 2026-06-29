@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072352",
+  "finalPath": "cherry-fudge.html",
+  "heading": "Cherry Fudge",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fudge",
+      "relatedPageUrl": "fudge.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cherry Fudge",
+  "usedSnapshot": "20220516204942"
+}

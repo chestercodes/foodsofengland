@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616082331",
+  "finalPath": "red-mullet.html",
+  "heading": "Red Mullet",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cayenne",
+    "flour",
+    "pepper",
+    "salt",
+    "sherry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "red-mullet.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERED MULLET.\u003C/b\u003E\u003Cbr\u003E\n285. INGREDIENTS: Oiled paper, thickening of butter and flour,\u00BD teaspoonful of anchovy sauce, 1 glass of sherry; cayenne and salt to taste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Clean the fish, take out the gills, but leave the inside, fold in oiled paper, and bake them gently. When done, take the liquor that flows from the fish, add a thickening of butter kneaded with flour; put in the other ingredients, and let it boil for 2 minutes. Serve the sauce in a tureen, and the fish, either with or without the paper cases.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: About 25 minutes.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. each.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time, but more plentiful in summer.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: Red mullet may be broiled, and should be folded in oiled paper, the same as in the preceding recipe, and seasoned with pepper and salt. They may be served without sauce; but if any is required, use melted butter, Italian or anchovy sauce. They should never be plain boiled.\u003Cbr\u003E\n\u003Cbr\u003E\nTHE STRIPED RED MULLET. - This fish was very highly esteemed by the ancients, especially by the Romans, who gave the most extravagant prices for it. Those of 2 lbs. weight were valued at about \u00A315 each; those of 4 lbs. at \u00A360, and, in the reign of Tiberius, three of them were sold for \u00A3209. To witness the changing loveliness of their colour during their dying agonies, was one of the principal reasons that such a high price was paid for one of these fishes. It frequents our Cornish and Sussex coasts, and is in high request, the flesh being firm, white, and well flavoured.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Red Mullet",
+  "usedSnapshot": "20211018062908"
+}

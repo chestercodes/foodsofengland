@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922084157",
+  "finalPath": "bath-tripe.html",
+  "heading": "Bath Tripe",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bath Tripe",
+  "usedSnapshot": "20211019181828"
+}

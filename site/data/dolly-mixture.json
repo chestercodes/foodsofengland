@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922082303",
+  "finalPath": "dolly-mixture.html",
+  "heading": "Dolly Mixture",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dolly Mixture",
+  "usedSnapshot": "20180924034620"
+}

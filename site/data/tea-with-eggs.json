@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922072009",
+  "finalPath": "tea-with-eggs.html",
+  "heading": "Tea with Eggs",
+  "ingredients": [
+    "beat",
+    "eggs",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tea-with-eggs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETEA WITH EGGS\u003C/b\u003E\u003Cbr\u003E\nThe Jesuite that came from China, Ann. 1664, told Mr. Waller, That there they use sometimes in this manner. To near a pint of the infusion, take two yolks of new laid-eggs, and beat them very well with as much fine Sugar as is sufficient for this quantity of Liquor; when they are very well incorporated, pour your Tea upon the Eggs and Sugar, and stir them well together. So drink it hot. This is when you come home from attending business abroad, and are very hungry, and yet have not conveniency to eat presently a competent meal. This presently discusseth and satisfieth all rawness and indigence of the stomack, flyeth suddainly over the whole body and into the veins, and strengthneth exceedingly, and preserves one a good while from necessity of eating. Mr. Waller findeth all those effects of it thus with Eggs. In these parts, He saith, we let the hot water remain too long soaking upon the Tea, which makes it extract into it self the earthy parts of the herb. The water is to remain upon it, no longer that whiles you can say the Miserere Psalm very leisurely. Then pour it upon the sugar, or sugar and Eggs. Thus you have only the spiritual parts of the Tea, which is much more active, penetrative and friendly to nature. You may from this regard take a little more of the herb; about one dragm of Tea, will serve for a pint of water; which makes three ordinary draughts.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Tea with Eggs",
+  "usedSnapshot": "20220516212727"
+}

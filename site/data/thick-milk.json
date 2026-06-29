@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922093211",
+  "finalPath": "thick-milk.html",
+  "heading": "Thick Milk",
+  "ingredients": [
+    "bread",
+    "buttermilk",
+    "flour",
+    "milk",
+    "potato",
+    "salt",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "thick-milk.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1852\u0022\u003E\u003Cb\u003EFrancatelli 1852\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 8. Thick Milk for Breakfast.\u003C/b\u003E\u003Cbr\u003E\nMilk, buttermilk, or even skim-milk, will serve for this purpose. To every pint of milk, mix a piled-up table-spoonful of flour, and stir the mixture while boiling on the fire for ten minutes; season with a little salt, and eat it with bread or a boiled potato. This kind of food is well adapted for the breakfast of women and children, and is far preferable to a sloppy mess of tea, which comes to more money.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1852"
+    }
+  ],
+  "title": "Thick Milk",
+  "usedSnapshot": "20211205162254"
+}

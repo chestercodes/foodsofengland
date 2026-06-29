@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922072900",
+  "finalPath": "northampton-cake.html",
+  "heading": "Northampton Cake",
+  "ingredients": [
+    "ale",
+    "beat",
+    "butter",
+    "cinnamon",
+    "cream",
+    "flour",
+    "nutmeg",
+    "orange",
+    "rose-water",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "northampton-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EThe Northampton-Cake.\u003C/b\u003E\u003Cbr\u003E\nTake a Peck of Flour, and a Pound of fine Sugar beaten well into Powder, and sifted; then add a quarter of an Ounce of Cloves, half an Ounce of Cinnamon, and a large Nutmeg, and beat them to powder; put to this some Orange-Flower-Water, or Rose-Water; then take five or six Pounds of Currans well pick\u0027d, and rub\u0027d dry with a coarse Cloth, but not wash\u0027d. Put these with your Fruit, and a little Salt into the Flour; then take as much Cream as you think proper: then melt two Pounds of Butter, to mix with it, and add a Pint of Canary-Wine, and kneed it with some fresh Ale-Yeast, till it rises under your hand. Have your Oven hot before you put it in the Hoop for Baking.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Northampton Cake",
+  "usedSnapshot": "20220819105959"
+}

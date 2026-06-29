@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922093709",
+  "finalPath": "cheshire-brawn.html",
+  "heading": "Cheshire Brawn",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cheshire Brawn",
+  "usedSnapshot": "20200808111709"
+}

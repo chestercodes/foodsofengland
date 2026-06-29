@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150822224822",
+  "finalPath": "whet.html",
+  "heading": "Whet",
+  "ingredients": [
+    "anchovies",
+    "anchovy",
+    "bread",
+    "butter",
+    "cheese",
+    "parsley"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "whet.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a nice Whet before Dinner\u003C/b\u003E\u003Cbr\u003E\nCUT some slices of bread half an inch thick fry them in butter but not too hard, then split some anchovies take out the bones and lay half an anchovy on each piece of bread; have ready some Cheshire cheese grated and some chopped parsley mixed together, lay it pretty thick over the bread and anchovy, baste it with butter, and brown it with a salamander, it must be done on the dish in which you send it to table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Whet",
+  "usedSnapshot": "20210512110941"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20210413191217",
+  "finalPath": "hartington-chicken.html",
+  "heading": "Hartington Chicken",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hartington Chicken",
+  "usedSnapshot": "20210413191217"
+}

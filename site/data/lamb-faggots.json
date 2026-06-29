@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922072727",
+  "finalPath": "lamb-faggots.html",
+  "heading": "Lamb Faggots",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Faggots",
+      "relatedPageUrl": "faggots.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Lamb Faggots",
+  "usedSnapshot": "20220808015721"
+}

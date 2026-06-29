@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140616090539",
+  "finalPath": "smoked-fish-pie.html",
+  "heading": "Smoked Fish Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Smoked Fish Pie",
+  "usedSnapshot": "20220516210713"
+}

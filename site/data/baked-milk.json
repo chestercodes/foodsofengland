@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922072030",
+  "finalPath": "baked-milk.html",
+  "heading": "Baked Milk",
+  "ingredients": [
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-milk.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BAKED MILK. A very useful article may be made for weakly and consumptive persons in the following manner. Put a gallon of milk into a jar, tie white paper over it, and let it stand all night in the oven when baking is over. Next morning it will be as thick as cream, and may be drank two or three times a day.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Baked Milk",
+  "usedSnapshot": "20220527225804"
+}

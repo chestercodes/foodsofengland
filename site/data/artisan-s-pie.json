@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922075429",
+  "finalPath": "artisan-s-pie.html",
+  "heading": "Artisan\u0027s Pie",
+  "ingredients": [
+    "fat",
+    "onions",
+    "pepper",
+    "potatoes",
+    "puddings",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "artisan-s-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "268. \u003Cb\u003EThe Artisan\u0027s Pie\u003C/b\u003E. - Any pieces of meat, but not too fat - four ounces of fat to every pound of meat is enough. Take two pounds of meat cut in slices, season it with three teaspoonfuls of salt, one of pepper, four sliced onions; peel four pounds of potatoes, cut in thick slices, which place on the bottom of the dish, then a layer of potatoes, then the meat; season well; Add a pint of water, and bake for two hours.\u003Cbr\u003E\n\u003Cbr\u003E\nTrimmings of meat of all kinds may be purchased in every large town, especially in London, and are the proper pieces for such economical pies; in buying them, take care there is none tainted, as it will produce the effect as described in introduction of puddings. Cover with crust, as No. 319.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Artisan\u0027s Pie",
+  "usedSnapshot": "20211021030724"
+}

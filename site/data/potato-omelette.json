@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130323063459",
+  "finalPath": "potato-omelette.html",
+  "heading": "Potato Omelette",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Potato Omelette",
+  "usedSnapshot": "20220819110555"
+}

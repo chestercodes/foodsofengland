@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922080900",
+  "finalPath": "mild-ale.html",
+  "heading": "Mild Ale",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Mild Ale",
+  "usedSnapshot": "20220516205141"
+}

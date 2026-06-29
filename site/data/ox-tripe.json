@@ -1,0 +1,107 @@
+﻿{
+  "earliestSnapshot": "20150308024234",
+  "finalPath": "ox-tripe.html",
+  "heading": "Ox Tripe",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Calf\u0027s Chaldron Pudding",
+      "relatedPageUrl": "calf-s-chaldron-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Calves Chaldron Pye",
+      "relatedPageUrl": "calves-chaldron-pye.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Cold Tripe",
+      "relatedPageUrl": "cold-tripe.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Dressmaker Tripe",
+      "relatedPageUrl": "dressmaker-tripe.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fricat of Calves Chaldrons",
+      "relatedPageUrl": "fricat-of-calves-chaldrons.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Fried Tripe",
+      "relatedPageUrl": "fried-tripe.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Soused Tripe",
+      "relatedPageUrl": "soused-tripe.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tripe and Onions",
+      "relatedPageUrl": "tripe-and-onions.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tripe of Eggs",
+      "relatedPageUrl": "tripe-of-eggs.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tripe with Spinach",
+      "relatedPageUrl": "tripe-with-spinach.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMuggety Pie\u003C/b\u003E",
+      "relatedPageUrl": "muggety-pie.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBath Tripe\u003C/b\u003E",
+      "relatedPageUrl": "bath-tripe.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": "\u003Cb\u003EChaldron\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Ox Tripe",
+  "usedSnapshot": "20220130115533"
+}

@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150423003045",
+  "finalPath": "alnwick-stew.html",
+  "heading": "Alnwick Stew",
+  "ingredients": [
+    "bay leaf",
+    "black pepper",
+    "butter",
+    "english mustard",
+    "mustard",
+    "mustard powder",
+    "onions",
+    "parsley",
+    "pepper",
+    "potatoes",
+    "vegetable stock"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "alnwick-stew.html-1",
+      "receiptSource": "Original Receipt from of July 5, 2007 at \u003Ca href=\u0022http://www.northumberlandgazette.co.uk\u0022\u003E\u003Cb\u003Enorthumberlandgazette.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EAlnwick Stew\u003C/b\u003E\u003Cbr\u003E\n900g piece gammon\u003Cbr\u003E\n25g butter\u003Cbr\u003E\n3 onions, chopped\u003Cbr\u003E\n2 tsp dry English mustard\u003Cbr\u003E\n4 large waxy potatoes, peeled and cut into slices the thickness of a 1 coin\u003Cbr\u003E\n2 Bay leaves\u003Cbr\u003E\n1 litre hot vegetable stock\u003Cbr\u003E\nhandful flat-leafed parsley\u003Cbr\u003E\n\u003Cbr\u003E\nPlace the gammon in a large pan of cold water and bring to the boil. Remove the gammon and discard the water.\u003Cbr\u003E\nWhen cool enough to handle, cut the meat into 2cm cubes.\u003Cbr\u003E\nMelt the butter in a heavy-based pan.\u003Cbr\u003E\nPut half the onions in the bottom of the pan and season with black pepper and a little mustard powder.\u003Cbr\u003E\nLayer half the gammon on top, seasoning again, then top with half the potatoes and a bay leaf.\u003Cbr\u003E\nRepeat with the remaining ingredients: Onions, mustard, black pepper, gammon, potatoes and bay leaf.\u003Cbr\u003E\nPour in enough stock to reach just below the top layer of potatoes.\u003Cbr\u003E\nBring to the boil and simmer gently for one hour until the meat and vegetables are cooked.\u003Cbr\u003E\nSpoon into shallow bowls and sprinkle with chopped parsley.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Alnwick Stew",
+  "usedSnapshot": "20211019173603"
+}

@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922084836",
+  "finalPath": "potted-anchovies.html",
+  "heading": "Potted Anchovies",
+  "ingredients": [
+    "anchovies",
+    "butter",
+    "cayenne",
+    "nutmeg"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potted-anchovies.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EPOTTED ANCHOVIES.\u003C/b\u003E\u003Cbr\u003E\nScrape the anchovies very clean, raise the flesh from the bones, and pound it to a perfect paste in a Wedgwood or marble mortar: then with the back of a wooden spoon press it through a hair-sieve reversed. Next, weigh the anchovies, and pound them again with double their weight of the freshest butter that can be procured, a high seasoning of mace and cayenne, and a small quantity of finely-grated nutmeg; set the mixture by in a cool place for three or four \u0022hours to harden it before it is put into the potting pans. If butter be poured over, it must be only lukewarm; but the anchovies will keep well for two or three weeks without. A very small portion of rose-pink may be added to improve the colour, but unless it be sparingly used, it will impart a bitter flavour to the preparation. The quantity of butter can be increased or diminished in proportion as it is wished that the flavour of the anchovies should prevail.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Potted Anchovies",
+  "usedSnapshot": "20211018071401"
+}

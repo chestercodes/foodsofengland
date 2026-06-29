@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922085046",
+  "finalPath": "verjuice.html",
+  "heading": "Verjuice",
+  "ingredients": [
+    "apple",
+    "crab",
+    "crab-apples",
+    "grapes"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "verjuice.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make Verjuyce.\u003C/b\u003E\u003Cbr\u003E\nTake crabs as soon as the kernels turn black, and lay them in a heap to sweat, then pick them from stalks and rottenness; and then in a long trough with stamping beetles stamp them to mash, and make a bag of course hair-cloth as square as the press; fill it with stamped crabs, and being well pressed, put it up in a clean barrel or hogs-head.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "verjuice.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Verjuice of Grapes, unripe, or of Crab-Apples; from J. S. Esq.\u003C/b\u003E\u003Cbr\u003E\nTake Grapes full grown, just before they begin to ripen, and bruise them, without the trouble of picking them from the Bunches; then put them in a Bag, made of Horse-Hair, and press them till the Juice is discharged; put this Liquor into a Stone Jar, leaving it uncover\u0027d for some Days, then close it and keep it for use. This Verjuice is much richer than that of the Crab-Apple, and has a much greater influence in the way of Callico-Printing; but is harder to come at, few People being willing to gather their Grapes unripe; but where there is a large Quantity, it is well worth while. N.B. It will do well, if the Liquor is put into common Casks, but is nicer to the Palate if it is kept in glazed Jars of about eight or nine Gallons, and the Berries might then be pick\u0027d from the Stalks. Keep this in a good Vault, and it will remain good for three or four Years as Verjuice; but a little more time will make it lose its Sourness, and it will become like Wine.\u003Cbr\u003E\n\u003Cbr\u003E\nThe Verjuice of Crab-Apples should be made of the wild Crab, which produces Thorns on its Branches, and brings a small round Apple, such as are common to be planted for Fences. I am the more particular in this, because some Apples, which are call\u0027d Wildings, are supposed to have a sharp juice, but such will soften by keeping a Year or two. Take the Crabs, I speak of, in October, and grind them in a Mill, such as they use for making Cyder; then press the Liquor, and put it into Vessels like the former. Besides the agreeable Taste this has, as an Agresta at the Table, it is good for the Callico Printers.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EVerjus\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Verjuice",
+  "usedSnapshot": "20220706172235"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140616084703",
+  "finalPath": "potato-cheese.html",
+  "heading": "Potato Cheese",
+  "ingredients": [
+    "beat",
+    "cheese",
+    "cheeses",
+    "milk",
+    "potato",
+    "potatoes"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-cheese.html-1",
+      "receiptSource": "Original Receipt in the Worcester Journal - Saturday 29 November 1856",
+      "receiptText": "\u003Cb\u003EPotato Cheese.\u003C/b\u003E- Take the best potatoes and boil them; when cold, beat them in a mortar into a pulp, adding a pint of sour milk to five pounds of potatoes. Keep the mass covered for three or four days and beat it again. Make it into small cheeses, which are to be placed into baskets to let the superfluous moisture escape. Dry them in the shade, and then pile them on each other for 15 days; after which they may be put in any manner in a dry place. They have a very pleasant flavour, and will keep good for years, improving with age. - Literary Gazette.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    }
+  ],
+  "title": "Potato Cheese",
+  "usedSnapshot": "20220706170752"
+}

@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20150427143052",
+  "finalPath": "lardy-cake.html",
+  "heading": "Lardy Cake",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "granulated sugar",
+    "lard",
+    "sugar",
+    "sultanas",
+    "beef",
+    "beef dripping",
+    "currants",
+    "fat",
+    "pastry",
+    "tea",
+    "walnut"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lardy-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ETaunton Courier, and Western Advertiser\u003C/i\u003E\u0027 - Wednesday 07 May 1930",
+      "receiptText": "\u003Cb\u003ELARDY CAKE.\u003C/b\u003E\u003Cbr\u003E\nThis is equally enjoyable cold, and if you happen let it go stale, delicious toasted. 1lb. of bread dough, 4oz. of lard, 4oz.of granulated sugar, 2ozs. candied peel, 1/4lb sultanas. teaspoonful cinnamon. Warm the lard and knead into bread dough, then knead in the sugar, cinnamon, sultanas, and very finely-cut peel. When evenly mixed, turn into well-greased tins and leave in a warm place for 20 minutes. Bake in quick oven for about three-quarters of an hour. The cake can be baked in sandwich tins and cut into slices, or put in loaf tins\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lardy-cake.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EWestern Times\u003C/i\u003E\u0027 - Friday 28 April 1944",
+      "receiptText": "LARDY CAKE. If you can get a half-\u003Ca href=\u0022quartern-loaf.html\u0022\u003E\u003Cb\u003Equartern\u003C/b\u003E\u003C/a\u003E of dough from your baker a Lardy Cake, speciality of Wiltshire, is a welcome addition to the tea table. Roll the dough on a floured pastry board. On it put dabs of lard about the size of a walnut, and about inches apart. When lard is not available beef dripping (clarified) will do as a war-time substitute. Sprinkle with granulated sugar. Fold into three from the ends, and then into three from the sides. Turn the right, and roll out again. Repeat this process twice, each time adding a little more fat. After three foldings and lardings roll out to size of baking tin, score across with a knife, and bake in a moderate oven. liked, mixed spice may be mixed with the sugar, and currants and sultanas may be added as well.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ELardy Bread, Lardey Cake, Lardy John, Dough Cake, Fourses Cake\u003C/b\u003E. Compare with the \u003Ca href=\u0022fatty-cake.html\u0022\u003E\u003Cb\u003EFatty Cake\u003C/b\u003E\u003C/a\u003E of Yorkshire",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Wiltshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Oxfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Lardy Cake",
+  "usedSnapshot": "20220113231937"
+}

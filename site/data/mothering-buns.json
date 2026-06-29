@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140310135146",
+  "finalPath": "mothering-buns.html",
+  "heading": "Mothering Buns",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Bristol"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Gloucestershire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mason-brown-2004"
+    }
+  ],
+  "title": "Mothering Buns",
+  "usedSnapshot": "20210314115142"
+}

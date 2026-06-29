@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140616081311",
+  "finalPath": "yarg.html",
+  "heading": "Yarg",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Nettle Cheese",
+      "relatedPageUrl": "nettle-cheese.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ENettles\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/nettles.html",
+      "relationDescription": "For more see..."
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Nettles"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Yarg",
+  "usedSnapshot": "20211019185953"
+}

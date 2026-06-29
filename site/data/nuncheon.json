@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084154",
+  "finalPath": "nuncheon.html",
+  "heading": "Nuncheon",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Nuncheon",
+  "usedSnapshot": "20220527061948"
+}

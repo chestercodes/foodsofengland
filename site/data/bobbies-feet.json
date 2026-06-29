@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20130809000728",
+  "finalPath": "bobbies-feet.html",
+  "heading": "Bobbies\u0027 Feet",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bobbies\u0027 Feet",
+  "usedSnapshot": "20210518202922"
+}

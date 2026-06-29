@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20150922075809",
+  "finalPath": "cumberland-sauce.html",
+  "heading": "Cumberland Sauce",
+  "ingredients": [
+    "currant",
+    "jelly",
+    "sugar",
+    "vinegar",
+    "cayenne",
+    "ginger",
+    "lemon",
+    "mustard",
+    "orange",
+    "pepper",
+    "port wine",
+    "shallots"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cumberland-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EDifferent sorts of sauce for venison.\u003C/b\u003E\u003Cbr\u003E\nYOU may take either of these sauces for venison. Currant jelly warmed; or half a pint of red wine, with a quarter of a pound of sugar, simmered over a clear fire for five or six minutes; or half a pint of vinegar, and a quarter of a pound of sugar, simmered till it is a syrup.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cumberland-sauce.html-2",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide to the Art of Modern Cookery\u003C/i\u003E \u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E134 CUMBERLAND SAUCE\u003C/b\u003E\u003Cbr\u003E\nDissolve four tablespoonfuls of red-currant jelly, to which are added one-fifth pint of port wine, one teaspoonful of finely-chopped shallots, scalded for a few seconds and pressed, one teaspoonful of small pieces of orange rind and as much lemon rind (cut finely. Julienne-fashion, scalded for two minutes, well-drained, and cooled), the juice of an orange and that of half a lemon, one teaspoonful of mustard, a little cayenne pepper, and as much powdered ginger. Mix the whole well.\u003Cbr\u003E\n\u003Cbr\u003E\nServe this sauce with cold venison.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Cumberland Hot Sauce",
+      "relatedPageUrl": "cumberland-hot-sauce.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Oxford Sauce",
+      "relatedPageUrl": "oxford-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    }
+  ],
+  "title": "Cumberland Sauce",
+  "usedSnapshot": "20210512111636"
+}

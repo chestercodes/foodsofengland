@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20140212024033",
+  "finalPath": "cheshire-pork-pie.html",
+  "heading": "Cheshire Pork Pie",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "pork",
+    "potatoes",
+    "salt",
+    "mutton",
+    "onions",
+    "steaks",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "cheshire-pork-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ECheshire-Pye with Pork. From Mr. R. J.\u003C/b\u003E\u003Cbr\u003E\nTake some salt Loin of Pork, or Leg of Pork, and cut it into Pieces, like Dice, or as you would do for an Harsh. If it be boiled or roasted, it is no matter; then take an equal quantity of Potatoes, and pare them, and cut them into dice, or in slices. Make your Pye-Crust, and lay some Butter, in pieces, at the bottom, with some Pepper and Salt; then put in your Meat and Potatoes, with such seasoning as you like, but Pepper and Salt commonly, and on the Top some pieces of Butter. Then close your Pye, and bake it in a gentle Oven, putting in about a Pint of Water, just before it is going into the Oven; for if you put in your Water over Night, it will spoil your Pye.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "cheshire-pork-pie.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make a Cheshire pork pie.\u003C/b\u003E\u003Cbr\u003E\nMAKE a god crust, cover the dish all over, put at the bottom a layer of sliced pippins, strew over them some sugar, then a layer of mutton steaks cut from the loin, well seasoned with pepper and salt, then another layer of pippins; peel some onions and slice them thin, lay a layer all over the apples, then a layer of mutton, then pippins and onions, pour in a pint of water; so close your pie and bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cheshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Cheshire Pork Pie",
+  "usedSnapshot": "20200808111517"
+}

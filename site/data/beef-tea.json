@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20150922082053",
+  "finalPath": "beef-tea.html",
+  "heading": "Beef Tea",
+  "ingredients": [
+    "beef",
+    "bread",
+    "salt",
+    "tea",
+    "gravy"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "beef-tea.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#hammond-1819\u0022\u003E\u003Cb\u003EHammond 1819\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EBeef tea.\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nTake a pound of beef perfectly lean, chop it into small pieces, and boil it in one gallon of water with a slice of under-crust of white bread, and a small portion of salt; let it boil till reduced to two quarts, then strain it, and make use of it as necessary.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "beef-tea.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "1076. BEEF TEA (Lancashire) One pound of gravy beef, one pint of cold water, half a teaspoonful of salt. Shred meat finely, place in an earthenware jar, add the water and salt. Cover closely. Place jar in a saucepan of boiling water, or in the oven, and cook for three hours. Stir occasionally.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Beef Tea",
+  "usedSnapshot": "20220905183843"
+}

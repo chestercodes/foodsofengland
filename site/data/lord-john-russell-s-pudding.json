@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20130808231249",
+  "finalPath": "lord-john-russell-s-pudding.html",
+  "heading": "Lord John Russell\u0027s Pudding",
+  "ingredients": [
+    "almond",
+    "beat",
+    "brandy",
+    "cherries",
+    "cream",
+    "custard",
+    "egg",
+    "egg yolks",
+    "gelatine",
+    "glace cherries",
+    "lemon",
+    "milk",
+    "orange",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-john-russell-s-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lord%20John%20Russell\u0027s%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELord John Russell\u0027s Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 egg yolks\u003Cbr\u003E\n3/4 pint milk\u003Cbr\u003E\n1 oz sugar\u003Cbr\u003E\nGrated rind of 1 small lemon of a half orange\u003Cbr\u003E\n\u00BD oz gelatine\u003Cbr\u003E\n2 tablespoons warm water\u003Cbr\u003E\n\u00BD pint single cream\u003Cbr\u003E\n1 tablespoon brandy\u003Cbr\u003E\nAlmond essence\u003Cbr\u003E\n1 tablespoon chopped mixed peel\u003Cbr\u003E\n1oz glace cherries, quartered\u003Cbr\u003E\n1 oz glace pineapple cut into small pieces\u003Cbr\u003E\n\u003Cbr\u003E\nBeat the yolks and milk, add sugar and citrus rind. Warm over hot water until it thickens enough to coat a spoon. Allow to cool slightly. Dissolve gelatine in the warm water, add to the custard and stir in all the other ingredients.\u003Cbr\u003E\nTurn into a bowl, cover and freeze for 2 hours. Remove and beat smooth, then return to the freezer for 3 hours. Repeat if necessary.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Lord John Russell\u0027s Pudding",
+  "usedSnapshot": "20220516210357"
+}

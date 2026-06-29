@@ -1,0 +1,26 @@
+[
+  {
+    "name": "class",
+    "value": "drinks"
+  },
+  {
+    "name": "heading",
+    "value": "Egg Hot"
+  },
+  {
+    "name": "list-page-reference",
+    "value": "listdrinks.htm"
+  },
+  {
+    "name": "number-of-receipts",
+    "value": "1"
+  },
+  {
+    "name": "reference",
+    "value": "byron-1914"
+  },
+  {
+    "name": "subclass",
+    "value": "historic"
+  }
+]

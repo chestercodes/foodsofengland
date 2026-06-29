@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20130323041940",
+  "finalPath": "masked-eggs.html",
+  "heading": "Masked Eggs",
+  "ingredients": [
+    "butter",
+    "egg",
+    "eggs",
+    "paprika",
+    "parsley",
+    "pepper",
+    "salt",
+    "spinach",
+    "toast",
+    "tomatoes",
+    "asparagus",
+    "beat",
+    "bread",
+    "clotted cream",
+    "cream",
+    "mayonnaise"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "masked-eggs.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ESheffield Independent\u003C/i\u003E\u0027 - Thursday 31 March 1938",
+      "receiptText": "\u003Cb\u003EMasked Eggs Eggs With Spinach\u003C/b\u003E\u003Cbr\u003E\nButter thoroughly some darloles or deep bun tins, dust over with salt and pepper. Break a new laid egg into each so that the yolk is not broken. Cover with greased paper and steam gently over boiling water until set - about 15 minutes.\u003Cbr\u003E\nTurn out carefully to small croutes, or rounds of toast to fit. Coat each one with spoonful of thick creamy sauce which has been well seasoned. Garnish with finely-chopped parsley, sieved yolk of egg, paprika pepper and serve with fried tomatoes. This dish is equally good served cold with salad.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "masked-eggs.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Masked%20Eggs\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "Masked Eggs with \u003Ca href=\u0022asparagus.html\u0022\u003E\u003Cb\u003EAsparagus\u003C/b\u003E\u003C/a\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n6 fresh eggs\u003Cbr\u003E\n6 slices of fried bread\u003Cbr\u003E\n1 lb young asparagus spears, trimmed\u003Cbr\u003E\n1/4 pint mayonnaise\u003Cbr\u003E\n2 tbsp clotted cream\u003Cbr\u003E\nbutter for frying\u003Cbr\u003E\n\u003Cbr\u003E\nPoach the eggs. Cut the bread into circles and fry golden brown. Boil the asparagus for about 3 minutes, or until just tender. Drain the asparagus, cut off the tip s and chop the stalks. Beat together the mayonnaise and clotted cream. Arrange the fried bread rounds on small serving dishes. Sit an egg on top of the bread and arrange three or four asparagus tips alongside. Sprinkle over the chopped asparagus. Pour over enough of the mayonnaise and clotted cream that the eggs are completely masked.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Masked Eggs",
+  "usedSnapshot": "20220808003252"
+}

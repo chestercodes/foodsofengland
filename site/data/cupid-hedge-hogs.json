@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922084638",
+  "finalPath": "cupid-hedge-hogs.html",
+  "heading": "Cupid Hedge-Hogs",
+  "ingredients": [
+    "almonds",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cupid-hedge-hogs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E387. To make CUPID HEDGE-HOG\u0027S.\u003C/b\u003E\u003Cbr\u003E\nTake a quarter of a pound of jordan almonds, and half a pound of loaf sugar, put it into a pan with as much water as will just wet it, let it boil whilst it be so thick as will stick to your almonds, then put in your almonds and let them boil in it; have ready a quarter of a pound of small \u003Ca href=\u0022comfits.html\u0022\u003E\u003Cb\u003Ecoloured comfits\u003C/b\u003E\u003C/a\u003E; take your almonds out of the syrrup one by one, and turn them round whilst they covered over, so lie them on a pewter dish as you do them, and set them before the fire, whilst you have done them all.\u003Cbr\u003E\nThey are pretty to put in glasses, or to set in a desert.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Almond Hedgehogs",
+      "relatedPageUrl": "almond-hedgehog.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Cupid Hedge-Hogs",
+  "usedSnapshot": "20220527231044"
+}

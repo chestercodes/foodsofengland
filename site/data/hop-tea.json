@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20150922080801",
+  "finalPath": "hop-tea.html",
+  "heading": "Hop Tea",
+  "ingredients": [
+    "hops",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hop-tea.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo 1059 HOP TEA\u003C/b\u003E\u003Cbr\u003E\nPut half an ounce of hops into a covered jug, pour a pint of boiling water, to this put the lid on and allow the infusion to stand until quite cold, the tea must then be decantered off into a water bottle and should be drunk fasting. The dose should not exceed a gill, which will have the effect of creating a natural appetite, and will also tend to improve and strengthen the digestive organs.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Hop Tea",
+  "usedSnapshot": "20220808015349"
+}

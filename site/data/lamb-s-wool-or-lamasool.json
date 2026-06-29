@@ -1,0 +1,104 @@
+﻿{
+  "earliestSnapshot": "20150423003157",
+  "finalPath": "lamb-s-wool-or-lamasool.html",
+  "heading": "Lamb\u0027s Wool, or Lamasool",
+  "ingredients": [
+    "ale",
+    "apple",
+    "honey",
+    "lemon",
+    "marmalade",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-s-wool-or-lamasool.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELAMBSWOOL, or LAMASOOL\u003C/b\u003E. - This old English beverage is composed of apples mixed with ale, and seasoned with sugar and spice. It takes its name from \u003Ci\u003ELamaes abhal,\u003C/i\u003E which, in ancient British, signifies the day of apple fruit, from being drunk on the apple feast in autumn. In France, a beverage, called by the Parisians raisinee, is made by boiling any given quantity of new wine, skimming it as often as fresh scum rises, and, when it is boiled to half its bulk, straining it. To this apples, pared and cut into quarters, are added; the whole is then allowed to simmer gently, stirring it all the time with a long wooden spoon, till the apples are thoroughly mixed with the liquor, and the whole forms a species of marmalade, which is extremely agreeable to the taste, having a slight flavour of acidity, like lemon mixed with honey.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Ale Gruel",
+      "relatedPageUrl": "ale-gruel.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Aleberry",
+      "relatedPageUrl": "aleberry.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Bragget",
+      "relatedPageUrl": "bragget.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Flip",
+      "relatedPageUrl": "egg-flip.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Hot",
+      "relatedPageUrl": "egg-hot.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Koorow",
+      "relatedPageUrl": "koorow.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Lamb\u0027s Wool, or Lamasool",
+      "relatedPageUrl": "lambswool,orlamasool.htm",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Mulled Ale",
+      "relatedPageUrl": "mulled-ale.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Posset",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Treacle Posset",
+      "relatedPageUrl": "treacle-posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Lamb\u0027s Wool, or Lamasool",
+  "usedSnapshot": "20220808010451"
+}

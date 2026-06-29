@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130916152351",
+  "finalPath": "apple-cheese.html",
+  "heading": "Apple Cheese",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "blanched almonds",
+    "brandy",
+    "cheese",
+    "lemon",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-cheese.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Complete Confectioner\u003C/i\u003E by Frederick Nutt, 1789 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 245. Apple Cheese.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPARE and quarter your apples take out the cores, put them into a deep pot or jar, and put the paring and cores at the top, let them bake in a moderate over, till quite soft, take off the parings, cores, and bits of apple which are at the top, if they are dry or hard; then put your apples into a stew-pan, with fine powdered sugar to your taste, and boil them four hours till it is quite stiff, put it in moulds or cups, and lay paper over it moistened with brandy, set it in a dry place and in three weeks it will cut quite smooth.\u003Cbr\u003E\nNB: You may add a little of the rind of a lemon grated, or a few drops of essence of lemon before you put it into the moulds, also a few blanched almonds cut into small pieces and mixed with it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EYorkshire Apple Cake\u003C/b\u003E",
+      "relatedPageUrl": "yorkshire-apple-cake.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Apple Cheese",
+  "usedSnapshot": "20220118052229"
+}

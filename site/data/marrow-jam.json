@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922072740",
+  "finalPath": "marrow-jam.html",
+  "heading": "Marrow Jam",
+  "ingredients": [
+    "chillies",
+    "ginger",
+    "jam",
+    "lemons",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marrow-jam.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E672. VEGETABLE MARROW JAM (Middlesex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nProcure a good sound well-ripened marrow, of twelve pounds weight. Peel it and cut it into cubes two inches square, add the juice and very thinly cut rind of four lemons; mix in one pound of sugar to every pound of marrow, and place in an enamelled preserving-pan or in a deep earthenware jar, for twenty-four hours. Then add three ounces of bruised race ginger, and a quarter of an ounce of chillies (this is optional) in a muslin bag. Let the mixture boil for one and a half hours in the preserving-pan (counting from the time that it comes to the boil) and, just before it is done, add half a pound of candied peel cut into very thin strips.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Marrow Jam",
+  "usedSnapshot": "20211021020619"
+}

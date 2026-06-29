@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922091318",
+  "finalPath": "patterdale-pudding.html",
+  "heading": "Patterdale Pudding",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Patterdale Pudding",
+  "usedSnapshot": "20200116025930"
+}

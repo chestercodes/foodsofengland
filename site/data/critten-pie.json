@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20130808224939",
+  "finalPath": "critten-pie.html",
+  "heading": "Critten Pie",
+  "ingredients": [
+    "allspice",
+    "bacon",
+    "bread",
+    "currants",
+    "egg",
+    "fat",
+    "ginger",
+    "lard",
+    "nutmeg",
+    "plums",
+    "salt",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "critten-pie.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe housekeeper\u0027s guide: or, A plain \u0026 practical system of domestic cookery\u003C/i\u003E By Esther Copley, 1838",
+      "receiptText": "\u003Cb\u003ECRITTEN PIES\u003C/b\u003E\u003Cbr\u003E\nA Hampshire dish, one of the grand luxuries of pig killing time. When the internal fat of a bacon hog has been beaten and melted for lard what remains in the sieve after straining is called crittens, to which add an equal weight each of bread crumbs, currants, or part plums stoned and chopped and apples, and the lights of the pig scalded and chopped fine. To each pound of this mixture add one egg beaten fine, one ounce of sugar, one ounce of candied peel shred fine and a littte ginger, allspice, nutmeg and salt. It is generally baked in a raised crust made in a large red platter or in small moulds or tea cups.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Critten Pie",
+  "usedSnapshot": "20211129120944"
+}

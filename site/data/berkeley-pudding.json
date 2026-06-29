@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922071756",
+  "finalPath": "berkeley-pudding.html",
+  "heading": "Berkeley Pudding",
+  "ingredients": [
+    "bread",
+    "cinnamon",
+    "custard",
+    "eggs",
+    "flour",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "suet",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "berkeley-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWhat to do with the cold mutton - a book of rechauffes together with many other approved receipts for the kitchen of a gentleman of moderate income\u003C/i\u003E\u0027, by \u0027PKS\u0027, New York, 1865",
+      "receiptText": "\u003Cb\u003ENo 238 THE BERKELEY PUDDING\u003C/b\u003E\u003Cbr\u003E\nTake one pound of suet chopped very fine, four ounces of flour, half an ounce of fine bread crumbs, three whole eggs, half a small tea spoonful of pounded mace, the same of cinnamon, a little grated nutmeg, a little grated lemon peel, and half a pint of milk; mix all together, put into a plain mould and boil nine hours. For the sauce make a custard with the yolks of two eggs, white sugar to taste and a wine glassful of rum.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Berkeley Pudding",
+  "usedSnapshot": "20220808005620"
+}

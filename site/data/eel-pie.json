@@ -1,0 +1,115 @@
+﻿{
+  "earliestSnapshot": "20140616085425",
+  "finalPath": "eel-pie.html",
+  "heading": "Eel Pie",
+  "ingredients": [
+    "barberries",
+    "beat",
+    "bread",
+    "butter",
+    "dates",
+    "eels",
+    "eggs",
+    "ginger",
+    "gooseberries",
+    "grapes",
+    "herbs",
+    "nutmeg",
+    "onion",
+    "onions",
+    "orange",
+    "pepper",
+    "prunes",
+    "raisins",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "eel-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo bake Eels in Pye, Dish or Patty-pan.\u003C/b\u003E\u003Cbr\u003E\nTake good fresh water eels, draw, and flay them, cut them in pieces, and season them with pepper, salt, and nutmeg, lay them in a pye with some prunes, currans, grapes, gooseberries, or \u003Ca href=\u0022barberries.html\u0022\u003E\u003Cb\u003EBarberries\u003C/b\u003E\u003C/a\u003E, large mace, slic\u0027t dates and butter, close it up and bake it, being baked, liquor it with white-wine, sugar, and butter, and ice it.\u003Cbr\u003E\nIf you bake it in a dish in paste, bake it in cold butter paste, rost the eel, \u0026 let it be cold, season it with nutmeg pepper, ginger, cinamon, and salt, put butter on the paste, and lay on the eel with a few sweet herbs chopped, and grated bisket-bread, grapes, currans, dates, large mace, and butter, close it up and bake it, liquor it, and ice it.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EOtherways.\u003C/b\u003E\u003Cbr\u003E\nTake good fresh water eels; flay and draw them, season 357 Bb3 them with nutmeg, pepper, and salt, being cut in pieces, lay them in the pie, and put to them some two or three onions in quaters, some butter, large mace, grapes, barberries or gooseberries, close them up and bake them; being baked liquor them with beaten butter, beat up thick with the yolks of two eggs, and slices of an orange.\u003Cbr\u003E\nSometimes you may bake them with a minced onion, some raisins of the sun, and season them with some ginger, pepper, and salt.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Crustardes of Fleshe",
+      "relatedPageUrl": "crustard-of-flessh.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Richmond Eel Pie",
+      "relatedPageUrl": "richmond-eel.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Eel Pie",
+  "usedSnapshot": "20211207123244"
+}

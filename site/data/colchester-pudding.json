@@ -1,0 +1,69 @@
+﻿{
+  "earliestSnapshot": "20130412074236",
+  "finalPath": "colchester-pudding.html",
+  "heading": "Colchester Pudding",
+  "ingredients": [
+    "beat",
+    "castor sugar",
+    "custard",
+    "eggs",
+    "lemon",
+    "milk",
+    "pudding",
+    "sugar",
+    "tapioca",
+    "vanilla",
+    "caster sugar",
+    "cream",
+    "double cream",
+    "egg",
+    "egg whites",
+    "egg yolks",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "colchester-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E456. COLCHESTER PUDDING (Essex)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake one pint of milk, two ounces of tapioca, the rind of one lemon, vanilla, two tablespoonfuls of castor sugar, stewed fruit, custard, whites of two eggs. Put a layer of any stewed fruit in a glass dish. Put the milk in a clean pan on the fire, pare the lemon rind very thinly and put it in. Bring the milk slowly to the boil, strain out the rind, and sprinkle in the tapioca. Simmer this very slowly in the milk till it is soft and creamy. Keep the lid on, but stir it frequently. Then add sugar and vanilla to taste. Pour it on to the fruit; it should be just thick enough to flow over it nicely. If too thick, add a little more milk. Let this get cold, then pour over a good boiled custard. Lastly, beat up the whites of the eggs to a very stiff froth; sweeten with the castor sugar, and add a few drops of vanilla. Colour the froth a pale pink with a few drops of cochineal. Heap it over the top of the custard.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "colchester-pudding.html-2",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.essextouristguide.com/Favourite_Essex_Recipes.asp\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EColchester Pudding -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 1\u00BE pints milk, 1\u00BD oz. tapioca, pinch of salt, grated lemon rind, vanilla essence, 1 lb. stewed fruit (as available in season), 6 egg yolks,\u00BD lb. caster sugar, 5 fl. oz. double cream, 3 egg whites\u003Cbr\u003E\n\u003Cbr\u003E\nHeat oven to 400\u00BAF or Mark 6. Heat 1 pint of the milk in a pan, sprinkle on tapioca and salt and bring to the boil. Simmer gently until soft. After 10 minutes add the lemon rind and a few drops of vanilla essence. Put a layer of stewed fruit in an ovenproof dish and cover with the tapioca. To make the rich custard, heat the milk slowly in a saucepan until just simmering; remove from heat. Meanwhile mix the egg yolks and 3 oz of the sugar in a bowl. Gradually whisk the cooled milk into the egg mixture, return to the saucepan over a gentle heat, whisking all the time until it thickens. Then stir in the cream and pour the custard over the tapioca. Next whisk egg whites until stiff, spoon in remaining sugar and pipe meringue mixture over the custard. Put in the oven and bake until the top is brown.\u003Cbr\u003E\nServes 4-6.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Essex Pudding",
+      "relatedPageUrl": "essex-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Colchester Pudding",
+  "usedSnapshot": "20211021023852"
+}

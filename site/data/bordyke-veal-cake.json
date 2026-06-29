@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130324050552",
+  "finalPath": "bordyke-veal-cake.html",
+  "heading": "Bordyke Veal Cake",
+  "ingredients": [
+    "bacon",
+    "cayenne",
+    "fat",
+    "lemon",
+    "nutmeg",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bordyke-veal-cake.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBORDYKE VEAL CAKE\u003C/b\u003E\u003Cbr\u003E\n(Good.)\u003Cbr\u003E\nTake a pound and a half of veal perfectly clear of fat and skin, and eight ounces of the nicest strips of bacon; chop them separately, then mix them well together with the grated rind of a small lemon, half a teaspoonful of salt, a fourth as much of cayenne, the third part of a nutmeg grated, and a half-teaspoonful of freshly pounded mace\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Bordyke Veal Cake",
+  "usedSnapshot": "20220819102147"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20150922073734",
+  "finalPath": "apple-chutney.html",
+  "heading": "Apple Chutney",
+  "ingredients": [
+    "apple",
+    "brown sugar",
+    "cayenne",
+    "chillies",
+    "chutney",
+    "currants",
+    "garlic",
+    "ginger",
+    "pepper",
+    "raisins",
+    "salt",
+    "sugar",
+    "vinegar",
+    "flour",
+    "mustard",
+    "mustard seed",
+    "onions"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "apple-chutney.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003E\u0027The Curry Cook\u0027s Assistant\u0027\u003C/i\u003E by Daniel Santiagoe, 1887",
+      "receiptText": "\u003Cb\u003EAPPLE CHUTNEY.\u003C/b\u003E\u003Cbr\u003E\nHow to make in England.\u003Cbr\u003E\n\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;\u00BD lb. Sour Apples, peeled and cored.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BC lb. Currants.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 oz. Chillies (or\u00BD oz. Cayenne).\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 Tablespoon Brown Sugar.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 4 oz. Salt, or to taste.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 Eggspoon Pepper, finely ground.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1 oz. Garlic, chopped up fine.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BC oz. Green Ginger, chopped up fine.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BC lb. Raisins.\u003Cbr\u003E\n\u003Cbr\u003E\nMode.-Have the currants and raisins clean, and pound them in grinder or pounder of stone. Now grind the apples and all other ingredients to a smooth paste (I mean, not too thin or in lumps). Now mix these well together with half bottle of best vinegar, and bottle it in tart fruit bottles, corked well. If you require sweeter have more sugar, and if it is too watery put in a little less of vinegar. The above plan of chutney is suitable for cold meats, Curries, etc. In Ceylon, Mango Chutney is made in similar way, but they use tamarind, and when grinding use vinegar to soften the ingredients when grinding.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "apple-chutney.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E410. BENGAL CHUTNEY (Surrey)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nOne pound of brown sugar, half a pound of salt, half a pound of mustard-seed, washed and pounded: half a garlic, or quarter of a pound of onions chopped finely, quarter of a pound of powdered ginger, half a pound of raisins, stoned and chopped, one ounce of cayenne pepper, three pints of vinegar; thirteen large sour apples, peeled, cored, and cut up, then boiled till tender in the vinegar, and, when tender, bruised with a spoon to a smooth pulp. When cold, mix all the ingredients together, and cover them lightly for a day or two. Then put into jars and cover down tightly. It is best to make half this quantity at a time. Mustard flour may be used instead of mustard seed, and onions instead of garlic.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Chutneys",
+      "relatedPageUrl": "chutney.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Apple Chutney",
+  "usedSnapshot": "20211027045231"
+}

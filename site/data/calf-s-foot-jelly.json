@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922073830",
+  "finalPath": "calf-s-foot-jelly.html",
+  "heading": "Calf\u0027s Foot Jelly",
+  "ingredients": [
+    "beat",
+    "eggs",
+    "fat",
+    "jelly",
+    "lemon",
+    "lemons",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "calf-s-foot-jelly.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E255. To make CALF\u0027S FOOT JELLY.\u003C/b\u003E\u003Cbr\u003E\nTake four calf\u0027s feet and dress them, boil them in six quarts of water over a slow fire, whilst all the bones will come out, and half the water be boiled away, strain it into a stone-bowl, then put to them two or three quarts more water, and let it boil away to one: If you want a large quantity of flummery or jelly at one time; take two calf\u0027s feet more, it will make your stock the stronger; you must make your stock the day before you use it, and before you put your stock into the pan take off the fat, and put it into your pan to melt, take the whites of eight or ten eggs, just as you have jelly in quantity, (for the more whites you have makes your jelly the finer) beat your whites to a froth, and put to them five or six lemons, according as they are of goodness, a little white wine or rhenish, mix them well together (but let not your stock be too hot when you put them in) and sweeten it to your taste; keep it stirring all the time whilst it boil; take your bag and dip it in hot water, and wring it well out, then put in your jelly, and keep it shifting whilst it comes clear; throw a lemon-peel or two into your bag as the jelly is coming off, and put in some bits of peel into your glasses. You may make hartshorn jelly the same way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Calf\u0027s Foot Jelly",
+  "usedSnapshot": "20200107133540"
+}

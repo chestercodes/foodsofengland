@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922084856",
+  "finalPath": "brussels-sprouts.html",
+  "heading": "Brussels Sprouts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Sprouts with Chestnuts",
+      "relatedPageUrl": "brussels-sprouts-with-chestnuts.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Sprout Soup",
+      "relatedPageUrl": "brussels-sprout-soup.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Brussels Sprouts",
+  "usedSnapshot": "20201225142223"
+}

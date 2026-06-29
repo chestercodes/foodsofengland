@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922083944",
+  "finalPath": "lancaster-stew.html",
+  "heading": "Lancaster Stew",
+  "ingredients": [
+    "baking powder",
+    "beef",
+    "flour",
+    "gravy",
+    "onion",
+    "onions",
+    "parsley",
+    "pepper",
+    "salt",
+    "suet",
+    "thyme",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lancaster-stew.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E14. LANCASTER STEW (Hertfordshire)\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFry two large onions light brown; mix a tablespoon of flour and fry it; add a quart of thin stock or water, and a tablespoonful of vinegar. Cut two pounds of gravy beef or skirting into pieces, add them, let simmer for three hours; an hour before serving drop in some savoury balls, made with half a pound of flour, teaspoonful of baking powder, the same of salt, half of pepper, parsley, thyme, half an onion chopped, three tablespoonfuls of suet, mixed with water. Dish the meat in centre with balls around.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Lancaster Stew",
+  "usedSnapshot": "20211129111737"
+}

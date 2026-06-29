@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20140212021324",
+  "finalPath": "eccles-cakes.html",
+  "heading": "Eccles Cakes",
+  "ingredients": [
+    "currants",
+    "lemon",
+    "nutmeg",
+    "sugar",
+    "brandy",
+    "egg",
+    "orange"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "eccles-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E395. Eccles Cake\u003C/b\u003E.-To a quarter of a pound of currants half a teaspoonful of grated nutmeg, some lemon-peel chopped fine, one ounce of sugar, roll out about a quarter of a pound of puff paste, roll it round the size of a small plate, and nearly an inch thick, then put a tablespoonful of the mixture over it, roll another piece of paste over it, and bake a nice delicate colour.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "eccles-cakes.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Experienced English Housekeeper\u003C/i\u003E\u0027 by Elizabeth Raffald (\u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESweet Patties.\u003C/b\u003E\u003Cbr\u003E\nTAKE the meat of a boiled calf\u0027s foot, two large apples, and one ounce of candied orange, chop them very small, grate half a nutmeg, mix them with the yolk of an egg, a spoonful of French brandy, and a quarter of a pound of currants clean washed and dried, make a good puff paste, roll it in different shapes as the fried ones, and fill them the fame way; you may either bake or fry them. They are a pretty side dish for supper.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBragget\u003C/b\u003E",
+      "relatedPageUrl": "bragget.html",
+      "relationDescription": "For a drink to go with the cakes, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Eccles Cakes",
+  "usedSnapshot": "20220113231910"
+}

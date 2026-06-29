@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922082458",
+  "finalPath": "lemonade.html",
+  "heading": "Lemonade",
+  "ingredients": [
+    "lemon",
+    "lemons",
+    "sugar",
+    "castor sugar",
+    "oranges",
+    "cinnamon",
+    "eggs",
+    "jelly",
+    "orange"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "lemonade.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003E\u0027Secrets Concerning Arts and Trades\u0027\u003C/i\u003E, published in 1795",
+      "receiptText": "\u003Cb\u003EXIV. Lemonade water at a cheap rate.\u003C/b\u003E\u003Cbr\u003E\nDissolve half 2 pound of sugar in a quart of water; rasp over it the yellow part of one, two, or three lemons, as you, like, and mix a few drops of essential oil of sulfur in the liquor. Then cut three or four slices of lemon in the bowl, when you put the liquor in it.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemonade.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E987. LEMONADE (Sussex)\u003C/b\u003E\u003Cbr\u003E\nTwo pounds of castor sugar, one ounce of citric acid, the grated rind of three oranges, three tumblerfuls of cold water. Let it stand three or four days, stirring occasionally. Then strain, bottle, and cork tight.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E988. LEMONADE SYRUP (Lancashire)\u003C/b\u003E\u003Cbr\u003E\nTake two ounces of citric acid, two scruples of essence of lemon; rub these thoroughly together\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lemonade.html-3",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELEMONADE OR ORANGEADE.\u003C/b\u003E\u003Cbr\u003E\nTo a gallon of spring water add some cinnamon and cloves, plenty of orange and lemon juices, with a bit of each peel; sweeten well with loaf sugar, and whisk with it the whites of six eggs and one yolk. Put it over a brisk fire, and when it boils let it simmer ten minutes; then run it through a jelly bag, and let it stand till cold before it is drunk. This mode is recommended, the liquor having been boiled.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Lemonade",
+  "usedSnapshot": "20211027045426"
+}

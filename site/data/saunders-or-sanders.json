@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20130323203700",
+  "finalPath": "saunders-or-sanders.html",
+  "heading": "Saunders or Sanders",
+  "ingredients": [
+    "beef",
+    "butter",
+    "cream",
+    "gravy",
+    "mutton",
+    "onion",
+    "pepper",
+    "potatoes",
+    "salt",
+    "mashed potatoes",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "saunders-or-sanders.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBEEF SANDERS.\u003C/b\u003E Mince some beef small, with onion, pepper and salt, and add a little gravy. Put it into scallop shells or saucers, making them three parts full, and fill them up with potatoes, mashed with a little cream. Put a bit of butter on the top, and brown them in an oven, or before the fire, or with a salamander. Mutton may be made into sanders in the same way.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "saunders-or-sanders.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESAUNDERS\u003C/b\u003E.\u003Cbr\u003E\nSpread on the dish in which the saunders are to be served, a layer of smoothly mashed potatoes, which have been seasoned with salt and mixed with about an ounce of butter to the pound. On these spread equally and thickly some underdressed beef or mutton minced and mixed with a little of the gravy that has run from the joint, or with a few spoonsful of any other; and season it with salt, pepper, and a small quantity of nutmeg. Place evenly over this another layer of potatoes, and send the dish to a moderate oven for half an hour. A very superior kind of saunders is made by substituting fresh meat for Toasted; but this requires to be baked an hour or something more. Sausage-meat highly seasoned may be served in this way, instead of beef or mutton.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Saunders or Sanders",
+  "usedSnapshot": "20210121010641"
+}

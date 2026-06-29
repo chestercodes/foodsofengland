@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922093713",
+  "finalPath": "cabbage-with-juniper-berries.html",
+  "heading": "Cabbage with Juniper Berries",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cabbage with Juniper Berries",
+  "usedSnapshot": "20220527065029"
+}

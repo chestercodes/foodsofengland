@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922090713",
+  "finalPath": "brown-betty.html",
+  "heading": "Brown Betty",
+  "ingredients": [
+    "apple",
+    "breadcrumbs",
+    "brown sugar",
+    "butter",
+    "cinnamon",
+    "cream",
+    "lemon",
+    "pudding",
+    "sugar",
+    "bread",
+    "molasses",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "brown-betty.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#bft\u0022\u003E\u003Cb\u003EBritish Food Trust\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBrown Betty\u003C/b\u003E\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\nServes: 4-6\u003Cbr\u003E\n6 oz Fresh breadcrumbs, mixed brown and white\u003Cbr\u003E\n3 oz Butter, melted\u003Cbr\u003E\n4 Large Cooking apples, about 1\u00BD lb\u003Cbr\u003E\n4 oz Brown sugar\u003Cbr\u003E\n1 Teaspoon Ground cinnamon\u003Cbr\u003E\n\u00BD Lemon, zest and juice\u003Cbr\u003E\nCream, to serve\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nPut the breadcrumbs into a bowl and pour on the melted butter, mixing lightly with a knife. Peel and core the apples and slice them thinly. Mix them with the sugar, cinnamon, lemon zest and juice.\u003Cbr\u003E\nButter a 1.2 litre (2 pint) pudding basin and put in a thin layer of crumbs, then a layer of apple, then more crumbs, more apples and lastly a layer of crumbs. Cover with a sheet of foil. Bake at 180 \u00B0C / 350 \u00B0F / Gas 4 for 20 minutes, remove the foil and bake for a further 30 minutes, or until the top has browned nicely and the apples are tender.\u003Cbr\u003E\nServe hot with cream. The apples should have started to caramelise and become transparent and amber coloured.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "brown-betty.html-2",
+      "receiptSource": "Original Receipt from \u003Ci\u003EJoe Tilden\u0027s Recipes\u0027s for Epicures\u003C/i\u003E, San Francisco, 1907",
+      "receiptText": "\u003Cb\u003EBrown Betty\u003C/b\u003E\u003Cbr\u003E\nCover the bottom of a baking dish with bread crumbs, over which place a layer of thinly sliced tart apples. Sprinkle thickly with sugar and small pieces of butter, cinnamon and nutmeg, then cover with bread crumbs and repeat the layers until the dish is filled, having a layer of crumbs sprinkled with bits of butter on top. Then pour over all three-quarters of a cup of molasses thinned with a little hot water. Bake until the apples are tender and the top is well browned.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bft"
+    }
+  ],
+  "title": "Brown Betty",
+  "usedSnapshot": "20200116034939"
+}

@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20140212024842",
+  "finalPath": "rusks.html",
+  "heading": "Rusks",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "flour",
+    "milk",
+    "yeast",
+    "cheese",
+    "jam",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "rusks.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ERUSKS, OR TOPS AND BOTTOMS.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake two eggs beat up, add them to a pint of good mild yeast and a little milk. Sift four pounds of best white flour, and set a -pouge with the above ingredients; then make boiling half a pound of fresh butter and some milk, a sufficient quantity to make the sponge the stiffness of common dough. Let it lay in the kneading trough till well risen; then mould and make it into the form of loaves of the bigness of small teacups; after which batch them flat, bake them in a moderate oven, and when nearly done take them out, cut the top from the bottom, and dry them till of a nice\u0022 colour on tin plates in the oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rusks.html-2",
+      "receiptSource": "Original Receipt from the Suffolk Local Authorities website \u0027\u003Ca href=\u0022http://www.onesuffolk.net/\u0022\u003E1Suffolk\u003C/a\u003E\u0027;",
+      "receiptText": "\u003Cb\u003ESuffolk Rusks\u003C/b\u003E\u003Cbr\u003E\n\u003Ci\u003EIngredients\u003C/i\u003E\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 8oz Self Raising Flour\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 2 Eggs\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1oz Sugar\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp;\u00BD oz yeast\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; 1oz Butter\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; \u00BC pint of warmed milk\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Ci\u003EMethod\u003C/i\u003E\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Pre-heat the oven to 230\u00B0C: 450\u00B0F: Gas 8\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Sift the sugar and flour into a bowl.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Melt the butter and mix it with the warmed milk.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Add the liquid to the flour mixture along with the yeast.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Beat the eggs and whisk into the mixture to form a soft dough.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Cover the bowl with a clean tea-towel and leave in a warm place for 1\u00BD hours.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Knead slightly and roll out on a lightly floured surface to a thickness of 1 inch, cut into 2\u00BD inch rounds.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Place on a greased tray and bake for around 10 minutes.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Pull in half and return to the oven, cut side upwards for another 10 minutes to crisp.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Cool on a wire rack.\u003Cbr\u003E\nServe with butter and jam or as a savoury with cheese or toppings. Suffolk Rusks store well in a tin.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hartley-1954"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Rusks",
+  "usedSnapshot": "20220527072236"
+}

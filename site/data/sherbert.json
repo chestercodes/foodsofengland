@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150514180515",
+  "finalPath": "sherbert.html",
+  "heading": "Sherbert",
+  "ingredients": [
+    "honey",
+    "lemon",
+    "orange",
+    "orange juice",
+    "raisins",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sherbert.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SHERBET. This liquor is a species of negus without the wine. It consists of water, lemon, or orange juice, and sugar, in which are dissolved perfumed cakes, made of the best Damascus fruit, and containing also an infusion of some drops of rose-water: another kind is made of violets, honey, juice of raisins, \u0026amp;c. It is well calculated for assuaging thirst, as the acidity is agreeably blended with sweetness. It resembles, indeed, those fruits which we find so grateful when one is thirsty.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Sherbert",
+  "usedSnapshot": "20220819111637"
+}

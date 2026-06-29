@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922082624",
+  "finalPath": "rhubarb-jam.html",
+  "heading": "Rhubarb Jam",
+  "ingredients": [
+    "jam",
+    "rhubarb",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-jam.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ERHUBARB JAM.\u003C/b\u003E\u003Cbr\u003E\nThe stalks of the rhubarb (or spring-fruit, as it is called) should be taken for this preserve, which is a very good and useful one, while they are fresh and young. Wipe them very clean, pare them quickly, wash, and cut them into half-inch lengths; to every pound add an equal weight of good sugar in fine powder; mix them well together, let them remain for ten minutes or a quarter of an hour to draw out the juice a little, then turn them into a preserving pan, let\u003Cbr\u003E\nthem heat rather slowly, but as soon as the stalks are tender boil the preserve rapidly, stirring it well for about half an hour. It will be of excellent flavour, and will serve admirably for tarts.\u003Cbr\u003E\nA somewhat cheaper mode of making the jam is to stew it until tender in its own juices, and then to boil it rapidly until it is tolerably dry, to add to it only half its weight of sugar, and to give it from twenty to thirty minutes boiling.\u003Cbr\u003E\n\u003Cbr\u003E\nSpring fruit (rhubarb), 4 lbs.; sugar, 4 lbs.; heated slowly, and when tender, boiled quickly, 30 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Rhubarb Jam",
+  "usedSnapshot": "20220527212428"
+}

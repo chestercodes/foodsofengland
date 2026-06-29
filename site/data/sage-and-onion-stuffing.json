@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922081052",
+  "finalPath": "sage-and-onion-stuffing.html",
+  "heading": "Sage and Onion Stuffing",
+  "ingredients": [
+    "bread",
+    "butter",
+    "egg",
+    "geese",
+    "goose",
+    "liver",
+    "onion",
+    "onions",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sage-and-onion-stuffing.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ENO. 9. ONION AND SAGE STUFFING, FOR PORK, GEESE, OR DUCKS.\u003C/b\u003E\u003Cbr\u003E\nBoil three large onions from ten to fifteen minutes, press the water from them, chop them small, and mix with them an equal quantity of bread-crumbs, a heaped tablespoonful of minced sage, an ounce of butter, a half saltspoonful of pepper, and twice as much of salt, and put them into the body of the goose; part of the liver boiled for two or three minutes and shred fine, is sometimes added to these, and the whole is bound together with the yolk of one egg or two; but they are quite as frequently served without. The onions can be used raw, when their very strong flavour is not objected to, but the odour of the whole dish will then be somewhat overpowering.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Sage and Onion Stuffing",
+  "usedSnapshot": "20211219171543"
+}

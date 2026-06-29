@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616085450",
+  "finalPath": "golden-cheese.html",
+  "heading": "Golden Cheese",
+  "ingredients": [
+    "cheese",
+    "cheeses",
+    "cream",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "golden-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "The following I have experienced to be an extraordinary Cheese; in some places \u0027tis call\u0027d the Golden Cheese, and in others the Marygold Cheese, which it is properly. The Juice of the Marygolds adds a very great richness to the Milk, and contributes almost as much to it as Cream would do. The following is the Receipt to make it.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETo make Marygold Cheese.\u003C/b\u003E\u003Cbr\u003E\nGather your Marygold Flowers in a dry Day, and pick the golden-colour\u0027d Leaves from them, (these we call the Petals of the Flowers:) As soon as you have pick\u0027d a sufficient quantity of these Leaves for your use, bruise them in a Mortar, or grind them, if you have Conveniency, and strain out the Juice; this Juice, when you put the Rennet to the Milk, must be put into the Milk, and stirr\u0027d into it. The Milk must then be set, and as soon as the Curd is come, break it gently, and as equally as possible, and put it into the Cheese Vat, and press it with a gentle Weight, letting the bottom part of the Vat have such a number of Holes in it, as will let out the Whey easily, or else a Spout to carry off the Whey; but the Holes are much better than the Spout. This Cheese, which is made in a Cloth, must be used like other Cheeses made after that manner.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Golden Cheese",
+  "usedSnapshot": "20220815161731"
+}

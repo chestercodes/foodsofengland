@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140307030832",
+  "finalPath": "pateley-fritters.html",
+  "heading": "Pateley Fritters",
+  "ingredients": [
+    "apple",
+    "beat",
+    "cinnamon",
+    "currants",
+    "flour",
+    "lard",
+    "lemon",
+    "milk",
+    "raisins",
+    "salt",
+    "sugar",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pateley-fritters.html-1",
+      "receiptSource": "With thanks to Adelle Robinson at \u0027H is for Home\u0027 \u003Ca href=\u0022http://hisforhomeblog.com/cakes-bakes/cakes-bakes-pateley-fritters\u0022\u003E\u003Cb\u003Ewww.hisforhomeblog.com\u003C/b\u003E\u003C/a\u003E for identifying this receipt as being from the Yorkshire W.I. Recipe Book published in the late 1950s.",
+      "receiptText": "\u003Cb\u003EPateley Fritters\u003C/b\u003E\u003Cbr\u003E\n12 oz flour\u003Cbr\u003E\n\u00BE oz fresh yeast\u003Cbr\u003E\n1\u00BD oz raisins\u003Cbr\u003E\n3 oz currants\u003Cbr\u003E\n1 pint warm milk\u003Cbr\u003E\n1 tablespoon sugar\u003Cbr\u003E\n2 tablespoons chopped lemon peel\u003Cbr\u003E\n1 oz lard\u003Cbr\u003E\n1 large apple, chopped\u003Cbr\u003E\npinch of cinnamon\u003Cbr\u003E\npinch of salt\u003Cbr\u003E\n\u003Cbr\u003E\nCrumble the yeast into a little of the warm milk, let it froth. Warm the flour. Melt the lard in the rest of the milk. Pour the yeast into a well in the centre of the flour, add the lard and milk, let it rise for a few minutes. Add the rest of the ingredients and beat to a stiff batter. Leave to rise for 1 hour in a warm place. Fry tablespoons of the batter in dripping, turning when the underside is browned. Sprinkle with sugar and eat while hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "endangered"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Pateley Fritters",
+  "usedSnapshot": "20211205181025"
+}

@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20121024084654",
+  "finalPath": "scouse-or-lobscouse.html",
+  "heading": "Scouse or Lobscouse",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Blind Scouse",
+      "relatedPageUrl": "blind-scouse.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Lancashire Hotpot",
+      "relatedPageUrl": "lancashire-hotpot.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EScouce\u003C/b\u003E or \u003Cb\u003ELob-Scouce\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Scouse or Lobscouse",
+  "usedSnapshot": "20220527063455"
+}

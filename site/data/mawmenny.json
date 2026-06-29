@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150524233025",
+  "finalPath": "mawmenny.html",
+  "heading": "Mawmenny",
+  "ingredients": [
+    "cinnamon",
+    "dates",
+    "flour",
+    "ginger",
+    "nuts",
+    "pheasants",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mawmenny.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMawmenee\u003C/b\u003E\u003Cbr\u003E\nTake a pot of wine Greek and ii pound of sugar take and clarify the sugar with a quantity of wine an draw it though a strainer in to a pot of earthenware take flour of cinnamon and meld with some of the wine an cast together. take nuts with Dates and fry them a little in grease or oil and cast them together. take cloves an flour of Cinnamon whole and cast thereto. Take powder ginger, cinnamon, cloves, colour it with red sandalwood a little if it be need cast salt thereto. and let it seethe, warily with a slow fire and not to blanched, take brawn of Capons teased, other of Pheasants teased small and cast thereto.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Mawmenny",
+  "usedSnapshot": "20211205172724"
+}

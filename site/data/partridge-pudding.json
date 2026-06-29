@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20140212031017",
+  "finalPath": "partridge-pudding.html",
+  "heading": "Partridge Pudding",
+  "ingredients": [
+    "fat",
+    "partridge",
+    "partridges",
+    "pepper",
+    "pudding",
+    "rump steak",
+    "salt",
+    "steak",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "partridge-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDressed Game and Poultry \u00E0 la Mode\u003C/i\u003E\u0027, by Harriet A. de Salis, 1888",
+      "receiptText": "\u003Cb\u003EPartridge Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a brace of well-kept partridges, cut them into neat joints and skin them; line a quart pudding basin with suet crust, place a thinnish slice of rump steak at the bottom of the dish cut into pieces, put in the pieces of partridge, season with pepper and salt, and pour in about a pint of good dark stock well clarified from fat, then put on the cover and boil in the usual way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EAshdown Partridge Pudding\u003C/b\u003E",
+      "relatedPageUrl": "ashdown-partridge-pudding.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPartridge and Cabbage Pudding\u003C/b\u003E",
+      "relatedPageUrl": "partridge-and-cabbage-pudding.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Partridge Pudding",
+  "usedSnapshot": "20211129121306"
+}

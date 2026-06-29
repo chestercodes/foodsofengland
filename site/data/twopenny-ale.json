@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150423003326",
+  "finalPath": "twopenny-ale.html",
+  "heading": "Twopenny Ale",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003Etuppeny, twapenny, tippenny\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Twopenny Ale",
+  "usedSnapshot": "20220516222520"
+}

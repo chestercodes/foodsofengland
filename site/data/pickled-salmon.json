@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140616084643",
+  "finalPath": "pickled-salmon.html",
+  "heading": "Pickled Salmon",
+  "ingredients": [
+    "ginger",
+    "salmon",
+    "sugar",
+    "vinegar",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "pickled-salmon.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-Luck; or, The British Home Cookery Book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPICKLED SALMON\u003C/b\u003E (Essex) Boil the salmon in salted water, with two lumps of sugar and one gill of vinegar in it. Let it simmer until done. Then take it out and put into vinegar that has been well spiced with mixed pickling spice and a small piece of ginger. The vinegar must cover the fish. You can keep it thus until required.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "pickled-salmon.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Imperial and Royasl Cook\u003C/i\u003E\u0027 by Frederick Nutt, 1809 (\u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPICKLED SALMON\u003C/b\u003E Pickled salmon is generally had from the oyster purveyors If it should be desired to be pickled at home it is done in the following manner the salmon should of course be first cleaned and scaled then split down the middle and cut into proper sized pieces the number of pieces that the salmon is to be cut into depends upon the size of the salmon put the salmon into a fish kettle and as much cold water as will barely cover it add about a pint of vinegar a handful of salt about a dozen bay leaves a little mace and some white whole pepper when the salmon is done take it up and lay it on a clean cloth put the liquor into a smaller vessel and set it oh a quick stove to boil until three parts reduced then put it into a pan to cool when cold put the salmon in Salmon done this way will retain its goodness for several months\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESalmon...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/salmon.html",
+      "relationDescription": "For other dishes see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Salmon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Pickled Salmon",
+  "usedSnapshot": "20211201005841"
+}

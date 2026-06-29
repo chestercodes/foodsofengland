@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922072613",
+  "finalPath": "boiled-cucumber.html",
+  "heading": "Boiled Cucumber",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "boiled-cucumber.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 (1672) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E44. To boil Cucumbers.\u003C/b\u003E Take your largest Cucumbers, and wash them and put them into boiling water made quick with Salt, then when they are boiled enough, take them and peel them and break them into a Cullender, and when the Water is well drained from them, put them into a hot Dish, and pour over them some Butter and Vinegar a little Pepper and Salt, strew Salt on your Dish brims, lay some of the Rind of them about the Dish cut in several Fancies, and so serve them to the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Boiled Cucumber",
+  "usedSnapshot": "20211021015707"
+}

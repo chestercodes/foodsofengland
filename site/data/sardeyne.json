@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922092001",
+  "finalPath": "sardeyne.html",
+  "heading": "Sardeyne",
+  "ingredients": [
+    "almonds",
+    "cinnamon",
+    "flour",
+    "ginger",
+    "milk",
+    "rice",
+    "saffron",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sardeyne.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESardeyne:\u003C/b\u003E Take almonds, \u0026 make a good milk of flour of rice, saffron, ginger; cinnamon, Maces, Quybibe; grind them small on a morter, \u0026 temper them up with the milk; than take a fair vesselle, \u0026 a fair parte of sugar, \u0026 boil them well, \u0026 rynsche thin dish alle a-bowte with-ynne with sugar or oyle, an than serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Sardeyne",
+  "usedSnapshot": "20170314022852"
+}

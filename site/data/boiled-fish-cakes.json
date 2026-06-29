@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140616085240",
+  "finalPath": "boiled-fish-cakes.html",
+  "heading": "Boiled Fish Cakes",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "fat",
+    "fish sauce",
+    "onion",
+    "pepper",
+    "salt",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "boiled-fish-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "RISSOLE OF FISH. - E. R\u003Cbr\u003E\nPick from the bones and skin any kind of cold fish, weigh it, and add one-third of grated bread-crumbs, a little cold melted butter, a small onion, previously boiled and finely minced, pepper, salt, and the whites of two eggs to bind it together; mix it well and make it into a flat oval shape, fry it on both sides; then stew it in some veal-broth, or water boiled in the frying pan after the fat has been poured off, with the bones of the fish, an onion, and some pepper; strain and thicken the sauce, adding to it any kind of fish sauce at hand.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Fish Fingers",
+      "relatedPageUrl": "fish-fingers.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Fish Cakes",
+      "relatedPageUrl": "fish-cakes.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Boiled Fish Cakes",
+  "usedSnapshot": "20211201033209"
+}

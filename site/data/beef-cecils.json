@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20130324050536",
+  "finalPath": "beef-cecils.html",
+  "heading": "Beef Cecils",
+  "ingredients": [
+    "anchovies",
+    "beef",
+    "bread",
+    "butter",
+    "egg",
+    "gravy",
+    "lemon",
+    "nutmeg",
+    "olives",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "turkey"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beef-cecils.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo Dress The Same, Called Cecils.\u003C/b\u003E\u003Cbr\u003E\n540. Mince any kind of meat, crumbs of bread, a good deal of onion, some anchovies, lemon-peel, salt, nutmeg, chopped parsley, pepper, and a bit of butter warm, and mix these over a fire for a few minutes; when cool enough, make them up into balls of the size and shape of a turkey\u0027s egg, with an egg; sprinkle them with fine crumbs, and then fry them of a yellow brown, and serve with gravy as before directed for \u003Ca href=\u0022olives.html\u0022\u003E\u003Cb\u003Ebeef-olives\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Beef Cecils",
+  "usedSnapshot": "20211201001155"
+}

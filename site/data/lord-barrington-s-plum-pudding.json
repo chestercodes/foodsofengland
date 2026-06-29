@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922094759",
+  "finalPath": "lord-barrington-s-plum-pudding.html",
+  "heading": "Lord Barrington\u0027s Plum Pudding",
+  "ingredients": [
+    "beat",
+    "breadcrumbs",
+    "currant",
+    "currants",
+    "eggs",
+    "flour",
+    "milk",
+    "nutmeg",
+    "plum",
+    "pudding",
+    "raisins",
+    "salt",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-barrington-s-plum-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Lord%20Barrington\u0027s%20Plum%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ELord Barrington\u0027s Plum Pudding\u003C/b\u003E(1860)\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n\u003Cbr\u003E\nEggs 3\u003Cbr\u003E\nMilk \u00BC pint\u003Cbr\u003E\nbreadcrumbs - one cup\u003Cbr\u003E\nflour - a large tablespoon\u003Cbr\u003E\na pinch of salt\u003Cbr\u003E\nsugar - one ounce\u003Cbr\u003E\nsuet - \u00BE pound\u003Cbr\u003E\nraisins - half a pound\u003Cbr\u003E\ncurrant - just a few\u003Cbr\u003E\nif spice is liked a little grated nutmeg may be added\u003Cbr\u003E\n\u003Cbr\u003E\nTime\u003Cbr\u003E\nBoil for four hours\u003Cbr\u003E\n\u003Cbr\u003E\nMethod\u003Cbr\u003E\nBeat the eggs and milk well together, add the breadcrumbs, flour and salt\u003Cbr\u003E\nand one ounce of sugar. Mix well.\u003Cbr\u003E\nCut the suet and stir it in\u003Cbr\u003E\nstir in the raisins and the currants\u003Cbr\u003E\nwhen all are mixed together, tie in a cloth and boil for 4 hours\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Lord Barrington\u0027s Plum Pudding",
+  "usedSnapshot": "20220516223758"
+}

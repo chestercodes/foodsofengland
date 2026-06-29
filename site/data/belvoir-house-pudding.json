@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922091413",
+  "finalPath": "belvoir-house-pudding.html",
+  "heading": "Belvoir House Pudding",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "caster sugar",
+    "cherries",
+    "cream",
+    "custard",
+    "eggs",
+    "flour",
+    "glace cherries",
+    "pudding",
+    "salt",
+    "sherry",
+    "sugar",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "belvoir-house-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ca href=\u0022references.html#j-salmon\u0022\u003E\u003Cb\u003EJ.Salmon\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBelvoir House Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n4oz butter\u003Cbr\u003E\n4oz caster sugar\u003Cbr\u003E\n2 eggs, beaten\u003Cbr\u003E\n4oz flour\u003Cbr\u003E\n\u00BD teaspoonful baking powder\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n2oz glace cherries, chopped\u003Cbr\u003E\n\u00BD oz angelica, chopped\u003Cbr\u003E\n1 tablespoon coffee essence or 2 tablespoons cold black coffee\u003Cbr\u003E\n2 tablespoons rum or sherry\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00BAF or Mark 4. In a bowl, cream the butter until soft then add the sugar, mixing until light and fluffy. Beat in the eggs a little at a time. Sift the flour, baking powder and salt together, and fold into the mixture. Mix the cherries and angelica together and stir in, with the coffee and alcohol. Turn into a 1\u00BD to 2 pint dish or tin, bake for 35-40 minutes, covering the top with foil if it browns too quickly. Turn out and serve with sherry-flavoured whipped cream or custard.\u003Cbr\u003E\n\u003Cbr\u003E\nServes 4\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Belvoir House Pudding",
+  "usedSnapshot": "20200113103657"
+}

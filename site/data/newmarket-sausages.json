@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808223155",
+  "finalPath": "newmarket-sausages.html",
+  "heading": "Newmarket Sausages",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Newmarket Sausages",
+  "usedSnapshot": "20220129173241"
+}

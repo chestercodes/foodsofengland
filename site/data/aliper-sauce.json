@@ -1,0 +1,59 @@
+﻿{
+  "earliestSnapshot": "20150822223846",
+  "finalPath": "aliper-sauce.html",
+  "heading": "Aliper Sauce",
+  "ingredients": [
+    "bread",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "aliper-sauce.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESauce Alpeuere.\u003C/b\u003E Take faire browne bread, and tost it, and stepe it in vinegre, and drawe it through a streynour, and caste there-to garlek (butte stampe it small first); And caste there-to powder of peper, And salte, And serve it fort.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "aliper-sauce.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Noble boke off cookry ffor a prynce houssolde or eny other estately houssolde\u003C/i\u003E\u0027, by an anonymous author, around 1480 (\u003Ca href=\u0022references.html#noble-boke-1480\u0022\u003E\u003Cb\u003ENoble Boke 1480\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo mak sauce aliper for rostid bef\u003C/b\u003E tak broun bred and stepe it in venygar and toiste it and streyne it and stampe garlik and put ther to pouder of pepper and salt and boile it a litill and serue it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bread Sauce",
+      "relatedPageUrl": "bread-sauce.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003EAlpeuere\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    }
+  ],
+  "title": "Aliper Sauce",
+  "usedSnapshot": "20210804145014"
+}

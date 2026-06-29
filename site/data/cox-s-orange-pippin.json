@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922074745",
+  "finalPath": "cox-s-orange-pippin.html",
+  "heading": "Cox\u0027s Orange Pippin",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cox\u0027s Orange Pippin",
+  "usedSnapshot": "20220809195903"
+}

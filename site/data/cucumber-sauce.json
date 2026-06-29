@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922073355",
+  "finalPath": "cucumber-sauce.html",
+  "heading": "Cucumber Sauce",
+  "ingredients": [
+    "butter",
+    "cucumber",
+    "gravy",
+    "pepper",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cucumber-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECucumber Sauce.-\u003C/b\u003E Cut up two cucumbers lengthways, remove the Seeds, cut them in one inch pieces, boil them in a gill of white gravy, with salt and pepper, add it to the melted butter; simmer and serve. Sugar is an improvement.\u003Cbr\u003E\n\u003Cbr\u003E\nVegetable Marrow, when young, the same as above.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Cucumber Sauce",
+  "usedSnapshot": "20220819104934"
+}

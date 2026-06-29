@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20121111210037",
+  "finalPath": "martinmass-beef.html",
+  "heading": "Martinmass Beef",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EMartinmas, Saint Martin, Martlemass Beef\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": " Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Martinmass Beef",
+  "usedSnapshot": "20220527230709"
+}

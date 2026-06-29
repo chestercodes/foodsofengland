@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922091033",
+  "finalPath": "kendal-mint-cake.html",
+  "heading": "Kendal Mint Cake",
+  "ingredients": [
+    "beat",
+    "milk",
+    "mint",
+    "peppermint",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kendal-mint-cake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Kendal%20Mint%20Cake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EKENDAL MINT CAKE\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n1lb of sugar (white or brown)\u003Cbr\u003E\n1/4 pint of milk\u003Cbr\u003E\n\u00BD to 1 teaspoon peppermint essence or a few drops of real peppermint oil\u003Cbr\u003E\n\u003Cbr\u003E\nPut the sugar and milk in a heavy pan over a low heat and stir until dissolved.\u003Cbr\u003E\nThen bring to the boil until temperature reaches 114C on a sugar thermometer, or forms a soft ball when dropped into cold water.\u003Cbr\u003E\nRemove from the heat and beat vigorously for 2 minutes.\u003Cbr\u003E\nReturn to the heat and raise temperature to 119C, or until the mixture forms a hard ball in cold water.\u003Cbr\u003E\nRemove from heat and add the peppermint flavour, stir until thick.\u003Cbr\u003E\nPour into an oiled shallow tin, mark into squares and leave to set.\u003Cbr\u003E\nCut when fully cooled.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westmorland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Kendal Mint Cake",
+  "usedSnapshot": "20220601171003"
+}

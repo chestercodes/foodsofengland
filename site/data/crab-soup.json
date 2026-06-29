@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922092320",
+  "finalPath": "crab-soup.html",
+  "heading": "Crab Soup",
+  "ingredients": [
+    "butter",
+    "cayenne",
+    "crab",
+    "dumplings",
+    "eggs",
+    "flour",
+    "lettuce",
+    "milk",
+    "nutmeg"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "crab-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EMiss Leslie\u0027s New Cookery Book\u003C/i\u003E\u0027, 1857",
+      "receiptText": "CRAB SOUP.--Take the meat of two dozen boiled crabs, cut it small, and give it a boil in two quarts of milk. Season it with powdered mace, nutmeg, and a little cayenne, and thicken it with butter mixed in flour; or, make the flour and butter into little dumplings. Have ready half a dozen yolks of hard-boiled eggs, and crumble them into the soup just before you take it from the fire. Add the heart of a fresh green lettuce, cut small and strewed over the surface of the soup, after it is poured into the tureen.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cornwall"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Crab Soup",
+  "usedSnapshot": "20220808004522"
+}

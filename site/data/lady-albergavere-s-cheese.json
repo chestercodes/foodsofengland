@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616085510",
+  "finalPath": "lady-albergavere-s-cheese.html",
+  "heading": "Lady Albergavere\u0027s Cheese",
+  "ingredients": [
+    "cheese",
+    "cream",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lady-albergavere-s-cheese.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make the Lady Albergaveres Cheese.\u003C/b\u003E\u003Cbr\u003E\nTo one Cheese take a Gallon of new Milk, and a pint of good Cream, and mix them well together, then take a Skillet of hot water as much as will make it hotter then it comes from the Cow, then put in a spoonfull of Rennet, and stir it well together and cover it, and when it is come, take a wet Cloth and lay it on your Cheese-Mot, and take up the Curd and not break it; and put it into your Mot; and when your Mot is full, lay on the Suiker, and every two hours turn your Cheese in wet Cloathes wrung dry; and lay on a little more wet, at night take as much salt as you can between your finger and thumb, and salt your Cheese on both sides; let them lye in Presses all night in a wet Cloth; the next day lay them on a Table between a dry Cloth, the next day lay them in Grasse, and every other day change your Grasse, they will be ready to eat in nine dayes; if you will have them ready sooner, cover them with a Blanket.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Lady Albergavere\u0027s Cheese",
+  "usedSnapshot": "20211019184407"
+}

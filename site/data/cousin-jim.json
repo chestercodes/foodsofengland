@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922072936",
+  "finalPath": "cousin-jim.html",
+  "heading": "Cousin Jim",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cousin Jim",
+  "usedSnapshot": "20220819105135"
+}

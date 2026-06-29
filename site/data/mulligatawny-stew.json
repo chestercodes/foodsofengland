@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130808222404",
+  "finalPath": "mulligatawny-stew.html",
+  "heading": "Mulligatawny Stew",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Mulligatawny Stew",
+  "usedSnapshot": "20211019171529"
+}

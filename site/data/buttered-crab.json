@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20140616082713",
+  "finalPath": "buttered-crab.html",
+  "heading": "Buttered Crab",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "flour",
+    "gravy",
+    "lemon",
+    "lemon juice",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "buttered-crab.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BUTTERED CRABS. Pick out the inside when boiled, beat it up in a little gravy, with wine, pepper, salt, nutmeg, a few crumbs of bread, a piece of butter rolled in a little flour, and some vinegar or lemon juice. Serve it up hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Buttered Crab",
+  "usedSnapshot": "20211018074351"
+}

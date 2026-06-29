@@ -1,0 +1,96 @@
+﻿{
+  "earliestSnapshot": "20150809132535",
+  "finalPath": "batter-and-fruit-pudding.html",
+  "heading": "Batter and Fruit Pudding",
+  "ingredients": [
+    "butter",
+    "currants",
+    "eggs",
+    "flour",
+    "gooseberries",
+    "milk",
+    "plums",
+    "pudding",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "batter-and-fruit-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 43. A Batter and Fruit Pudding.\u003C/b\u003E\u003Cbr\u003E\nIngredients, two quarts of milk, one pound of flour, four eggs, eight ounces of sugar, one quart of fruit (either plums, gooseberries, currants, \u0026amp;c.), one ounce of butter, a good pinch of salt. First, mix the flour, eggs, sugar, salt, and a pint of the milk, by working all together in a basin or pan, with a spoon, and when quite smooth, add the remainder of the milk; work the batter thoroughly, and pour it into a large pie-dish, greased with the butter; add the fruit, and bake the pudding for an hour and a-quarter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Batter and Fruit Pudding",
+      "relatedPageUrl": "batter-and-fruit-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Cherry Batter Pudding",
+      "relatedPageUrl": "cherry-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Derby Batter Pudding",
+      "relatedPageUrl": "derby-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Duffield Pudding",
+      "relatedPageUrl": "duffield-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Kentish Fruit Batter",
+      "relatedPageUrl": "kentish-fruit-batter.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Nottingham Batter Pudding",
+      "relatedPageUrl": "nottingham-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tasty Batter Pudding",
+      "relatedPageUrl": "tasty-batter-pudding.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    },
+    {
+      "relatedPageText": "Tewkesbury Saucer Batters",
+      "relatedPageUrl": "tewkesbury-saucer-batters.html",
+      "relationDescription": "For similar fruit-and-batter puddings, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Batter and Fruit Pudding",
+  "usedSnapshot": "20210512123718"
+}

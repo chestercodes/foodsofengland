@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922090931",
+  "finalPath": "orange-salad.html",
+  "heading": "Orange Salad",
+  "ingredients": [
+    "brandy",
+    "orange",
+    "oranges",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "orange-salad.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E369. Orange Salad.-\u003C/b\u003E Choose six oranges not too large, cut them in thin slices crossways, remove the pips, lay them flat in a dish, cover over with a quarter of a pound of sugar, a gill of brandy, rum, or Madeira; stir them, and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Orange Salad",
+  "usedSnapshot": "20211027024617"
+}

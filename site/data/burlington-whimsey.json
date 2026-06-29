@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150425022629",
+  "finalPath": "burlington-whimsey.html",
+  "heading": "Burlington Whimsey",
+  "ingredients": [
+    "cayenne",
+    "fat",
+    "gravy",
+    "ham",
+    "lemon",
+    "nutmeg",
+    "parsley",
+    "salt",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "burlington-whimsey.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBURLINGTON WHIMSEY\u003C/b\u003E\u003Cbr\u003E\nSet aside until quite cold half a calf\u0027s head dressed by the preceding receipt. If, on cutting it, the gelatinous part should not appear perfectly tender, pare it off closely from the head, weigh and mince it; put it into a pint of good gravy, and stew it gently from ten to fifteen minutes. Mince as much more of the head as win make up a pound in weight after the edges are trimmed of, and part of the fat is taken away; add to this three ounces of the lean of a boiled ham finely chopped, the grated rind of a lemon, three teaspoonsful of parsley and one of thyme shred very small, three quarters of a teaspoonful of mace, half a small nutmeg, grated, a teaspoonful of salt, and a half-quarter one of cayenne; stir the whole well together, and put it, with half a pint more of gravy, to the portion which has been already simmered. When the whimsey has boiled for from four to five minutes, pour it into moulds or pans, in which slices of the tongue have been evenly arranged, and when quite cold it will turn out very firmly. It may be garnished, before it is sent to table, with branches of parsley, which should, however, be perfectly dry; and when served for supper or luncheon, it may be accompanied by a salad dressing.\u003Cbr\u003E\n\u003Cbr\u003E\nCalf\u0027s head, 1 lb.; lean of ham, 3 oz.; gravy, 1 pint; 1 large lemon; parsley, 3 teaspoonsful; thyme and salt, each 1 teaspoonful; mace, 1 teaspoonful; nutmeg; cayenne,\u00BD part of\u003Cbr\u003E\nteaspoonful: 5 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Burlington Whimsey",
+  "usedSnapshot": "20200705192419"
+}

@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922084440",
+  "finalPath": "sage-tea.html",
+  "heading": "Sage Tea",
+  "ingredients": [
+    "herbs",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sage-tea.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "In making such Infusions as Teas of dried Herbs, the best way is to pour boiling Water upon them, and in half a Minute, at most, pour out the Water again from the Herbs, if we have them in small quantities, as we do Sage Tea, or other Tea; such Tea will then be of a fine green Colour, and full of Spirit: but if the Herbs stand longer with Water upon them, the Water will change of a brownish Colour, will lose the fine Flavour of the Herb, and become ill-tasted; so that in the making of Sage Tea, for example, pour on your boiling Water, and when it has been half a Minute upon the Sage-Leaves, pour it off and fling away the Leaves; for if you pour more Water upon them, you must expect your Tea of a dark Colour and ill tasted: therefore have fresh Sage to every fresh quantity of Water. And the same method should be used in the making of all kinds of Teas, to make them palatable and more wholesome.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Sage Tea",
+  "usedSnapshot": "20220808003753"
+}

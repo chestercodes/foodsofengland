@@ -1,0 +1,10 @@
+id: "barley-bread.html-1"
+source: "Original Receipt from '<i>Southern Reporter</i>' - Thursday 18 July 1918"
+---
+BARLEY BREAD.- Mix two pounds of barley flour with small teaspoonful salt. Rub one ounce of yeast smooth with a teacup full of tepid water, and pour it into the centre of the flour. Make into a light dough with more warm water, and set near the fire rise. When risen to twice its size, knead the dough well, then put it into two greased tins and let rise again for half an hour. Bake in a brisk oven. Two pounds of barley flour should make three pounds of bread. <br>
+------
+id: "barley-bread.html-2"
+source: "Original Receipt from the Dublin '<i>Freeman's Journal</i>' - Monday 31 December 1838"
+---
+<b>BARLEY BREAD. </b><br>
+We have been requested by a friend to call the attention of our readers to the capabilities of fine barley flour, raised with yeast in the usual way, for producing bread of excellent quality and palatableness. This bread, which can be made at the rate of 5lbs. for a shilling, is represented to us as being much sweeter and more palatable than the common brown wheat bread, and as the price is so much less, and the supply of wheat flour promises to be so deficient, we have thought it our duty to mention the circumstance - <i>Lancaster Guardian</i><br>

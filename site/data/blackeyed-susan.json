@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20130131031328",
+  "finalPath": "blackeyed-susan.html",
+  "heading": "Blackeyed Susan",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "milk",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "blackeyed-susan.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ESussex County Magazine\u003C/i\u003E 1936, reported by \u003Ca href=\u0022http://www.wadhurst.info/whs/index.htm\u0022\u003E\u003Cb\u003EThe Wadhurst Historical Society\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBlack-eyed Susan\u003C/b\u003E\u003Cbr\u003E\nFlour, baking-powder, currants, skim milk.\u003Cbr\u003E\nBoil the mixture in a cloth and when cooked cut into three slices lengthwise and spread butter and sugar on the layers - put together and allow the pudding to remain in the oven for a few minutes before serving in order to let the butter and sugar melt. Before bringing the pudding to the table cut into suitable portions crosswise.\u003Cbr\u003E\n(Miss) G. EAMES (Liss)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Blackeyed Susan",
+  "usedSnapshot": "20220517182450"
+}

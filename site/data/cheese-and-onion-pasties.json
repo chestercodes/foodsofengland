@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140212024926",
+  "finalPath": "cheese-and-onion-pasties.html",
+  "heading": "Cheese and Onion Pasties",
+  "ingredients": [
+    "cheese",
+    "flour",
+    "lard",
+    "onion",
+    "onions",
+    "pastry",
+    "pepper",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cheese-and-onion-pasties.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe People\u003C/i\u003E\u0027 - Sunday 17 March 1940",
+      "receiptText": "CHEESE AND ONION PASTIES\u003Cbr\u003E\nINGREDIENTS: 6 oz. flour. 3 oz. lard, cold water, 2 oz. cheese 2 onions, salt and pepper.\u003Cbr\u003E\n\u003Cbr\u003E\nMake the pastry from the flour, lard and water. Divide it into three. Roll out into rounds. Grate the cheese and then grate the onions very finely on a suet grater. Mix the cheese, onion, salt and pepper thoroughly and divide evenly into three. Put some of the mixture on to each round of pastry, moisten the edges with water, bring the two edges together press well and flute with the fingers. Bake in a fairly hot oven for 25 minutes. Are very tasty for an outdoor meal.\u2014Mrs. E. Wadsworth, 69. Wendover-Rd.. Eltham, London.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cheese and Onion Pasties",
+  "usedSnapshot": "20220819111225"
+}

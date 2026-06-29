@@ -1,0 +1,110 @@
+﻿{
+  "earliestSnapshot": "20160727225232",
+  "finalPath": "egg-flip.html",
+  "heading": "Egg Flip",
+  "ingredients": [
+    "ale",
+    "beat",
+    "egg",
+    "eggs",
+    "lemon",
+    "nutmeg",
+    "sherry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "egg-flip.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "1001. EGG FLIP (Cheshire)\u003Cbr\u003E\nHeat one quart of ale to boiling point. Beat up to a froth, separately, the yolks of four eggs, and the whites of two. Mix them, by degrees, with six ounces of powdered sugar, and half a nutmeg, grated. Pour the mixture rapidly from one jug to another, hot ale and all together, raising the jug to a height that will froth the liquid and continue till it is smooth and foaming. Serve hot. Sherry may be used instead of ale; in which case, a little lemon peel is an improvement.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Ale Gruel",
+      "relatedPageUrl": "ale-gruel.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Aleberry",
+      "relatedPageUrl": "aleberry.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Bragget",
+      "relatedPageUrl": "bragget.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Caudel or Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Drink-Meat",
+      "relatedPageUrl": "drink-meat.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Flip",
+      "relatedPageUrl": "egg-flip.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Egg Hot",
+      "relatedPageUrl": "egg-hot.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Koorow",
+      "relatedPageUrl": "koorow.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Lamb\u0027s Wool, or Lamasool",
+      "relatedPageUrl": "lambswool,orlamasool.htm",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Mulled Ale",
+      "relatedPageUrl": "mulled-ale.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Posset",
+      "relatedPageUrl": "posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    },
+    {
+      "relatedPageText": "Treacle Posset",
+      "relatedPageUrl": "treacle-posset.html",
+      "relationDescription": "For other species of spicebeer, see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Egg Flip",
+  "usedSnapshot": "20211129115817"
+}

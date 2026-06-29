@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20131217113730",
+  "finalPath": "essex-hotpot.html",
+  "heading": "Essex Hotpot",
+  "ingredients": [
+    "anchovies",
+    "gravy",
+    "kidneys",
+    "mutton",
+    "onions",
+    "oysters",
+    "pepper",
+    "potatoes",
+    "salt",
+    "sheep",
+    "cheddar",
+    "cheese",
+    "chicken",
+    "onion",
+    "pork",
+    "tomatoes"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "essex-hotpot.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E36. HOT-POT (Essex)\u003C/b\u003E\u003Cbr\u003E\nThis should be made in a round deep pie-dish. Take two pounds of mutton chops, four sheep\u0027s kidneys, and one pound or more of peeled potatoes. Place alternate layers of the sliced potatoes, chops, and kidneys, with sliced onions, pepper, and salt, till the dish is full. If liked, oysters and anchovies may be added, and are a great improvement to the flavour of the hot-pot. Cover the top of the dish with whole potatoes, and pour over it a little water for gravy. Bake in a moderate oven for full three hours, and let the potatoes on the top be nicely browned. Fasten a serviette round the dish and serve very hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "essex-hotpot.html-2",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.essextouristguide.com/Favourite_Essex_Recipes.asp\u0022\u003E\u003Cb\u003Eessextouristguide.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EEssex Hotpot -\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: 1\u00BD lb. lean pork (cubed), 2 medium onions (peeled and sliced), 1 can condensed chicken soup, 1 small can peeld tomatoes, 6 medium potatoes (peeled and sliced), 3 oz. Cheddar cheese (grated), oil for frying\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 350\u00BAF or Mark 4. Remove any bones from the meat and cut into chunky cubes. Fry the onion in a little oil until soft, mix in the meat cubes and brown them quickly on all sides. Transfer to an ovenproof casserole. Add the soup and tomatoes and season to taste. Cover with the sliced potatoes and sprinkle the grated cheese over the top. Cover with foil and cook in the oven for 2-2\u00BD hours. Remove the foil for the last 20 minutes. Serve with a green vegetable.\u003Cbr\u003E\nServes 6.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Essex Hotpot",
+  "usedSnapshot": "20211201034550"
+}

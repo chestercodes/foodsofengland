@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140212015055",
+  "finalPath": "treacle-and-marmalade-tart.html",
+  "heading": "Treacle and Marmalade Tart",
+  "ingredients": [
+    "black treacle",
+    "breadcrumbs",
+    "cream",
+    "custard",
+    "flan",
+    "golden syrup",
+    "lemon",
+    "lemon juice",
+    "marmalade",
+    "pastry",
+    "shortcrust pastry",
+    "treacle",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "treacle-and-marmalade-tart.html-1",
+      "receiptSource": "Original Receipt:",
+      "receiptText": "\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n8oz white breadcrumbs\u003Cbr\u003E\n2 tablespoons lemon juice\u003Cbr\u003E\n8oz shortcrust pastry\u003Cbr\u003E\n8oz golden syrup (or black treacle for a deep strong taste)\u003Cbr\u003E\n4oz marmalade\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nSet oven to 350F, then roll out the pastry and line an 8inch flan dish. Trim the edges, keeping the extra pastry for use later. Sprinkle the breadcrumbs evenly over the pastry base.\u003Cbr\u003E\nWarm the syrup and marmalade gently in a saucepan over a low heat. Stir in the lemon juice, then pour the whole mixture over the breadcrumbs.\u003Cbr\u003E\nRoll out the left over pastry and cut into strips. Use this to make a lattice over the tart. Cook for 25-30 minutes until the tart is golden brown.\u003Cbr\u003E\nThe dish should serve 6-8 and can be served hot or cold with whipped cream or a light custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Treacle"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Treacle and Marmalade Tart",
+  "usedSnapshot": "20220527065614"
+}

@@ -1,0 +1,70 @@
+﻿{
+  "earliestSnapshot": "20150922073753",
+  "finalPath": "tansy.html",
+  "heading": "Tansy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Tansy, or Tansy Pudding",
+      "relatedPageUrl": "tansy,ortansypudding.htm",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Apple Tansey",
+      "relatedPageUrl": "apple-tansey.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Damson and Apple Tansy",
+      "relatedPageUrl": "damson-and-apple-tansy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Greensauce",
+      "relatedPageUrl": "greensauce.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Minnow Tansy",
+      "relatedPageUrl": "minnow-tansy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tansy",
+      "relatedPageUrl": "tansy.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EEaster\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/easter.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Easter"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Tansy",
+  "usedSnapshot": "20210518192116"
+}

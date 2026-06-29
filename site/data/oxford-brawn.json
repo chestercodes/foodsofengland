@@ -1,0 +1,35 @@
+﻿{
+  "earliestSnapshot": "20150922091325",
+  "finalPath": "oxford-brawn.html",
+  "heading": "Oxford Brawn",
+  "ingredients": [
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oxford-brawn.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EWarne\u0027s model cookery and housekeeping book\u003C/i\u003E\u0027, 1868",
+      "receiptText": "Oxford brawn is considered the best to purchase. The following recipes, especially the first, will be found excellent for family use.\u003Cbr\u003E\n\u003Cbr\u003E\nTime, three nights: six hours to boil, three hours to get cold.\u003Cbr\u003E\n\u003Cbr\u003E\n91. Pickled porker\u2019s head; two tongues: two feet, and two extra ears: four fried sausages; some slices of boiled ox tongue; dried sage, pepper and salt, one teaspoonful of each for seasoning: three tablespoonfuls of salt to cover the head.\u003Cbr\u003E\n\u003Cbr\u003E\nCut the porker\u2019s head in half, and soak one night: cover it with salt for one night, boil slowly six hours. Let it get cold. Take out the bones. Boil the two tongues, feet, and ears one hour and a half: remove the bones and gristle. Cut all the meat into small pieces: season with sage, pepper, and salt, well mixed. Cut the sausages into slices. Place slices of ox tongue, which should be of a nice red colour, in a pattern round the mould or tin: put in the meat, and press it firmly down with a weight on the top. Let it stand one night. The tongues may be put in whole, if preferred, about the middle of the mould.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Oxford Brawn",
+  "usedSnapshot": "20220608072943"
+}

@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20140212024755",
+  "finalPath": "lark-pie.html",
+  "heading": "Lark Pie",
+  "ingredients": [
+    "bacon",
+    "beef",
+    "bread",
+    "egg",
+    "flour",
+    "gravy",
+    "lemon",
+    "parsley",
+    "pepper",
+    "salt",
+    "shalot",
+    "butter",
+    "cream",
+    "fat",
+    "thyme",
+    "truffle"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lark-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELARK PIE (an Entree).\u003C/b\u003E\u003Cbr\u003E\n971. INGREDIENTS: A few thin slices of beef, the same of bacon, 9 larks, flour; for stuffing, 1 teacupful of bread crumbs,1/2 teaspoonful of minced lemon-peel, 1 teaspoonful of minced parsley, 1 egg, salt and pepper to taste, 1 teaspoonful of chopped shalot,1/2 pint of weak stock or water, puff-paste.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Make a stuffing of bread crumbs, minced lemon-peel, parsley, and the yolk of an egg, all of which should be well mixed together; roll the larks in flour, and stuff them. Line the bottom of a pie-dish with a few slices of beef and bacon; over these place the larks, and season with salt, pepper, minced parsley, and chopped shalot, in the above proportion. Pour in the stock or water, cover with crust, and bake for an hour in a moderate oven. During the time the pie is baking, shake it 2 or 3 times, to assist in thickening the gravy, and serve very hot.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 1 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 6d. a dozen.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 5 or 6 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: In full season in November.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lark-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EDressed Game And Poultry \u00C0 La Mode\u003C/i\u003E\u0027 by Mrs De Salis, 1888",
+      "receiptText": "\u003Cb\u003ELark Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPluck, singe, and flatten the backs of two dozen larks, pound the trail and livers in a mortar with scraped bacon and a little thyme, stuff the larks with this, and wrap each in a slice of fat bacon. Line a plain mould with paste, fill it with the larks, sprinkle them with salt and pepper, spread butter all over them, and add two small bayleaves; cover[Pg 28] with paste, and bake for two hours and a quarter. Can be eaten hot or cold. It must be turned out of the mould.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ELark Puffs.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMake some puff paste, and take half a dozen larks, and brown them in a stewpan with a little butter; then take them out and drain them, and put into the body of each bird a small lump of fresh butter, a little piece of truffle, pepper and salt, and a tablespoonful of thick cream. Truss each lark, and wrap it in a slice of fat bacon; cover it[Pg 29] with puff paste rolled out to the thickness of a quarter of an inch, and shape it neatly; put the puffs in a buttered tin, and bake in a brisk oven for ten minutes\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Small Fowl",
+      "relatedPageUrl": "small-waterfowl.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Lark Pie",
+  "usedSnapshot": "20220819114252"
+}

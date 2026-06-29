@@ -1,0 +1,38 @@
+﻿{
+  "earliestSnapshot": "20191116114626",
+  "finalPath": "water-pudding.html",
+  "heading": "Water Pudding",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "lemon",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "water-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPuddings \u0026 Sweets\u003C/i\u003E\u0027, By Lucy Jones, 1877",
+      "receiptText": "\u003Cb\u003EWater Pudding\u003C/b\u003E Eight table spoonfuls of cold water the juice and rind of one lemon, a quarter of a pound of sugar, one ounce of butter, the yolks of four eggs and the whites beaten to a froth. Mix all well together and bake in a buttered pie dish one hour in a slow oven.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": ", \u0027Cold-Water Pudding\u0027",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Water Pudding",
+  "usedSnapshot": "20220516212201"
+}

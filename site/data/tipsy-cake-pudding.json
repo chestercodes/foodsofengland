@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20150922132703",
+  "finalPath": "tipsy-cake-pudding.html",
+  "heading": "Tipsy Cake Pudding",
+  "ingredients": [
+    "almonds",
+    "blanched almonds",
+    "cream",
+    "currant",
+    "custard",
+    "jam",
+    "jelly",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "tipsy-cake-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E397. Tipsy Cake.-\u003C/b\u003E Cut a small Savoy cake in slices, put them into a basin, and pour some white wine and a little rum over; let soak for a few hours, put into a dish, and serve with some custard round. It, may be decorated with a few blanched almonds or whipt cream and fruit.\u003Cbr\u003E\n\u003Cbr\u003E\nThese may be made with small sponge cakes, by soaking them in some white wine, in which currant-jelly has been dissolved; take twelve of them stale, which will cost sixpence soak them well, put them in a dish, cover them with jam or jelly, and thus make four layers, decorating the top with cut preserved fruit; dish with custard or whipt cream round.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Buxton Pudding",
+      "relatedPageUrl": "buxton-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake",
+      "relatedPageUrl": "tipsy-cake.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Cake Pudding",
+      "relatedPageUrl": "tipsy-cake-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy D\u0027Arcy Spice Apples",
+      "relatedPageUrl": "tipsy-d-arcy-spice-apples.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Kidneys",
+      "relatedPageUrl": "tipsy-kidneys.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Squire",
+      "relatedPageUrl": "tipsy-squire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Tipsy Trifle",
+      "relatedPageUrl": "tipsy-trifle.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Tipsy Cake Pudding",
+  "usedSnapshot": "20211027032344"
+}

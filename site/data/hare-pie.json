@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20140212023101",
+  "finalPath": "hare-pie.html",
+  "heading": "Hare Pie",
+  "ingredients": [
+    "beat",
+    "beef",
+    "butter",
+    "mustard",
+    "nutmeg",
+    "pepper",
+    "salt",
+    "suet",
+    "sugar",
+    "bacon",
+    "fat",
+    "parsley",
+    "pork",
+    "shalots"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "hare-pie.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Queene-Like Closet\u003C/i\u003E\u0027 By Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E83. To make a Hare-Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the flesh of a very large Hare, and beat it in a Mortar with as much Marrow or Beef Suet as the Hare contains, then put in Pepper, Salt, Nutmeg, Cloves and Mace, as much as you judge to be fit, and beat it again till you find they be well mixed, then having your Paste ready in your Baking-Pan, lay in some Butter, and then your Meat, and then Butter again; so close it, and bake it, and when it is cold, serve it in with Mustard and Sugar, and garnish your Dish with Bay leaves; this will keep much longer than any other Pie.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "hare-pie.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 By Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E96. How to make a HARE-PIE.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nParboil the hare, take out the bones, and beat the meat in a mortar with some fat pork or new bacon, then soak it in claret all night, the next day take it out, season it with pepper, salt and nutmeg, then lay the back bone into the middle of the pie, put the meat about it with about three quarters of a pound of butter, and bake it in a puff-paste, but lay no paste in the bottom of the dish.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E97. To make a HARE-PIE another Way.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the flesh of a hare after it is skined, and string it: take a pound of beef-suet or marrow shred small, with sweet-marjoram, parsley and shalots, take the hare, cut it in pieces, season it with mace, pepper, salt and nutmeg, then bake it either in cold or hot paste, and when it is baked, open it and put to it some melted butter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Hare Pie",
+  "usedSnapshot": "20211129123137"
+}

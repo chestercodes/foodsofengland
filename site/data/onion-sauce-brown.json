@@ -1,0 +1,71 @@
+﻿{
+  "earliestSnapshot": "20150922081712",
+  "finalPath": "onion-sauce-brown.html",
+  "heading": "Onion Sauce (Brown)",
+  "ingredients": [
+    "gravy",
+    "onion",
+    "onions",
+    "pepper",
+    "salt",
+    "veal",
+    "ale",
+    "butter",
+    "celery",
+    "cucumber",
+    "curry",
+    "flour",
+    "lemon",
+    "mushroom",
+    "port wine",
+    "steaks",
+    "tarragon",
+    "vinegar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "onion-sauce-brown.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003EThe Whole Duty of Woman\u003C/i\u003E, 1737",
+      "receiptText": "\u003Cb\u003EOnion Sauce\u003C/b\u003E Having put into a Stew pan some Veal Gravy with a couple of Onions cut in Slices, season it with Pepper and Salt let it stew softly, then strain it off put it in a Saucer and serve it up hot\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "onion-sauce-brown.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBrown Onion Sauces, or Onion Gravy. (No. 299.)\u003C/b\u003E\u003Cbr\u003E\nPeel and slice the onions (some put in an equal quantity of cucumber or celery) into a quart stew-pan, with an ounce of butter; set it on a slow fire, and turn the onion about till it is very lightly browned; now gradually stir in half an ounce of flour; add a little broth, and a little pepper and salt; boil up for a few minutes; add a table-spoonful of claret, or port wine, and same of mushroom catchup, (you may sharpen it with a little lemon-juice or vinegar,) and rub it through a tamis or fine sieve.\u003Cbr\u003E\nCurry powder (No. 348) will convert this into excellent curry sauce.\u003Cbr\u003E\nN.B. If this sauce is for steaks, shred an ounce of onions, fry them a nice brown, and put them to the sauce you have rubbed through a tamis; or some very small, round, young silver button onions (see No. 296), peeled and boiled tender, and put in whole when your sauce is done, will be an acceptable addition.\u003Cbr\u003E\nObs. If you have no broth, put in half a pint of water, and see No. 252; just before you give it the last boil up, add to ii another table-spoonful of mushroom catchup, or the same quantity of port wine or good ale.\u003Cbr\u003E\nThe flavour of this sauce may be varied by adding tarragon or burnet vinegar (Nos. 396 and 399).\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EWhite Onion Sauce\u003C/b\u003E",
+      "relatedPageUrl": "onionsauce(white).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EOnion Gravy\u003C/b\u003E",
+      "relatedPageUrl": "oniongravy(1).htm",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Onion Sauce (Brown)",
+  "usedSnapshot": "20211019180306"
+}

@@ -1,0 +1,38 @@
+work/
+test-*.txt
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstats
+
+# Build outputs
+dist/
+build/
+publish/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# IDE
+.vs/
+.idea/
+*.swp
+*.sln.iml
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Project-specific
+*.db
+*.db-shm
+*.db-wal
+pipeline.db
+output/

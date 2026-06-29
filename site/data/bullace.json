@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922073603",
+  "finalPath": "bullace.html",
+  "heading": "Bullace",
+  "ingredients": [
+    "brandy",
+    "cheese",
+    "jam",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bullace.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E382. To make BULLIES CHEESE.\u003C/b\u003E\u003Cbr\u003E\nTake half a peck or a quartern of bullies, whether you please, pick off the stalks, put them in a pot, and stop them up very close, set them in a pot of water to boil for two hours, and be sure your pot be full of water, and boil them whilst they be enough, then put them in a hair-sieve to drain the liquor from the bullies; and to every quart of liquor put a pound and a quarter of sugar, boil it over a slow fire, keeping it stirring all the time: You may know when it is boiled high enough by the parting from the pan, and cover it with papers dip\u0027d in brandy, so tie it up close, and keep it for use.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003E383. To make JAM of BULLIES.\u003C/b\u003E\u003Cbr\u003E\nTake the bullies that remained in the sieve, to every quart of it take a pound of sugar, and put it to your jam, boil it over a slow fire, put it in pots, and keep it for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Bullace",
+  "usedSnapshot": "20211020224429"
+}

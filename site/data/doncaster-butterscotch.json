@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922084457",
+  "finalPath": "doncaster-butterscotch.html",
+  "heading": "Doncaster Butterscotch",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Butterscotch",
+      "relatedPageUrl": "butterscotch.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Doncaster Butterscotch",
+  "usedSnapshot": "20220819101413"
+}

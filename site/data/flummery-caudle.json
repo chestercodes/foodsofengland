@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150802002052",
+  "finalPath": "flummery-caudle.html",
+  "heading": "Flummery Caudle",
+  "ingredients": [
+    "ale",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "flummery-caudle.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EA FLOMERY-CAUDLE\u003C/b\u003E\u003Cbr\u003E\nWhen Flomery is made and cold, you may make a pleasant and wholesome caudle of it, by taking some lumps and spoonfuls of it, and boil it with Ale and White wine, then sweeten it to your taste with Sugar. There will remain in the Caudle some lumps of the congealed flomery, which are not ungrateful.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Caudle",
+      "relatedPageUrl": "caudel-or-caudle.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Flummery Caudle",
+  "usedSnapshot": "20220516214808"
+}

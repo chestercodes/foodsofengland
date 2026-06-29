@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150524220107",
+  "finalPath": "aquapatys.html",
+  "heading": "Aquapatys",
+  "ingredients": [
+    "garlic",
+    "saffron",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "aquapatys.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAQUAPATYS.\u003C/b\u003E\u003Cbr\u003E\nPeel garlic and cast it in a pot with water and oile, and seethe it, do thereto saffron, salt, and powder fort and dresse it forth hole.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    }
+  ],
+  "title": "Aquapatys",
+  "usedSnapshot": "20210512113151"
+}

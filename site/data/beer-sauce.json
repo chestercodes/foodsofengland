@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922074946",
+  "finalPath": "beer-sauce.html",
+  "heading": "Beer Sauce",
+  "ingredients": [
+    "ale",
+    "beef",
+    "butter",
+    "ketchup",
+    "pepper",
+    "steak"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "beer-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ESAUCE FOR BEEF-STEAK. - E. R.\u003C/b\u003E\u003Cbr\u003E\nEqual parts of ale, wine, and ketchup; a piece of butter, and a little pepper; stir it over the fire in a small saucepan, and pour it very hot upon the beef-steak\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Beer Sauce",
+  "usedSnapshot": "20211129110816"
+}

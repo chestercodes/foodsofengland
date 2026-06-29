@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20140212024731",
+  "finalPath": "fitzherbert-pudding.html",
+  "heading": "Fitzherbert Pudding",
+  "ingredients": [
+    "apple",
+    "bread",
+    "butter",
+    "eggs",
+    "flour",
+    "lemon",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fitzherbert-pudding.html-1",
+      "receiptSource": "Original Receipt from \u003Ci\u003ESussex County Magazine\u003C/i\u003E 1936, reported by \u003Ca href=\u0022http://www.wadhurst.info/whs/index.htm\u0022\u003E\u003Cb\u003EThe Wadhurst Historical Society\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EApple, or Fitzherbert Pudding\u003C/b\u003E\u003Cbr\u003E\nThree-quarter pound of the pulp of sharp apples boiled, three ounces of butter clarified, three ounces of sugar, four eggs well beaten, a little nutmeg, lemon peel, orange flour water and grated bread. Mix well together and lay a thin puff paste in the bottom of your dish.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Fitzherbert Pudding",
+  "usedSnapshot": "20211019181746"
+}

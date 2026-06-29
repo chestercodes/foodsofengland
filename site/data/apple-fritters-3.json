@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922091824",
+  "finalPath": "apple-fritters-3.html",
+  "heading": "Apple Fritters (3)",
+  "ingredients": [
+    "apple",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-fritters-3.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "APPLE FRITTERS. Pare some apples, and cut them into thin slices; put a spoonful of light batter into a frying-pan, then a layer of apples, and another spoonful of batter. Fry them to a light brown, and serve with grated sugar over them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Apple Fritters (3)",
+  "usedSnapshot": "20211027035919"
+}

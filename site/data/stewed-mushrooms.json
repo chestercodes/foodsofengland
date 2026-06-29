@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922090125",
+  "finalPath": "stewed-mushrooms.html",
+  "heading": "Stewed Mushrooms",
+  "ingredients": [
+    "butter",
+    "fat",
+    "gravy",
+    "lemon",
+    "mutton",
+    "nutmeg",
+    "onion",
+    "orange",
+    "pepper",
+    "salt",
+    "tyme",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "stewed-mushrooms.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E\u003Cbr\u003E\nTo stew Mushrums.\u003C/b\u003E\u003Cbr\u003E\nTake them fresh gathered and cut off the hard end of the stalk, \u0026 as you Pil them throw them into a Dish of white Wine, after they have lain half an houre or thereupon draine them from the wine, and put them between two silver Dishes, then set them on a soft fire without any liquor, and when they have so stewed a while, pour away the liquor that comes from them which will be very black, then put your Mushrums into another clean Dish with a sprig or two of Tyme, an Onion whole, four or five cornes of whole Pepper, two or three Cloves, a bit of an Orange, a little Salt, a bit of sweet butter, and some pure gravy of Mutton, cover them, and set them on a gentle fire, so let them stew softly till they be enough and very tender, when you dish them blow off all the fat from them, and take out the Time, spice, and Orange, then wring in the juyce of a Lemon, and grate a little Nutmeg among the Mushrums, tosse them two or three times; put them in a clean dish, and serve them hot to the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Stewed Mushrooms",
+  "usedSnapshot": "20220527072425"
+}

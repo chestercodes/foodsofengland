@@ -1,0 +1,72 @@
+﻿{
+  "earliestSnapshot": "20160409041754",
+  "finalPath": "rhubarb-pudding-pie.html",
+  "heading": "Rhubarb Pudding Pie",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "custard",
+    "egg",
+    "flour",
+    "lemon",
+    "pudding",
+    "rhubarb",
+    "suet",
+    "sugar",
+    "castor sugar",
+    "cornflour",
+    "eggs",
+    "milk",
+    "pastry",
+    "breadcrumbs",
+    "cinnamon",
+    "dates",
+    "ginger",
+    "sultanas"
+  ],
+  "receiptCount": 3,
+  "receipts": [
+    {
+      "receiptId": "rhubarb-pudding-pie.html-1",
+      "receiptSource": "Original Receipt from Dover Express - Friday 25 May 1894",
+      "receiptText": "\u003Cb\u003ERHUBARB CAKE PUDDING\u003C/b\u003E\u003Cbr\u003E\nPEEL six stalks rhubarb, cut it in inch lengths, put it basin with the juice and grated rind of lemon, two heaped tablespoonfuls of sugar, a large breakfastcupful of bread-crumbs, little suet, two tablespoonfuls of flour, and one whole egg. Mix this well together, butter a pudding-basin, put in the mixture, tie cloth over the basin, boil one hour and a half; turn out of the basin on a hot dish, and serve with a little cream or custard poured over.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rhubarb-pudding-pie.html-2",
+      "receiptSource": "Original Receipt from Derbyshire Times and Chesterfield Herald - Friday 20 March 1936",
+      "receiptText": "SCOTCH RHUBARB CAKE. - Line a deep cake tin with pastry not too thin, up 1 1/2lbs. of rhubarb, put into pan with two tablespoonfuls of water, and cook till quite soft. Then stir in 6ozs. of sugar, two well-beaten eggs and two tablespoonfuls of cornflour (slacked [sic] with a little milk). Cook gently, stirring all the time, until thick enough to leave sides of pan. Let cool a little, pour into pastry case, and cook till pastry is done. Sprinkle with castor sugar, and serve hot or cold. When cold it will cut quite firm\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "rhubarb-pudding-pie.html-3",
+      "receiptSource": "Original Receipt from Taunton Courier, and Western Advertiser - Saturday 16 May 1942",
+      "receiptText": "SPICED RHUBARB CAKE Line a cake tin with pastry Simmer four sticks of rhubarb with one tablespoonful of water until tender. Sweeten with two tablespoonfuls of sugar. flavour with half-a-teaspoonful each of ground ginger and cinnamon. Stir breadcrumbs make the mixture leave the sides of the saucepan, add in sultanas or chopped dates When cool, fill pastry case, and bake until nicely browned. Serve hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003ERhubarb Pudding-Pie\u003C/b\u003E, \u003Cb\u003ESpiced Rhubarb Cake, Scotch Rhubarb Cake, Rhubarb Cake Pudding, Old-Fashioned Rhubarb Cake, Rhubarb Pudding-Pie\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Pudding-Pie"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "3"
+    }
+  ],
+  "title": "Rhubarb Pudding Pie",
+  "usedSnapshot": "20200112050911"
+}

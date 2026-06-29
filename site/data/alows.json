@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20130325124522",
+  "finalPath": "alows.html",
+  "heading": "Alows",
+  "ingredients": [
+    "beef",
+    "eggs",
+    "ginger",
+    "mutton",
+    "onions",
+    "parsley",
+    "pepper",
+    "saffron",
+    "salt",
+    "steaks",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "alows.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EAlows de Beef or de Motoun\u003C/b\u003E - Take faire Beef of the cushions, and mutton of the buttes, \u0026 cut in the manner of Steaks; then take raw Parsley, \u0026 Onions small y-scredde, \u0026 yolks of Eggs seethed hard, \u0026 Marrow or swette, \u0026 hew all these together small; than caste there-on powder of Ginger \u0026 Saffron, \u0026 roll them to-gether with thine hand, \u0026 lay them on the steaks al abroad, \u0026 caste Salt thereto; then roll together, \u0026 put them on a round spit, \u0026 roast them til they be y-now; than lay hem in a dysshe, \u0026 pore theron Vinegar \u0026 a little various, \u0026 powder Pepper thereon y-now, \u0026 Ginger, \u0026 Canelle, \u0026 a fewe yolks of hard Eggs y-creamed ther-on; \u0026 serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EAllos, Allows, or Alander\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "noble-boke-1480"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wright-1857"
+    }
+  ],
+  "title": "Alows",
+  "usedSnapshot": "20211020231011"
+}

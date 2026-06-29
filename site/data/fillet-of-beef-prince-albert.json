@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20130323195913",
+  "finalPath": "fillet-of-beef-prince-albert.html",
+  "heading": "Fillet of Beef Prince Albert",
+  "ingredients": [
+    "champignons",
+    "foie gras",
+    "butter",
+    "egg",
+    "eggs",
+    "fat",
+    "gravy",
+    "mashed potatoes",
+    "potatoes",
+    "sugar",
+    "truffles",
+    "veal"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fillet-of-beef-prince-albert.html-1",
+      "receiptSource": "Original Receipt in the \u0027\u003Ci\u003EGuide culinaire\u003C/i\u003E\u0027 by Auguste Escoffier (See: \u003Ca href=\u0022references.html#escoffier-1903\u0022\u003E\u003Cb\u003EEscoffier\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFilet de Boeuf London-House\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSupprimer la cha\u00EEne du filet. A l\u0027endroit o\u00F9 \u00E9tait cette cha\u00EEne, ouvrir le filet dans toute sa longueur, juste sur le milieu de son \u00E9paisseur et sans s\u00E9parer compl\u00E8tement les deux moiti\u00E9s.\u003Cbr\u003E\nGarnir l\u0027int\u00E9rieur - d\u0027escalopes de foie gras cru assaisonn\u00E9es, altern\u00E9es de lames de truffe crues.\u003Cbr\u003E\nR\u00E9unir les deux moiti\u00E9s; clouter aux truffes la surface du filet; le ficeler assez serr\u00E9; le d\u00E9poser dans un ustensile fonc\u00E9, de lames de jambon cru et d\u0027une Mirepoix cuite.\u003Cbr\u003E\nMouiller avec Mad\u00E8re et Jus de Veau, de fa\u00E7on \u00E0 ce que le mouillement arrive seulement \u00E0 mi-hauteur de la pi\u00E8ce; le Braiser et le Glacer au dernier moment.\u003Cbr\u003E\ndresser; entourer de truffes cuites au Mad\u00E8re et de belles t\u00EAtes de champignons altern\u00E9es.\u003Cbr\u003E\nServir \u00E0 part une Sauce Demi-Glace additionn\u00E9e du fonds de braisage, d\u00E9graiss\u00E9, pass\u00E9 et r\u00E9duit.\u003Cbr\u003E\n\u003Cbr\u003E\nNotice. - Dans notre premi\u00E8re \u00E9dition nous avons attribu\u00E9 la cr\u00E9ation de ce mets \u00E0 notre coll\u00E8gue Baron. Or, l\u0027un de nos collaborateur nous a fait remarquer que ce filet, connu encore sous diff\u00E9rentes d\u00E9nominations, devrait, en r\u00E9alit\u00E9, se d\u00E9nommer Filet \u00E0 la Bec. Il aurait \u00E9t\u00E9 cr\u00E9\u00E9 vers 1849 par un cuisinier nomm\u00E9 Drouin et d\u00E9di\u00E9 \u00E0 un riche n\u00E9gociant marseillais du nom de Bec. C\u0027est ainsi que, dans son livre Les secrets de la cuisine d\u00E9voil\u00E9s, Morard le rapporte. Nous nous bornons donc a signaler le fait, sans chercher \u00E0 le commenter autrement.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fillet-of-beef-prince-albert.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Gastranomic Regenerator\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1847\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 570. Noix de veau a la Prince Albert\u003C/b\u003E (Rolled Topside of Veal Prince Albert)\u003Cbr\u003E\n\u003Cbr\u003E\nPrepare and dress the noix ... have likewise ten lambs\u0027 sweetbreads larded and dressed ... also ten plovers\u0027 eggs, which peel and warm in white stock, make a thin border of mashed potatoes round your dish, and dress the sweetbreads and plovers\u0027 eggs alternately upon it; place the noix in the centre, place a ring of truffles upon each plover\u0027s egg, and have ready the following sauce - pass the gravy from the noix and sweetbreads through a sieve into a stewpan, set it on the fire, skim off all the fat, add a quart of brown sauce ... and a pint of consomee ... reduce it quickly over the fire keeping it stirred with a wooden spoon, and when reduced to a thinnish glaze take it off the fire, add a little sugar, and two pats of butter; glaze the sweetbreads and noix sauce round and serve immediately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EFillet of Beef London House\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "escoffier-1903"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Fillet of Beef Prince Albert",
+  "usedSnapshot": "20211020222600"
+}

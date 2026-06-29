@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20121024084345",
+  "finalPath": "bryndons.html",
+  "heading": "Bryndons",
+  "ingredients": [
+    "clowes",
+    "dates",
+    "flour",
+    "pepper",
+    "saffron",
+    "sugar",
+    "vynegre"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bryndons.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EBryndons.\u003C/b\u003E Take wyn, \u0026 put in a pot, an clarifiyd hony, an saunderys [Sanders - red food colouring], pepper, saffron, clowes, maces, \u0026 quybibys, \u0026 mynced dates, pynys and roysonys of corauns, \u0026 a little vynegre, \u0026 seethe it on the fire; an seethe fygys in wine, \u0026 grind them, \u0026 draw them thorw a strainer, \u0026 caste thereto, an let them boil alle to-gederys; than take fair flour, saffron, sugar, \u0026 fair water, ande make therof cakys, and let them be thinne inow; than kytte them y lyke lechyngys, [leechings - long thin strips. ] an caste them in fair oyle, and fry them a little whyle; thanne take them out of the panne, an caste in-to a vesselle with the syrippe, \u0026 so serve them forth, the bryndonys an the sirippe, in a dish; \u0026 let the sirippe be rennyng, \u0026 not to styf.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Bryndons",
+  "usedSnapshot": "20210512115035"
+}

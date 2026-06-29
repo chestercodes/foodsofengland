@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922071714",
+  "finalPath": "apple-tansey.html",
+  "heading": "Apple Tansey",
+  "ingredients": [
+    "apple",
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "ginger",
+    "nutmeg",
+    "rose-water",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "apple-tansey.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make an Apple-Tansey.\u003C/b\u003E\u003Cbr\u003E\nPare your Apples and cut them in thin round slices, then fry them in good sweet Butter, then take ten Eggs, sweet Cream, Nutmeg, Cinamon, Ginger, Sugar, with a little Rose-water, beat all these together, and poure it upon your Apples and fry it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    }
+  ],
+  "title": "Apple Tansey",
+  "usedSnapshot": "20220516222918"
+}

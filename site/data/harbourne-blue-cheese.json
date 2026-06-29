@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616080822",
+  "finalPath": "harbourne-blue-cheese.html",
+  "heading": "Harbourne Blue Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Harbourne Blue Cheese",
+  "usedSnapshot": "20220705090612"
+}

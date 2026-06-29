@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20130808235700",
+  "finalPath": "panjotheram.html",
+  "heading": "Panjotheram",
+  "ingredients": [
+    "mutton",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt",
+    "beef",
+    "black pepper",
+    "carrots",
+    "flour",
+    "lamb",
+    "lamb chops"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "panjotheram.html-1",
+      "receiptSource": "Original Receipt from Alnwick Mercury - Saturday 28 January 1939",
+      "receiptText": "\u003Cb\u003EPANJOTHERAM\u003C/b\u003E Fill a deep pie dish three-quarters full with slices of raw potatoes, then cut over a good layer of sliced onions. Season plentifully with pepper and salt, and pour boiling water into the pie dish until it is half full. Then lay a mutton chop on top for each person. Cover with plate and set in the oven. It will take two hours in a good oven, watching it so that it does not go dry.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "panjotheram.html-2",
+      "receiptSource": "Original Receipt adapted from \u003Ci\u003EA Taste of Northumbria\u003C/i\u003E by Dorothy Baldock, c1996",
+      "receiptText": "\u003Cb\u003EPanjotheram\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n8 lamb chops, trimmed\u003Cbr\u003E\n1.5 - 2 lbs potatoes, peeled and sliced\u003Cbr\u003E\n3 onions, peeled and sliced\u003Cbr\u003E\n1 pint beef stock, slightly thickened with a little flour\u003Cbr\u003E\nsalt and black pepper\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nSet oven to 325F or Gas Mark 3 (160C). Dust the chops lightly with a little seasoned flour. In a deep casserole arrange layers of the potatoes and the onions, season each layer. Bring the stock to the boil and pour over sufficient to come half way up the vegetables. Arrange the chops on top of the vegetables, cover with a lid and cook for 1.5-2 hours, adding more hot stock as necessary. Serve with carrots and a green vegetable.\u003Cbr\u003E\nServes 4\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Panjotheram",
+  "usedSnapshot": "20220527062729"
+}

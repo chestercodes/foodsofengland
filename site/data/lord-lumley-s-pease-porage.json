@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150922072035",
+  "finalPath": "lord-lumley-s-pease-porage.html",
+  "heading": "Lord Lumley\u0027s Pease-Porage",
+  "ingredients": [
+    "beat",
+    "butter",
+    "coriander",
+    "herbs",
+    "mint",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lord-lumley-s-pease-porage.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMY LORD LUMLEY\u0027S PEASE-PORAGE\u003C/b\u003E\u003Cbr\u003E\nTake two quarts of Pease, and put them into an Ordinary quantity of Water, and when they are almost boiled, take out a pint of the Pease whole, and strain all the rest. A little before you take out the pint of Pease, when they are all boiling together, put in almost an Ounce of Coriander-seed beaten very small, one Onion, some Mint, Parsley, Winter-savoury, Sweet-Marjoram, all minced very small; when you have strained the Pease, put in the whole Pease and the strained again into the pot, and let them boil again, and a little before you take them up, put in half a pound of Sweet-butter. You must season them in due time, and in the ordinary proportion with Pepper and Salt.\u003Cbr\u003E\nThis is a proportion to make about a Gallon of Pease-porage. The quantities are set down by guess. The Coriander-seeds are as much as you can conveniently take in the hollow of your hand. You may put in a great good Onion or two. A pretty deal of Parsley, and if you will, and the season afford them, you may add what you like of other Porage herbs, such as they use for their Porages in France. But if you take the savoury herbs dry, you must crumble or beat them to small Powder (as you do the Coriander-seed) and if any part of them be too big to pass through the strainer, after they have given their taste to the quantity, in boiling a sufficient while therein, you put them away with the husks of the Pease. The Pint of Pease that you reserve whole, is only to show that it is Pease-porage. They must be of the thickness of ordinary Pease-porage. For which these proportions will make about a Gallon.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Pease Pudding",
+      "relatedPageUrl": "pease-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Lord Lumley\u0027s Pease-Porage",
+  "usedSnapshot": "20211205163042"
+}

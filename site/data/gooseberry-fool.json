@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20150802002715",
+  "finalPath": "gooseberry-fool.html",
+  "heading": "Gooseberry Fool",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "gooseberries",
+    "rose-water",
+    "sugar",
+    "cinnamon",
+    "cream",
+    "lemon",
+    "milk"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "gooseberry-fool.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Compleat Cook\u003C/i\u003E\u0027 by \u0027WM\u0027, 1658 (\u003Ca href=\u0022references.html#wm-1658\u0022\u003E\u003Cb\u003EWM 1658\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Gooseberry Foole.\u003C/b\u003E\u003Cbr\u003E\nTake your Gooseberries, and put them in a Silver or Earthen Pot, and set it in a Skillet of boyling Water, and when they are coddled enough strain them, then make them hot again, when they are scalding hot, beat them very well with a good piece of fresh butter, Rose-water and Sugar, and put in the yolke of two or three Eggs; you may put Rose-water into them, and so stir it altogether, and serve it to the Table when it is cold.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "gooseberry-fool.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EGOOSEBERRY FOOL.\u003C/b\u003E\u003Cbr\u003E\nPut a quart of green gooseberries and a gill of water in a stewpan over a fire close covered; when the fruit is tender rub it through a fine hair sieve, add to the pulp sifted loaf sugar, and let it stand till cold. In the mean time put a pint of cream or new milk into a stewpan, with a stick of cinnamon, a small piece of lemon peel, sugar, a few cloves\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1658"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Gooseberry Fool",
+  "usedSnapshot": "20211019180657"
+}

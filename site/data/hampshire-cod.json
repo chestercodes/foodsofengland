@@ -1,0 +1,51 @@
+﻿{
+  "earliestSnapshot": "20150922073514",
+  "finalPath": "hampshire-cod.html",
+  "heading": "Hampshire Cod",
+  "ingredients": [
+    "black pepper",
+    "breadcrumbs",
+    "butter",
+    "cod",
+    "egg",
+    "herbs",
+    "lemon",
+    "nutmeg",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "suet",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "hampshire-cod.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Hampshire%20Cod\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EHampshire Cod\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EIngredients\u003C/b\u003E\u003Cbr\u003E\n2lb cod (head, tail and fins removed)\u003Cbr\u003E\n3oz fresh breadcrumbs\u003Cbr\u003E\n1\u00BDoz shredded suet\u003Cbr\u003E\n\u00BD finely chopped onion\u003Cbr\u003E\n1 dessertspoon freshly chopped parsley\u003Cbr\u003E\n1 teaspoon freshly thyme\u003Cbr\u003E\ngrated rind and juice of lemon\u003Cbr\u003E\nsalt and black pepper\u003Cbr\u003E\npinch ground nutmeg\u003Cbr\u003E\n1 beaten egg\u003Cbr\u003E\n1\u00BD - 2oz butter\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\n1 Clean the fish inside and out.\u003Cbr\u003E\n2 In a bowl mix together the breadcrumbs, suet, onion, herbs, lemon rind, seasonings and nutmeg, combine thoroughly.\u003Cbr\u003E\n3 Add the egg a little at a time and bind together.\u003Cbr\u003E\n4 Use to stuff the fish.\u003Cbr\u003E\n5 Butter an ovenproof dish thoroughly.\u003Cbr\u003E\n6 Place the fish in the dish.\u003Cbr\u003E\n7 Dot generously with butter.\u003Cbr\u003E\n8 Cover with aluminium foil.\u003Cbr\u003E\n9 Bake at 180 degrees centigrade/gas 4 for 45 - 50 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Hampshire Cod",
+  "usedSnapshot": "20211129105034"
+}

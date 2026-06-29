@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922092228",
+  "finalPath": "cambridge-milk-punch.html",
+  "heading": "Cambridge Milk Punch",
+  "ingredients": [
+    "brandy",
+    "eggs",
+    "lemon",
+    "milk",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cambridge-milk-punch.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECAMBRIDGE MILK PUNCH.\u003C/b\u003E\u003Cbr\u003E\nThrow into two quarts of new milk the very thinly-pared rind of a fine lemon, and half a pound of good sugar in lumps; bring it slowly to boil, take out the lemon-rind, draw it from the fire, and stir quickly in a couple of well-whisked eggs which have been mixed with less than half a pint of cold milk, and strained though a sieve; the milk must not of course be allowed to boil after these are mixed with it. Add gradually a pint of rum, and half a pint of brandy; mix the punch to a froth, and serve it immediately with quite warm glasses. At the University the lemon-rind is usually omitted, but it is a great improvement to the flavour of the beverage. The sugar and spirit can be otherwise apportioned to the taste; and we would\u003Cbr\u003E\nrecommend the yolks of three eggs, or of four, in preference to the two whole ones.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Cambridge Milk Punch",
+  "usedSnapshot": "20220706165414"
+}

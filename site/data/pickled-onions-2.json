@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922074530",
+  "finalPath": "pickled-onions-2.html",
+  "heading": "Pickled Onions (2)",
+  "ingredients": [
+    "bladder",
+    "ginger",
+    "horseradish",
+    "milk",
+    "onions",
+    "pepper",
+    "salt",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-onions-2.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 By John Mollard (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO PICKLE ONIONS.\u003C/b\u003E\u003Cbr\u003E\nPeel small button onions into milk and water, in which put plenty of salt; set it over a fire, and when it boils strain the onions, wipe them dry, and put them into glasses. Have ready cold white wine vinegar, in which whole white pepper, ginger, mace, and slices of horseradish have been boiled. Pour it over the onions and cover them with bladder and leather,\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "(1)",
+      "relatedPageUrl": "pickledonions(1).htm",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "(2)",
+      "relatedPageUrl": "pickledonions(2).htm",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "(3)",
+      "relatedPageUrl": "pickledonions(2).htm",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Pickled Onions (2)",
+  "usedSnapshot": "20211207121435"
+}

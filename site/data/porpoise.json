@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20140311020737",
+  "finalPath": "porpoise.html",
+  "heading": "Porpoise",
+  "ingredients": [
+    "milk",
+    "saffron",
+    "salt",
+    "sugur"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "porpoise.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFfirmenty wit Porpeys\u003C/b\u003E. Take faire almondes, and wass them clean, and bray them in a morter, and drawe them wit water through a streynour into milk, and caste it in a vesse. And then take wete, and bray it in a morter, that al the hole ho be awey, and boil it in faire water til it be wel ybroke and boyled ynowe. And then take it from the fire, and caste thereto the milk and let boil. And whan it is yboyled ynowe, and thik, caste there-to Sugur, Saffron, and salt; and then take a porpeys, and chyne him as a Samon, And set him in faire water. And whan it is ynowe, baude it, and leche it in faire peces, and serve it fort with firmanty, and cast there-on hote water in the diss.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Porpoise",
+  "usedSnapshot": "20201101095046"
+}

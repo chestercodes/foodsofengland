@@ -1,0 +1,79 @@
+﻿{
+  "earliestSnapshot": "20140212025408",
+  "finalPath": "bacon-rolly-polly-pudding.html",
+  "heading": "Bacon Rolly-Polly Pudding",
+  "ingredients": [
+    "bacon",
+    "black pepper",
+    "fat",
+    "flour",
+    "onions",
+    "pastry",
+    "pepper",
+    "plain flour",
+    "pudding",
+    "salt",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-rolly-polly-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bacon%20Rolly-Polly%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBerkshire Bacon Roly Poly Pudding\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n450g/1 lb Plain Flour\u003Cbr\u003E\n175g/6oz Suet\u003Cbr\u003E\nWater to bind\u003Cbr\u003E\n175g/6oz Fat Bacon, chopped\u003Cbr\u003E\nA few sage leaves\u003Cbr\u003E\n2 chopped Onions\u003Cbr\u003E\nSalt and Black Pepper\u003Cbr\u003E\nPreparation:\u003Cbr\u003E\n\u003Cbr\u003E\n1. Bring a large pan of water to the boil. Meanwhile, in a large mixing bowl, mix together the flour and suet . Add enough cold water to form a stiff dough.\u003Cbr\u003E\n2. Turn the dough onto a floured surface and roll out to an oblong 6mm/1/4 inch thickness.\u003Cbr\u003E\n3. In another bowl, mix together the bacon, onions, sage, salt and pepper.\u003Cbr\u003E\n4. Place the bacon mixture on the pastry leaving a border of about 5cm/2inches on all sides then roll the suet pastry up to enclose the bacon. Seal the dough by squeezing at both ends then wrap the pudding in a dampened, floured muslin cloth.\u003Cbr\u003E\n5. Boil for about 2 hours, topping up with extra water as necessary. Serve hot with vegetables.\u003Cbr\u003E\nAnd there you have it! Berkshire bacon roly poly pudding!\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Bacon Pudding - Berkshire",
+      "relatedPageUrl": "bacon-rolly-polly-pudding.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bacon Pudding - Hampshire",
+      "relatedPageUrl": "bacon-pudding-hampshire.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Bedfordshire Clangers",
+      "relatedPageUrl": "bedfordshire-clangers.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Clanger",
+      "relatedPageUrl": "clanger.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Crowfield Clanger",
+      "relatedPageUrl": "crowfield-clanger.html",
+      "relationDescription": "See:"
+    },
+    {
+      "relatedPageText": "Buckingham Bacon Badger",
+      "relatedPageUrl": "buckingham-bacon-badger.html",
+      "relationDescription": "See:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Berkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bacon Rolly-Polly Pudding",
+  "usedSnapshot": "20220808010344"
+}

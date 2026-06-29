@@ -1,0 +1,68 @@
+﻿{
+  "earliestSnapshot": "20150922081104",
+  "finalPath": "oatmeal-blood-pudding.html",
+  "heading": "Oatmeal Blood Pudding",
+  "ingredients": [
+    "beef",
+    "cream",
+    "milk",
+    "mutton",
+    "oatmeal",
+    "parsley",
+    "puddings",
+    "salt",
+    "spinage",
+    "strawberry",
+    "strawberry leaves",
+    "suet",
+    "eggs",
+    "fat",
+    "herbs",
+    "pepper",
+    "spinnage",
+    "tyme"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "oatmeal-blood-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplisht Cook\u003C/i\u003E\u0027 by Robert May, 1660 (\u003Ca href=\u0022references.html#robert-may-1660\u0022\u003E\u003Cb\u003ERobert May 1660\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make blood Puddings\u003C/b\u003E\u003Cbr\u003E\nTake the blood of a hog, while it is warm, and steep in it a quart or more of great oatmeal groats, at the end of three days take the groats out and drain them clean; then put to these groats more then a quart of the best cream warmed on the fire; then take some mother of time, spinage, parsley, savory, endive, sweet marjoram, sorrel, strawberry leaves, succory, of each a few chopped very small and mix them with the groats, with a little fennel seed finely beaten, some peper, cloves, mace salt, and some beef-suet, or flakes of the hog cut small. Otherways, you may steep your oatmeal in warm mutton broth, or scalding milk, or boil it in a bag.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "oatmeal-blood-pudding.html-2",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#rabisha-1661\u0022\u003E\u003Cb\u003ERabisha. 1661\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "Steep Oatmeal in warm Milk three of four hours, then strain some blood into it of fish or flesh, mix it with Cream, and add to it suet minced small, sweet herbs chopped fine, as Tyme, Parslee, Spinnage, Succory, Endive, Strawberry-leaves, Violet-leaves, Pepper, Cloves, Mace, fat Beef suet, and four Eggs, mingle all together, and so bake it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robert-may-1660"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rabisha-1661"
+    }
+  ],
+  "title": "Oatmeal Blood Pudding",
+  "usedSnapshot": "20220808020051"
+}

@@ -1,0 +1,55 @@
+﻿{
+  "earliestSnapshot": "20140310135520",
+  "finalPath": "yule-bread.html",
+  "heading": "Yule Bread",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cheese",
+    "cinnamon",
+    "currants",
+    "flour",
+    "lard",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "raisins",
+    "salt",
+    "sugar",
+    "yeast",
+    "cream",
+    "eggs",
+    "sultanas"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "yule-bread.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003ELeeds Mercury\u003C/i\u003E\u0027 - Saturday 19 December 1891",
+      "receiptText": "In the \u0022Weekly Supplement\u0022 for November 28th, a lady correspondent asked for a recipe for Christmas bread. Did she want the kind we have in Cleveland, North Yorkshire, called Yell Cake or Yule Cake? If so, this is how our great-grandmothers made it, and how we make it every year. -\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients.- One stone of flour, four ounces of yeast, three pounds of butter or lard, three rounds of sugar, three pounds of currants, one pound and a half of raisins, half a pound of candied lemon peel, one ounce of cinnamon, one nutmeg grated, and one quart of milk, and a little salt.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod - Rub the butter or lard into the flour; than the salt, cinnamon., sugar, and nutmeg. Make a hole in the middle of the flour; stir in the milk (previously warmed) and the yeast; then cover the sponge with flour from the sides; stone the raisins, wash and clean the currants, cut the peel into strips, and put them round the sponge, and set it to rise in a warm place. When well risen knead all together, and divide into twenty pieces. Make each into a round loaf, place on a baking-tin, cross the top diamond-way with a two pronged fork. Let the loaves rise before the fire a few minutes then bake forty minutes.\u003Cbr\u003E\n\u003Cbr\u003E\nOur custom is to bake this quantity every year; each member of the family receives one on Christmas Day in the morning; others we send to relatives and friends. We make also a large better cake for visitors who call to taste the cheese - E. N.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "yule-bread.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EKing Edward\u0027s Cookery Book\u003C/i\u003E\u0027, by Florence George of King Edward School, Birmingham, about 1901.",
+      "receiptText": "\u003Cb\u003EYule Cake,\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n3 lb. flour.\u003Cbr\u003E\n1 teaspoonfuls salt.\u003Cbr\u003E\n1 nutmeg.\u003Cbr\u003E\n1 lb. butter.\u003Cbr\u003E\n1 lb. sugar.\u003Cbr\u003E\n3 oz. yeast.\u003Cbr\u003E\n1 quart new milk (tepid).\u003Cbr\u003E\n2 or 3 eggs.\u003Cbr\u003E\n8 lb. sultanas,\u003Cbr\u003E\n1 lb. candied peel\u003Cbr\u003E\n\u003Cbr\u003E\n(Enough for 6 large cakes.)\u003Cbr\u003E\n\u003Cbr\u003E\nPut flour and grated nutmeg and salt into a warm basin, rub in the butter. Cream the yeast and a teaspoonful of sugar together, add milk and eggs well beaten, pour into the middle of the flour and work up well with a spoon. Leave to rise for an hour, and when well risen sprinkle over the sugar, sultanas, and peel; work in well by hand, and leave to rise again. Work up with a very little flour, and put into buttered bread-tins. Leave to rise again, and bake in a very hot oven. These cakes will keep for some time.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EYule Cake\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Yule Bread",
+  "usedSnapshot": "20220101203733"
+}

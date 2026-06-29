@@ -1,0 +1,52 @@
+﻿{
+  "earliestSnapshot": "20150922073505",
+  "finalPath": "calf-s-head-cutlets.html",
+  "heading": "Calf\u0027s Head Cutlets",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cayenne",
+    "egg",
+    "flour",
+    "gravy",
+    "ham",
+    "herbs",
+    "lemon",
+    "mushroom",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "calf-s-head-cutlets.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ECUTLETS OF CALF\u0027S HEAD.\u003C/b\u003E\u003Cbr\u003E\nPrepare, by the Cook\u0027s Receipt, half a calfs head with or without the skin on; only, in the latter case, allow more time for the boiling. When it is quite cold, remove the fillets of tape, and cut the head into slices of half an inch thick, brush them with yolk of egg, and dip them into fine bread-crumbs, seasoned with the grated rind of half a lemon, half a teaspoonful of minced savoury herbs, some cayenne, and a little of the lean of a boiled ham chopped very small, should this last be at hand. Fry the cutlets in butter of a fine light brown, make some gravy in the pan as for veal cutlets, and add to it the juice of half a lemon; or mix a large teaspoonful of currie-powder, and one of flour, very smoothly with the butter, shake them over the fire for four or five minutes, and let the gravy simmer as much longer, after the water is added; or serve the cutlets, covered with good mushroom sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Calf\u0027s Head Cutlets",
+  "usedSnapshot": "20220516222221"
+}

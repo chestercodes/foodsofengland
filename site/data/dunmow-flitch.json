@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130324051016",
+  "finalPath": "dunmow-flitch.html",
+  "heading": "Dunmow Flitch",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Essex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dunmow Flitch",
+  "usedSnapshot": "20220707151924"
+}

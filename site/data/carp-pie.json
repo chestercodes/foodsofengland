@@ -1,0 +1,81 @@
+﻿{
+  "earliestSnapshot": "20140616082728",
+  "finalPath": "carp-pie.html",
+  "heading": "Carp Pie",
+  "ingredients": [
+    "butter",
+    "nutmeg",
+    "salt",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "carp-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Queen-like Closet or Rich Cabinet\u003C/i\u003E\u0027 by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E75. To make a Carp Pie.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nHave your Paste ready laid in your bake-pan, and some Butter in the bottom.\u003Cbr\u003E\n\u003Cbr\u003E\nThen take a large Carp, scale him, gut him, and wash him clean, and dry him in a Cloth, then lay him into your Pan with some whole Cloves, Mace, and sliced Nutmeg, with two handfuls of Capers, then put in some White Wine, and mix some Butter with Salt, and lay all over; then close it, and bake it; this is very good to be eaten either hot or cold.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Carp Pie",
+      "relatedPageUrl": "carp-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Eel Pie",
+      "relatedPageUrl": "eel-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Fish Pie",
+      "relatedPageUrl": "fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Lyme Bay Fish Pie",
+      "relatedPageUrl": "lyme-bay-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Salmon Pie",
+      "relatedPageUrl": "salmon-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Smoked Fish Pie",
+      "relatedPageUrl": "smoked-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    },
+    {
+      "relatedPageText": "Suffolk Fish Pie",
+      "relatedPageUrl": "suffolk-fish-pie.html",
+      "relationDescription": "For other types of fish pie see:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Carp Pie",
+  "usedSnapshot": "20211201042343"
+}

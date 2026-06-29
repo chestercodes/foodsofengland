@@ -1,0 +1,41 @@
+﻿{
+  "earliestSnapshot": "20150922091454",
+  "finalPath": "damson-wine.html",
+  "heading": "Damson Wine",
+  "ingredients": [
+    "bread",
+    "mulberries",
+    "raisins",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "damson-wine.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDamson-Wine to imitate Claret.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake nine Gallons of Water, make it scalding hot, and pour it upon six and thirty Pounds of Malaga Raisins well pick\u0027d from the Stalks. The Raisins should be sound, or they will spoil your Wine. While the Water is yet hot, put into the Liquor half a Peck of Damsons full ripe, and pick\u0027d clean of the Stalks and Leaves, to each Gallon of Liquor; then stir them all together in the open Tub we make this Infusion in, and continue stirring them twice a Day for six Days. Keep this Tub cover\u0027d with a Cloth all that time: then let it stand five or six Days longer, without stiring, and then draw it off: and if it is not deep-colour\u0027d enough, put a little Syrup of Mulberries to it, and work it with a piece of White-Bread toasted, and spread with Yeast or Barm, in an open Vessel; and then tun it, keeping the Bung of the Vessel open till the Wine has done singing in the Cask. Then slop it close, and let it stand till it is clear, which will be in two or three Months; then draw it off. Some will just give their Damsons a scald in the Water before they pour it on the Raisins, which is a good way.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Damson Wine",
+  "usedSnapshot": "20211027025721"
+}

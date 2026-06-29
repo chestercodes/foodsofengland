@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922073951",
+  "finalPath": "partridge-and-cabbage-pudding.html",
+  "heading": "Partridge and Cabbage Pudding",
+  "ingredients": [
+    "bacon",
+    "cabbage",
+    "gravy",
+    "onions",
+    "partridge",
+    "pudding"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "partridge-and-cabbage-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E254. Partridge and Cabbage Pudding.-\u003C/b\u003E Cut a Savoy cabbage into four pieces, removing some of the outside leaves; boil it for ten minutes, let it get cold, press the water out, cut off the thick root, and cut the other in slices; then stuff the partridge as No. 464, place slides of bacon round it, lay some cabbage in the pudding, paste as usual, season the partridge, and lay it in with six or eight button onions, then the remainder of the cabbage, a gill of brown gravy, No. 2, or coloured water, No. 462 A: boil two hours, if an old bird, or one and a half, if young.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Partridge and Cabbage Pudding",
+  "usedSnapshot": "20220527222447"
+}

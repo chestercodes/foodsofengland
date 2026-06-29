@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922082742",
+  "finalPath": "epicurean-sauce.html",
+  "heading": "Epicurean Sauce",
+  "ingredients": [
+    "butter",
+    "chili",
+    "chili vinegar",
+    "gravy",
+    "mushroom",
+    "soy",
+    "vinegar",
+    "walnut"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "epicurean-sauce.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EEpicurean Sauce.\u003C/b\u003E\u003Cbr\u003E\nMix well, by shaking them in a bottle, a wineglassful of Indian soy, half a pint of chili vinegar, half a pint of walnut catsup, and a pint and a half of the best mushroom catsup. These proportions make an excellent sauce, either to mix with melted butter, and to serve with fish, or to add to different kinds of gravy; but they can be varied, or added to, at pleasure.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Epicurean Sauce",
+  "usedSnapshot": "20211020232809"
+}

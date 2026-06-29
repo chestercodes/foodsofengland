@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20130323041927",
+  "finalPath": "jusshell-or-iuschelle.html",
+  "heading": "Jusshell or Iuschelle",
+  "ingredients": [
+    "bread",
+    "salt",
+    "almond",
+    "almond milk",
+    "gravy",
+    "milk",
+    "saffron",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "jusshell-or-iuschelle.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EJUSSHELL\u003C/b\u003E\u003Cbr\u003E\nTake bread grated and eyggs and swyng it togydre. Do thereto safroun, sawge, and salt, \u0026 cast broth thereto, boile it \u0026 present it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "jusshell-or-iuschelle.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EIuschelle of fish.\u003C/b\u003E Take fair fry of pick, and caste it raw on a morter, an caste thereto grated bread, an bray them as smale as thow mayste; \u0026 if it be to stondyng, caste thereto almond milk, an bray them to-gederys, an stere it to-gederys, \u0026 caste thereto a littel saffron \u0026 salt, an whyte sugar, an put al in a fair treen bolle, \u0026 toyle it to-gederys with thin hond, an loke that it be not to chargeaunt, but as a man may pore it out of the bolle; and than take a chafoure or a panne, an caste ther-in fair gravy of pick or of freysshe samoun, y-draw thorw a strainer, \u0026 settepage it on the fire; thanne take fair percely an sawge, an caste thereto, an let it boil, an caste thereto a little saffron an salt; and whan it hath y-boylid a whyle, stere it faste, an caste the stuffe thereto, an stere it euermore; an whan alle is oute of the bolle, caste a litil an a litil in-to the chafoure, or the panne; stere it soffter an sofftere, tylle it come to-gedere; than gader it to-gederys with a ladelle or a skymoure, softe, tille it be round to-gedere; thanne take it from the fire, an set the vesselle on a fewe colys, an late it wexe styf be hys owne acord; than serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Jusshell or Iuschelle",
+  "usedSnapshot": "20210518203830"
+}

@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140212014942",
+  "finalPath": "doucette.html",
+  "heading": "Doucette",
+  "ingredients": [
+    "eggs",
+    "milk",
+    "saffron",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "doucette.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EDoucete.\u003C/b\u003E Take creme a good cupfulle, \u0026 put it on a strainer; thanne take yolks of eggs \u0026 put thereto, \u0026 a little milk; then strayne it thorw a strainer in-to a bolle; then take sugar y-now, \u0026 put thereto, or ellys hony forde faute of sugar, than coloure it with saffron; than take thin cofyns, \u0026 put in the ovynne lere, \u0026 let them ben hardyd; than take a dish y-fastenyd on the pelys ende; \u0026 pore thin comade in-to the dyssche, \u0026 from the dyssche in-to the cofyns; \u0026 when they don a-ryse wel, take them out, \u0026 serve them forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Doucette",
+  "usedSnapshot": "20211205171501"
+}

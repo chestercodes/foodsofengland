@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922090258",
+  "finalPath": "egg-balls.html",
+  "heading": "Egg Balls",
+  "ingredients": [
+    "beat",
+    "egg",
+    "eggs",
+    "flour",
+    "salt",
+    "butter",
+    "spinach"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "egg-balls.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EEGG BALLS FOR SOUPS AND MADE DISHES.\u003C/b\u003E\u003Cbr\u003E\n408. INGREDIENTS: 8 eggs, a little flour; seasoning to taste of salt.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Boil 6 eggs for 20 minutes, strip off the shells, take the yolks and pound them in a mortar. Beat the yolks of the other 2 eggs; add them, with a little flour and salt, to those pounded; mix all well together, and roll into balls. Boil them before they are put into the soup or other dish they may be intended for.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 20 minutes to boil the eggs.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: for this quantity, 8d.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: 2 dozen balls for 1 tureen of soup.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "egg-balls.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Lady\u2019s Own Cookery Book, and New Dinner-Table Directory\u003C/i\u003E\u0027 of 1844",
+      "receiptText": "\u003Cb\u003EEggs to fry as round as Balls.\u003C/b\u003E\u003Cbr\u003E\nPut three pints of clarified butter into a deep stewpan; heat it as hot as for fritters, and stir the butter with a stick till it turns round like a whirlpool. Break an egg into the middle, and turn it round with the stick till it is as hard as a poached egg. The whirling round of the butter makes it as round as a ball. Take it up with a slice; put it in a dish before the fire. Do as many as you want; they will be soft, and keep hot half an hour. Serve on stewed spinach.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hammond-1819"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Egg Balls",
+  "usedSnapshot": "20220810042511"
+}

@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140212023117",
+  "finalPath": "lamb-pye.html",
+  "heading": "Lamb Pye",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "lamb",
+    "raisins",
+    "salt",
+    "sugar",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lamb-pye.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Accomplish\u0027d Lady\u0027s Delight In Preserving\u003C/i\u003E\u0027 (1677) by Hannah Woolley (\u003Ca href=\u0022references.html#wooley-1672\u0022\u003E\u003Cb\u003EWooley 1672\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ELamb Pye\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nFirst, Cut your Lamb into pieces, and then Season it with Nutmegs, Cloves, and Mace, and some Salt with Currans, Raisins of the Sun, and Sweet Butter; and if you will eat it hot, when it is baked put in some Yolks of Eggs, with Wine-Vinegar and Sugar beaten together; but if you will eat it cold, put in no Eggs, but only Vinegar and Sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wooley-1672"
+    }
+  ],
+  "title": "Lamb Pye",
+  "usedSnapshot": "20211201032005"
+}

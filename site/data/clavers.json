@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922085858",
+  "finalPath": "clavers.html",
+  "heading": "Clavers",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Flower Salad",
+      "relatedPageUrl": "flower-salads.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": "\u003Cb\u003Eclafre, cl\u00E6fre, cl\u00E6fra, clouere, cleure, claver, clover\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    }
+  ],
+  "title": "Clavers",
+  "usedSnapshot": "20211021011915"
+}

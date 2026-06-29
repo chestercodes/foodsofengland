@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922083348",
+  "finalPath": "oatmeal-pudding-1.html",
+  "heading": "Oatmeal Pudding (1)",
+  "ingredients": [
+    "beat",
+    "butter",
+    "eggs",
+    "milk",
+    "oatmeal",
+    "pudding",
+    "salt",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "oatmeal-pudding-1.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "OATMEAL PUDDING. Pour a quart of boiling milk over a pint of the best oatmeal, and let it soak all night. Next day beat two eggs, and mix a little salt. Butter a bason that will just hold it, cover it tight with a floured cloth, and boil it an hour and a half. Eat it with cold butter and salt. When cold, slice and toast it, and eat it as oat-cake, buttered.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Oatmeal Pudding (1)",
+  "usedSnapshot": "20211129113620"
+}

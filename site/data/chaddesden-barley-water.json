@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922101656",
+  "finalPath": "chaddesden-barley-water.html",
+  "heading": "Chaddesden Barley Water",
+  "ingredients": [
+    "barley",
+    "lemon",
+    "lemons",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chaddesden-barley-water.html-1",
+      "receiptSource": "Original Receipt adapted from \u003Ca href=\u0022http://www.westparkcommunity.co.uk/PDF/chaddesdenhistorical/january2009.pdf\u0022\u003E\u003Cb\u003EChaddesden Historical Group Newsletter\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EChaddesden Barley Water\u003C/b\u003E\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n1 tablespoon of pearl barley\u003Cbr\u003E\nPeel of 4 lemons\u003Cbr\u003E\n8 lumps of sugar\u003Cbr\u003E\n4 pints boiling water\u003Cbr\u003E\n\u003Cb\u003EMethod\u003C/b\u003E\u003Cbr\u003E\nScald the pearl barley by pouring boiling water over it and then strain and discard the water. Put the scalded barley into a large basin with the peel of the 4 lemons cut into strips and the 8 lumps of sugar.\u003Cbr\u003E\nPour 4 pints of boiling water over the barley mixture, cover and leave to cool. When cold pour slowly into a jar to leave behind the sediment but do not strain it off. The juice of a lemon may be added before serving\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Barley Water",
+      "relatedPageUrl": "barley-water.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Chaddesden Barley Water",
+  "usedSnapshot": "20200222021822"
+}

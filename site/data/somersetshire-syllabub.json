@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20140514173250",
+  "finalPath": "somersetshire-syllabub.html",
+  "heading": "Somersetshire Syllabub",
+  "ingredients": [
+    "cinnamon",
+    "cream",
+    "milk",
+    "nutmeg",
+    "sherry",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "somersetshire-syllabub.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ESomersetshire Syllabub.\u003C/b\u003E\u003Cbr\u003E\n1136. In a large china bowl put a pint of port, and a pint of sherry or other white wine; sugar to taste. Milk the bowl full. In twenty minutes\u0027 time cover it pretty high with \u003Ca href=\u0022clouted-cream.html\u0022\u003E\u003Cb\u003Eclouted cream\u003C/b\u003E\u003C/a\u003E; grate over it nutmeg, and put in pounded cinnamon and \u003Ca href=\u0022comfits.html\u0022\u003E\u003Cb\u003Enonpareil comfits\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Syllabub",
+      "relatedPageUrl": "everlasting-syllabub.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "Devon Syllabub",
+      "relatedPageUrl": "devon-syllabub.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdairy.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "dairy"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Somersetshire Syllabub",
+  "usedSnapshot": "20220112214856"
+}

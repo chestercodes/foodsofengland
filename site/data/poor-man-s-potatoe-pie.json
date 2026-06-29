@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20140212033552",
+  "finalPath": "poor-man-s-potatoe-pie.html",
+  "heading": "Poor Man\u0027s Potatoe Pie",
+  "ingredients": [
+    "beef",
+    "fat",
+    "mutton",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "poor-man-s-potatoe-pie.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E269. Poor Man\u0027s Potatoe Pie.-\u003C/b\u003E Wash and peel six pounds of potatoes, cut them in slices; take half-a-pound of the fat of mutton or beef, or dripping, cut into small dice; season the whole with a teaspoonful of pepper and three of salt; cover with paste, No. 319A, and bake one hour and a half.\u003Cbr\u003E\n\u003Cbr\u003E\nA \u003Ca href=\u0022bloaters.html\u0022\u003E\u003Cb\u003Ebloater,\u003C/b\u003E\u003C/a\u003E boned and cut up with the fat, makes a nice change of flavour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Poor Man\u0027s Potatoe Pie",
+  "usedSnapshot": "20220808002958"
+}

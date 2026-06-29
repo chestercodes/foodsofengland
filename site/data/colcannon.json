@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922093426",
+  "finalPath": "colcannon.html",
+  "heading": "Colcannon",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "potatoes",
+    "salt",
+    "spinage"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "colcannon.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA modern system of domestic cookery, or, The housekeeper\u0027s guide\u003C/i\u003E\u0027 by M Radcliffe. (\u003Ca href=\u0022references.html#radcliffe-1822\u0022\u003E\u003Cb\u003ERadcliffe 1822\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EColcannon.\u003C/b\u003E\u003Cbr\u003E\nBoil potatoes and greens, or spinage, separately. Mash the potatoes, squeeze the greens dry, chop them quite fine, and mix them with the potatoes with a little butter, pepper, and salt. Put it into a mould, greasing it well first; let it stand in a hot oven for ten minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "radcliffe-1822"
+    }
+  ],
+  "title": "Colcannon",
+  "usedSnapshot": "20220808011300"
+}

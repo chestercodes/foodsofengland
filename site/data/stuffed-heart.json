@@ -1,0 +1,60 @@
+﻿{
+  "earliestSnapshot": "20150922090019",
+  "finalPath": "stuffed-heart.html",
+  "heading": "Stuffed Heart",
+  "ingredients": [
+    "beef",
+    "currant",
+    "gravy",
+    "jelly",
+    "port wine",
+    "bread",
+    "butter",
+    "egg",
+    "fat",
+    "milk",
+    "onions",
+    "pepper",
+    "potatoes",
+    "salt"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "stuffed-heart.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "BEEF HEART. Wash it carefully, stuff it as a hare, and serve with rich gravy and currant-jelly sauce. Hash it with the same, and add a little port wine.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "stuffed-heart.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA Plain Cookery Book for the Working Classes\u003C/i\u003E\u0027 by Charles Elm\u00E9 Francatelli (\u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ENo. 69. BULLOCK\u0027S HEART STUFFED.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nChop fine four onions and twelve sage-leaves; put these into a saucepan with a bit of fat or butter, and fry them for a few minutes on the fire; then add eight ounces of crumb of bread, soaked in milk or water, pepper and salt; stir this stuffing on the fire for a few minutes, add one egg, put the stuffing inside the bullock\u0027s heart, place a round of greased paper on the stuffing, and fasten it on with four wooden twigs. Next, put the stuffed heart upon an iron trivet in a baking dish, containing peeled potatoes, two ounces of dripping or butter, and half a pint of water; season well with pepper and salt, and while baking let the heart be frequently basted with the fat from the dish. In case you have no oven, send it to the baker\u0027s.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    }
+  ],
+  "title": "Stuffed Heart",
+  "usedSnapshot": "20210518212137"
+}

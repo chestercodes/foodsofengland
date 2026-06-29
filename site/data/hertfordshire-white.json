@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20150922101812",
+  "finalPath": "hertfordshire-white.html",
+  "heading": "Hertfordshire White",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Muffins",
+      "relatedPageUrl": "muffins.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hertfordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Hertfordshire White",
+  "usedSnapshot": "20220808010557"
+}

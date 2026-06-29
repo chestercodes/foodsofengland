@@ -1,0 +1,53 @@
+﻿{
+  "earliestSnapshot": "20150922080728",
+  "finalPath": "kentish-plover.html",
+  "heading": "Kentish Plover",
+  "ingredients": [
+    "bread",
+    "butter",
+    "eggs",
+    "flour",
+    "gravy",
+    "sheep",
+    "toast",
+    "toasted bread"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "kentish-plover.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETO DRESS PLOVERS.\u003C/b\u003E\u003Cbr\u003E\n1044. INGREDIENTS: 3 plovers, butter, flour, toasted bread.\u003Cbr\u003E\nChoosing and Trussing. - Choose those that feel hard at the vent, as that shows their fatness. There are three sorts, - the grey, green, and bastard plover, or lapwing. They will keep good for some time, but if very stale, the feet will be very dry. Plovers are scarcely fit for anything but roasting; they are, however, sometimes stewed, or made into a rago\u00FBt, but this mode of cooking is not to be recommended.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Pluck off the feathers, wipe the outside of the birds with a damp cloth, and do not draw them; truss with the head under the wing, put them down to a clear fire, and lay slices of moistened toast in the dripping-pan, to catch the trail. Keep them well basted, dredge them lightly with flour a few minutes before they are done, and let them be nicely frothed. Dish them on the toasts, over which the trail should be equally spread. Pour round the toast a little good gravy, and send some to table in a tureen.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 10 minutes to 1/4 hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: 1s. 6d. the brace, if plentiful.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: for 2 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: In perfection from the beginning of September to the end of January.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ETHE PLOVER\u003C/b\u003E. - There are two species of this bird, the grey and the green, the former being larger than the other, and somewhat less than the woodcock. It has generally been classed with those birds which chiefly live in the water; but it would seem only to seek its food there, for many of the species breed upon the loftiest mountains. Immense flights of these birds are to be seen in the Hebrides, and other parts of Scotland; and, in the winter, large numbers are sent to the London market, which is sometimes so much glutted with them that they are sold very cheap. Previous to dressing, they are kept till they have a game flavour; and although their flesh is a favourite with many, it is not universally relished. The green is preferred to the grey, but both are inferior to the woodcock. Their eggs are esteemed as a great delicacy. Birds of this kind are migratory. They arrive in England in April, live with us all the spring and summer, and at the beginning of autumn prepare to take leave by getting together in flocks. It is supposed that they then retire to Spain, and frequent the sheep-walks with which that country abounds.\u003Cbr\u003E\n\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "extinct-and-lost"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Kent"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Kentish Plover",
+  "usedSnapshot": "20220819113035"
+}

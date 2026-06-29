@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20150922074959",
+  "finalPath": "season-pudding.html",
+  "heading": "Season Pudding",
+  "ingredients": [
+    "beat",
+    "bread",
+    "eggs",
+    "geese",
+    "goose",
+    "gravy",
+    "herbs",
+    "milk",
+    "oatmeal",
+    "onion",
+    "onions",
+    "pepper",
+    "pork",
+    "pudding",
+    "puddings",
+    "salt",
+    "suet",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "season-pudding.html-1",
+      "receiptSource": "Original Receipt from the \u0027\u003Ci\u003EYorkshire Post and Leeds Intelligencer\u003C/i\u003E\u0027 - Thursday 03 March 1932",
+      "receiptText": "\u003Cb\u003ESeason Pudding\u003C/b\u003E\u003Cbr\u003E\nSince correspondent asked for the recipe for Season Pudding quite a selection has arrived, recipes, I mean, not puddings. No two are entirely alike. \u0022If you had called here week ago you could have had bit,\u0022 writes a lady from Leeds, \u0022 we always have it with pork, goose, and duck.\u0022 Yes well, am sorry to have missed those three, as well as the pudding. Here\u0027s the recipe, \u0022For six persons\u0022:\u003Cbr\u003E\n\u003Cbr\u003E\nHalf loaf white bread, cut up fine and then pour over pint of hot milk (not boiling), then add 3 large onions (boiled and chopped tine), also 1 teaspoon sage, marjoram, and thyme, also salt and a small amount pepper; add last eggs and 4oz of chopped suet. Beat all well and put in tin with hot dripping (the bottom nicely covered), and bake 1 hours. We like it very brown both top and bottom. When done, cut squares and serve very hot\u003Cbr\u003E\n\u003Cbr\u003E\n\u0022I enclose a recipe which has been constant use in our family all our lives, and can recommend it,\u0022 writes another correspondent. \u0022In the old days when geese and pork were cooked in front the fire, the pudding was baked for half an hour and then placed under the goose for another hah hour;-\u003Cbr\u003E\n\u003Cbr\u003E\nHalf a loaf of stele bread.1 quart of boiling milk, 3oz of chopped suet, 1 teacup of fine oatmeal, 2 tablespoons of boiled sage and onion, and half a raw onion chopped finely, one dessertspoonful of mixed herbs, 2 eggs. and salt taste. Soak the broad (cut up) overnight in the boiling milk and cover the basin; next day beat with fork. Mix in the ingredients one by one, and drop in the eggs separately. Mix well. Put 2oz. of clarified dripping into the Yorkshire pudding tin and place the oven until hot. Pour the pudding mixture and bake for one hour in a moderate oven. Cut into squares and serve with good gravy.\u0022\u003Cbr\u003E\n\u003Cbr\u003E\nEach recipe, you notice, insists iliat the pudding cut into squares. This is probably tribute to Wellington\u0027s men who fought in squares Waterloo, the difference being that those squares were hollow, and these are not.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumbria"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Durham"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Season Pudding",
+  "usedSnapshot": "20211203102616"
+}

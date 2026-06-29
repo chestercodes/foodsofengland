@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150119071010",
+  "finalPath": "everton-mints.html",
+  "heading": "Everton Mints",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Everton Toffee",
+      "relatedPageUrl": "everton-toffee.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Everton Mints",
+  "usedSnapshot": "20180924035414"
+}

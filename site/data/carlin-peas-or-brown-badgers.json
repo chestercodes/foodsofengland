@@ -1,0 +1,74 @@
+﻿{
+  "earliestSnapshot": "20150922094407",
+  "finalPath": "carlin-peas-or-brown-badgers.html",
+  "heading": "Carlin Peas or Brown Badgers",
+  "ingredients": [
+    "beef",
+    "beef dripping",
+    "brown sugar",
+    "butter",
+    "peas",
+    "pepper",
+    "salt",
+    "soft brown sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "carlin-peas-or-brown-badgers.html-1",
+      "receiptSource": "Original Receipt adapted from Ken Bentley Speciality Foods, \u0027The Carlin Pea King\u0027, Driffield",
+      "receiptText": "\u003Cb\u003EINGREDIENTS\u003C/b\u003E\u003Cbr\u003E\n\u00BDlb (200g) carlin peas\u003Cbr\u003E\nPinch of salt\u003Cbr\u003E\n1oz (25g) of beef dripping (or butter)\u003Cbr\u003E\nSome soft brown sugar (optional and not usually used in the North East)\u003Cbr\u003E\nA splash of rum (optional)\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECOOKING INSTRUCTIONS\u003C/b\u003E\u003Cbr\u003E\nSoak the carlin peas in cold water overnight. Drain and put them in a saucepan of boiling water with salt. Boil for approximately 20 minutes, or until cooked but not overdone or mushy.\u003Cbr\u003E\n\u003Cbr\u003E\nMelt the beef dripping (or butter) in a frying pan, drain the carlins and then add them to the pan and fry for two to three minutes.\u003Cbr\u003E\nServe hot with salt and pepper. Or you can leave them to cool for a tasty nibble later. Alternatively, while still hot, you can add the brown sugar and a drop or rum.\u003Cbr\u003E\n\u003Cbr\u003E\nCarlin Sunday is followed by farting Monday, according to East Yorkshire folk lore\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EParched Peas\u003C/b\u003E",
+      "relatedPageUrl": "parched-peas.html",
+      "relationDescription": "For alternative traditions using maple peas, see "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ECarlin Fries\u003C/b\u003E",
+      "relatedPageUrl": "carling-fries.html",
+      "relationDescription": "For alternative traditions using maple peas, see "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGrey Peas\u003C/b\u003E",
+      "relatedPageUrl": "grey-peas-and-bacon.html",
+      "relationDescription": "For alternative traditions using maple peas, see "
+    }
+  ],
+  "synonym": "\u003Cb\u003ECarling Peas\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North East"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lincolnshire"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Nottingham"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "oed"
+    }
+  ],
+  "title": "Carlin Peas or Brown Badgers",
+  "usedSnapshot": "20210410110440"
+}

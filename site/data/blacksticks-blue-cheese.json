@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616085230",
+  "finalPath": "blacksticks-blue-cheese.html",
+  "heading": "Blacksticks Blue Cheese",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Blacksticks Blue Cheese",
+  "usedSnapshot": "20211201004836"
+}

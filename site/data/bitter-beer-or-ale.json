@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130619233312",
+  "finalPath": "bitter-beer-or-ale.html",
+  "heading": "Bitter Beer or Ale",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bitter Beer or Ale",
+  "usedSnapshot": "20211201034658"
+}

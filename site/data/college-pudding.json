@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150922083227",
+  "finalPath": "college-pudding.html",
+  "heading": "College Pudding",
+  "ingredients": [
+    "brandy",
+    "currants",
+    "egg",
+    "eggs",
+    "fat",
+    "milk",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "suet",
+    "sugar",
+    "butter",
+    "goose",
+    "orange",
+    "puddings"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "college-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E382. College Pudding.-\u003C/b\u003E Put half a pound of crumbs into a basin, a quarter of a pound of chopped suet, the same of currants, two eggs, two ounces of sugar, a little nutmeg and salt, and a little milk; mix all together, make round balls, egg-crumb, and fry in hot fat till a nice colour; dish up with sugar over a glass of brandy or rum in it is exceedingly good.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "college-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ECollege Puddings.\u003C/b\u003E\u003Cbr\u003E\n914. Grate the crumb of a twopenny loaf, shred eight ounces of suet, and mix with eight ounces of currants, one of citron minced fine, one of orange, a handful of sugar, half a nutmeg, three eggs beaten, yolk and white separately, and a glass of brandy. Mix, and make into the size and shape of a goose-egg. Put half a pound of butter into a frying-pan, and, when melted and quite hot, fry them gently in it over a stove; turn them two or three times till of a fine light brown. Serve with \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003Epudding sauce\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "New College Pudding",
+      "relatedPageUrl": "new-college-pudding.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "College Pudding",
+  "usedSnapshot": "20220808021450"
+}

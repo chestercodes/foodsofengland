@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130324051001",
+  "finalPath": "cavalier-s-broil.html",
+  "heading": "Cavalier\u0027s Broil",
+  "ingredients": [
+    "cayenne",
+    "fat",
+    "gravy",
+    "mushrooms",
+    "mutton",
+    "pepper",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cavalier-s-broil.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EThe Cavalier\u0027s Broil.\u003C/b\u003E\u003Cbr\u003E\nHalf roast or stew, or parboil, a small, or moderate-sized shoulder of mutton; lift it into a hot dish, score it on both sides down to the bone, season it well with fine salt and cayenne or pepper, and finish cooking it upon the gridiron over a brisk fire. Skim the fat from any gravy that may nave flowed from it, and keep the dish which contains it quite hot to receive the joint again. Warm a cupful of pickled mushrooms, let a part of them be minced, and strew them over the broil when it is ready to be served; arrange the remainder round it, and send it instantly to table. The reader will scarcely need to be told that this is an excellent dish\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Cavalier\u0027s Broil",
+  "usedSnapshot": "20220808004444"
+}

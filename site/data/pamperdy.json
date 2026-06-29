@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20130323063450",
+  "finalPath": "pamperdy.html",
+  "heading": "Pamperdy",
+  "ingredients": [
+    "beat",
+    "bread",
+    "butter",
+    "cinnamon",
+    "eggs",
+    "nutmeg",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pamperdy.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECountrey Contentments, or, The English Hus-wife\u003C/i\u003E\u0027 by Gervase Markham, 1615 (\u003Ca href=\u0022references.html#markham-1615\u0022\u003E\u003Cb\u003EMarkham 1615\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make the best Pamperdy,\u003C/b\u003E Take a dozen Eggs, and break them, and beat them very well; then put unto them Cloves, Mace, Cinnamon, Nutmeg and good store of Sugar, with as much Salt as shall season it: then take a Manchet, and cut it into thick slices like Toasts; which done, take your Frying-pan, and put into it good store of sweet butter, and being mlted, lay in your slices of bread, then pour upon them one half of your Eggs, then when it is fryed, with a dish turn your slices of bread upward, and then pour on them the other half of your Eggs, and so turn them till both sides be brown; then dish it up, and serve it with Sugar strewed upon it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPoor Knights\u003C/b\u003E",
+      "relatedPageUrl": "poor-knights-of-windsor.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFrench Toast\u003C/b\u003E",
+      "relatedPageUrl": "frenchtoast(1).htm",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EMeselade\u003C/b\u003E",
+      "relatedPageUrl": "meselade.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "markham-1615"
+    }
+  ],
+  "title": "Pamperdy",
+  "usedSnapshot": "20220516223239"
+}

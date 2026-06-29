@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922080802",
+  "finalPath": "chamberlain-s-soup.html",
+  "heading": "Chamberlain\u0027s Soup",
+  "ingredients": [
+    "ale",
+    "cinnamon",
+    "ginger",
+    "sugar",
+    "toast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "chamberlain-s-soup.html-1",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESoupes Jamberlayne.\u003C/b\u003E Take wine, cinnamon, an powder of ginger, an sugar, an of eche a porcyoun, than take a strainer \u0026 hange it on a pynne, an caste ale thereto, an let renne twyis or thryis throgh, tyl it renne clere; an then take \u003Ca href=\u0022pandemain.html\u0022\u003E\u003Cb\u003Epaynemaynne\u003C/b\u003E\u003C/a\u003E an kyt it in maner of brewes, an toast it, an wete it in the same lycowre, an lay it on a dish, an caste \u003Ca href=\u0022spice-powders.html\u0022\u003E\u003Cb\u003Eblawnche powder\u003C/b\u003E\u003C/a\u003E y-now ther-on; an than caste the same lycour up-on the same soppys, an serve them forth in maner of a potage.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Chamberlain\u0027s Soup",
+  "usedSnapshot": "20220815163557"
+}

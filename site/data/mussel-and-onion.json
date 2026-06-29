@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20140616081026",
+  "finalPath": "mussel-and-onion.html",
+  "heading": "Mussel and Onion",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "flour",
+    "milk",
+    "mussels",
+    "onion",
+    "onions",
+    "parsley",
+    "white wine",
+    "wholemeal flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mussel-and-onion.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Mussel%20and%20Onion\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMussel and Onion Stew\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n2 lb fresh mussels\u003Cbr\u003E\n21/4 pint dry white wine\u003Cbr\u003E\n2 oz butter\u003Cbr\u003E\n2 large onions, skinned and chopped\u003Cbr\u003E\n2 oz plain wholemeal flour\u003Cbr\u003E\n21/2 pint fresh milk\u003Cbr\u003E\n2 tbsp chopped fresh parsley\u003Cbr\u003E\n2 tbsp fresh single cream\u003Cbr\u003E\nmethod\u003Cbr\u003E\n1. To prepare the mussels, wash them thoroughly under running cold water, then scrape off any barnacles with a small sharp knife. Cut off the fibrous beards that protrude from between the shells. Wash in several changes of water. Discard any that are cracked or do not close when tapped sharply with a knife.\u003Cbr\u003E\n2. Put the wine in a large saucepan and bring to the boil. Add the mussels, cover and cook over a high heat for3-4 minutes or until the mussels open, shaking the pan occasionally. Discard any mussels that have not opened.\u003Cbr\u003E\n3. Drain the mussels, reserving the juice. Remove mussels from the shells.\u003Cbr\u003E\n4. Melt the butter in a saucepan and lightly fry the onions for about 5 minutes, until soft but not coloured. Stir in the flour and cook for a minute.\u003Cbr\u003E\n5. Gradually add the milk and the mussel cooking liquid, stirring, until the sauce thickens, boils and is smooth. Simmer for 1 - 2 minutes.\u003Cbr\u003E\n6. Return mussels to the pan with the parsley and cream. Reheat gently. Serve with crusty bread\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Westcountry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Mussel and Onion",
+  "usedSnapshot": "20211130233302"
+}

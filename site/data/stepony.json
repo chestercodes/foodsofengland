@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922100459",
+  "finalPath": "stepony.html",
+  "heading": "Stepony",
+  "ingredients": [
+    "raisins",
+    "sugar",
+    "beat",
+    "rosewater"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "stepony.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Stepony.\u003C/b\u003E Take a gallon of Conduit-water, one pound of blue Raisins of the Sun stoned, and half a pound of Sugar. Squeeze the juyce of two Limons upon the Raisins and Sugar, and slice the rhinds upon them. Boil the water, and pour it so hot upon the ingredients in an earthen pot, and stir them well together. So let it stand twenty four hours. Then put it into bottle (having first let it run through a strainer) and set them in a Cellar or other cool place.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "stepony.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Queens Delight in The Art of Preserving, Conserving and Candying\u003C/i\u003E\u0027, by WM, 1671 (\u003Ca href=\u0022references.html#wm-1671\u0022\u003E\u003Cb\u003EWM 1671\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "55. To make Raisin Wine or Stepony.\u003Cbr\u003E\n\u003Cbr\u003E\nTake four Gallons of Spring-water, four pounds of Raisins of the Sun stoned, the juice of four good Limons, and the Rind of two cut thin, boil the Raisins, and Pill in the Water for half an hour or more, then put in the juice of Limon, and a little Spice, Sugar and Rosewater, and let it stand but a little more over the fire; then put it into an earthen pot, and beat it together till it be cold, then bottle it up, it will keep but a few days.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "wm-1671"
+    }
+  ],
+  "title": "Stepony",
+  "usedSnapshot": "20220808004600"
+}

@@ -1,0 +1,28 @@
+﻿{
+  "earliestSnapshot": "20150922084930",
+  "finalPath": "laver.html",
+  "heading": "Laver",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Laver Pickle",
+      "relatedPageUrl": "laver-pickle.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Laver",
+  "usedSnapshot": "20170314030010"
+}

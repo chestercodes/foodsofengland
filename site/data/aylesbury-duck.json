@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922072213",
+  "finalPath": "aylesbury-duck.html",
+  "heading": "Aylesbury Duck",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGoosnargh Duck\u003C/b\u003E",
+      "relatedPageUrl": "goosnargh-duck.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Buckinghamshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Aylesbury Duck",
+  "usedSnapshot": "20170314021455"
+}

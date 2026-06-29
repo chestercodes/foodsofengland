@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150922133340",
+  "finalPath": "cider-herefordshire.html",
+  "heading": "Cider (Herefordshire)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "eu-protected-name"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Herefordshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider (Herefordshire)",
+  "usedSnapshot": "20211205173656"
+}

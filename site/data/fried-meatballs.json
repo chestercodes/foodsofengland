@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20130323195919",
+  "finalPath": "fried-meatballs.html",
+  "heading": "Fried Meatballs",
+  "ingredients": [
+    "beef",
+    "bread",
+    "butter",
+    "eggs",
+    "nutmeg",
+    "rosewater",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-meatballs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA True Gentlewomans Delight\u003C/i\u003E\u0027 by \u0027WJ\u0027, 1653 (\u003Ca href=\u0022references.html#gent-delight-1653\u0022\u003E\u003Cb\u003EGent.Delight 1653\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "Take any cold meat and shred it small, a little Cloves and Mace, and Nutmeg, and two yolks of Eggs, a spoonful or two of Rosewater, a little grated bread, a little Beef suet shred small, make it up into balls or any fashion you please, and boyl them in fried suet between two earthen dishes, your suet must boil before you put in your meat; for sauce, a little Butter, Verjuyce, and Sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gent-delight-1653"
+    }
+  ],
+  "title": "Fried Meatballs",
+  "usedSnapshot": "20211201035323"
+}

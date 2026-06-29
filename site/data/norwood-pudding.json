@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922085825",
+  "finalPath": "norwood-pudding.html",
+  "heading": "Norwood Pudding",
+  "ingredients": [
+    "almonds",
+    "apple",
+    "beef",
+    "brandy",
+    "butter",
+    "custard",
+    "egg",
+    "marmalade",
+    "milk",
+    "pudding",
+    "suet",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "norwood-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003ELittle dinners, how to serve them with elegance and economy\u003C/i\u003E\u0027 (1874) by Mary Hooper",
+      "receiptText": "\u003Cb\u003ENorwood Pudding.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nButter a tart-dish. Cut the crumb of a stale French roll into thin slices, and over each spread a layer of the following mixture: - An ounce of finely sliced beef-suet, half an ounce of bruised candy peel, chopped almost to dust, three tablespoonfuls of apple marmalade, or of baked apples sweetened, and four bitter almonds pounded; mix all well together. Having arranged the slices of roll neatly in the dish, pour over a custard made of an egg and half a pint of milk (see remarks on pudding making), sweetened and flavoured with brandy of Cura\u00E7ao. Let the pudding bake in a slow oven for two hours, turn it out of the dish, and sift white sugar over it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Norwood Pudding",
+  "usedSnapshot": "20211019182916"
+}

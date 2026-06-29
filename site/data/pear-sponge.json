@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922072021",
+  "finalPath": "pear-sponge.html",
+  "heading": "Pear Sponge",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Pear Sponge",
+  "usedSnapshot": "20211027035618"
+}

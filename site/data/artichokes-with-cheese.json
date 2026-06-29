@@ -1,0 +1,39 @@
+﻿{
+  "earliestSnapshot": "20140616082624",
+  "finalPath": "artichokes-with-cheese.html",
+  "heading": "Artichokes with Cheese",
+  "ingredients": [
+    "artichokes",
+    "cheese",
+    "jerusalem artichokes",
+    "milk",
+    "onion",
+    "onions"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "artichokes-with-cheese.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "230. ARTICHOKES WITH CHEESE (Surrey), Boil two pounds of Jerusalem artichokes, drain, and mash them up with one gill of milk. (Mashed cooked onions are an improvement: and yesterday\u0027s onion sauce is an admirable substitute for milk.) Turn the mixture into a well-buttered baking dish, dust the top well with grated cheese, and bake till the top becomes coloured.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Artichokes with Cheese",
+  "usedSnapshot": "20211201010616"
+}

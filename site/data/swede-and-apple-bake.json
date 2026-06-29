@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922074427",
+  "finalPath": "swede-and-apple-bake.html",
+  "heading": "Swede and Apple Bake",
+  "ingredients": [
+    "apple",
+    "bread",
+    "breadcrumbs",
+    "butter",
+    "cheddar",
+    "cheese",
+    "onion",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "swede-and-apple-bake.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Swede%20and%20Apple%20Bake\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ESwede and Apple Bake\u003C/b\u003E\u003Cbr\u003E\nA nice accompaniment to roast pork or a supper dish served with crusty bread\u003Cbr\u003E\n\u003Cbr\u003E\n4oz butter\u003Cbr\u003E\n1onion peeled and diced\u003Cbr\u003E\n1lb swede, peeled and sliced into small cubes\u003Cbr\u003E\n2 cooking apples, peeled cored and sliced\u003Cbr\u003E\nsalt and pepper\u003Cbr\u003E\n2oz. fresh breadcrumbs\u003Cbr\u003E\n2oz grated cheddar cheese\u003Cbr\u003E\n\u003Cbr\u003E\nMelt 2oz butter in a saucepan and cook the onion ge ntly until soft. Arrange the onion, swede and apple pieces in layers in a greased ovenproof dish, season between each layer a nd dot with remaining butter.\u003Cbr\u003E\n\u003Cbr\u003E\nMix together the breadcrumbs and grated cheese tog ether and spread over the apple mixture in the dish. Cover wi th foil and bake for 1hour in a moderate oven. Remove the cover and continue to cook until the topping is crisp and gol den. Serve hot.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Swede and Apple Bake",
+  "usedSnapshot": "20220527214817"
+}

@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922085653",
+  "finalPath": "pickled-mussels.html",
+  "heading": "Pickled Mussels",
+  "ingredients": [
+    "fat",
+    "mussels",
+    "oysters",
+    "salt",
+    "shell-fish"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "pickled-mussels.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "At this Season, Cyders, Mussels, Cockles, and such kind of Shell-Fish are good and in Season; as for the Oyster, it is not only to be eaten raw, but makes an agreeable Dish stew\u0027d, or in Scallop-Shells; and besides, being useful in many Sauces, are extremely good when they are well pickled. Altho\u0027 the Oyster may seem foreign to a Farm, or some part of the Country, yet considering that we live in a part of the World surounded with a Sea that produces the best Oysters, and that they are a sort of Shell-Fish which we can keep a long time, and feed them, I think it necessary to take notice of them. About Colchester the Oyster-Pits are only small Holes about twelve foot square, by the side of the River, where the salt Water comes up, and has a passage into them at the height of the Tides; in these places the Oysters are laid, and there grow fat, and become green, by a sort of Weed which is called Crow-Silk: and this may be done any where, if there is a River with salt Water, as well as by Colchester, and be kept two or three Months; so that I wonder \u0027tis not practised in other places. But if we have not this conveniency, yet if we lay them in Salt and Water after the Shells are well wash\u0027d, just when they come from the Sea, they will keep a Fortnight in pretty good order, if the Weather be cool, and they can have the open Air; but then the Salt and Water should be changed every four and twenty hours. The following Receipts are very good for preparing them for the Table.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Pickled Mussels",
+  "usedSnapshot": "20211207114638"
+}

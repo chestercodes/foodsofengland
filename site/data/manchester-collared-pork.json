@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20130324050612",
+  "finalPath": "manchester-collared-pork.html",
+  "heading": "Manchester Collared Pork",
+  "ingredients": [
+    "fat",
+    "pepper",
+    "pork",
+    "salt",
+    "vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "manchester-collared-pork.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EMOCK BRAWN.\u003C/b\u003E\u003Cbr\u003E\nSplit and nicely clean a hog\u0027s head, take out the brains, cut off the ears, and rub a good deal of Salt into the head; let it drain twenty-four hours; then lay upon it two ounces of saltpetre, ,and the same of common salt: in three days\u0027 time lay the head and salt into a pan, with just water to cover it, for two dayB more.\u003Cbr\u003E\nWash it well; and boil until the bones will come out; remove them, and chop the meat as quick as possible, in pieces of an inch long; but first take the skin carefully off the head and the tongue, the latter cut in bits as above. Season with pepper and salt . Put the skin of one side of the head into a small long pan, press the chopped head and tongue into it, and lay the skin of the other side of the head over, and press it down. When cold it will turn out, and make a kind of brawn. The head may probably be too fat, in which case prepare a few bits of lean pork with the head. Boil two ounces of salt, a pint of vinegar, and a quart of the liquor, and, when cold, pour it over the head. The ears are to be boiled longer than the head, cut in thin strips, and divided about it, the hair being nicely removed. Reboil the pickle often.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "hutchins-1967"
+    }
+  ],
+  "title": "Manchester Collared Pork",
+  "usedSnapshot": "20220819105510"
+}

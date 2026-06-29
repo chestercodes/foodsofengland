@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140616082301",
+  "finalPath": "mussel-pudding.html",
+  "heading": "Mussel Pudding",
+  "ingredients": [
+    "beef",
+    "flour",
+    "mussels",
+    "pepper",
+    "pudding",
+    "salt",
+    "shallot",
+    "steak",
+    "suet"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mussel-pudding.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Mussel%20Pudding\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EBEEF OR MUSSEL PUDDING COOKED IN PAPER\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nCrust: \u00BD lb (250g) Self Raising flour\u003Cbr\u003E\n3 oz (85g) finely-chopped suet; pinch salt water.\u003Cbr\u003E\n\u003Cbr\u003E\nFor beef: \u00BE lb (725g) stewing steak\u003Cbr\u003E\n1 shallot, pepper, salt, a little water.\u003Cbr\u003E\n\u003Cbr\u003E\nFor mussels: mussels, pepper salt.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod 1: Make the suet crust. If using beef, cut up the meat and shallot and season. Roll out the suet crust and lift it onto a piece of greased greaseproof paper. Put the meat and a very little water on this, tie up in a cloth, and steam for 3 \u00BD hours.\u003Cbr\u003E\n\u003Cbr\u003E\nMethod 2: With mussels. Make the suet crust, roll out and put on the paper as in Method 1. Wash the mussels very well and remove bears. Put them in a pan on the stove- a very low heat so that the pan will not burn - and they will open almost immediately. Scoop them out onto the dough, season, wrap up as in method 1, and steam for 1 \u00BD hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Mussel Pudding",
+  "usedSnapshot": "20211207123136"
+}

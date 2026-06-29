@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922074232",
+  "finalPath": "lettuce-or-mallow-suckets.html",
+  "heading": "Lettuce or Mallow Suckets",
+  "ingredients": [
+    "lettuce",
+    "rose-water",
+    "sugar",
+    "walnuts"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "lettuce-or-mallow-suckets.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#plat-1609\u0022\u003E\u003Cb\u003EPlat 1609\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E32. To make sucket of Lettuce stalks\u003C/b\u003E\u003Cbr\u003E\nTake Lettuce stalks, and pill away the outerside: then parboile them in faire water: then let them stand all night dry: then take halfe a pint of the same liquor, and a quarter of a pint of Rose-water, and so boyle it to sirup: and when your sirup is betwixt hot and cold, put in your aforesaid roots, and let them stand all night in your sirup to make them take sugar, and then the next day your sirup will bee wake again: then boile it again, and take out your roots. In the like sort may you keepe Orenge pils, or greene Walnuts, or any thing that hath the bitterness first taken from it, by boiling in water.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "lettuce-or-mallow-suckets.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Closet Of Sir Kenelm Digby Knight, Opened\u003C/i\u003E \u0027 (\u003Ca href=\u0022references.html#digby-1669\u0022\u003E\u003Cb\u003EDigby 1669\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESUCKET OF MALLOW STALKS\u003C/b\u003E\u003Cbr\u003E\nTo candy or preserve the tender stalks of Mallows, do thus; Take them in the spring, when they are very young and tender; and peel off the strings that are round about the outside, as you do French-beans, and boil them, till they are very tender. In the mean time prepare a high Syrup of pure Sugar, and put the boiled stalkes into it, whiles it is boiling hot, but taken from the fire. Let them lie soaking there till the next morning. Then take out the stalks, and heat the Syrup again, scalding hot, and return the stalks into it, letting them lie there till next morning; (Note, that the stalks must never boil in the Syrup,) Repeat this six, or eight, or nine times, that is to say, till they are sufficiently Imbibed with the Syrup. When they are at this pass, you may either keep them as a wet sucket in Syrup, or dry them in a stove upon Papers, turning them continually, in such sort as dried sweet-meats are to be made. I like them best dry, but soft and moist within (Medullosi) like Candied Eryngos. In Italy they eat much of them, for sharpness and heat of Urine, and in Gonorrh\u0153a\u0027s to take away pain in Urining.\u003Cbr\u003E\nA Sucket is made in like manner of the Carneous substance of stalks of Lettice. It is the knob, out of which the Lettice groweth, which being pared, and all the tough rind being taken off, is very tender and so it is a pretty way downwards the root. This also is very cooling and smoothing.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "plat-1609"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "digby-1669"
+    }
+  ],
+  "title": "Lettuce or Mallow Suckets",
+  "usedSnapshot": "20220517184302"
+}

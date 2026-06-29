@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20140212030528",
+  "finalPath": "flap-jack.html",
+  "heading": "Flap Jack",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFlapjack\u003C/b\u003E",
+      "relatedPageUrl": "flapjacks.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Sussex"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Flap Jack",
+  "usedSnapshot": "20211129123004"
+}

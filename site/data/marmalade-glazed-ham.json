@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20130323203605",
+  "finalPath": "marmalade-glazed-ham.html",
+  "heading": "Marmalade Glazed Ham",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Marmalade Glazed Ham",
+  "usedSnapshot": "20211020232522"
+}

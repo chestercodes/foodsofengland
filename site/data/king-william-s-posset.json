@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922094120",
+  "finalPath": "king-william-s-posset.html",
+  "heading": "King William\u0027s Posset",
+  "ingredients": [
+    "ale",
+    "beat",
+    "bread",
+    "cream",
+    "eggs",
+    "milk",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "king-william-s-posset.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "ALE POSSET. Beat up the yolks of ten eggs, and the whites of four; then put them into a quart of cream, mixed with a pint of ale. Grate some nutmeg into it, sweeten it with sugar, set it on the fire, and keep it stirring. When it is thick, and before it boils, take it off, and pour it into a china bason. This is called King William\u0027s Posset. A very good one may however be made by warming a pint of milk, with a bit of white bread in it, and then warming a pint of ale with a little sugar and nutmeg. When the milk boils, pour it upon the ale; let it stand a few minutes to clear, and it will make a fine cordial.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "King William\u0027s Posset",
+  "usedSnapshot": "20211027024402"
+}

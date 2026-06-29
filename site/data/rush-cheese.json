@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20140616090355",
+  "finalPath": "rush-cheese.html",
+  "heading": "Rush Cheese",
+  "ingredients": [
+    "cheese",
+    "cream",
+    "milk",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "rush-cheese.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E61. The fine RUSH CHEESE.\u003C/b\u003E\u003Cbr\u003E\nTake one quart of cream, and put to it a gallon of new milk, pretty warm, adding a good spoonful of earning; stir in a little salt, and set it before the fire till it be cum\u0027d; then put it into a vat in a cloth; after a day and night turn it out of the vat into a rush box nine inches in length and five in breadth. The rushes must be wash\u0027d every time the cheese is turn\u0027d.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Rush Cheese",
+  "usedSnapshot": "20220527211318"
+}

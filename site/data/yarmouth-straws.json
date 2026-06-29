@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20140616085204",
+  "finalPath": "yarmouth-straws.html",
+  "heading": "Yarmouth Straws",
+  "ingredients": [
+    "cayenne",
+    "cheese",
+    "egg",
+    "parmesan",
+    "parmesan cheese",
+    "pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yarmouth-straws.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELady Young\u0027s Cookery Book\u003C/i\u003E\u0027, 1900",
+      "receiptText": "\u003Cb\u003EYarmouth Straws.\u003C/b\u003E\u003Cbr\u003E\n2 oz. cheeese pastry\u003Cbr\u003E\n4 oz. kipper\u003Cbr\u003E\n1 teaspoon parmesan cheese\u003Cbr\u003E\nBeaten egg\u003Cbr\u003E\nCayenne\u003Cbr\u003E\n\u003Cbr\u003E\nRoll pastry into a strip. Brush half with egg. Cover with sliced kipper and cayenne. Sandwich with remaining half of pastry. Brush with egg and sprinkle thuckly with grated cheese. Cut in finger strips and bake for about 15-20 minutes at 420 deg F (regulo No. 6) till brown and crisp. Serve hot or cold. (14 Savouries)\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norfolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Yarmouth Straws",
+  "usedSnapshot": "20220819112940"
+}

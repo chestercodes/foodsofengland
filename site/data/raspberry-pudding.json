@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20140212021042",
+  "finalPath": "raspberry-pudding.html",
+  "heading": "Raspberry Pudding",
+  "ingredients": [
+    "beat",
+    "biscuit",
+    "biscuits",
+    "cream",
+    "eggs",
+    "flour",
+    "pudding",
+    "raspberries",
+    "raspberry",
+    "sugar",
+    "baking powder",
+    "bread",
+    "butter",
+    "castor sugar",
+    "jam"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "raspberry-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make a Raspberry- Pudding. From the same. [From Mrs. MN]\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake a Pint of Cream, and grate into it four Penny Naples Biscuits; then take the Yolks of eight hard Eggs chopt and broken small; then beat four Eggs and put in two spoonfuls of Flour, and as much Powder of double-refined Sugar; then put in as much Syrup of Raspberries as you think proper to give it a Flavour and a Colour. If you find that your Composition is not thick enough, you may grate in more Naples Biscuit. Mix all this well together, and, if you will, make a fine Crust roll\u0027d thin and laid in a Dish, and bake it in a gentle Oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "raspberry-pudding.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EPot-luck; or, The British home cookery book\u003C/i\u003E\u0027 by May Byron (\u003Ca href=\u0022references.html#byron-1914\u0022\u003E\u003Cb\u003EByron 1914\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "608. RASPBERRY PUDDING (Hampshire) Two eggs, their weight in butter and castor sugar, the weight of three eggs in flour, two tablespoonfuls raspberry jam, half a teaspoonful carbonate of soda. Put the soda in the flour dry, rub in the butter, add the sugar, jam, and eggs. Mix, put in buttered basin, steam or boil for two hours.\u003Cbr\u003E\n\u003Cbr\u003E\n509. RASPBERRY PUDDING (Hertfordshire) Half a pound of bread crumbs, a quarter of a pound of butter (creamed), a quarter of a pound of sugar, one tablespoonful flour, four tablespoonfuls raspberry jam, half a teaspoonful baking powder, two eggs. Mix all thoroughly and put into a mould, and steam for two hours.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "byron-1914"
+    }
+  ],
+  "title": "Raspberry Pudding",
+  "usedSnapshot": "20210518201536"
+}

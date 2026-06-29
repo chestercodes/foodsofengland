@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150514180529",
+  "finalPath": "isle-of-wight-pudding.html",
+  "heading": "Isle of Wight Pudding",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "baking powder",
+    "beat",
+    "butter",
+    "cherries",
+    "cream",
+    "eggs",
+    "flour",
+    "lemon",
+    "pudding",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "isle-of-wight-pudding.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EDundee Courier\u003C/i\u003E\u0027 - Saturday 4 June 1898",
+      "receiptText": "\u003Cb\u003EIsle of Wight Pudding.\u003C/b\u003E- Three ounces of butter, quarter-pound of flour, half teaspoonful of baking powder, one ounce of dried cherries three ounces of sugar, three eggs, three ounces of almonds, one ounce citron. Butter a mould, ornament with cherries and the citron cut into fancy shapes. Beat the butter to a cream, add the sugar, beat eggs, add them and the flour alternately to butter and sugar, add baking powder, and almonds blanched and shredded; beat all well together, put the mixture into the mould, cover with a greased paper. Steam. Serve with lemon sauce.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Isle of Wight"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Isle of Wight Pudding",
+  "usedSnapshot": "20220527224135"
+}

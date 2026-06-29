@@ -1,0 +1,67 @@
+﻿{
+  "earliestSnapshot": "20150524213852",
+  "finalPath": "civey-or-cyueye-or-cyne-sauce.html",
+  "heading": "Civey (or Cyueye or Cyne) Sauce",
+  "ingredients": [
+    "cinnamon",
+    "currants",
+    "ginger",
+    "pepper",
+    "raisins",
+    "salt",
+    "sugar",
+    "ale",
+    "bread",
+    "haddok",
+    "onions",
+    "saffron",
+    "vynegre"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "civey-or-cyueye-or-cyne-sauce.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETENCHES IN CYNEE.\u003C/b\u003E\u003Cbr\u003E\nTake tenches and smite them to pieces, fry them, draw a lyour of raisins currants witth wine and water, do thereto hole raisins \u0026 powder of ginger of cloves of cinnamon of pepper do the tenches thereto \u0026 seethe them with sugar cypre \u0026 salt. \u0026 present forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "civey-or-cyueye-or-cyne-sauce.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EHaddoke in Cyuee.\u003C/b\u003E Shal be yopened \u0026 ywash clean \u0026 ysode \u0026 yrosted on a gridel; grind peper \u0026 saffron, bred \u0026 ale mince onions, fri them in ale, \u0026 do therto, and salt: boille it, do thyn haddok in plateres, \u0026 thi ciuey aboue, \u0026 if forth.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EHarys in Cyueye.\u003C/b\u003E Take harys, \u0026 flay them, \u0026 make them clean, an hacke them in gobettys, \u0026 seethe them in water \u0026 salt a lytylle; than take pepper, an saffron, an bread, y-grounde y-fere, \u0026 temper it with ale; than take oynonys \u0026 percely, y-mynced small to-gederys, \u0026 seethe them be them self, \u0026 afterward take \u0026 do thereto a porcyon of vynegre, \u0026 dresse in.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "liber-cure-1430"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Civey (or Cyueye or Cyne) Sauce",
+  "usedSnapshot": "20220527222611"
+}

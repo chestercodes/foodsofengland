@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20140212020955",
+  "finalPath": "felixstowe-tart.html",
+  "heading": "Felixstowe Tart",
+  "ingredients": [
+    "baking powder",
+    "beat",
+    "butter",
+    "cornflour",
+    "egg",
+    "flour",
+    "jam",
+    "lard",
+    "milk",
+    "sugar",
+    "biscuit",
+    "caster sugar",
+    "egg white",
+    "pastry",
+    "plain flour",
+    "raspberry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "felixstowe-tart.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECanterbury Journal, Kentish Times and Farmers\u0027 Gazette\u003C/i\u003E\u0027 - Saturday 31 December 1892",
+      "receiptText": "\u003Cb\u003EFelixstowe Tart.\u003C/b\u003E- Mix 4oz. of cornflour with 4oz. of common flour, small teaspoonful of baking powder, and a tablespoonful of powdered white sugar. Now rub in 3oz of butter or lard; beat the yolk an egg with quarter of pint of milk, and stir it in. Knead the mass up into a light dough; roll it out to a round piece, and fit it on well-greased dinnerplate or round dish. Roll up about an inch all round the edge of the paste, and crimp it with finger and thumb. Bake in a hot oven till of a golden colour. Then nearly fill it with stewed fruit or jam, and pour over it the white of egg beaten up to stiff snow with two tablespoonfuls of powdered white sugar. Put the whole into a moderately-heated oven or before the fire till it has set and become of golden colour. \u201CTasty Tit-Bits and Dishes Dainty.\u201D Lady Constance Howard. (London: The Record Press.)\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "felixstowe-tart.html-2",
+      "receiptSource": "Original Receipt from Neil Lanham\u0027s oral history resource at \u003Ca href=\u0022http://www.traditionsofsuffolk.com\u0022\u003E\u003Cb\u003Ehttp://www.traditionsofsuffolk.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EFelixstowe tart recipe\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n110g (4oz) cornflour\u003Cbr\u003E\n110g (4oz) plain flour\u003Cbr\u003E\n1 tsp of baking powder\u003Cbr\u003E\n1 tbsp of caster sugar\u003Cbr\u003E\n75g (30z) butter\u003Cbr\u003E\n1 egg, beaten\u003Cbr\u003E\nApprox. 2 tbsp milk Raspberry jam (the best)\u003Cbr\u003E\n\u003Ci\u003ETopping\u003C/i\u003E\u003Cbr\u003E\n1 egg white, beaten\u003Cbr\u003E\n2 tbsp caster sugar\u003Cbr\u003E\n\u003Cbr\u003E\nSift the flours and the baking powder into a large bowl, add the sugar and rub in the butter. Add the egg and milk and mix together until you have a dough.\u003Cbr\u003E\nThen on a cold surface, roll out the dough to about the size of a dinner plate.\u003Cbr\u003E\nEmily\u0027s recipe calls for a dinner plate as the cooking dish, so if you\u0027re following this authentically, you\u0027ll need an enamel plate or some sort of oven-proof plate! Grease the plate and lay on the pastry. The edges should be slightly thicker, and crimp the edges with your thumb. Prick the centre of the dough with a fork. Emily baked the pastry until it was \u0027biscuit brown\u0027 in a hot oven, 220\u00B0C (425\u00B0F, gas 7). Remove and allow to cool, then fill with the raspberry jam. Beat the white of egg with the two tablespoons of sugar until stiff \u0027like snow\u0027. Then swirl this over the jam, and scatter with a little more sugar. Return to a cool oven to set.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Felixstowe Tart",
+  "usedSnapshot": "20210510050128"
+}

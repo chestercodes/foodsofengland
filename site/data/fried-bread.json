@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20150922084028",
+  "finalPath": "fried-bread.html",
+  "heading": "Fried Bread",
+  "ingredients": [
+    "butter",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "fried-bread.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E424. To make FRYED TOASTS.\u003C/b\u003E\u003Cbr\u003E\nChip a manchet very well, and cut it round ways in toasts, then take cream and eight eggs seasoned with sack, sugar, and nutmeg, and let these toasts steep in it about an hour, then fry them in sweet butter, serve them up with plain melted butter, or with butter, sack and sugar as you please.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Fried Bread",
+  "usedSnapshot": "20211205165015"
+}

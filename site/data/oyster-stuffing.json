@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922092552",
+  "finalPath": "oyster-stuffing.html",
+  "heading": "Oyster Stuffing",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Oyster Forcemeat",
+      "relatedPageUrl": "oyster-forcemeat.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Oyster Stuffing",
+  "usedSnapshot": "20220527212512"
+}

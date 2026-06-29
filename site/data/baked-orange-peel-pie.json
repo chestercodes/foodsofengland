@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140212020508",
+  "finalPath": "baked-orange-peel-pie.html",
+  "heading": "Baked Orange Peel Pie",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "orange",
+    "rosewater",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "baked-orange-peel-pie.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#huswife-1594\u0022\u003E\u003Cb\u003EHuswife 1594\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ETo make a tarte of apples and Orange pilles.\u003C/b\u003E\u003Cbr\u003E\nTAke your orenges, and lay them in water a day and a night, then seeth them in faire water and hony, and let them seeth till they be soft: then let them soak in the sirrop a day and a night: then take them forth and cut them small, and then make your tart and season your Apples with Sugar, Synamon and Ginger, and put in a peece of butter, and lay a course of Apples, and betweene the same course of apples, a course of Orenges, and so course by course, and season your Orenges as you seasoned your Apples, with somewhat more sugar, then lay on the lid and put it in the ouen, and when it is almost baked, take Rosewater and Sugar, and boyle them together till it be somwhat thick, then take out the Tart, and take a feather and spread the rosewater and Sugar on the lid, and set it into the Ouen againe, and let the sugar harden on the lid, and let it not burne.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "huswife-1594"
+    }
+  ],
+  "title": "Baked Orange Peel Pie",
+  "usedSnapshot": "20211201023545"
+}

@@ -1,0 +1,35 @@
+﻿{
+  "earliestSnapshot": "20141018002317",
+  "finalPath": "everton-toffee.html",
+  "heading": "Everton Toffee",
+  "ingredients": [
+    "butter",
+    "ginger",
+    "sugar",
+    "toffee",
+    "lemon"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "everton-toffee.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EThe Frugal Cook\u003C/i\u003E By E. Carter, 1851",
+      "receiptText": "\u003Cb\u003EEVERTON TOFFEE:\u003C/b\u003E\u003Cbr\u003E\nBoil half an ounce of bruised ginger in half a pint of water till it obtains the flavour of the ginger; strain it put the liquor into a saucepan add two pounds of sugar and one ounce of butter; let them simmer gently over the fire for some time then take a piece of clean tobacco pipe dip it into cold water, then with it stir the mixture round plunge the pipe into the water, if the sugar adheres to it and becomes crisp pour it into tins which have been buttered ready for use.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "everton-toffee.html-2",
+      "receiptSource": "Original Receipt in \u003Ci\u003EA Treatise on The Art of Boiling Sugar\u003C/i\u003E By Henry Weatherley, 1865;",
+      "receiptText": "\u003Cb\u003EEverton Toffee\u003C/b\u003E:\u003Cbr\u003E\nThis article varies with the different makers some make it with loaf sugar for the sake of color, but it is not so good in flavor, others put the butter in with the sugar when first put on the fire which method possesses no advantage but on the contrary causes loss of time in boiling, weakens the sugar, and spoils the flavor, this however is the old process of making it. The best method is as follows; To 7 lbs of best raw sugar put 3\u00BD pints of water and boil it between the ball and crack or 245 degrees; put into the boil 1 lb fresh butter, boil it nearly to the crack over a slow fire, add a teaspoonful of essence of lemon, just boil it in and pour into the frames. For special purposes 4 to 8 ounces more butter can be used.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Everton Toffee",
+  "usedSnapshot": "20220706161230"
+}

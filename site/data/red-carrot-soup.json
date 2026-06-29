@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922085003",
+  "finalPath": "red-carrot-soup.html",
+  "heading": "Red Carrot Soup",
+  "ingredients": [
+    "carrot",
+    "carrots",
+    "flour",
+    "ham",
+    "milk",
+    "onions",
+    "pepper",
+    "salt",
+    "sugar",
+    "thyme"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "red-carrot-soup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA Shilling Cookery for The People\u003C/i\u003E\u0027 by Alexis Soyer (\u003Ca href=\u0022references.html#soyer-1845\u0022\u003E\u003Cb\u003ESoyer 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003E22. Red Carrot Soup.-\u003C/b\u003E Scrape gently, and cut in very thin slices two pounds of carrots; put them in the saucepan or pot with two onions sliced, two ounces of ham cut small, two cloves, a little thyme, salt, pepper, sugar, as above, half a pint of water, simmer gently forty minutes, then add three tablespoonfuls of flour, and two quarts of broth (No. 1), or use milk, or even water.\u003Cbr\u003E\nIt is much better passed through a hair sieve, after which warm up again and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsoups.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "soups"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    }
+  ],
+  "title": "Red Carrot Soup",
+  "usedSnapshot": "20220527214338"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20211020214843",
+  "finalPath": "manchester-sausage.html",
+  "heading": "Manchester Sausage",
+  "ingredients": [
+    "basil",
+    "fat",
+    "ginger",
+    "nutmeg",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "manchester-sausage.html-1",
+      "receiptSource": "Receipt from \u003Ca href=\u0022https://www.meatsandsausages.com\u0022\u003E\u003Cb\u003Emeatsandsausages.com\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EMANCHESTER SAUSAGE\u003C/b\u003E\u003Cbr\u003E\nPork, lean 750 g 1.55 lb\u003Cbr\u003E\nBack fat or pork fat trimmings 250 g 0.55 lb\u003Cbr\u003E\nIngredients per 1000g (1 kg) of meat\u003Cbr\u003E\nSalt 18 g 3 tsp\u003Cbr\u003E\nWhite pepper 4.0 g 2 tsp\u003Cbr\u003E\nMace 2.0 g 1 tsp\u003Cbr\u003E\nNutmeg 1.0 g 1/2 tsp\u003Cbr\u003E\nCloves 0.5 g 1/4 tsp\u003Cbr\u003E\nGinger 3.0 g 1-1/2 tsp\u003Cbr\u003E\nSage, ground 2.0 g 1 tsp\u003Cbr\u003E\nBasil, rubbed 1.0 g 1 tsp\u003Cbr\u003E\nWater 30 g 1 oz fl\u003Cbr\u003E\n\u003Cb\u003EInstructions\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Grind lean meat through 1/4\u201D (6 mm) plate.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Grind fat through 1/4\u201D (6 mm) plate.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Mix/knead lean pork with salt until sticky.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Mix spices with 30 ml (1 oz fl) of water. Pour spices over meat and mix again. Add fat and remix.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Stuff into 36 mm hog casings.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Refrigerate.\u003Cbr\u003E\n\u0026nbsp;\u0026nbsp;\u0026nbsp; Cook before serving.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsausages.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sausages"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Manchester Sausage",
+  "usedSnapshot": "20220517162854"
+}

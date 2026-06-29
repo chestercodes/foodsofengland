@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20140616085546",
+  "finalPath": "newcastle-potted-salmon.html",
+  "heading": "Newcastle Potted Salmon",
+  "ingredients": [
+    "brown sugar",
+    "butter",
+    "gravy",
+    "pepper",
+    "salmon",
+    "salt",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "newcastle-potted-salmon.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Whole Art of Curing\u003C/i\u003E\u0027 by James Robinson (\u003Ca href=\u0022references.html#robinson-1847\u0022\u003E\u003Cb\u003ERobinson 1847\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EPOTTED SALMON.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nAs formerly practised at Newcastle.\u003Cbr\u003E\n\u003Cbr\u003E\nTake a salmon, split it at the back and through the belly, making two separate sides of it. Scale it very clean, and wipe it, but do not let water come near it. Lay fine salt upon it, letting it lie until melted away from it: then take pepper, mace, cloves, and a little brown sugar, which rub all over the red side, and then with a few bay leaves (cut in pieces) put it into a pan, with plenty of butter, out. of which the salt has been washed, to bake in a slow oven. When it is done, let the gravy be poured away, and take out the fish, lay it on a clean cloth to drain, put it into your pots, press it as close down as you possibly can, and pour clarified butter over it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ESalmon...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/salmon.html",
+      "relationDescription": "For other salmon dishes see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Salmon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "robinson-1847"
+    }
+  ],
+  "title": "Newcastle Potted Salmon",
+  "usedSnapshot": "20220705100435"
+}

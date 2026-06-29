@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20150416000300",
+  "finalPath": "milk-roll.html",
+  "heading": "Milk Roll",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EBlackpool Roll, Milk Bread, Blackpool Milk Roll, Lodger\u0027s Loaf\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Lancashire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Milk Roll",
+  "usedSnapshot": "20200924013955"
+}

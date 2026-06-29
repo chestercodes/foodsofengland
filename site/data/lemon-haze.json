@@ -1,0 +1,43 @@
+﻿{
+  "earliestSnapshot": "20150922074443",
+  "finalPath": "lemon-haze.html",
+  "heading": "Lemon Haze",
+  "ingredients": [
+    "caster sugar",
+    "cream",
+    "egg",
+    "egg whites",
+    "eggs",
+    "jelly",
+    "lemon",
+    "lemons",
+    "sugar",
+    "whipped cream"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "lemon-haze.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:info@foodsofengland.co.uk\u0022\u003E\u003Cb\u003Einfo@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "1 Lemon jelly\u003Cbr\u003E\nGrated rind and juice of 2 lemons\u003Cbr\u003E\n4 medium Eggs, separated\u003Cbr\u003E\n4 oz Caster sugar\u003Cbr\u003E\n1/4 pt Hot water\u003Cbr\u003E\n\u003Cb\u003EPreparation\u003C/b\u003E\u003Cbr\u003E\nDissolve the jelly in the \u0026#188; pint hot water and add the grated rind and juice of the lemons. Set aside until the jelly begins to thicken. Separate the yolks and whites of the eggs. Whisk the yolks with the sugar until light in colour. Add the jelly mixture and mix well. Wisk the egg whites until they are thick and stand in peaks When the egg and jelly mixture begins to set, fold in the egg whites. Pour into a glass serving dish and stand aside to set. Decorate with whorls of whipped cream and refrigerate until required. \u003Cbr\u003E\n\u003Cbr\u003E\nPosted to MM-Recipes Digest V3, Mon, 9 Sep 1996 18:08:57 From: \u003Cray.watson@ukonline.co.uk\u003E\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Lemon Haze",
+  "usedSnapshot": "20211027034142"
+}

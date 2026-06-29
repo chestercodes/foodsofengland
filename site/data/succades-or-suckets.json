@@ -1,0 +1,45 @@
+﻿{
+  "earliestSnapshot": "20150922100001",
+  "finalPath": "succades-or-suckets.html",
+  "heading": "Succades or Suckets",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Lettuce or Mallow Suckets",
+      "relatedPageUrl": "lettuce-or-mallow-suckets.html",
+      "relationDescription": "See: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EGerard 1597\u003C/b\u003E",
+      "relatedPageUrl": "references.html#gerard-1597",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "gerard-1597"
+    }
+  ],
+  "title": "Succades or Suckets",
+  "usedSnapshot": "20220516223556"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922073423",
+  "finalPath": "cider-vinegar.html",
+  "heading": "Cider Vinegar",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpreserves.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "preserves"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cider Vinegar",
+  "usedSnapshot": "20211207114555"
+}

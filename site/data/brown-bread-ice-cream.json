@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922094435",
+  "finalPath": "brown-bread-ice-cream.html",
+  "heading": "Brown Bread Ice Cream",
+  "ingredients": [
+    "bread",
+    "cream",
+    "double cream",
+    "lemons",
+    "liqueur",
+    "oranges",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "brown-bread-ice-cream.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#nutt-1789\u0022\u003E\u003Cb\u003ENutt 1789\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003ENo. 133. Brown Bread Ice Cream.\u003C/b\u003E\u003Cbr\u003E\nDo the same with a pint of cream as in the plain ice cream, only when you have frozen it, rasp two handfuls of brown bread and put it in before you put it into your moulds.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "brown-bread-ice-cream.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Royal English and Foreign Confectioner\u003C/i\u003E\u0027 (1862) by Charles Elme Francatelli",
+      "receiptText": "\u003Cb\u003ENo. 732.- Brown Bread Cream Ice.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nIngredients: li pint of double cream whipped, 12 oz. of sifted sugar, 8 oz. of dried brown bread crumbs, a gill of any kind of liqueur, and the rind of 2 lemons or oranges rubbed on sugar.\u003Cbr\u003E\nMix and freeze the ice.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "nutt-1789"
+    }
+  ],
+  "title": "Brown Bread Ice Cream",
+  "usedSnapshot": "20211205175535"
+}

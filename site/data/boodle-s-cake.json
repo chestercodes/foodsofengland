@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922093350",
+  "finalPath": "boodle-s-cake.html",
+  "heading": "Boodle\u0027s Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBoodle\u0027s Fool\u003C/b\u003E",
+      "relatedPageUrl": "boodle-s-fool.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Boodle\u0027s Cake",
+  "usedSnapshot": "20210510054444"
+}

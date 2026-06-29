@@ -1,0 +1,54 @@
+﻿{
+  "earliestSnapshot": "20150922082455",
+  "finalPath": "bath-pudding.html",
+  "heading": "Bath Pudding",
+  "ingredients": [
+    "almonds",
+    "almonds blanched",
+    "brandy",
+    "butter",
+    "cream",
+    "eggs",
+    "pudding",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bath-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe English Cookery Book\u003C/i\u003E\u0027 edited by JH Walsh \u003Ca href=\u0022references.html#walsh-1859\u0022\u003E\u003Cb\u003EWalsh 1859\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003EBath Pudding.\u003C/b\u003E\u003Cbr\u003E\n910. Boil four ounces of ground rice in one pint of cream till tender, and set it to cool. Add to it six yolks and two whites of eggs well beaten, with six ounces of pounded sugar, six ounces of butter, thirty sweet almonds blanched and pounded, and one small glass of brandy. Mix all the ingredients well together, and bake a quarter of an hour or more.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Bath Pudding",
+  "usedSnapshot": "20211027045348"
+}

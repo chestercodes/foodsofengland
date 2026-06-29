@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922074954",
+  "finalPath": "bacon-and-eggs.html",
+  "heading": "Bacon and Eggs",
+  "ingredients": [
+    "bacon",
+    "eggs",
+    "poultry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-and-eggs.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFRIED RASHERS OF BACON AND POACHED EGGS.\u003C/b\u003E\u003Cbr\u003E\n802. INGREDIENTS: Bacon; eggs.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut the bacon into thin slices, trim away the rusty parts, and cut off the rind. Put it into a cold frying-pan, that is to say, do not place the pan on the fire before the bacon is in it. Turn it 2 or 3 times, and dish it on a very hot dish. Poach the eggs and slip them on to the bacon, without breaking the yolks, and serve quickly.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 3 or 4 minutes. \u003Ci\u003EAverage cost\u003C/i\u003E: 10d. to 1s. per lb. for the primest parts.\u003Cbr\u003E\n\u003Ci\u003ESufficient\u003C/i\u003E: Allow 6 eggs for 3 persons.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: at any time.\u003Cbr\u003E\n\u003Ci\u003ENote\u003C/i\u003E: Fried rashers of bacon, curled, serve as a pretty garnish to many dishes; and, for small families, answer very well as a substitute for boiled bacon, to serve with a small dish of poultry, \u0026amp;c.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Bacon and Eggs",
+  "usedSnapshot": "20200223172455"
+}

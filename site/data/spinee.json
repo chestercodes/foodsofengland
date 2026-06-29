@@ -1,0 +1,61 @@
+﻿{
+  "earliestSnapshot": "20150524221155",
+  "finalPath": "spinee.html",
+  "heading": "Spinee",
+  "ingredients": [
+    "almond",
+    "almond milk",
+    "flour",
+    "milk",
+    "bread",
+    "rice",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "spinee.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Forme of Cury\u003C/i\u003E\u0027 by the Chief Master-Cook of King Richard II, c1390 (\u003Ca href=\u0022references.html#cury-1390\u0022\u003E\u003Cb\u003ECury 1390\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESPYNEE\u003C/b\u003E\u003Cbr\u003E\nTake and make good thick Almond milk as tofore, And do therein of flour [flower?] of hawthorn and make it as a rose \u0026 serve it forth.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "spinee.html-2",
+      "receiptSource": "Original Receipt in the 15th Century \u0027Austin Manuscripts\u0027 (\u003Ca href=\u0022references.html#austin-1440\u0022\u003E\u003Cb\u003EAustin 1440\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESpyneye:\u003C/b\u003E Take the Flowtherys of Hawthorun; boil them \u0026 press them, bray them small, temper them up with almond Milke, \u0026 lye it with Abyndoun \u0026 grated bread \u0026 flowre of rice; take sugar y-now \u0026 put thereto, or Hony in defawte, \u0026 colowre it with the same that the flowrys ben, \u0026 serve forth.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "cury-1390"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "austin-1440"
+    }
+  ],
+  "title": "Spinee",
+  "usedSnapshot": "20220328043622"
+}

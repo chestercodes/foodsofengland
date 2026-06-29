@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150513065850",
+  "finalPath": "picnic-cake.html",
+  "heading": "Picnic Cake",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Picnic Cake",
+  "usedSnapshot": "20211207111916"
+}

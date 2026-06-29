@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20150922074109",
+  "finalPath": "cake-fritters.html",
+  "heading": "Cake Fritters",
+  "ingredients": [
+    "apricot",
+    "butter",
+    "cream",
+    "jam",
+    "marmalade",
+    "orange",
+    "plum",
+    "pudding",
+    "rice"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cake-fritters.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EFRITTERS OF CAKE AND PUDDING.\u003C/b\u003E\u003Cbr\u003E\nCut plain pound, or rice cake, or rich seed cake, into small square slices half an inch thick; trim away the crust, fry them slowly a light brown in a small quantity of fresh butter, and spread over them when done a layer of apricot-jam, or of any other preserve, and serve them immediately. These fritters are improved bv being moistened with a little good cream before they are fried: they must then be slightly floured. Cold plum-pudding sliced down as thick as the cake, and divided into portions of equal size and good form, then dipped into French or English batter and gently fried, will also make an, agreeable variety of fritter. Orange marmalade and Devonshire cream may be served in separate layers on the seed cake fritters. The whole of the above may be cut of uniform size and shaped with a round cake-cutter.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Cake Fritters",
+  "usedSnapshot": "20211201041156"
+}

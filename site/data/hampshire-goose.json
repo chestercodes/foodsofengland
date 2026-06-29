@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922072149",
+  "finalPath": "hampshire-goose.html",
+  "heading": "Hampshire Goose",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EMock Goose\u003C/b\u003E",
+      "relatedPageUrl": "mock-goose.html",
+      "relationDescription": "For similar dishes, see \u0027"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpotmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pot-meals"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Hampshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "j-salmon"
+    }
+  ],
+  "title": "Hampshire Goose",
+  "usedSnapshot": "20220819115620"
+}

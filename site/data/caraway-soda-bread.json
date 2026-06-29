@@ -1,0 +1,62 @@
+﻿{
+  "earliestSnapshot": "20150922080658",
+  "finalPath": "caraway-soda-bread.html",
+  "heading": "Caraway Soda Bread",
+  "ingredients": [
+    "bread",
+    "caraway seeds",
+    "caster sugar",
+    "cream",
+    "flour",
+    "milk",
+    "salt",
+    "sugar",
+    "tartar",
+    "wholemeal flour",
+    "baking powder",
+    "beat",
+    "buttermilk",
+    "eggs",
+    "plain flour",
+    "raisins"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "caraway-soda-bread.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ENorwood News\u003C/i\u003E\u0027 - Friday 05 April 1935",
+      "receiptText": "Though Easter is late this year it is not too soon to look out recipes that will be handy. Starting with Good Friday, many people make Caraway Bread as well as Hot Cross Buns, and as this bread is best made on Wednesday, for eating on Friday, I will begin with that.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ECaraway Bread\u003C/b\u003E\u003Cbr\u003E\nIngredients\u003Cbr\u003E\n1/2lb. plain white flour, 1/2lb. wholemeal flour, one teaspoon cream of tartar, one teaspoon of bicar-bonate of soda, one teaspoon each of caster sugar and caraway seeds, a small \u00BD teaspoon of salt. Mix all together and make into a loaf with \u00BD pint of milk. Bake for 45 minutes in a good oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "caraway-soda-bread.html-2",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Caraway%20Soda%20Bread\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ECaraway Soda Bread\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\n375g plain flour\u003Cbr\u003E\n2 teaspoons baking powder\u003Cbr\u003E\n1/2 teaspoon salt\u003Cbr\u003E\n100g caster sugar\u003Cbr\u003E\n340g buttermilk\u003Cbr\u003E\n75g raisins\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\n1 tablespoon caraway seed\u003Cbr\u003E\n\u003Cbr\u003E\nHeat oven to 180 C / Gas 4. Combine flour, baking powder, salt and sugar. Beat eggs with buttermilk. Add the eggs and buttermilk into the flour mixture; stir in raisins. Pour dough onto lightly floured board. Shape into a round loaf, adding flour if necessary. Place in a lightly greased springform pan. Score on top, brush with milk, and sprinkle with caraway seeds. Bake at 180 C / Gas 4 for 1 hour or until the bottom of the loaf sounds hollow when tapped.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": "\u003Cb\u003EOnce-a-Year-Buns\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Shropshire"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    }
+  ],
+  "title": "Caraway Soda Bread",
+  "usedSnapshot": "20210512112702"
+}

@@ -1,0 +1,24 @@
+﻿{
+  "earliestSnapshot": "20121024085107",
+  "finalPath": "dairy.html",
+  "heading": "Dairy",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ECheeses\u003C/b\u003E",
+      "relatedPageUrl": "cheeses.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Dairy",
+  "usedSnapshot": "20220118033021"
+}

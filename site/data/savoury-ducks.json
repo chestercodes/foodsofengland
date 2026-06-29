@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150608223255",
+  "finalPath": "savoury-ducks.html",
+  "heading": "Savoury Ducks",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Faggots",
+      "relatedPageUrl": "faggots.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Savoury Ducks",
+  "usedSnapshot": "20210410113839"
+}

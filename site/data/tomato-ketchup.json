@@ -1,0 +1,58 @@
+﻿{
+  "earliestSnapshot": "20150922073116",
+  "finalPath": "tomato-ketchup.html",
+  "heading": "Tomato Ketchup",
+  "ingredients": [
+    "allspice",
+    "chili",
+    "chili vinegar",
+    "ginger",
+    "ketchup",
+    "pepper",
+    "salt",
+    "shalots",
+    "tomato",
+    "tomatos",
+    "vinegar",
+    "gravy"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "tomato-ketchup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETOMATO KETCHUP\u003C/b\u003E\u003Cbr\u003E\nTake six pounds of tomatos sprinkle them with salt let them remain for a day or two then boil them until the skins will separate easily pour them into a colander or coarse sieve and press them through leaving the skins behind put into the liquor a handful of shalots a pint of chili vinegar and half a pint of wine pepper cloves ginger and allspice boil them together until a third part has wasted then bottle it closing the bottles very securely It must be shaken before it is used\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "tomato-ketchup.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton: (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "BOTTLED TOMATAS, OR TOMATA CATSUP. Cut half a peck of ripe tomatas into quarters; lay them on dishes and sprinkle over them half a pound of salt. The next day drain the Juice from them through a hair-sieve into a stew-pan, and boil it for naif an hour with three dozens of small capsicums and half a pound of eschalots; then add the tomatas, which should be ready pulped through a strainer. Boil the whole for thirty minutes longer; have some clean wide-necked bottles, kept warm by the fire, fill them with the catsup while it is quite hot; cork, and dip the necks into melted bottle-resin or cement. Tomatas, i peck; salt, i lb.; capsicums, 3 doz.; eschalots, i lb. hour. After pulp is added, i hour. Obs. - This receipt has been kindly contributed by a person who makes by it every year large quantities of the catsup, which is considered excellent: for sauce it must be mixed with gravy or melted Imtter. We have not ourselves been able to make tnal of it.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    }
+  ],
+  "title": "Tomato Ketchup",
+  "usedSnapshot": "20220527231135"
+}

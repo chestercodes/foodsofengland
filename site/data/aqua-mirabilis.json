@@ -1,0 +1,97 @@
+﻿{
+  "earliestSnapshot": "20150922072131",
+  "finalPath": "aqua-mirabilis.html",
+  "heading": "Aqua Mirabilis",
+  "ingredients": [
+    "brandy",
+    "cinnamon",
+    "cowslip",
+    "mint",
+    "rosemary"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "aqua-mirabilis.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Complete family-piece and country gentleman and farmer\u0027s best guide\u003C/i\u003E\u0027 (\u003Ca href=\u0022references.html#family-guide-1747\u0022\u003E\u003Cb\u003EFamily Guide 1747\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo make Aqua Mirabilis\u003C/b\u003E Take Cloves Mace Cinnamon Nutmegs Cardamum Cubebs Galangal and Melilot Flowers of each 2 Ounces Cowslip Flowers, Spear mint and Rosemary Flowers of each 4 Handfuls, 1 Gallon of the Juice of Celandine, a Gallon of White wikne, a Gallon of Canary and a Gallon of Brandy, let them be infused for twelve Hours and distil them off in a gentle Sand heat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EPlague Water\u003C/b\u003E",
+      "relatedPageUrl": "plague-water.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETonic Wine\u003C/b\u003E",
+      "relatedPageUrl": "tonic-wine.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003ETyssan\u003C/b\u003E",
+      "relatedPageUrl": "tyssan.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EClary Wine\u003C/b\u003E",
+      "relatedPageUrl": "clary-wine.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPyment\u003C/b\u003E",
+      "relatedPageUrl": "pyment.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EThieves Vinegar\u003C/b\u003E",
+      "relatedPageUrl": "thieves-vinegar.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPoppy Tea\u003C/b\u003E",
+      "relatedPageUrl": "poppy-tea.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EHippocras\u003C/b\u003E",
+      "relatedPageUrl": "hippocras.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EAqua Mirabilis\u003C/b\u003E",
+      "relatedPageUrl": "aqua-mirabilis.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EPlague Water\u003C/b\u003E",
+      "relatedPageUrl": "plague-water.html",
+      "relationDescription": "For other (supposedly) medicinal drinks, see.."
+    }
+  ],
+  "synonym": "\u003Cb\u003EWonderful Water\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listdrinks.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "drinks"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "family-guide-1747"
+    }
+  ],
+  "title": "Aqua Mirabilis",
+  "usedSnapshot": "20220820133937"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808221642",
+  "finalPath": "butter-tarts.html",
+  "heading": "Butter Tarts",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "West Midlands"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Butter Tarts",
+  "usedSnapshot": "20211129120910"
+}

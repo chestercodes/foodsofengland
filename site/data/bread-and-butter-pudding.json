@@ -1,0 +1,63 @@
+﻿{
+  "earliestSnapshot": "20150922082556",
+  "finalPath": "bread-and-butter-pudding.html",
+  "heading": "Bread and Butter Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "cream",
+    "currants",
+    "eggs",
+    "nutmeg",
+    "orange",
+    "pudding",
+    "raisins",
+    "salt",
+    "sugar",
+    "custard",
+    "lemon",
+    "milk",
+    "puddings"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "bread-and-butter-pudding.html-1",
+      "receiptSource": "Original Receipt in \u003Ci\u003EThe compleat housewife: or, Accomplished gentlewoman\u0027s companion\u003C/i\u003E, by E. Smith (1739)",
+      "receiptText": "\u003Cb\u003EA Bread and Butter Pudding for Fasting Days\u003C/b\u003E\u003Cbr\u003E\nTAKE a two penny loaf and a pound of fresh butter \u0026 spread it in very thin slices as to eat, cut them off as you spread them and stone half a pound of raisins and wash a pound of currants then put puff paste at the bottom of a dish, and lay a row of your Bread and Butter and strew a handful of currants and a few raisins and some little bits of Butter and do so till your dish is full, then boil three pints of cream and thicken it when cold with the yolks of ten eggs, a grated nutmeg, a little salt, near half a pound of sugar, some orange flower water and pour this in just as the Pudding is going into the oven.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "bread-and-butter-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EBREAD AND BUTTER PUDDING.\u003C/b\u003E Spread some butter on slices of bread, and lay them in a dish, with currants between each layer. To make it rich, add some sliced citron, orange, or lemon. Pour over an unboiled custard of milk, two or three eggs, a few corns of pimento, and a very little ratifia, two hours at least before it is to be baked, and lade it over to soak the bread. A paste round the edge makes all puddings look better, but it is not necessary.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBread Pudding\u003C/b\u003E",
+      "relatedPageUrl": "bread-pudding.html",
+      "relationDescription": "For other types, see: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Bread and Butter Pudding",
+  "usedSnapshot": "20211205170522"
+}

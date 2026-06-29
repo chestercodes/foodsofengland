@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140508115541",
+  "finalPath": "clotted-cream-biscuits.html",
+  "heading": "Clotted Cream Biscuits",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Clotted Cream Biscuits",
+  "usedSnapshot": "20210510054155"
+}

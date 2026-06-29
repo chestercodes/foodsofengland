@@ -1,0 +1,32 @@
+﻿{
+  "earliestSnapshot": "20150922081625",
+  "finalPath": "chicken-curry.html",
+  "heading": "Chicken Curry",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "Curry",
+      "relatedPageUrl": "curry.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Chicken Curry",
+  "usedSnapshot": "20211019180221"
+}

@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922090405",
+  "finalPath": "potato-cake.html",
+  "heading": "Potato Cake",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "eggs",
+    "nutmeg",
+    "potatoes",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-cake.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETo make potatoe cakes.\u003C/b\u003E\u003Cbr\u003E\nTAKE potatoes, boil them, peel them, beat them in a mortar, mix them with the yolks of eggs, a little sack, sugar, a little beaten mace, a little nutmeg, a little cream or melted butter, work it up into a paste; then make it into cakes, or just what shapes you please with moulds, fry them brown in fresh butter, lay them in plates or dishes, melt butter with sack and sugar, and pour over them.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Potato Cake",
+  "usedSnapshot": "20211129123109"
+}

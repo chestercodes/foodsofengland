@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20150922090245",
+  "finalPath": "sack-dumplings.html",
+  "heading": "Sack Dumplings",
+  "ingredients": [
+    "butter",
+    "currants",
+    "eggs",
+    "nutmeg",
+    "suet",
+    "sugar",
+    "white wine"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "sack-dumplings.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "SACK DUMPLINS. Grate the crumb of two penny rolls, add three quarters of a pound of suet cut small, three quarters of a pound of currants washed clean, a grated nutmeg, a little sugar, the yolks of eight eggs, and two wine glasses of sack. Make the paste into dumplins of a moderate size, tie them in cloths, and boil them two hours. Melted butter for sauce, with white wine and sugar.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Sack Dumplings",
+  "usedSnapshot": "20220527054317"
+}

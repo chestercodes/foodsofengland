@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20210316143551",
+  "finalPath": "cissy-green-pie.html",
+  "heading": "Cissy Green Pie",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "North West"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Cissy Green Pie",
+  "usedSnapshot": "20210413202017"
+}

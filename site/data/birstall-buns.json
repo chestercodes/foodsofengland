@@ -1,0 +1,48 @@
+﻿{
+  "earliestSnapshot": "20130808232457",
+  "finalPath": "birstall-buns.html",
+  "heading": "Birstall Buns",
+  "ingredients": [
+    "cream",
+    "currants",
+    "egg",
+    "fat",
+    "flour",
+    "milk",
+    "plain flour",
+    "salt",
+    "sugar",
+    "sultanas",
+    "yeast"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "birstall-buns.html-1",
+      "receiptSource": "Original Receipt from \u0027British Cookery\u0027 by Lizzie Boyd (with thanks to Emanuela Sabato)",
+      "receiptText": "Birstall Buns\u003Cbr\u003E\n1 lb plain flour\u003Cbr\u003E\n2 teaspoons salt\u003Cbr\u003E\n1/2 oz fresh yeast\u003Cbr\u003E\n1/2 tablespoon sugar\u003Cbr\u003E\n4 fl oz milk and water\u003Cbr\u003E\n2 oz fat\u003Cbr\u003E\n1 egg\u003Cbr\u003E\n3 oz currants\u003Cbr\u003E\n3 oz sultanas\u003Cbr\u003E\n11/2 oz chopped candied peel\u003Cbr\u003E\n\u003Cbr\u003E\nOven: 220\u00B0C; 425\u00B0F; gas mark 7; 10-15 minutes\u003Cbr\u003E\n\u003Cbr\u003E\nSift the flour and salt; cream the yeast with the sugar and the warm milk heated with the fat until melted; add the yeast mixture and the beaten egg to the flour and mix to a smooth dough. Knead and set to rise. Knock back the dough, work in the dried fruits and knead the mixture well. Divide into 12 round buns, place on a greased baking sheet and prove. Bake for 10-15 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Leicestershire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Birstall Buns",
+  "usedSnapshot": "20220527222830"
+}

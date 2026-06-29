@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922084939",
+  "finalPath": "duvet-naan.html",
+  "heading": "Duvet Naan",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcurry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "curry"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Duvet Naan",
+  "usedSnapshot": "20220527055147"
+}

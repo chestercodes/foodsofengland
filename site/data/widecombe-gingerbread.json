@@ -1,0 +1,57 @@
+﻿{
+  "earliestSnapshot": "20140508113332",
+  "finalPath": "widecombe-gingerbread.html",
+  "heading": "Widecombe Gingerbread",
+  "ingredients": [
+    "butter",
+    "flour",
+    "ginger",
+    "sugar",
+    "treacle"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "widecombe-gingerbread.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:info@foodsofengland.co.uk\u0022\u003E\u003Cb\u003Einfo@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003EWIDECOMBE FAIR GINGERBREAD\u003C/b\u003E\u003Cbr\u003E\nIngredients: 5 ounces butter; 6 ounces flour; 1 teaspoonful ginger; 6 ounces treacle; 6 ounces sugar.\u003Cbr\u003E\nRub butter into flour and add sugar and ginger. Warm the treacle and mix in well. Drop small pieces on a well-greased tin and bake in a moderate oven for 30 to 40 minutes.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EGingerbread\u003C/b\u003E",
+      "relatedPageUrl": "gingerbread.html",
+      "relationDescription": "For other varieties of gingerbread, see: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EWidecombe Fair Ale\u003C/b\u003E",
+      "relatedPageUrl": "widecombe-fair-ale.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Devon"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Widecombe Gingerbread",
+  "usedSnapshot": "20220527230219"
+}

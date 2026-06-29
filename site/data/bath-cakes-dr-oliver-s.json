@@ -1,0 +1,40 @@
+﻿{
+  "earliestSnapshot": "20150922083037",
+  "finalPath": "bath-cakes-dr-oliver-s.html",
+  "heading": "Bath Cakes (Dr. Oliver\u0027s)",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBath Cakes (Historic)\u003C/b\u003E",
+      "relatedPageUrl": "bathcakes(2).htm",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcakes.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Somerset"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Bath Cakes (Dr. Oliver\u0027s)",
+  "usedSnapshot": "20211020235816"
+}

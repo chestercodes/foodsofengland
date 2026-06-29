@@ -1,0 +1,56 @@
+﻿{
+  "earliestSnapshot": "20130323203431",
+  "finalPath": "bacon-floddies.html",
+  "heading": "Bacon Floddies",
+  "ingredients": [
+    "bacon",
+    "beat",
+    "eggs",
+    "flour",
+    "onion",
+    "potato",
+    "potatoes",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "bacon-floddies.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Bacon%20Floddies\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "\u003Cb\u003ETyneside Floddies\u003C/b\u003E\u003Cbr\u003E\n10oz potatoes, peeled\u003Cbr\u003E\n1 large onion, finely chopped\u003Cbr\u003E\n6oz bacon, rinds off and finely chopped\u003Cbr\u003E\n2oz self raising flour\u003Cbr\u003E\n2 eggs\u003Cbr\u003E\noil for frying\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EMethod:\u003C/b\u003E\u003Cbr\u003E\nGrate the potatoes onto a tea towel, gather it up and squeeze the liquid out. Put the chopped onion into a bowl and add the potatoes, bacon and flour, season. Beat the eggs into the potato mixture\u003Cbr\u003E\nHeat the oil in the frying pan to a medium heat, put ample tablespoonfuls of the potato mixture into the frying pan and flatten them out to form round cakes. Cook on each side until golden brown and cooked all the way through - about 4 minutes each side. Lift out of the pan and drain the oil off on the kitchen paper\u003Cbr\u003E\nServe immediately with fried eggs and sausages.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EBacon Fraise or Froise\u003C/b\u003E",
+      "relatedPageUrl": "baconfraise(1).htm",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EBacon Cakes\u003C/b\u003E",
+      "relatedPageUrl": "bacon-cakes.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Northumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Bacon Floddies",
+  "usedSnapshot": "20220123032046"
+}

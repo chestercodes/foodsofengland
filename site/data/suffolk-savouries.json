@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20140616091359",
+  "finalPath": "suffolk-savouries.html",
+  "heading": "Suffolk Savouries",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Suffolk"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Suffolk Savouries",
+  "usedSnapshot": "20211130235152"
+}

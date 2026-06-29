@@ -1,0 +1,36 @@
+﻿{
+  "earliestSnapshot": "20231201031017",
+  "finalPath": "mushroom-loaves.html",
+  "heading": "Mushroom Loaves",
+  "ingredients": [],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "mushroom-loaves.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#raffald-1769\u0022\u003E\u003Cb\u003ERaffald 1769\u003C/b\u003E\u003C/a\u003E; \u003Cb\u003ETo make Mushroom Loaves\u003C/b\u003E TAKE small buttons wash them as for pickling, put them in a tossing pan with a little white bread crumbs that have been boiled half an hour in water, then boil your mushrooms in the bread, and water five minutes thicken it with flour and butter, and two spoonfuls of cream but no yolks of eggs; put in a little salt then take five small French rolls; make holes in the tops of them about the fize of a shilling, and scrape out all the crumb and put in your mushrooms; stick a bay leaf on the top of every roll. Five is a handsome dish for dinner and three for supper",
+      "receiptText": ""
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "raffald-1769"
+    }
+  ],
+  "title": "Mushroom Loaves",
+  "usedSnapshot": "20231201031017"
+}

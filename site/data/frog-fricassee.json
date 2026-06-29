@@ -1,0 +1,64 @@
+﻿{
+  "earliestSnapshot": "20150922073301",
+  "finalPath": "frog-fricassee.html",
+  "heading": "Frog Fricassee",
+  "ingredients": [
+    "anchovy",
+    "butter",
+    "cream",
+    "flour",
+    "herbs",
+    "lard",
+    "lemon",
+    "mushroom",
+    "mushrooms",
+    "pepper",
+    "salt",
+    "shallot",
+    "veal"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "frog-fricassee.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFrogs, a white Fricassee of them. From Mr. Ganeau.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake large Frogs, and cut off the hinder Legs, strip them of the Skin, and cut off the Feet, and boil them tender in a little Veal-Broth, with whole Pepper, and a little Salt, with a bunch of sweet Herbs, and some Lemon Peel. Stew these with a Shallot, till the Flesh is a little tender; then strain off the Liquor, and thicken it with Cream and Butter; then serve them hot with the Cream, and some Mushrooms pickled, toss\u0027d up with the Sauce, they make a very good Dish, and their Bones being of a very fine Texture, are better to be eaten than those of Larks. But we have in many Places an Aversion to them, as, in some others, some People have to Mushrooms.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003EFrogs, in a brown Fricassee. From the same.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nPrepare the Frogs as before, and flour them well; then put them into a Pan of hot Lard, and fry them brown. Then take them and drain them from the Liquor they were fry\u0027d in, and make a Sauce for them of good Gravey, some Lemon-Peel, a Shallot or two, some Spice beaten, a bunch of sweet Herbs, an Anchovy, some pickled Mushrooms and their Liquor, and some Pepper and Salt. Toss up these, thick with Butter, and pour the Sauce over them, putting first a little Claret to it, and some Lemon-Juice. Garnish with broiled Mushroom-Flaps, and Lemon sliced.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFrogs...\u003C/b\u003E",
+      "relatedPageUrl": "tags/keyword/frogs.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listgame.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "game-and-offal"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Frogs"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    }
+  ],
+  "title": "Frog Fricassee",
+  "usedSnapshot": "20200107111712"
+}

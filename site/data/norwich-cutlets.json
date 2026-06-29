@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130324050627",
+  "finalPath": "norwich-cutlets.html",
+  "heading": "Norwich Cutlets",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Norwich"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Norwich Cutlets",
+  "usedSnapshot": "20211201023231"
+}

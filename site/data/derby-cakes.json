@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140508113220",
+  "finalPath": "derby-cakes.html",
+  "heading": "Derby Cakes",
+  "ingredients": [
+    "butter",
+    "currants",
+    "egg",
+    "flour",
+    "milk",
+    "sugar",
+    "biscuits",
+    "caraway seeds",
+    "eggs"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "derby-cakes.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Cook\u0027s Oracle\u003C/i\u003E\u0027 by William Kitchiner (\u003Ca href=\u0022references.html#kitchiner-1830\u0022\u003E\u003Cb\u003EKitchiner 1830\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Ci\u003E\u003Cb\u003EDerby or Short Cakes.- (No. 87.)\u003C/b\u003E\u003C/i\u003E\u003Cbr\u003E\nRub in with the hand one pound of butter into two pounds of sifted flour; put one pound of currants, one pound of good moist sugar, and one egg; mix all together with half a pint of milk: roll it out thin, and cut them into round cakes with a cutter; lay them on a clean baking-plate, and put them into a middling-heated oven for about five minutes.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "derby-cakes.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EThe Complete Biscuit and Gingerbread Baker\u0027s Assistant\u003C/i\u003E\u0027 of 1854",
+      "receiptText": "\u003Cb\u003EDerby or Yarmouth Biscuits\u003C/b\u003E\u003Cbr\u003E\nThese are mostly known by the name of Derby cakes, but the original Yarmouth biscuits were made much richer than the Derby of the present day, viz 12 oz of flour, 1/2 lb of butter, 1/2 lb of loaf sugar, 6 oz of currants and 3 eggs. The modern method is the following 1 1/4 lb of flour, 1/2 lb of butter, 1/2 lb of sugar, 1/2 lb of currants, 3 eggs, a little milk and 1/4 oz of volatile salts. Rub the butter in with the flour, add the sugar, \u003Ca href=\u0022food-additives.html\u0022\u003E\u003Cb\u003Evolatile salts\u003C/b\u003E\u003C/a\u003E, eggs and milk, and make them into a paste of a moderate consistence, roll it out into a sheet an eighth of an inch in thickness, cut them out with a scalloped cutter the same as is used for small seedies place them on clean tins and bake them in a brisk oven. Some of the dough may be made into cakes thus; Make four penny cakes out of 5 or 6 ounces of dough mould them up under the hand into a round ball, roll them out thin and either pinch them round the edge or leave them plain, bake them in a brisk oven as the others. Yarmouth biscuits are made by some persons of this paste with the addition of a few caraway seeds and by cutting them out with a diamond cutter to vary the form.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EYarmouth Biscuits\u003C/b\u003E",
+      "relatedPageUrl": "yarmouth-biscuits.html",
+      "relationDescription": "See also: "
+    },
+    {
+      "relatedPageText": "\u003Cb\u003EFruit Shortcake\u003C/b\u003E",
+      "relatedPageUrl": "fruit-shortcake-biscuit.html",
+      "relationDescription": "For similar biscuits, see "
+    }
+  ],
+  "synonym": "\u003Cb\u003EDerby Shortcake, Derby Short-Cake, Derby Biscuits\u003C/b\u003E",
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbiscuits.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "biscuits"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "vine-1907"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "kitchiner-1830"
+    }
+  ],
+  "title": "Derby Cakes",
+  "usedSnapshot": "20220815155846"
+}

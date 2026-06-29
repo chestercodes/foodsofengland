@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20140616085342",
+  "finalPath": "cumberland-herrings.html",
+  "heading": "Cumberland Herrings",
+  "ingredients": [
+    "breadcrumbs",
+    "butter",
+    "english mustard",
+    "flour",
+    "herrings",
+    "mackerel",
+    "milk",
+    "mustard",
+    "onion",
+    "plain flour",
+    "vinegar",
+    "white wine",
+    "white wine vinegar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cumberland-herrings.html-1",
+      "receiptSource": "The original source of this receipt isn\u0027t known. Can you help? \u003Ca href=\u0022mailto:editor@foodsofengland.co.uk?subject=Foods%20of%20England,%20Cumberland%20Herrings\u0022\u003E\u003Cb\u003Eeditor@foodsofengland.co.uk\u003C/b\u003E\u003C/a\u003E",
+      "receiptText": "4 x 225 Gram Herrings with roe (8 oz), cleaned, head \u0026 fins removed\u003Cbr\u003E\n300 ml Milk (1/2 pint)\u003Cbr\u003E\n25 Gram Fresh breadcrumbs (1 oz)\u003Cbr\u003E\n1 Small Onion, finely chopped\u003Cbr\u003E\n25 Gram Butter (1 oz)\u003Cbr\u003E\n3 Tablespoon Plain flour\u003Cbr\u003E\n1 Teaspoon English mustard\u003Cbr\u003E\n1 Teaspoon White wine vinegar\u003Cbr\u003E\nMethod\u003Cbr\u003E\nPre-heat oven to 180 \u00B0C / 350 \u00B0F / Gas 4.\u003Cbr\u003E\n\u003Cbr\u003E\nPut the roes in a small saucepan with the milk. Bring to the boil and simmer gently for 5 minutes. Drain, reserving the milk. Finely chop the roes. Open out the fish on a board, inner side down and press lightly down the middle to loosen the backbone. Gently ease the backbone away.\u003Cbr\u003E\n\u003Cbr\u003E\nMix together the breadcrumbs and onion and add the chopped roes. Spread on the open herrings. Fold the herrings over to enclose the stuffing. Cover and bake for 20 minutes until tender.\u003Cbr\u003E\n\u003Cbr\u003E\nMeanwhile, put the butter, flour and the reserved milk in a saucepan. Heat, whisking continuously, until the sauce thickens, boils and is smooth. Simmer for 1-2 minutes. stir in the mustard and vinegar and serve with the herrings.\u003Cbr\u003E\n\u003Cbr\u003E\nIf herrings are unavailable, you can use small mackerel or if only large fish of either type are unavailable, serve each person a half.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listfish.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Cumberland"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cumberland Herrings",
+  "usedSnapshot": "20211130234549"
+}

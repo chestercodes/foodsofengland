@@ -1,0 +1,65 @@
+﻿{
+  "earliestSnapshot": "20130323054520",
+  "finalPath": "meringue.html",
+  "heading": "Meringue",
+  "ingredients": [
+    "almonds",
+    "cream",
+    "egg",
+    "eggs",
+    "lemon",
+    "nuts",
+    "orange",
+    "pastry",
+    "pistachio nuts",
+    "sugar",
+    "whipped cream",
+    "apricot",
+    "jam",
+    "lemons",
+    "raspberry"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "meringue.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EMERINGUES\u003C/b\u003E\u003Cbr\u003E\nWhisk, to the firmest possible froth, the whites of six very fresh eggs, taking every precaution against a particle of the yolk falling in amongst them. Lay some squares or long strips of writing-paper closely upon a board or upon very clean trenchers, which ought to be nearly or quite an inch thick, to prevent the meringues from receiving any colour from the bottom of the oven. When all is ready, mix with the eggs three-quarters of a pound of the finest sugar, well dried, and sifted; stir them together for half a minute, then with a table or dessertspoon lay the mixture quickly on the papers in the form of a half-egg, sift sugar over them without delay, blow off with the bellows all that does not adhere, and set the meringues into a gentle oven. The process must be expeditious, or the sugar melting will cause the cakes to spread, instead of retaining: the shape of the spoon, as they ought. The whole art of making them, indeed, appears to us to consist in preserving their proper form, and the larger the proportion of sugar worked into the eggs, the more easily this will be done. When they are coloured to a light brown, and are firm to the touch, draw them out, turn the papers gently over, separating the meringues from them, and with a teaspoon scoop-out sufficient of the insides to form a space for some whipped cream or preserve, and put them again into the oven upon clean sheets of paper, with the moist sides uppermost, to dry: when they are crisp through they are done. Let them become cold; fill, and then join them together with a little white of egg so as to give them the appearance shown in the plate. Spikes of pistachio nuts, or almonds, can be stuck over them, as represented there, at pleasure. They afford always, if well made, a second course dish of elegant appearance, and they are equally ornamental to breakfasts or suppers of ceremony. They are made in perfection by the pastry-cooks in France, being equally light, delicate, and delicious. Much of their excellence, it must be observed, depends at all times on the attention they receive in the baking, as well as in the previous preparation. They must, of course, be quite cold before the preserve or cream is laid into them. From four to six ounces of almonds, finely powdered, may be smoothly mixed with the other ingredients for them; and they may be flavoured with citron, lemon, or orange-rind by rasping the skins of the fruit with part of the sugar with which they are to be made; then drying, and reducing it to powder.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "meringue.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery Made Easy and Refined\u003C/i\u003E\u0027 by John Mollard, 1802 (\u003Ca href=\u0022references.html#mollard-1802\u0022\u003E\u003Cb\u003EMollard 1802\u003C/b\u003E\u003C/a\u003E NB This is not in the Foods of England Edition, but can be found here: \u003Ca href=\u0022https://archive.org/details/b21532187/page/196/mode/2up?q=mirangles\u0022\u003E\u003Cb\u003Ewww.archive.org...mirangles\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EMIRANGLES\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nTake the whites of nine eggs, and whisk them to a solid froth; then add the rind of six lemons grated very fine and a spoonful of sifted sugar; after which lay a wet sheet of paper on a tin, and with a spoonful drop the mixture in little lumps separately upon it, sift sugar over, and bake them in a moderately heated oven, observing they are of a nice colour. Then put raspberry, apricot, or any other kind of jam between two bottoms, add them together, and lay them in a warm place or before the fire to dry.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listegg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "eggs"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mollard-1802"
+    }
+  ],
+  "title": "Meringue",
+  "usedSnapshot": "20220517174733"
+}

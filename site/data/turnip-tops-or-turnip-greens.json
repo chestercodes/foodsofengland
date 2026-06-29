@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922091651",
+  "finalPath": "turnip-tops-or-turnip-greens.html",
+  "heading": "Turnip Tops or Turnip Greens",
+  "ingredients": [
+    "butter",
+    "cabbage",
+    "sprouts",
+    "turnip"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "turnip-tops-or-turnip-greens.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#evelyn-1699\u0022\u003E\u003Cb\u003EEvelyn 1699\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E34. Turnep.\u003C/b\u003E Take their stalks (when they begin to run up to seed) as far as they will easily break downwards: Peel and tie them in Bundles. Then boiling them as they do sparagus, are to be eaten with \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003EMelted Butter\u003C/b\u003E\u003C/a\u003E.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "turnip-tops-or-turnip-greens.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "TURNIP TOPS. These are the shoots which come out in the spring from the old turnip roots, and are to be dressed in the same way as cabbage sprouts. They make very nice sweet greens, and are esteemed great purifiers of the blood and juices.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listveg.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "fruit-and-vegetables"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "evelyn-1699"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Turnip Tops or Turnip Greens",
+  "usedSnapshot": "20211021014803"
+}

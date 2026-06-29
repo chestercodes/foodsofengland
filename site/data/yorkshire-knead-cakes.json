@@ -1,0 +1,49 @@
+﻿{
+  "earliestSnapshot": "20150922082440",
+  "finalPath": "yorkshire-knead-cakes.html",
+  "heading": "Yorkshire Knead Cakes",
+  "ingredients": [
+    "butter",
+    "currants",
+    "flour",
+    "milk"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "yorkshire-knead-cakes.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Cook and Housekeeper\u0027s Dictionary\u003C/i\u003E\u0027 by Mary Eaton (\u003Ca href=\u0022references.html#eaton-1822\u0022\u003E\u003Cb\u003EEaton 1822\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "YORKSHIRE KNEAD CAKES. Rub six ounces of butter into a pound of flour till it is very fine, and mix it into a stiff paste with milk. Knead it well, and roll it out several times. Make it at last about an inch thick, and cut it into cakes, in shapes according to the fancy. Bake them on an iron girdle, and when done on one side turn them on the other. Cut them open and butter them hot. They also eat well cold or toasted. Half a pound of currants well washed and dried may be added at pleasure.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listbreads.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "breads"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    }
+  ],
+  "title": "Yorkshire Knead Cakes",
+  "usedSnapshot": "20211205173252"
+}

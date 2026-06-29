@@ -1,0 +1,34 @@
+﻿{
+  "earliestSnapshot": "20150922094336",
+  "finalPath": "turkey-yorkshire-fashion.html",
+  "heading": "Turkey - Yorkshire Fashion",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpoultry.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "poultry"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Yorkshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "white-1932"
+    }
+  ],
+  "title": "Turkey - Yorkshire Fashion",
+  "usedSnapshot": "20211205164933"
+}

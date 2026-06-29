@@ -1,0 +1,50 @@
+﻿{
+  "earliestSnapshot": "20150922071702",
+  "finalPath": "elegant-economist-s-pudding.html",
+  "heading": "Elegant Economist\u0027s Pudding",
+  "ingredients": [
+    "butter",
+    "custard",
+    "plum",
+    "pudding",
+    "puddings"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "elegant-economist-s-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EModern Cookery for Private Families\u003C/i\u003E\u0027 by Eliza Acton (\u003Ca href=\u0022references.html#acton-1845\u0022\u003E\u003Cb\u003EActon 1845\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003ETHE ELEGANT ECONOMIST\u0027S PUDDING.\u003C/b\u003E\u003Cbr\u003E\nButter thickly a plain mould or basin, and line it entirely with slices of cold plum or raisin pudding, cut so as to join closely and neatly together; fill it quite with a good custard; lay, first a buttered paper, and then a floured cloth over it, tie them securely, and boil the pudding gently for an hour; let it stand for ten minutes after it is taken up before it is turned out of the mould. This is a more tasteful mode of serving the remains of a plum-pulding than the usual one of broiling them in slices, or converting them into fritters. The German sauce, well milled or frothed, is generally much relished with sweet boiled puddings, and adds greatly to their good appearance; but common wine or punch sauce, may be sent to table with the above quite as appropriately.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "acton-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Elegant Economist\u0027s Pudding",
+  "usedSnapshot": "20211205162533"
+}

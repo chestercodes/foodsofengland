@@ -1,0 +1,22 @@
+﻿{
+  "earliestSnapshot": "20130913114445",
+  "finalPath": "apple-delight.html",
+  "heading": "Apple Delight",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "cakes"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Apple Delight",
+  "usedSnapshot": "20150709080346"
+}

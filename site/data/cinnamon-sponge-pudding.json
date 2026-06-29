@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20160505123302",
+  "finalPath": "cinnamon-sponge-pudding.html",
+  "heading": "Cinnamon Sponge Pudding",
+  "ingredients": [
+    "beat",
+    "cinnamon",
+    "egg",
+    "flour",
+    "golden syrup",
+    "lemon",
+    "margarine",
+    "milk",
+    "pudding",
+    "sugar",
+    "tea"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cinnamon-sponge-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ELichfield Mercury\u003C/i\u003E\u0027 - Friday 16 December 1927",
+      "receiptText": "Cinnamon Pudding. - Sieve together 9 ounces flour and a good teaspoonful ground Cinnamon, dissolve in a smalt saucepan; 4 ounces sugar, 2 tablespoons golden syrup and 4 ounces margarine, taking care not to allow it to boil. Leave to cool slightly, then add to it a well-beaten egg. Pour into the dry ingredients and beat well. Beat a half tea-spoonful carbonate of soda that has been dissolved in little milk. Well grease some small individual moulds, or one large one. and pour in the mixture, cover with greased paper and steam for three-quarters of an hour if small, an hour and a half two hours if one large mould. Serve hot with the following sauce: Take four tablespoons golden syrup, one tablespoonful of water and the juice one lemon, beat all well together, pour over the pudding or serve in a sauce boat.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Cinnamon Sponge Pudding",
+  "usedSnapshot": "20211129110727"
+}

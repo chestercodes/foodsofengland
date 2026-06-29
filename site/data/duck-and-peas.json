@@ -1,0 +1,73 @@
+﻿{
+  "earliestSnapshot": "20150922082421",
+  "finalPath": "duck-and-peas.html",
+  "heading": "Duck and Peas",
+  "ingredients": [
+    "beat",
+    "butter",
+    "cream",
+    "egg",
+    "fat",
+    "flour",
+    "gravy",
+    "green peas",
+    "herbs",
+    "lettuces",
+    "mint",
+    "nutmeg",
+    "peas",
+    "pepper",
+    "salt",
+    "bacon",
+    "cayenne",
+    "ham",
+    "lemon",
+    "onion",
+    "onions",
+    "parsley",
+    "sugar"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "duck-and-peas.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Art of Cookery, Made Plain and Easy\u003C/i\u003E\u0027 by Hannah Glasse, 1747 (\u003Ca href=\u0022references.html#glasse-1747\u0022\u003E\u003Cb\u003EGlasse 1747\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "To dress a Duck with Green Peas.\u003Cbr\u003E\n\u003Cbr\u003E\nPUT a deep stew-pan over the fire, with a piece of best butter; singe your duck and flour it, turn it in the pan two or three minutes; then pour out all the fat, but let the duck remain in the pan; put to it a pint of good gravy, a pint of peas, two lettuces cut small, a small bundle of sweet herbs, a little pepper and salt; cover them close, and let them stew for half an hour; now and then give the pan a shake when they are just done, grate in a little nutmeg, and put in a very little beaten mace, and thicken it either with a piece of butter rolled in flour or the yolk of an egg beat up with two or three spoon fulls of cream; shake it all together for three or four minutes, take out the sweet herbs, lay the duck in the dish, and pour the sauce over it. You may garnish with boiled mint or let it alone\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "duck-and-peas.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Book of Household Management\u003C/i\u003E\u0027, 1861, edited by Isabella Beeton (See \u003Ca href=\u0022references.html#mrs-b\u0022\u003E\u003Cb\u003EMrs.B\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ESTEWED DUCK AND PEAS (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n935. INGREDIENTS: The remains of cold roast duck, 2 oz. of butter, 3 or 4 slices of lean ham or bacon, 1 tablespoonful of flour, 2 pints of thin gravy, 1, or a small bunch of green onions, 3 sprigs of parsley, 3 cloves, 1 pint of young green peas, cayenne and salt to taste, 1 teaspoonful of pounded sugar.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Put the butter into a stewpan; cut up the duck into joints, lay them in with the slices of lean ham or bacon; make it brown, then dredge in a tablespoonful of flour, and stir this well in before adding the gravy. Put in the onion, parsley, cloves, and gravy, and when it has simmered for \u00BC hour, add a pint of young green peas, and stew gently for about\u00BD hour. Season with cayenne, salt, and sugar; take out the duck, place it round the dish, and the peas in the middle.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: \u00BE hour.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the cold duck, 1s.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from June to August.\u003Cbr\u003E\n\u003Cbr\u003E\n\u003Cb\u003ESTEWED DUCK AND PEAS (Cold Meat Cookery).\u003C/b\u003E\u003Cbr\u003E\n936. INGREDIENTS: The remains of cold roast duck,\u00BD pint of good gravy, cayenne and salt to taste,\u00BD teaspoonful of minced lemon-peel, 1 teaspoonful of pounded sugar, 2 oz, of butter rolled in flour, 1-\u00BD pint of green peas.\u003Cbr\u003E\n\u003Ci\u003EMode\u003C/i\u003E: Cut up the duck into joints, lay it in the gravy, and add a seasoning of cayenne, salt, and minced lemon-peel; let tins gradually warm through, but not boil. Throw the peas into boiling water slightly salted, and boil them rapidly until tender. Drain them, stir in the pounded sugar, and the butter rolled in flour; shake them over the fire for two or three minutes, and serve in the centre of the dish, with the duck laid round.\u003Cbr\u003E\n\u003Ci\u003ETime\u003C/i\u003E: 15 minutes to boil the peas, when they are full grown.\u003Cbr\u003E\n\u003Ci\u003EAverage cost\u003C/i\u003E: exclusive of the cold duck, 10d.\u003Cbr\u003E\n\u003Ci\u003ESeasonable\u003C/i\u003E: from June to August.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeals.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meals"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "soyer-1845"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "glasse-1747"
+    }
+  ],
+  "title": "Duck and Peas",
+  "usedSnapshot": "20220527052258"
+}

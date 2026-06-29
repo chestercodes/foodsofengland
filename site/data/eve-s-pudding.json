@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20150922073951",
+  "finalPath": "eve-s-pudding.html",
+  "heading": "Eve\u0027s Pudding",
+  "ingredients": [
+    "bread",
+    "butter",
+    "currants",
+    "eggs",
+    "lemon",
+    "nutmeg",
+    "pudding",
+    "salt",
+    "sugar",
+    "suet"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "eve-s-pudding.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EExeter and Plymouth Gazette\u003C/i\u003E\u0027 - Saturday 26 January 1833",
+      "receiptText": "\u003Cblockquote\u003EEVE\u0027S PUDDING\u003Cbr\u003E\nIf you\u0027ll have good pudding, pray mind what you\u0027re taught,\u003Cbr\u003E\nTake two-penn\u0027orth eggs, when there\u0027s twelve for a groat,\u003Cbr\u003E\nTake the same fruit, \u0027tis said Eve did once cozen,\u003Cbr\u003E\nWhen pared and well chopped, least halt dozen,\u003Cbr\u003E\nSix ounces bread (give a beggar the crust)\u003Cbr\u003E\nAnd grate in the crumb as small as the dust;\u003Cbr\u003E\nSix ounces of currants, well cleaned from the dirt,\u003Cbr\u003E\nLest they break your teeth, and spoil all your sport,\u003Cbr\u003E\nThe rind of a lemon grated quite thin,\u003Cbr\u003E\nWill it no harm if the whole you put in ;\u003Cbr\u003E\nSix ounces sugar will not make it too sweet,\u003Cbr\u003E\nSome nutmeg and salt will make it complete;\u003Cbr\u003E\nNow boil it three hours without hurry or flutter.\u003Cbr\u003E\nAnd then serve it up with some good \u003Ca href=\u0022butter-sauce.html\u0022\u003E\u003Cb\u003Emelted butter.\u003C/b\u003E\u003C/a\u003E\u003C/blockquote\u003E\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "eve-s-pudding.html-2",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E);",
+      "receiptText": "\u003Cb\u003EEVE\u0027S PUDDING.\u003C/b\u003E\u003Cbr\u003E\nGrate three-quarters of a pound of bread; mix it with the same quantity of shred suet, the same of apples and also of currants; mix with these the whole of four eggs, and the rind of half a lemon shred fine. Put it into a shape; boil three hours, and serve with \u003Ca href=\u0022wine-sauce.html\u0022\u003E\u003Cb\u003Epudding sauce\u003C/b\u003E\u003C/a\u003E, the juice of half a lemon, and a little nutmeg.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Eve\u0027s Pudding Cake",
+      "relatedPageUrl": "eve-s-pudding-cake.html",
+      "relationDescription": "See: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "eaton-1822"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "walsh-1859"
+    }
+  ],
+  "title": "Eve\u0027s Pudding",
+  "usedSnapshot": "20220808002504"
+}

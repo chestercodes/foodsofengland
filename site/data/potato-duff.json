@@ -1,0 +1,46 @@
+﻿{
+  "earliestSnapshot": "20210127064613",
+  "finalPath": "potato-duff.html",
+  "heading": "Potato Duff",
+  "ingredients": [
+    "butter",
+    "currants",
+    "custard",
+    "egg",
+    "jam",
+    "lemon",
+    "milk",
+    "nutmeg",
+    "plum",
+    "potato",
+    "potatoes",
+    "raspberry",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "potato-duff.html-1",
+      "receiptSource": "Original Receipt from the Daily Herald - Friday 21 June 1935",
+      "receiptText": "\u003Cb\u003EPotato Duff\u003C/b\u003E\u003Cbr\u003E\nThen have you tried a plum duff made with potatoes? Mash 1lbboiled potatoes with a nut of butter and a little milk. Add 3oz. currants. 2oz. chopped peel, the grated rind and Juice of half a lemon, and three tablespoonfuls of sugar. Mix well. then stir a beaten egg and pinch of grated nutmeg. Spread buttered ple-dtsh with raspberry Jam, pour in the mixture, and bake In moderate oven for half an hour. Sprinkle with sugar and serve with custard.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpuds.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "puddings-and-sweet-deserts"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Potato Duff",
+  "usedSnapshot": "20210127064613"
+}

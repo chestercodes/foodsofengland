@@ -1,0 +1,42 @@
+﻿{
+  "earliestSnapshot": "20140212015803",
+  "finalPath": "marmalade-tart.html",
+  "heading": "Marmalade Tart",
+  "ingredients": [
+    "butter",
+    "eggs",
+    "jam",
+    "marmalade",
+    "pastry"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "marmalade-tart.html-1",
+      "receiptSource": "Original Receipt from advertisement in \u0027\u003Ci\u003EManchester Courier and Lancashire General Advertiser\u003C/i\u003E\u0027 - Monday 08 January 1883",
+      "receiptText": "Marmalade Tart.- Two tablespoonfuls of Hartley\u0027s Marmalade, 2 eggs, 2 oz butter, all beaten together; make the tart open and pour the contents in. Bake in a sharp oven. Or it may be made similarly to an open jam tart, putting the Marmalade on cold, after the pastry is baked. HARTLEY\u0027S MARMALADE IS GUARANTEED PURE\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listpies.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "pies-and-pastries"
+    },
+    {
+      "tagName": "keyword",
+      "tagValue": "Alex Bray"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Marmalade Tart",
+  "usedSnapshot": "20210512103343"
+}

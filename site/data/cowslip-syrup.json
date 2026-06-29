@@ -1,0 +1,44 @@
+﻿{
+  "earliestSnapshot": "20150922074337",
+  "finalPath": "cowslip-syrup.html",
+  "heading": "Cowslip Syrup",
+  "ingredients": [
+    "cowslip",
+    "powder sugar",
+    "sugar"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "cowslip-syrup.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EEnglish Housewifry\u003C/i\u003E\u0027 by Elizabeth Moxon, 1764 (\u003Ca href=\u0022references.html#moxon-1764\u0022\u003E\u003Cb\u003EMoxon 1764\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003E331. To make COWSLIP SYRRUP.\u003C/b\u003E\u003Cbr\u003E\nTake a quartern of fresh pick\u0027d cowslips, put to \u0027em a quart of boiling water, let \u0027em stand all night, and the next morning drain it from the cowslips; to every pint of water put a pound of fine powder sugar, and boil it over a slow fire; skim it all the time in the boiling whilst the skim has done rising; then take it off, and when it is cold put it into a bottle, and keep it for use.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsauces.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sauces-and-spicery"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "moxon-1764"
+    }
+  ],
+  "title": "Cowslip Syrup",
+  "usedSnapshot": "20220819103002"
+}

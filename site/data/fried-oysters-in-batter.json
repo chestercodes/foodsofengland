@@ -1,0 +1,66 @@
+﻿{
+  "earliestSnapshot": "20140616085446",
+  "finalPath": "fried-oysters-in-batter.html",
+  "heading": "Fried Oysters in Batter",
+  "ingredients": [
+    "bread",
+    "butter",
+    "egg",
+    "eggs",
+    "lard",
+    "oysters",
+    "white wine",
+    "flour",
+    "milk",
+    "nutmeg"
+  ],
+  "receiptCount": 2,
+  "receipts": [
+    {
+      "receiptId": "fried-oysters-in-batter.html-1",
+      "receiptSource": "Original Receipt in \u0027\u003Ci\u003EThe Country Housewife and Lady\u0027s Director\u003C/i\u003E\u0027 by Prof. R Bradley, 1728 (\u003Ca href=\u0022references.html#bradley-1728\u0022\u003E\u003Cb\u003EBradley 1728\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003ETo fry Oysters for a Plate, or the Garnish of \u003Ca href=\u0022st-edmundsbury-mutton.html\u0022\u003E\u003Cb\u003Ethe foregoing Dish\u003C/b\u003E\u003C/a\u003E.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMake a Batter of Eggs and Flower, Crumbs of Bread, and a little Mace, beaten fine. Stew some large Oysters in their own Liquor gently, and wipe them dry, and flower them: dip them, after this, in the Batter, and fry them in very hot Butter, or Lard, or Seam of an Hog; and they will be incrustated, or cover\u0027d, with a sort of Paste, which will be very agreeable, either for a Plate, or to garnish a Dish. If we have them alone, serve them with some of the Liquor, a little Butter, some White Wine, boiling first some Spices in the Liquor.\u003Cbr\u003E\n\u003Cbr\u003E\n[Elsewhere in the same text...]\u003Cbr\u003E\n\u003Cbr\u003E\nThe same Person who sent the foregoing Receipts, concerning Oysters, advises another way of roasting Oysters, which I think is a very good one, and not much known. It is, to take large Oysters, open them, and hang them by the finny part on a small Spit, after having first dipt them in the Yolk of an Egg, and roll\u0027d them in Crumbs of Bread; turn them three or four times before the Fire, and baste them gently with Butter, till the Crumbs of Bread are crisp upon them, and serve them hot.\u003Cbr\u003E"
+    },
+    {
+      "receiptId": "fried-oysters-in-batter.html-2",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003EA New System Of Domestic Cookery\u003C/i\u003E\u0027 by \u0027A Lady\u0027 (Mrs. Maria Eliza Ketelby Rundell) (\u003Ca href=\u0022references.html#rundell-1807\u0022\u003E\u003Cb\u003ERundell 1807\u003C/b\u003E\u003C/a\u003E)",
+      "receiptText": "\u003Cb\u003EFried Oysters to garnish boiled Fish.\u003C/b\u003E\u003Cbr\u003E\n\u003Cbr\u003E\nMake a batter, of flour, milk, and eggs; season it a very little; dip the oysters in it, and fry them a fine yellow brown. A little nutmeg should be put into the seasoning, and a few crumbs of bread into the flour.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003EFried Oysters\u003C/b\u003E",
+      "relatedPageUrl": "fried-oysters.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "class",
+      "tagValue": "fish"
+    },
+    {
+      "tagName": "subclass",
+      "tagValue": "historic"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "2"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "bradley-1728"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "rundell-1807"
+    }
+  ],
+  "title": "Fried Oysters in Batter",
+  "usedSnapshot": "20211207112517"
+}

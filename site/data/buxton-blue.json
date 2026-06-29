@@ -1,0 +1,30 @@
+﻿{
+  "earliestSnapshot": "20130808222038",
+  "finalPath": "buxton-blue.html",
+  "heading": "Buxton Blue",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listcheese.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "cheese"
+    },
+    {
+      "tagName": "locale",
+      "tagValue": "Derbyshire"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Buxton Blue",
+  "usedSnapshot": "20220705101002"
+}

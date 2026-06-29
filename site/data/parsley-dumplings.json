@@ -1,0 +1,47 @@
+﻿{
+  "earliestSnapshot": "20150922074051",
+  "finalPath": "parsley-dumplings.html",
+  "heading": "Parsley Dumplings",
+  "ingredients": [
+    "dumplings",
+    "fat",
+    "flour",
+    "onion",
+    "parsley",
+    "pepper",
+    "salt",
+    "self-raising flour"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "parsley-dumplings.html-1",
+      "receiptSource": "Original Receipt from \u0027\u003Ci\u003ECheltenham Chronicle\u003C/i\u003E\u0027 - Saturday 5 July 1947",
+      "receiptText": "\u003Cb\u003EPARSLEY DUMPLINGS\u003C/b\u003E These are excellent in a stew, or cooked in water and served with the main dish. Use 6 oz. self-raising flour, pinch of salt and pepper, 1 \u00BD ozs. dripping (or other fat), 1 small onion, finely grated, 1 tablespoonful chopped parsley, and cold water to mix. Sift the flour with the salt and pepper. Rub in the fat evenly, and mix in the onion and parsley. Form into a slack dough with the water, and cut into twelve equal pieces. Roll into balls, dust with flour and drop into saucepan of boiling salted water. Cover closely and cook for 15 minutes without removing lid. Drain and serve.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "\u003Cb\u003ENorfolk Stew with Green Dumplings\u003C/b\u003E",
+      "relatedPageUrl": "norfolk-stew-with-green-dumplings.html",
+      "relationDescription": "See also: "
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "categories.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "accompaniments"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    }
+  ],
+  "title": "Parsley Dumplings",
+  "usedSnapshot": "20210510055801"
+}

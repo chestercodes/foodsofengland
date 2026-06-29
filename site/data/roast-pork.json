@@ -1,0 +1,75 @@
+﻿{
+  "earliestSnapshot": "20130324050632",
+  "finalPath": "roast-pork.html",
+  "heading": "Roast Pork",
+  "ingredients": [
+    "apple",
+    "butter",
+    "gravy",
+    "onion",
+    "onions",
+    "pepper",
+    "pork",
+    "salt"
+  ],
+  "receiptCount": 1,
+  "receipts": [
+    {
+      "receiptId": "roast-pork.html-1",
+      "receiptSource": "Original Receipt in \u003Ca href=\u0022references.html#francatelli-1846\u0022\u003E\u003Cb\u003EFrancatelli 1846\u003C/b\u003E\u003C/a\u003E;",
+      "receiptText": "\u003Cb\u003E637 ROAST LEG OF PORK A L ANGLAISE\u003C/b\u003E\u003Cbr\u003E\nProcure a leg of fresh dairy fed pork make a large incision just below the knuckle between the skin and meat for the purpose of introducing the stuffing of sage and onion which must be secured by sewing it up with small twine, then with a sharp pointed knife score it all over in the following manner; with the left hand hold the pork firmly and with a very sharp knife score the skin across in parallel lines a quarter of an inch apart then spit the joint and roast it for about two hours and a half when done dish it up pour a rich brown gravy under it and send to table with apple sauce. The stuffing for the pork should be thus prepared chop a dozen sage leaves and six large onions, boil these in water for three minutes, and after having drained them on a sieve, put them into a stewpan with pepper and salt and a pat of butter, set the stuffing to simmer gently over a very slow fire for ten minutes, and then use it as directed above.\u003Cbr\u003E"
+    }
+  ],
+  "relatedPages": [
+    {
+      "relatedPageText": "Apple Sauce",
+      "relatedPageUrl": "apple-sauce.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Cabbage Cake",
+      "relatedPageUrl": "cabbage-cake.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Pork Crackling",
+      "relatedPageUrl": "pork-crackling.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Roast Pork",
+      "relatedPageUrl": "roast-pork.html",
+      "relationDescription": "See also:"
+    },
+    {
+      "relatedPageText": "Robert Sauce",
+      "relatedPageUrl": "robert-sauce.html",
+      "relationDescription": "See also:"
+    }
+  ],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listmeats.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "meats"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "1"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "francatelli-1846"
+    },
+    {
+      "tagName": "reference",
+      "tagValue": "mrs-b"
+    }
+  ],
+  "title": "Roast Pork",
+  "usedSnapshot": "20211018082323"
+}

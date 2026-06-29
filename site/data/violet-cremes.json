@@ -1,0 +1,26 @@
+﻿{
+  "earliestSnapshot": "20150922080740",
+  "finalPath": "violet-cremes.html",
+  "heading": "Violet Cremes",
+  "ingredients": [],
+  "receiptCount": 0,
+  "receipts": [],
+  "relatedPages": [],
+  "synonym": null,
+  "tags": [
+    {
+      "tagName": "list-page-reference",
+      "tagValue": "listsweetstoffee.htm"
+    },
+    {
+      "tagName": "class",
+      "tagValue": "sweets-and-toffee"
+    },
+    {
+      "tagName": "number-of-receipts",
+      "tagValue": "0"
+    }
+  ],
+  "title": "Violet Cremes",
+  "usedSnapshot": "20220516213826"
+}
