@@ -48,3 +48,12 @@ jobs:
           git tag $IMAGE_TAG
       - name: Push git tag
         run: git push origin $IMAGE_TAG
+
+      - name: Set image tag latest
+        run: IMAGE_TAG=latest && echo "IMAGE_TAG=$IMAGE_TAG" >> "$GITHUB_ENV"
+
+      - name: Build images to update tag
+        run: docker compose -f docker/build.yaml build --parallel
+
+      - name: push images latest
+        run: docker compose -f docker/build.yaml push
