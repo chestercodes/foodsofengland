@@ -7,53 +7,63 @@ on:
       - "*"
   schedule:
     - cron: "0 14 2 * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
 
       - name: Login to ghcr
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: docker login ghcr.io -u chestercodes -p $GITHUB_TOKEN
-
-      - name: Pull sdk image
-        run: docker pull mcr.microsoft.com/dotnet/sdk:10.0
-        shell: pwsh
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: chestercodes
+          password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set image tag
-        run: IMAGE_TAG=$(date +"v%y%m%d%H%M%S") && echo "IMAGE_TAG=$IMAGE_TAG" >> "$GITHUB_ENV"
+        run: echo "IMAGE_TAG=$(date +'v%y%m%d%H%M%S')" >> "$GITHUB_ENV"
 
-      - name: Build images in parallel
-        run: docker compose -f docker/build.yaml build --parallel
-
-      - name: Build inttests
+      - name: Build inttests (native amd64)
         run: docker compose -f docker/inttests.yaml build
-
-      - name: Pull inttests
-        run: docker compose -f docker/inttests.yaml pull
 
       - name: Run inttests
         run: docker compose -f docker/inttests.yaml up --exit-code-from tests --no-attach migrations
 
-      - name: push images
-        run: docker compose -f docker/build.yaml push
+      - name: Build and push Site multi-arch
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: docker/site.Dockerfile
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: |
+            ghcr.io/chestercodes/foodsofengland/site:${{ env.IMAGE_TAG }}
+            ghcr.io/chestercodes/foodsofengland/site:latest
+
+      - name: Build and push End2End multi-arch
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: docker/end2end.Dockerfile
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: |
+            ghcr.io/chestercodes/foodsofengland/end2end:${{ env.IMAGE_TAG }}
+            ghcr.io/chestercodes/foodsofengland/end2end:latest
 
       - name: Create git tag
         run: |
-          git tag $IMAGE_TAG
-      - name: Push git tag
-        run: git push origin $IMAGE_TAG
-
-      - name: Set image tag latest
-        run: IMAGE_TAG=latest && echo "IMAGE_TAG=$IMAGE_TAG" >> "$GITHUB_ENV"
-
-      - name: Build images to update tag
-        run: docker compose -f docker/build.yaml build --parallel
-
-      - name: push images latest
-        run: docker compose -f docker/build.yaml push
+          git tag ${{ env.IMAGE_TAG }}
+          git push origin ${{ env.IMAGE_TAG }}
