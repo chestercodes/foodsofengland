@@ -51,6 +51,8 @@ jobs:
           tags: |
             ghcr.io/chestercodes/foodsofengland/site:${{ env.IMAGE_TAG }}
             ghcr.io/chestercodes/foodsofengland/site:latest
+          cache-from: type=gha,scope=site
+          cache-to: type=gha,mode=max,scope=site
 
       - name: Build and push End2End multi-arch
         uses: docker/build-push-action@v5
@@ -62,6 +64,8 @@ jobs:
           tags: |
             ghcr.io/chestercodes/foodsofengland/end2end:${{ env.IMAGE_TAG }}
             ghcr.io/chestercodes/foodsofengland/end2end:latest
+          cache-from: type=gha,scope=end2end
+          cache-to: type=gha,mode=max,scope=end2end
 
       - name: Create git tag
         run: |

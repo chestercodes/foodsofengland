@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/dotnet/sdk:10.0 as base
+FROM --platform=$BUILDPLATFORM mcr.microsoft.com/dotnet/sdk:10.0 as base
+ARG TARGETARCH
 
 ENV REPO_ROOT=/src
 
@@ -13,7 +14,7 @@ RUN dotnet build -c Release
 # Run generator to build static files in wwwroot before publishing
 RUN dotnet run -c Release --no-build -- --generate-site
 
-RUN dotnet publish -c Release -o /app
+RUN dotnet publish -c Release -a ${TARGETARCH:-amd64} -o /app
 
 # Copy data directory to /app/site so the app can find it at runtime
 RUN mkdir -p /app/site && cp -r /src/site/data /app/site/data
